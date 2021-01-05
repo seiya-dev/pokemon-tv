@@ -1,0 +1,20 @@
+{
+    "name": "pokemon-tv-dumps",
+    "programName": "pokemon-tv-dumps",
+    "version": "1.0.0",
+    "description": "",
+    "main": "pokemon.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "pokemon",
+        "api"
+    ],
+    "author": "Seiya Dev.",
+    "license": "MIT",
+    "dependencies": {
+        "got": "^11.3.0",
+        "yargs": "^15.4.0"
+    }
+}
