@@ -76,9 +76,21 @@ async function getChannelApi(mediaList){
         if(c.media_type == 'non-animation'){
             continue;
         }
+        c.media = editMediaArr(c.media);
         fs.mkdirSync(dirPath(argv.cc), { recursive: true });
-        fs.writeFileSync(dirPath(argv.cc) + c.channel_id + '.json', JSON.stringify(c, null, '    '));
+        fs.writeFileSync(
+            dirPath(argv.cc) + c.channel_id + '.json',
+            JSON.stringify(c, null, '    ').replace('\n', '\r\n') + '\r\n'
+        );
     }
+}
+
+function editMediaArr(m){
+    for (let v in m){
+        delete m[v].count;
+        delete m[v].rating;
+    }
+    return m;
 }
 
 function dirPath(cc){
