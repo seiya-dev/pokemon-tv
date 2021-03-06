@@ -1,6 +1,6 @@
 {
     "channel_description": "Ash and Pikachu’s exciting adventures continue with new friends and new Pokémon! Watch Pokémon Journeys: The Series on Pokémon TV today!",
-    "stunt_channel": true,
+    "stunt_channel": false,
     "channel_name": "Pokémon Journeys: The Series",
     "media": [
         {
@@ -952,6 +952,56 @@
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jY/lwifd1EOano4MyR_HC6wV7KUL6q2OXL9g7ougs61Y/vtt/1/eng.vtt",
             "id": "9c774249452c4267b716d6ba29189d92",
             "size": 2693446269
+        },
+        {
+            "episode": "20",
+            "description": "Professor Cerise has a big event planned, and our heroes are the key to its success!",
+            "is_country_whitelist": false,
+            "title": "Dreams Are Made of These!",
+            "season": "23",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/roEH8E4vTlUjZkP3RuDmfM/skim/",
+            "is_new": false,
+            "country_codes": [
+                "JP",
+                "HK",
+                "VN",
+                "TH",
+                "NP",
+                "BD",
+                "ID",
+                "BN",
+                "KH",
+                "KP",
+                "US",
+                "KR",
+                "UM",
+                "WS",
+                "SG",
+                "MY",
+                "IN",
+                "MN",
+                "MM",
+                "MO",
+                "LA",
+                "PH",
+                "PK",
+                "AF",
+                "LK",
+                "PG",
+                "CN",
+                "TW"
+            ],
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oE/04XI2DX5rk-krEP9nfAZBDJlhs2VASmLXeeYEbdzo/en-gb-23-20.mp4",
+            "last_modified": 1614960544,
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nN/tCDQSr5aC1-jcGsD0KJtSMLYk03XMSXmRGcw6-M3s/en-gb-23-20-38d26dae621f2742cafe986dc3a8f24368aa0129.m3u8",
+            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nN/tCDQSr5aC1-jcGsD0KJtSMLYk03XMSXmRGcw6-M3s/vtt/1/eng.vtt",
+            "id": "ae8107f04e2f4e558d990fdd1b8399f3",
+            "size": 2698140050
         }
     ],
     "channel_creation_date": 1594656268,
@@ -963,7 +1013,7 @@
         "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-2048x1152.jpg",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-2732x940.jpg"
     },
-    "channel_update_date": 1602860860,
+    "channel_update_date": 1614961344,
     "media_type": "episode",
     "channel_status": ""
 }
