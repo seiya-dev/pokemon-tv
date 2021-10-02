@@ -1,0 +1,198 @@
+#notes{
+    display: none;
+    position: fixed;
+    z-index:102;
+    top: 5px;
+    left: 5px;
+}
+
+body{
+    background-color: #111;
+    margin: 0 auto;
+    text-align: center;
+}
+img{
+    vertical-align: top;
+}
+
+#main{
+    text-align: center;
+    margin: 0 auto;
+    /* width: 680px; */
+    font-size: 12px;
+    line-height: 16px;
+    font-family: verdana,tahoma,arial,sans-serif,"Lucida Sans";
+}
+
+.table {
+    display: table;
+}
+
+.cell {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#control{
+    margin: 5px 5px 2.5px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #fff;
+    position: sticky;
+    top: 5px;
+    z-index: 50;
+}
+
+#control < .pg_button{
+    padding-bottom: 0;
+}
+
+.photo{
+    margin: 2.5px;
+    padding: 5px;
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 5px;
+    vertical-align: top;
+}
+.table{
+    position: relative;
+    cursor: pointer;
+}
+.photo img{
+    max-width: 350px;
+    max-height: 200px;
+}
+.photo .cell{
+    width: 350px;
+    height: 200px;
+}
+.photo .info_cell{
+    width: 340px;
+    text-align: center;
+    position: absolute;
+    background-color: #fff9;
+    z-index: 2;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.photo .cellPoster{
+    width: 300px;
+    height: 400px;
+}
+
+.photo .cellPoster img{
+    max-width: 300px;
+    max-height: 400px;
+}
+
+.photo .info_cellPoster{
+    width: 290px;
+}
+
+#up{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-color: white;
+    padding: 2px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#up:hover{
+    text-decoration: underline;
+}
+
+#photobg{
+    position:fixed;
+    height:100%;
+    width:100%;
+    background:rgba(0,0,0,.9);
+    z-index:100;
+    display:none;
+    top:0;
+    left:0;
+}
+#photobg span{
+    font-size:50px;
+    line-height:.5;
+    position:absolute;
+    top:12px;
+    right:12px;
+    color:#f00;
+    cursor:pointer;
+}
+
+#photobg span:hover {
+    font-weight:900;
+    text-decoration:none;
+}
+#photobox{
+    display:none;
+    z-index:101;
+    background:#fff;
+    color:black;
+    left:50%;
+    top:50%;
+    padding:5px;
+    width:900px;
+    margin-left:-455px;
+    height:522px;
+    margin-top:-267px;
+    position:fixed;
+    overflow:hidden;
+    border-radius:5px;
+    /* resize: horizontal; */
+}
+#photobox video{
+    max-width: 900px;
+    max-height: 548px;
+}
+
+#pages_nav{
+    cursor: default;
+}
+
+.dtbut:not(:last-child),
+.pg_button:not(:last-child),
+.button.links:not(:first-child),
+.albbut:not(:first-child){
+    margin-right: 5px;
+}
+.pg_button.selected{
+    font-weight: 700;
+}
+.pg_button{
+    margin-bottom: 5px;
+}
+
+.button{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+.button:hover{
+    
+}
+.button:active{
+    position: relative;
+    top: 1px;
+}
+
+.padtop5 {
+    padding-top: 5px;
+}
+
+.remmarbot5{
+    margin-bottom: -5px;
+}
+
+#limelight_player{
+    width:900px;
+    height:505px;
+}

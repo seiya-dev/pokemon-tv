@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>Pokemon TV Viewer</title>
+    <link rel="stylesheet" href="css/normalize.css"/>
+    <link rel="stylesheet" href="css/page.css"/>
+    <script type="text/javascript" src="js/helpers.js"></script>
+    <script type="text/javascript" src="js/const.js"></script>
+    <script type="text/javascript" src="js/page.js"></script>
+    <!-- videojs -->
+    <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+    <script src="https://unpkg.com/@videojs/http-streaming/dist/videojs-http-streaming.min.js"></script>
+    <script src="https://unpkg.com/videojs-contrib-quality-levels/dist/videojs-contrib-quality-levels.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/video.js/dist/video-js.css" type="text/css"/>
+    <!-- /videojs -->
+</head>
+<body>
+
+<!-- saved id -->
+<textarea id="notes">
+</textarea>
+
+<!-- body -->
+<div id="main">
+    <div id="control">
+        <div id="selRegion">
+            <select id="region"></select>
+            <span id="get" class="button">Get</span>
+        </div>
+        <div id="pages"></div>
+        <div id="load"></div>
+    </div>
+    <div id="videos">
+    </div>
+</div>
+
+<!-- Box -->
+<div id="photobox">
+</div>
+<div id="photobg">
+<span>&#215;</span>
+</div>
+
+<!-- up -->
+<a id="up" href="#">[up]</a>
+
+</body>
+</html>
