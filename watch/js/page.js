@@ -59,7 +59,19 @@ async function loadRegion(){
     tvRegion = selEl('#region').value;
     
     try{
-        tvData = await getJson('data/' + tvRegion + '.json');
+        const tvChannels = await getJson('data/' + tvRegion + '.json');
+        tvData.channels = tvChannels;
+        tvData.data = tvChannels.map(data => {
+            return {
+                channel_id: data.channel_id,
+                channel_name: data.channel_name,
+                channel_description: data.channel_description,
+                channel_image: data.channel_images.dashboard_image_1125_1500,
+                category_id: data.category_id,
+                category: data.category,
+                order: data.order,
+            }
+        });
         cleanup('load');
         selEl('#load').classList.remove('padtop5');
         loadData();

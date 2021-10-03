@@ -17,7 +17,7 @@ const got = require('got').extend({
 const packageJson = require(path.join(__dirname, 'package.json'));
 console.log(`\n=== ${packageJson.programName} ${packageJson.version} ===\n`);
 const dbfolder = path.join(__dirname, '/database/');
-const dbfolderBk = path.join(__dirname, '/database_bk/');
+const dbfolderBk = path.join(__dirname, '/old_backups/');
 
 // regions
 const tvRegion = {
@@ -37,14 +37,10 @@ const tvRegion = {
     'se': 'Sverige',
 };
 
-const oldBk = [];
-
 // run app
 (async () => {
+    await indexOldBuckups();
     await tryChannelsApi();
-    for(let bk of oldBk){
-        parseBackupChannel(bk[0], bk[1]);
-    }
     indexDb();
 })();
 
@@ -57,6 +53,7 @@ async function tryChannelsApi(){
 
 // download channel
 async function getChannelApi(cc, mediaList){
+    console.log(`# ${cc} Downloading ${tvRegion[cc]} channel data...`);
     try{
         mediaList = await got(`https://www.pokemon.com/api/pokemontv/v2/channels/${cc}/`);
     }
@@ -64,7 +61,6 @@ async function getChannelApi(cc, mediaList){
         console.log(`[ERROR] Can't get video list, error code: ${e.code}`);
         return;
     }
-    console.log(`# ${cc} Downloading ${tvRegion[cc]} channel data...`);
     mediaList = JSON.parse(mediaList.body);
     for (const c of mediaList){
         if(c.media_type == 'non-animation'){
@@ -76,9 +72,29 @@ async function getChannelApi(cc, mediaList){
     }
 }
 
-async function parseBackupChannel(cc, file){
+async function indexOldBuckups(){
+    if(!fs.existsSync(dbfolderBk)){
+        return;
+    }
+    const oldDbFiles = fs.readdirSync(dbfolderBk);
+    if(!fs.existsSync(dbfolderBk + '/parsed/')){
+        fs.mkdirSync(dbfolderBk + '/parsed/');
+    }
+    for(const file of oldDbFiles){
+        if(!file.match(/\.json$/)){
+            continue;
+        }
+        parseBackupChannel(file);
+    }
+}
+
+async function parseBackupChannel(file, cc, date){
+    cc = file.split('.')[0];
+    date = file.split('.')[1];
     const data = require(dbfolderBk + file);
+    const ltable = [];
     for(let c of data){
+        c.channel_images = fixImgObj(c.channel_images);
         const chImg = c.channel_images.dashboard_image_1125_1500;
         const cat = findCat(c, chImg);
         
@@ -86,10 +102,16 @@ async function parseBackupChannel(cc, file){
             continue;
         }
         
-        console.log(cat.category, chImg);
         c.media = editMediaArr(c.media);
-        saveData(dirPath(cc) + c.channel_id + '.json', c);
+        ltable.push({ cat: cat.category, ch: c.channel_id, img: chImgRplc(chImg), v: c.media.length });
+        saveData(dbfolderBk + '/parsed/' + cc + '_' + date + '_' + c.channel_id + '.json', c);
     }
+    console.log('Backup @ %s %s', cc, date);
+    console.table(ltable);
+}
+
+function chImgRplc(img){
+    return img.replace(/https:\/\/assets.pokemon.com\/assets\/cms2(-\w{2})?(-\w{2})?\/img\/watch-pokemon-tv\/pokemon-tv-app/, '');
 }
 
 // fix media
@@ -97,8 +119,26 @@ function editMediaArr(m){
     for (let v in m){
         delete m[v].count;
         delete m[v].rating;
+        m[v].images = fixImgObj(m[v].images);
+        m[v].stream_url  = fixUrl(m[v].stream_url);
+        m[v].captions    = fixUrl(m[v].captions);
+        m[v].offline_url = fixUrl(m[v].offline_url);
     }
     return m;
+}
+
+function fixImgObj(obj){
+    for(let k of Object.keys(obj)){
+        obj[k] = fixUrl(obj[k]);
+    }
+    return obj;
+}
+
+function fixUrl(url){
+    if(url.match('web.archive.org')){
+         url = url.replace(/https?:\/\/web\.archive\.org\/web\/\d+\//, '');
+    }
+    return url;
 }
 
 // make dir path
@@ -115,17 +155,23 @@ function indexDb(){
     for(let cc of Object.keys(tvRegion)){
         console.log(`# ${cc} Indexing ${tvRegion[cc]} channel data...`);
         const ccfolder = fs.readdirSync(dirPath(cc));
-        dbData[cc] = { data: [], channels: [] };
+        dbData[cc] = [];
         for(let f of ccfolder){
             const data = require(dirPath(cc) + f);
             const chImg = data.channel_images.dashboard_image_1125_1500;
             const cat = findCat(data, chImg);
-            
             Object.assign(data, cat);
-            data.order = data.watch_now_order;
+            data.order = data.channel_creation_date * -1;
             
-            if(data.category_id == 2 || data.category_id == 9){
-                data.order = data.channel_creation_date * -1;
+            if(data.category_id == 1){
+                const ssNum = chImg.match(/\/season(\d+)\//);
+                if(ssNum){
+                    let idxNum = parseInt(ssNum[1]) * -1000;
+                    data.order = idxNum;
+                }
+                else{
+                    console.log('[WARN] Cant find season num:', chImg);
+                }
             }
             if(data.category_id == 3){
                 const movNum = chImg.match(/\/movie(\d+)\//);
@@ -141,22 +187,38 @@ function indexDb(){
                 }
             }
             
-            const chanData = {
+            const chData = {
                 channel_id: data.channel_id,
                 channel_name: data.channel_name,
-                stunt_channel: data.stunt_channel,
-                channel_image: chImg,
-                media_type: data.media_type,
-                order: data.order,
+                channel_description: data.channel_description,
+                channel_images: data.channel_images,
                 category_id: data.category_id,
                 category: data.category,
+                order: data.order,
+                channel_creation_date: data.channel_creation_date,
+                channel_update_date: data.channel_update_date,
+                media: [],
             };
             
-            dbData[cc].data.push(chanData);
-            dbData[cc].channels.push(data);
+            for(let m of data.media){
+                const mediaData = {
+                    id: m.id,
+                    season: m.season,
+                    episode: m.episode,
+                    title: m.title,
+                    description: m.description,
+                    images: m.images,
+                    stream_url: m.stream_url,
+                    captions: m.captions,
+                    offline_url: m.offline_url,
+                    size: m.size,
+                };
+                chData.media.push(mediaData);
+            }
+            
+            dbData[cc].push(chData);
         }
-        dbData[cc].data.sort(sortItems);
-        dbData[cc].channels.sort(sortItems);
+        dbData[cc].sort(sortItems);
         saveData('watch/data/' + cc + '.json', dbData[cc]);
     }
 }

@@ -1,4 +1,3 @@
-const tvPath = 'https://seiya-git.github.io/pokemon-tv-dumps/database';
 const videoPathReq = 'https://production-ps.lvp.llnw.net/r/PlaylistService/media';
 
 const tvRegions = {
