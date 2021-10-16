@@ -92,3 +92,20 @@ function addEl(data){
     return newEl;
 }
 
+function u2s(url){
+    return url.replace(/^http:/,'https:');
+}
+
+function rtmp2dl(url){
+    let rtmpLimelightDomain = url.split(':')[1].split('/')[2];
+    let httpLimelightDomain = limelightDomains[rtmpLimelightDomain] ?
+            limelightDomains[rtmpLimelightDomain] : rtmpLimelightDomain.replace(/\.csl\./,'.cpl.');
+    let path   = url.split(':')[2];
+    return `https://${httpLimelightDomain}/${path}`;
+}
+
+const limelightDomains = {
+    's2.csl.delvenetworks.com': 's2.cpl.delvenetworks.com',
+    's2.csl.video.llnw.net':    's2.content.video.llnw.net',
+};
+

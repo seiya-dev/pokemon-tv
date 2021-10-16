@@ -1,9 +1,10 @@
 // build-in modules
 const fs   = require('fs');
 const path = require('path');
+const ProxyAgent = require('proxy-agent');
 
-// req module
-const got = require('got').extend({
+// got config
+const gotCfg = {
     headers: { 
         'user-agent': [
             'Mozilla/5.0',
@@ -11,7 +12,18 @@ const got = require('got').extend({
             'Gecko/20100101 Firefox/70.0',
         ].join(' '),
     },
-});
+};
+
+// proxy
+const myArgs = process.argv.slice(2);
+const proxy = myArgs[0] && myArgs[0] != '' ? myArgs[0] : '';
+
+if(proxy != ''){
+    gotCfg.agent = { https: new ProxyAgent(proxy) };
+}
+
+// req module
+const got = require('got').extend(gotCfg);
 
 // program
 const packageJson = require(path.join(__dirname, 'package.json'));

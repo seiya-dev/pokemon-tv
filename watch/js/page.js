@@ -173,7 +173,7 @@ async function showChannel(){
         const infoCell  = addEl({ type: 'div', class: ['info_cell'] });
         let title = '';
         if(v.season != '' && v.episode != ''){
-            title += `S${v.season}E${v.episode} - `;
+            title += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
         }
         title += v.title;
         infoCell.appendChild(addEl({ type: 'span', text: title }));
@@ -211,29 +211,9 @@ async function showPhotoBox(){
     selEl('#photobox').style.display = 'block';
     selEl('#photobg').addEventListener('click', hidePhotoBox, false);
     
-    let videoData;
-    
-    try{
-        videoData = await getJson(`${videoPathReq}/${video_id}/getPlaylistByMediaId`);
-    }
-    catch(e){
-        console.log('Cant fetch video!');
-        console.log(e);
-        return;
-    }
-    
-    let streams = videoData.playlistItems[0].streams, bitrate = 0, url = '';
-    
-    for(let s in streams){
-        if(bitrate < streams[s].videoBitRate){
-            bitrate = streams[s].videoBitRate;
-            url = rtmp2dl(streams[s].url);
-        }
-    }
-    
     let title = '';
     if(v.season != '' && v.episode != ''){
-        title += `S${v.season}E${v.episode} - `;
+        title += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
     }
     title += v.title;
     
@@ -245,10 +225,40 @@ async function showPhotoBox(){
     
     const mainTitleEl = document.createElement('div');
     mainTitleEl.appendChild(videoTitleEl);
-    
     selEl('#photobox').appendChild(mainTitleEl);
-    selEl('#photobox').appendChild(genVideoTag(url));
-    player = videojs('#' + pl_id);
+    
+    let videoData, errMsg;
+    
+    try{
+        videoData = await getJson(`${videoPathReq}/${video_id}/getPlaylistByMediaId`);
+    }
+    catch(e){
+        errMsg  = 'Cant fetch video! ';
+        errMsg += e.message;
+    }
+    
+    if(videoData){
+        let streams = videoData.playlistItems[0].streams, bitrate = 0, url = '';
+        
+        for(let s in streams){
+            if(bitrate < streams[s].videoBitRate){
+                bitrate = streams[s].videoBitRate;
+                url = rtmp2dl(streams[s].url);
+            }
+        }
+        
+        selEl('#photobox').appendChild(genVideoTag(url));
+        player = videojs('#' + pl_id);
+    }
+    if(errMsg){
+        const videoErrEl  = addEl({
+            type: 'span',
+            text: errMsg,
+        });
+        const videoErrDiv = document.createElement('div');
+        videoErrDiv.appendChild(videoErrEl);
+        selEl('#photobox').appendChild(videoErrDiv);
+    }
 }
 
 function hidePhotoBox(){
@@ -275,20 +285,3 @@ function genVideoTag(video){
     mainEl.appendChild(videoEl);
     return mainEl;
 }
-
-function u2s(url){
-    return url.replace(/^http:/,'https:');
-}
-
-function rtmp2dl(url){
-    let rtmpLimelightDomain = url.split(':')[1].split('/')[2];
-    let httpLimelightDomain = limelightDomains[rtmpLimelightDomain] ?
-            limelightDomains[rtmpLimelightDomain] : rtmpLimelightDomain.replace(/\.csl\./,'.cpl.');
-    let path   = url.split(':')[2];
-    return `https://${httpLimelightDomain}/${path}`;
-}
-
-const limelightDomains = {
-    's2.csl.delvenetworks.com': 's2.cpl.delvenetworks.com',
-    's2.csl.video.llnw.net':    's2.content.video.llnw.net',
-};
