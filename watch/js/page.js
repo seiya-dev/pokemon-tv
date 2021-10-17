@@ -217,6 +217,14 @@ async function showPhotoBox(){
     }
     title += v.title;
     
+    const videoChannelEl  = addEl({
+        type: 'a',
+        href: `?cc=${tvRegion}&channel=${channel}`,
+        text: '[c]', // curCannel[0].channel_name
+    });
+    
+    const vidTitleSpace = addEl({ type: 'span', text: ' ' });
+    
     const videoTitleEl  = addEl({
         type: curCannel[0].category_id != 2 ? 'a' : 'span',
         href: `?cc=${tvRegion}&video=${video_id}`,
@@ -224,6 +232,8 @@ async function showPhotoBox(){
     });
     
     const mainTitleEl = document.createElement('div');
+    mainTitleEl.appendChild(videoChannelEl);
+    mainTitleEl.appendChild(vidTitleSpace);
     mainTitleEl.appendChild(videoTitleEl);
     selEl('#photobox').appendChild(mainTitleEl);
     

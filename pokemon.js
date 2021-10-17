@@ -53,7 +53,7 @@ const tvRegion = {
 (async () => {
     await indexOldBuckups();
     await tryChannelsApi();
-    indexDb();
+    await indexDb();
 })();
 
 // try channels
@@ -80,8 +80,29 @@ async function getChannelApi(cc, mediaList){
         }
         c.media = editMediaArr(c.media);
         fs.mkdirSync(dirPath(cc), { recursive: true });
-        saveData(dirPath(cc) + c.channel_id + '.json', c);
+        const channelId = await getChannelId(c);
+        saveData(dirPath(cc) + channelId + '.json', c);
     }
+}
+
+async function getChannelId(c){
+    const chImg = c.channel_images.dashboard_image_1125_1500;
+    const chId = chImgClean(chImg).split('/').slice(0, -1);
+    const cat = findCat(c, chImg);
+    
+    if(chId.length == 1 && chImg.match(/\/movie14w/)){
+        chId[0] = 'movie14w';
+    }
+    
+    if(chId.length == 1 && chImg.match(/\/movie14b/)){
+        chId[0] = 'movie14b';
+    }
+    
+    if(cat.name != ''){
+        chId.unshift(cat.name);
+    }
+    
+    return chId.join('-');
 }
 
 async function indexOldBuckups(){
@@ -108,22 +129,23 @@ async function parseBackupChannel(file, cc, date){
     for(let c of data){
         c.channel_images = fixImgObj(c.channel_images);
         const chImg = c.channel_images.dashboard_image_1125_1500;
-        const cat = findCat(c, chImg);
         
         if(cat.category_id == 1 && chImg.match(/vol/)){
             continue;
         }
         
         c.media = editMediaArr(c.media);
-        ltable.push({ cat: cat.category, ch: c.channel_id, img: chImgRplc(chImg), v: c.media.length });
-        saveData(dbfolderBk + '/parsed/' + cc + '_' + date + '_' + c.channel_id + '.json', c);
+        const channelId = await getChannelId(c);
+        
+        ltable.push({ ch: channelId, img: chImgRplc(chImg), v: c.media.length });
+        saveData(dbfolderBk + '/parsed/' + cc + '_' + date + '_' + channelId + '.json', c);
     }
     console.log('Backup @ %s %s', cc, date);
     console.table(ltable);
 }
 
-function chImgRplc(img){
-    return img.replace(/https:\/\/assets.pokemon.com\/assets\/cms2(-\w{2})?(-\w{2})?\/img\/watch-pokemon-tv\/pokemon-tv-app/, '');
+function chImgClean(img){
+    return img.split('/').slice(8).join('/');
 }
 
 // fix media
@@ -155,14 +177,18 @@ function fixUrl(url){
 
 // make dir path
 function dirPath(cc){
-    return dbfolder + '/' + cc + '/';
+    return dbfolder + cc + '/';
 }
 
 function saveData(path, data){
-    fs.writeFileSync(path, JSON.stringify(data, null, '    ').replace('\n', '\r\n') + '\r\n');
+    const jsonStr = JSON.stringify(data, null, '    ')
+        // .replace('\n', '\r\n') + '\r\n'
+        // .replace(/\r/g, '').replace(/\n/g, '\r\n') + '\r\n';
+        + '\n';
+    fs.writeFileSync(path, jsonStr);
 }
 
-function indexDb(){
+async function indexDb(){
     const dbData = {};
     for(let cc of Object.keys(tvRegion)){
         console.log(`# ${cc} Indexing ${tvRegion[cc]} channel data...`);
@@ -200,7 +226,8 @@ function indexDb(){
             }
             
             const chData = {
-                channel_id: data.channel_id,
+                channel_id: await getChannelId(data),
+                channel_id_ext: data.channel_id,
                 channel_name: data.channel_name,
                 channel_description: data.channel_description,
                 channel_images: data.channel_images,
@@ -240,26 +267,32 @@ function findCat(data, chImg){
     if(data.media_type == 'episode' && !chImg.match(/\/stunts\//)){
         cat.category_id = 1;
         cat.category = 'Series';
+        cat.name = 'series';
     }
     else if(chImg.match(/\/stunts\//)){
         cat.category_id = 2;
         cat.category = 'Stuns';
+        cat.name = '';
     }
     else if(data.media_type == 'movie'){
         cat.category_id = 3;
         cat.category = 'Movies';
+        cat.name = 'movies';
     }
     else if(data.media_type == 'original'){
         cat.category_id = 4;
         cat.category = 'Specials';
+        cat.name = 'original';
     }
     else if(data.media_type == 'junior'){
         cat.category_id = 5;
         cat.category = 'Junior';
+        cat.name = 'junior';
     }
     else{
         cat.category_id = 9;
         cat.category = 'Unsorted';
+        cat.name = 'unsorted';
     }
     return cat;
 }
