@@ -182,9 +182,7 @@ function dirPath(cc){
 
 function saveData(path, data){
     const jsonStr = JSON.stringify(data, null, '    ')
-        // .replace('\n', '\r\n') + '\r\n'
-        // .replace(/\r/g, '').replace(/\n/g, '\r\n') + '\r\n';
-        + '\n';
+        .replace(/\r/g, '').replace(/\n/g, '\r\n') + '\r\n';
     fs.writeFileSync(path, jsonStr);
 }
 
