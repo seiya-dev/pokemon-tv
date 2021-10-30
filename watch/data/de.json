@@ -20512,6 +20512,42 @@
         ]
     },
     {
+        "channel_id": "movies-movie20",
+        "channel_id_ext": "pokemon-der-film-du-bist-dran",
+        "channel_name": "Pokémon – Der Film: Du bist dran!",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-de.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-de.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-de.png"
+        },
+        "category_id": 3,
+        "category": "Movies",
+        "order": -20000,
+        "channel_creation_date": 1519701325,
+        "channel_update_date": 1635520560,
+        "media": [
+            {
+                "id": "3e6a0e99aca8404e8381d6a63eaa9f00",
+                "season": "",
+                "episode": "",
+                "title": "Pokémon – Der Film: Du bist dran!",
+                "description": "Erst schnappst du dir eins, dann schnappst du dir alle!",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ex/DM3e9ponJkS2KHp_msLHPld0uo6oiWayVeEBzhnU0/pokemon_movie20_ger-2d8c69a41f421308c02a6365b3bef9524666df12.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uf/68Ye4LAV00teGkx0lkI7i3RekST-19N48712qOLe0/pokemon_movie20_ger.mp4",
+                "size": 12179186526
+            }
+        ]
+    },
+    {
         "channel_id": "original-origins",
         "channel_id_ext": "pokemon-origins",
         "channel_name": "Pokémon Origins",
@@ -21051,7 +21087,7 @@
         "category": "Specials",
         "order": -1631197349,
         "channel_creation_date": 1631197349,
-        "channel_update_date": 1634922032,
+        "channel_update_date": 1635520560,
         "media": [
             {
                 "id": "4a0381f62c9a4fd4acc1a28c5f9807c3",
@@ -21113,7 +21149,7 @@
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep04_ss01_360_206.png"
                 },
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y-/OLyjiVJ5nW-Fmdr5x9NHOO8-fP1071tkS01v6U0xI/pokemonevolutions_season01_ep04_ger-7c8b606a7d46ea4c49f7a93ff4de818956680adb.m3u8",
-                "captions": "",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y-/OLyjiVJ5nW-Fmdr5x9NHOO8-fP1071tkS01v6U0xI/vtt/1/de.vtt",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sw/HL6LJ--3HcwBt_r7wa7TxL00Kf3d89jpX9izj4zyA/pokemonevolutions_season01_ep04_ger.mp4",
                 "size": 1206931544
             }

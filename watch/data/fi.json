@@ -11071,5 +11071,41 @@
                 "size": 11709911217
             }
         ]
+    },
+    {
+        "channel_id": "movies-movie20",
+        "channel_id_ext": "pokemon-elokuva-valitsen-sinut",
+        "channel_name": "Pokémon-elokuva: Valitsen sinut!",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-en.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-en.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-en.png"
+        },
+        "category_id": 3,
+        "category": "Movies",
+        "order": -20000,
+        "channel_creation_date": 1519762616,
+        "channel_update_date": 1635520627,
+        "media": [
+            {
+                "id": "96084b86da3b471cac58f67a4c9cd2cd",
+                "season": "",
+                "episode": "",
+                "title": "Pokémon-elokuva: Valitsen sinut!",
+                "description": "Yksi kerrallaan ne omakseni saan…",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZI/dgeuYrMimJn_MZaXMCpIXqZq5EV_uQBiUp2v8dmtY/pokemon_movie20_fin-91c559e2391ab1a5d1c38581fed351a368e38318.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/o8ZdmKSvIa0GKnw9lzAQTuNJC2TqHIhmULeJFY0xY/pokemon_movie20_fin.mp4",
+                "size": 12150706485
+            }
+        ]
     }
 ]

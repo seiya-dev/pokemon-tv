@@ -20512,6 +20512,42 @@
         ]
     },
     {
+        "channel_id": "movies-movie20",
+        "channel_id_ext": "film-pokemon-scelgo-te",
+        "channel_name": "Film Pokémon Scelgo te!",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-it.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-it.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-it.png"
+        },
+        "category_id": 3,
+        "category": "Movies",
+        "order": -20000,
+        "channel_creation_date": 1519696526,
+        "channel_update_date": 1635523795,
+        "media": [
+            {
+                "id": "e8a36de9a9024aab9ac5befbf6f7c1a4",
+                "season": "",
+                "episode": "",
+                "title": "Scelgo te!",
+                "description": "Per acchiapparli tutti bisogna ben iniziare dal primo...",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w5/V6CvJefy5aVsf5hvPeBejS-PF7nePBLxsI3meg9I4/pokemon_movie20_ita-6288cbcde3c61b636744f6f07101665bcfc7d31b.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ca/kduF-cu-NMz_A3VHwt410hF6UaANXplQsoFnE27Nc/pokemon_movie20_ita.mp4",
+                "size": 12154459448
+            }
+        ]
+    },
+    {
         "channel_id": "original-origins",
         "channel_id_ext": "le-origini",
         "channel_name": "Le origini",
@@ -21067,7 +21103,7 @@
         "category": "Specials",
         "order": -1631197667,
         "channel_creation_date": 1631197667,
-        "channel_update_date": 1634922416,
+        "channel_update_date": 1635523795,
         "media": [
             {
                 "id": "05a7df5f29af4d0faecd310f20f2cab4",
@@ -21129,7 +21165,7 @@
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep04_ss01_360_206.png"
                 },
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5P/FsLZs2xLKceFPS0Ba8NbUQmo9hmxWT7ho3XsVY4iA/pokemonevolutions_season01_ep04_ita-d03224cf52d0a5d459f661b91aff403ddb1bb823.m3u8",
-                "captions": "",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5P/FsLZs2xLKceFPS0Ba8NbUQmo9hmxWT7ho3XsVY4iA/vtt/1/it.vtt",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dk/FHdJXB8-BQMCb407WPMqix_XEAsUPdzyPJMQaKjk0/pokemonevolutions_season01_ep04_ita.mp4",
                 "size": 1230969482
             }
