@@ -127,18 +127,23 @@ async function parseBackupChannel(file, cc, date){
     const data = require(dbfolderBk + file);
     const ltable = [];
     for(let c of data){
-        c.channel_images = fixImgObj(c.channel_images);
-        const chImg = c.channel_images.dashboard_image_1125_1500;
+        if(c.media_type == 'non-animation'){
+            continue;
+        }
         
+        c.channel_images = fixImgObj(c.channel_images);
+        c.media = editMediaArr(c.media);
+        
+        const chImg = c.channel_images.dashboard_image_1125_1500;
+        const cat = findCat(data, chImg);
+        const channelId = await getChannelId(c);
         if(cat.category_id == 1 && chImg.match(/vol/)){
             continue;
         }
         
-        c.media = editMediaArr(c.media);
-        const channelId = await getChannelId(c);
-        
-        ltable.push({ ch: channelId, img: chImgRplc(chImg), v: c.media.length });
-        saveData(dbfolderBk + '/parsed/' + cc + '_' + date + '_' + channelId + '.json', c);
+        const file = channelId + ( cat.category_id == 2 ? '_' + date : '' );
+        ltable.push({ ch: channelId, img: chImgClean(chImg), v: c.media.length });
+        saveData(dbfolderBk + '/parsed/' + file + '.json', c);
     }
     console.log('Backup @ %s %s', cc, date);
     console.table(ltable);
@@ -157,6 +162,9 @@ function editMediaArr(m){
         m[v].stream_url  = fixUrl(m[v].stream_url);
         m[v].captions    = fixUrl(m[v].captions);
         m[v].offline_url = fixUrl(m[v].offline_url);
+        if(m[v].skimming_thumbnail_url_base){
+            m[v].skimming_thumbnail_url_base = fixUrl(m[v].skimming_thumbnail_url_base);
+        }
     }
     return m;
 }
