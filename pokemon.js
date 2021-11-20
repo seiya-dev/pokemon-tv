@@ -141,7 +141,7 @@ async function parseBackupChannel(file, cc, date){
             continue;
         }
         
-        const file = channelId + ( cat.category_id == 2 ? '_' + date : '' );
+        const file = cc + '_' + channelId + ( cat.category_id == 2 ? '_' + date : '' );
         ltable.push({ ch: channelId, img: chImgClean(chImg), v: c.media.length });
         saveData(dbfolderBk + '/parsed/' + file + '.json', c);
     }
