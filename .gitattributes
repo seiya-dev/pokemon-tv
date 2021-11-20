@@ -1,2 +1,5 @@
-* text=auto
-* text eol=crlf
+*.js text eol=crlf whitespace=blank-at-eol,-blank-at-eof,indent-with-non-tab,tabwidth=4
+*.json text eol=crlf whitespace=blank-at-eol,-blank-at-eof,indent-with-non-tab,tabwidth=4
+*.html text eol=crlf whitespace=blank-at-eol,-blank-at-eof,indent-with-non-tab,tabwidth=4
+*.css text eol=crlf whitespace=blank-at-eol,-blank-at-eof,indent-with-non-tab,tabwidth=4
+*.md text eol=crlf whitespace=blank-at-eol,-blank-at-eof,indent-with-non-tab,tabwidth=4
