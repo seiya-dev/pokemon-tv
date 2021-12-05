@@ -1,45 +1,8 @@
 // set get button
 document.addEventListener('DOMContentLoaded', async () => {
-    uri = new URL(location);
-    for(let o of Object.keys(tvRegions)){
-        const modeOpt = addEl({type: 'option', value: o, text: tvRegions[o]});
-        selEl('#region').appendChild(modeOpt);
-        if(uri.searchParams.get('cc') == o){
-            selEl('#region').value = o;
-            tvRegion = o;
-        }
-    }
-    if(tvRegion != ''){
-        await loadRegion();
-        if(uri.searchParams.get('video')){
-            for(let c of tvData.channels){
-                let selVideo = c.media.filter(v => v.id == uri.searchParams.get('video') && c.category_id != 2);
-                if(selVideo.length > 0){
-                    channel  = c.channel_id;
-                    video_id = uri.searchParams.get('video');
-                }
-            }
-            if(video_id != ''){
-                showChannel();
-                await showPhotoBox();
-            }
-        }
-        else if(uri.searchParams.get('channel')){
-            let selChan = tvData.channels.filter(c => c.channel_id == uri.searchParams.get('channel'));
-            if(selChan.length > 0){
-                channel  = uri.searchParams.get('channel');
-            }
-            if(channel != ''){
-                showChannel();
-            }
-        }
-    }
-    selEl('#selRegion .button').addEventListener('click', async () => {
-        await loadRegion();
-    }, false);
+    await loadMain();
 });
 
-let uri = {};
 let tvData = {};
 let cats = [];
 
@@ -47,16 +10,84 @@ let tvRegion = '';
 let channel  = '';
 let video_id = '';
 
-const pl_id = 'limelight_player';
+const pl_id = 'player_cc';
 let player;
 
+function uriLoader(){
+    uri = new URL(location);
+    uri = uri.hash.replace(/^#/, '');
+    uri = new URL(uri, 'https://watch.pokemon.com');
+    
+    const regDefType = '(channel|video|)?$';
+    const regUri = new RegExp(`^\/(${Object.keys(tvRegions).join('|')})/${regDefType}`);
+    const uriData = uri.pathname.match(regUri);
+    
+    if(!uriData){
+        window.location.hash = '#/us/';
+        return uriLoader();
+    }
+    
+    return { uri, regUri, uriData };
+}
+
+async function loadMain(cc){
+    if(cc && `/${cc}/`.match(uriLoader()['regUri'])){
+        window.location.hash = `#/${cc}/`;
+    }
+    
+    const uriData = uriLoader()['uriData'];
+    
+    tvRegion = uriData[1];
+    const regionLoaded = await loadRegion();
+    
+    if(uriData[2] == 'video' && uriLoader()['uri'].searchParams.get('id')){
+        for(let c of tvData.channels){
+            let selVideo = c.media.filter(v => v.id ==  uriLoader()['uri'].searchParams.get('id') && c.category_id != 2);
+            if(selVideo.length > 0){
+                channel  = c.channel_id;
+                video_id = uriLoader()['uri'].searchParams.get('id')
+            }
+        }
+    }
+    else if(uriData[2] == 'channel' && uriLoader()['uri'].searchParams.get('id')){
+        let selChan = tvData.channels.filter(c => c.channel_id == uriLoader()['uri'].searchParams.get('id'));
+        if(selChan.length > 0){
+            channel = uriLoader()['uri'].searchParams.get('id');
+        }
+    }
+    
+    if(regionLoaded){
+        loadData();
+        if(channel != ''){
+            await showChannel();
+        }
+        if(video_id != ''){
+            await showVideoBox();
+        }
+    }
+    
+    for(let o of Object.keys(tvRegions)){
+        const modeOpt = addEl({type: 'option', value: o, text: tvRegions[o]});
+        selEl('#region').appendChild(modeOpt);
+    }
+    
+    selEl('#selRegion .button').addEventListener('click', async () => {
+        tvRegion = selEl('#region').value;
+        window.location.hash = `#/${tvRegion}/`;
+        uriLoader();
+        const lr = await loadRegion();
+        if(lr){
+            await loadData();
+        }
+    }, false);
+}
+
 async function loadRegion(){
-    cleanup('load');
+    if(document.getElementById('load')){
+        document.getElementById('load').remove();
+    }
     
-    selEl('#load').classList.add('padtop5');
-    selEl('#load').append('<span>Loading...</span>');
-    
-    tvRegion = selEl('#region').value;
+    selEl('#pages').append('<button id="load">Loading...</button>');
     
     try{
         const tvChannels = await getJson('data/' + tvRegion + '.json');
@@ -72,22 +103,24 @@ async function loadRegion(){
                 order: data.order,
             }
         });
-        cleanup('load');
-        selEl('#load').classList.remove('padtop5');
-        loadData();
+        document.getElementById('load').remove();
+        return true;
     }
     catch(e){
-        cleanup('load');
-        selEl('#load').classList.add('padtop5');
-        selEl('#load').append('<span>Cant fetch tv data!</span>');
-        console.log('Cant fetch tv data!');
+        document.getElementById('load').remove();
+        selEl('#pages').append('<button id="load">Can\'t fetch TV data!</button>');
         console.log(e);
+        return false;
     }
 }
 
 function loadData(){
     cleanup('pages');
     cats = [];
+    
+    if(!tvData.data){
+        return;
+    }
     
     for(let s of tvData.data){
         if(cats.indexOf(s.category) < 0){
@@ -96,48 +129,77 @@ function loadData(){
     }
     
     for(let c of cats){
-        const pgbtn = addEl({type: 'span', class: ['button'], text: c});
-        pgbtn.addEventListener('click',()=>{ loadCat(c); }, false);
+        const pgbtn = addEl({type: 'button', class: [], text: c});
+        pgbtn.addEventListener('click',()=>{ channel = ''; video_id = ''; loadCat(c); }, false);
         selEl('#pages').appendChild(pgbtn);
-        selEl('#pages').append('<span> </span>');
     }
+    
     loadCat(cats[0]);
 }
 
-
 function loadCat(cat){
-    cleanup('videos');
+    
+    cleanup('bodyContent');
+    
+    if(channel == '' && video_id == ''){
+        window.location.hash = `#/${tvRegion}/`;
+        uriLoader();
+    }
+    
+    if(channel != '' && video_id == ''){
+        window.location.hash = `#/${tvRegion}/channel?id=${channel}`;
+        uriLoader();
+    }
+    
+    const catScreen = addEl({
+        type: 'div',
+        class: ['c-category-screen'],
+    });
+    
+    const row = addEl({
+        id: 'posters',
+        type: 'div',
+        class: ['row'],
+    });
+    
+    const h1 = addEl({
+        id: 'catTitle',
+        type: 'h1',
+        class: ['col-12'],
+        text: cat,
+    });
+    
+    row.appendChild(h1);
+    catScreen.appendChild(row);
+    selEl('#bodyContent').appendChild(catScreen);
+    
     for(let s of tvData.data){
         if(s.category == cat){
+            
             const prevImg   = addEl({
                 type: 'img',
                 alt: s.channel_id,
                 src: s.channel_image,
             });
+            
+            const contCellLink = addEl({
+                type: 'span',
+            });
+            
             const contCell = addEl({
                 type: 'div',
-                class: ['cell','cellPoster'],
+                class: ['channel-tile', 'col-6', 'col-md-4', 'col-xl-3'],
             });
-            contCell.addEventListener('click', () => {
+            
+            contCellLink.addEventListener('click', () => {
                 channel = s.channel_id;
                 showChannel();
             }, false);
-            contCell.appendChild(prevImg);
-            const contTable = addEl({
-                type: 'div',
-                class: ['table'],
-            });
-            const infoCell  = addEl({ type: 'div', class: ['info_cell', 'info_cellPoster'] });
-            infoCell.appendChild(addEl({ type: 'span', text: s.channel_name }));
-            contTable.appendChild(infoCell);
-            contTable.appendChild(contCell);
-            const contdiv = addEl({
-                type: 'div',
-                id: s.channel_id,
-                class: ['photo']
-            });
-            contdiv.appendChild(contTable);
-            selEl('#videos').appendChild(contdiv);
+            
+            contCellLink.appendChild(prevImg);
+            contCell.appendChild(contCellLink);
+            selEl('#posters').appendChild(contCell);
+            
         }
     }
 }
@@ -149,48 +211,188 @@ async function showChannel(){
         return;
     }
     
-    cleanup('videos');
+    cleanup('bodyContent');
+    
+    window.location.hash = `#/${tvRegion}/channel?id=` + channel;
+    uriLoader();
+    
+    const hSection  = addEl({
+        type: 'section',
+        class: ['c-season-hero', 'col-12'],
+    });
+    
+    const hContainer = addEl({
+        type: 'div',
+        class: ['hero-container', 'col-5'],
+    });
+    
+    let chanImg2 = curCannel[0].channel_images.spotlight_image_2048_1152;
+    let chanImg1 = curCannel[0].channel_images.spotlight_image_1660_940;
+    
+    
+    let chanImg = chanImg2 && chanImg2 != '' ? chanImg2 : '';
+    chanImg = chanImg1 && chanImg1 != '' ? chanImg1 : chanImg;
+    chanImg = chanImg != '' ? chanImg : 'img/channel.png';
+    
+    
+    const hImg = addEl({
+        type: 'img',
+        src: chanImg,
+        class: ['hero-background'],
+    });
+    
+    hContainer.appendChild(hImg);
+    hSection.appendChild(hContainer);
+    
+    const sInfoWrap = addEl({
+        type: 'div',
+        class: ['season-info-wrapper', 'col-lg-7'],
+    });
+    
+    const sInfoWrap2 = addEl({
+        type: 'div',
+        class: ['bottom-season-info', 'row', 'col-12'],
+    });
+    
+    if(curCannel[0].category_id == 1){
+        const sTVInfoWrap = addEl({
+            type: 'div',
+            class: ['row', 'align-items-end'],
+        });
+        const sTVInfoSn = addEl({
+            type: 'h3',
+            class: ['d-inline', 'pr-2'],
+            text: `Season ${curCannel[0].order / -1000}`,
+        });
+        const sTVInfoEn = addEl({
+            type: 'h6',
+            class: ['d-inline'],
+            text: `${curCannel[0].media.length} Episodes`,
+        });
+        
+        sTVInfoWrap.appendChild(sTVInfoSn);
+        sTVInfoWrap.appendChild(sTVInfoEn);
+        sInfoWrap2.appendChild(sTVInfoWrap);
+    }
+    
+    const sInfoSnWrap = addEl({
+        type: 'div',
+        class: ['row'],
+    });
+    
+    const sInfoSn = addEl({
+        type: 'h2',
+        text: curCannel[0].channel_name,
+    });
+    
+    const sInfoSdWrap = addEl({
+        type: 'div',
+        class: ['row', 'season-description'],
+    });
+    
+    const sInfoSd = addEl({
+        type: 'h5',
+        text: curCannel[0].channel_description,
+        class: ['p-0', 'col-12'],
+    });
+    
+    sInfoSnWrap.appendChild(sInfoSn);
+    sInfoWrap2.appendChild(sInfoSnWrap);
+    
+    sInfoSdWrap.appendChild(sInfoSd);
+    sInfoWrap2.appendChild(sInfoSdWrap);
+    
+    sInfoWrap.appendChild(sInfoWrap2);
+    hSection.appendChild(sInfoWrap);
+    
+    selEl('#bodyContent').appendChild(hSection);
+    
+    const vSection = addEl({
+        type: 'section',
+        class: ['c-episode-carousel', 'c-season-episodes'],
+    });
+    
+    const vContainer = addEl({
+        type: 'div',
+        class: ['row', 'episode-card'],
+    });
     
     for(let v of curCannel[0].media){
-        const prevImg   = addEl({
-            type: 'img',
-            alt: v.id,
-            src: v.images.large,
-        });
-        const contCell = addEl({
+        
+        const vCont = addEl({
             type: 'div',
-            class: ['cell'],
+            class: ['episode-thumbnail', 'col-12'],
         });
-        contCell.addEventListener('click', () => {
+        
+        const pCont = addEl({
+            type: 'div',
+            class: ['episode-img-cover', 'col-12', 'col-md-4', 'col-lg-3'],
+        });
+        
+        const pTile = addEl({
+            type: 'div',
+            class: ['episode-tile'],
+        });
+        
+        pTile.addEventListener('click', () => {
             video_id = v.id;
-            showPhotoBox();
+            showVideoBox();
         }, false);
-        contCell.appendChild(prevImg);
-        const contTable = addEl({
-            type: 'div',
-            class: ['table'],
+        
+        const pImg = addEl({
+            type: 'img',
+            src: v.images.medium
         });
-        const infoCell  = addEl({ type: 'div', class: ['info_cell'] });
-        let title = '';
-        if(v.season != '' && v.episode != ''){
-            title += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
+        
+        pTile.appendChild(pImg)
+        pCont.appendChild(pTile);
+        vCont.appendChild(pCont);
+        
+        const tCont = addEl({
+            type: 'div',
+            class: ['tile-episode-info', 'col-12', 'col-md-8', 'col-lg-9'],
+        });
+        
+        if(v.episode != ''){
+            const epNum = addEl({
+                type: 'p',
+                class: ['tile-episode-number'],
+                text: `Episode ${v.episode}`,
+            });
+            tCont.appendChild(epNum);
         }
-        title += v.title;
-        infoCell.appendChild(addEl({ type: 'span', text: title }));
-        contTable.appendChild(infoCell);
-        contTable.appendChild(contCell);
-        const contdiv = addEl({
-            type: 'div',
-            id: v.id,
-            class: ['photo']
+        
+        const epTitle = addEl({
+            type: 'h4',
+            text: v.title,
         });
-        contdiv.appendChild(contTable);
-        selEl('#videos').appendChild(contdiv);
+        
+        const epDesc = addEl({
+            type: 'p',
+            class: ['episode-description-p', 'col-12', 'col-md-7'],
+            text: v.description,
+        });
+        
+        tCont.appendChild(epTitle);
+        tCont.appendChild(epDesc);
+        vCont.appendChild(tCont);
+        
+        const hr = addEl({
+            type: 'hr',
+            class: ['tile-episode-divider'],
+        });
+        
+        vCont.appendChild(hr);
+        vContainer.appendChild(vCont);
+        
     }
+    
+    vSection.appendChild(vContainer);
+    selEl('#bodyContent').appendChild(vSection);
     
 }
 
-async function showPhotoBox(){
+async function showVideoBox(){
     const curCannel = tvData.channels.filter(s => s.channel_id == channel);
     
     if(curCannel.length < 1){
@@ -203,13 +405,16 @@ async function showPhotoBox(){
         return;
     }
     
+    window.location.hash = `#/${tvRegion}/video?id=` + video_id;
+    uriLoader();
+    
     cleanup('photobox');
     const v = curVideo[0];
     
     selEl('body').style.overflow = 'hidden';
     selEl('#photobg').style.display = 'block';
     selEl('#photobox').style.display = 'block';
-    selEl('#photobg').addEventListener('click', hidePhotoBox, false);
+    selEl('#photobg').addEventListener('click', hideVideoBox, false);
     
     let title = '';
     if(v.season != '' && v.episode != ''){
@@ -217,23 +422,14 @@ async function showPhotoBox(){
     }
     title += v.title;
     
-    const videoChannelEl  = addEl({
-        type: 'a',
-        href: `?cc=${tvRegion}&channel=${channel}`,
-        text: '[c]', // curCannel[0].channel_name
-    });
-    
-    const vidTitleSpace = addEl({ type: 'span', text: ' ' });
-    
     const videoTitleEl  = addEl({
         type: curCannel[0].category_id != 2 ? 'a' : 'span',
-        href: `?cc=${tvRegion}&video=${video_id}`,
+        href: `#/${tvRegion}/video?id=${video_id}`,
         text: title,
     });
     
     const mainTitleEl = document.createElement('div');
-    mainTitleEl.appendChild(videoChannelEl);
-    mainTitleEl.appendChild(vidTitleSpace);
+    mainTitleEl.id = 'ep-title';
     mainTitleEl.appendChild(videoTitleEl);
     selEl('#photobox').appendChild(mainTitleEl);
     
@@ -243,7 +439,7 @@ async function showPhotoBox(){
         videoData = await getJson(`${videoPathReq}/${video_id}/getPlaylistByMediaId`);
     }
     catch(e){
-        errMsg  = 'Cant fetch video! ';
+        errMsg  = 'Can\'t fetch video! ';
         errMsg += e.message;
     }
     
@@ -271,14 +467,18 @@ async function showPhotoBox(){
     }
 }
 
-function hidePhotoBox(){
+function hideVideoBox(){
     if(player && player.player_){
         player.dispose();
     }
-    selEl('#photobg').removeEventListener('click', hidePhotoBox, false);
+    
+    selEl('#photobg').removeEventListener('click', hideVideoBox, false);
     selEl('#photobox').style.display = 'none';
     selEl('#photobg').style.display = 'none';
     selEl('body').style.overflow = 'auto';
+    
+    window.location.hash = `#/${tvRegion}/channel?id=` + channel;
+    uriLoader();
 }
 
 function genVideoTag(video){
@@ -290,7 +490,7 @@ function genVideoTag(video){
     videoEl.controls  = 'controls';
     const sourceEl    = document.createElement('source');
     sourceEl.src      = video;
-    sourceEl.type     = video.match(/\.m3u8$/) ? 'application/x-mpegURL' : 'video/mp4';
+    sourceEl.type     = 'video/mp4';
     videoEl.appendChild(sourceEl);
     mainEl.appendChild(videoEl);
     return mainEl;

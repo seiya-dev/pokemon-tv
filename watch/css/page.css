@@ -1,109 +1,107 @@
-#notes{
-    display: none;
-    position: fixed;
-    z-index:102;
-    top: 5px;
-    left: 5px;
+@font-face{
+    font-family:FlexoHeavy;
+    src: url(../fonts/flexo-heavy.woff);
 }
+
+@font-face {
+    font-family: FlexoMedium;
+    src: url(../fonts/flexo-medium.woff);
+}
+
+@font-face { 
+    font-family: FlexoDemi;
+    src: url(../fonts/flexo-demi.woff);
+}
+
+@font-face {
+    font-family: FlexoThin;
+    src: url(../fonts/flexo-thin.woff);
+}
+
+@font-face {
+    font-family: FlexoRegular;
+    src: url(../fonts/flexo.woff);
+}
+
+@font-face {
+    font-family: FlexoBold;
+    src: url(../fonts/flexo-bold.woff);
+}
+
+/*
+@font-face{font-family:FlexoHeavy;  src:url(/styles/fonts/flexo-heavy-webfont.woff) format("woff");font-weight:400;font-style:normal}
+@font-face{font-family:FlexoMedium; src:url(/styles/fonts/flexo_2_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
+@font-face{font-family:FlexoDemi;   src:url(/styles/fonts/flexo_4_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
+@font-face{font-family:FlexoThin;   src:url(/styles/fonts/flexo_0_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
+@font-face{font-family:FlexoRegular;src:url(/styles/fonts/flexo_1_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
+@font-face{font-family:FlexoBold;   src:url(/styles/fonts/flexo_5_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
+*/
 
 body{
-    background-color: #111;
-    margin: 0 auto;
-    text-align: center;
-}
-img{
-    vertical-align: top;
+    background-color: black !important;
 }
 
-#main{
-    text-align: center;
-    margin: 0 auto;
-    /* width: 680px; */
-    font-size: 12px;
-    line-height: 16px;
-    font-family: verdana,tahoma,arial,sans-serif,"Lucida Sans";
+.s-header {
+    height: unset;
 }
 
-.table {
-    display: table;
+#navbar button, select, #get {
+    border: 0;
+    background-color: unset;
+    font-family: FlexoBold;
+    font-size: large;
+    min-width: 100px;
+    height: 50px;
+    border-radius: .25rem;
+    margin-left: 5px;
 }
 
-.cell {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
+select {
+    width: 200px;
 }
 
-#control{
-    margin: 5px 5px 2.5px;
-    padding: 5px;
-    border-radius: 5px;
-    text-align: center;
-    background-color: #fff;
-    position: sticky;
-    top: 5px;
-    z-index: 50;
+option {
+    font-family: FlexoBold;
 }
 
-#control < .pg_button{
-    padding-bottom: 0;
+select, #get {
+    background-color: white;
+    border: 1px sloid black;
 }
 
-.photo{
-    margin: 2.5px;
-    padding: 5px;
-    display: inline-block;
-    background-color: #fff;
-    border-radius: 5px;
-    vertical-align: top;
+#get{
+    padding: 14px 35px;
 }
-.table{
-    position: relative;
+
+#navbar button:hover{
+    background-color: rgba(255,255,255,.25);
     cursor: pointer;
 }
-.photo img{
-    max-width: 350px;
-    max-height: 200px;
-}
-.photo .cell{
-    width: 350px;
-    height: 200px;
-}
-.photo .info_cell{
-    width: 340px;
-    text-align: center;
-    position: absolute;
-    background-color: #fff9;
-    z-index: 2;
-    padding: 5px;
-    border-radius: 5px;
+
+#catTitle{
+    padding-top: 30px;
+    height: 60px;
 }
 
-.photo .cellPoster{
-    width: 300px;
-    height: 400px;
+#posters span:hover, select:hover, #get:hover {
+    cursor: pointer;
 }
 
-.photo .cellPoster img{
-    max-width: 300px;
-    max-height: 400px;
+.season-info-wrapper {
+    padding: 20px 30px 20px 30px !important;
 }
 
-.photo .info_cellPoster{
-    width: 290px;
+.s-footer {
+    background-image: url(../img/background_footer.png);
 }
 
-#up{
-    position: fixed;
-    right: 10px;
-    bottom: 10px;
-    background-color: white;
-    padding: 2px;
-    border-radius: 5px;
-    text-decoration: none;
+.s-footer .legal-container {
+    margin-top: 0px;
+    padding-top: 50px;
 }
-#up:hover{
-    text-decoration: underline;
+
+.s-footer .legal-links {
+    padding-bottom: 50px !important;
 }
 
 #photobg{
@@ -111,7 +109,7 @@ img{
     height:100%;
     width:100%;
     background:rgba(0,0,0,.9);
-    z-index:100;
+    z-index:10000;
     display:none;
     top:0;
     left:0;
@@ -130,9 +128,9 @@ img{
     font-weight:900;
     text-decoration:none;
 }
-#photobox{
+#photobox {
     display:none;
-    z-index:101;
+    z-index:10001;
     background:#fff;
     color:black;
     left:50%;
@@ -145,54 +143,65 @@ img{
     position:fixed;
     overflow:hidden;
     border-radius:5px;
-    /* resize: horizontal; */
 }
+
+#photobox #ep-title {
+    line-height: normal;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
 #photobox video{
-    max-width: 900px;
-    max-height: 548px;
+    max-width: 890px;
+    max-height: 492px;
 }
 
-#pages_nav{
-    cursor: default;
+#player_cc{
+    width: 890px;
+    height: 492px;
 }
 
-.dtbut:not(:last-child),
-.pg_button:not(:last-child),
-.button.links:not(:first-child),
-.albbut:not(:first-child){
-    margin-right: 5px;
-}
-.pg_button.selected{
-    font-weight: 700;
-}
-.pg_button{
-    margin-bottom: 5px;
+/* ушкины фиксы */
+
+#pages {
+    flex-wrap: wrap;
 }
 
-.button{
-    padding: 5px;
-    border: 1px solid black;
-    border-radius: 5px;
-    display: inline-block;
+@media only screen and (max-width: 768px) {
+    .nav-home-logo {
+        flex-grow:10;
+        text-align: center;
+    }
+    .nav-home-logo img {
+        margin-left: 0 !important;
+        margin-bottom: 10px;
+    }
+    #pages {
+        justify-content:  center;
+    }
+}
+
+.episode-img-cover {
     cursor: pointer;
 }
-.button:hover{
-    
-}
-.button:active{
-    position: relative;
-    top: 1px;
+
+#photobox .vjs-fullscreen video {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.padtop5 {
-    padding-top: 5px;
+.channel-tile:hover img {
+    filter: contrast(120%) brightness(1.1);
 }
 
-.remmarbot5{
-    margin-bottom: -5px;
-}
-
-#limelight_player{
-    width:900px;
-    height:505px;
+#photobox {background: #000; text-align: center;height: auto !important;min-height: 400px; color: #d3dce3}
+#ep-title {padding-top: 15px}
+#ep-title a, 
+#ep-title a:hover {cursor: default;color: #fff; font-size: 110%; text-decoration: none;}
+#ep-title + div {margin-top: 20px}
+#photobox .video-js .vjs-big-play-button {
+    left: 50%;
+    margin-left: -1.5em;
+    top: 50%;
+    margin-top: -0.81666em;
 }

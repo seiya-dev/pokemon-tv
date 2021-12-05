@@ -3,37 +3,37 @@
 <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <title>Pokemon TV Viewer</title>
-    <link rel="stylesheet" href="css/normalize.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <title>Watch Pokémon TV</title>
+    <!-- libs -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"/>
+    <!-- main -->
+    <link rel="stylesheet" href="css/main.css"/>
     <link rel="stylesheet" href="css/page.css"/>
     <script type="text/javascript" src="js/helpers.js"></script>
     <script type="text/javascript" src="js/const.js"></script>
     <script type="text/javascript" src="js/page.js"></script>
     <!-- videojs -->
-    <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
-    <script src="https://unpkg.com/@videojs/http-streaming/dist/videojs-http-streaming.min.js"></script>
-    <script src="https://unpkg.com/videojs-contrib-quality-levels/dist/videojs-contrib-quality-levels.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/video.js/dist/video-js.css" type="text/css"/>
-    <!-- /videojs -->
+    <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
 </head>
-<body>
+<body id="body">
 
-<!-- saved id -->
-<textarea id="notes">
-</textarea>
+<header id="pokemonHeader" class="s-header sticky-top">
+    <div class="container">
+        <nav id="navbar" class="navbar">
+            <span class="nav-home-logo mr-md-3">
+                <img src="img/PTVLogo.svg" alt="" class="ptv-logo">
+            </span>
+            <nav id="pages" class="ml-0"></nav>
+        </nav>
+    </div>
+</header>
 
-<!-- body -->
-<div id="main">
-    <div id="control">
-        <div id="selRegion">
-            <select id="region"></select>
-            <span id="get" class="button">Get</span>
-        </div>
-        <div id="pages"></div>
-        <div id="load"></div>
-    </div>
-    <div id="videos">
-    </div>
+
+
+<div id="bodyContent" class="gradient-background">
 </div>
 
 <!-- Box -->
@@ -43,8 +43,26 @@
 <span>&#215;</span>
 </div>
 
-<!-- up -->
-<a id="up" href="#">[up]</a>
+<footer class="s-footer">
+    <div class="container">
+        <div class="legal-container text-center">
+            <h3 class="p-3">Pokémon TV</h3>
+            <div id="selRegion">
+                <select id="region"></select>
+                <span id="get" class="button">Get</span>
+            </div>
+            <div class="legal-links p-3">
+                <ul class="flex-wrap justify-content-center">
+                    <li><a target="_blank" href="https://github.com/seiya-git/pokemon-tv-dumps">Source code</a></li>
+                    <hr>
+                    <li><a target="_blank" href="https://www.pokemon.com/us/privacy-notice">Privacy Notice</a></li>
+                    <hr>
+                    <li><a target="_blank" href="https://www.pokemon.com/us/terms-of-use">Terms of Use</a></li>
+                </ul>
+            </div>
+        </div>
+    </div> 
+</footer>
 
 </body>
 </html>
