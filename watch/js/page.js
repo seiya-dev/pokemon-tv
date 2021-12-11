@@ -458,12 +458,26 @@ async function showVideoBox(){
         player = videojs('#' + pl_id);
     }
     if(errMsg){
-        const videoErrEl  = addEl({
+        const videoErrEl1 = addEl({
             type: 'span',
             text: errMsg,
         });
+        const videoErrEl2 = addEl({
+            type: 'br',
+        });
+        const videoErrEl3 = addEl({
+            type: 'span',
+            text: 'Tip: Try another region.',
+        });
+        const videoErrElCont  = addEl({
+            type: 'div',
+        });
+        videoErrElCont.appendChild(videoErrEl1);
+        videoErrElCont.appendChild(videoErrEl2);
+        videoErrElCont.appendChild(videoErrEl3);
         const videoErrDiv = document.createElement('div');
-        videoErrDiv.appendChild(videoErrEl);
+        videoErrDiv.id = 'video-error';
+        videoErrDiv.appendChild(videoErrElCont);
         selEl('#photobox').appendChild(videoErrDiv);
     }
 }
