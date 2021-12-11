@@ -10,7 +10,7 @@ let tvRegion = '';
 let channel  = '';
 let video_id = '';
 
-const pl_id = 'player_cc';
+const pl_id = 'vjs-player';
 let player;
 
 function uriLoader(){
@@ -423,8 +423,9 @@ async function showVideoBox(){
     title += v.title;
     
     const videoTitleEl  = addEl({
-        type: curCannel[0].category_id != 2 ? 'a' : 'span',
-        href: `#/${tvRegion}/video?id=${video_id}`,
+        // type: curCannel[0].category_id != 2 ? 'a' : 'span',
+        // href: `#/${tvRegion}/video?id=${video_id}`,
+        type: 'span',
         text: title,
     });
     

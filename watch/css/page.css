@@ -1,43 +1,29 @@
-@font-face{
+@font-face {
     font-family:FlexoHeavy;
     src: url(../fonts/flexo-heavy.woff);
 }
-
 @font-face {
     font-family: FlexoMedium;
     src: url(../fonts/flexo-medium.woff);
 }
-
 @font-face { 
     font-family: FlexoDemi;
     src: url(../fonts/flexo-demi.woff);
 }
-
 @font-face {
     font-family: FlexoThin;
     src: url(../fonts/flexo-thin.woff);
 }
-
 @font-face {
     font-family: FlexoRegular;
     src: url(../fonts/flexo.woff);
 }
-
 @font-face {
     font-family: FlexoBold;
     src: url(../fonts/flexo-bold.woff);
 }
 
-/*
-@font-face{font-family:FlexoHeavy;  src:url(/styles/fonts/flexo-heavy-webfont.woff) format("woff");font-weight:400;font-style:normal}
-@font-face{font-family:FlexoMedium; src:url(/styles/fonts/flexo_2_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
-@font-face{font-family:FlexoDemi;   src:url(/styles/fonts/flexo_4_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
-@font-face{font-family:FlexoThin;   src:url(/styles/fonts/flexo_0_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
-@font-face{font-family:FlexoRegular;src:url(/styles/fonts/flexo_1_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
-@font-face{font-family:FlexoBold;   src:url(/styles/fonts/flexo_5_0-webfont.woff)   format("woff");font-weight:400;font-style:normal}
-*/
-
-body{
+body {
     background-color: black !important;
 }
 
@@ -45,7 +31,7 @@ body{
     height: unset;
 }
 
-#navbar button, select, #get {
+#navbar button {
     border: 0;
     background-color: unset;
     font-family: FlexoBold;
@@ -56,39 +42,34 @@ body{
     margin-left: 5px;
 }
 
-select {
-    width: 200px;
-}
-
-option {
-    font-family: FlexoBold;
-}
-
-select, #get {
-    background-color: white;
-    border: 1px sloid black;
-}
-
-#get{
-    padding: 14px 35px;
-}
-
-#navbar button:hover{
+#navbar button:hover {
     background-color: rgba(255,255,255,.25);
     cursor: pointer;
 }
 
-#catTitle{
+#pages {
+    flex-wrap: wrap;
+}
+
+#catTitle {
     padding-top: 30px;
     height: 60px;
 }
 
-#posters span:hover, select:hover, #get:hover {
+#posters span:hover, select:hover, #change:hover {
     cursor: pointer;
+}
+
+.channel-tile:hover img {
+    filter: contrast(110%) brightness(1.1);
 }
 
 .season-info-wrapper {
     padding: 20px 30px 20px 30px !important;
+}
+
+.episode-img-cover {
+    cursor: pointer;
 }
 
 .s-footer {
@@ -104,7 +85,29 @@ select, #get {
     padding-bottom: 50px !important;
 }
 
-#photobg{
+#selRegion {
+    font-family: FlexoBold;
+}
+
+#region, #change {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+}
+
+#region {
+    height: 50px;
+}
+
+#change {
+    padding: 5px;
+    line-height: 38px;
+    display: inline-block;
+}
+
+#photobg {
     position:fixed;
     height:100%;
     width:100%;
@@ -114,7 +117,8 @@ select, #get {
     top:0;
     left:0;
 }
-#photobg span{
+
+#photobg span {
     font-size:50px;
     line-height:.5;
     position:absolute;
@@ -125,9 +129,10 @@ select, #get {
 }
 
 #photobg span:hover {
-    font-weight:900;
-    text-decoration:none;
+    font-weight: 900;
+    text-decoration: none;
 }
+
 #photobox {
     display:none;
     z-index:10001;
@@ -151,25 +156,31 @@ select, #get {
     margin-bottom: 2px;
 }
 
-#photobox video{
+#photobox video {
     max-width: 890px;
     max-height: 492px;
 }
 
-#player_cc{
+#vjs-player {
     width: 890px;
     height: 492px;
 }
 
-/* ушкины фиксы */
+.vjs-fullscreen video {
+    max-width: 100%;
+    max-height: 100%;
+}
 
-#pages {
-    flex-wrap: wrap;
+#vjs-player .vjs-big-play-button {
+    left: 50%;
+    margin-left: -1.5em;
+    top: 50%;
+    margin-top: -0.81666em;
 }
 
 @media only screen and (max-width: 768px) {
     .nav-home-logo {
-        flex-grow:10;
+        flex-grow: 10;
         text-align: center;
     }
     .nav-home-logo img {
@@ -177,31 +188,6 @@ select, #get {
         margin-bottom: 10px;
     }
     #pages {
-        justify-content:  center;
+        justify-content: center;
     }
-}
-
-.episode-img-cover {
-    cursor: pointer;
-}
-
-#photobox .vjs-fullscreen video {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-.channel-tile:hover img {
-    filter: contrast(120%) brightness(1.1);
-}
-
-#photobox {background: #000; text-align: center;height: auto !important;min-height: 400px; color: #d3dce3}
-#ep-title {padding-top: 15px}
-#ep-title a, 
-#ep-title a:hover {cursor: default;color: #fff; font-size: 110%; text-decoration: none;}
-#ep-title + div {margin-top: 20px}
-#photobox .video-js .vjs-big-play-button {
-    left: 50%;
-    margin-left: -1.5em;
-    top: 50%;
-    margin-top: -0.81666em;
 }
