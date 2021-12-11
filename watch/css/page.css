@@ -108,24 +108,24 @@ body {
 }
 
 #photobg {
-    position:fixed;
-    height:100%;
-    width:100%;
-    background:rgba(0,0,0,.9);
-    z-index:10000;
-    display:none;
-    top:0;
-    left:0;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,.9);
+    z-index: 10000;
+    display: none;
+    top: 0;
+    left: 0;
 }
 
 #photobg span {
-    font-size:50px;
-    line-height:.5;
-    position:absolute;
-    top:12px;
-    right:12px;
-    color:#f00;
-    cursor:pointer;
+    font-size: 50px;
+    line-height: .5;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    color: #f00;
+    cursor: pointer;
 }
 
 #photobg span:hover {
@@ -134,20 +134,19 @@ body {
 }
 
 #photobox {
-    display:none;
-    z-index:10001;
-    background:#fff;
-    color:black;
-    left:50%;
-    top:50%;
-    padding:5px;
-    width:900px;
-    margin-left:-455px;
-    height:522px;
-    margin-top:-267px;
-    position:fixed;
-    overflow:hidden;
-    border-radius:5px;
+    display: none;
+    z-index: 10001;
+    position: fixed;
+    overflow: hidden;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 5px;
+    height: 522px;
+    width: 900px;
+    background: #fff;
+    color: black;
+    border-radius: 5px;
 }
 
 #photobox #ep-title {
@@ -173,9 +172,8 @@ body {
 
 #vjs-player .vjs-big-play-button {
     left: 50%;
-    margin-left: -1.5em;
     top: 50%;
-    margin-top: -0.81666em;
+    transform: translate(-50%, -50%);
 }
 
 @media only screen and (max-width: 768px) {

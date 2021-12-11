@@ -483,7 +483,6 @@ function hideVideoBox(){
 }
 
 function genVideoTag(video){
-    const mainEl      = document.createElement('div');
     const videoEl     = document.createElement('video');
     videoEl.id        = pl_id;
     videoEl.className = 'video-js';
@@ -493,6 +492,5 @@ function genVideoTag(video){
     sourceEl.src      = video;
     sourceEl.type     = 'video/mp4';
     videoEl.appendChild(sourceEl);
-    mainEl.appendChild(videoEl);
-    return mainEl;
+    return videoEl;
 }
