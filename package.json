@@ -1,9 +1,10 @@
 {
     "name": "pokemon-tv-dumps",
     "programName": "pokemon-tv-dumps",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "",
     "main": "pokemon.js",
+    "type": "module",
     "scripts": {
         "start": "node pokemon.js",
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +16,7 @@
     "author": "Seiya Dev.",
     "license": "MIT",
     "dependencies": {
-        "got": "^11.8.2",
+        "got": "^12.0.0",
         "proxy-agent": "^5.0.0"
     }
 }

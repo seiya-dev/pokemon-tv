@@ -73,6 +73,7 @@ async function loadMain(cc){
     
     selEl('#selRegion .button').addEventListener('click', async () => {
         tvRegion = selEl('#region').value;
+        channel = '';
         window.location.hash = `#/${tvRegion}/`;
         uriLoader();
         const lr = await loadRegion();

@@ -1,7 +1,13 @@
+// ESM to CJS
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+
 // build-in modules
 const fs   = require('fs');
 const path = require('path');
-const ProxyAgent = require('proxy-agent');
+
+// CJS var
+const __dirname = path.resolve();
 
 // got config
 const gotCfg = {
@@ -18,12 +24,15 @@ const gotCfg = {
 const myArgs = process.argv.slice(2);
 const proxy = myArgs[0] && myArgs[0] != '' ? myArgs[0] : '';
 
+// set proxy agent
 if(proxy != ''){
+    const ProxyAgent = require('proxy-agent');
     gotCfg.agent = { https: new ProxyAgent(proxy) };
 }
 
 // req module
-const got = require('got').extend(gotCfg);
+import gm from 'got';
+const got = gm.extend(gotCfg);
 
 // program
 const packageJson = require(path.join(__dirname, 'package.json'));
