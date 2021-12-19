@@ -83,6 +83,7 @@ function addEl(data){
         'loop',
         'download',
         'loading',
+        'title',
     ];
     for(let o of optsColl){
         if(o in data){

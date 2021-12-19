@@ -175,11 +175,12 @@ function loadCat(cat){
     catScreen.appendChild(row);
     selEl('#bodyContent').appendChild(catScreen);
     
-    for(let s of tvData.data){
+    for(const s of tvData.data){
         if(s.category == cat){
             
             const prevImg   = addEl({
                 type: 'img',
+                title: s.channel_name,
                 alt: s.channel_id,
                 class: ['lazy'],
                 src: imgBase64.poster,
