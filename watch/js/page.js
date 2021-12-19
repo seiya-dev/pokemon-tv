@@ -1,8 +1,3 @@
-// set get button
-document.addEventListener('DOMContentLoaded', async () => {
-    await loadMain();
-});
-
 let tvData = {};
 let cats = [];
 
@@ -12,6 +7,12 @@ let video_id = '';
 
 const pl_id = 'vjs-player';
 let player;
+
+// set loader and get button
+document.addEventListener('DOMContentLoaded', async () => {
+    yall({ "observeChanges": true });
+    await loadMain();
+});
 
 function uriLoader(){
     uri = new URL(location);
@@ -180,7 +181,9 @@ function loadCat(cat){
             const prevImg   = addEl({
                 type: 'img',
                 alt: s.channel_id,
-                src: s.channel_image,
+                class: ['lazy'],
+                src: imgBase64.poster,
+                dataset: { src: s.channel_image },
             });
             
             const contCellLink = addEl({
@@ -238,8 +241,9 @@ async function showChannel(){
     
     const hImg = addEl({
         type: 'img',
-        src: chanImg,
-        class: ['hero-background'],
+        class: ['hero-background', 'lazy'],
+        src: imgBase64.channel,
+        dataset: { src: chanImg },
     });
     
     hContainer.appendChild(hImg);
@@ -342,7 +346,9 @@ async function showChannel(){
         
         const pImg = addEl({
             type: 'img',
-            src: v.images.medium
+            class: ['lazy'],
+            src: imgBase64.episode,
+            dataset: { src: v.images.medium },
         });
         
         pTile.appendChild(pImg)

@@ -82,6 +82,7 @@ function addEl(data){
         'autoplay',
         'loop',
         'download',
+        'loading',
     ];
     for(let o of optsColl){
         if(o in data){
