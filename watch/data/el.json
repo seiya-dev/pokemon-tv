@@ -22140,7 +22140,7 @@
         "channel_name": "Las fiestas en casa",
         "channel_description": "Prepárate para celebrar las fiestas en casa con TV Pokémon.",
         "channel_images": {
-            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/holiday/2021/",
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/holiday/2021/holiday-2021-1500x1125-es.png",
             "spotlight_image_960_1277": "",
             "spotlight_image_2048_1152": "",
             "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/holiday/2021/holiday-2021-1660x940.png",
@@ -22150,7 +22150,7 @@
         "category": "Stuns",
         "order": -1639760906,
         "channel_creation_date": 1639760906,
-        "channel_update_date": 1639760905,
+        "channel_update_date": 1640362953,
         "media": [
             {
                 "id": "81c9491f13ae484c85fde538e14e6a03",
@@ -22395,6 +22395,42 @@
                 "captions": "",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/eQo9FEqxX7psOaP5gOdHgn-hcMXJCAXw6VbrRnjLE/m1_las_esp.mp4",
                 "size": 10359051803
+            }
+        ]
+    },
+    {
+        "channel_id": "movies-movie02",
+        "channel_id_ext": "el-poder-de-uno",
+        "channel_name": "El poder de uno",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1125x1500-latam.png",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1660x940-es.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1660x940-es.png"
+        },
+        "category_id": 3,
+        "category": "Movies",
+        "order": -2000,
+        "channel_creation_date": 1560369949,
+        "channel_update_date": 1640362953,
+        "media": [
+            {
+                "id": "10e502e4367b4a898a4dc0dd0a43c5d3",
+                "season": "",
+                "episode": "",
+                "title": "El Poder de Uno",
+                "description": "¡Uno puede hacer la diferencia!",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie02/movie02_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie02/movie02_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie02/movie02_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CT/cH97P-awh7yzG6MZTy4i1SZKzyCHL_FJzjnhc3zvc/pok_m_m02_2398-master-las-7834b253b6a3d192e9c00528f566d4887386304d.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/uNsRFBpDS5GavaNbS2UfyzGISK_uPzVnyZQa0voYU/pok_m_m02_2398-master-las.mp4",
+                "size": 10088249841
             }
         ]
     },
@@ -22918,9 +22954,25 @@
                     "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep07_ss01_360_206.jpg"
                 },
                 "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/FU1ZCjz3ybBPISZvlZSeN_AavlviEeH_7CGKkklG8/pokemonevolutions_season01_ep07_las_rep-d6d650d80708372a98979140dc8cc6151f394796.m3u8",
-                "captions": "",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/FU1ZCjz3ybBPISZvlZSeN_AavlviEeH_7CGKkklG8/vtt/1/es.vtt",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6K/DnmOwDiqbjIKVKIcgiWOL4pDlteLcgJIlutdjsMwI/pokemonevolutions_season01_ep07_las_rep.mp4",
                 "size": 979026634
+            },
+            {
+                "id": "518982f09c284f48913e25f993fd6777",
+                "season": "",
+                "episode": "",
+                "title": "Episodio 8: El descubrimiento",
+                "description": "Lo que comenzó como un susurro se transformó en un rumor…, y ahora todo el mundo habla de ello: ¡el Pokémon más poderoso de la historia ha sido descubierto en Kanto! Y Verde, una extraordinaria Entrenadora Pokémon, se apresura a atraparlo. Pero ella no es la única…",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BE/AvJL_YcSpsFkWu4l24hmFmgR7cKSf303e67vtXJuk/pokemonevolutions_season01_ep08_las_rep-c0eab9e13430dbcc8bc46230f0d88ae81e1ccd84.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BE/AvJL_YcSpsFkWu4l24hmFmgR7cKSf303e67vtXJuk/vtt/1/es.vtt",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zv/6xSLfsPxzvmszugSIBYAs9kGOBt34BEZDx_A4EaFw/pokemonevolutions_season01_ep08_las_rep.mp4",
+                "size": 1298627820
             }
         ]
     },
