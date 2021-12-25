@@ -431,8 +431,6 @@ async function showVideoBox(){
     title += v.title;
     
     const videoTitleEl  = addEl({
-        // type: curCannel[0].category_id != 2 ? 'a' : 'span',
-        // href: `#/${tvRegion}/video?id=${video_id}`,
         type: 'span',
         text: title,
     });
@@ -464,6 +462,7 @@ async function showVideoBox(){
         
         selEl('#photobox').appendChild(genVideoTag(url));
         player = videojs('#' + pl_id);
+        player.mobileUi();
     }
     if(errMsg){
         const videoErrEl1 = addEl({

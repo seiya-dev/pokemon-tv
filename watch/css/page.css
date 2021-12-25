@@ -1,12 +1,12 @@
 @font-face {
-    font-family:FlexoHeavy;
+    font-family: FlexoHeavy;
     src: url(../fonts/flexo-heavy.woff);
 }
 @font-face {
     font-family: FlexoMedium;
     src: url(../fonts/flexo-medium.woff);
 }
-@font-face { 
+@font-face {
     font-family: FlexoDemi;
     src: url(../fonts/flexo-demi.woff);
 }
@@ -43,7 +43,7 @@ body {
 }
 
 #navbar button:hover {
-    background-color: rgba(255,255,255,.25);
+    background-color: rgba(255, 255, 255, .25);
     cursor: pointer;
 }
 
@@ -56,7 +56,9 @@ body {
     height: 60px;
 }
 
-#posters span:hover, select:hover, #change:hover {
+#posters span:hover,
+select:hover,
+#change:hover {
     cursor: pointer;
 }
 
@@ -89,7 +91,8 @@ body {
     font-family: FlexoBold;
 }
 
-#region, #change {
+#region,
+#change {
     background-color: white;
     border: 1px solid black;
     border-radius: 5px;
@@ -143,6 +146,7 @@ body {
 }
 
 #photobox #ep-title {
+    font-family: FlexoRegular;
     text-align: center;
     position: absolute;
     z-index: 10005;
@@ -156,7 +160,8 @@ body {
     line-height: 1;
 }
 
-#photobox #video-error, #vjs-player {
+#photobox #video-error,
+#vjs-player {
     top: 0;
     left: 0;
     position: absolute;
