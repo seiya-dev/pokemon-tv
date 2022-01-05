@@ -121,6 +121,44 @@ table {
     border-collapse: collapse;
     border-spacing: 0
 }
+/*
+@font-face {
+    font-family: FlexoHeavy;
+    src: url(/styles/fonts/flexo-heavy-webfont.woff2) format("woff2"), url(/styles/fonts/flexo-heavy-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: FlexoMedium;
+    src: url(/styles/fonts/flexo_2_0-webfont.woff2) format("woff2"), url(/styles/fonts/flexo_2_0-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: FlexoDemi;
+    src: url(/styles/fonts/flexo_4_0-webfont.woff2) format("woff2"), url(/styles/fonts/flexo_4_0-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: FlexoThin;
+    src: url(/styles/fonts/flexo_0_0-webfont.woff2) format("woff2"), url(/styles/fonts/flexo_0_0-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: FlexoRegular;
+    src: url(/styles/fonts/flexo_1_0-webfont.woff2) format("woff2"), url(/styles/fonts/flexo_1_0-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+@font-face {
+    font-family: FlexoBold;
+    src: url(/styles/fonts/flexo_5_0-webfont.woff2) format("woff2"), url(/styles/fonts/flexo_5_0-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+*/
 body {
     overflow: hidden auto
 }
@@ -131,39 +169,39 @@ body {
     overflow-x: hidden
 }
 h1 {
-    font-family: FlexoDemi;
+    font-family: FlexoDemi, sans-serif;
     font-size: 20px;
     color: #fff
 }
 h2 {
-    font-family: FlexoDemi;
+    font-family: FlexoDemi, sans-serif;
     font-size: 20px;
     color: #fff
 }
 h3 {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 18px;
     color: #fff
 }
 h4 {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 16px;
     color: #fff
 }
 h5,
 p {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 14px;
     color: #fff
 }
 h6 {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 12px;
     color: #fff
 }
 .flag {
     border: none;
-    font-family: FlexoDemi;
+    font-family: FlexoDemi, sans-serif;
     font-size: 16px;
     display: inline-block;
     margin-bottom: 5px;
@@ -197,7 +235,7 @@ h6 {
     margin-top: 20px
 }
 .s-footer .social-list span {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: .85rem;
     line-height: .85rem;
     color: #fff
@@ -245,7 +283,7 @@ h6 {
     padding-right: 10px
 }
 .s-footer .legal-container h3 {
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 1.5rem;
     line-height: 1.5rem;
     font-weight: 700;
@@ -259,7 +297,7 @@ h6 {
     display: inline-flex
 }
 .s-footer .legal-container .legal-links a {
-    font-family: FlexoMedium;
+    font-family: FlexoMedium, sans-serif;
     font-size: .8rem;
     line-height: .8rem;
     color: #fff
@@ -271,7 +309,7 @@ h6 {
     margin: 0 5px
 }
 .s-footer .region-container .btn {
-    font-family: FlexoMedium;
+    font-family: FlexoMedium, sans-serif;
     font-size: 1.5rem;
     line-height: 1.5rem;
     margin-top: 50px;
@@ -281,7 +319,7 @@ h6 {
     border: #fff 3px solid
 }
 .s-footer .region-container .dropdown-item {
-    font-family: FlexoMedium;
+    font-family: FlexoMedium, sans-serif;
     font-size: 1.5rem;
     line-height: 1.5rem;
     cursor: pointer
@@ -298,7 +336,7 @@ h6 {
     margin-bottom: 40px
 }
 .s-footer .legal-company span {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 1rem;
     line-height: 1rem;
     color: #fff
@@ -367,9 +405,6 @@ h6 {
     .s-footer .legal-company {
         text-align: center
     }
-    .s-footer .c-modal .modal .modal-dialog .external-link-modal {
-        background: #fff url(/images/external_link_bumper.png) no-repeat left center
-    }
     .s-footer .c-modal .modal .modal-dialog .modal-body .text-container {
         padding: 30px 30px 40px 280px
     }
@@ -405,7 +440,7 @@ h6 {
     margin-left: 35px
 }
 .s-header .container nav .nav-pill {
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 12px;
     color: #fff;
     height: 50px;
@@ -435,7 +470,7 @@ h6 {
     margin: 2px auto
 }
 .s-header .container nav .sign-in-button {
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 12px;
     color: #0c2d5d;
     background-color: #ffd400;
@@ -461,7 +496,7 @@ h6 {
     opacity: 1;
     font-size: 50px;
     font-weight: 100;
-    font-family: FlexoThin;
+    font-family: FlexoThin, sans-serif;
     margin-top: -30px;
     outline: 0
 }
@@ -472,7 +507,7 @@ h6 {
     align-items: center
 }
 .s-header .c-modal .modal .menu-modal .menu-list .menu-category {
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 20;
     color: #fff;
     border: 0;
@@ -689,7 +724,7 @@ h6 {
     line-height: 32px
 }
 .c-hero .agile-content p {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 15px;
     line-height: 17px;
     color: #fff
@@ -791,7 +826,7 @@ h6 {
     height: 125px;
     padding-top: 80px;
     font-size: 36px;
-    font-family: FlexoRegular
+    font-family: FlexoRegular, sans-serif
 }
 .c-category-screen .row .channel-tile {
     padding-left: 7.5px;
@@ -843,23 +878,23 @@ h6 {
     color: #000;
     line-height: 1.5;
     font-size: 25px;
-    font-family: FlexoBold
+    font-family: FlexoBold, sans-serif
 }
 .c-modal .modal .modal-dialog .modal-body .text-container h2 {
     color: #000;
     line-height: normal;
     font-size: 22px;
-    font-family: FlexoRegular
+    font-family: FlexoRegular, sans-serif;
 }
 .c-modal .modal .modal-dialog .modal-body .text-container h3 {
     color: #000;
     line-height: normal;
-    font-family: FlexoRegular
+    font-family: FlexoRegular, sans-serif;
 }
 .c-modal .modal .modal-dialog .modal-body .text-container p {
     color: #000;
     line-height: normal;
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 16px
 }
 .c-modal .modal .modal-dialog .modal-body .text-container hr {
@@ -910,7 +945,7 @@ h6 {
 }
 .c-privacy-consent-modal .modal .modal-dialog .modal-body .text-container h3 {
     color: #091d57;
-    font-family: FlexoDemi
+    font-family: FlexoDemi, sans-serif
 }
 .c-privacy-consent-modal .modal .modal-dialog .modal-body .text-container p {
     line-height: 1.2;
@@ -1198,7 +1233,7 @@ section.c-season-hero .bottom-season-info .flag {
 }
 .c-season-episodes h4 {
     line-height: 20px;
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 20;
     padding-left: 15px;
     padding-right: 15px;
@@ -1271,7 +1306,7 @@ section.c-season-hero .bottom-season-info .flag {
     height: 4px
 }
 .c-episode-carousel .episode-card .episode-thumbnail .episode-info {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 18;
     color: #fff;
     line-height: 1.1;
@@ -1283,7 +1318,7 @@ section.c-season-hero .bottom-season-info .flag {
     text-decoration: none
 }
 .c-episode-carousel .episode-card .episode-thumbnail .episode-info span:first-child {
-    font-family: FlexoDemi
+    font-family: FlexoDemi, sans-serif
 }
 @media only screen and (min-width: 576px) {
     .c-episode-carousel .episode-card.continue-watching-card {
@@ -1383,7 +1418,7 @@ section.c-season-hero .bottom-season-info .flag {
 }
 .cont-watch-thumbnail .tile-cont-watch-info {
     padding: 1.5vh;
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 18;
     color: #fff;
     line-height: 1.5;
@@ -1399,20 +1434,568 @@ section.c-season-hero .bottom-season-info .flag {
     }
 }
 .cont-watch-thumbnail .tile-cont-watch-info .continue-watching {
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 21
 }
 .cont-watch-thumbnail .tile-cont-watch-info .season-episode {
-    font-family: FlexoBold;
+    font-family: FlexoBold, sans-serif;
     font-size: 18;
     line-height: 20px
 }
 .cont-watch-thumbnail .tile-cont-watch-info .episode-title {
-    font-family: FlexoRegular;
+    font-family: FlexoRegular, sans-serif;
     font-size: 18;
     line-height: 22px;
     padding-left: 5
 }
 .cont-watch-thumbnail .tile-cont-watch-info .episode-title.no-spacing {
     padding-left: 0
+}
+.c-player {
+    background-color: #000;
+    overflow: hidden
+}
+.video-js .vjs-current-time {
+    display: block!important
+}
+#playerContainer .vjs-control-bar {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 167px;
+    padding-left: 40px;
+    padding-right: 40px
+}
+.vjs-current-time.vjs-time-control.vjs-control,
+.vjs-progress-control.vjs-control,
+.vjs-remaining-time.vjs-time-control.vjs-control {
+    margin-top: 38px!important;
+    height: 30px!important
+}
+.vjs-current-time.vjs-time-control.vjs-control,
+.vjs-remaining-time.vjs-time-control.vjs-control {
+    font-size: 1.5rem!important;
+    line-height: normal!important
+}
+.vjs-subs-caps-button.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button {
+    font-size: 1.5rem!important;
+    line-height: normal!important;
+    height: 40px!important;
+    margin-top: 30px!important;
+    width: 40px!important;
+    margin-left: 20px
+}
+.vjs-subs-caps-button.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button button.vjs-subs-caps-button {
+    height: 40px!important;
+    width: 40px!important
+}
+.video-js .vjs-volume-panel .vjs-volume-control.vjs-volume-vertical {
+    margin-left: 35px
+}
+.vjs-volume-panel.vjs-control.vjs-volume-panel-vertical {
+    font-size: 1.5rem!important;
+    line-height: normal!important;
+    margin-top: 26px!important;
+    height: 46px!important;
+    width: 40px!important;
+    margin-right: 10px
+}
+.vjs-volume-panel.vjs-control.vjs-volume-panel-vertical button.vjs-mute-control.vjs-control.vjs-button {
+    width: 50px;
+    height: 50px
+}
+button.vjs-fullscreen-control.vjs-control.vjs-button {
+    font-size: 1.5rem!important;
+    line-height: normal!important;
+    margin-top: 26px!important;
+    height: 50px!important;
+    width: 50px!important
+}
+.vjs-button > .vjs-icon-placeholder:before {
+    line-height: normal!important
+}
+.vjs-button.vjs-backward > .vjs-icon-placeholder:before {
+    color: #fff;
+    content: "\f048"!important;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 2rem;
+    margin-top: 6px
+}
+.vjs-button.vjs-forward > .vjs-icon-placeholder:before {
+    color: #fff;
+    content: "\f051"!important;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 2rem;
+    margin-top: 6px
+}
+.vjs-volume-panel.vjs-control.vjs-volume-panel-vertical {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1
+}
+.vjs-subs-caps-button.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2
+}
+.vjs-current-time.vjs-time-control.vjs-control {
+    -webkit-box-ordinal-group: 4;
+    -ms-flex-order: 3;
+    order: 3
+}
+.vjs-progress-control.vjs-control {
+    -webkit-box-ordinal-group: 5;
+    -ms-flex-order: 4;
+    order: 4
+}
+.vjs-remaining-time.vjs-time-control.vjs-control {
+    -webkit-box-ordinal-group: 6;
+    -ms-flex-order: 5;
+    order: 5
+}
+button.vjs-fullscreen-control.vjs-control.vjs-button {
+    -webkit-box-ordinal-group: 7;
+    -ms-flex-order: 6;
+    order: 6
+}
+.video-js .vjs-progress-holder {
+    height: 8px!important
+}
+.video-js .vjs-play-progress:before {
+    font-size: 1.625rem!important;
+    color: red
+}
+.video-js .vjs-play-progress {
+    background-color: red!important
+}
+button.vjs-play-control.vjs-control.vjs-button,
+button.vjs-play-control.vjs-control.vjs-button.vjs-paused,
+button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
+    font-size: 1.5rem!important;
+    line-height: normal!important;
+    margin-top: 26px!important;
+    height: 46px!important;
+    /* width: 40px!important; */
+    position: absolute;
+    top: 60px;
+    right: 50%
+}
+button.vjs-play-control.vjs-control.vjs-button.vjs-backward {
+    right: calc(50% + 50px)
+}
+button.vjs-play-control.vjs-control.vjs-button.vjs-forward {
+    right: calc(50% - 60px)
+}
+button.vjs-skip-button {
+    display: none
+}
+.vjs-control-bar > button.vjs-skip-button {
+    display: block
+}
+.video-js .vjs-header-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 60px;
+    background: rgba(43, 51, 63, .7);
+    font-size: 1.875rem;
+    padding-left: 40px
+}
+.video-js .vjs-header-bar .header-bar-big {
+    display: none;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-left: 50px
+}
+.video-js .vjs-header-bar .header-bar-small {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+.video-js .vjs-header-bar.show-big-content {
+    pointer-events: none;
+    height: calc(100% - 167px)
+}
+.video-js .vjs-header-bar.show-big-content .header-bar-small {
+    display: none
+}
+.video-js .vjs-header-bar.show-big-content .header-bar-big {
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+.video-js .vjs-header-bar .header-bar-top-info {
+    font-family: FlexoMedium, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: .92;
+    margin-bottom: 50px
+}
+.video-js .vjs-header-bar .header-bar-title {
+    font-family: FlexoBold, sans-serif;
+    font-size: 3.75rem;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal
+}
+.video-js .vjs-header-bar .header-bar-season-info {
+    font-family: FlexoRegular, sans-serif;
+    font-size: 2.8125rem;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal
+}
+.video-js .vjs-header-bar .header-description {
+    font-family: FlexoMedium, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: .92
+}
+.video-js .vjs-header-bar .header-description-dot {
+    font-size: 1.0625rem;
+    margin: 0 10px
+}
+.video-js .vjs-header-bar .header-description-dot-bigger {
+    font-size: 1.875rem
+}
+.video-js .vjs-header-bar .header-back-button {
+    margin-right: 20px;
+    text-decoration: none;
+    cursor: pointer
+}
+.video-js .vjs-header-bar .header-back-button:before {
+    color: #ffcb00;
+    content: "\f053";
+    font-size: 1.875rem;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    opacity: 1
+}
+.vjs-has-started .vjs-header-bar {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    visibility: visible;
+    opacity: 1;
+    -webkit-transition: visibility .1s, opacity .1s;
+    -moz-transition: visibility .1s, opacity .1s;
+    -ms-transition: visibility .1s, opacity .1s;
+    -o-transition: visibility .1s, opacity .1s;
+    transition: visibility .1s, opacity .1s
+}
+.vjs-has-started.vjs-user-inactive.vjs-playing .vjs-header-bar {
+    visibility: visible;
+    opacity: 0;
+    -webkit-transition: visibility 1s, opacity 1s;
+    -moz-transition: visibility 1s, opacity 1s;
+    -ms-transition: visibility 1s, opacity 1s;
+    -o-transition: visibility 1s, opacity 1s;
+    transition: visibility 1s, opacity 1s
+}
+.vjs-has-started.vjs-ended .vjs-control-bar {
+    display: none!important
+}
+#player-screen .c-cont-watch-player {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 40px;
+    background: rgba(43, 51, 63, .7);
+    display: block
+}
+#player-screen .c-cont-watch-player .episode-countdown {
+    color: #ffcb00
+}
+#player-screen .c-cont-watch-player .up-next-link {
+    text-decoration: none
+}
+#player-screen .c-cont-watch-player .episode-card {
+    max-width: 1219px;
+    position: relative;
+    margin: 0 auto
+}
+#player-screen .c-cont-watch-player .episode-card .episode-thumbnail {
+    padding: 0;
+    height: 165px
+}
+#player-screen .c-cont-watch-player .episode-card .episode-thumbnail img {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    object-fit: cover
+}
+#player-screen .c-cont-watch-player .episode-card .episode-thumbnail .btn-play {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    max-width: 293px;
+    max-height: 165px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none
+}
+#player-screen .c-cont-watch-player .episode-card .episode-thumbnail .btn-play .far {
+    margin: auto;
+    font-size: 3rem;
+    color: rgba(255, 255, 255, .7)
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description {
+    padding-left: 12px;
+    margin-top: 0;
+    max-height: 158px;
+    overflow: hidden;
+    -webkit-transition: max-height .3s ease-in-out;
+    -moz-transition: max-height .3s ease-in-out;
+    -o-transition: max-height .3s ease-in-out;
+    transition: max-height .3s ease-in-out
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description.show-more {
+    max-height: var(--maxHeight);
+    overflow: visible;
+    margin-bottom: 40px
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description h4 {
+    font-family: FlexoBold, sans-serif;
+    font-size: .9375rem;
+    line-height: 1.375rem;
+    margin-bottom: 8px;
+    padding-bottom: 20px
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description h3 {
+    margin-bottom: 25px;
+    font-size: 2.5rem;
+    font-family: FlexoBold, sans-serif;
+    line-height: 1.875rem;
+    letter-spacing: -.05125rem
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description h5 {
+    font-family: FlexoRegular, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    margin-bottom: 6px
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description h5.smaller {
+    font-size: .7rem;
+    margin: 0 4px
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description .cont-watch-season-info {
+    display: inline-flex
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description p {
+    font-size: .9375rem;
+    font-family: FlexoRegular, sans-serif;
+    line-height: 1.375rem;
+    letter-spacing: -.0275rem;
+    max-width: 817px;
+    margin-right: 75px
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description button {
+    border: none;
+    position: absolute;
+    top: 124px;
+    right: 25px;
+    background-color: rgba(255, 255, 255, 0);
+    cursor: pointer
+}
+#player-screen .c-cont-watch-player .episode-card .episode-description button .fas {
+    font-size: 2.5rem;
+    color: #ffcb00
+}
+html {
+    height: 100%
+}
+.c-app-store-links {
+    background-image: linear-gradient(0deg, #14356c 0, #57c8f2 100%);
+    overflow: hidden;
+    min-height: 100%;
+    display: flex
+}
+.c-app-store-links .container {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column
+}
+.c-app-store-links .row {
+    display: block;
+    text-align: center;
+    justify-content: center
+}
+.c-app-store-links .pkm-tv-image {
+    width: 125px
+}
+.c-app-store-links p {
+    font-family: FlexoRegular, sans-serif;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    letter-spacing: 0;
+    color: #fff;
+    margin: 0 1%
+}
+.c-app-store-links .lbl-app-download-title {
+    font-family: FlexoHeavy, sans-serif;
+    font-size: 1.3rem
+}
+.c-app-store-links .lbl-app-watch {
+    font-size: 1.02rem
+}
+.c-app-store-links .app-links-description-row {
+    padding-top: 15px;
+    padding-bottom: 20px
+}
+.c-app-store-links .app-links-titles-row {
+    padding-top: 35px
+}
+.c-app-store-links .app-stores-badges-row {
+    padding-top: 15px
+}
+.c-app-store-links .app-stores-badges-row a {
+    cursor: pointer
+}
+.c-app-store-links .app-stores-badges-row img {
+    padding: 0 5px
+}
+@media only screen and (min-width: 768px) {
+    .c-app-store-links p {
+        margin: 0 24%
+    }
+    .c-app-store-links .lbl-app-download-title {
+        font-size: 1.48rem
+    }
+    .c-app-store-links .lbl-app-watch {
+        font-size: 1.08rem
+    }
+    .c-app-store-links .app-stores-badges-row img {
+        padding: 0 10px
+    }
+}
+.loader-panel {
+    display: block;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-color: #191f28;
+    opacity: .5;
+    z-index: 1201;
+    overflow: hidden
+}
+.loader-panel.hide {
+    display: none
+}
+.loader-panel .loader-wrapper {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.loader-panel .loader-wrapper .loader,
+.loader-panel .loader-wrapper .loader:after {
+    border-radius: 50%;
+    width: 10em;
+    height: 10em
+}
+.loader-panel .loader-wrapper .loader {
+    margin: 60px auto;
+    font-size: 10px;
+    position: relative;
+    text-indent: -9999em;
+    border-top: 1.1em solid rgba(255, 255, 255, .2);
+    border-right: 1.1em solid rgba(255, 255, 255, .2);
+    border-bottom: 1.1em solid rgba(255, 255, 255, .2);
+    border-left: 1.1em solid #fff;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-animation: load8 1.1s infinite linear;
+    animation: load8 1.1s infinite linear
+}
+@-webkit-keyframes load8 {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+@keyframes load8 {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast:active) {
+    .c-episode-carousel .c-cont-watch-home .episode-card .episode-img-cover figure img {
+        width: auto;
+        height: auto
+    }
+    .c-season-hero .bottom-season-cont-watching .episode-card .episode-img-cover figure img {
+        width: auto;
+        height: auto
+    }
+    .c-season-episodes .episode-card .episode-img-cover figure img {
+        width: auto;
+        height: auto
+    }
+}
+.smartbanner__info__author,
+.smartbanner__info__price,
+.smartbanner__info__title {
+    line-height: .8rem;
+    padding-bottom: 3px
+}
+.smartbanner__info__author {
+    display: none
+}
+.smartbanner--ios .smartbanner__button {
+    top: 42px
+}
+#dev-actions {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5000;
+    width: 100%;
+    background-color: #5f9ea0;
+    height: 40px
+}
+#dev-actions .dev-button {
+    cursor: pointer;
+    line-height: 14px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    border-right: solid 1px #fff;
+    padding: 12px 10px 0 10px;
+    display: inline-block;
+    height: 100%
 }

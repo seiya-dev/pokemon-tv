@@ -87,8 +87,12 @@ select:hover,
     padding-bottom: 50px !important;
 }
 
-#selRegion {
-    font-family: FlexoBold;
+#video-error,
+#selRegion,
+#selRegion select,
+#selRegion option {
+    font-weight: bold;
+    font-family: FlexoRegular, sans-serif;
 }
 
 #region,
@@ -145,23 +149,8 @@ select:hover,
     width: 100%;
 }
 
-#photobox #ep-title {
-    font-family: FlexoRegular;
-    text-align: center;
-    position: absolute;
-    z-index: 10005;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    padding: 10px;
-    width: 100%;
-}
-
-#photobox #ep-title span {
-    line-height: 1;
-}
-
 #photobox #video-error,
-#vjs-player {
+#playerContainer {
     top: 0;
     left: 0;
     position: absolute;
@@ -182,10 +171,20 @@ select:hover,
     line-height: 1;
 }
 
-#vjs-player .vjs-big-play-button {
+#playerContainer .vjs-big-play-button {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+.vjs-header-bar {
+    display: flex;
+}
+
+button.vjs-play-control.vjs-control.vjs-button,
+button.vjs-play-control.vjs-control.vjs-button.vjs-paused,
+button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
+    width: 23px !important;
 }
 
 @media only screen and (max-width: 768px) {

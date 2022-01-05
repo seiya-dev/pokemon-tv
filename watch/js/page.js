@@ -5,7 +5,7 @@ let tvRegion = '';
 let channel  = '';
 let video_id = '';
 
-const pl_id = 'vjs-player';
+const pl_id = 'playerContainer';
 let player;
 
 // set loader and get button
@@ -68,6 +68,9 @@ async function loadMain(cc){
     }
     
     for(let o of Object.keys(tvRegions)){
+        if(o == 'us'){
+            continue;
+        }
         const modeOpt = addEl({type: 'option', value: o, text: tvRegions[o]});
         selEl('#region').appendChild(modeOpt);
     }
@@ -420,25 +423,13 @@ async function showVideoBox(){
     const v = curVideo[0];
     
     selEl('body').style.overflow = 'hidden';
-    selEl('#photobg').style.display = 'block';
     selEl('#photobox').style.display = 'block';
-    selEl('#photobg').addEventListener('click', hideVideoBox, false);
     
     let title = '';
     if(v.season != '' && v.episode != ''){
         title += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
     }
     title += v.title;
-    
-    const videoTitleEl  = addEl({
-        type: 'span',
-        text: title,
-    });
-    
-    const mainTitleEl = document.createElement('div');
-    mainTitleEl.id = 'ep-title';
-    mainTitleEl.appendChild(videoTitleEl);
-    selEl('#photobox').appendChild(mainTitleEl);
     
     let videoData, errMsg;
     
@@ -452,6 +443,7 @@ async function showVideoBox(){
     
     if(videoData){
         let streams = videoData.playlistItems[0].streams, bitrate = 0, url = '';
+        let poster = v.images.large;
         
         for(let s in streams){
             if(bitrate < streams[s].videoBitRate){
@@ -460,11 +452,18 @@ async function showVideoBox(){
             }
         }
         
-        selEl('#photobox').appendChild(genVideoTag(url));
-        player = videojs('#' + pl_id);
+        selEl('#photobox').appendChild(genVideoTag(url, poster));
+        player = videojs('#' + pl_id, {
+            controlBar: {
+                volumePanel: { inline: false },
+            },
+        });
+        selEl('#' + pl_id).appendChild(generateHeaderBar(title));
         player.mobileUi();
     }
     if(errMsg){
+        selEl('#photobg').style.display = 'block';
+        selEl('#photobg').addEventListener('click', () => { hideVideoBox(true) }, false);
         const videoErrEl1 = addEl({
             type: 'span',
             text: errMsg,
@@ -489,12 +488,39 @@ async function showVideoBox(){
     }
 }
 
-function hideVideoBox(){
+function generateHeaderBar(title){
+    const videoTitleEl  = addEl({
+        type: 'span',
+        class: [ 'header-description', ],
+        text: title,
+    });
+    
+    const closeEl = document.createElement('span');
+    closeEl.classList.add('header-back-button');
+    closeEl.addEventListener('click', () => { hideVideoBox(false); }, false);
+    
+    const mainTitleElSmall = document.createElement('div');
+    mainTitleElSmall.classList.add('header-bar-small');
+    mainTitleElSmall.appendChild(closeEl);
+    mainTitleElSmall.appendChild(videoTitleEl);
+    
+    const mainTitleEl = document.createElement('div');
+    mainTitleEl.classList.add('vjs-header-bar');
+    mainTitleEl.appendChild(mainTitleElSmall);
+    
+    return mainTitleEl;
+}
+
+function hideVideoBox(isBg){
+    if(isBg){
+        selEl('#photobg').removeEventListener('click', hideVideoBox, false);
+    }
+    
     if(player && player.player_){
+        
         player.dispose();
     }
     
-    selEl('#photobg').removeEventListener('click', hideVideoBox, false);
     selEl('#photobox').style.display = 'none';
     selEl('#photobg').style.display = 'none';
     selEl('body').style.overflow = 'auto';
@@ -503,12 +529,16 @@ function hideVideoBox(){
     uriLoader();
 }
 
-function genVideoTag(video){
+function genVideoTag(video, poster){
     const videoEl     = document.createElement('video');
     videoEl.id        = pl_id;
     videoEl.className = 'video-js';
     videoEl.preload   = 'metadata';
     videoEl.controls  = 'controls';
+    videoEl.dataset = {};
+    if(poster){
+        videoEl.dataset.setup = `{ "poster": "${poster}" }`
+    }
     const sourceEl    = document.createElement('source');
     sourceEl.src      = video;
     sourceEl.type     = 'video/mp4';
