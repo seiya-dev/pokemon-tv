@@ -2,6 +2,8 @@ name: Update data
 on:
   schedule:
     - cron: '0 5 * * 6'
+  workflow_dispatch: # Put here!!
+
 jobs:
   update_data:
     runs-on: ubuntu-latest
