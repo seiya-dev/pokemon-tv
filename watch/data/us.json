@@ -29310,7 +29310,7 @@
         "category": "Stuns",
         "order": -1654871523,
         "channel_creation_date": 1654871523,
-        "channel_update_date": 1654871518,
+        "channel_update_date": 1655478533,
         "media": [
             {
                 "id": "3cadb39fd0c94a499e06fe654893e897",
@@ -29730,7 +29730,7 @@
         "channel_id": "movies-movie12",
         "channel_id_ext": "pokemon-arceus-and-the-jewel-of-life",
         "channel_name": "Pokémon: Arceus and the Jewel of Life",
-        "channel_description": "",
+        "channel_description": "Ash and friends travel to the past to fix mistakes that threaten the present in Pokémon: Arceus and the Jewel of Life.",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1125x1500-en.png",
             "spotlight_image_960_1277": "",
@@ -29742,7 +29742,7 @@
         "category": "Movies",
         "order": -12000,
         "channel_creation_date": 1469827390,
-        "channel_update_date": 1645808919,
+        "channel_update_date": 1655478533,
         "media": [
             {
                 "id": "e550d4339a1f4f32bbff97a176a99f7e",
@@ -30642,7 +30642,7 @@
         "category": "Specials",
         "order": -1631196679,
         "channel_creation_date": 1631196679,
-        "channel_update_date": 1642781951,
+        "channel_update_date": 1655478533,
         "media": [
             {
                 "id": "ed67562cd0a94e14b8a136c93a325527",
@@ -30790,7 +30790,7 @@
         "category": "Specials",
         "order": -1641917336,
         "channel_creation_date": 1641917336,
-        "channel_update_date": 1651151231,
+        "channel_update_date": 1655478533,
         "media": [
             {
                 "id": "55186a238c8e4b358e4bb2376a7656fe",
@@ -30826,7 +30826,7 @@
         "category": "Specials",
         "order": -1652879277,
         "channel_creation_date": 1652879277,
-        "channel_update_date": 1654693720,
+        "channel_update_date": 1655478533,
         "media": [
             {
                 "id": "6d3ea69fbfb44779a0c914cc6ee7ef94",
@@ -30859,6 +30859,42 @@
                 "captions": "",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sI/VyitXUFj6oWXEqkRDE18Wpzl7lritcdifpHbj1Fyo/hs_ep102_eng_24_1080_h264_v2.mp4",
                 "size": 2304690122
+            }
+        ]
+    },
+    {
+        "channel_id": "original-poketoon",
+        "channel_id_ext": "poketoon",
+        "channel_name": "POKÉTOON",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1125x1500.jpg",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1660x940.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1660x940.png"
+        },
+        "category_id": 4,
+        "category": "Specials",
+        "order": -1655478538,
+        "channel_creation_date": 1655478538,
+        "channel_update_date": 1655478533,
+        "media": [
+            {
+                "id": "19c53a3f175d486aae6c7f2af204c7f4",
+                "season": "",
+                "episode": "",
+                "title": "Scraggy and Mimikyu",
+                "description": "On the hunt for some tasty Poké Beans, Scraggy runs into a peculiar Pokémon—Mimikyu! Mimikyu wants to be friends, but Scraggy only wants snacks. Watch as they chase each other toward a potential friendship.",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zb/LxZ5KlZ3YJMIYqwNFDxOHPHCT_1cJS-lzmpwbC54o/00_scraggy_eng-d926a5d0a768bc8c82a034128dda1e8488e327bf.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nw/dFdb2KdvWdIt5vP0wIACHwbS5Vwnl_yMYriYq934g/00_scraggy_eng.mp4",
+                "size": 581230290
             }
         ]
     },

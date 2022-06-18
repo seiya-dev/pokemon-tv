@@ -4822,6 +4822,22 @@
                 "size": 2629661670
             },
             {
+                "id": "eac2dc1aae58451bab3f0874121f10b2",
+                "season": "6",
+                "episode": "26",
+                "title": "Neem dat maar voor Nuzleaf!",
+                "description": "Wanneer onze helden van hun Pokémon gescheiden worden in een diepe, donkere grot, komen beide groepen in de problemen!",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep38_ss01.jpg",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gb/9tDp7f-0HUkwiXyEhARfavwivZbR7xRJVx1UzL4DI/pok_tv_s0638_2398-master-nl-5781485c4df6fa9968cda2e1f93d1691551db563.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lv/5qmeQWxPg-XJRNOBk42h1dfRZhJMZflb-Yluo5jzg/pok_tv_s0638_2398-master-nl.mp4",
+                "size": 2683749321
+            },
+            {
                 "id": "02b338079fe44b9e8e639edef033b2c4",
                 "season": "6",
                 "episode": "27",
@@ -18667,7 +18683,7 @@
         "channel_id": "movies-movie12",
         "channel_id_ext": "pokemon-arceus-en-het-juweel-des-levens",
         "channel_name": "Pokémon: Arceus en het Juweel des Levens",
-        "channel_description": "",
+        "channel_description": "Ash en zijn vrienden gaan in Pokémon: Arceus en het Juweel des Levens terug naar het verleden om de fouten te herstellen die het heden bedreigen.",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1125x1500-en.png",
             "spotlight_image_960_1277": "",
@@ -18679,7 +18695,7 @@
         "category": "Movies",
         "order": -12000,
         "channel_creation_date": 1470073634,
-        "channel_update_date": 1645810364,
+        "channel_update_date": 1655479646,
         "media": [
             {
                 "id": "c7989c8e88404906998d8ede4343af09",
@@ -19328,6 +19344,42 @@
                 "captions": "",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FP/5YcNJl-E8EYdrRfqd69A5XNSRGDVV2nnDXATlchLo/pokemongenerations_118_dut.mp4",
                 "size": 720530160
+            }
+        ]
+    },
+    {
+        "channel_id": "original-poketoon",
+        "channel_id_ext": "poketoon",
+        "channel_name": "POKÉTOON",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1125x1500.jpg",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1660x940.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1660x940.png"
+        },
+        "category_id": 4,
+        "category": "Specials",
+        "order": -1655479648,
+        "channel_creation_date": 1655479648,
+        "channel_update_date": 1655479646,
+        "media": [
+            {
+                "id": "c3737d54a94241ad83e114b7eeaf6204",
+                "season": "",
+                "episode": "",
+                "title": "Scraggy en Mimikyu",
+                "description": "Wanneer hij op zoek is naar smakelijke Poké Beans, stuit Scraggy op een bijzondere Pokémon: Mimikyu! Mimikyu wil graag vrienden worden, maar het enige wat Scraggy wil zijn lekkere hapjes. Kijk hoe ze achter elkaar aan zitten en ontdek hoe hun vriendschap vorm krijgt.",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ws/utXhTN_Pp2kGHxvOt_tp0we76-dpPT0FNysnNrtUw/00_scraggy_dut-49847b8e09761df6b5ce32462f84f05afe2e17a8.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fv/p9LaIyl0zBiIRLjavVX7Jim4LiOUO71HKvuKFcowo/00_scraggy_dut.mp4",
+                "size": 580712579
             }
         ]
     }

@@ -25885,7 +25885,7 @@
         "category": "Stuns",
         "order": -1654872815,
         "channel_creation_date": 1654872815,
-        "channel_update_date": 1654872812,
+        "channel_update_date": 1655479529,
         "media": [
             {
                 "id": "c5fff4ee38514d1fbd22c9a3714fb8b2",
@@ -26305,7 +26305,7 @@
         "channel_id": "movies-movie12",
         "channel_id_ext": "pokemon-arceus-y-la-joya-de-la-vida",
         "channel_name": "Pokémon: Arceus y la Joya de la Vida",
-        "channel_description": "",
+        "channel_description": "Ash y sus amigos viajan al pasado para corregir unos errores que amenazan al presente en la película Pokémon Arceus y la joya de la vida.",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1125x1500-es.png",
             "spotlight_image_960_1277": "",
@@ -26317,7 +26317,7 @@
         "category": "Movies",
         "order": -12000,
         "channel_creation_date": 1613754987,
-        "channel_update_date": 1645809605,
+        "channel_update_date": 1655479529,
         "media": [
             {
                 "id": "090f0935748f4eae9e5aae99fa8d5b28",
@@ -26677,7 +26677,7 @@
         "category": "Specials",
         "order": -1631197936,
         "channel_creation_date": 1631197936,
-        "channel_update_date": 1653024356,
+        "channel_update_date": 1655479529,
         "media": [
             {
                 "id": "890528623bb44c9baefa3d215cb1d042",
@@ -26825,7 +26825,7 @@
         "category": "Specials",
         "order": -1641918165,
         "channel_creation_date": 1641918165,
-        "channel_update_date": 1653024356,
+        "channel_update_date": 1655479529,
         "media": [
             {
                 "id": "c2693f6b5946424b804a297cae1e97e6",
@@ -26861,7 +26861,7 @@
         "category": "Specials",
         "order": -1652880078,
         "channel_creation_date": 1652880078,
-        "channel_update_date": 1654694676,
+        "channel_update_date": 1655479529,
         "media": [
             {
                 "id": "e6f528b1eb424c809ba60f6443f5f65a",
@@ -26894,6 +26894,42 @@
                 "captions": "",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jj/s-nyztJLF_ipIDXsYhR89cUSBCxtZChOA8_uPVPNY/snow_ep102_eng_latam_24_1080_h264_v2.mp4",
                 "size": 2305314056
+            }
+        ]
+    },
+    {
+        "channel_id": "original-poketoon",
+        "channel_id_ext": "poketoon",
+        "channel_name": "POKÉTOON",
+        "channel_description": "",
+        "channel_images": {
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1125x1500.jpg",
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1660x940.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1660x940.png"
+        },
+        "category_id": 4,
+        "category": "Specials",
+        "order": -1655479532,
+        "channel_creation_date": 1655479532,
+        "channel_update_date": 1655479529,
+        "media": [
+            {
+                "id": "4fdac6dc2f4d405a977e79acea776d0f",
+                "season": "",
+                "episode": "",
+                "title": "Scraggy y Mimikyu",
+                "description": "",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hs/Sne_A9xN8dgk6F2yBY4r87zVgcClg2wRVzAYMSUTQ/00_scraggy_las-df324187ce5811532758481d9ddc173ec5668593.m3u8",
+                "captions": "",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ig/ieSpFgcVEpPygvA6_Af50o_NYktn8fvrW2Nxq9N4U/00_scraggy_las.mp4",
+                "size": 580788155
             }
         ]
     },
