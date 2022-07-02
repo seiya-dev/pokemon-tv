@@ -5067,19 +5067,19 @@
         "channel_id": "series-season07",
         "channel_id_ext": "pokemon-advanced-challenge",
         "channel_name": "Pokémon: Advanced Challenge",
-        "channel_description": "Ash, Pikachu en hun vrienden zetten hun tocht door de regio Hoenn voort in het zevende seizoen van Pokémon de Serie op Pokémon TV.",
+        "channel_description": "Ash en zijn vrienden staan in de regio Hoenn vele uitdagingen te wachten, waaronder het gemene Team Aqua en Team Magma. Mis nu het zevende seizoen van Pokémon de Serie op Pokémon TV niet!",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-1125x1500-nl.jpg",
-            "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-960x1277.jpg",
-            "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-2048x1152.jpg",
-            "spotlight_image_1660_940": "",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-2732x940.jpg"
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-1660x940-en.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-1660x940-en.png"
         },
         "category_id": 1,
         "category": "Series",
         "order": -7000,
         "channel_creation_date": 1612543021,
-        "channel_update_date": 1612543001,
+        "channel_update_date": 1656682250,
         "media": [
             {
                 "id": "e149054fd34a4ffa8c07efcf970e74e7",
@@ -19353,17 +19353,17 @@
         "channel_name": "POKÉTOON",
         "channel_description": "De POKÉTOON-reeks korte animatiefilmpjes biedt Pokémon-plezier voor elke stemming: van hartverwarmend tot maf!",
         "channel_images": {
-            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1-1125x1500.jpg",
+            "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1125x1500-en.png",
             "spotlight_image_960_1277": "",
             "spotlight_image_2048_1152": "",
-            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-2-1660x940.png",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-2-1660x940.png"
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-3-1660x940.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-3-1660x940.png"
         },
         "category_id": 4,
         "category": "Specials",
         "order": -1655479648,
         "channel_creation_date": 1655479648,
-        "channel_update_date": 1656085201,
+        "channel_update_date": 1656682250,
         "media": [
             {
                 "id": "c3737d54a94241ad83e114b7eeaf6204",
@@ -19396,6 +19396,22 @@
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rl/Cl4SG5hxjKSAOmFGaoEHEUSIK-UbCSO6WdlfseoxE/vtt/1/nl.vtt",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1Q/H82b7jyA_oPkfiTA6SDzwK8_yYsdtpmhiAT0EBV_Q/01_pancham_dut.mp4",
                 "size": 1262939360
+            },
+            {
+                "id": "409ce5ab8d684aa2a0d521f5f608f4f7",
+                "season": "",
+                "episode": "",
+                "title": "De droom van Tsubomi",
+                "description": "Blossom wil graag Pokémon League Champion worden! Tijdens een tocht in het bos heeft ze een toevallige ontmoeting met een Pokémon die haar dromen op de proef stelt.",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep03_ss01_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep03_ss01.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep03_ss01_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gB/nQ7tyGlBwJFXL9jJ71ms7JHLEvOcSnCWDo9gSkdWI/02_tsubomi_nidoran_dut-b309d1db5e18c77bbb4a1c001b5015e213a86c9a.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gB/nQ7tyGlBwJFXL9jJ71ms7JHLEvOcSnCWDo9gSkdWI/vtt/2/nl.vtt",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8E/rOBLm3tGJylE1ri0vZxF8U0Mkm_tKE70xBPeHqZl8/02_tsubomi_nidoran_dut.mp4",
+                "size": 1990847518
             }
         ]
     }
