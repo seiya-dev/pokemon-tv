@@ -1,7 +1,7 @@
 name: Update data
 on:
   schedule:
-    - cron: '0 5 * * 6'
+    - cron: '0 4 * * 6'
   workflow_dispatch: # Put here!!
 
 jobs:
@@ -20,5 +20,5 @@ jobs:
           git config user.email seiya-git@users.noreply.github.com
           git add .
           git add --renormalize .
-          git commit -m"update $(date +%F)"
+          git commit -m"update $(date +%F) us"
           git push
