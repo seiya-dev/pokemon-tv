@@ -431,14 +431,54 @@ async function showVideoBox(){
     }
     title += v.title;
     
-    let videoData, errMsg;
+    let videoData, mobileVideoData, captionsData, captionsUrl, errMsg;
     
     try{
         videoData = await getJson(`${videoPathReq}/${video_id}/getPlaylistByMediaId`);
+        mobileVideoData = await getJson(`${videoPathReq}/${video_id}/getMobilePlaylistByMediaId`);
     }
     catch(e){
-        errMsg  = 'Can\'t fetch video! ';
-        errMsg += e.message;
+        try {
+            videoData = await getJson(`${videoPathReq2}/${video_id}/getPlaylistByMediaId`, {
+                'x-cors-headers': JSON.stringify({
+                    'X-Forwarded-For': '192.232.168.23',
+                    'Origin': 'https://watch.pokemon.com',
+                })
+            });
+            mobileVideoData = await getJson(`${videoPathReq2}/${video_id}/getMobilePlaylistByMediaId`, {
+                'x-cors-headers': JSON.stringify({
+                    'X-Forwarded-For': '192.232.168.23',
+                    'Origin': 'https://watch.pokemon.com',
+                })
+            });
+        } catch(e){
+            try {
+                videoData = await getJson(`${videoPathReq2}/${video_id}/getPlaylistByMediaId`, {
+                    'x-cors-headers': JSON.stringify({
+                        'X-Forwarded-For': '86.5.53.25',
+                        'Origin': 'https://watch.pokemon.com',
+                    })
+                });
+                mobileVideoData = await getJson(`${videoPathReq2}/${video_id}/getMobilePlaylistByMediaId`, {
+                    'x-cors-headers': JSON.stringify({
+                        'X-Forwarded-For': '86.5.53.25',
+                        'Origin': 'https://watch.pokemon.com',
+                    })
+                });
+            } catch(e) {
+                errMsg  = 'Can\'t fetch video! ';
+                errMsg += e.message;
+            }
+        } 
+    }
+
+    if(mobileVideoData && mobileVideoData.mediaList[0].flags.includes("ClosedCaptions") == true){
+        try {
+            captionsData = await getJson(`${videoPathReq2}/${video_id}/getClosedCaptionsDetailsByMediaId`);
+            captionsUrl = "https://cors2.nyaku.xyz/?" + captionsData[0].webvttFileUrl.replace("http://", "https://");
+        } catch(e) {
+            captionsUrl = null;
+        }
     }
     
     if(videoData){
@@ -452,7 +492,7 @@ async function showVideoBox(){
             }
         }
         
-        selEl('#photobox').appendChild(genVideoTag(url, poster));
+        selEl('#photobox').appendChild(genVideoTag(url, poster, captionsUrl));
         player = videojs('#' + pl_id, {
             controlBar: {
                 volumePanel: { inline: false },
@@ -529,7 +569,7 @@ function hideVideoBox(isBg){
     uriLoader();
 }
 
-function genVideoTag(video, poster){
+function genVideoTag(video, poster, captionsUrl){
     const videoEl     = document.createElement('video');
     videoEl.id        = pl_id;
     videoEl.className = 'video-js';
@@ -543,5 +583,14 @@ function genVideoTag(video, poster){
     sourceEl.src      = video;
     sourceEl.type     = 'video/mp4';
     videoEl.appendChild(sourceEl);
+
+    if (captionsUrl){
+        const trackEl = document.createElement('track');
+        trackEl.kind = 'captions';
+        trackEl.src = captionsUrl;
+        trackEl.label = 'CC';
+        videoEl.appendChild(trackEl);
+    }
+
     return videoEl;
 }
