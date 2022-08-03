@@ -1,4 +1,5 @@
 const videoPathReq = 'https://production-ps.lvp.llnw.net/r/PlaylistService/media';
+const videoPathReq2 = 'https://cors2.nyaku.xyz/?https://production-ps.lvp.llnw.net/r/PlaylistService/media';
 
 const tvRegions = {
     'us': 'United States',

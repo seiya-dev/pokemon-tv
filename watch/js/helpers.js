@@ -13,8 +13,8 @@ function cleanup(type){
 }
 
 // get json
-const getJson = (url) => {
-    return fetch(url, {mode: 'cors'})
+const getJson = (url, headers={}) => {
+    return fetch(url, {mode: 'cors', headers: headers})
         .then(async function(r){
             if(r.status == 200){
                 let jres = await r.text();
