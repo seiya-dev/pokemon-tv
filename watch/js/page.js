@@ -500,6 +500,12 @@ async function showVideoBox(){
         });
         selEl('#' + pl_id).appendChild(generateHeaderBar(title));
         player.mobileUi();
+        player.hotkeys({
+            volumeStep: 0.1,
+            seekStep: 5,
+            enableModifiersForNumbers: false,
+            alwaysCaptureHotkeys: true,
+        });
     }
     if(errMsg){
         selEl('#photobg').style.display = 'block';
