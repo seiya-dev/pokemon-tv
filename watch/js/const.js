@@ -1,7 +1,13 @@
 const videoPathReq = 'https://production-ps.lvp.llnw.net/r/PlaylistService/media';
-
 const corsProxy = 'https://cors2.nyaku.xyz/?';
-const corsHead = {
+
+const corsHeadUS = {
+    'x-cors-headers': JSON.stringify({
+        'X-Forwarded-For': '192.232.168.23',
+        'Origin': 'https://watch.pokemon.com',
+    }),
+};
+const corsHeadUK = {
     'x-cors-headers': JSON.stringify({
         'X-Forwarded-For': '86.5.53.25',
         'Origin': 'https://watch.pokemon.com',
