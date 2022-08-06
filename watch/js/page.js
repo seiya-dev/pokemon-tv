@@ -563,6 +563,7 @@ function genVideoTag(video, poster, captionsUrl){
     videoEl.appendChild(sourceEl);
     if (captionsUrl){
         const trackEl = document.createElement('track');
+        trackEl.default = 'default';
         trackEl.kind = 'captions';
         trackEl.src = captionsUrl;
         trackEl.label = 'CC';
