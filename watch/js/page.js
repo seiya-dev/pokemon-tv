@@ -237,7 +237,6 @@ async function showChannel(){
     let chanImg2 = curCannel[0].channel_images.spotlight_image_2048_1152;
     let chanImg1 = curCannel[0].channel_images.spotlight_image_1660_940;
     
-    
     let chanImg = chanImg2 && chanImg2 != '' ? chanImg2 : '';
     chanImg = chanImg1 && chanImg1 != '' ? chanImg1 : chanImg;
     chanImg = chanImg != '' ? chanImg : 'img/channel.png';
@@ -365,10 +364,14 @@ async function showChannel(){
         });
         
         if(v.episode != ''){
+            let vSeasonNum = '';
+            if(v.season != '' && channel.match(/^stunts-/)){
+                vSeasonNum = `Season ${v.season} • `;
+            }
             const epNum = addEl({
                 type: 'p',
                 class: ['tile-episode-number'],
-                text: `Episode ${v.episode}`,
+                text: `${vSeasonNum}Episode ${v.episode}`,
             });
             tCont.appendChild(epNum);
         }
