@@ -441,11 +441,16 @@ async function showVideoBox(){
     }
     catch(e){
         try{
-            videoData = await getJson(`${corsProxy}${videoPathReq}/${video_id}/getPlaylistByMediaId`, corsHead);
+            videoData = await getJson(`${corsProxy}${videoPathReq}/${video_id}/getPlaylistByMediaId`, corsHeadUS);
         }
         catch(e){
-            errMsg  = 'Can\'t fetch video! ';
-            errMsg += e.message;
+            try{
+                videoData = await getJson(`${corsProxy}${videoPathReq}/${video_id}/getPlaylistByMediaId`, corsHeadUK);
+            }
+            catch(e){
+                errMsg  = 'Can\'t fetch video! ';
+                errMsg += e.message;
+            }
         }
     }
     
@@ -535,7 +540,6 @@ function hideVideoBox(isBg){
     }
     
     if(player && player.player_){
-        
         player.dispose();
     }
     
