@@ -5922,16 +5922,16 @@
         "channel_description": "Ash está se preparando para participar da Liga de Hoenn, mas ainda precisa encarar muitos desafios. Não perca a 8ª temporada de Pokémon, a série na TV Pokémon!",
         "channel_images": {
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1125x1500-br.jpg",
-            "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-960x1277.jpg",
-            "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-2048x1152.jpg",
-            "spotlight_image_1660_940": "",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-2732x940.jpg"
+            "spotlight_image_960_1277": "",
+            "spotlight_image_2048_1152": "",
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1660x940-br.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1660x940-br.png"
         },
         "category_id": 1,
         "category": "Series",
         "order": -8000,
         "channel_creation_date": 1614961424,
-        "channel_update_date": 1614961410,
+        "channel_update_date": 1659714164,
         "media": [
             {
                 "id": "e6254693812d4ed6b4e08950a11d8165",
@@ -19624,14 +19624,14 @@
             "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1125x1500-br.png",
             "spotlight_image_960_1277": "",
             "spotlight_image_2048_1152": "",
-            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-7-1660x940-br.png",
-            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-7-1660x940-br.png"
+            "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-8-1660x940-br.png",
+            "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-8-1660x940-br.png"
         },
         "category_id": 4,
         "category": "Specials",
         "order": -1655479601,
         "channel_creation_date": 1655479601,
-        "channel_update_date": 1659109299,
+        "channel_update_date": 1659714164,
         "media": [
             {
                 "id": "1b7b4907e671429ebbcfcd1afb03004c",
@@ -19744,6 +19744,22 @@
                 "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OB/swoffbyr3zsJsDm1eJgHw6m1XFu6j94XC0X0LuzIw/vtt/1/pt-BR.vtt",
                 "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aU/EhMih9ttXzcFNt1fdtnw2sUvAvH1Wmnf617wOsVTQ/poketoon-ep07---snorunt---s-summer-vacation-br.mp4",
                 "size": 902151121
+            },
+            {
+                "id": "34e7ab27bc3649acb866bdbea8be4449",
+                "season": "",
+                "episode": "",
+                "title": "A canção de Jigglypuff",
+                "description": "Jigglypuff está triste porque sua música é diferente das de outros Jigglypuff. Será que ele conseguirá encontrar a melodia certa com a ajuda de uma amiga?",
+                "images": {
+                    "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep08_ss04_180_103.jpg",
+                    "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep08_ss04.png",
+                    "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep08_ss04_360_206.jpg"
+                },
+                "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZR/ns3G3LpeVH3CuRJ1i2OcdxQ2YDFa60TmuXulLsbfw/08_jigglypuff_bpo_v3-7aaea7cce2055661490ca719a84a081f471dc94f.m3u8",
+                "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZR/ns3G3LpeVH3CuRJ1i2OcdxQ2YDFa60TmuXulLsbfw/vtt/1/pt-BR.vtt",
+                "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q5/NNd4szj3XrNthi0P0r6sp3EEjRZ7y6U7v0mBgj1Kg/08_jigglypuff_bpo_v3.mp4",
+                "size": 747976206
             }
         ]
     },
