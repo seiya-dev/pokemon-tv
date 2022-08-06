@@ -431,54 +431,23 @@ async function showVideoBox(){
     }
     title += v.title;
     
-    let videoData, mobileVideoData, captionsData, captionsUrl, errMsg;
+    let videoData, captionsUrl, errMsg;
     
     try{
         videoData = await getJson(`${videoPathReq}/${video_id}/getPlaylistByMediaId`);
-        mobileVideoData = await getJson(`${videoPathReq}/${video_id}/getMobilePlaylistByMediaId`);
     }
     catch(e){
-        try {
-            videoData = await getJson(`${videoPathReq2}/${video_id}/getPlaylistByMediaId`, {
-                'x-cors-headers': JSON.stringify({
-                    'X-Forwarded-For': '192.232.168.23',
-                    'Origin': 'https://watch.pokemon.com',
-                })
-            });
-            mobileVideoData = await getJson(`${videoPathReq2}/${video_id}/getMobilePlaylistByMediaId`, {
-                'x-cors-headers': JSON.stringify({
-                    'X-Forwarded-For': '192.232.168.23',
-                    'Origin': 'https://watch.pokemon.com',
-                })
-            });
-        } catch(e){
-            try {
-                videoData = await getJson(`${videoPathReq2}/${video_id}/getPlaylistByMediaId`, {
-                    'x-cors-headers': JSON.stringify({
-                        'X-Forwarded-For': '86.5.53.25',
-                        'Origin': 'https://watch.pokemon.com',
-                    })
-                });
-                mobileVideoData = await getJson(`${videoPathReq2}/${video_id}/getMobilePlaylistByMediaId`, {
-                    'x-cors-headers': JSON.stringify({
-                        'X-Forwarded-For': '86.5.53.25',
-                        'Origin': 'https://watch.pokemon.com',
-                    })
-                });
-            } catch(e) {
-                errMsg  = 'Can\'t fetch video! ';
-                errMsg += e.message;
-            }
-        } 
-    }
-
-    if(mobileVideoData && mobileVideoData.mediaList[0].flags.includes("ClosedCaptions") == true){
-        try {
-            captionsData = await getJson(`${videoPathReq2}/${video_id}/getClosedCaptionsDetailsByMediaId`);
-            captionsUrl = "https://cors2.nyaku.xyz/?" + captionsData[0].webvttFileUrl.replace("http://", "https://");
-        } catch(e) {
-            captionsUrl = null;
+        try{
+            videoData = await getJson(`${corsProxy}${videoPathReq}/${video_id}/getPlaylistByMediaId`, corsHead);
         }
+        catch(e){
+            errMsg  = 'Can\'t fetch video! ';
+            errMsg += e.message;
+        }
+    }
+    
+    if(videoData && v.captions && v.captions != ''){
+        captionsUrl = corsProxy + v.captions;
     }
     
     if(videoData){
@@ -589,7 +558,6 @@ function genVideoTag(video, poster, captionsUrl){
     sourceEl.src      = video;
     sourceEl.type     = 'video/mp4';
     videoEl.appendChild(sourceEl);
-
     if (captionsUrl){
         const trackEl = document.createElement('track');
         trackEl.kind = 'captions';
@@ -597,6 +565,5 @@ function genVideoTag(video, poster, captionsUrl){
         trackEl.label = 'CC';
         videoEl.appendChild(trackEl);
     }
-
     return videoEl;
 }
