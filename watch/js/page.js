@@ -135,7 +135,7 @@ function loadData(){
     
     for(let c of cats){
         const pgbtn = addEl({type: 'button', class: [], text: c});
-        pgbtn.addEventListener('click',()=>{ channel = ''; video_id = ''; loadCat(c); }, false);
+        pgbtn.addEventListener('click',() => { channel = ''; video_id = ''; loadCat(c); }, false);
         selEl('#pages').appendChild(pgbtn);
     }
     
@@ -212,7 +212,7 @@ function loadCat(cat){
     }
 }
 
-async function showChannel(){
+function showChannel(){
     const curCannel = tvData.channels.filter(s => s.channel_id == channel);
     
     if(curCannel.length < 1){
@@ -342,9 +342,9 @@ async function showChannel(){
             class: ['episode-tile'],
         });
         
-        pTile.addEventListener('click', () => {
+        pTile.addEventListener('click', async () => {
             video_id = v.id;
-            showVideoBox();
+            await showVideoBox();
         }, false);
         
         const pImg = addEl({
@@ -408,17 +408,16 @@ async function showChannel(){
 
 async function showVideoBox(){
     const curCannel = tvData.channels.filter(s => s.channel_id == channel);
-    
     if(curCannel.length < 1){
         return;
     }
-    
     const curVideo = curCannel[0].media.filter(v => v.id == video_id);
-    
     if(curVideo.length < 1){
         return;
     }
     
+    let channel_video_count = curCannel[0].media.length;
+    let video_index = curCannel[0].media.indexOf(curVideo[0]);
     window.location.hash = `#/${tvRegion}/video?id=` + video_id;
     uriLoader();
     
@@ -469,13 +468,19 @@ async function showVideoBox(){
             }
         }
         
-        selEl('#photobox').appendChild(genVideoTag(url, poster, captionsUrl));
+        genVideoTag(url, poster, captionsUrl);
         player = videojs('#' + pl_id, {
             controlBar: {
                 volumePanel: { inline: false },
             },
         });
-        selEl('#' + pl_id).appendChild(generateHeaderBar(title));
+        generateHeaderBar(title);
+        if(video_index > 0){
+            makeControlButton('previous');
+        }
+        if(video_index < channel_video_count - 1){
+            makeControlButton('next');
+        }
         player.mobileUi();
         player.hotkeys({
             volumeStep: 0.1,
@@ -531,7 +536,39 @@ function generateHeaderBar(title){
     mainTitleEl.classList.add('vjs-header-bar');
     mainTitleEl.appendChild(mainTitleElSmall);
     
-    return mainTitleEl;
+    selEl('#' + pl_id).appendChild(mainTitleEl);
+}
+
+function makeControlButton(type = ''){
+    const buttonCfg = {};
+    if(type == 'previous'){
+        buttonCfg.class = 'vjs-backward';
+        buttonCfg.text = 'Previous';
+    }
+    else if(type == 'next'){
+        buttonCfg.class = 'vjs-forward';
+        buttonCfg.text = 'Next';
+    }
+    else{
+        console.warn('[Warn] Wrong button type!');
+        return;
+    }
+    
+    const controlButton = document.createElement('button');
+    controlButton.type = 'button';
+    controlButton.classList.add('vjs-play-control', 'vjs-control', 'vjs-button', buttonCfg.class);
+    controlButton.title = buttonCfg.text;
+    
+    const controlButtonSpan1 = document.createElement('span');
+    controlButtonSpan1.classList.add('vjs-icon-placeholder');
+    controlButton.appendChild(controlButtonSpan1);
+    const controlButtonSpan2 = document.createElement('span');
+    controlButtonSpan2.classList.add('vjs-control-text');
+    controlButtonSpan2.innerText = buttonCfg.text;
+    controlButton.appendChild(controlButtonSpan2);
+    
+    controlButton.addEventListener('click', async () => { await changeVideo(type); }, false);
+    selEl(`#${pl_id} .vjs-control-bar`).prepend(controlButton);
 }
 
 function hideVideoBox(isBg){
@@ -565,7 +602,7 @@ function genVideoTag(video, poster, captionsUrl){
     sourceEl.src      = video;
     sourceEl.type     = 'video/mp4';
     videoEl.appendChild(sourceEl);
-    if (captionsUrl){
+    if(captionsUrl){
         const trackEl = document.createElement('track');
         // trackEl.default = 'default';
         trackEl.kind = 'captions';
@@ -573,5 +610,44 @@ function genVideoTag(video, poster, captionsUrl){
         trackEl.label = 'CC';
         videoEl.appendChild(trackEl);
     }
-    return videoEl;
+    selEl('#photobox').appendChild(videoEl);
+}
+
+async function changeVideo(type){
+    const curCannel = tvData.channels.filter(s => s.channel_id == channel);
+    if(curCannel.length < 1){
+        return;
+    }
+    const curVideo = curCannel[0].media.filter(v => v.id == video_id);
+    if(curVideo.length < 1){
+        return;
+    }
+    
+    let channel_video_count = curCannel[0].media.length;
+    let video_index = curCannel[0].media.indexOf(curVideo[0]);
+    let new_video_id = video_id;
+    
+    if(type == 'first'){
+        new_video_id = curCannel[0].media[0].id;
+    }
+    if(type == 'previous' && video_index > 0){
+        new_video_id = curCannel[0].media[video_index - 1].id;
+    }
+    if(type == 'next' && video_index < channel_video_count - 1){
+        new_video_id = curCannel[0].media[video_index + 1].id;
+    }
+    if(type == 'last'){
+        new_video_id = curCannel[0].media[channel_video_count - 1].id;
+    }
+    
+    if(new_video_id == video_id){
+        return;
+    }
+    
+    video_id = new_video_id;
+    if(player && player.player_){
+        player.dispose();
+    }
+    
+    await showVideoBox();
 }

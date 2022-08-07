@@ -187,6 +187,16 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
     width: 23px !important;
 }
 
+.vjs-button.vjs-backward > .vjs-icon-placeholder::before {
+    content: "\f120" !important;
+    font-family: VideoJS !important;
+}
+
+.vjs-button.vjs-forward > .vjs-icon-placeholder::before {
+    content: "\f11f" !important;
+    font-family: VideoJS !important;
+}
+
 @media only screen and (max-width: 768px) {
     .nav-home-logo {
         flex-grow: 10;
