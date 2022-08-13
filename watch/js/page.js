@@ -581,7 +581,7 @@ async function showVideoBox(){
         videoTitle = vData.title;
     }
     
-    let posterUrl = vData.imageUrl;
+    let posterUrl = vData.imageUrl.replace('http://', 'https://');
     if(v.images && v.images.large && v.images.large != ''){
         posterUrl = v.images.large;
     }
