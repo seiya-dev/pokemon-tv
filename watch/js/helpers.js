@@ -31,7 +31,7 @@ const getJson = (url, headers={}) => {
             }
             else{
                 if(r.status == 404){
-                    throw new Error('Wrong parameters!');
+                    throw new Error('Not Found!');
                 }
                 else if(r.status == 403){
                     throw new Error('Forbidden 403!');
@@ -40,7 +40,7 @@ const getJson = (url, headers={}) => {
                     throw new Error('Server Error!');
                 }
                 else{
-                    throw new Error('Unknown error!');
+                    throw new Error('Unknown Error!');
                 }
             }
         })

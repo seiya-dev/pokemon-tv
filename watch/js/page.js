@@ -43,11 +43,14 @@ async function loadMain(cc){
     
     if(uriData[2] == 'video' && uriLoader()['uri'].searchParams.get('id')){
         for(let c of tvData.channels){
-            let selVideo = c.media.filter(v => v.id ==  uriLoader()['uri'].searchParams.get('id') && c.category_id != 2);
+            let selVideo = c.media.filter(v => v.id == uriLoader()['uri'].searchParams.get('id') && c.category_id != 2);
             if(selVideo.length > 0){
                 channel  = c.channel_id;
-                video_id = uriLoader()['uri'].searchParams.get('id')
+                video_id = uriLoader()['uri'].searchParams.get('id');
             }
+        }
+        if(video_id == '' && uriLoader()['uri'].searchParams.get('id').match(/^[-0-9a-f]{32}$/)){
+            video_id = uriLoader()['uri'].searchParams.get('id');
         }
     }
     else if(uriData[2] == 'channel' && uriLoader()['uri'].searchParams.get('id')){
@@ -241,7 +244,6 @@ function showChannel(){
     chanImg = chanImg1 && chanImg1 != '' ? chanImg1 : chanImg;
     chanImg = chanImg != '' ? chanImg : 'img/channel.png';
     
-    
     const hImg = addEl({
         type: 'img',
         class: ['hero-background', 'lazy'],
@@ -406,121 +408,11 @@ function showChannel(){
     
 }
 
-async function showVideoBox(){
-    const curCannel = tvData.channels.filter(s => s.channel_id == channel);
-    if(curCannel.length < 1){
-        return;
-    }
-    const curVideo = curCannel[0].media.filter(v => v.id == video_id);
-    if(curVideo.length < 1){
-        return;
-    }
-    
-    let channel_video_count = curCannel[0].media.length;
-    let video_index = curCannel[0].media.indexOf(curVideo[0]);
-    window.location.hash = `#/${tvRegion}/video?id=` + video_id;
-    uriLoader();
-    
-    cleanup('photobox');
-    const v = curVideo[0];
-    
-    selEl('body').style.overflow = 'hidden';
-    selEl('#photobox').style.display = 'block';
-    
-    let title = '';
-    if(v.season != '' && v.episode != ''){
-        title += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
-    }
-    title += v.title;
-    
-    let videoData, captionsUrl, errMsg;
-    
-    try{
-        videoData = await getJson(`${videoPathReq}/${video_id}/getPlaylistByMediaId`);
-    }
-    catch(e){
-        try{
-            videoData = await getJson(`${corsProxy}${videoPathReq}/${video_id}/getPlaylistByMediaId`, corsHeadUS);
-        }
-        catch(e){
-            try{
-                videoData = await getJson(`${corsProxy}${videoPathReq}/${video_id}/getPlaylistByMediaId`, corsHeadUK);
-            }
-            catch(e){
-                errMsg  = 'Can\'t fetch video! ';
-                errMsg += e.message;
-            }
-        }
-    }
-    
-    if(videoData && v.captions && v.captions != ''){
-        captionsUrl = corsProxy + v.captions;
-    }
-    
-    if(videoData){
-        let streams = videoData.playlistItems[0].streams, bitrate = 0, url = '';
-        let poster = v.images.large;
-        
-        for(let s in streams){
-            if(bitrate < streams[s].videoBitRate){
-                bitrate = streams[s].videoBitRate;
-                url = rtmp2dl(streams[s].url);
-            }
-        }
-        
-        genVideoTag(url, poster, captionsUrl);
-        player = videojs('#' + pl_id, {
-            controlBar: {
-                volumePanel: { inline: false },
-            },
-        });
-        generateHeaderBar(title);
-        if(video_index > 0){
-            makeControlButton('previous');
-        }
-        if(video_index < channel_video_count - 1){
-            makeControlButton('next');
-        }
-        player.mobileUi();
-        player.hotkeys({
-            volumeStep: 0.1,
-            seekStep: 5,
-            enableModifiersForNumbers: false,
-            alwaysCaptureHotkeys: true,
-        });
-    }
-    if(errMsg){
-        selEl('#photobg').style.display = 'block';
-        selEl('#photobg').addEventListener('click', () => { hideVideoBox(true) }, false);
-        const videoErrEl1 = addEl({
-            type: 'span',
-            text: errMsg,
-        });
-        const videoErrEl2 = addEl({
-            type: 'br',
-        });
-        const videoErrEl3 = addEl({
-            type: 'span',
-            text: 'Tip: Try another region.',
-        });
-        const videoErrElCont  = addEl({
-            type: 'div',
-        });
-        videoErrElCont.appendChild(videoErrEl1);
-        videoErrElCont.appendChild(videoErrEl2);
-        videoErrElCont.appendChild(videoErrEl3);
-        const videoErrDiv = document.createElement('div');
-        videoErrDiv.id = 'video-error';
-        videoErrDiv.appendChild(videoErrElCont);
-        selEl('#photobox').appendChild(videoErrDiv);
-    }
-}
-
-function generateHeaderBar(title){
+function generateVideoHeader(videoTitle){
     const videoTitleEl  = addEl({
         type: 'span',
-        class: [ 'header-description', ],
-        text: title,
+        class: [ 'header-description' ],
+        text: videoTitle,
     });
     
     const closeEl = document.createElement('span');
@@ -539,7 +431,16 @@ function generateHeaderBar(title){
     selEl('#' + pl_id).appendChild(mainTitleEl);
 }
 
-function makeControlButton(type = ''){
+function makeControlButton(type = '', new_video_id = ''){
+    const curCannel = tvData.channels.filter(s => s.channel_id == channel);
+    if(curCannel.length < 1){
+        return;
+    }
+    const curVideo = curCannel[0].media.filter(v => v.id == new_video_id);
+    if(curVideo.length < 1){
+        return;
+    }
+    
     const buttonCfg = {};
     if(type == 'previous'){
         buttonCfg.class = 'vjs-backward';
@@ -567,12 +468,18 @@ function makeControlButton(type = ''){
     controlButtonSpan2.innerText = buttonCfg.text;
     controlButton.appendChild(controlButtonSpan2);
     
-    controlButton.addEventListener('click', async () => { await changeVideo(type); }, false);
+    controlButton.addEventListener('click', async () => {
+        video_id = new_video_id;
+        if(player && player.player_){
+            player.dispose();
+        }
+        await showVideoBox();
+    }, false);
     selEl(`#${pl_id} .vjs-control-bar`).prepend(controlButton);
 }
 
-function hideVideoBox(isBg){
-    if(isBg){
+function hideVideoBox(isHideBgEvent){
+    if(isHideBgEvent){
         selEl('#photobg').removeEventListener('click', hideVideoBox, false);
     }
     
@@ -584,22 +491,22 @@ function hideVideoBox(isBg){
     selEl('#photobg').style.display = 'none';
     selEl('body').style.overflow = 'auto';
     
-    window.location.hash = `#/${tvRegion}/channel?id=` + channel;
+    window.location.hash = `#/${tvRegion}/` + (channel != '' ? 'channel?id=' + channel : '');
     uriLoader();
 }
 
-function genVideoTag(video, poster, captionsUrl){
+function genVideoEl(videoUrl, posterUrl, captionsUrl){
     const videoEl     = document.createElement('video');
     videoEl.id        = pl_id;
     videoEl.className = 'video-js';
     videoEl.preload   = 'metadata';
     videoEl.controls  = 'controls';
     videoEl.dataset = {};
-    if(poster){
-        videoEl.dataset.setup = `{ "poster": "${poster}" }`
+    if(posterUrl){
+        videoEl.dataset.setup = `{ "poster": "${posterUrl}" }`
     }
     const sourceEl    = document.createElement('source');
-    sourceEl.src      = video;
+    sourceEl.src      = videoUrl;
     sourceEl.type     = 'video/mp4';
     videoEl.appendChild(sourceEl);
     if(captionsUrl){
@@ -613,41 +520,180 @@ function genVideoTag(video, poster, captionsUrl){
     selEl('#photobox').appendChild(videoEl);
 }
 
-async function changeVideo(type){
-    const curCannel = tvData.channels.filter(s => s.channel_id == channel);
-    if(curCannel.length < 1){
+async function showVideoBox(){
+    cleanup('photobox');
+    selEl('body').style.overflow = 'hidden';
+    selEl('#photobox').style.display = 'block';
+    
+    if(typeof video_id != 'string'){
+        showErrorVideoBox(['Wrong video ID!', 'Code: Video ID not a string']);
         return;
     }
-    const curVideo = curCannel[0].media.filter(v => v.id == video_id);
-    if(curVideo.length < 1){
-        return;
-    }
-    
-    let channel_video_count = curCannel[0].media.length;
-    let video_index = curCannel[0].media.indexOf(curVideo[0]);
-    let new_video_id = video_id;
-    
-    if(type == 'first'){
-        new_video_id = curCannel[0].media[0].id;
-    }
-    if(type == 'previous' && video_index > 0){
-        new_video_id = curCannel[0].media[video_index - 1].id;
-    }
-    if(type == 'next' && video_index < channel_video_count - 1){
-        new_video_id = curCannel[0].media[video_index + 1].id;
-    }
-    if(type == 'last'){
-        new_video_id = curCannel[0].media[channel_video_count - 1].id;
-    }
-    
-    if(new_video_id == video_id){
+    if(!video_id.match(/^[-0-9a-f]{32}$/)){
+        showErrorVideoBox(['Wrong video ID!', 'Code: Video ID incorrect']);
         return;
     }
     
-    video_id = new_video_id;
-    if(player && player.player_){
-        player.dispose();
+    showLoadingVideoBox();
+    const videoData = await requestVideoId();
+    if(!videoData.ok){
+        let errVideo = [videoData.data];
+        if(videoData.is_404){
+            errVideo.push('Code: Video Not Found');
+        }
+        else{
+            errVideo.push('Tip: Try another region');
+        }
+        showErrorVideoBox(errVideo);
+        return;
     }
     
-    await showVideoBox();
+    window.location.hash = `#/${tvRegion}/video?id=` + video_id;
+    uriLoader();
+    
+    let vData = videoData.data, videoUrl = '', vBitrate = 0;
+    let streams = vData.playlistItems[0].streams;
+    
+    for(let s in streams){
+        if(vBitrate < streams[s].videoBitRate){
+            vBitrate = streams[s].videoBitRate;
+            videoUrl = rtmp2dl(streams[s].url);
+        }
+    }
+    
+    let curCannel = tvData.channels.filter(s => s.channel_id == channel);
+    curCannel = curCannel.length > 0 ? curCannel[0] : { media: [] };
+    let curVideo = curCannel.media.filter(v => v.id == video_id);
+    curVideo = curVideo.length > 0 ? curVideo[0] : {};
+    
+    const v = curVideo;
+    const channelVideoCount = curCannel.media.length;
+    const videoIndex = curCannel.media.indexOf(v);
+    
+    let videoTitle = '';
+    if(v.season && v.episode && v.season != '' && v.episode != ''){
+        videoTitle += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
+    }
+    if(v.title){
+        videoTitle += v.title;
+    }
+    if(videoTitle == ''){
+        videoTitle = vData.title;
+    }
+    
+    let posterUrl = vData.imageUrl;
+    if(v.images && v.images.large && v.images.large != ''){
+        posterUrl = v.images.large;
+    }
+    
+    let captionsUrl;
+    if(v.captions && v.captions != ''){
+        captionsUrl = corsProxy + v.captions;
+    }
+    else if(!v.captions){
+        const reqCC = await requestVideoId('closed captions');
+        if(reqCC.ok && reqCC.data.length > 0){
+            captionsUrl = corsProxy + reqCC.data[0].webvttFileUrl.replace('http://', 'https://');
+        }
+    }
+    
+    cleanup('photobox');
+    genVideoEl(videoUrl, posterUrl, captionsUrl);
+    player = videojs('#' + pl_id, {
+        controlBar: {
+            volumePanel: { inline: false },
+        },
+    });
+    
+    generateVideoHeader(videoTitle);
+    
+    let new_video_id;
+    if(videoIndex > 0){
+        new_video_id = curCannel.media[videoIndex - 1].id;
+        makeControlButton('previous', new_video_id);
+    }
+    if(videoIndex < channelVideoCount - 1){
+        new_video_id = curCannel.media[videoIndex + 1].id;
+        makeControlButton('next', new_video_id);
+    }
+    
+    player.mobileUi();
+    player.hotkeys({
+        volumeStep: 0.1,
+        seekStep: 5,
+        enableModifiersForNumbers: false,
+        alwaysCaptureHotkeys: true,
+    });
+}
+
+function showLoadingVideoBox(){
+    const videoLoadingCont = addEl({ type: 'div' });
+    const videoLoadingTxt = addEl({ type: 'span', text: 'Loading...', });
+    videoLoadingCont.appendChild(videoLoadingTxt);
+    const videoLoadingDiv = addEl({ type: 'div', id: 'video-loading' });
+    videoLoadingDiv.appendChild(videoLoadingCont);
+    selEl('#photobox').appendChild(videoLoadingDiv);
+}
+
+async function requestVideoId(type = '', corsId = 0){
+    const corsHeaders = [
+        {},
+        corsHeadUS,
+        corsHeadUK,
+    ];
+    
+    let reqMethod;
+    switch(type) {
+        case 'video':
+            reqMethod = 'getPlaylistByMediaId';
+            break;
+        case 'mobile video':
+            reqMethod = 'getMobilePlaylistByMediaId';
+            break;
+        case 'closed captions':
+            reqMethod = 'getClosedCaptionsDetailsByMediaId';
+            break;
+        default:
+            reqMethod = 'getPlaylistByMediaId';
+    } 
+    
+    try{
+        const corsProxyUri = corsId > 0 ? corsProxy : '';
+        const videoData = await getJson(`${corsProxyUri}${videoPathReq}/${video_id}/${reqMethod}`, corsHeaders[corsId]);
+        return { ok: true, is_404: false, data: videoData };
+    }
+    catch(e){
+        corsId++;
+        if(corsId  < corsHeaders.length && e.message != 'Error: Not Found!'){
+            return await requestVideoId(type, corsId);
+        }
+        else{
+            const is_404 = e.message == 'Error: Not Found!' ? true : false;
+            return { ok: false, is_404: is_404, data: `Can\'t fetch ${type}! ${e.message}` };
+        }
+    }
+}
+
+function showErrorVideoBox(errArr){
+    cleanup('photobox');
+    selEl('#photobg').style.display = 'block';
+    selEl('#photobg').addEventListener('click', () => { hideVideoBox(true) }, false);
+    const videoErrCont = addEl({ type: 'div' });
+    
+    for(let errIdx in errArr){
+        const errTxt = errArr[errIdx];
+        const videoErr = addEl({
+            type: 'span',
+            text: errTxt,
+        });
+        videoErrCont.appendChild(videoErr);
+        if(errArr > errIdx+1){
+            const videoErrSep = addEl({ type: 'br' });
+            videoErrCont.appendChild(videoErrSep);
+        }
+    }
+    
+    const videoErrDiv = addEl({ type: 'div', id: 'video-error' });
+    videoErrDiv.appendChild(videoErrCont);
+    selEl('#photobox').appendChild(videoErrDiv);
 }

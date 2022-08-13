@@ -7,6 +7,7 @@
     "type": "module",
     "scripts": {
         "start": "node pokemon.js",
+        "host": "http-server \"./watch/\" -p 10103 -c-1",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
