@@ -15,17 +15,23 @@ function cleanup(type){
 // get json
 const getJson = (url, headers={}) => {
     return fetch(url, {mode: 'cors', headers: headers})
-        .then(async function(r){
+        .then(async function (r){
             if(r.status == 200){
                 let jres = await r.text();
                 if(jres.match(/^({|\[)/)){
                     jres = JSON.parse(jres);
+                    if(jres.error){
+                        throw new Error(jres.error);
+                    }
+                }
+                else if(jres.match(/^#EXTM3U/)){
+                    const parser = new m3u8Parser.Parser();
+                    parser.push(jres);
+                    parser.end();
+                    jres = parser.manifest;
                 }
                 else{
                     throw new Error('Forbidden 403!');
-                }
-                if(jres.error){
-                    throw new Error(jres.error);
                 }
                 return jres;
             }
@@ -47,7 +53,20 @@ const getJson = (url, headers={}) => {
         .catch(function(e){
             throw new Error(e);
         });
-};
+}
+
+const getHeaders = async (url) => {
+    try {
+        const req = await fetch(url, {method: 'HEAD'});
+        if(req.status == 200){
+            return { ok: true, data: req };
+        }
+        return { ok: false, data: req };
+    }
+    catch(e){
+        return { ok: false, data: e };
+    }
+}
 
 function addEl(data){
     // create

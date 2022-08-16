@@ -188,7 +188,31 @@ select:hover,
 button.vjs-play-control.vjs-control.vjs-button,
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused,
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
-    width: 23px !important;
+    transform: translate(50%);
+}
+
+.vjs-volume-panel button {
+    width: 40px !important;
+    height: 40px !important;
+    margin-left: 5px !important;
+}
+
+.video-js .vjs-volume-panel .vjs-volume-control.vjs-volume-vertical {
+    margin-left: 30px;
+}
+
+.vjs-subs-caps-button {
+    margin-top: 25px !important;
+    margin-right: 10px !important;
+    margin-left: 15px !important;
+}
+
+.vjs-subs-caps-button .vjs-menu{
+    margin-bottom: 0 !important;
+}
+
+.vjs-progress-control{
+    margin-left: 10px !important;
 }
 
 .vjs-button.vjs-backward > .vjs-icon-placeholder::before {

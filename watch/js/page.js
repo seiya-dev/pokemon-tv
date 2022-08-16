@@ -505,9 +505,17 @@ function genVideoEl(videoUrl, posterUrl, captionsUrl){
     if(posterUrl){
         videoEl.dataset.setup = `{ "poster": "${posterUrl}" }`
     }
-    const sourceEl    = document.createElement('source');
-    sourceEl.src      = videoUrl;
-    sourceEl.type     = 'video/mp4';
+    const sourceEl = document.createElement('source');
+    sourceEl.src = videoUrl;
+    if(sourceEl.src.match(/\.mp4$/i)){
+        sourceEl.type = 'video/mp4';
+    }
+    if(sourceEl.src.match(/\.m3u8$/i)){
+        sourceEl.type = 'application/x-mpegURL';
+    }
+    if(sourceEl.src.match(/^data:application\/vnd.videojs.vhs\+json/)){
+        sourceEl.type = 'application/vnd.videojs.vhs+json';
+    }
     videoEl.appendChild(sourceEl);
     if(captionsUrl){
         const trackEl = document.createElement('track');
@@ -521,22 +529,74 @@ function genVideoEl(videoUrl, posterUrl, captionsUrl){
 }
 
 async function showVideoBox(){
+    if(player && player.player_){
+        player.dispose();
+    }
+    
     cleanup('photobox');
     selEl('body').style.overflow = 'hidden';
     selEl('#photobox').style.display = 'block';
     
-    if(typeof video_id != 'string'){
-        showErrorVideoBox(['Wrong video ID!', 'Code: Video ID not a string']);
-        return;
+    let curCannel = tvData.channels.filter(s => s.channel_id == channel);
+    curCannel = curCannel.length > 0 ? curCannel[0] : { media: [] };
+    let curVideo = curCannel.media.filter(v => v.id == video_id);
+    curVideo = curVideo.length > 0 ? curVideo[0] : {};
+    
+    const v = curVideo;
+    const channelVideoCount = curCannel.media.length;
+    const videoIndex = curCannel.media.indexOf(v);
+    
+    v.stream_url_root = '';
+    if(typeof v.stream_url != 'string'){
+        v.stream_url = '';
     }
-    if(!video_id.match(/^[-0-9a-f]{32}$/)){
-        showErrorVideoBox(['Wrong video ID!', 'Code: Video ID incorrect']);
-        return;
+    
+    if(!v.images || Object.prototype.toString.call(v.images) != '[object Object]'){
+        v.images = {};
     }
     
     showLoadingVideoBox();
-    const videoData = await requestVideoId();
-    if(!videoData.ok){
+    
+    let checkVideoId = false;
+    let videoData = {}, videoDataMobile = {};
+    let vData = {}, checkMaster = {}, videoUrl = '', vBitrate = 0;
+    
+    if(typeof video_id == 'string' && video_id.match(/^[-0-9a-f]{32}$/)){
+        checkVideoId = true;
+    }
+    
+    if(v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
+        const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
+        checkMaster = await getHeaders(corsProxy  + '/?' + masterUrl);
+        checkMaster.checked = true;
+        if(checkMaster.ok){
+            videoUrl = masterUrl;
+            console.log('master url:', videoUrl)
+        }
+    }
+    
+    if(checkVideoId && videoUrl == ''){
+        if(!checkMaster.checked){
+            videoDataMobile = await requestVideoId('mobile video');
+            if(videoDataMobile.ok){
+                const m3u8url = videoDataMobile.data.mediaList[0].mobileUrls[0].mobileUrl;
+                const masterUrlVdm = m3u8url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
+                checkMaster = await getHeaders(corsProxy  + '/?' + masterUrlVdm);
+                if(checkMaster.ok){
+                    videoUrl = masterUrlVdm;
+                    console.log('master url:', masterUrlVdm)
+                }
+            }
+        }
+        if(videoUrl == ''){
+            videoData = await requestVideoId();
+        }
+    }
+    else{
+        videoData = { ok: false, is_404: true, data: 'Video ID incorrect' };
+    }
+    
+    if(!videoData.ok && v.stream_url == ''){
         let errVideo = [videoData.data];
         if(videoData.is_404){
             errVideo.push('Code: Video Not Found');
@@ -551,24 +611,52 @@ async function showVideoBox(){
     window.location.hash = `#/${tvRegion}/video?id=` + video_id;
     uriLoader();
     
-    let vData = videoData.data, videoUrl = '', vBitrate = 0;
-    let streams = vData.playlistItems[0].streams;
-    
-    for(let s in streams){
-        if(vBitrate < streams[s].videoBitRate){
-            vBitrate = streams[s].videoBitRate;
-            videoUrl = rtmp2dl(streams[s].url);
+    if(videoData.ok){
+        vData =  videoData.data
+        const streams = vData.playlistItems[0].streams;
+        for(let s in streams){
+            if(vBitrate < streams[s].videoBitRate){
+                vBitrate = streams[s].videoBitRate;
+                videoUrl = rtmp2dl(streams[s].url);
+            }
         }
     }
     
-    let curCannel = tvData.channels.filter(s => s.channel_id == channel);
-    curCannel = curCannel.length > 0 ? curCannel[0] : { media: [] };
-    let curVideo = curCannel.media.filter(v => v.id == video_id);
-    curVideo = curVideo.length > 0 ? curVideo[0] : {};
+    const m3u8data = { use: false };
+    if(videoUrl == '' && v.stream_url != ''){
+        videoUrl = v.stream_url;
+        if(v.stream_url.match(/\.m3u8$/)){
+            try{
+                m3u8data.use = true;
+                m3u8data.root = '';
+                m3u8data.origin = new URL(v.stream_url).origin;
+                const videoStreamData = await getJson(corsProxy  + '/?' + videoUrl);
+                videoStreamData.playlists.sort((a, b) => {
+                    const brA = a.attributes.BANDWIDTH;
+                    const brB = b.attributes.BANDWIDTH;
+                    if(brA < brB){
+                        return 1;
+                    }
+                    if(brA > brB){
+                        return -1;
+                    }
+                    return 0;
+                })
+                videoStreamData.playlists = [ videoStreamData.playlists[0] ];
+                videoStreamData.playlists[0].uri = corsProxy + '/?' + m3u8data.origin + videoStreamData.playlists[0].uri;
+                videoUrl = `data:application/vnd.videojs.vhs+json,${JSON.stringify(videoStreamData)}`;
+            }
+            catch(e){
+                showErrorVideoBox(['Video not found!']);
+                return;
+            }
+        }
+    }
     
-    const v = curVideo;
-    const channelVideoCount = curCannel.media.length;
-    const videoIndex = curCannel.media.indexOf(v);
+    if(videoUrl == ''){
+        showErrorVideoBox(['Video not found!']);
+        return;
+    }
     
     let videoTitle = '';
     if(v.season && v.episode && v.season != '' && v.episode != ''){
@@ -577,31 +665,70 @@ async function showVideoBox(){
     if(v.title){
         videoTitle += v.title;
     }
-    if(videoTitle == ''){
+    if(videoTitle == '' && vData.title){
         videoTitle = vData.title;
     }
+    if(videoTitle == ''){
+        videoTitle = 'PLAYING...';
+    }
     
-    let posterUrl = vData.imageUrl.replace('http://', 'https://');
-    if(v.images && v.images.large && v.images.large != ''){
+    let posterUrl = '';
+    if(typeof vData.imageUrl == 'string' && vData.imageUrl != ''){
+        posterUrl = vData.imageUrl.replace('http://', 'https://');
+    }
+    if(typeof v.images.large == 'string' && v.images.large != ''){
         posterUrl = v.images.large;
     }
     
     let captionsUrl;
-    if(v.captions && v.captions != ''){
-        captionsUrl = corsProxy + v.captions;
+    if(typeof v.captions == 'string' && v.captions != ''){
+        captionsUrl = corsProxy + '/?' + v.captions;
     }
-    else if(!v.captions){
+    else if(checkVideoId && typeof v.captions != 'string' || checkVideoId && v.captions == ''){
         const reqCC = await requestVideoId('closed captions');
         if(reqCC.ok && reqCC.data.length > 0){
-            captionsUrl = corsProxy + reqCC.data[0].webvttFileUrl.replace('http://', 'https://');
+            captionsUrl = corsProxy + '/?' + reqCC.data[0].webvttFileUrl.replace('http://', 'https://');
         }
     }
+    
+    videojs.Vhs.xhr.beforeRequest = function (options) {
+        if(m3u8data.use && v.stream_url != ''){
+            if(options.uri.match(/\.m3u8$/)){
+                m3u8data.root = options.uri.split('/').slice(0, -1).join('/');
+            }
+            const file = new URL(options.uri).pathname;
+            if(file.match(/^\/playlist\d+\.ts$/)){
+                options.uri = m3u8data.root + file;
+            }
+        }
+        return options;
+    };
     
     cleanup('photobox');
     genVideoEl(videoUrl, posterUrl, captionsUrl);
     player = videojs('#' + pl_id, {
+        preload: 'auto',
+        html5: {
+            vhs: {
+                overrideNative: true,
+            },
+            nativeAudioTracks: false,
+            nativeVideoTracks: false,
+        },
         controlBar: {
-            volumePanel: { inline: false },
+            controls: true,
+            volumePanel: {
+                inline: false ,
+            },
+            children: [
+                'playToggle',
+                'volumeMenuButton',
+                'progressControl',
+                'volumePanel',
+                'subsCapsButton',
+                'qualitySelector',
+                'fullscreenToggle',
+            ],
         },
     });
     
@@ -638,8 +765,8 @@ function showLoadingVideoBox(){
 async function requestVideoId(type = '', corsId = 0){
     const corsHeaders = [
         {},
-        corsHeadUS,
-        corsHeadUK,
+        generateProxyHeader('us'),
+        generateProxyHeader('uk'),
     ];
     
     let reqMethod;
@@ -648,7 +775,7 @@ async function requestVideoId(type = '', corsId = 0){
             reqMethod = 'getPlaylistByMediaId';
             break;
         case 'mobile video':
-            reqMethod = 'getMobilePlaylistByMediaId';
+            reqMethod = 'getMobilePlaylistByMediaId?platform=HttpLiveStreaming&';
             break;
         case 'closed captions':
             reqMethod = 'getClosedCaptionsDetailsByMediaId';
@@ -658,7 +785,7 @@ async function requestVideoId(type = '', corsId = 0){
     } 
     
     try{
-        const corsProxyUri = corsId > 0 ? corsProxy : '';
+        const corsProxyUri = corsId > 0 ? corsProxy + '/?' : '';
         const videoData = await getJson(`${corsProxyUri}${videoPathReq}/${video_id}/${reqMethod}`, corsHeaders[corsId]);
         return { ok: true, is_404: false, data: videoData };
     }
@@ -671,6 +798,15 @@ async function requestVideoId(type = '', corsId = 0){
             const is_404 = e.message == 'Error: Not Found!' ? true : false;
             return { ok: false, is_404: is_404, data: `Can\'t fetch ${type}! ${e.message}` };
         }
+    }
+}
+
+function generateProxyHeader(cc){
+    return {
+        'x-cors-headers': JSON.stringify({
+            'X-Forwarded-For': corsProxyIP[cc],
+            'Origin': 'https://watch.pokemon.com',
+        }),
     }
 }
 

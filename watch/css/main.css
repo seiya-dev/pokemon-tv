@@ -1481,16 +1481,16 @@ section.c-season-hero .bottom-season-info .flag {
     font-size: 1.5rem!important;
     line-height: normal!important;
     height: 40px!important;
-    margin-top: 30px!important;
+    /* margin-top: 30px!important; */
     width: 40px!important;
-    margin-left: 20px
+    /* margin-left: 20px; */
 }
 .vjs-subs-caps-button.vjs-menu-button.vjs-menu-button-popup.vjs-control.vjs-button button.vjs-subs-caps-button {
     height: 40px!important;
     width: 40px!important
 }
 .video-js .vjs-volume-panel .vjs-volume-control.vjs-volume-vertical {
-    margin-left: 35px
+    /* margin-left: 35px; */
 }
 .vjs-volume-panel.vjs-control.vjs-volume-panel-vertical {
     font-size: 1.5rem!important;
@@ -1498,11 +1498,11 @@ section.c-season-hero .bottom-season-info .flag {
     margin-top: 26px!important;
     height: 46px!important;
     width: 40px!important;
-    margin-right: 10px
+    margin-right: 10px;
 }
 .vjs-volume-panel.vjs-control.vjs-volume-panel-vertical button.vjs-mute-control.vjs-control.vjs-button {
-    width: 50px;
-    height: 50px
+    /* width: 50px; */
+    /* height: 50px; */
 }
 button.vjs-fullscreen-control.vjs-control.vjs-button {
     font-size: 1.5rem!important;
