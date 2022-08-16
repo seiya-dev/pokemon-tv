@@ -624,6 +624,7 @@ async function showVideoBox(){
     
     const m3u8data = { use: false };
     if(videoUrl == '' && v.stream_url != ''){
+        /*
         videoUrl = v.stream_url;
         if(v.stream_url.match(/\.m3u8$/)){
             try{
@@ -651,6 +652,7 @@ async function showVideoBox(){
                 return;
             }
         }
+        */
     }
     
     if(videoUrl == ''){
