@@ -2,8 +2,9 @@ const videoPathReq = 'https://production-ps.lvp.llnw.net/r/PlaylistService/media
 const corsProxy = 'https://cors2.nyaku.xyz';
 
 const corsProxyIP = {
-    'us': '192.232.168.23',
+    'us': '3.3.3.3',
     'uk': '86.5.53.25',
+    'se': '46.195.212.60',
 };
 
 const tvRegions = {

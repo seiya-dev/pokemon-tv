@@ -767,9 +767,11 @@ function showLoadingVideoBox(){
 async function requestVideoId(type = '', corsId = 0){
     const corsHeaders = [
         {},
-        generateProxyHeader('us'),
-        generateProxyHeader('uk'),
     ];
+    
+    if(corsProxyIP[tvRegion]){
+        corsHeaders.push(generateProxyHeader(tvRegion));
+    }
     
     let reqMethod;
     switch(type) {
