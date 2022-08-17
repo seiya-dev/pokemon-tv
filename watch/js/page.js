@@ -597,7 +597,7 @@ async function showVideoBox(){
         videoData = { ok: false, is_404: true, data: 'Video ID incorrect' };
     }
     
-    if(!videoData.ok && v.stream_url == ''){
+    if(!videoData.ok && v.stream_url == '' && videoUrl == ''){
         let errVideo = [videoData.data];
         if(videoData.is_404){
             errVideo.push('Code: Video Not Found');
@@ -612,7 +612,7 @@ async function showVideoBox(){
     window.location.hash = `#/${tvRegion}/video?id=` + video_id;
     uriLoader();
     
-    if(videoData.ok){
+    if(videoData.ok && videoUrl == ''){
         vData =  videoData.data
         const streams = vData.playlistItems[0].streams;
         for(let s in streams){
@@ -621,6 +621,7 @@ async function showVideoBox(){
                 videoUrl = rtmp2dl(streams[s].url);
             }
         }
+        console.log('stream url:', videoUrl);
     }
     
     if(videoUrl == ''){
