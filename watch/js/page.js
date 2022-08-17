@@ -545,6 +545,7 @@ async function showVideoBox(){
     const v = curVideo;
     const channelVideoCount = curCannel.media.length;
     const videoIndex = curCannel.media.indexOf(v);
+    const m3u8data = { use: false };
     
     v.stream_url_root = '';
     if(typeof v.stream_url != 'string'){
@@ -620,39 +621,6 @@ async function showVideoBox(){
                 videoUrl = rtmp2dl(streams[s].url);
             }
         }
-    }
-    
-    const m3u8data = { use: false };
-    if(videoUrl == '' && v.stream_url != ''){
-        /*
-        videoUrl = v.stream_url;
-        if(v.stream_url.match(/\.m3u8$/)){
-            try{
-                m3u8data.use = true;
-                m3u8data.root = '';
-                m3u8data.origin = new URL(v.stream_url).origin;
-                const videoStreamData = await getJson(corsProxy  + '/?' + videoUrl);
-                videoStreamData.playlists.sort((a, b) => {
-                    const brA = a.attributes.BANDWIDTH;
-                    const brB = b.attributes.BANDWIDTH;
-                    if(brA < brB){
-                        return 1;
-                    }
-                    if(brA > brB){
-                        return -1;
-                    }
-                    return 0;
-                })
-                videoStreamData.playlists = [ videoStreamData.playlists[0] ];
-                videoStreamData.playlists[0].uri = corsProxy + '/?' + m3u8data.origin + videoStreamData.playlists[0].uri;
-                videoUrl = `data:application/vnd.videojs.vhs+json,${JSON.stringify(videoStreamData)}`;
-            }
-            catch(e){
-                showErrorVideoBox(['Video not found!']);
-                return;
-            }
-        }
-        */
     }
     
     if(videoUrl == ''){
