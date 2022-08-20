@@ -1,13 +1,16 @@
-// ESM to CJS
-import { createRequire } from 'module';
-const require = createRequire(import.meta.url);
-
 // build-in modules
 import fs from 'fs';
 import path from 'path';
 
-// CJS var
+// dependencies
+import gm from 'got';
+import ProxyAgent from 'proxy-agent';
+
+// helpers
 const __dirname = path.resolve();
+const jsonLoad = (file) => {
+    return JSON.parse(fs.readFileSync(file));
+}
 
 // got config
 const gotCfg = {
@@ -26,16 +29,14 @@ const proxy = myArgs[0] && myArgs[0] != '' ? myArgs[0] : '';
 
 // set proxy agent
 if(proxy != ''){
-    const ProxyAgent = require('proxy-agent');
     gotCfg.agent = { https: new ProxyAgent(proxy) };
 }
 
-// req module
-import gm from 'got';
+// set req module cfg
 const got = gm.extend(gotCfg);
 
 // program
-const packageJson = require(path.join(__dirname, 'package.json'));
+const packageJson = jsonLoad(path.join(__dirname, 'package.json'));
 console.log(`\n=== ${packageJson.programName} ${packageJson.version} ===\n`);
 const dbfolder = path.join(__dirname, '/database/');
 const dbfolderBk = path.join(__dirname, '/old_backups/');
@@ -133,7 +134,7 @@ async function indexOldBuckups(){
 async function parseBackupChannel(file, cc, date){
     cc = file.split('.')[0];
     date = file.split('.')[1];
-    const data = require(dbfolderBk + file);
+    const data = jsonLoad(dbfolderBk + file);
     const ltable = [];
     for(let c of data){
         if(c.media_type == 'non-animation'){
@@ -210,7 +211,7 @@ async function indexDb(){
         const ccfolder = fs.readdirSync(dirPath(cc));
         dbData[cc] = [];
         for(let f of ccfolder){
-            const data = require(dirPath(cc) + f);
+            const data = jsonLoad(dirPath(cc) + f);
             const chImg = data.channel_images.dashboard_image_1125_1500;
             const cat = findCat(data, chImg);
             Object.assign(data, cat);
