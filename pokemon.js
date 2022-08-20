@@ -3,8 +3,8 @@ import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 
 // build-in modules
-const fs   = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 // CJS var
 const __dirname = path.resolve();
