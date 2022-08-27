@@ -4,48 +4,52 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="./favicon.ico" type="image/x-icon" />
     <title>Watch Pokémon TV</title>
     <!-- libs -->
     <script src="https://unpkg.com/yall-js@3/dist/yall.min.js"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css"/>
-    <!-- main -->
-    <link rel="stylesheet" href="css/main.css"/>
-    <link rel="stylesheet" href="css/page.css"/>
-    <script src="js/helpers.js"></script>
-    <script src="js/const.js"></script>
-    <script src="js/page.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Exo+2">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/normalize.css/normalize.css"/>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/bootstrap@4/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css"/>
     <!-- videojs -->
-    <link rel="stylesheet" href="https://unpkg.com/video.js/dist/video-js.css" type="text/css"/>
-    <link rel="stylesheet" href="https://unpkg.com/videojs-mobile-ui/dist/videojs-mobile-ui.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/video.js/dist/video-js.css"/>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/videojs-mobile-ui/dist/videojs-mobile-ui.css">
     <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
     <script src="https://unpkg.com/videojs-hotkeys/videojs.hotkeys.min.js"></script>
     <script src="https://unpkg.com/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
     <script src="https://unpkg.com/m3u8-parser/dist/m3u8-parser.min.js"></script>
+    <!-- main -->
+    <link rel="stylesheet" type="text/css" href="./css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/header.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/page.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/footer.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/player.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/player0.css"/>
+    <script src="./js/helpers.js"></script>
+    <script src="./js/const.js"></script>
+    <script src="./js/page.js"></script>
 </head>
 <body id="body">
 
-<header id="pokemonHeader" class="s-header sticky-top">
+<header id="pokemon-header" class="s-header">
     <div class="container">
         <nav id="navbar" class="navbar">
             <span class="nav-home-logo mr-md-3">
-                <img src="img/PTVLogo.svg" alt="" class="ptv-logo">
+                <img src="./img/PTVLogo.svg" alt="" class="ptv-logo">
             </span>
-            <nav id="pages" class="ml-0"></nav>
+            <nav id="nav-buttons" class="ml-0">
+            </nav>
         </nav>
     </div>
 </header>
 
-
-
-<div id="bodyContent" class="gradient-background">
+<div id="body-content" class="gradient-background">
 </div>
 
-<!-- Box -->
-<div id="photobox">
+<div id="player-box">
 </div>
-<div id="photobg">
+<div id="player-close-button">
 <span>&#215;</span>
 </div>
 
@@ -53,11 +57,10 @@
     <div class="container">
         <div class="legal-container text-center">
             <h3 class="p-3">Pokémon TV</h3>
-            <div id="selRegion">
+            <div id="select-region">
                 <select id="region">
                     <option value="us">United States</option>
                 </select>
-                <span id="change" class="button">Change</span>
             </div>
             <div class="legal-links p-3">
                 <ul class="flex-wrap justify-content-center">

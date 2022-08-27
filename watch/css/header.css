@@ -1,0 +1,59 @@
+.s-header {
+    top: 0;
+    position: sticky;
+    z-index: 10;
+}
+
+.s-header .container {
+    background-color: #14c6f0;
+    max-width: unset;
+}
+
+.s-header .container nav {
+    display: flex;
+    margin: auto;
+}
+
+@media only screen and (max-width: 767px) {
+    .nav-home-logo {
+        text-align: center;
+        width: 100%;
+    }
+    .nav-home-logo img {
+        margin-left: 0 !important;
+        margin-bottom: 1rem;
+    }
+    #nav-buttons {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+.s-header .container nav .nav-home-logo img {
+    width: 54px;
+    height: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 35px;
+}
+
+#nav-buttons {
+    flex-wrap: wrap;
+}
+
+#nav-buttons button {
+    border: 0;
+    background-color: unset;
+    font-size: large;
+    min-width: 100px;
+    height: 50px;
+    border-radius: .25rem;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+#nav-buttons button:hover {
+    background-color: rgba(255, 255, 255, .25);
+    cursor: pointer;
+}

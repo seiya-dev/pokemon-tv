@@ -1,0 +1,100 @@
+#player-close-button {
+    position: fixed;
+    z-index: 21;
+    display: none;
+    top: 0;
+    right: 0;
+}
+
+#player-close-button span {
+    font-size: 50px;
+    line-height: .5;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #f00;
+    cursor: pointer;
+}
+
+#player-close-button span:hover {
+    font-weight: 900;
+    text-decoration: none;
+}
+
+#player-box {
+    display: none;
+    z-index: 20;
+    position: fixed;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+}
+
+
+#player-box #video-error,
+#player-box #video-loading,
+#playerContainer {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#player-box #video-error div,
+#player-box #video-loading div {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+#player-box #video-error div span,
+#player-box #video-loading div span {
+    line-height: 1.5;
+}
+
+#playerContainer .vjs-big-play-button {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.video-js .vjs-header-bar {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background: rgba(43, 51, 63, .7);
+    font-size: 1.875rem;
+    padding-left: 40px;
+}
+
+.video-js .vjs-header-bar .header-back-button {
+    margin-right: 20px;
+    cursor: pointer
+}
+
+.video-js .vjs-header-bar .header-back-button:before {
+    color: #ffcb00;
+    content: "\f053";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    opacity: 1;
+}
+
+.video-js .vjs-header-bar .header-bar-small {
+    display: flex;
+    align-items: center;
+}
+
+.video-js .vjs-header-bar .header-description {
+    font-size: 1.5rem;
+}

@@ -1,38 +1,36 @@
-const videoPathReq = 'https://production-ps.lvp.llnw.net/r/PlaylistService/media';
+const videoApiReq = 'https://production-ps.lvp.llnw.net/r/PlaylistService/media';
 const corsProxy = 'https://cors2.nyaku.xyz';
 
-const corsProxyIP = {
-    'us': '3.3.3.3',
-    'uk': '86.5.53.25',
-    'fr': '2.2.2.2',
-    'it': '2.32.0.1',
-    'de': '2.160.0.1',
-    'es': '2.152.0.1',
-    'el': '8.14.224.1',
-    'br': '179.93.224.1',
-    'ru': '5.104.32.1',
-    'dk': '2.128.0.1',
-    'nl': '24.132.0.1',
-    'fi': '37.130.160.1',
-    'no': '92.221.54.1',
-    'se': '46.195.212.1',
+const tvRegions = {
+    'us': { name: 'United States',  ip: '3.3.3.3',      },
+    'uk': { name: 'UK',             ip: '86.5.53.25',   },
+    'fr': { name: 'France',         ip: '2.2.2.2',      },
+    'it': { name: 'Italia',         ip: '2.32.0.1',     },
+    'de': { name: 'Deutschland',    ip: '2.160.0.1',    },
+    'es': { name: 'España',         ip: '2.152.0.1',    },
+    'el': { name: 'América Latina', ip: '8.14.224.1',   },
+    'br': { name: 'Brasil',         ip: '179.93.224.1', },
+    'ru': { name: 'Россия',         ip: '5.104.32.1',   },
+    'dk': { name: 'Danmark',        ip: '2.128.0.1',    },
+    'nl': { name: 'Nederland',      ip: '24.132.0.1',   },
+    'fi': { name: 'Suomi',          ip: '37.130.160.1', },
+    'no': { name: 'Norge',          ip: '92.221.54.1',  },
+    'se': { name: 'Sverige',        ip: '46.195.212.1', },
 };
 
-const tvRegions = {
-    'us': 'United States',
-    'uk': 'UK',
-    'fr': 'France',
-    'it': 'Italia',
-    'de': 'Deutschland',
-    'es': 'España',
-    'el': 'América Latina',
-    'br': 'Brasil',
-    'ru': 'Россия',
-    'dk': 'Danmark',
-    'nl': 'Nederland',
-    'fi': 'Suomi',
-    'no': 'Norge',
-    'se': 'Sverige',
+const tlData = {
+    us: {},
+    ru: {
+        Series: 'Сериалы',
+        Stuns: 'Коллекции',
+        Movies: 'Фильмы',
+        Specials: 'Спец. выпуски',
+        Junior: 'Для детей',
+        Season: 'Сезон',
+        Episodes: 'Серий',
+        Episode: 'Серия',
+        Loading: 'Загрузка',
+    },
 };
 
 const imgBase64 = {

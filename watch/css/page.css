@@ -1,240 +1,216 @@
-@font-face {
-    font-family: FlexoHeavy;
-    src: url(../fonts/flexo-heavy.woff);
-}
-@font-face {
-    font-family: FlexoMedium;
-    src: url(../fonts/flexo-medium.woff);
-}
-@font-face {
-    font-family: FlexoDemi;
-    src: url(../fonts/flexo-demi.woff);
-}
-@font-face {
-    font-family: FlexoThin;
-    src: url(../fonts/flexo-thin.woff);
-}
-@font-face {
-    font-family: FlexoRegular;
-    src: url(../fonts/flexo.woff);
-}
-@font-face {
-    font-family: FlexoBold;
-    src: url(../fonts/flexo-bold.woff);
+.gradient-background {
+    background-image: linear-gradient(to bottom, #14c6f0, #091d57 750px);
+    min-height: 75%;
+    height: auto;
+    overflow-x: hidden;
 }
 
-body {
-    background-color: black !important;
+.c-category-screen .row {
+    padding-left: 42.5px;
+    padding-right: 42.5px;
+    margin: auto;
+    padding-bottom: 30px;
 }
 
-.s-header {
-    height: unset;
+.channel-tile {
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+    padding-bottom: 15px;
+    overflow: hidden;
 }
 
-#navbar button {
-    border: 0;
-    background-color: unset;
-    font-family: FlexoBold;
-    font-size: large;
-    min-width: 100px;
-    height: 50px;
-    border-radius: .25rem;
-    margin-left: 5px;
+.channel-tile span {
+    display: block;
 }
 
-#navbar button:hover {
-    background-color: rgba(255, 255, 255, .25);
+.channel-tile span:hover {
     cursor: pointer;
 }
 
-#pages {
-    flex-wrap: wrap;
-}
-
-#catTitle {
-    padding-top: 30px;
-    height: 60px;
-}
-
-#posters span:hover,
-select:hover,
-#change:hover {
-    cursor: pointer;
+.channel-tile img {
+    object-fit: contain;
+    max-width: 100%;
+    border-radius: 10px;
+    filter: contrast(100%) brightness(1);
 }
 
 .channel-tile:hover img {
     filter: contrast(110%) brightness(1.1);
 }
 
-.season-info-wrapper {
-    padding: 20px 30px 20px 30px !important;
+.c-season-hero {
+    padding-bottom: 25px;
 }
 
-.episode-img-cover {
+.c-season-hero .hero-container {
+    max-width: 1920px;
+    padding: 0;
+}
+
+.c-season-hero .hero-background {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.c-season-hero .bottom-season-info {
+    display: block;
+    padding: 0 0 15px 0;
+    margin: auto;
+}
+
+.c-season-hero .bottom-season-info .row {
+    padding-bottom: 1.5vh;
+    margin: 0;
+}
+
+.c-season-hero .bottom-season-info h2 {
+    line-height: 24px
+}
+
+.c-season-hero .bottom-season-info h3 {
+    line-height: 20px
+}
+
+.c-season-hero .bottom-season-info h5 {
+    line-height: 18px;
+    opacity: .6;
+}
+
+.c-season-hero .bottom-season-info h6 {
+    line-height: 16px;
+    opacity: .6;
+}
+
+@media only screen and (max-width: 767px) {
+    .c-season-hero {
+        padding: 0;
+    }
+    .c-season-hero .hero-background {
+        border-radius: 0;
+    }
+    .c-season-hero .bottom-season-info {
+        padding: 20px 25px;
+    }
+    .c-season-hero .bottom-season-info div:last-child {
+        padding-bottom: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .c-season-hero .hero-container {
+        padding: 0 30px;
+    }
+    .c-season-hero .season-info-wrapper {
+        padding: 20px 30px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .c-season-hero .hero-container {
+        padding: 0 30px;
+    }
+    .c-season-hero .season-info-wrapper {
+        padding: 25px 30px 0 30px;
+    }
+    .c-season-hero .bottom-season-info {
+        padding: 0;
+    }
+    .c-season-hero .bottom-season-info div:last-child {
+        padding-bottom: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .c-season-hero {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+.c-season-episodes {
+    padding-bottom: 25px;
+}
+
+.c-season-episodes .episode-card {
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.c-season-episodes .episode-img-cover .episode-tile {
+    border-radius: 10px;
     cursor: pointer;
 }
 
-.s-footer {
-    background-image: url(../img/background_footer.png);
+.c-season-episodes .episode-img-cover .episode-tile:hover {
+    box-shadow: 0 0 0 4pt #fff;
 }
 
-.s-footer .legal-container {
-    margin-top: 0px;
-    padding-top: 50px;
-}
-
-.s-footer .legal-links {
-    padding-bottom: 50px !important;
-}
-
-#video-error,
-#video-loading,
-#selRegion,
-#selRegion select,
-#selRegion option {
-    font-weight: bold;
-    font-family: FlexoRegular, sans-serif;
-}
-
-#region,
-#change {
-    background-color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    width: 150px;
-    text-align: center;
-}
-
-#region {
-    height: 50px;
-}
-
-#change {
-    padding: 5px;
-    line-height: 38px;
-    display: inline-block;
-}
-
-#photobg {
-    position: fixed;
-    z-index: 10010;
-    display: none;
-    top: 0;
-    right: 0;
-}
-
-#photobg span {
-    font-size: 50px;
-    line-height: .5;
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    color: #f00;
-    cursor: pointer;
-}
-
-#photobg span:hover {
-    font-weight: 900;
-    text-decoration: none;
-}
-
-#photobox {
-    display: none;
-    z-index: 10001;
-    position: fixed;
-    overflow: hidden;
-    left: 0;
-    top: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    height: 100%;
+.c-season-episodes .episode-img-cover img {
+    border-radius: 10px;
     width: 100%;
+    object-fit: contain;
 }
 
-#photobox #video-error,
-#photobox #video-loading,
-#playerContainer {
-    top: 0;
-    left: 0;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
-#photobox #video-error div,
-#photobox #video-loading div {
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-align: center;
-}
-
-#photobox #video-error div span,
-#photobox #video-loading div span {
-    line-height: 1;
-}
-
-#playerContainer .vjs-big-play-button {
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.vjs-header-bar {
+.c-season-episodes .episode-thumbnail.col-12 {
+    padding-bottom: 25px;
     display: flex;
+    flex-wrap: wrap;
 }
 
-button.vjs-play-control.vjs-control.vjs-button,
-button.vjs-play-control.vjs-control.vjs-button.vjs-paused,
-button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
-    transform: translate(50%);
+.c-season-episodes .tile-episode-info {
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
-.vjs-volume-panel button {
-    width: 40px !important;
-    height: 40px !important;
-    margin-left: 5px !important;
+.c-season-episodes p {
+    line-height: 16px;
+    opacity: 0.6;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
-.video-js .vjs-volume-panel .vjs-volume-control.vjs-volume-vertical {
-    margin-left: 30px;
+.c-season-episodes h4 {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
 }
 
-.vjs-subs-caps-button {
-    margin-top: 25px !important;
-    margin-right: 10px !important;
-    margin-left: 15px !important;
+.c-season-episodes .tile-episode-number {
+    font-size: 14px;
+    padding-bottom: 10px;
 }
 
-.vjs-subs-caps-button .vjs-menu{
-    margin-bottom: 0 !important;
+.c-season-episodes .episode-card h2 {
+    margin-bottom: 20px;
+    margin-left: 30px
 }
 
-.vjs-progress-control{
-    margin-left: 10px !important;
+.c-season-episodes .episode-card h3,
+.c-season-episodes .episode-card h4,
+.c-season-episodes .episode-card h5 {
+    line-height: 18px;
 }
 
-.vjs-button.vjs-backward > .vjs-icon-placeholder::before {
-    content: "\f120" !important;
-    font-family: VideoJS !important;
+.c-season-episodes .tile-episode-divider {
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 0;
+    border-bottom: 1px solid #fff;
+    opacity: 0.25;
 }
 
-.vjs-button.vjs-forward > .vjs-icon-placeholder::before {
-    content: "\f11f" !important;
-    font-family: VideoJS !important;
+.c-season-episodes .tile-episode-divider-first {
+    margin: 0 15px 25px 15px;
 }
 
-@media only screen and (max-width: 768px) {
-    .nav-home-logo {
-        flex-grow: 10;
-        text-align: center;
-    }
-    .nav-home-logo img {
-        margin-left: 0 !important;
-        margin-bottom: 10px;
-    }
-    #pages {
-        justify-content: center;
+@media only screen and (max-width: 767px) {
+    .c-season-episodes .tile-episode-info {
+        padding-top: 25px;
+        padding-bottom: 0;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }

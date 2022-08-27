@@ -1,96 +1,39 @@
-// shorthands
-function selEl(el){
-    return document.querySelector(el);
-}
-Element.prototype.append = function(html){
-    this.insertAdjacentHTML('beforeend', html);
+const qSel = (target) => {
+    return document.querySelector(target);
 };
-function cleanup(type){
-    const photosNode = selEl('#'+type);
-    while (photosNode.firstChild) {
-        photosNode.removeChild(photosNode.firstChild);
-    }
-}
 
-// get json
-const getJson = (url, headers={}) => {
-    return fetch(url, {mode: 'cors', headers: headers})
-        .then(async function (r){
-            if(r.status == 200){
-                let jres = await r.text();
-                if(jres.match(/^({|\[)/)){
-                    jres = JSON.parse(jres);
-                    if(jres.error){
-                        throw new Error(jres.error);
-                    }
-                }
-                else if(jres.match(/^#EXTM3U/)){
-                    const parser = new m3u8Parser.Parser();
-                    parser.push(jres);
-                    parser.end();
-                    jres = parser.manifest;
-                }
-                else{
-                    throw new Error('Forbidden 403!');
-                }
-                return jres;
-            }
-            else{
-                if(r.status == 404){
-                    throw new Error('Not Found!');
-                }
-                else if(r.status == 403){
-                    throw new Error('Forbidden 403!');
-                }
-                else if(r.status == 500){
-                    throw new Error('Server Error!');
-                }
-                else{
-                    throw new Error('Unknown Error!');
-                }
-            }
-        })
-        .catch(function(e){
-            throw new Error(e);
-        });
-}
+const qSelAll = (target) => {
+    return document.querySelectorAll(target);
+};
 
-const getHeaders = async (url) => {
-    try {
-        const req = await fetch(url, {method: 'HEAD'});
-        if(req.status == 200){
-            return { ok: true, data: req };
-        }
-        return { ok: false, data: req };
+const removeChildEls = (parentElId) => {
+    const parentEl = qSel('#' + parentElId);
+    while (parentEl.firstChild) {
+        parentEl.removeChild(parentEl.firstChild);
     }
-    catch(e){
-        return { ok: false, data: e };
-    }
-}
+};
 
-function addEl(data){
-    // create
-    let newEl = document.createElement(data.type);
-    // add text
-    if(data.type == 'span' && !data.text){
+const appendHTML = (target, html) => {
+    return qSel(target).insertAdjacentHTML('beforeend', html);
+};
+
+function createEl(type, data={}){
+    const el = document.createElement(type);
+    if(type == 'span' && !data.text){
         data.text = ' ';
     }
-    newEl.innerText = data.text || '';
-    // classes
+    el.innerText = data.text || '';
     if(data.class){
-        for(let c of data.class){
-            newEl.classList.add(c);
+        for(const c of data.class){
+            el.classList.add(c);
         }
     }
-    // dataset
     if(data.dataset){
-        newEl.dataset = {};
-        for(let d of Object.keys(data.dataset)){
-            newEl.dataset[d] = data.dataset[d];
+        for(const d of Object.keys(data.dataset)){
+            el.dataset[d] = data.dataset[d];
         }
     }
-    // more options
-    const optsColl = [
+    const elOpts = [
         'id',
         'value',
         'alt',
@@ -100,28 +43,64 @@ function addEl(data){
         'controls',
         'autoplay',
         'loop',
+        'preload',
         'download',
+        'kind',
+        'label',
+        'default',
         'loading',
         'title',
+        'innerHTML',
+        'innerText',
     ];
-    for(let o of optsColl){
+    for(let o of elOpts){
         if(o in data){
-            newEl[o] = data[o];
+            el[o] = data[o];
         }
     }
-    // --
-    return newEl;
+    if(data.event && data.event.type && data.event.func){
+        el.addEventListener(data.event.type, data.event.func, false);
+    }
+    if(data.child){
+        for(let child of data.child){
+            if(child && !child.notEl){
+                el.appendChild(child);
+            }
+        }
+    }
+    return el;
 }
+
+const doReq = async (url, headers={}) => {
+    try {
+        const res = await fetch(url, {mode: 'cors', headers: headers});
+        res.text = await res.text();
+        try{
+            res.json = JSON.parse(res.text);
+        }
+        catch(e){}
+        if(res.text.match(/^#EXTM3U/)){
+            const parser = new m3u8Parser.Parser();
+            parser.push(res.text);
+            parser.end();
+            res.extm3u = parser.manifest;
+        }
+        return res;
+    }
+    catch(err){
+        return { ok: false, err };
+    }
+};
 
 function u2s(url){
     return url.replace(/^http:/,'https:');
 }
 
-function rtmp2dl(url){
-    let rtmpLimelightDomain = url.split(':')[1].split('/')[2];
-    let httpLimelightDomain = limelightDomains[rtmpLimelightDomain] ?
-            limelightDomains[rtmpLimelightDomain] : rtmpLimelightDomain.replace(/\.csl\./,'.cpl.');
-    let path   = url.split(':')[2];
+function rtmp2http(url){
+    const rtmpLimelightDomain = url.split(':')[1].split('/')[2];
+    const httpLimelightDomain = limelightDomains[rtmpLimelightDomain] ?
+        limelightDomains[rtmpLimelightDomain] : rtmpLimelightDomain.replace(/\.csl\./,'.cpl.');
+    const path = url.split(':')[2];
     return `https://${httpLimelightDomain}/${path}`;
 }
 
@@ -129,4 +108,3 @@ const limelightDomains = {
     's2.csl.delvenetworks.com': 's2.cpl.delvenetworks.com',
     's2.csl.video.llnw.net':    's2.content.video.llnw.net',
 };
-
