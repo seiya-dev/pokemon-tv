@@ -18,7 +18,7 @@ jobs:
         run: |
           git config user.name seiya-git
           git config user.email seiya-git@users.noreply.github.com
-          git add .
+          git add . -- ':!database/uk/*' ':!watch/data/uk.json' ':!database/fr/*' ':!watch/data/fr.json' ':!database/it/*' ':!watch/data/it.json' ':!database/de/*' ':!watch/data/de.json' ':!database/es/*' ':!watch/data/es.json' ':!database/el/*' ':!watch/data/el.json' ':!database/br/*' ':!watch/data/br.json' ':!database/ru/*' ':!watch/data/ru.json' ':!database/dk/*' ':!watch/data/dk.json' ':!database/nl/*' ':!watch/data/nl.json' ':!database/fi/*' ':!watch/data/fi.json' ':!database/no/*' ':!watch/data/no.json' ':!database/se/*' ':!watch/data/se.json'
           git add --renormalize . -- ':!database/uk/*' ':!watch/data/uk.json' ':!database/fr/*' ':!watch/data/fr.json' ':!database/it/*' ':!watch/data/it.json' ':!database/de/*' ':!watch/data/de.json' ':!database/es/*' ':!watch/data/es.json' ':!database/el/*' ':!watch/data/el.json' ':!database/br/*' ':!watch/data/br.json' ':!database/ru/*' ':!watch/data/ru.json' ':!database/dk/*' ':!watch/data/dk.json' ':!database/nl/*' ':!watch/data/nl.json' ':!database/fi/*' ':!watch/data/fi.json' ':!database/no/*' ':!watch/data/no.json' ':!database/se/*' ':!watch/data/se.json'
           git commit -m"update $(date +%F) us"
           git push
