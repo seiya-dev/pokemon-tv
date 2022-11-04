@@ -221,32 +221,32 @@ function loadCat(cat){
 }
 
 function showChannel(){
-    let curCannel = tvData.channels.filter(s => s.channel_id == channel);
+    let curChannel = tvData.channels.filter(s => s.channel_id == channel);
     
-    if(curCannel.length < 1){
+    if(curChannel.length < 1){
         return;
     }
     
-    curCannel = curCannel[0];
+    curChannel = curChannel[0];
     removeChildEls('body-content');
     
     window.location.hash = `#/${tvRegion}/channel?id=` + channel;
     uriLoader();
     
-    let chanImg2 = curCannel.channel_images.spotlight_image_2048_1152;
-    let chanImg1 = curCannel.channel_images.spotlight_image_1660_940;
+    let chanImg2 = curChannel.channel_images.spotlight_image_2048_1152;
+    let chanImg1 = curChannel.channel_images.spotlight_image_1660_940;
     
     let chanImg = chanImg2 && chanImg2 != '' ? chanImg2 : '';
     chanImg = chanImg1 && chanImg1 != '' ? chanImg1 : chanImg;
     chanImg = chanImg != '' ? chanImg : '../img/channel.png';
     
     let channelInfo = [];
-    if(curCannel.category_id == 1){
+    if(curChannel.category_id == 1){
         channelInfo.push(createEl('div', {
             class: ['row', 'align-items-end'],
             child: [
-                createEl('h3', { class: ['d-inline', 'pr-2'], text: `${tlText('Season')} ${curCannel.order / -1000}` }),
-                createEl('h6', { class: ['d-inline'],         text: `${tlText('Episodes')} ${curCannel.media.length}` }),
+                createEl('h3', { class: ['d-inline', 'pr-2'], text: `${tlText('Season')} ${curChannel.order / -1000}` }),
+                createEl('h6', { class: ['d-inline'],         text: `${tlText('Episodes')} ${curChannel.media.length}` }),
             ],
         }));
     }
@@ -254,17 +254,17 @@ function showChannel(){
     channelInfo.push(createEl('div', {
         class: ['row'],
         child: [
-            createEl('h2', { text: curCannel.channel_name }),
+            createEl('h2', { text: curChannel.channel_name }),
         ],
     }));
     
-    if(curCannel.channel_description != ''){
+    if(curChannel.channel_description != ''){
         channelInfo.push(createEl('div', {
             class: ['row', 'season-description'],
             child: [
                 createEl('h5', {
                     class: ['p-0', 'col-12'],
-                    text: curCannel.channel_description,
+                    text: curChannel.channel_description,
                 }),
             ],
         }));
@@ -306,8 +306,8 @@ function showChannel(){
         ],
     });
     
-    for(let vi in curCannel.media){
-        const v = curCannel.media[vi];
+    for(let vi in curChannel.media){
+        const v = curChannel.media[vi];
         
         if(vi < 1){
             vSection.children[0].append(createEl('hr', {
@@ -318,7 +318,7 @@ function showChannel(){
         let epNumEl = { notEl: true };
         if(v.episode != ''){
             let vSeasonNum = '';
-            if(v.season != '' && curCannel.category_id == 2){
+            if(v.season != '' && curChannel.category_id == 2){
                 vSeasonNum = `${tlText('Season')} ${v.season} • `;
             }
             epNumEl = createEl('p', {
@@ -387,14 +387,14 @@ async function showPlayerBox(){
     qSel('body').style.overflow = 'hidden';
     qSel('#player-box').style.display = 'block';
     
-    let curCannel = tvData.channels.filter(s => s.channel_id == channel);
-    curCannel = curCannel.length > 0 ? curCannel[0] : { media: [] };
-    let curVideo = curCannel.media.filter(v => v.id == video_id);
+    let curChannel = tvData.channels.filter(s => s.channel_id == channel);
+    curChannel = curChannel.length > 0 ? curChannel[0] : { media: [] };
+    let curVideo = curChannel.media.filter(v => v.id == video_id);
     curVideo = curVideo.length > 0 ? curVideo[0] : {};
     
     const v = curVideo;
-    const channelVideoCount = curCannel.media.length;
-    const videoIndex = curCannel.media.indexOf(v);
+    const channelVideoCount = curChannel.media.length;
+    const videoIndex = curChannel.media.indexOf(v);
     const m3u8data = { use: false };
     
     v.stream_url_root = '';
@@ -557,11 +557,11 @@ async function showPlayerBox(){
     
     let new_video_id;
     if(videoIndex > 0){
-        new_video_id = curCannel.media[videoIndex - 1].id;
+        new_video_id = curChannel.media[videoIndex - 1].id;
         makeControlButton('previous', new_video_id);
     }
     if(videoIndex < channelVideoCount - 1){
-        new_video_id = curCannel.media[videoIndex + 1].id;
+        new_video_id = curChannel.media[videoIndex + 1].id;
         makeControlButton('next', new_video_id);
     }
     
@@ -603,11 +603,11 @@ function generatePlayerHeader(videoTitle){
 }
 
 function makeControlButton(type = '', new_video_id = ''){
-    const curCannel = tvData.channels.filter(s => s.channel_id == channel);
-    if(curCannel.length < 1){
+    const curChannel = tvData.channels.filter(s => s.channel_id == channel);
+    if(curChannel.length < 1){
         return;
     }
-    const curVideo = curCannel[0].media.filter(v => v.id == new_video_id);
+    const curVideo = curChannel[0].media.filter(v => v.id == new_video_id);
     if(curVideo.length < 1){
         return;
     }
