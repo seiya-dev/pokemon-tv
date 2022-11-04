@@ -6,6 +6,10 @@ import path from 'path';
 import gm from 'got';
 import ProxyAgent from 'proxy-agent';
 
+// argv
+import yargs from 'yargs/yargs';
+const argv = yargs(process.argv).argv;
+
 // helpers
 const __dirname = path.resolve();
 const jsonLoad = (file) => {
@@ -23,13 +27,9 @@ const gotCfg = {
     },
 };
 
-// proxy
-const myArgs = process.argv.slice(2);
-const proxy = myArgs[0] && myArgs[0] != '' ? myArgs[0] : '';
-
 // set proxy agent
-if(proxy != ''){
-    gotCfg.agent = { https: new ProxyAgent(proxy) };
+if(argv.proxy){
+    gotCfg.agent = { https: new ProxyAgent(argv.proxy) };
 }
 
 // set req module cfg
@@ -59,6 +59,9 @@ const tvRegion = {
     'se': 'Sverige',
 };
 
+// set tvs
+const selTvRegions = Object.keys(tvRegion).indexOf(argv.cc) > -1 ? [argv.cc] : Object.keys(tvRegion);
+
 // run app
 (async () => {
     await indexOldBuckups();
@@ -68,7 +71,7 @@ const tvRegion = {
 
 // try channels
 async function tryChannelsApi(){
-    for(let cc of Object.keys(tvRegion)){
+    for(let cc of selTvRegions){
         await getChannelApi(cc);
     }
 }
@@ -206,7 +209,7 @@ function saveData(path, data){
 
 async function indexDb(){
     const dbData = {};
-    for(let cc of Object.keys(tvRegion)){
+    for(let cc of selTvRegions){
         console.log(`# ${cc} Indexing ${tvRegion[cc]} channel data...`);
         const ccfolder = fs.readdirSync(dirPath(cc));
         dbData[cc] = [];
