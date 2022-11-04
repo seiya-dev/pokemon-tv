@@ -318,7 +318,7 @@ function showChannel(){
         let epNumEl = { notEl: true };
         if(v.episode != ''){
             let vSeasonNum = '';
-            if(v.season != '' && channel.match(/^stunts-/)){
+            if(v.season != '' && curCannel.category_id == 2){
                 vSeasonNum = `${tlText('Season')} ${v.season} • `;
             }
             epNumEl = createEl('p', {

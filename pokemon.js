@@ -64,8 +64,10 @@ const selTvRegions = Object.keys(tvRegion).indexOf(argv.cc) > -1 ? [argv.cc] : O
 
 // run app
 (async () => {
-    await indexOldBuckups();
-    await tryChannelsApi();
+    // await indexOldBuckups();
+    if(!argv.index){
+        await tryChannelsApi();
+    }
     await indexDb();
 })();
 
@@ -98,7 +100,7 @@ async function getChannelApi(cc, mediaList){
     }
 }
 
-async function getChannelId(c){
+async function getChannelId(c, skipCatName){
     const chImg = c.channel_images.dashboard_image_1125_1500;
     const chId = chImgClean(chImg).split('/').slice(0, -1);
     const cat = findCat(c, chImg);
@@ -111,55 +113,15 @@ async function getChannelId(c){
         chId[0] = 'movie14b';
     }
     
-    if(cat.name != ''){
+    if(cat.name != '' && !skipCatName){
         chId.unshift(cat.name);
     }
     
+    if(skipCatName && chId.length > 1){
+        chId.shift();
+    }
+    
     return chId.join('-');
-}
-
-async function indexOldBuckups(){
-    if(!fs.existsSync(dbfolderBk)){
-        return;
-    }
-    const oldDbFiles = fs.readdirSync(dbfolderBk);
-    if(!fs.existsSync(dbfolderBk + '/parsed/')){
-        fs.mkdirSync(dbfolderBk + '/parsed/');
-    }
-    for(const file of oldDbFiles){
-        if(!file.match(/\.json$/)){
-            continue;
-        }
-        parseBackupChannel(file);
-    }
-}
-
-async function parseBackupChannel(file, cc, date){
-    cc = file.split('.')[0];
-    date = file.split('.')[1];
-    const data = jsonLoad(dbfolderBk + file);
-    const ltable = [];
-    for(let c of data){
-        if(c.media_type == 'non-animation'){
-            continue;
-        }
-        
-        c.channel_images = fixImgObj(c.channel_images);
-        c.media = editMediaArr(c.media);
-        
-        const chImg = c.channel_images.dashboard_image_1125_1500;
-        const cat = findCat(data, chImg);
-        const channelId = await getChannelId(c);
-        if(cat.category_id == 1 && chImg.match(/vol/)){
-            continue;
-        }
-        
-        const file = cc + '_' + channelId + ( cat.category_id == 2 ? '_' + date : '' );
-        ltable.push({ ch: channelId, img: chImgClean(chImg), v: c.media.length });
-        saveData(dbfolderBk + '/parsed/' + file + '.json', c);
-    }
-    console.log('Backup @ %s %s', cc, date);
-    console.table(ltable);
 }
 
 function chImgClean(img){
@@ -245,7 +207,7 @@ async function indexDb(){
             }
             
             const chData = {
-                channel_id: await getChannelId(data),
+                channel_id: await getChannelId(data, true),
                 channel_id_ext: data.channel_id,
                 channel_name: data.channel_name,
                 channel_description: data.channel_description,
@@ -331,3 +293,50 @@ function sortItems(a, b){
     }
     return 0;
 }
+
+// ----------------------------------------------------------------
+
+async function indexOldBuckups(){
+    if(!fs.existsSync(dbfolderBk)){
+        return;
+    }
+    const oldDbFiles = fs.readdirSync(dbfolderBk);
+    if(!fs.existsSync(dbfolderBk + '/parsed/')){
+        fs.mkdirSync(dbfolderBk + '/parsed/');
+    }
+    for(const file of oldDbFiles){
+        if(!file.match(/\.json$/)){
+            continue;
+        }
+        parseBackupChannel(file);
+    }
+}
+
+async function parseBackupChannel(file, cc, date){
+    cc = file.split('.')[0];
+    date = file.split('.')[1];
+    const data = jsonLoad(dbfolderBk + file);
+    const ltable = [];
+    for(let c of data){
+        if(c.media_type == 'non-animation'){
+            continue;
+        }
+        
+        c.channel_images = fixImgObj(c.channel_images);
+        c.media = editMediaArr(c.media);
+        
+        const chImg = c.channel_images.dashboard_image_1125_1500;
+        const cat = findCat(data, chImg);
+        const channelId = await getChannelId(c);
+        if(cat.category_id == 1 && chImg.match(/vol/)){
+            continue;
+        }
+        
+        const file = cc + '_' + channelId + ( cat.category_id == 2 ? '_' + date : '' );
+        ltable.push({ ch: channelId, img: chImgClean(chImg), v: c.media.length });
+        saveData(dbfolderBk + '/parsed/' + file + '.json', c);
+    }
+    console.log('Backup @ %s %s', cc, date);
+    console.table(ltable);
+}
+
