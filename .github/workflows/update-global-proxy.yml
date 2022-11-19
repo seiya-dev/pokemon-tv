@@ -1,7 +1,5 @@
-name: Update data
+name: Update data with proxy
 on:
-  schedule:
-    - cron: '0 4 * * 6'
   workflow_dispatch: # Put here!!
 
 jobs:
@@ -13,12 +11,15 @@ jobs:
         with:
           node-version: 18
       - run: npm ci
-      - run: npm run start-us
+      - env:
+            PROXY_USER: ${{ secrets.PROXY_USER }}
+            PROXY_PASS: ${{ secrets.PROXY_PASS }}
+        run: npm run start-updater
       - name: commit and push changes
         run: |
           git config user.name seiya-git
           git config user.email seiya-git@users.noreply.github.com
           git add .
           git add --renormalize .
-          git commit -m"update $(date +%F) us"
+          git commit -m"update $(date +%F) global-proxy"
           git push
