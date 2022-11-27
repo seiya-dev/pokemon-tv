@@ -1,7 +1,5 @@
 name: Update data with proxy
 on:
-  schedule:
-    - cron: '0 7 * * 6'
   workflow_dispatch: # Put here!!
 
 jobs:
@@ -16,7 +14,6 @@ jobs:
       - env:
             PROXY_USER: ${{ secrets.PROXY_USER }}
             PROXY_PASS: ${{ secrets.PROXY_PASS }}
-            USE_CORS2: 1
         run: npm run start-updater
       - name: commit and push changes
         run: |
