@@ -1,0 +1,24 @@
+name: Update data with pia proxy
+on:
+  workflow_dispatch: # Put here!!
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 18
+      - run: npm ci
+      - env:
+            PROXY_TOKEN: ${{ secrets.PROXY_TOKEN }}
+        run: npm run start-updater-pia
+      - name: commit and push changes
+        run: |
+          git config user.name seiya-git
+          git config user.email seiya-git@users.noreply.github.com
+          git add .
+          git add --renormalize .
+          git commit -m"update $(date +%F) global-proxy"
+          git push
