@@ -31,7 +31,8 @@ const pass = process.env.PROXY_PASS;
 const got = gm.extend(gotCfg);
 
 try{
-    const proxyData = await got('https://assets.windscribe.com/serverlist/firefox/1/1?platform=firefox');
+    const useCorsProxy = process.env.USE_CORS2;
+    const proxyData = await got((useCorsProxy == '1' ? 'https://cors2.nyaku.xyz/?' : '') + 'https://assets.windscribe.com/serverlist/firefox/1/1');
     const proxyJson = JSON.parse(proxyData.body);
     for(let tvr of tvRegion){
         const cc = proxyCode[tvr] ? proxyCode[tvr] : tvr;

@@ -1,6 +1,7 @@
 # Pokemon TV
 - Updates every Saturday at 4:00 UTC (US)
-- Updates every Saturday at 5:00 UTC (GLOBAL)
+- Updates every Saturday at 5:00 UTC (GLOBAL1)
+- Updates every Saturday at 7:00 UTC (GLOBAL2)
 
 # Pokemon TV viewer
 - [Watch PTV](https://poke-tv.vercel.app/)
