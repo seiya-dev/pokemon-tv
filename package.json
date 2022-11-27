@@ -10,6 +10,7 @@
         "start-us": "node pokemon.js --cc us",
         "start-updater": "node ptv-updater.js",
         "start-updater-pia": "node ptv-updater-pia.js",
+        "index": "node pokemon.js --index",
         "host": "http-server \"./watch/\" -p 10103 -c-1",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
