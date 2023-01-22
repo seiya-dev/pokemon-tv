@@ -99,6 +99,20 @@
     font-size: 1.5rem;
 }
 
+.video-js .vjs-vjsdownload {
+    order: 100;
+    width: 50px !important;
+    height: 50px;
+    margin-top: 26px;
+}
+
+.video-js .vjs-vjsdownload .vjs-icon-placeholder::before {
+    font-family: VideoJS;
+    content: "\f120";
+    font-size: 4em;
+    transform: rotate(270deg);
+}
+
 .vjs-touch-overlay {
     display: none !important;
 }

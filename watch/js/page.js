@@ -536,6 +536,12 @@ async function showPlayerBox(){
             nativeAudioTracks: false,
             nativeVideoTracks: false,
         },
+        plugins: {
+            vjsdownload:{
+                beforeElement: 'FullscreenToggle',
+                textControl: 'Download video',
+            },
+        },
         controlBar: {
             controls: true,
             volumePanel: {
