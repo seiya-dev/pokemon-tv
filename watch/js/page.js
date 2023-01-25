@@ -536,16 +536,10 @@ async function showPlayerBox(){
             nativeAudioTracks: false,
             nativeVideoTracks: false,
         },
-        plugins: {
-            vjsdownload:{
-                beforeElement: 'FullscreenToggle',
-                textControl: 'Download video',
-            },
-        },
         controlBar: {
             controls: true,
             volumePanel: {
-                inline: false ,
+                inline: false,
             },
             children: [
                 'playToggle',
@@ -620,11 +614,11 @@ function makeControlButton(type = '', new_video_id = ''){
     
     const buttonCfg = {};
     if(type == 'previous'){
-        buttonCfg.class = 'vjs-backward';
+        buttonCfg.class = 'vjs-backward-control';
         buttonCfg.text = 'Previous';
     }
     else if(type == 'next'){
-        buttonCfg.class = 'vjs-forward';
+        buttonCfg.class = 'vjs-forward-control';
         buttonCfg.text = 'Next';
     }
     else{
@@ -633,7 +627,7 @@ function makeControlButton(type = '', new_video_id = ''){
     }
     
     const controlButton = createEl('button', {
-        class: ['vjs-play-control', 'vjs-control', 'vjs-button', buttonCfg.class],
+        class: [buttonCfg.class, 'vjs-control', 'vjs-button'],
         title: buttonCfg.text,
         event: {
             type: 'click',
