@@ -10,7 +10,7 @@ let player;
 
 // set loader and get button
 document.addEventListener('DOMContentLoaded', async () => {
-    yall({ "observeChanges": true });
+    yall({ 'observeChanges': true });
     await loadMain();
 });
 
@@ -20,7 +20,7 @@ function uriLoader(){
     uri = new URL(uri, 'https://watch.pokemon.com');
     
     const regDefType = '(channel|video|)?$';
-    const regUri = new RegExp(`^\/(${Object.keys(tvRegions).join('|')})/${regDefType}`);
+    const regUri = new RegExp(`^/(${Object.keys(tvRegions).join('|')})/${regDefType}`);
     const uriData = uri.pathname.match(regUri);
     
     if(!uriData){
@@ -45,6 +45,7 @@ async function loadMain(){
         channel = '';
         window.location.hash = `#/${tvRegion}/`;
         uriLoader();
+        removeChildEls('body-content');
         const regionLoaded = await loadRegion();
         if(regionLoaded){
             await loadData();
@@ -120,7 +121,7 @@ async function loadRegion(){
             category_id: data.category_id,
             category: data.category,
             order: data.order,
-        }
+        };
     });
     
     qSel('#load').remove();
@@ -359,7 +360,7 @@ function showChannel(){
                         epNumEl,
                         createEl('h4', {
                             text: v.title,
-                        }),,
+                        }),
                         createEl('p', {
                             class: ['episode-description-p'],
                             text: v.description,
@@ -422,7 +423,7 @@ async function showPlayerBox(){
         checkMaster.checked = true;
         if(checkMaster.ok){
             videoUrl = masterUrl;
-            console.log('master url:', masterUrl)
+            console.log('master url:', masterUrl);
         }
     }
     
@@ -439,7 +440,7 @@ async function showPlayerBox(){
                         imageUrl: videoDataMobile.json.mediaList[0].previewImageUrl,
                     };
                     videoUrl = masterUrlVdm;
-                    console.log('master url:', masterUrlVdm)
+                    console.log('master url:', masterUrlVdm);
                 }
             }
         }
@@ -565,6 +566,10 @@ async function showPlayerBox(){
         makeControlButton('next', new_video_id);
     }
     
+    if(!m3u8data.use){
+        addDownloadButton(videoUrl);
+    }
+    
     player.mobileUi();
     player.hotkeys({
         volumeStep: 0.1,
@@ -646,12 +651,43 @@ function makeControlButton(type = '', new_video_id = ''){
             createEl('span', {
                 class: ['vjs-control-text'],
                 innerText: buttonCfg.text,
-                
             }),
         ],
     });
     
     qSel(`#${pl_id} .vjs-control-bar`).prepend(controlButton);
+}
+
+function addDownloadButton(url){
+    const downloadButtonText = 'Download';
+    const downloadButton = createEl('button', {
+        class: ['vjs-download-button', 'vjs-control', 'vjs-button'],
+        title: downloadButtonText,
+        event: {
+            type: 'click',
+            func: async () => {
+                const dlLink = document.createElement('a');
+                dlLink.setAttribute('download', '');
+                dlLink.setAttribute('target', '_blank');
+                dlLink.href = url;
+                // document.body.appendChild(dlLink);
+                dlLink.click();
+                dlLink.remove();
+            },
+        },
+        child: [
+            createEl('span', {
+                class: ['vjs-icon-placeholder'],
+            }),
+            createEl('span', {
+                class: ['vjs-control-text'],
+                innerText: downloadButtonText,
+            }),
+        ],
+    });
+    const beforeSelEl = qSel(`#${pl_id} .vjs-control-bar .vjs-fullscreen-control`);
+    const parentEl = beforeSelEl.parentNode;
+    parentEl.insertBefore(downloadButton, beforeSelEl);
 }
 
 function showLoadingPlayerBox(){
@@ -696,13 +732,13 @@ function generateProxyHeader(cc){
             'X-Forwarded-For': tvRegions[cc].ip,
             'Origin': 'https://watch.pokemon.com',
         }),
-    }
+    };
 }
 
 function showErrorPlayerBox(errArr){
     removeChildEls('player-box');
     qSel('#player-close-button').style.display = 'block';
-    qSel('#player-close-button').addEventListener('click', () => { closePlayerBox(true) }, false);
+    qSel('#player-close-button').addEventListener('click', () => { closePlayerBox(true); }, false);
     
     let errHTML = [];
     for(let errIdx in errArr){

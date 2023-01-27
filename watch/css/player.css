@@ -121,8 +121,11 @@
 .vjs-control-bar .vjs-progress-control {
     order: 4
 }
-.vjs-control-bar .vjs-fullscreen-control {
+.vjs-control-bar .vjs-download-button {
     order: 5
+}
+.vjs-control-bar .vjs-fullscreen-control {
+    order: 6
 }
 .vjs-control-bar .vjs-backward-control {
     order: 7
@@ -132,6 +135,10 @@
 }
 .vjs-control-bar .vjs-forward-control {
     order: 9
+}
+
+.vjs-control-bar .vjs-progress-control {
+    margin-right: 10px;
 }
 
 .vjs-control-bar .vjs-button, .vjs-control-bar .vjs-volume-panel {
@@ -194,12 +201,18 @@
     margin-right: 0;
 }
 
-.vjs-control-bar .vjs-backward-control{
+.vjs-control-bar .vjs-backward-control {
     position: absolute;
     transform: translate(50%);
     right: calc(50% + 50px);
     bottom: 10px;
     margin-right: 0;
+}
+
+.vjs-button.vjs-download-button > .vjs-icon-placeholder::before {
+    content: "\f120" !important;
+    font-family: VideoJS !important;
+    transform: rotate(270deg);
 }
 
 .vjs-button.vjs-backward-control > .vjs-icon-placeholder::before {

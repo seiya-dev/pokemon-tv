@@ -14,7 +14,7 @@ const argv = yargs(process.argv).argv;
 const __dirname = path.resolve();
 const jsonLoad = (file) => {
     return JSON.parse(fs.readFileSync(file));
-}
+};
 
 // got config
 const gotCfg = {
@@ -153,7 +153,7 @@ function fixImgObj(obj){
 
 function fixUrl(url){
     if(url.match('web.archive.org')){
-         url = url.replace(/https?:\/\/web\.archive\.org\/web\/\d+\//, '');
+        url = url.replace(/https?:\/\/web\.archive\.org\/web\/\d+\//, '');
     }
     return url;
 }
