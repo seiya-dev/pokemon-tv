@@ -1,16 +1,16 @@
 {
     "name": "pokemon-tv-dumps",
     "programName": "pokemon-tv-dumps",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "description": "",
-    "main": "pokemon.js",
+    "main": "app.js",
     "type": "module",
     "scripts": {
-        "start": "node pokemon.js",
-        "start-us": "node pokemon.js --cc us",
-        "start-updater": "node ptv-updater.js",
-        "start-updater-pia": "node ptv-updater-pia.js",
-        "index": "node pokemon.js --index",
+        "start": "node app.js",
+        "start-us": "node app.js --cc us",
+        "start-updater": "node app-ptv-updater.js",
+        "start-updater-pia": "node app-ptv-updater-pia.js",
+        "index": "node app.js --index",
         "host": "http-server \"./watch/\" -p 10103 -c-1",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
