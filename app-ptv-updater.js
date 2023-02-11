@@ -40,7 +40,7 @@ try{
         });
         if(px){
             const proxyHost = px.groups[0].hosts[0].hostname;
-            execSync(`node pokemon.js --proxy "https://${user}:${pass}@${proxyHost}/" --cc ${tvr}`, { stdio: 'inherit' });
+            execSync(`node app.js --proxy "https://${user}:${pass}@${proxyHost}/" --cc ${tvr}`, { stdio: 'inherit' });
         }
     }
 }

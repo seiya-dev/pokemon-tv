@@ -12,8 +12,10 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 18
-      - run: npm ci
-      - run: npm run start-us
+      - name: install modules and run
+        run: |
+          npm ci
+          npm run start-us
       - name: commit and push changes
         run: |
           git config user.name seiya-git

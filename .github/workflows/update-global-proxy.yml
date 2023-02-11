@@ -10,11 +10,13 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 18
-      - run: npm ci
-      - env:
-            PROXY_USER: ${{ secrets.PROXY_USER }}
-            PROXY_PASS: ${{ secrets.PROXY_PASS }}
-        run: npm run start-updater
+      - name: install modules and run
+        env:
+          PROXY_USER: ${{ secrets.PROXY_USER }}
+          PROXY_PASS: ${{ secrets.PROXY_PASS }}
+        run: |
+          npm ci
+          npm run start-updater
       - name: commit and push changes
         run: |
           git config user.name seiya-git
