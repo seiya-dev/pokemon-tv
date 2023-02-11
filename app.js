@@ -88,7 +88,14 @@ async function getChannelApi(cc, mediaList){
         console.log(`[ERROR] Can't get video list, error code: ${e.code}`);
         return;
     }
-    mediaList = JSON.parse(mediaList.body);
+    try{
+        mediaList = JSON.parse(mediaList.body);
+    }
+    catch(e){
+        console.log(`[ERROR] Can't parse video list, error: ${e}`);
+        console.log(mediaList.body);
+        return;
+    }
     for (const c of mediaList){
         if(c.media_type == 'non-animation'){
             continue;
