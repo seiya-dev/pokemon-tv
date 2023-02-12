@@ -8,17 +8,17 @@ jobs:
   update_data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - name: install modules and run
+      - name: Install modules and run
         env:
             PROXY_TOKEN: ${{ secrets.PROXY_TOKEN }}
         run: |
           npm ci
           npm run start-updater-pia
-      - name: commit and push changes
+      - name: Commit and push changes
         run: |
           git config user.name seiya-git
           git config user.email seiya-git@users.noreply.github.com
