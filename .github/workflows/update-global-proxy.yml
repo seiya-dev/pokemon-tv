@@ -15,7 +15,7 @@ jobs:
           PROXY_USER: ${{ secrets.PROXY_USER }}
           PROXY_PASS: ${{ secrets.PROXY_PASS }}
         run: |
-          yarn install --immutable
+          npm ci
           npm run start-updater
       - name: Commit and push changes
         run: |

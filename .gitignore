@@ -1,5 +1,12 @@
-/.yarn/
-/node_modules/
-/old_backups/
-package-lock.json
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+node_modules
+old_backups
 .env
+yarn.lock

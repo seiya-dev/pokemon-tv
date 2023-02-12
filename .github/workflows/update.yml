@@ -14,7 +14,7 @@ jobs:
           node-version: 18
       - name: Install modules and run
         run: |
-          yarn install --immutable
+          npm ci
           npm run start-us
       - name: Commit and push changes
         run: |
