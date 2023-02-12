@@ -16,7 +16,7 @@ jobs:
         env:
             PROXY_TOKEN: ${{ secrets.PROXY_TOKEN }}
         run: |
-          npm ci
+          npm i
           npm run start-updater-pia
       - name: Commit and push changes
         run: |
