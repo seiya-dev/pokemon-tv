@@ -35,11 +35,11 @@ try{
     const proxyJson = JSON.parse(proxyData.body);
     for(let tvr of tvRegion){
         const cc = proxyCode[tvr] ? proxyCode[tvr] : tvr;
-        const px = proxyJson.data.find(i => {
+        const px = proxyJson.data.filter(i => {
             return i.country_code.toLowerCase() == cc;
         });
         if(px){
-            const proxyHost = px.groups[0].hosts[0].hostname;
+            const proxyHost = px.reverse()[0].groups[0].hosts[0].hostname;
             execSync(`node app.js --proxy "https://${user}:${pass}@${proxyHost}/" --cc ${tvr}`, { stdio: 'inherit' });
         }
     }
