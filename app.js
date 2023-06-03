@@ -4,7 +4,7 @@ import path from 'path';
 
 // dependencies
 import gm from 'got';
-import ProxyAgent from 'proxy-agent';
+import { ProxyAgent } from 'proxy-agent';
 
 // argv
 import yargs from 'yargs/yargs';
@@ -171,8 +171,7 @@ function dirPath(cc){
 }
 
 function saveData(path, data){
-    const jsonStr = JSON.stringify(data, null, '    ')
-        .replace(/\r/g, '').replace(/\n/g, '\r\n') + '\r\n';
+    const jsonStr = JSON.stringify(data, null, '    ').replace(/\r/g, '') + '\n';
     fs.writeFileSync(path, jsonStr);
 }
 
