@@ -212,17 +212,16 @@
 }
 
 .vjs-button.vjs-download-button > .vjs-icon-placeholder::before {
-    content: "\f120" !important;
+    content: "\f110" !important;
     font-family: VideoJS !important;
-    transform: rotate(270deg);
 }
 
 .vjs-button.vjs-backward-control > .vjs-icon-placeholder::before {
-    content: "\f120" !important;
+    content: "\f124" !important;
     font-family: VideoJS !important;
 }
 
 .vjs-button.vjs-forward-control > .vjs-icon-placeholder::before {
-    content: "\f11f" !important;
+    content: "\f123" !important;
     font-family: VideoJS !important;
 }
