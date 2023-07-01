@@ -4,7 +4,7 @@ import path from 'path';
 
 // dependencies
 import gm from 'got';
-import { ProxyAgent } from 'proxy-agent';
+import { HttpsProxyAgent} from 'https-proxy-agent';
 
 // argv
 import yargs from 'yargs/yargs';
@@ -29,7 +29,7 @@ const gotCfg = {
 
 // set proxy agent
 if(argv.proxy){
-    gotCfg.agent = { https: new ProxyAgent(argv.proxy) };
+    gotCfg.agent = { https: new HttpsProxyAgent(argv.proxy) };
 }
 
 // set req module cfg
