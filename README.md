@@ -1,7 +1,5 @@
 # Pokemon TV
-- Updates every Saturday at 4:00 UTC (US)
-- Updates every Saturday at 5:00 UTC (GLOBAL1)
-- Updates every Saturday at 7:00 UTC (GLOBAL2)
+- [Official Pokemon TV is dead](https://www.pokemon.com/us/pokemon-news/pokemon-tv-to-discontinue-in-march-2024)
 
 # Pokemon TV viewer
 - [Watch PTV](https://poke-tv.vercel.app/)
