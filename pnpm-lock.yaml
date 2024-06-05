@@ -9,8 +9,8 @@ dependencies:
     specifier: ^16.4.5
     version: 16.4.5
   got:
-    specifier: ^14.3.0
-    version: 14.3.0
+    specifier: ^14.4.0
+    version: 14.4.0
   https-proxy-agent:
     specifier: ^7.0.4
     version: 7.0.4
@@ -160,8 +160,8 @@ packages:
       is-stream: 4.0.1
     dev: false
 
-  /got@14.3.0:
-    resolution: {integrity: sha512-vZkrXdq5BtPWTXqvjXSpl6zky3zpHaOVfSug/RfFHu3YrtSsvYzopVMDqrh2do77WnGoCSSRCHW25zXOSAQ9zw==}
+  /got@14.4.0:
+    resolution: {integrity: sha512-baa2HMfREJ9UQSXOPwWe0DNK+FT8Okcxe9kmTJvaetv2q/MUxq0qFzEnfSbxo+wj45/QioGcH5ZhuT9VBIPJ5Q==}
     engines: {node: '>=20'}
     dependencies:
       '@sindresorhus/is': 6.3.1
