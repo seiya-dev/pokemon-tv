@@ -65,9 +65,9 @@ const selTvRegions = Object.keys(tvRegion).indexOf(argv.cc) > -1 ? [argv.cc] : O
 // run app
 (async () => {
     // await indexOldBuckups();
-    if(!argv.index){
-        await tryChannelsApi();
-    }
+    // if(!argv.index){
+    //     await tryChannelsApi();
+    // }
     await indexDb();
 })();
 
