@@ -7,9 +7,6 @@
     "type": "module",
     "scripts": {
         "start": "node app.js",
-        "start-us": "node app.js --cc us",
-        "start-updater": "node app-ptv-updater.js",
-        "start-updater-pia": "node app-ptv-updater-pia.js",
         "index": "node app.js --index",
         "host": "node ./api/app.mjs",
         "test": "echo \"Error: no test specified\" && exit 1"
