@@ -396,7 +396,7 @@ async function showPlayerBox(){
     const v = curVideo;
     const channelVideoCount = curChannel.media.length;
     const videoIndex = curChannel.media.indexOf(v);
-    const m3u8data = { use: true };
+    const m3u8data = { use: false };
     
     v.stream_url_root = '';
     if(typeof v.stream_url != 'string'){
@@ -442,6 +442,7 @@ async function showPlayerBox(){
     if(videoUrl == '' && v.offline_url != ''){
         videoUrl = v.offline_url;
         console.log('offline url:', v.offline_url);
+        m3u8data.use = true;
         isLQStream = true;
     }
     
