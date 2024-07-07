@@ -417,6 +417,12 @@ async function showPlayerBox(){
         checkVideoId = true;
     }
     
+    if(typeof v.poketv_url == 'string' && v.poketv_url != ''){
+        v.stream_url = '';
+        videoUrl = v.poketv_url;
+        console.log('master url:', v.poketv_url);
+    }
+    
     if(v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
         const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
         // checkMaster = await doReq(corsProxy  + '/?' + masterUrl, {method: 'HEAD'});
@@ -428,6 +434,7 @@ async function showPlayerBox(){
         }
     }
     
+    /*
     if(checkVideoId && videoUrl == ''){
         if(!checkMaster.checked){
             videoDataMobile = await requestVideoId('mobile video');
@@ -465,6 +472,7 @@ async function showPlayerBox(){
         const err = new Error('Video ID incorrect');
         videoData = { ok: false, err };
     }
+    */
     
     if(videoUrl == ''){
         let errVideo = [];
@@ -504,15 +512,17 @@ async function showPlayerBox(){
     }
     
     let captionsUrl;
+    /*
     if(typeof v.captions == 'string' && v.captions != ''){
-        // captionsUrl = corsProxy + '/?' + v.captions;
+        captionsUrl = corsProxy + '/?' + v.captions;
     }
     else if(checkVideoId && typeof v.captions != 'string' || checkVideoId && v.captions == ''){
         const reqCC = await requestVideoId('closed captions');
         if(reqCC.ok && reqCC.json && reqCC.json.length > 0){
-            // captionsUrl = corsProxy + '/?' + u2s(reqCC.json[0].webvttFileUrl);
+            captionsUrl = corsProxy + '/?' + u2s(reqCC.json[0].webvttFileUrl);
         }
     }
+    */
     
     videojs.Vhs.xhr.beforeRequest = (options) => {
         if(m3u8data.use && v.stream_url != ''){

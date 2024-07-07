@@ -235,6 +235,7 @@ async function indexDb(){
                     description: m.description,
                     images: m.images,
                     stream_url: m.stream_url,
+                    poketv_url: m.poketv_url ? m.poketv_url : '',
                     captions: m.captions,
                     offline_url: m.offline_url,
                     size: m.size,
