@@ -419,7 +419,8 @@ async function showPlayerBox(){
     
     if(v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
         const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
-        checkMaster = await doReq(corsProxy  + '/?' + masterUrl, {method: 'HEAD'});
+        // checkMaster = await doReq(corsProxy  + '/?' + masterUrl, {method: 'HEAD'});
+        checkMaster.ok = true;
         checkMaster.checked = true;
         if(checkMaster.ok){
             videoUrl = masterUrl;
@@ -433,7 +434,8 @@ async function showPlayerBox(){
             if(videoDataMobile.ok && videoDataMobile.json){
                 const m3u8url = videoDataMobile.json.mediaList[0].mobileUrls[0].mobileUrl;
                 const masterUrlVdm = u2s(m3u8url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4'));
-                checkMaster = await doReq(corsProxy  + '/?' + masterUrlVdm, {method: 'HEAD'});
+                // checkMaster = await doReq(corsProxy  + '/?' + masterUrlVdm, {method: 'HEAD'});
+                checkMaster.ok = true;
                 if(checkMaster.ok){
                     vData = {
                         title: videoDataMobile.json.mediaList[0].title,
@@ -503,12 +505,12 @@ async function showPlayerBox(){
     
     let captionsUrl;
     if(typeof v.captions == 'string' && v.captions != ''){
-        captionsUrl = corsProxy + '/?' + v.captions;
+        // captionsUrl = corsProxy + '/?' + v.captions;
     }
     else if(checkVideoId && typeof v.captions != 'string' || checkVideoId && v.captions == ''){
         const reqCC = await requestVideoId('closed captions');
         if(reqCC.ok && reqCC.json && reqCC.json.length > 0){
-            captionsUrl = corsProxy + '/?' + u2s(reqCC.json[0].webvttFileUrl);
+            // captionsUrl = corsProxy + '/?' + u2s(reqCC.json[0].webvttFileUrl);
         }
     }
     
