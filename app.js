@@ -65,47 +65,8 @@ const selTvRegions = Object.keys(tvRegion).indexOf(argv.cc) > -1 ? [argv.cc] : O
 // run app
 (async () => {
     // await indexOldBuckups();
-    // if(!argv.index){
-    //     await tryChannelsApi();
-    // }
     await indexDb();
 })();
-
-// try channels
-async function tryChannelsApi(){
-    for(let cc of selTvRegions){
-        await getChannelApi(cc);
-    }
-}
-
-// download channel
-async function getChannelApi(cc, mediaList){
-    console.log(`# ${cc} Downloading ${tvRegion[cc]} channel data...`);
-    try{
-        mediaList = await got(`https://www.pokemon.com/api/pokemontv/v2/channels/${cc}/`);
-    }
-    catch(e){
-        console.log(`[ERROR] Can't get video list, error code: ${e.code}`);
-        return;
-    }
-    try{
-        mediaList = JSON.parse(mediaList.body);
-    }
-    catch(e){
-        console.log(`[ERROR] Can't parse video list, error: ${e}`);
-        console.log(mediaList.body);
-        return;
-    }
-    for (const c of mediaList){
-        if(c.media_type == 'non-animation'){
-            continue;
-        }
-        c.media = editMediaArr(c.media);
-        fs.mkdirSync(dirPath(cc), { recursive: true });
-        const channelId = await getChannelId(c);
-        saveData(dirPath(cc) + channelId + '.json', c);
-    }
-}
 
 async function getChannelId(c, skipCatName){
     const chImg = c.channel_images.dashboard_image_1125_1500;
