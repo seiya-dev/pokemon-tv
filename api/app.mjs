@@ -82,7 +82,16 @@ app.get('/m3u8/', async (req, res) => {
         try{
             const vHead = await got(req.query.url);
             if(vHead.statusCode == 200){
+                const rhost = new URL(req.query.url).origin
+                const vPath = new URL(req.query.url).pathname.split('/').slice(0, -1).join('/');
                 res.setHeader('Content-Type', 'audio/x-mpegurl');
+                vHead.body = vHead.body.replace(/^\//gm, rhost + '/');
+                if(vHead.body.match(/URI="vtt/)){
+                    vHead.body = vHead.body.replace(/URI="vtt/gm, 'URI="' + rhost + vPath + '/vtt');
+                }
+                if(vHead.body.match(/\.ts$/m)){
+                    vHead.body = vHead.body.replace(/^playlist/gm, rhost + vPath + '/playlist');
+                }
                 res.end(vHead.body);
             }
             else{

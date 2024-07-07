@@ -396,7 +396,7 @@ async function showPlayerBox(){
     const v = curVideo;
     const channelVideoCount = curChannel.media.length;
     const videoIndex = curChannel.media.indexOf(v);
-    const m3u8data = { use: false };
+    const m3u8data = { use: true };
     
     v.stream_url_root = '';
     if(typeof v.stream_url != 'string'){
@@ -432,7 +432,7 @@ async function showPlayerBox(){
         else{
             videoData = await doReq('/m3u8/?url=' + encodeURIComponent(v.stream_url));
             if(videoData.ok){
-                console.log(videoData);
+                // videoUrl = '/m3u8/?url=' + encodeURIComponent(v.stream_url);
             }
         }
     }
@@ -487,12 +487,8 @@ async function showPlayerBox(){
     
     videojs.Vhs.xhr.beforeRequest = (options) => {
         if(m3u8data.use && v.stream_url != ''){
-            if(options.uri.match(/\.m3u8$/)){
-                m3u8data.root = options.uri.split('/').slice(0, -1).join('/');
-            }
-            const file = new URL(options.uri).pathname;
-            if(file.match(/^\/playlist\d+\.ts$/)){
-                options.uri = m3u8data.root + file;
+            if(!options.uri.match(/\/m3u8\//) && options.uri.match(/\.m3u8$/)){
+                options.uri = '/m3u8/?url=' + encodeURIComponent(options.uri);
             }
         }
         return options;
