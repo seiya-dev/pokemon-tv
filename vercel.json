@@ -1,3 +1,11 @@
 {
-    "outputDirectory": "watch"
+    "installCommand": "pnpm install",
+    "buildCommand": "node ./app.js --index",
+    "outputDirectory": "watch",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/api/app.mjs"
+        }
+    ]
 }

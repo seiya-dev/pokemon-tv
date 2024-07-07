@@ -1,7 +1,7 @@
 {
-    "name": "pokemon-tv-dumps",
-    "programName": "pokemon-tv-dumps",
-    "version": "1.6.1",
+    "name": "pokemon-tv",
+    "programName": "pokemon-tv",
+    "version": "1.7.0",
     "description": "",
     "main": "app.js",
     "type": "module",
@@ -11,7 +11,7 @@
         "start-updater": "node app-ptv-updater.js",
         "start-updater-pia": "node app-ptv-updater-pia.js",
         "index": "node app.js --index",
-        "host": "http-server \"./watch/\" -p 10103 -c-1",
+        "host": "node ./api/app.mjs",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
@@ -22,6 +22,7 @@
     "license": "MIT",
     "dependencies": {
         "dotenv": "^16.4.5",
+        "express": "^4.19.2",
         "got": "^14.4.1",
         "https-proxy-agent": "^7.0.5",
         "yargs": "^17.7.2"

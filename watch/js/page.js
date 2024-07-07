@@ -417,70 +417,28 @@ async function showPlayerBox(){
         checkVideoId = true;
     }
     
-    if(typeof v.poketv_url == 'string' && v.poketv_url != ''){
-        v.stream_url = '';
+    if(videoUrl == '' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
         console.log('master url:', v.poketv_url);
     }
     
-    if(v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
+    if(videoUrl == '' && v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
         const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
-        // checkMaster = await doReq(corsProxy  + '/?' + masterUrl, {method: 'HEAD'});
-        checkMaster.ok = true;
-        checkMaster.checked = true;
+        checkMaster = await doReq('/h/?url=' + encodeURIComponent(masterUrl));
         if(checkMaster.ok){
             videoUrl = masterUrl;
             console.log('master url:', masterUrl);
         }
     }
     
-    /*
-    if(checkVideoId && videoUrl == ''){
-        if(!checkMaster.checked){
-            videoDataMobile = await requestVideoId('mobile video');
-            if(videoDataMobile.ok && videoDataMobile.json){
-                const m3u8url = videoDataMobile.json.mediaList[0].mobileUrls[0].mobileUrl;
-                const masterUrlVdm = u2s(m3u8url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4'));
-                // checkMaster = await doReq(corsProxy  + '/?' + masterUrlVdm, {method: 'HEAD'});
-                checkMaster.ok = true;
-                if(checkMaster.ok){
-                    vData = {
-                        title: videoDataMobile.json.mediaList[0].title,
-                        imageUrl: videoDataMobile.json.mediaList[0].previewImageUrl,
-                    };
-                    videoUrl = masterUrlVdm;
-                    console.log('master url:', masterUrlVdm);
-                }
-            }
-        }
-        if(videoUrl == ''){
-            videoData = await requestVideoId();
-            if(videoData.ok && videoData.json){
-                vData = videoData.json;
-                const streams = vData.playlistItems[0].streams;
-                for(let s in streams){
-                    if(vBitrate < streams[s].videoBitRate){
-                        vBitrate = streams[s].videoBitRate;
-                        videoUrl = rtmp2http(streams[s].url);
-                    }
-                }
-                console.log('stream url:', videoUrl);
-            }
-        }
-    }
-    else{
-        const err = new Error('Video ID incorrect');
-        videoData = { ok: false, err };
-    }
-    */
-    
     if(videoUrl == ''){
-        let errVideo = [];
-        if(videoData.json && videoData.json.detail && videoData.json.detail.detailMessage){
-            errVideo.push(videoData.json.detail.detailMessage);
+        const errVideo = [];
+        if(checkVideoId){
+            errVideo.push('Failed to Get Video');
+            errVideo.push('please report to github project page');
         }
         else{
-            errVideo.push('Unknown error');
+            errVideo.push('Bad Video ID');
         }
         showErrorPlayerBox(errVideo);
         return;
@@ -512,17 +470,9 @@ async function showPlayerBox(){
     }
     
     let captionsUrl;
-    /*
     if(typeof v.captions == 'string' && v.captions != ''){
-        captionsUrl = corsProxy + '/?' + v.captions;
+        captionsUrl = '/vtt/?url=' + encodeURIComponent(v.captions);
     }
-    else if(checkVideoId && typeof v.captions != 'string' || checkVideoId && v.captions == ''){
-        const reqCC = await requestVideoId('closed captions');
-        if(reqCC.ok && reqCC.json && reqCC.json.length > 0){
-            captionsUrl = corsProxy + '/?' + u2s(reqCC.json[0].webvttFileUrl);
-        }
-    }
-    */
     
     videojs.Vhs.xhr.beforeRequest = (options) => {
         if(m3u8data.use && v.stream_url != ''){
@@ -708,43 +658,6 @@ function showLoadingPlayerBox(){
         innerHTML: `<div><span>${tlText('Loading')}...</span></div>`,
     });
     qSel('#player-box').append(loadingHtml);
-}
-
-async function requestVideoId(type = '', useCors){
-    let reqMethod;
-    switch(type) {
-        case 'video':
-            reqMethod = 'getPlaylistByMediaId';
-            break;
-        case 'mobile video':
-            reqMethod = 'getMobilePlaylistByMediaId?platform=HttpLiveStreaming&';
-            break;
-        case 'closed captions':
-            reqMethod = 'getClosedCaptionsDetailsByMediaId';
-            break;
-        default:
-            reqMethod = 'getPlaylistByMediaId';
-    }
-    
-    const corsProxyUri = useCors ? corsProxy + '/?' : '';
-    const corsHeaders = useCors ? generateProxyHeader(tvRegion) : {};
-    const videoData = await doReq(`${corsProxyUri}${videoApiReq}/${video_id}/${reqMethod}`, corsHeaders);
-    
-    if(!useCors && videoData && videoData.status && videoData.status == 403){
-        return requestVideoId(type, true);
-    }
-    
-    return videoData;
-}
-
-function generateProxyHeader(cc){
-    cc = tvRegions[cc] ? cc : 'us';
-    return {
-        'x-cors-headers': JSON.stringify({
-            'X-Forwarded-For': tvRegions[cc].ip,
-            'Origin': 'https://watch.pokemon.com',
-        }),
-    };
 }
 
 function showErrorPlayerBox(errArr){
