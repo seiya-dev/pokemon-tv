@@ -77,6 +77,28 @@ app.get('/vtt/', async (req, res) => {
    res.end('');
 });
 
+app.get('/m3u8/', async (req, res) => {
+   if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.m3u8$/)){
+        try{
+            const vHead = await got(req.query.url);
+            if(vHead.statusCode == 200){
+                res.setHeader('Content-Type', 'audio/x-mpegurl');
+                res.end(vHead.body);
+            }
+            else{
+                res.status(vHead.statusCode);
+                res.end('');
+            }
+        }
+        catch(error){
+            res.status(404);
+            res.end('');
+        }
+        return;
+   }
+   res.end('');
+});
+
 // app start
 app.listen(PORT, () => {
     Object.keys(ifaces).forEach((ifname) => {

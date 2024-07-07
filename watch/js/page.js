@@ -419,7 +419,7 @@ async function showPlayerBox(){
     
     if(videoUrl == '' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
-        console.log('master url:', v.poketv_url);
+        console.log('poketv url:', v.poketv_url);
     }
     
     if(videoUrl == '' && v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
@@ -429,6 +429,17 @@ async function showPlayerBox(){
             videoUrl = masterUrl;
             console.log('master url:', masterUrl);
         }
+        else{
+            videoData = await doReq('/m3u8/?url=' + encodeURIComponent(v.stream_url));
+            if(videoData.ok){
+                console.log(videoData);
+            }
+        }
+    }
+    
+    if(videoUrl == '' && v.offline_url != ''){
+        videoUrl = v.offline_url;
+        console.log('offline url:', v.offline_url);
     }
     
     if(videoUrl == ''){
