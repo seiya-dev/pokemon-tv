@@ -434,6 +434,7 @@ async function showPlayerBox(){
             videoData = await doReq('/m3u8/?url=' + encodeURIComponent(v.stream_url));
             if(videoData.ok){
                 videoUrl = '/m3u8/?url=' + encodeURIComponent(v.stream_url);
+                m3u8data.use = true;
             }
             */
         }
