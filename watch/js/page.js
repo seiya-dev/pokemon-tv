@@ -410,7 +410,7 @@ async function showPlayerBox(){
     showLoadingPlayerBox();
     
     let checkVideoId = false;
-    let videoData = {}, videoDataMobile = {};
+    let videoData = {}, isLQStream = false;
     let vData = {}, checkMaster = {}, videoUrl = '', vBitrate = 0;
     
     if(typeof video_id == 'string' && video_id.match(/^[-0-9a-f]{32}$/)){
@@ -430,16 +430,19 @@ async function showPlayerBox(){
             console.log('master url:', masterUrl);
         }
         else{
+            /*
             videoData = await doReq('/m3u8/?url=' + encodeURIComponent(v.stream_url));
             if(videoData.ok){
-                // videoUrl = '/m3u8/?url=' + encodeURIComponent(v.stream_url);
+                videoUrl = '/m3u8/?url=' + encodeURIComponent(v.stream_url);
             }
+            */
         }
     }
     
     if(videoUrl == '' && v.offline_url != ''){
         videoUrl = v.offline_url;
         console.log('offline url:', v.offline_url);
+        isLQStream = true;
     }
     
     if(videoUrl == ''){
@@ -470,6 +473,9 @@ async function showPlayerBox(){
     }
     if(videoTitle == ''){
         videoTitle = 'PLAYING...';
+    }
+    if(isLQStream){
+        videoTitle += ' (LQ)';
     }
     
     let posterUrl = '';
