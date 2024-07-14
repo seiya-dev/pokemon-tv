@@ -1,61 +1,7 @@
 {
-    "channel_description": "",
-    "stunt_channel": true,
-    "channel_name": "Pokémonfilmen: Jeg velger deg!",
-    "media": [
-        {
-            "episode": "",
-            "description": "Ash Ketchum forsover seg på tiårsdagen, og som et resultat blir Pikachu hans første partner-Pokémon. Vennskapet får en humpete start, men et glimt av den sjeldne legendariske regnbue-Pokémonen inspirerer duoen til å dra ut i håp om å treffe på den igjen.",
-            "is_country_whitelist": false,
-            "title": "Pokémonfilmen: Jeg velger deg!",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Tj48k0FXRJcnGeJsgHUPi4/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t7/LMeOF-oDi-dJaihVijppXGOAjeGEiUpm7Cp2hU8Q0/pokemon_movie20_nor.mp4",
-            "last_modified": 1676918288,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xf/4DQ7AJEvWABsgj9QCeMqvXsBd0S4S0PVCDyCgDOzg/pokemon_movie20_nor-d38a26068d6771675c74746caed507693a26cbd9.m3u8",
-            "captions": "",
-            "id": "4e3e3c93415744979c6789b201d43e2e",
-            "size": 12167628987
-        }
-    ],
-    "channel_creation_date": 1519762909,
-    "whats_new_order": null,
-    "watch_now_order": 2,
     "channel_id": "pokemonfilmen-jeg-velger-deg",
+    "channel_name": "Pokémonfilmen: Jeg velger deg!",
+    "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nb-no/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-en.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nb-no/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-en.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nb-no/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-en.png"
     },
-    "channel_update_date": 1676652943,
     "media_type": "movie",
-    "channel_status": ""
+    "order": 2,
+    "channel_creation_date": 1519762909,
+    "channel_update_date": 1676652943,
+    "media": [
+        {
+            "id": "4e3e3c93415744979c6789b201d43e2e",
+            "season": "",
+            "episode": "",
+            "title": "Pokémonfilmen: Jeg velger deg!",
+            "description": "Ash Ketchum forsover seg på tiårsdagen, og som et resultat blir Pikachu hans første partner-Pokémon. Vennskapet får en humpete start, men et glimt av den sjeldne legendariske regnbue-Pokémonen inspirerer duoen til å dra ut i håp om å treffe på den igjen.",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Tj48k0FXRJcnGeJsgHUPi4/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xf/4DQ7AJEvWABsgj9QCeMqvXsBd0S4S0PVCDyCgDOzg/pokemon_movie20_nor-d38a26068d6771675c74746caed507693a26cbd9.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xf/4DQ7AJEvWABsgj9QCeMqvXsBd0S4S0PVCDyCgDOzg/pokemon_movie20_nor.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t7/LMeOF-oDi-dJaihVijppXGOAjeGEiUpm7Cp2hU8Q0/pokemon_movie20_nor.mp4",
+            "captions": "",
+            "size": 12167628987
+        }
+    ]
 }

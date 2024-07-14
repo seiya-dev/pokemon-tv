@@ -1,61 +1,7 @@
 {
-    "channel_description": "Sacha et ses amis doivent remonter le temps pour réparer les erreurs qui menacent le présent dans Pokémon : Arceus et le Joyau de Vie.",
-    "stunt_channel": true,
-    "channel_name": "Pokémon : Arceus et le Joyau de Vie",
-    "media": [
-        {
-            "episode": "",
-            "description": "Une aventure inédite. Une légende déchaînée.",
-            "is_country_whitelist": false,
-            "title": "Pokémon : Arceus et le Joyau de Vie",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/4zzGaqldRpogUQ5VfCo93k/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8R/KaBNGI0KVYj0WTbBO5Mp1pDOxRmyhr0LOptkZyGb4/pokemon_movie12_fre.mp4",
-            "last_modified": 1655479308,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HP/FqO7ZjFfQkpLiC_e_qY9RM64UNOd8DosJIH6eWhp4/pokemon_movie12_fre-671f654cc2acf339c25cc7c69c7cd48b0b7253dd.m3u8",
-            "captions": "",
-            "id": "e33cc66aa95d469a81443955f0a8f779",
-            "size": 11860718289
-        }
-    ],
-    "channel_creation_date": 1470059020,
-    "whats_new_order": null,
-    "watch_now_order": 5,
     "channel_id": "pokemon-arceus-et-le-joyau-de-vie",
+    "channel_name": "Pokémon : Arceus et le Joyau de Vie",
+    "channel_description": "Sacha et ses amis doivent remonter le temps pour réparer les erreurs qui menacent le présent dans Pokémon : Arceus et le Joyau de Vie.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1125x1500-fr.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1660x940-fr.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1660x940-fr.png"
     },
-    "channel_update_date": 1656084347,
     "media_type": "movie",
-    "channel_status": "DISPONIBLE JUSQU’AU 1 JUILLET"
+    "order": 5,
+    "channel_creation_date": 1470059020,
+    "channel_update_date": 1656084347,
+    "media": [
+        {
+            "id": "e33cc66aa95d469a81443955f0a8f779",
+            "season": "",
+            "episode": "",
+            "title": "Pokémon : Arceus et le Joyau de Vie",
+            "description": "Une aventure inédite. Une légende déchaînée.",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/4zzGaqldRpogUQ5VfCo93k/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HP/FqO7ZjFfQkpLiC_e_qY9RM64UNOd8DosJIH6eWhp4/pokemon_movie12_fre-671f654cc2acf339c25cc7c69c7cd48b0b7253dd.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HP/FqO7ZjFfQkpLiC_e_qY9RM64UNOd8DosJIH6eWhp4/pokemon_movie12_fre.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8R/KaBNGI0KVYj0WTbBO5Mp1pDOxRmyhr0LOptkZyGb4/pokemon_movie12_fre.mp4",
+            "captions": "",
+            "size": 11860718289
+        }
+    ]
 }

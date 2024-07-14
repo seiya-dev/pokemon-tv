@@ -1,61 +1,7 @@
 {
-    "channel_description": "Darkrai, Dialga, and Palkia offer a puzzle for Ash in Pokémon: The Rise of Darkrai, now available on Pokémon TV.",
-    "stunt_channel": true,
-    "channel_name": "Pokémon: The Rise of Darkrai",
-    "media": [
-        {
-            "episode": "",
-            "description": "Somewhere Between Time and Space... A Legend Is Born.",
-            "is_country_whitelist": false,
-            "title": "Pokémon: The Rise of Darkrai",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xHwkm4GdRJkrlEKlpZC0iI/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sD/pgKm7qgkS7uSN4EK_GZNBjtWvindhZIuzB22KEu84/pokemon_movie10_eng.mp4",
-            "last_modified": 1650035660,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/QUgVGn_CLFRz6cqqL9sOCckd2jSse8886mYK1K4Lw/pokemon_movie10_eng-cb874c54cdd888aaf2b3805456762d6c8fa67267.m3u8",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/QUgVGn_CLFRz6cqqL9sOCckd2jSse8886mYK1K4Lw/vtt/3/en.vtt",
-            "id": "c47c249b819d4499ae510a969642d222",
-            "size": 11192183970
-        }
-    ],
-    "channel_creation_date": 1446668486,
-    "whats_new_order": null,
-    "watch_now_order": 3,
     "channel_id": "pokemon-the-rise-of-darkrai",
+    "channel_name": "Pokémon: The Rise of Darkrai",
+    "channel_description": "Darkrai, Dialga, and Palkia offer a puzzle for Ash in Pokémon: The Rise of Darkrai, now available on Pokémon TV.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie10/movie10-1125x1500-en.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie10/movie10-1660x940-en.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie10/movie10-1660x940-en.png"
     },
-    "channel_update_date": 1650637804,
     "media_type": "movie",
-    "channel_status": "AVAILABLE UNTIL APRIL 29"
+    "order": 3,
+    "channel_creation_date": 1446668486,
+    "channel_update_date": 1650637804,
+    "media": [
+        {
+            "id": "c47c249b819d4499ae510a969642d222",
+            "season": "",
+            "episode": "",
+            "title": "Pokémon: The Rise of Darkrai",
+            "description": "Somewhere Between Time and Space... A Legend Is Born.",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xHwkm4GdRJkrlEKlpZC0iI/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/QUgVGn_CLFRz6cqqL9sOCckd2jSse8886mYK1K4Lw/pokemon_movie10_eng-cb874c54cdd888aaf2b3805456762d6c8fa67267.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/QUgVGn_CLFRz6cqqL9sOCckd2jSse8886mYK1K4Lw/pokemon_movie10_eng.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sD/pgKm7qgkS7uSN4EK_GZNBjtWvindhZIuzB22KEu84/pokemon_movie10_eng.mp4",
+            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/QUgVGn_CLFRz6cqqL9sOCckd2jSse8886mYK1K4Lw/vtt/3/en.vtt",
+            "size": 11192183970
+        }
+    ]
 }

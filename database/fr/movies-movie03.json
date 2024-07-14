@@ -1,61 +1,7 @@
 {
-    "channel_description": "Entei et les Zarbi veulent réaliser les rêves d’une petite fille, mais certains rêves tournent au cauchemar dans Pokémon 3 : Le sort des Zarbi sur TV Pokémon.",
-    "stunt_channel": true,
-    "channel_name": "Pokémon 3 : Le sort des Zarbi",
-    "media": [
-        {
-            "episode": "",
-            "description": "Entrez dans le monde des Zarbi.",
-            "is_country_whitelist": false,
-            "title": "Pokémon 3 : Le sort des Zarbi",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qjiYYbKGQYgr1geF2drmuU/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9S/3iDeb3tSG4OVZ72g-Z8hE6y4C9fQ3CEgQTC2_faho/m3_movie03_eu_fre.mp4",
-            "last_modified": 1692373703,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sl/zJ2Uqdjg0u_80Sq5bTyBzjlSu-FfndmnguD07G9Kw/m3_movie03_eu_fre-f91f6ae81593dc48eb5557de9d9ff1e440eaabca.m3u8",
-            "captions": "",
-            "id": "aa389861b2864188af581e17676b9ae5",
-            "size": 12897005333
-        }
-    ],
-    "channel_creation_date": 1441399501,
-    "whats_new_order": null,
-    "watch_now_order": 3,
     "channel_id": "pokemon-3-le-sort-des-zarbi",
+    "channel_name": "Pokémon 3 : Le sort des Zarbi",
+    "channel_description": "Entei et les Zarbi veulent réaliser les rêves d’une petite fille, mais certains rêves tournent au cauchemar dans Pokémon 3 : Le sort des Zarbi sur TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1125x1500-fr.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-fr.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-fr.png"
     },
-    "channel_update_date": 1692978220,
     "media_type": "movie",
-    "channel_status": "DISPONIBLE JUSQU'AU 1ER SEPTEMBRE"
+    "order": 3,
+    "channel_creation_date": 1441399501,
+    "channel_update_date": 1692978220,
+    "media": [
+        {
+            "id": "aa389861b2864188af581e17676b9ae5",
+            "season": "",
+            "episode": "",
+            "title": "Pokémon 3 : Le sort des Zarbi",
+            "description": "Entrez dans le monde des Zarbi.",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qjiYYbKGQYgr1geF2drmuU/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sl/zJ2Uqdjg0u_80Sq5bTyBzjlSu-FfndmnguD07G9Kw/m3_movie03_eu_fre-f91f6ae81593dc48eb5557de9d9ff1e440eaabca.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sl/zJ2Uqdjg0u_80Sq5bTyBzjlSu-FfndmnguD07G9Kw/m3_movie03_eu_fre.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9S/3iDeb3tSG4OVZ72g-Z8hE6y4C9fQ3CEgQTC2_faho/m3_movie03_eu_fre.mp4",
+            "captions": "",
+            "size": 12897005333
+        }
+    ]
 }

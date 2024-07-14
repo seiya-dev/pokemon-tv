@@ -1,61 +1,7 @@
 {
-    "channel_description": "Ash se une al Pokémon Mítico Shaymin para hacerle frente al poder de Giratina en la película Pokémon Giratina y el guerrero celestial.",
-    "stunt_channel": true,
-    "channel_name": "Giratina y el Guerrero Celestial",
-    "media": [
-        {
-            "episode": "",
-            "description": "En un Mundo Inverso, una batalla legendaria inicia…",
-            "is_country_whitelist": false,
-            "title": "Giratina y el Guerrero Celestial",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vOZT5MILT0YtA3SKyfZfTw/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sG/wr3b-LqvnGYLmVd72xfyS6IRdmRgTTHMOLbYHmb94/m11_movie11_las.mp4",
-            "last_modified": 1653024356,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qQ/hOt2XNrNFd66zl9HBoKF86Z2FYYxTf8noRStjoIOo/m11_movie11_las-2b0fa1af859a38c41e5244608237d25eaeb86b90.m3u8",
-            "captions": "",
-            "id": "bce653e4c20b4f46b40dd22b27d97d3c",
-            "size": 12135654750
-        }
-    ],
-    "channel_creation_date": 1653024359,
-    "whats_new_order": null,
-    "watch_now_order": 4,
     "channel_id": "giratina-y-el-guerrero-celestial",
+    "channel_name": "Giratina y el Guerrero Celestial",
+    "channel_description": "Ash se une al Pokémon Mítico Shaymin para hacerle frente al poder de Giratina en la película Pokémon Giratina y el guerrero celestial.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1125x1500-latam.jpg",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-latam.jpg",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-latam.jpg"
     },
-    "channel_update_date": 1653668599,
     "media_type": "movie",
-    "channel_status": "DISPONIBLE HASTA EL 3 JUNIO"
+    "order": 4,
+    "channel_creation_date": 1653024359,
+    "channel_update_date": 1653668599,
+    "media": [
+        {
+            "id": "bce653e4c20b4f46b40dd22b27d97d3c",
+            "season": "",
+            "episode": "",
+            "title": "Giratina y el Guerrero Celestial",
+            "description": "En un Mundo Inverso, una batalla legendaria inicia…",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vOZT5MILT0YtA3SKyfZfTw/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qQ/hOt2XNrNFd66zl9HBoKF86Z2FYYxTf8noRStjoIOo/m11_movie11_las-2b0fa1af859a38c41e5244608237d25eaeb86b90.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cg/PzFKV3LbpikiEtY8y68L4TiPEqQLPJJe14ZvFokBE/m11_movie11_las.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sG/wr3b-LqvnGYLmVd72xfyS6IRdmRgTTHMOLbYHmb94/m11_movie11_las.mp4",
+            "captions": "",
+            "size": 12135654750
+        }
+    ]
 }

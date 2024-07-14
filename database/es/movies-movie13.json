@@ -1,61 +1,7 @@
 {
-    "channel_description": "Ash, Pikachu, Maya y Piplup acuden raudos a salvar a Zoroark y a Ciudad Corona de las garras de un ambicioso magnate sediento de poder.",
-    "stunt_channel": true,
-    "channel_name": "Zoroark: el maestro de ilusiones",
-    "media": [
-        {
-            "episode": "",
-            "description": "¡Se ha desatado la furia de Zoroark!",
-            "is_country_whitelist": false,
-            "title": "Zoroark: el maestro de ilusiones",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DvMFX5keTgorcBG3up1qFA/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y_/c2UmT42f2K9xp1CPNO-qESgsLoI2O9PK65Y1-shOc/pokemon_movie13_spa.mp4",
-            "last_modified": 1657891637,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9o/vshmr06rT4YcH1iC6yLCz9Uilrulv4QpTfvwyrGp4/pokemon_movie13_spa-8a50a7473d945fac9020a386079829f2349b78cd.m3u8",
-            "captions": "",
-            "id": "0ef3055f991e4e0aadc046deea75a850",
-            "size": 12029493783
-        }
-    ],
-    "channel_creation_date": 1446669381,
-    "whats_new_order": null,
-    "watch_now_order": 4,
     "channel_id": "zoroark-el-maestro-de-ilusiones",
+    "channel_name": "Zoroark: el maestro de ilusiones",
+    "channel_description": "Ash, Pikachu, Maya y Piplup acuden raudos a salvar a Zoroark y a Ciudad Corona de las garras de un ambicioso magnate sediento de poder.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1125x1500-es.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-es.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-es.png"
     },
-    "channel_update_date": 1658461008,
     "media_type": "movie",
-    "channel_status": "DISPONIBLE HASTA EL 29 DE JULIO"
+    "order": 4,
+    "channel_creation_date": 1446669381,
+    "channel_update_date": 1658461008,
+    "media": [
+        {
+            "id": "0ef3055f991e4e0aadc046deea75a850",
+            "season": "",
+            "episode": "",
+            "title": "Zoroark: el maestro de ilusiones",
+            "description": "¡Se ha desatado la furia de Zoroark!",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DvMFX5keTgorcBG3up1qFA/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9o/vshmr06rT4YcH1iC6yLCz9Uilrulv4QpTfvwyrGp4/pokemon_movie13_spa-8a50a7473d945fac9020a386079829f2349b78cd.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9o/vshmr06rT4YcH1iC6yLCz9Uilrulv4QpTfvwyrGp4/pokemon_movie13_spa.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y_/c2UmT42f2K9xp1CPNO-qESgsLoI2O9PK65Y1-shOc/pokemon_movie13_spa.mp4",
+            "captions": "",
+            "size": 12029493783
+        }
+    ]
 }

@@ -4,6 +4,7 @@ import path from 'path';
 
 // dependencies
 import gm from 'got';
+import { parse } from 'csv-parse/sync';
 import { HttpsProxyAgent} from 'https-proxy-agent';
 
 // argv
@@ -39,6 +40,7 @@ const got = gm.extend(gotCfg);
 const packageJson = jsonLoad(path.join(__dirname, 'package.json'));
 console.log(`\n=== ${packageJson.programName} ${packageJson.version} ===\n`);
 const dbfolder = path.join(__dirname, '/database/');
+const urlsDbFile = path.join(__dirname, '/database/urls.csv');
 const dbfolderBk = path.join(__dirname, '/old_backups/');
 
 // regions
@@ -60,13 +62,71 @@ const tvRegion = {
 };
 
 // set tvs
-const selTvRegions = Object.keys(tvRegion).indexOf(argv.cc) > -1 ? [argv.cc] : Object.keys(tvRegion);
+const selTvRegions = Object.keys(tvRegion);
 
 // run app
 (async () => {
     // await indexOldBuckups();
+    await indexUrlData();
     await indexDb();
 })();
+
+async function indexUrlData(){
+    if(!fs.existsSync(urlsDbFile)){
+        return;
+    }
+    const urlDbText = fs.readFileSync(urlsDbFile, 'utf8');
+    const urlDb = await parse(urlDbText, {
+        bom: true,
+        columns: true,
+        delimiter: ';',
+        skip_empty_lines: false
+    });
+    for(let cc of selTvRegions){
+        console.log(`# ${cc} Indexing ${tvRegion[cc]} channel url data...`);
+        const ccfolder = fs.readdirSync(dirPath(cc));
+        for(let f of ccfolder){
+            const data = jsonLoad(dirPath(cc) + f);
+            const ndata = {
+                channel_id: data.channel_id,
+                channel_name: data.channel_name,
+                channel_description: data.channel_description,
+                channel_images: data.channel_images,
+                media_type: data.media_type,
+                order: data.watch_now_order || data.order,
+                channel_creation_date: data.channel_creation_date,
+                channel_update_date: data.channel_update_date,
+                media: [],
+            };
+            for(const v of data.media){
+                const urlDbValue = urlDb.find(u => u['Media ID'] == v.id);
+                ndata.media.push({
+                    id: v.id,
+                    season: v.season,
+                    episode: v.episode,
+                    title: v.title,
+                    description: v.description,
+                    images: v.images,
+                    skimming_thumbnail_url_base: v.skimming_thumbnail_url_base,
+                    stream_url: v.stream_url,
+                    poketv_url: '',
+                    offline_url: v.offline_url,
+                    captions: v.captions,
+                    size: v.size,
+                });
+                if(urlDbValue){
+                    if(urlDbValue['High Quality'].match(/^https/)){
+                        ndata.media.at(-1).poketv_url = urlDbValue['High Quality'];
+                    }
+                    if(!urlDbValue['High Quality'].match(/^https/)){
+                        ndata.media.at(-1).poketv_url = urlDbValue['1600kbps'];
+                    }
+                }
+            }
+            saveData(dirPath(cc) + f, ndata);
+        }
+    }
+}
 
 async function getChannelId(c, skipCatName){
     const chImg = c.channel_images.dashboard_image_1125_1500;

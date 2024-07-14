@@ -1,61 +1,7 @@
 {
-    "channel_description": "Ash og hans venner må rejse til fortiden for at rette op på fejltagelser, som truer nutiden i Pokémon: Arceus og Livets Juvel.",
-    "stunt_channel": true,
-    "channel_name": "Pokémon: Arceus og Livets Juvel",
-    "media": [
-        {
-            "episode": "",
-            "description": "En ufortalt historie. En legende genopstår.",
-            "is_country_whitelist": false,
-            "title": "Pokémon: Arceus og Livets Juvel",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ih_M-fYLSN0uPjukbT9Mpc/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iq/iGJEC-u06glunawrV7sBmwPcHOb4M97aV1AEFem7o/pokemon_movie12_dan.mp4",
-            "last_modified": 1645810208,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/XyQ-VTFgo_tLgmhMaM1Jc4dHgv1g8KxcpvnWmNNZs/pokemon_movie12_dan-4cab661eeab6e562fd353cc7167905665a4e217f.m3u8",
-            "captions": "",
-            "id": "221fccf9f60b48ddb8f8ee91b4fd3297",
-            "size": 11874540670
-        }
-    ],
-    "channel_creation_date": 1470073532,
-    "whats_new_order": null,
-    "watch_now_order": 3,
     "channel_id": "pokemon-arceus-og-livets-juvel",
+    "channel_name": "Pokémon: Arceus og Livets Juvel",
+    "channel_description": "Ash og hans venner må rejse til fortiden for at rette op på fejltagelser, som truer nutiden i Pokémon: Arceus og Livets Juvel.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1125x1500-en.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1660x940-en.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/movie12/movie12-1660x940-en.png"
     },
-    "channel_update_date": 1655479680,
     "media_type": "movie",
-    "channel_status": ""
+    "order": 3,
+    "channel_creation_date": 1470073532,
+    "channel_update_date": 1655479680,
+    "media": [
+        {
+            "id": "221fccf9f60b48ddb8f8ee91b4fd3297",
+            "season": "",
+            "episode": "",
+            "title": "Pokémon: Arceus og Livets Juvel",
+            "description": "En ufortalt historie. En legende genopstår.",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie12/movie12_ss02_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ih_M-fYLSN0uPjukbT9Mpc/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/XyQ-VTFgo_tLgmhMaM1Jc4dHgv1g8KxcpvnWmNNZs/pokemon_movie12_dan-4cab661eeab6e562fd353cc7167905665a4e217f.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/XyQ-VTFgo_tLgmhMaM1Jc4dHgv1g8KxcpvnWmNNZs/pokemon_movie12_dan.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iq/iGJEC-u06glunawrV7sBmwPcHOb4M97aV1AEFem7o/pokemon_movie12_dan.mp4",
+            "captions": "",
+            "size": 11874540670
+        }
+    ]
 }

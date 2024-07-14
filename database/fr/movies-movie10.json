@@ -1,61 +1,7 @@
 {
-    "channel_description": "Darkrai, Dialga et Palkia offrent un puzzle à Sacha dans Pokémon : L’ascension de Darkrai, maintenant disponible sur TV Pokémon.",
-    "stunt_channel": true,
-    "channel_name": "Pokémon : L'ascension de Darkrai",
-    "media": [
-        {
-            "episode": "",
-            "description": "Quelque part entre le temps et l'espace... Une légende est née.",
-            "is_country_whitelist": false,
-            "title": "Pokémon : L'ascension de Darkrai",
-            "season": "",
-            "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_180_103.jpg",
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_360_206.jpg"
-            },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YEKS1FhHTRIuSjAG8UHwA4/skim/",
-            "is_new": false,
-            "country_codes": [
-                "JP",
-                "HK",
-                "VN",
-                "TH",
-                "NP",
-                "BD",
-                "ID",
-                "BN",
-                "KH",
-                "KP",
-                "KR",
-                "WS",
-                "SG",
-                "MY",
-                "IN",
-                "MN",
-                "MM",
-                "MO",
-                "LA",
-                "PH",
-                "PK",
-                "AF",
-                "LK",
-                "PG",
-                "CN",
-                "TW"
-            ],
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ON/eXdaq8mI4ggoqK_KCpt2OuWATRoVAy_GkBm88YnmM/pokemon_movie10_fre.mp4",
-            "last_modified": 1702663982,
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/41/LKYBUNScraRQnQ9UNwuNYd_ugO69JqWxfyi2Zax4s/pokemon_movie10_fre-1db5d0a4f21bb668dded23249ff427547c2c122a.m3u8",
-            "captions": "",
-            "id": "604292d458474d12b928c01bc507c00e",
-            "size": 11192360040
-        }
-    ],
-    "channel_creation_date": 1445029654,
-    "whats_new_order": null,
-    "watch_now_order": 3,
     "channel_id": "pokemon-lascension-de-darkrai",
+    "channel_name": "Pokémon : L'ascension de Darkrai",
+    "channel_description": "Darkrai, Dialga et Palkia offrent un puzzle à Sacha dans Pokémon : L’ascension de Darkrai, maintenant disponible sur TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie10/movie10-1125x1500-fr.png",
         "spotlight_image_960_1277": "",
@@ -63,7 +9,28 @@
         "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie10/movie10-1660x940-fr.png",
         "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie10/movie10-1660x940-fr.png"
     },
-    "channel_update_date": 1702663982,
     "media_type": "movie",
-    "channel_status": "DISPONIBLE JUSQU'AU 29 DÉCEMBRE"
+    "order": 3,
+    "channel_creation_date": 1445029654,
+    "channel_update_date": 1702663982,
+    "media": [
+        {
+            "id": "604292d458474d12b928c01bc507c00e",
+            "season": "",
+            "episode": "",
+            "title": "Pokémon : L'ascension de Darkrai",
+            "description": "Quelque part entre le temps et l'espace... Une légende est née.",
+            "images": {
+                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_180_103.jpg",
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie10/movie10_ss01_360_206.jpg"
+            },
+            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YEKS1FhHTRIuSjAG8UHwA4/skim/",
+            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/41/LKYBUNScraRQnQ9UNwuNYd_ugO69JqWxfyi2Zax4s/pokemon_movie10_fre-1db5d0a4f21bb668dded23249ff427547c2c122a.m3u8",
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/41/LKYBUNScraRQnQ9UNwuNYd_ugO69JqWxfyi2Zax4s/pokemon_movie10_fre.mp4",
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ON/eXdaq8mI4ggoqK_KCpt2OuWATRoVAy_GkBm88YnmM/pokemon_movie10_fre.mp4",
+            "captions": "",
+            "size": 11192360040
+        }
+    ]
 }
