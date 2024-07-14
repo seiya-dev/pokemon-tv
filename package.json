@@ -6,8 +6,8 @@
     "main": "app.js",
     "type": "module",
     "scripts": {
-        "start": "node app.js",
-        "index": "node app.js --index",
+        "start": "pnpm i && pnpm run index && pnpm run host",
+        "index": "node app.js",
         "host": "node ./api/app.mjs",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -18,11 +18,8 @@
     "author": "Seiya Dev.",
     "license": "MIT",
     "dependencies": {
-        "csv-parse": "^5.5.6",
-        "dotenv": "^16.4.5",
         "express": "^4.19.2",
         "got": "^14.4.1",
-        "https-proxy-agent": "^7.0.5",
         "yargs": "^17.7.2"
     }
 }
