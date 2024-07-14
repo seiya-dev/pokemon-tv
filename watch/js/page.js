@@ -417,6 +417,12 @@ async function showPlayerBox(){
         checkVideoId = true;
     }
     
+    if(typeof video_id == 'string' && video_id.match(/^EMBED:/)){
+        videoUrl = 'EMBED: ' + v.stream_url;
+        v.embed_url = v.stream_url;
+        checkVideoId = true;
+    }
+    
     if(videoUrl == '' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
         console.log('poketv url:', v.poketv_url);
@@ -480,6 +486,13 @@ async function showPlayerBox(){
         videoTitle += ' (LQ)';
     }
     
+    removeChildEls('player-box');
+    if(v.embed_url && v.embed_url != ''){
+        genVideoEmbed(v.embed_url);
+        generatePlayerHeader(videoTitle);
+        return;
+    }
+    
     let posterUrl = '';
     if(typeof vData.imageUrl == 'string' && vData.imageUrl != ''){
         posterUrl = u2s(vData.imageUrl);
@@ -502,7 +515,6 @@ async function showPlayerBox(){
         return options;
     };
     
-    removeChildEls('player-box');
     genVideoEl(videoUrl, posterUrl, captionsUrl);
     
     player = videojs('#' + pl_id, {
@@ -581,7 +593,12 @@ function generatePlayerHeader(videoTitle){
         ],
     });
     
-    qSel(`#${pl_id}`).appendChild(videoTitleEl);
+    if(qSel(`#${pl_id}`)){
+        qSel(`#${pl_id}`).appendChild(videoTitleEl);
+    }
+    else{
+        qSel('#player-box').appendChild(videoTitleEl);
+    }
 }
 
 function makeControlButton(type = '', new_video_id = ''){
@@ -701,6 +718,10 @@ function showErrorPlayerBox(errArr){
 }
 
 function closePlayerBox(byCloseButton){
+    if(qSel('#embed')){
+        qSel('#embed').remove();
+    }
+    
     if(byCloseButton){
         qSel('#player-close-button').removeEventListener('click', closePlayerBox, false);
     }
@@ -715,6 +736,13 @@ function closePlayerBox(byCloseButton){
     
     window.location.hash = `#/${tvRegion}/` + (channel != '' ? 'channel?id=' + channel : '');
     uriLoader();
+}
+
+function genVideoEmbed(videoUrl){
+    appendHTML('#player-box', [
+        '<iframe id="embed" src="'+videoUrl+'"',
+        'scrolling="no" allowfullscreen></iframe>',
+    ].join(' '));
 }
 
 function genVideoEl(videoUrl, posterUrl, captionsUrl){
