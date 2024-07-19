@@ -417,18 +417,18 @@ async function showPlayerBox(){
         checkVideoId = true;
     }
     
-    if(typeof video_id == 'string' && video_id.match(/^EMBED:/)){
-        videoUrl = 'EMBED: ' + v.stream_url;
-        v.embed_url = v.stream_url;
+    if(typeof v.stream_url == 'string' && v.stream_url.match(/^EMBED:/i)){
+        videoUrl = v.stream_url;
+        v.embed_url = v.stream_url.replace(/^EMBED:/i,'');
         checkVideoId = true;
     }
     
-    if(videoUrl == '' && v.poketv_url != ''){
+    if(videoUrl == '' && typeof v.poketv_url == 'string' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
         console.log('poketv url:', v.poketv_url);
     }
     
-    if(videoUrl == '' && v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
+    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
         const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
         checkMaster = await doReq('/h/?url=' + encodeURIComponent(masterUrl));
         if(checkMaster.ok){
@@ -446,7 +446,7 @@ async function showPlayerBox(){
         }
     }
     
-    if(videoUrl == '' && v.offline_url != ''){
+    if(videoUrl == '' && typeof v.offline_url == 'string' && v.offline_url != ''){
         videoUrl = v.offline_url;
         console.log('offline url:', v.offline_url);
         m3u8data.use = true;
@@ -487,7 +487,7 @@ async function showPlayerBox(){
     }
     
     removeChildEls('player-box');
-    if(v.embed_url && v.embed_url != ''){
+    if(typeof v.embed_url == 'string' && v.embed_url != ''){
         genVideoEmbed(v.embed_url);
         generatePlayerHeader(videoTitle);
         return;
