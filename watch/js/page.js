@@ -520,7 +520,7 @@ async function showPlayerBox(){
             options.mode = "cors";
             console.log('befReq:', options);
             if(options.uri.match(/^https:\/\/v4\.freeterabox.com\//)){
-                options.uri = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(options.uri);
+                // options.uri = 'https://corsproxy.io/?' + encodeURIComponent(options.uri);
             }
             if(!options.uri.match(/\/m3u8\//) && options.uri.match(/\.m3u8$/)){
                 options.uri = '/m3u8/?url=' + encodeURIComponent(options.uri);

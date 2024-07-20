@@ -113,11 +113,11 @@ app.get('/v/', async (req, res) => {
     if(req.query.id && req.query.id.match(/^[0-9a-z-]{10,30}$/i)){
         try{
             const reqfm = 'https://www.terabox.com/api/shorturlinfo?app_id=250528&channel=dubox&clienttype=0&root=1&shorturl='+req.query.id;
-            const vData = await got(`https://api.allorigins.win/get?url=${encodeURIComponent(reqfm)}`, {
+            const vData = await got(reqfm, {
                 throwHttpErrors: false,
             });
             if(vData.statusCode == 200){
-                const vBody = JSON.parse((JSON.parse(vData.body)).contents);
+                const vBody = JSON.parse(vData.body);
                 if(vBody.errno == 0){
                     const rUrl = new URL('https://www.terabox.com/share/extstreaming.m3u8');
                     rUrl.search = new URLSearchParams({
@@ -133,7 +133,7 @@ app.get('/v/', async (req, res) => {
                     });
                     res.end(JSON.stringify({
                         ok: true,
-                        url: `https://api.allorigins.win/raw?url=${encodeURIComponent(rUrl)}`,
+                        url: rUrl,
                     }));
                 }
                 else{
@@ -141,6 +141,7 @@ app.get('/v/', async (req, res) => {
                     res.end(JSON.stringify({
                         ok: false,
                         error: 'error code: ' + vBody.errno,
+                        req_url: reqfm,
                     }))
                 }
             }
