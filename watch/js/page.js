@@ -428,6 +428,15 @@ async function showPlayerBox(){
         console.log('poketv url:', v.poketv_url);
     }
     
+    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != '' && v.stream_url.match(/^fm:/)){
+        const reqFmUrl = await doReq('/v/?id=' + v.stream_url.replace(/^fm:/, ''));
+        if(reqFmUrl.ok){
+            videoUrl = reqFmUrl.json.url;
+            console.log('master url:', videoUrl);
+            m3u8data.use = true;
+        }
+    }
+    
     if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
         const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
         checkMaster = await doReq('/h/?url=' + encodeURIComponent(masterUrl));

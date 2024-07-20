@@ -108,6 +108,75 @@ app.get('/m3u8/', async (req, res) => {
    res.end('');
 });
 
+app.get('/v/', async (req, res) => {
+    res.setHeader('Content-Type', 'application/json');
+    if(req.query.id && req.query.id.match(/^[0-9a-z]{1,15}$/)){
+        try{
+            const vData = await got(`https://filemoon.sx/e/${req.query.id}`);
+            if(vData.statusCode == 200){
+                const rUrl = decodePackedCodes(vData.body);
+                res.end(JSON.stringify({ ok: true, url: rUrl }));
+            }
+            else{
+                res.status(vData.statusCode);
+                res.end(JSON.stringify({ 
+                    ok: false,
+                    error: 'status code: ' + vHead.statusCode,
+                }));
+            }
+        }
+        catch(error){
+            res.status(404);
+            res.end(JSON.stringify({
+                ok: false,
+                error: 'failed to fetch url',
+                // error_data: error,
+            }));
+        }
+        return;
+    }
+    res.end(JSON.stringify({
+        ok: false,
+        error: 'bad request',
+    }));
+});
+
+function decodePackedCodes(code) {
+    const mobj = code.match(/}\('(.+)',(\d+),(\d+),'([^']+)'\.split\('\|'\)/);
+    let [obfuscatedCode, base, count, symbols] = mobj.slice(1);
+    base = parseInt(base);
+    count = parseInt(count);
+    symbols = symbols.split('|');
+    const symbolTable = {};
+    while (count) {
+        count -= 1;
+        const baseNCount = encodeBaseN(count, base);
+        symbolTable[baseNCount] = symbols[count] || baseNCount;
+    }
+    const dec = obfuscatedCode.replace(/\b(\w+)\b/g, (match) => symbolTable[match]);
+    const rUrl = (/sources:\s*\[{\s*file:\s*"([^"]+)/s).exec(dec)[1];
+    return rUrl;
+}
+
+function encodeBaseN(num, n, table = null) {
+    const FULL_TABLE = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    if (!table) {
+        table = FULL_TABLE.slice(0, n);
+    }
+    if (n > table.length) {
+        throw new Error(`base ${n} exceeds table length ${table.length}`);
+    }
+    if (num === 0) {
+        return table[0];
+    }
+    let ret = '';
+    while (num) {
+        ret = table[num % n] + ret;
+        num = Math.floor(num / n);
+    }
+    return ret;
+}
+
 // app start
 app.listen(PORT, () => {
     Object.keys(ifaces).forEach((ifname) => {
