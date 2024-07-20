@@ -498,7 +498,7 @@ async function showPlayerBox(){
     removeChildEls('player-box');
     if(typeof v.embed_url == 'string' && v.embed_url != ''){
         genVideoEmbed(v.embed_url);
-        generatePlayerHeader(videoTitle);
+        generatePlayerHeader(videoTitle, true);
         return;
     }
     
@@ -577,9 +577,13 @@ async function showPlayerBox(){
     });
 }
 
-function generatePlayerHeader(videoTitle){
+function generatePlayerHeader(videoTitle, isIFramePlayer){
+    const headerClass = ['vjs-header-bar'];
+    if(isIFramePlayer){
+        headerClass.push('iframe-player');
+    }
     const videoTitleEl = createEl('div', {
-        class: ['vjs-header-bar'],
+        class: headerClass,
         child: [
             createEl('div', {
                 class: ['header-bar-small'],

@@ -87,6 +87,7 @@
     color: white;
     font-size: 1.875rem;
     padding-left: 40px;
+    z-index: 2;
 }
 #player-box .vjs-header-bar .header-back-button {
     margin-right: 20px;
@@ -107,6 +108,18 @@
     font-size: 1.5rem;
 }
 .vjs-has-started.vjs-user-inactive.vjs-playing .vjs-header-bar {
+    visibility: visible;
+    opacity: 0;
+    transition: visibility 1s, opacity 1s;
+}
+
+#player-box .vjs-header-bar.iframe-player:hover {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 1s, opacity 1s;
+}
+
+#player-box .vjs-header-bar.iframe-player {
     visibility: visible;
     opacity: 0;
     transition: visibility 1s, opacity 1s;

@@ -112,16 +112,20 @@ app.get('/v/', async (req, res) => {
     res.setHeader('Content-Type', 'application/json');
     if(req.query.id && req.query.id.match(/^[0-9a-z]{1,15}$/)){
         try{
-            const vData = await got(`https://filemoon.sx/e/${req.query.id}`);
+            const reqfm = 'https://filemoon.sx/d/'+req.query.id;
+            const vData = await got(`https://api.allorigins.win/get?url=${encodeURIComponent(reqfm)}`, {
+                throwHttpErrors: false,
+            });
             if(vData.statusCode == 200){
-                const rUrl = decodePackedCodes(vData.body);
+                const vBody = JSON.parse(vData.body);
+                const rUrl = decodePackedCodes(vBody.contents);
                 res.end(JSON.stringify({ ok: true, url: rUrl }));
             }
             else{
                 res.status(vData.statusCode);
-                res.end(JSON.stringify({ 
+                res.end(JSON.stringify({
                     ok: false,
-                    error: 'status code: ' + vHead.statusCode,
+                    error: 'status code: ' + vData.statusCode,
                 }));
             }
         }
