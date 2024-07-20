@@ -432,7 +432,7 @@ async function showPlayerBox(){
         const reqFmUrl = await doReq('/v/?id=' + v.stream_url.replace(/^fm:/, ''));
         if(reqFmUrl.ok){
             videoUrl = reqFmUrl.json.url;
-            console.log('master url:', videoUrl);
+            console.log('master url:', (new URL(videoUrl, 'https://example.com')).searchParams);
             m3u8data.use = true;
         }
     }
@@ -517,6 +517,11 @@ async function showPlayerBox(){
     
     videojs.Vhs.xhr.beforeRequest = (options) => {
         if(m3u8data.use && v.stream_url != ''){
+            options.mode = "cors";
+            console.log('befReq:', options);
+            if(options.uri.match(/^https:\/\/v4\.freeterabox.com\//)){
+                options.uri = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(options.uri);
+            }
             if(!options.uri.match(/\/m3u8\//) && options.uri.match(/\.m3u8$/)){
                 options.uri = '/m3u8/?url=' + encodeURIComponent(options.uri);
             }
@@ -777,6 +782,9 @@ function genVideoEl(videoUrl, posterUrl, captionsUrl){
         sourceEl.type = 'video/mp4';
     }
     if(sourceEl.src.match(/\.m3u8$/i)){
+        sourceEl.type = 'application/x-mpegURL';
+    }
+    if(sourceEl.src.match(/\.m3u8%3F/i)){
         sourceEl.type = 'application/x-mpegURL';
     }
     if(sourceEl.src.match(/^data:application\/vnd.videojs.vhs\+json/)){

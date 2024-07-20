@@ -110,16 +110,39 @@ app.get('/m3u8/', async (req, res) => {
 
 app.get('/v/', async (req, res) => {
     res.setHeader('Content-Type', 'application/json');
-    if(req.query.id && req.query.id.match(/^[0-9a-z]{1,15}$/)){
+    if(req.query.id && req.query.id.match(/^[0-9a-z-]{10,30}$/i)){
         try{
-            const reqfm = 'https://filemoon.sx/d/'+req.query.id;
+            const reqfm = 'https://www.terabox.com/api/shorturlinfo?app_id=250528&channel=dubox&clienttype=0&root=1&shorturl='+req.query.id;
             const vData = await got(`https://api.allorigins.win/get?url=${encodeURIComponent(reqfm)}`, {
                 throwHttpErrors: false,
             });
             if(vData.statusCode == 200){
-                const vBody = JSON.parse(vData.body);
-                const rUrl = decodePackedCodes(vBody.contents);
-                res.end(JSON.stringify({ ok: true, url: rUrl }));
+                const vBody = JSON.parse((JSON.parse(vData.body)).contents);
+                if(vBody.errno == 0){
+                    const rUrl = new URL('https://www.terabox.com/share/extstreaming.m3u8');
+                    rUrl.search = new URLSearchParams({
+                        app_id: 250528,
+                        channel: 'dubox',
+                        clienttype: 0,
+                        uk: vBody.uk,
+                        shareid: vBody.shareid,
+                        type: 'M3U8_AUTO_720',
+                        fid: vBody.list[0].fs_id,
+                        sign: vBody.sign,
+                        timestamp: vBody.timestamp,
+                    });
+                    res.end(JSON.stringify({
+                        ok: true,
+                        url: `https://api.allorigins.win/raw?url=${encodeURIComponent(rUrl)}`,
+                    }));
+                }
+                else{
+                    res.status(404);
+                    res.end(JSON.stringify({
+                        ok: false,
+                        error: 'error code: ' + vBody.errno,
+                    }))
+                }
             }
             else{
                 res.status(vData.statusCode);
