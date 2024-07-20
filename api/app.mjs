@@ -130,7 +130,7 @@ app.get('/v/', async (req, res) => {
             res.end(JSON.stringify({
                 ok: false,
                 error: 'failed to fetch url',
-                // error_data: error,
+                error_data: error,
             }));
         }
         return;
