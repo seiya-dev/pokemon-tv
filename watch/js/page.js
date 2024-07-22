@@ -312,15 +312,21 @@ function showChannel(){
             }));
         }
         
+        let detetedTxt = (v.id.match(/-deleted$/i)?' [DELETED]':'');
         let epNumEl = { notEl: true };
-        if(v.episode != ''){
+        
+        if(v.episode != '' || detetedTxt != ''){
             let vSeasonNum = '';
+            let vEpisodeNum = '';
             if(v.season != '' && curChannel.category_id == 2){
                 vSeasonNum = `${tlText('Season')} ${v.season} • `;
             }
+            if(v.episode != ''){
+                vEpisodeNum = `${tlText('Episode')} ${v.episode}`;
+            }
             epNumEl = createEl('p', {
                 class: ['tile-episode-number'],
-                text: `${vSeasonNum}${tlText('Episode')} ${v.episode}`,
+                text: (`${vSeasonNum}${vEpisodeNum}${detetedTxt}`).trim(),
             });
         }
         
@@ -360,7 +366,7 @@ function showChannel(){
                     child: [
                         epNumEl,
                         createEl('h4', {
-                            text: v.title + (v.id.match(/-deleted$/i)?'[DELETED]':''),
+                            text: v.title,
                         }),
                         createEl('p', {
                             class: ['episode-description-p'],
