@@ -342,12 +342,7 @@ function showChannel(){
                                 type: 'click',
                                 func: async () => {
                                     video_id = v.id;
-                                    if(!video_id.match(/-deleted$/i)){
-                                        await showPlayerBox();
-                                    }
-                                    else{
-                                        await showDeletedMediaInfo();
-                                    }
+                                    await showPlayerBox();
                                 },
                             },
                             child: [
@@ -384,21 +379,6 @@ function showChannel(){
     }
     
     qSel('#body-content').appendChild(vSection);
-}
-
-async function showDeletedMediaInfo(){
-    if(player && player.player_){
-        player.dispose();
-    }
-    
-    removeChildEls('player-box');
-    qSel('body').style.overflow = 'hidden';
-    qSel('#player-box').style.display = 'block';
-    
-    showErrorPlayerBox([
-        'DELETED',
-        'Media was deleted.'
-    ]);
 }
 
 async function showPlayerBox(){
