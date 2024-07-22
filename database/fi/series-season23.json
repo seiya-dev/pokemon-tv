@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-matkat-sarja",
+    "channel_id": "season23",
     "channel_name": "Pokémon: Matkat – Sarja",
     "channel_description": "Ashin ja Pikachun jännittävät seikkailut jatkuvat uusien ystävien ja uusien Pokémonien kanssa! Katso Pokémon: Matkat – Sarja Pokémon TV:stä jo tänään!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1125x1500-fi.jpg",
-        "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-960x1277.jpg",
-        "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-2048x1152.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1660x940.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1660x940.jpg"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 70,
-    "channel_creation_date": 1612542877,
-    "channel_update_date": 1675441707,
+    "order": -23000,
     "media": [
         {
             "id": "d6c78637e7e9427f92d498964bed5796",
@@ -21,16 +18,13 @@
             "title": "Pikachu astuu kuvaan!",
             "description": "Sarja menneitä tapahtumia vaikuttaa nykyhetken ystävyyssuhteisiin ja seikkailuihin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1seGN-fpQn8ktSYlkvtV5Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mL/BjhJ3WhOGh2xa72pHkGGY2x2FHcM_qxbee4ddESf4/fi-fi-23-01-a2482dc2ee85217509fbe9646426ec7eb75e4a61.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6s/C_79kxYxAIvq47kka1WoUnvuY5s89ApwYTBPVT9pw/fi-fi-23-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/1lEWoL_svU5yMAeNS7YzI9o7i66I_gDzaBsr3KMdM/fi-fi-23-01.mp4",
             "captions": "",
-            "size": 4320677418
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/1lEWoL_svU5yMAeNS7YzI9o7i66I_gDzaBsr3KMdM/fi-fi-23-01.mp4"
         },
         {
             "id": "d43c6034a7e64f49a821180afba15a35",
@@ -39,16 +33,13 @@
             "title": "Legenda? Joo! Ystävä? Joo!",
             "description": "Vierailu upouudessa tutkimuslaboratoriossa kuljettaa Ashin polulle, jolla hän kohtaa sukulaissielun!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1DxgNKfmT0kqCEYCvuhWjU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9O/LTZXJm3fQDs8vxiMhWH7NY0I3ZYgpUwo3C-wp53s0/fi-fi-23-02-c79a8cc27d219818e81c4cf1d71cbdd6e669b800.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A5/gDmkvdYRC8J-eIBpFUA17bU_HlzOqLmRtF8n9PQjM/fi-fi-23-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7H/RsiMChjYLRVpEJ1GBA4mlDQ7HoMTeKp2p0b67xz7Y/fi-fi-23-02.mp4",
             "captions": "",
-            "size": 2836549107
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7H/RsiMChjYLRVpEJ1GBA4mlDQ7HoMTeKp2p0b67xz7Y/fi-fi-23-02.mp4"
         },
         {
             "id": "742ee3c88fc743fc9470d6b82554a021",
@@ -57,16 +48,13 @@
             "title": "Ivysaurin salaperäinen torni!",
             "description": "Kun Ash ja Goh tottuvat uuteen työhönsä professori Cerisen erikoistutkijana, he joutuvat keskelle ihmeellistä Pokémon-mysteeriä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dC7jyI_HQ_wlHDWuCVUoCE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5x/6MulCizibUj2IEkczjb0bm3EtI2rOWCbTBx6XgsAs/fi-fi-23-03-383aaf82f45c0e6558c10963bee888a3f5e71572.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rj/_M_MhK70hdJU9A_TVl7Gg0wNy_zXdR4Sq27Ouszic/fi-fi-23-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MK/qc7XVtzL3j5b3ZgjL9XQODiVSTkwyFLvckUTdQtCw/fi-fi-23-03.mp4",
             "captions": "",
-            "size": 2682645992
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MK/qc7XVtzL3j5b3ZgjL9XQODiVSTkwyFLvckUTdQtCw/fi-fi-23-03.mp4"
         },
         {
             "id": "9422e153caad42c5a94c03af3437de8d",
@@ -75,16 +63,13 @@
             "title": "Scorbunny-velkoja maksellessa!",
             "description": "Ash ja Goh vierailevat Galar-alueella ja tapaavat pienen, mutta pippurisen Pokémonin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lCLhU8qtQsUqUwDrzQ33o0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/qiu0hT2GKhUzIxinfUNcNZ-ZiuVi0AFJi430cvDHM/fi-fi-23-04-370be2da47e3569a3e81fbb84e1488fd53959cdf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VG/L_54hZkvoKGQBKrM8Jv-3KQLHqKJ6dgqo9Gbf92Sg/fi-fi-23-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mW/ZW-6jays3w3owYnp29GEDX4xdjFd3X2GEF442IIhY/fi-fi-23-04.mp4",
             "captions": "",
-            "size": 2712728523
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mW/ZW-6jays3w3owYnp29GEDX4xdjFd3X2GEF442IIhY/fi-fi-23-04.mp4"
         },
         {
             "id": "1eed50c47d784323a439d951177f3c75",
@@ -93,16 +78,13 @@
             "title": "Uskomaton Dynamax!",
             "description": "Ash ja Goh etsivät jättiläis-Pokémoneja Villiltä alueelta, ja eräs pikkuystävä haluaa liittyä seuraan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Hu1QxH14QyMpDnZURd_PHU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kb/nARLOgqXQ2lytJ-laKzv76y3ALLvLJRU-UkfprHH4/fi-fi-23-05-78c74a2439f1f5d6d332b9e7d56237052a471b89.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N7/wsd_isDHkwFQIJjPPLvXu-3Yt2SBPt7j2MmB4SgyE/fi-fi-23-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S1/Ym9eKCNuYuRZ3jTmi2h4zpC8MwwJk87-wzzimjJ1M/fi-fi-23-05.mp4",
             "captions": "",
-            "size": 2717399433
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S1/Ym9eKCNuYuRZ3jTmi2h4zpC8MwwJk87-wzzimjJ1M/fi-fi-23-05.mp4"
         },
         {
             "id": "89c6d4e804c04de581217dee5ca271da",
@@ -111,16 +93,13 @@
             "title": "Mew saa odottaa!",
             "description": "Scorbunny rinnallaan Goh keksii uuden tavoitteen, kaikkien Pokémonien nappaamisen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/icbU6ATATeUgSF97lyicdo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/P1Jft1vasCl4gV_amMZVQoXOkuUvnfTnZc0f-amvk/fi-fi-23-06-272c4eedafea85e2073d906ce5dd49c6f0463cdf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p2/lPXR-pybnMyoOmN-6-KPux7T5iE9Dw8H51fLgBn0c/fi-fi-23-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aJ/VLBPZlIs3Lggda8wASTZum0m7fzAImXITRy9bXrT8/fi-fi-23-06.mp4",
             "captions": "",
-            "size": 2717591513
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aJ/VLBPZlIs3Lggda8wASTZum0m7fzAImXITRy9bXrT8/fi-fi-23-06.mp4"
         },
         {
             "id": "1eeddddbf5bd49c783e6926a186cebb7",
@@ -129,16 +108,13 @@
             "title": "Polttopisteessä Huilucup!",
             "description": "Gohin tavoite on kenties napata niin monta Pokémonia kuin mahdollista, mutta Ash haluaa ottaa ottelemisenkin mukaan kuvioihin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Hu3d2_W9Sccg-aSahhs67c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OE/0pbrV7RuuRAzAsFjf9YdSaX3Nj2Chtbd48zsASAOw/fi-fi-23-07-1e1cc1b1ef0b4ea449c738efaa7f591b1e773699.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KJ/aOmfRwWM7hoozmyaoErahTcN5uXA1pRozyBwbTSvM/fi-fi-23-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I9/w6o1ds7Nbof0txBIOh4g7R8MJjHFj5yP9ZxaK3nNY/fi-fi-23-07.mp4",
             "captions": "",
-            "size": 2721128843
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I9/w6o1ds7Nbof0txBIOh4g7R8MJjHFj5yP9ZxaK3nNY/fi-fi-23-07.mp4"
         },
         {
             "id": "1743a9dd71a44714990bb8abf82a9ab1",
@@ -147,16 +123,13 @@
             "title": "Sinnohin Jäävuorikilpa!",
             "description": "Ash ja Goh tavoittelevat unelmiaan, ja kohtaavat samalla erittäin kunnianhimoisen ja sinnikkään Pokémonin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/F0Op3XGkRxQmQu4q_gqmrE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ES/mHP8oVMhM6xbEBoE5WyKucF8RnklGkf7mTf1ztdmg/fi-fi-23-08-ea057b073d801e8a10f9199cfc1f26e1f3c3acf8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tp/EZzhxE30ew6kdq8hDG66o2oFlh3W1nrnIfAAtQ6rY/fi-fi-23-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BK/6mHU0WQhKDsgIiVUEisBsfjriw38k728mMvF4u8M8/fi-fi-23-08.mp4",
             "captions": "",
-            "size": 2715760175
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BK/6mHU0WQhKDsgIiVUEisBsfjriw38k728mMvF4u8M8/fi-fi-23-08.mp4"
         },
         {
             "id": "30a0d9a9ce964fb281be96972eda7c95",
@@ -165,16 +138,13 @@
             "title": "Legendaa etsimässä!",
             "description": "Sankarimme lähtevät tutkimaan huhua ja legendaarisen Pokémonin löytämisestä tulee tärkeintä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MKDZqc6WT7Igb6Wly7afJU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q1/JrN4gBIys_riSC2IOCJGsJu7wTQ2U0EIodv-I_hVA/fi-fi-23-09-925672ed851d1c2c793cb77c0b0e9aeb077f838b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tY/L4RHaAXuzi-y7nuq5qTcQUxfb8ob8rUHyS7h48c5A/fi-fi-23-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wt/ot6r-yRWHjlPTrkkd2gMG8OxMrGmfhmFXZKI7pKgA/fi-fi-23-09.mp4",
             "captions": "",
-            "size": 2704546627
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wt/ot6r-yRWHjlPTrkkd2gMG8OxMrGmfhmFXZKI7pKgA/fi-fi-23-09.mp4"
         },
         {
             "id": "42c09aa24994454ca55a91b2493cd1f2",
@@ -183,16 +153,13 @@
             "title": "Koe paratiisissa!",
             "description": "Ash ja Goh lähtevät etsimään erityistä saarta huhujen perusteella, mutta mitä he sieltä löytävätkään?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QsCaokmURUwpVqRskk80fI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1b/wuOCZucB1MK-OHJsvrG30EKxly0xlbdVn2jk3F7CA/fi-fi-23-10-bfb1c45b35792b57892406502ee609dd62c5a740.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jH/jEa7PbDNUtsy2Kx21rgF9_ZNJ1IpJJfgNfu0MTKqY/fi-fi-23-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4h/m6hrmx1k4lPQX44IXrbmv6cfhzAa7hf-HofWiS76M/fi-fi-23-10.mp4",
             "captions": "",
-            "size": 2715007822
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4h/m6hrmx1k4lPQX44IXrbmv6cfhzAa7hf-HofWiS76M/fi-fi-23-10.mp4"
         },
         {
             "id": "5e0ffc4f669d42e4b5503d0179c3c345",
@@ -201,16 +168,13 @@
             "title": "Paras ystävä... Pahin painajainen!",
             "description": "Pelottavan vastustajan kohtaaminen päättyy kaikkea muuta kuin pelottavan Pokémonin ansiosta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Xg_8T2adQuQtVA9AXnDw0U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hj/SPJna-VnPq-h8KSVDaJm_3A9EW2IvqMmpRuX2LzV8/fi-fi-23-11-998a5516f61eb5b688beeb78309c9f4a91e668cd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ef/HBtu2ID-Fo8k5NNZ9338drDQuGbMCQ-HGfrMzAw6E/fi-fi-23-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i5/ZwY3-ZJAPIBPZ4hkklos95cQ0Jqs3EK7QYAZPQpHw/fi-fi-23-11.mp4",
             "captions": "",
-            "size": 2706280977
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i5/ZwY3-ZJAPIBPZ4hkklos95cQ0Jqs3EK7QYAZPQpHw/fi-fi-23-11.mp4"
         },
         {
             "id": "681a4b0afaa24a848f8781a3f500d435",
@@ -219,16 +183,13 @@
             "title": "Titaanien säihke!",
             "description": "Kiitos professori Cerisen, sankarimme pääsevät seuraamaan elämänsä ottelua!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aBpLCvqiSoQj4eBo_UA1DU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NG/SkoASJlKOGAinwzhGtfFP5m6GexukADQnxBGnJcGU/fi-fi-23-12-fb81db705b2e1b96754a6a411fac379ead5eac78.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MI/Ho8MhwRGqZUN1PO-QZC6CFuaP80BxxSDj2ksJ1KKA/fi-fi-23-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lQ/wCRRVlVE_j6fNZ1nZX8XjLvXtb7Bg0Rxs_OqwT2MQ/fi-fi-23-12.mp4",
             "captions": "",
-            "size": 2710090221
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lQ/wCRRVlVE_j6fNZ1nZX8XjLvXtb7Bg0Rxs_OqwT2MQ/fi-fi-23-12.mp4"
         },
         {
             "id": "788e9a6bceb1427b8c92943288e9073a",
@@ -237,16 +198,13 @@
             "title": "Uutta haastetta kohti!",
             "description": "Nähtyään Leonin ottelevan Maailmankruunajaissarjassa, Ash tietää mitä hänen on tehtävä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eI6aa86xQnsjJKUMojpBzo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FT/VK-PRdq5SnyPz8rSxVwM1_GpZnzf4TYVl7txnCrQY/fi-fi-23-13-970083bb42fce75de08c812e9391695bef6c910a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d8/VN6yESJ9aHF1QSqk6JD9z4m6Ckivx_5z-fetB0tr4/fi-fi-23-13.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q3/mnkjmncLJVVos6ItJ85047rL1sXQJ_ADd0L76_Imc/fi-fi-23-13.mp4",
             "captions": "",
-            "size": 2711885229
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q3/mnkjmncLJVVos6ItJ85047rL1sXQJ_ADd0L76_Imc/fi-fi-23-13.mp4"
         },
         {
             "id": "bef5c158f2ca44b4a805e559e7aed380",
@@ -255,16 +213,13 @@
             "title": "Raid-ottelu raunioilla!",
             "description": "Sankareittemme matka Unova-alueelle on täynnä käänteitä, ja kaiken kruunaa odottamaton yllätys!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vvXBWPLKRLQqAXlWeeu04A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vq/5a27Wk5S-Ewifd8hmhdK_GJoMhCWINmOQbAcYy6-8/fi-fi-23-14-43b1f455f8e5a2a298503cf0170fe647b3ab33d5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8E/ht6OF-rkYBmF3K1lr0VtQG7FdggcVxPPNLIzPcjPQ/fi-fi-23-14.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eW/jREKDTnTLi0t1MMD-8ILRTq6Joizpi9Ngu_rNtniY/fi-fi-23-14.mp4",
             "captions": "",
-            "size": 2721919544
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eW/jREKDTnTLi0t1MMD-8ILRTq6Joizpi9Ngu_rNtniY/fi-fi-23-14.mp4"
         },
         {
             "id": "fdb214a5a61b4fe8a66f92f3aa5a3ca1",
@@ -273,16 +228,13 @@
             "title": "Lumen keskellä luuta etsimässä!",
             "description": "Goh saa lumisen sään ansiosta mahdollisuuden tavata perhettään ja saada uusia ystäviä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_bIUpaYbT-gpm-S86paPKE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pj/EaeSE576e_gWZObrTAaECmO6nCibF5cbUkUod0VP4/fi-fi-23-15-d5a1213018d02f318751b61cecee05e5db92a9f3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0E/0XzpKYINz-Ba_yioS6xwFf2nZgpb_TzyInxj6dHSo/fi-fi-23-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P6/PiUVeGs9pgkXu_oORcnMV1qk9jkyHfNfOn2esXwRE/fi-fi-23-15.mp4",
             "captions": "",
-            "size": 2703807984
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P6/PiUVeGs9pgkXu_oORcnMV1qk9jkyHfNfOn2esXwRE/fi-fi-23-15.mp4"
         },
         {
             "id": "e2967b46803441b7bb1c5246be411105",
@@ -291,16 +243,13 @@
             "title": "Kylmäävä kirous!",
             "description": "Surkea epäonni päättyykin iloiseen yllätykseen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4pZ7RoA0QbcuxxSRr5BEQU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wr/djBYU557Eor0dxahODhQ3dhfgwckKNFpsHOaPPMnY/fi-fi-23-16-c6a5e31e1d630a42dce480684b5ba8101bc0a3bf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N7/xGl5APmtGbpVRyTdaGiX5vj0X1C2Rny_H20xIVm-o/fi-fi-23-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v9/4r8Oqib6EQWXi_GEyZdaBNGteCkDA146vj7ZceTzs/fi-fi-23-16.mp4",
             "captions": "",
-            "size": 2702372906
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v9/4r8Oqib6EQWXi_GEyZdaBNGteCkDA146vj7ZceTzs/fi-fi-23-16.mp4"
         },
         {
             "id": "df1e9e8e7e1c4620bcadc6111c406cb1",
@@ -309,16 +258,13 @@
             "title": "Potkulla kohti tulevaisuutta!",
             "description": "Goh ja Scorbunny kinastelevat harjoittelusta yllättävin tuloksin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3x6ejn4cRiAvK3GERxAbLE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/ZSDGh1KaGrC8juKWFgEv_mV0oolPlmIgR70vSSLMg/fi-fi-23-17-dad4138af4b8aa717ccacffd2d000009ccbcc974.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AT/osL3fVbiUPcNLLbcBiy88Y0Sojwa7U6Cc4Uxs1ATk/fi-fi-23-17.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qj/8l2ExDFuCJzNP70psLzzPRJit21sX7UJ-LP0HObGU/fi-fi-23-17.mp4",
             "captions": "",
-            "size": 2699759190
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qj/8l2ExDFuCJzNP70psLzzPRJit21sX7UJ-LP0HObGU/fi-fi-23-17.mp4"
         },
         {
             "id": "b1cc256dbfea4dafbc215ad73d1d4996",
@@ -327,16 +273,13 @@
             "title": "Kohteena kruunajaiset!",
             "description": "Ash on vasta aloittamassa matkaansa kohti uusintaottelua Leonin kanssa, mutta jo nyt toiminta iskee kuin miljoona volttia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/scwlbb_qTa8vCFa1z0dSZY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9A/ODY0T3IiBflMfFqQji0JcRw5qpQOvSA-4EXChQhKQ/fi-fi-23-18-cc648132dc6ebb1385583490837cd40772264abf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YM/4K4pB06-iqEZUoIWJrbLjcMhrh5arZmhD5BpPbLjM/fi-fi-23-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mS/cisLZn0EVN_KTZ1BlTW5cLD1Go5XUhlLwB0J5ByUY/fi-fi-23-18.mp4",
             "captions": "",
-            "size": 2707780497
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mS/cisLZn0EVN_KTZ1BlTW5cLD1Go5XUhlLwB0J5ByUY/fi-fi-23-18.mp4"
         },
         {
             "id": "9918a77802164a98978986005e73d83e",
@@ -345,16 +288,13 @@
             "title": "Mainio matkija!",
             "description": "Ramppikuumeinen Ditto saa apua odottamattomalta taholta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mRineAIWSpgl4mGAF5z2D4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GJ/nXQ8tt3ItTbuM-e2aSs4C90ZFFG7p22sNMub01a1Q/fi-fi-23-19-a7166b0da6b4d6fc0fc140e22e51bb06fbed881e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/LjEBbuLuaJxoxyEKZDVI36SOSXMLVxmYTllVa1xQQ/fi-fi-23-19.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jA/gfTVrePSnQxVEE6R4G4RdxmS_MqNWyNHCRoXiz0k0/fi-fi-23-19.mp4",
             "captions": "",
-            "size": 2707415409
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jA/gfTVrePSnQxVEE6R4G4RdxmS_MqNWyNHCRoXiz0k0/fi-fi-23-19.mp4"
         },
         {
             "id": "599ac3a8695a430baa0d71087011ed75",
@@ -363,16 +303,13 @@
             "title": "Näistä on unelmat tehty!",
             "description": "Professori Cerise on suunnitellut ison tapahtuman, ja sankarimme ovat sen menestyksen salaisuus!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WZrDqGlaQwsqg1xCHAR7XU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cE/YNgF0f0Z_XPvi4XNDyDqBglSt7gJKuE8t-XlaD6z8/fi-fi-23-20-e03c927c5f63eea9217dfe55a4fcbd9d34afc873.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K2/HjGMsMExURK2gu2ZCkiindxv98mWDjlyw5ISq4Hnc/fi-fi-23-20.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pf/3OfPo9LVdbmqhB56aB1P62hY2t5HMAytM8WQa7iGI/fi-fi-23-20.mp4",
             "captions": "",
-            "size": 2713274071
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pf/3OfPo9LVdbmqhB56aB1P62hY2t5HMAytM8WQa7iGI/fi-fi-23-20.mp4"
         },
         {
             "id": "15c5050f5d054c1b8252925da92e483e",
@@ -381,16 +318,13 @@
             "title": "Salaisuudesta huolehtimassa!",
             "description": "Epätavallisen Pokémonmunan innoittamana Ash suostuu huolehtimaan siitä, ja se johtaa moniin jännittäviin tapahtumiin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FcUFD10FTBsglKSXakuSD4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cS/eZOfUhe5C7M3kHLKjme0LC-LhX6xo0rPqEy2M_P78/fi-fi-23-21-ca299763b50efff558b25bfc6a35ae396e8158e4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AX/pvNQPRk-MvP52tnWOf8D5GbiUG6ur7rpwkyn0bPpM/fi-fi-23-21.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NT/plWkaudCnWAoRxdenGnu8Z6DUCFKDuNAdjFsHEcd4/fi-fi-23-21.mp4",
             "captions": "",
-            "size": 2715991190
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NT/plWkaudCnWAoRxdenGnu8Z6DUCFKDuNAdjFsHEcd4/fi-fi-23-21.mp4"
         },
         {
             "id": "e6b05615df804815953b5979c4bb23b8",
@@ -399,16 +333,13 @@
             "title": "Näkemiin, ystävä!",
             "description": "Sankarimme ovat Littleroot Townissa tekemässä tutkimuksia, ja kuten tavallista, tulokset ovat kaikkea muuta kuin tavallisia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5rBWFd-ASBUlTtZecS7I7g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3L/atEKFdJ9Zv6nlz4nGJq_Vxiop7t9t0KUdvcobcS5I/fi-fi-23-22-36f7a62d7c2f491ebcb1c22bbab17cea3a40e5bf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NK/h0GNQhF5Oq_tS202WTls3H06tj9GAiJV26evwGGpw/fi-fi-23-22.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5d/VYt802xDR5Xj2OJMQRx3FMryTuSl3LoLM_RQ6RAS8/fi-fi-23-22.mp4",
             "captions": "",
-            "size": 2714009232
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5d/VYt802xDR5Xj2OJMQRx3FMryTuSl3LoLM_RQ6RAS8/fi-fi-23-22.mp4"
         },
         {
             "id": "7c500a0afcae4b99b4f326bda4fa3b0f",
@@ -417,16 +348,13 @@
             "title": "Paniikkia puistossa!",
             "description": "Vaikka Cerise-puisto onkin kaunis, joskus paratiisissakin on pulmia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fFAKCvyuS5ktPMmvaT6Ow8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ET/bkBOYvpEdU4ipco7PTQTqCspHgMrAIwMuwxuPSebg/fi-fi-23-23-66d1995f7685fc4023c1c1b54afc039d537cc1fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1y/DQyGETMdPGsdW3FTHgAUIC0pGH-jEH73cvlowBLwo/fi-fi-23-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/v5nn8uLPCuW2Ch9tUW8trMPxU0wNDIIvnvQmbhuIU/fi-fi-23-23.mp4",
             "captions": "",
-            "size": 2726614677
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/v5nn8uLPCuW2Ch9tUW8trMPxU0wNDIIvnvQmbhuIU/fi-fi-23-23.mp4"
         },
         {
             "id": "fa846db786e04ea4ad06e9a25f5ac97b",
@@ -435,16 +363,13 @@
             "title": "Rakettiryhmä rentoutuu!",
             "description": "Rento päivä on kaikkea muuta kuin rentouttava Rakettiryhmälle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-oRtt4bgTqQrQbpol9ayXs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vt/XU0vBtkHqet9q57QWeBIm6gFNy_jAhCB-ppE3VFOo/fi-fi-23-24-c502facd87ecf458a2f9c5324af2db6c358ee77e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ed/MFv_Mxok5vo7YrGWSh9k_Pbgdh8mX7UkCIogCFqC0/fi-fi-23-24.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zp/CpfeXcjPEXXTxF40tttEG_tlzDz0_9zhLIDKk-C8I/fi-fi-23-24.mp4",
             "captions": "",
-            "size": 2704119138
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zp/CpfeXcjPEXXTxF40tttEG_tlzDz0_9zhLIDKk-C8I/fi-fi-23-24.mp4"
         },
         {
             "id": "6823fa1598e848b1a41a4a6f2c1d0816",
@@ -453,16 +378,13 @@
             "title": "Tapaaminen festivaaleilla!",
             "description": "Noustessaan Maailmankruunajaissarjan rankinglistalla, Ash saa vastaansa vanhan ystävän ja varteenotettavan vastustajan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aCP6FZjoSLEpBpKbywdCBY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sn/WyoUYxtgPArX4IrLJVLsvIWBaYPhSbUesjtW23hXw/fi-fi-23-25-7096548790f20e98d359ba3b5311fe2484829652.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bb/Bqvid6-vHgRK1el81e6Lfid6g3WDW5Zek2LYPEobI/fi-fi-23-25.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HG/87mY0InwctZLi-b_mP7OcTbN3f3Aa5cvEj5oFUXuY/fi-fi-23-25.mp4",
             "captions": "",
-            "size": 2714100304
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HG/87mY0InwctZLi-b_mP7OcTbN3f3Aa5cvEj5oFUXuY/fi-fi-23-25.mp4"
         },
         {
             "id": "78f6d7c11b114c34b7935f9bf5d7ebbe",
@@ -471,16 +393,13 @@
             "title": "Läiskytellen kohti kruunua!  / Slowking kruunataan!",
             "description": "Erikoiset tapahtumat vievät sankarimme keskelle todella erikoisia Pokémoneja ja kouluttajia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ePbXwRsRTDQt5Nfm_XX674/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fg/W5bjXk-h8huosGRStGcJ-VbIFDFZpfUp1TXUe-geU/fi-fi-23-26-490161277f51e7a4272e78b0b6eb6824ff919a95.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0C/IaO1wd5yxcUbyyKnKrLxRWrjuVe75jPBAoY8VAvmU/fi-fi-23-26.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eq/GeoMfiFQMD3hMZM-wiLusRIAoEfbBwz7PsemDZ3Bw/fi-fi-23-26.mp4",
             "captions": "",
-            "size": 2720750088
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eq/GeoMfiFQMD3hMZM-wiLusRIAoEfbBwz7PsemDZ3Bw/fi-fi-23-26.mp4"
         },
         {
             "id": "81b3f9b8c8334653b8b7fae9e03cf3c4",
@@ -489,16 +408,13 @@
             "title": "Kumppanukset kovilla!",
             "description": "Käynti suuressa ottelutapahtumassa johtaa sankarimme uusiin seikkailuihin ja uusien ystävien luo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gbP5uMgzRlMuLf66eA888Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o7/3CZx3Rhqm7ZNcRyDUUB68tUUZgk4lwuST1J5WdiKA/fi-fi-23-27-e6db8f5a82bc8d5ea78cad16a85bd92ef17a6914.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VV/dK-mPueoKiQzuHhfm9TC856AS9E0yZEjNsTMwMIdI/fi-fi-23-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XZ/KLrczgOVymd08FiMqpe2f2lZZ3b68OG525dCZLwJ0/fi-fi-23-27.mp4",
             "captions": "",
-            "size": 2726471348
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XZ/KLrczgOVymd08FiMqpe2f2lZZ3b68OG525dCZLwJ0/fi-fi-23-27.mp4"
         },
         {
             "id": "47c6d8b8b45f4f47a6e49d31ba481f5a",
@@ -507,16 +423,13 @@
             "title": "Itkupillin perässä!",
             "description": "Sattumalta kohdattu arka Pokémon tuo tunteet esiin kaikilla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/R8bYuLRfT0cpuSdMbpIH1o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DM/PLS7KDk8sG4IyUzgMA7xcU62eG4hNw2FZ29isL0Vo/fi-fi-23-28-0e8943db904ae231df1c16da7d7886d99c4eb6f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CM/VrBWQsrpi0bCd2hckh7FLJi9aSnxEKN-Z8oMvaLWs/fi-fi-23-28.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wf/PeurnEuoPq_rPyobE02l9fmNVznVjtFPZBW1qcDP4/fi-fi-23-28.mp4",
             "captions": "",
-            "size": 2714348464
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wf/PeurnEuoPq_rPyobE02l9fmNVznVjtFPZBW1qcDP4/fi-fi-23-28.mp4"
         },
         {
             "id": "00da101825784f839dde56c84fc8f3db",
@@ -525,16 +438,13 @@
             "title": "Uusi tuttavuus!",
             "description": "Chloe ja muut perheenjäsenet auttavat loukkaantunutta Pokémonia, mutta sen tervehtymisellä on odottamattomia seurauksia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ANoQGCV4T4Mnd5WyE_I89s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3N/UqLGs45c25bQOVQkk45mBkaW8PZq-a0mexeNh3soY/fi-fi-23-29-9bde4a86ebfacd91033d9be27d52ef923b4cb04e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rv/cvkzvXwSbsafJdTEuaCkNty1JHd5Q12Lbm2L9vypY/fi-fi-23-29.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7d/RkTj3PbLxRIjmVrooXU3FOX5wviGXQlr2T4Gn8MU0/fi-fi-23-29.mp4",
             "captions": "",
-            "size": 2712094227
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7d/RkTj3PbLxRIjmVrooXU3FOX5wviGXQlr2T4Gn8MU0/fi-fi-23-29.mp4"
         },
         {
             "id": "7725cdea9d9d46a6ab778f21b8e3d3df",
@@ -543,16 +453,13 @@
             "title": "Pettymyksiä, pulmia ja pännimistä!",
             "description": "Ash innostuu harjoittelusta, mutta kaikkia se ei miellytä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dyXN6p2dRqYq3ePIbjj098/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W4/XhOBvNC8gJBmQQANs9j5kMiELmNE8It1kM_GiKY_Q/fi-fi-23-30-8ab7d9c60c6a6826f127f6c2338f92e3f854f86f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DY/Zx5AEuNgX8254VQaOCzIx4lbNghtyZ-FgtdyuDbt0/fi-fi-23-30.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kb/aT8h5mrv258OZL2PGbv8E1R20dAEB63KQa_VfGCN0/fi-fi-23-30.mp4",
             "captions": "",
-            "size": 2717567570
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kb/aT8h5mrv258OZL2PGbv8E1R20dAEB63KQa_VfGCN0/fi-fi-23-30.mp4"
         },
         {
             "id": "0732cd4d538849c08d320d0ad09c5878",
@@ -561,16 +468,13 @@
             "title": "Söpöyden määritelmä!",
             "description": "Ihmisen ja Pokémonin suhde voi olla suorastaan taianomainen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BzLNTVOIScAjTINCtCcWHg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/6QRURjeTQ1aJYB6f9Xx47vcDS2wUszkL7W7eyYfRk/fi-fi-23-31-a88dcb8caf147a6cb8758fb6e36f028b0f0f2baf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wF/jPtRN_yOJ1NRyZABv3PkVqSEC7r_ncFWJJPWJXgFY/fi-fi-23-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l0/uii9WDhiTBmm8ImmXUzkMH5Q8ZwRHKsJg86tF8eVs/fi-fi-23-31.mp4",
             "captions": "",
-            "size": 2708785562
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l0/uii9WDhiTBmm8ImmXUzkMH5Q8ZwRHKsJg86tF8eVs/fi-fi-23-31.mp4"
         },
         {
             "id": "c8b3d3ade8164ddbbcbce1a9060deec9",
@@ -579,16 +483,13 @@
             "title": "Juuri oikeaan aikaan!",
             "description": "Perheen lomareissu vie Gohin matkalle muistoihin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yLPTregWTdsvLzhqQYN7sk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gx/zCSLVx7dLNuj2yFtiMYa_Z6Cfcq9T2LgVwhYLh9mQ/fi-fi-23-32-24e335bdca916e38c0eecc8aaeb4c6af79f410c4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cb/DGkD-rE25q9STnUyV4R3uScKpAx4az5kh08T6dvXk/fi-fi-23-32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gT/AFgY71CBVqRoGcSO-EFxPe_m0BmuyyxxVnuYcTNjU/fi-fi-23-32.mp4",
             "captions": "",
-            "size": 2711812447
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gT/AFgY71CBVqRoGcSO-EFxPe_m0BmuyyxxVnuYcTNjU/fi-fi-23-32.mp4"
         },
         {
             "id": "7c10ef25b4034b16a81d07d7f37ff7bf",
@@ -597,16 +498,13 @@
             "title": "Vaihda, lainaa ja varasta!",
             "description": "Sankarimme kohtaavat innokkaan Hyönteistyyppikouluttajan ja pääsevät Hyönteistyyppiseikkailulle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fBDvJbQDSxYqB0H1_N_978/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ao/V7CbQzN2WKcpmZ-nvgmDTOAtTt9BMUzcM8cqU6yS0/fi-fi-23-33-3fbb473a46617a5943da5027a490a396752399c9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YE/OY_Ye0SgdYNo_BpEWajZXE5tT_DxpHrvQqaYTq9Q8/fi-fi-23-33.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eY/I5qh0wNOoHB08ofS6Ym4gm-yHqY3zisnmPCqlVOtM/fi-fi-23-33.mp4",
             "captions": "",
-            "size": 2710251518
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eY/I5qh0wNOoHB08ofS6Ym4gm-yHqY3zisnmPCqlVOtM/fi-fi-23-33.mp4"
         },
         {
             "id": "4f26b65d7a3c4e4cae0450eabde01527",
@@ -615,16 +513,13 @@
             "title": "Yksinäinen uhka!",
             "description": "Maailmankruunajaissarjaottelu salijohtaja Bean kanssa haastaa Ashin kovemmin kuin mikään aiemmin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Tya2XXo8TkwrgRQ6r3gFSc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ku/2FDu1nJRUnXkc47Sl8o0jwq3PS77XrsHIyq5AvIGE/fi-fi-23-34-0b2c773c7327365bd3ca6856ba5412196992c00d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B-/1Orvsbs6h-oHl6tnACHJGc3CIrisznirmfzKr6bWA/fi-fi-23-34.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ts/HfmT4XIaHbVT_sI1d6Zs2G_dmMPBtrnPqQYcdllUo/fi-fi-23-34.mp4",
             "captions": "",
-            "size": 2706810657
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ts/HfmT4XIaHbVT_sI1d6Zs2G_dmMPBtrnPqQYcdllUo/fi-fi-23-34.mp4"
         },
         {
             "id": "98c4cfdd2b314d9a9eb7571cc6b4b499",
@@ -633,16 +528,13 @@
             "title": "Omakseni saan minkä?!",
             "description": "Gohin unelma kaikkien Pokémonien nappaamisesta johtaa sankarimme sähköiseen kohtaamiseen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mMTP3SsxTZonrdXHMa0tJk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DJ/tBHr04usDU6F-_nKH345MruZi3Em4P5OF2DQpp-xQ/fi-fi-23-35-aad05c817e71b73d727babae4b234bd633191ca0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pa/cVG5H0wJj0O4ozA18Sef_l5_8YAk5EiVDkmKXgesw/fi-fi-23-35.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0o/eRNnzkOFVq2qdPjDx9D1G1gdEmaf52V9I7brhfTAM/fi-fi-23-35.mp4",
             "captions": "",
-            "size": 2721151288
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0o/eRNnzkOFVq2qdPjDx9D1G1gdEmaf52V9I7brhfTAM/fi-fi-23-35.mp4"
         },
         {
             "id": "22ce34c47cc947c6b0b3d46fad86e417",
@@ -651,16 +543,13 @@
             "title": "Hiekan keskeltä uuteen alkuun!",
             "description": "Sankarimme ottavat selville, mitä hiekkamyrskyn sisällä on! Seikkailu sisältää monia käänteitä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Is40xHzJR8YsLPUb62G5Bc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2z/X-1yPPiBbrnuw6hPavSUGrpxj4PS0hM2R-0XBgvT4/fi-fi-23-36-3269a27e69df713381ff576f07e65ade5049953e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WF/TMWVKI-kg2jyJ60D7VvhICtgxPN11rPmTPqPDwSiM/fi-fi-23-36.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yv/LCDN_jzrKRqjaLqoPEdbEg_dtvTS9B-2uY_s2qvT8/fi-fi-23-36.mp4",
             "captions": "",
-            "size": 2723632024
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yv/LCDN_jzrKRqjaLqoPEdbEg_dtvTS9B-2uY_s2qvT8/fi-fi-23-36.mp4"
         },
         {
             "id": "417099a318584c8984c1372daca27c9e",
@@ -669,16 +558,13 @@
             "title": "Vanha jengi koossa taas!",
             "description": "Sankarimme matkaavat Alolaan, ja Pokémonkoulun jengillä on heille yllätyksiä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QXCZoxhYTIkhME3LayifJ4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i1/J6MxFD-jQ2xOi0BEO_dHAoJXQey7t-m30MybJ9_Vc/fi-fi-23-37-fa1ec090b67a8259e7af780d35f9a04fd694e577.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BG/cCygaJjw7wH4-aOppR_DGDZy29gepxMiaO0HfOTZg/fi-fi-23-37.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hp/BY-SEzhemP_JuPVotmnMQ3oWoRYBTcdfSUMkc3a8I/fi-fi-23-37.mp4",
             "captions": "",
-            "size": 2700795106
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hp/BY-SEzhemP_JuPVotmnMQ3oWoRYBTcdfSUMkc3a8I/fi-fi-23-37.mp4"
         },
         {
             "id": "9a058d6ac21d45d7af1e97df84829b43",
@@ -687,16 +573,13 @@
             "title": "Fossiilia elvyttämässä!",
             "description": "Vierailu Pewterin tiedemuseossa vie sankarimme muinaiselle ja jännittävälle seikkailulle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mgWNasIdRdcrx6X34SCm0M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/ILW2x1vjyxEh_ZuQtr8BwsJa3fhDi5SfPOq-goaSo/fi-fi-23-38-5f3579f380d351700638ecb7e753cd0572fd956c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/1mX5JD04bDAm2i44i2rh2DHK8H4MadMto_TIfvqU4/fi-fi-23-38.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0s/RXwk30ykyK76wmJSqsmcUkYxHLtiBHpp5mY9lLGJA/fi-fi-23-38.mp4",
             "captions": "",
-            "size": 2702929694
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0s/RXwk30ykyK76wmJSqsmcUkYxHLtiBHpp5mY9lLGJA/fi-fi-23-38.mp4"
         },
         {
             "id": "f306cfab07364ef287d47d1d98aacec1",
@@ -705,16 +588,13 @@
             "title": "Octolock-pattitilanne salilla!",
             "description": "Sankarimme suuntaavat Johto-alueelle, niin että Ash voi otella Bean kanssa uudestaan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8wbPqwc2TvIh9R9HZiqzsE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/4DvJavU9Q_ohCrW8k3-foldTI572SbaHRCtC7D6Dk/fi-fi-23-39-7d5297fff62af45d8cc2687a4e11d10b83c85a96.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4f/w-vFygDIUD7DljeMKI6q_zUEyxRRSVJ7sg2VBboUE/fi-fi-23-39.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xk/-J3oHEoYVOGWqnViamkDChHvKynzY33XE8Gzm22OY/fi-fi-23-39.mp4",
             "captions": "",
-            "size": 2713670152
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xk/-J3oHEoYVOGWqnViamkDChHvKynzY33XE8Gzm22OY/fi-fi-23-39.mp4"
         },
         {
             "id": "aceba9b7939e4590a5426f24a788803a",
@@ -723,16 +603,13 @@
             "title": "Rätisevä Raid-ottelu!",
             "description": "Sankarimme ovat saaneet vihiä legendaarisesta Pokémonista, ja ratkaisevat samalla mysteerin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rOupt5OeRZApUJvJKeIgDo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/55/_rU2aVmK4tSiFP-k_WDYiIDk39bqBsZO-dLyzezkc/fi-fi-23-40-81ed4eaf14db2afc3f2701c61d39279012670b9a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gO/Nm2nYzDzMesllJJHv2P8BhUvniGqNhfsxFLaO-wB0/fi-fi-23-40.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nO/erV7gX4JZVbCL5zpbtmJQsnENBlZS5ay4drIozbOk/fi-fi-23-40.mp4",
             "captions": "",
-            "size": 2714227064
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nO/erV7gX4JZVbCL5zpbtmJQsnENBlZS5ay4drIozbOk/fi-fi-23-40.mp4"
         },
         {
             "id": "6642d43057bd461b9a51e6de186d1844",
@@ -741,16 +618,13 @@
             "title": "Pikachua dubbaamassa/Kaulaa myöten!",
             "description": "Päivä on erikoinen kaikille: niin sankareille kuin vihollisillekin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZkLUMFe9RhsmlHm3hhtGEQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U1/cHdgxHXLcO_B7xk_F0LIilD_1YpGmJn_58xmi-3bQ/fi-fi-23-41-5e047982194ded343548a159bd3d5b1b7a871e9b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fr/y2-1vEx3hubkAgyEcBuYDTkYdc2kHtjVU3xfYMODE/fi-fi-23-41.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cW/O33XP-IFMtbNi-rVW27ed_mbezVyS06TsHR-ba9eI/fi-fi-23-41.mp4",
             "captions": "",
-            "size": 2685062978
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cW/O33XP-IFMtbNi-rVW27ed_mbezVyS06TsHR-ba9eI/fi-fi-23-41.mp4"
         },
         {
             "id": "4cd07f24a7e64671979915f92983ef58",
@@ -759,16 +633,13 @@
             "title": "Miekka ja Kilpi, Uinuva salo!",
             "description": "Dynamax-Pokémonit riehuvat Galar-alueella ja sankarimme syöksyvät keskelle tapahtumia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TNB_JKfmRnEl5kV-SmD71g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XL/eEenrilJj0aBf2ACobps7KCUYAKXh5LpxOsH7S93w/fi-fi-23-42-57a24f11e88d629f00114fa9f7216f6e72f4c91a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bA/lz7HLcUMRaeZVzw3AOQSmenRe2XZsi_45DUnj1z54/fi-fi-23-42.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/mLMe7P-5Ls3alM-1KTWCqOK05wlWcCOwwHV_IhgZE/fi-fi-23-42.mp4",
             "captions": "",
-            "size": 2710768234
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/mLMe7P-5Ls3alM-1KTWCqOK05wlWcCOwwHV_IhgZE/fi-fi-23-42.mp4"
         },
         {
             "id": "d9d8a3f99739493e9f08a8f66f74d99b",
@@ -777,16 +648,13 @@
             "title": "Miekka ja Kilpi: Pimein päivä!",
             "description": "Tutkiessaan Galarin kriisiä kahdelta eri suunnalta, sankarimme löytävät taatusti vastauksia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2dij-Zc5ST4nwio9m902Zs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BD/_HcRP3hnpQB86ix9BTKKyQ-WfqeTGumoQQR_WS7T8/fi-fi-23-43-6eebfeffe77eeea45c1460a2027156a1449496ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/QS_w4PTacscaFSYEjd5fe3-OgTbQhEmKbfnineCec/fi-fi-23-43.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bc/WxLj3PxiWzv2UBmOxnjy0ZYwUczYSpPF6AzqX4LNA/fi-fi-23-43.mp4",
             "captions": "",
-            "size": 2695997699
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bc/WxLj3PxiWzv2UBmOxnjy0ZYwUczYSpPF6AzqX4LNA/fi-fi-23-43.mp4"
         },
         {
             "id": "745a50f0e13f45bcbc800b0ce8412415",
@@ -795,16 +663,13 @@
             "title": "Miekka ja Kilpi: Ikuinen Eternatus!",
             "description": "Galar-alueen ajautuessa kohti tuhoaan, sankarimme päättävät estää onnettomuutta tapahtumasta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dFpQ8OE_RbwvIALDOhBJBU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a8/owxIHqN_YKvqLPomUioTtZ4Xr2B4P1KIVGrdbs9Tg/fi-fi-23-44-7ec377dff779dd2c619356b25fc045c145e5efdd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lj/F9Y8Yi7wI_BINsj6dSIS_7q3dvBXwEii4tNJhkbHc/fi-fi-23-44.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/xM66KC5N4PccyJdNjW1f7PJFaXS8RWOvq31Mov3B0/fi-fi-23-44.mp4",
             "captions": "",
-            "size": 2709685395
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/xM66KC5N4PccyJdNjW1f7PJFaXS8RWOvq31Mov3B0/fi-fi-23-44.mp4"
         },
         {
             "id": "7eecca4eba8d4dd185976b0748d60b0f",
@@ -813,16 +678,13 @@
             "title": "Miekka ja Kilpi... Legendat heräävät!",
             "description": "Sankarimme kohtaavat käsittämättömän vaaran ja Galarin kohtalo roikkuu vaakalaudalla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fuzKTrqNTdEhZdrB0jWCw8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/73pjJXr62-pJhLO-VowDuZJWZlU6YvZsij8fDhnoc/fi-fi-23-45-7143b499aa209c73ce7a0499aa3ffa51fe81b8bf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Px/56xXu_nQhw-I9MPSvXyXxXWUXoluyYx3KUDxkZKKA/fi-fi-23-45.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sv/Flb3oH4WVk4HAC43Scg64KNA1jLP5P1O5GxbicMYg/fi-fi-23-45.mp4",
             "captions": "",
-            "size": 2725909671
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sv/Flb3oH4WVk4HAC43Scg64KNA1jLP5P1O5GxbicMYg/fi-fi-23-45.mp4"
         },
         {
             "id": "88fde40c62654530a7a1875b70f99f46",
@@ -831,16 +693,13 @@
             "title": "Yllättävä ottelu!",
             "description": "Kun Ash ja Goh tutkivat kaukaista saarta Mew tähtäimessään, heidän tutkimuksensa saavat odottamattoman väkevän käänteen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iP3kDGJlRTAp6GHW3D5n0Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YW/WOz3rN8By7R2tosdxGHOiVxd71ftaIvjDJmS5X7AQ/fi-fi-23-46-6d3f254a1a9d8f3654504db4aade6bfaba2761c4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A5/8WlO6cUu9vk4IGwA3-C5RCpzX_ALVihTgr31Fd-Pc/fi-fi-23-46.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/JbyGnvjpbo3DMiPm0UfzoJF3g2Opj3MZ6Ltoj2z2A/fi-fi-23-46.mp4",
             "captions": "",
-            "size": 2723860120
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/JbyGnvjpbo3DMiPm0UfzoJF3g2Opj3MZ6Ltoj2z2A/fi-fi-23-46.mp4"
         },
         {
             "id": "e869a2a29b274c07b7188def76b90717",
@@ -849,16 +708,13 @@
             "title": "Mättökeisarin kruunaus!",
             "description": "Vermilion Cityssä on iso kilpailu, ja sekä sankarit että roistot iskevät voittoon kiinni!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6GmiopsnTActxiN73a5Bxc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qM/wtEx2oPaHOxY6EHAWYWSAxiWLa7fzfQ5eaof2W_g0/fi-fi-23-47-10d4c66d2c15552d50334f07dbf1b70e519df0b5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XB/EcwdNvegOUHAccoyKhHaP_jjQtE3q0XIKtrvWA7rs/fi-fi-23-47.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fx/iynKj0fS-C8LsC8jbmdguWMxQmQSNw-6IVI1HNYzQ/fi-fi-23-47.mp4",
             "captions": "",
-            "size": 2717073808
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fx/iynKj0fS-C8LsC8jbmdguWMxQmQSNw-6IVI1HNYzQ/fi-fi-23-47.mp4"
         },
         {
             "id": "363fdf4fca184be789087e75be25fbd3",
@@ -867,16 +723,13 @@
             "title": "Läheltä piti... kirjaimellisesti!",
             "description": "Ash ja Goh nauttivat makumatkastaan Unovassa samalla kun heidän kaksi Pokémoniaan muodostavat odottamattoman siteen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Nj_fT8oYS-ciQh-db4l-9M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zg/LXz_zmkUJB4PnwqaUWSj3BKlTjVOaM_ORYAxtcGuA/fi-fi-23-48-b3e2ae5cf10502148e25e26ffab0385796fd8e9d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RP/db-ozHM5k1ChvimCvj-20tpW9_6wCN9OpYBGgdSUE/fi-fi-23-48.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5p/yUiBWpW9eGKU1nF4sDOP6GZl7tvZ4BiKFzeUxztzE/fi-fi-23-48.mp4",
             "captions": "",
-            "size": 2711081428
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5p/yUiBWpW9eGKU1nF4sDOP6GZl7tvZ4BiKFzeUxztzE/fi-fi-23-48.mp4"
         }
     ]
 }

@@ -1,18 +1,15 @@
 {
-    "channel_id": "zoroark-el-maestro-de-ilusiones",
+    "channel_id": "movie13",
     "channel_name": "Zoroark: el maestro de ilusiones",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-es.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 4,
-    "channel_creation_date": 1560369949,
-    "channel_update_date": 1658461971,
+    "order": -13000,
     "media": [
         {
             "id": "83827eb906d44db897729c47d8b7c9ca",
@@ -21,16 +18,13 @@
             "title": "Zoroark: El maestro de Ilusiones",
             "description": "Ash, Pikachu, Dawn y Piplup acuden al rescate de Zoroark y Ciudad Corona de las garras de un ambicioso magnate sediento de poder.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/g4J-uQbUTbgl3KcR9i3yco/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q7/GdWa3LwVrk0cJDo49xHidzSPhduNZy28B_LaVDnZ0/m13_movie13_las-083af9299880eeb8ab9a3666d5299f847fda38f6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q7/GdWa3LwVrk0cJDo49xHidzSPhduNZy28B_LaVDnZ0/m13_movie13_las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LO/-2VfVQZ8xZKoXfR6dITD3Yw94eWFAOsnODrZFgHIQ/m13_movie13_las.mp4",
             "captions": "",
-            "size": 11987307196
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LO/-2VfVQZ8xZKoXfR6dITD3Yw94eWFAOsnODrZFgHIQ/m13_movie13_las.mp4"
         }
     ]
 }

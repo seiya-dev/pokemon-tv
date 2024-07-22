@@ -1,18 +1,15 @@
 {
-    "channel_id": "teselia-es-noticia",
+    "channel_id": "25th-unova",
     "channel_name": "Teselia es noticia",
     "channel_description": "Ve cómo Ash, Iris y Millo se enfrentan a sus rivales de Teselia en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/unova/unova-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/unova/unova-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/unova/unova-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/unova/unova-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1623426527,
-    "channel_update_date": 1624032502,
+    "order": -1623426527,
     "media": [
         {
             "id": "0a8e4c1f9b0c449caff6bdfdfac0010d",
@@ -21,16 +18,13 @@
             "title": "¡Reencuentros y combates en Mayólica!",
             "description": "El día del Torneo de Pueblo Mayólica ha llegado, y nuestros héroes tienen un feliz encuentro con muchos viejos amigos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Co5MH5sMRJwr_a9_frAAQ0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/22/zvFDTisHMn8aPsCSpWHRmQgDekDq3QQaLS72NMsb4/pok_tv_s1442_2997-master-cas--reencuentros-y-combates-en-may-lica--842a1e2416d9601944b8af8e543692b9444e99b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/22/zvFDTisHMn8aPsCSpWHRmQgDekDq3QQaLS72NMsb4/pok_tv_s1442_2997-master-cas--reencuentros-y-combates-en-may-lica-.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q9/hdmm6qF6Kg5Uq6taVUpmpeaItANcasJgs6CL_Oq2c/pok_tv_s1442_2997-master-cas--reencuentros-y-combates-en-may-lica-.mp4",
             "captions": "",
-            "size": 2705397859
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q9/hdmm6qF6Kg5Uq6taVUpmpeaItANcasJgs6CL_Oq2c/pok_tv_s1442_2997-master-cas--reencuentros-y-combates-en-may-lica-.mp4"
         },
         {
             "id": "bdb37022874245e2a3d4c84af6b0de70",
@@ -39,16 +33,13 @@
             "title": "¡Millo contra Trip, Ash contra Georgia!",
             "description": "Millo se enfrenta a Trip durante la primera ronda del Combate de Club de Pueblo Mayólica. En la segunda ronda, le toca a Ash contra Georgia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vbNwIodCReIo9TISvaw3nA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s4/OkRBhEKwbRBG2NDOxOk_SMoYExHCDp500Cmf4cPD4/pok_tv_s1443_2997-master-cas--millo-contra-trip--ash-contra-georgia--178f218601947ec20fbab20273417da58215aaf5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s4/OkRBhEKwbRBG2NDOxOk_SMoYExHCDp500Cmf4cPD4/pok_tv_s1443_2997-master-cas--millo-contra-trip--ash-contra-georgia-.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Z/hBz2R-S5cglqCLxGm9rqWbCssWYeMjfOtNLekFKQs/pok_tv_s1443_2997-master-cas--millo-contra-trip--ash-contra-georgia-.mp4",
             "captions": "",
-            "size": 2712204332
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Z/hBz2R-S5cglqCLxGm9rqWbCssWYeMjfOtNLekFKQs/pok_tv_s1443_2997-master-cas--millo-contra-trip--ash-contra-georgia-.mp4"
         },
         {
             "id": "e208356ab21e4294bb4b593192d4a86f",
@@ -57,16 +48,13 @@
             "title": "¡Corazones y furia en el Combate de Club! ¡Emolga contra Sawk!",
             "description": "Los combates de la segunda ronda del Combate de Club han sido feroces, culminando en un vehemente combate entre la ágil Emolga de Iris y el potente Sawk de Stephan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4gg1arIeQpQu0tZMZLUqG8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rd/aUU5e1DXIvTDNow2oaRor-j1HkQ0fCgeH4ITiH_fY/pok_tv_s1444_2997-master-cas--corazones-y-furia-en-el-combate-de-club---emolga-contra-sawk--12437d789d37b85d64235acca0dcc22df081c67c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rd/aUU5e1DXIvTDNow2oaRor-j1HkQ0fCgeH4ITiH_fY/pok_tv_s1444_2997-master-cas--corazones-y-furia-en-el-combate-de-club---emolga-contra-sawk-.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/99/3fsnZIvwXXedHLIinUfMxRfS1uFH5bpykPw5EMRK8/pok_tv_s1444_2997-master-cas--corazones-y-furia-en-el-combate-de-club---emolga-contra-sawk-.mp4",
             "captions": "",
-            "size": 2696109005
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/99/3fsnZIvwXXedHLIinUfMxRfS1uFH5bpykPw5EMRK8/pok_tv_s1444_2997-master-cas--corazones-y-furia-en-el-combate-de-club---emolga-contra-sawk-.mp4"
         },
         {
             "id": "04ccf5bf77bd4b148a4b49a752970c31",
@@ -75,16 +63,13 @@
             "title": "¡La final del Combate de Club! ¡Un resultado heroico!",
             "description": "Ha llegado el momento de la ronda final del Combate de Club de Mayólica, y dos buenos amigos van a combatir frente a frente.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BMz1v3e9SxQiktJp1KXDDE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NU/flJ0WSWVUQ0qeirveE8gwbj2SdhatdQEhoW9YlDxk/pok_tv_s1445_2997-master-cas--la-final-del-combate-de-club---un-resultado-heroico--15be454425f4cb80b65983cfe80769ceac57c941.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NU/flJ0WSWVUQ0qeirveE8gwbj2SdhatdQEhoW9YlDxk/pok_tv_s1445_2997-master-cas--la-final-del-combate-de-club---un-resultado-heroico-.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h1/rGIjDI_Fdd6lddYoltRurmTMlUWyDqKR_gGknT0ZA/pok_tv_s1445_2997-master-cas--la-final-del-combate-de-club---un-resultado-heroico-.mp4",
             "captions": "",
-            "size": 2700013896
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h1/rGIjDI_Fdd6lddYoltRurmTMlUWyDqKR_gGknT0ZA/pok_tv_s1445_2997-master-cas--la-final-del-combate-de-club---un-resultado-heroico-.mp4"
         },
         {
             "id": "b80b362c4e9d4e0a894b4b7c0224595a",
@@ -93,16 +78,13 @@
             "title": "¡Comienza el Clubombazo!",
             "description": "Se está celebrando el Torneo Clubombazo de Don Jorge, y nuestros héroes, por supuesto, tienen varios rivales con los que ajustar cuentas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uAs2LE6dTgoiUtLfAIkWVo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gL/u4JyvhZXr9IGKYugLgqrlGsjrJwGYci-Y8OvPKXyY/pok_tv_s1522_2997-master-cas-sdt-h264-30c963c41512e0fccd6cb363005d43a3660de5aa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gL/u4JyvhZXr9IGKYugLgqrlGsjrJwGYci-Y8OvPKXyY/pok_tv_s1522_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q-/NPpd1rNk4e3yciBNOE2uFuGPUQtYiXr-OdaxDVAoI/pok_tv_s1522_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3286869798
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q-/NPpd1rNk4e3yciBNOE2uFuGPUQtYiXr-OdaxDVAoI/pok_tv_s1522_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "32539049b36c4403871e0c22a80d9031",
@@ -111,16 +93,13 @@
             "title": "¡Puntuando para la final del Clubombazo!",
             "description": "La primera ronda del Torneo Clubombazo está al rojo vivo y la acción explosiva está más que a la altura de su nombre.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MlOQSbNsRAMhx4MIqgNkDE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HO/lhYskukB2CCQiIri3vIbdKg67SY7AIQf5Oc04ZYqY/pok_tv_s1523_2997-master-cas-sdt-h264-66354b3fed550d679a812cb389d69f36cc5811ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HO/lhYskukB2CCQiIri3vIbdKg67SY7AIQf5Oc04ZYqY/pok_tv_s1523_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/wCUtzzGWz9_t6W0DmEAND4QNANAUn8bwNS3PlitR4/pok_tv_s1523_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3311419487
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/wCUtzzGWz9_t6W0DmEAND4QNANAUn8bwNS3PlitR4/pok_tv_s1523_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "d131cb5a7a7e4affb0f69e2473059236",
@@ -129,16 +108,13 @@
             "title": "¡Un Clubombazo a tope de emoción!",
             "description": "Llegada la primera ronda del Clubombazo a su fin, la segunda ronda promete ser todavía más emocionante en cada combate.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0THLWnp-Sv8sPaeJHMFkjY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fS/nDKU_zxTuFDVQBlEKzvGVh7pPrn2lqE_HhJ1BVVLw/pok_tv_s1524_2997-master-cas-sdt-h264-a41e6f6cf3b80df138f02474beda9b8e8bdb1b58.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fS/nDKU_zxTuFDVQBlEKzvGVh7pPrn2lqE_HhJ1BVVLw/pok_tv_s1524_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vs/NpF6doPoiSpaaxma2i7S-MlyLrUQq3bmX9J4gsW50/pok_tv_s1524_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3269485189
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vs/NpF6doPoiSpaaxma2i7S-MlyLrUQq3bmX9J4gsW50/pok_tv_s1524_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "a8d98f5bacee4af0bd76936a203c7d19",
@@ -147,16 +123,13 @@
             "title": "¡Imponiendo la corona del Clubombazo!",
             "description": "El Torneo Clubombazo ha sido una serie intensa de combates cuerpo a cuerpo, pero la ronda final va a subir el listón de los enfrentamientos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qNmPW6zuSvAvXaTaiA8fRk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9c/xw1CMUAfuk-ApGAnLNKFjAuhW5PSArR-58Mt2ftso/pok_tv_s1525_2997-master-cas-sdt-h264-9332284a26bdfffa62fa8b45a52ddcf91648f8ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9c/xw1CMUAfuk-ApGAnLNKFjAuhW5PSArR-58Mt2ftso/pok_tv_s1525_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tt/OiG_0UsXLPOYGHIgJWOsVoLxJQ7uza-j4iRK5MR5I/pok_tv_s1525_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3316662104
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tt/OiG_0UsXLPOYGHIgJWOsVoLxJQ7uza-j4iRK5MR5I/pok_tv_s1525_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "f0df75414e3d45eab5111667d77d8172",
@@ -165,16 +138,13 @@
             "title": "¡A empujon limpio por la Copa Júnior!",
             "description": "La Copa Júnior del Pokémon World Tournament tiene un comienzo trepidante, y nuestros héroes se enfrentan a rivales nuevos y antiguos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8N91QU49ReotREWZ9d9gXI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/tQHkGhuQRvAbiIhEIVmtbQwvh27VSvpIAsoGVjD0Q/pok_tv_s1542_2997-master-cas-sdt-h264-65b5a8e40655148b68eea9d0336927cdf146ac11.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/tQHkGhuQRvAbiIhEIVmtbQwvh27VSvpIAsoGVjD0Q/pok_tv_s1542_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JW/LoPQgzQRGc3EbgIFlJzR-kg8njPBvAu97n9Tp3gc4/pok_tv_s1542_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3248597247
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JW/LoPQgzQRGc3EbgIFlJzR-kg8njPBvAu97n9Tp3gc4/pok_tv_s1542_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "b8cbdb3bf5554083a00e0e8cc67444e0",
@@ -183,16 +153,13 @@
             "title": "¡Combatiendo de nuevo contra la autoridad!",
             "description": "La segunda ronda de la Copa Júnior del Pokémon World Tournament está en marcha y el combate entre el ganador y Mirto espera entre bastidores.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uMvbO_VVQIMoA4OjMZ0ROA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8l/r61oOBIPojsF9xdCgNaxgf0r5LDONyarPuHbYF7r0/pok_tv_s1543_2997-master-cas-sdt-h264-e7454c448dc9ed9a47f6796c9382cfdcf0d9a397.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8l/r61oOBIPojsF9xdCgNaxgf0r5LDONyarPuHbYF7r0/pok_tv_s1543_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nA/KHlNsr4JGUGnHHHyfHBiNvXMdXrkiOX_BY8zpKgig/pok_tv_s1543_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3234979262
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nA/KHlNsr4JGUGnHHHyfHBiNvXMdXrkiOX_BY8zpKgig/pok_tv_s1543_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "ccb76978f28d4a46a37a2ccecbd194a5",
@@ -201,16 +168,13 @@
             "title": "¡Ash, Iris y Trip: y quedaron tres!",
             "description": "La emocionante Copa Júnior del Pokémon World Tournament continúa, y la semifinal y la final dependen de los resultados de estos dos últimos combates.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zLdpePKNSkYo3oszsvRlKU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bw/qHORsBqucVu7edWJyBtZRgM86Psd223-m41coDdhE/pok_tv_s1544_2997-master-cas-sdt-h264-80213e5e01772eca36272c92365275e26b81accc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bw/qHORsBqucVu7edWJyBtZRgM86Psd223-m41coDdhE/pok_tv_s1544_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ik/UcMN8suttvo9jaKEVCkpKlwXh_D3ROQI_f82p0CcE/pok_tv_s1544_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3288334378
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ik/UcMN8suttvo9jaKEVCkpKlwXh_D3ROQI_f82p0CcE/pok_tv_s1544_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "a28587a69a234cd6b1f5be8aa6802878",
@@ -219,16 +183,13 @@
             "title": "¡Adiós, Copa Júnior-  hola, aventura!",
             "description": "La Copa Júnior del Pokémon World Tournament ha finalizado, pero hay nuevas aventuras a punto de empezar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ooWHppojTNYsfW-iqaAKHg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/JQ89zGgeO8khBzRa4AE1c9A9ooFduSgYM2Tl3Dw2c/pok_tv_s1545_2997-master-cas-sdt-h264-147a383b8a4fbfd67a0ad1c414b2a95069121632.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/JQ89zGgeO8khBzRa4AE1c9A9ooFduSgYM2Tl3Dw2c/pok_tv_s1545_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f2/YCBv-6VIkVe0SO2pw0Nw4SoTBYD8NyDe23IAQsLfs/pok_tv_s1545_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3287873415
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f2/YCBv-6VIkVe0SO2pw0Nw4SoTBYD8NyDe23IAQsLfs/pok_tv_s1545_2997-master-cas-sdt-h264.mp4"
         }
     ]
 }

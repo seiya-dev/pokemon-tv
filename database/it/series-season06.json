@@ -1,18 +1,15 @@
 {
-    "channel_id": "advanced",
+    "channel_id": "season06",
     "channel_name": "Advanced",
     "channel_description": "Nella sesta stagione della serie animata, Ash e Pikachu esplorano la regione di Hoenn. In arrivo questo venerdì su TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1125x1500-it.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-it.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-it.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-it.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 251,
-    "channel_creation_date": 1610127966,
-    "channel_update_date": 1699017921,
+    "order": -6000,
     "media": [
         {
             "id": "b2bb748aa11b4f7c83a0c99e9eba4c5a",
@@ -21,16 +18,13 @@
             "title": "Una nuova compagna di viaggio",
             "description": "Il tentativo fallito del Team Rocket di rapire Pikachu ha lasciato il piccolo Pokémon giallo gravemente ammalato. Albanova non ospita alcun Centro Pokémon, pertanto Ash si rivolge al Prof. Birch in cerca di aiuto.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/srt0iqEbT3wg6DJnp66TFo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sm/n7tOatxuzH30_8H8MUt9VrrFYA93JEbdGx75jUFBU/pokemon_season06_ep13_ita-500b4a68e9eb9c6c2e50b23a3bd6e7be8f4b0c22.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s3/gHA8FlMu1JgTzwyyOAKkzKMcpEv_LCbhktukiaF2Q/pokemon_season06_ep13_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lt/x8r4XmD1ITVXvNCPyv7KhpkmW2jHQlAMZKBETwHLE/pokemon_season06_ep13_ita.mp4",
             "captions": "",
-            "size": 2594499077
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lt/x8r4XmD1ITVXvNCPyv7KhpkmW2jHQlAMZKBETwHLE/pokemon_season06_ep13_ita.mp4"
         },
         {
             "id": "6bede32e46e14220b20cf8bf3626a74e",
@@ -39,16 +33,13 @@
             "title": "Le antiche rovine",
             "description": "Ora che Pikachu si è ripreso, Ash è pronto a raggiungere Solarosa per iscriversi alla Lega di Hoenn.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/a-3jLkbhQiAsgz4vzYmp04/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GA/pYfHj7KIplzVCWhdlwKZgc9IQA4T0t6vmlkpEFeEU/pokemon_season06_ep14_ita-6cb9bf00328aecccded5eed64073509ad49b697b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SD/iQLn5IBctkdDzeduxmrj3JJdkBdYvNHo_iM8qRFAU/pokemon_season06_ep14_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5q/W8FuZxqN-05kNEICrulOhrMtpJDMbTpIVtGf3IxsM/pokemon_season06_ep14_ita.mp4",
             "captions": "",
-            "size": 2591786779
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5q/W8FuZxqN-05kNEICrulOhrMtpJDMbTpIVtGf3IxsM/pokemon_season06_ep14_ita.mp4"
         },
         {
             "id": "85617724dd1645749b2aaf9bcb53801d",
@@ -57,16 +48,13 @@
             "title": "Il fratellino",
             "description": "Ash e Vera hanno raggiunto Petalipoli, la prima città con una Palestra. Ash è felicissimo di poterne affrontare il Capopalestra.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/hWF3JN0WRXQmyqvm8tTgB0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pT/vjYUm5HkGMHX0_gyYLnqmJ6ZYo-qiBTag6mY4zni8/pokemon_season06_ep15_ita-b4ce0bafa8b5638ec333bbb12fce5b41a88f927c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jp/9kxvvBMUJ7XgH-8wb4zrrGWaNbKs48Ulec24wgeZ0/pokemon_season06_ep15_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vn/zL-A-zFCKY4ySjeegr15JIyyGllXppdGoqlKvbTuI/pokemon_season06_ep15_ita.mp4",
             "captions": "",
-            "size": 2627226105
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vn/zL-A-zFCKY4ySjeegr15JIyyGllXppdGoqlKvbTuI/pokemon_season06_ep15_ita.mp4"
         },
         {
             "id": "3a7d88ada72f4cc980008594f11aa485",
@@ -75,16 +63,13 @@
             "title": "Lo stormo",
             "description": "Ash, Vera e Max, il fratellino di Vera, sono diretti verso Ferrugipoli... e sono affamatissimi! Nessuno si è ricordato di preparare il pranzo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/On2IracvTMkgACFlPEapIU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yP/nwEnNImIFO6TvGHkxp_vsnlaRoKTQQSnGH4ZknAO8/pokemon_season06_ep16_ita-9812af967aa7957ca58619e0107d25ce0fa86f6e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nH/oEH-3nNNdq4_q-sx7efqETQpBszRwf5O4JawanUIc/pokemon_season06_ep16_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wx/XJciloanjO-LaSDjzVxjcCvpP80VapZQmF85XuPWg/pokemon_season06_ep16_ita.mp4",
             "captions": "",
-            "size": 2593591991
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wx/XJciloanjO-LaSDjzVxjcCvpP80VapZQmF85XuPWg/pokemon_season06_ep16_ita.mp4"
         },
         {
             "id": "3322b88707364383ba5cc3c2f36a0cc1",
@@ -93,16 +78,13 @@
             "title": "I Pokémon della foresta",
             "description": "Brock è pronto a riprendere il viaggio e si unisce ad Ash, Vera e Max, diretti a Ferrugipoli.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/MyK4hwc2Q4MulzDwvNqDME/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E-/JnTmXjF7zA6UBjTn6iNjot4H59aGyal4FTUHDW1MM/pokemon_season06_ep17_ita-18249fc8d2a9b5346e4a86583f8c287e6b1656ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dj/zzfSfpDYI5UQDnZZp4KQQINGiWPM4ilinI5wDi3IY/pokemon_season06_ep17_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IU/756EiHMG4JIg_xT9eniSildXHdKgseaIh2lEEf7IQ/pokemon_season06_ep17_ita.mp4",
             "captions": "",
-            "size": 2590951583
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IU/756EiHMG4JIg_xT9eniSildXHdKgseaIh2lEEf7IQ/pokemon_season06_ep17_ita.mp4"
         },
         {
             "id": "23a4b62be24645e98bf04db457dd397c",
@@ -111,16 +93,13 @@
             "title": "Il bracconiere",
             "description": "Il gruppo è diretto a Ferrugipoli, dove Ash spera di poter fare la sua prima vera lotta in una Palestra della regione di Hoenn.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/I6S2K-JGReki_BNtFfdOXw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9h/Soxl6yrfTmii6rGeRnRnuZoqr9VAYhNE_y9DeZLcU/pokemon_season06_ep18_ita-9a26030711a4508fb5ad5b9f00f78185f29033fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lV/f3bKJcVD77w9TYIjhBQ2o06t9QcOijQrLm0JHiQ3Q/pokemon_season06_ep18_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s9/vJfpOog6B2T5IVyBABaRggMVKOTe7x0OkGCmk-CO8/pokemon_season06_ep18_ita.mp4",
             "captions": "",
-            "size": 2505940980
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s9/vJfpOog6B2T5IVyBABaRggMVKOTe7x0OkGCmk-CO8/pokemon_season06_ep18_ita.mp4"
         },
         {
             "id": "147682b6248c4726b434e0498b88ea69",
@@ -129,16 +108,13 @@
             "title": "I Pokémon degli alberi",
             "description": "Nel cuore di una foresta, Ash individua un Treecko. Desidera catturarne uno fin da quando ne vide un esemplare nel laboratorio del Prof. Birch.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/FHaCtiSMRyYtDTgSYuI6mk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BC/-k9qItO4GVPn1YYzi_AmTHOhhtgfnwP-lR2sqb8MY/pokemon_season06_ep19_ita-e0843e97e906280fbae03d1fd2e64359e9116c00.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K-/h4UejguN6BqyKahY0JcKsY-dIvvTq3Ce0GFYztGdw/pokemon_season06_ep19_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2b/PMDjmAKoY5U8BVO3pw0r-WSb5_0kMDcXeJMMhI0dY/pokemon_season06_ep19_ita.mp4",
             "captions": "",
-            "size": 2600211522
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2b/PMDjmAKoY5U8BVO3pw0r-WSb5_0kMDcXeJMMhI0dY/pokemon_season06_ep19_ita.mp4"
         },
         {
             "id": "1fe3055b67614f0ba003f04d9b0878b2",
@@ -147,16 +123,13 @@
             "title": "Chi la dura la vince",
             "description": "Quando il Team Rocket vede un Treecko sconfitto e ferito da un Seviper, decide che deve impadronirsi del Seviper.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/H-MFW2dhTwsoAPwTZsIeLI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rO/wPGvocmdpxIacF86SlG3txiEqn5KZH16Ex5aYrZ8g/pokemon_season06_ep20_ita-90f7c354088a6fb686059afb30baf39c42d6855f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I9/GFR_LYmuUHmEWpAxKiZzWmWZY0Z3EreCp121lRnSA/pokemon_season06_ep20_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/47/2GcRx56mUxWf3wfDdV4-rKQAq8G8FIIW9yCj8JBRk/pokemon_season06_ep20_ita.mp4",
             "captions": "",
-            "size": 2598530053
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/47/2GcRx56mUxWf3wfDdV4-rKQAq8G8FIIW9yCj8JBRk/pokemon_season06_ep20_ita.mp4"
         },
         {
             "id": "3a8674a2c05d4ee2bdb239b8824495c7",
@@ -165,16 +138,13 @@
             "title": "La casa stregata",
             "description": "Ash, Vera, Brock e Max sono giunti in una piccola cittadina sulla strada per Ferrugipoli. Brock decide di fermarsi a comprare delle provviste, mentre Max non vede l'ora di cacciare i Pokémon presenti in città.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/OoZ0osBdTuIvbI5uIJElcc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aJ/jVVA7HiaNzkgOaMl3dCO7jEPhpKgSV8XTpn7PX9-w/pokemon_season06_ep21_ita-7b9ea6f884941c338e5c274fb2404b26118c0824.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WQ/PLtWlaMAECBp6wvDztra4nL4w6MsThuRT4RfA2U1E/pokemon_season06_ep21_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v-/5UO9nOBlyn02w4b8g3eXhudp4pDYYeZbErOoVWhWE/pokemon_season06_ep21_ita.mp4",
             "captions": "",
-            "size": 2610399598
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v-/5UO9nOBlyn02w4b8g3eXhudp4pDYYeZbErOoVWhWE/pokemon_season06_ep21_ita.mp4"
         },
         {
             "id": "78f20f7444e448348d86b020ab38a903",
@@ -183,16 +153,13 @@
             "title": "Il Pokémon più forte del mondo",
             "description": "In viaggio verso Ferrugipoli, Ash e il gruppo s'imbattono in una Palestra non ufficiale che si vanta di possedere il Pokémon più forte del mondo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ePIPdETkSDQjYawIKs4qQM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/du/xHkb51WiQ_e7k_eZGkwXmsT-NoP6vcbRN-xqb7NFQ/pokemon_season06_ep22_ita-8cf7a84cf0445cf08bf1e37664079fdb134fda74.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/Tj_pyd342FBLRuoTzdXfjMAQdtrFMeMMP67XwirfY/pokemon_season06_ep22_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/O0BFXHe0rveIkHEoPEI9gj8pfIRFvhOnIAVVwM2RY/pokemon_season06_ep22_ita.mp4",
             "captions": "",
-            "size": 2590852702
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/O0BFXHe0rveIkHEoPEI9gj8pfIRFvhOnIAVVwM2RY/pokemon_season06_ep22_ita.mp4"
         },
         {
             "id": "cb5e082e49014759a62da89cf7cd66ce",
@@ -201,16 +168,13 @@
             "title": "Un’esperienza memorabile",
             "description": "Lungo il cammino verso Ferrugipoli, il gruppo fa tappa in una foresta abitata da vari tipi di Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/y14ILkkBR1kpi2onPfNZs4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q5/iV3mmUU_CEvV_kBom-EDE-AUJg14ppPDyhA4E-4Ls/pokemon_season06_ep23_ita-e879283ba86c55704e2648c68e55a30e5a1f0f4a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FV/Sbwr88vFaXP7_ff64WuKYMY9M4d53B7tihShMgzT4/pokemon_season06_ep23_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/6ZlNL-mISp7LgnJcVXFW1SlxWbKrLK3AI8KOWAHn8/pokemon_season06_ep23_ita.mp4",
             "captions": "",
-            "size": 2579791826
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/6ZlNL-mISp7LgnJcVXFW1SlxWbKrLK3AI8KOWAHn8/pokemon_season06_ep23_ita.mp4"
         },
         {
             "id": "347462196eaa46c4b6987ad0376a50bb",
@@ -219,16 +183,13 @@
             "title": "Tutti frutti",
             "description": "Ash, Pikachu, Brock, Vera e Max decidono di rilassarsi in riva a un lago pittoresco sulla strada per Ferrugipoli. Tuttavia, non sono i soli ad aver avuto questa idea!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/NHRiGW6qRsQtph60DdqULs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AN/F8CG5vdhRAZQD3TxuqirkR0AWgb26R09cIfcYmRE4/pokemon_season06_ep24_ita-632cc4965126330c679f0c5c2dbb296416348495.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/By/S5jba0ZfdpmigfVKMPJXJaYHhQ2IMuP8Ttub4YrD0/pokemon_season06_ep24_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CU/UBdQHMrbNt_hefVa6qH82-_oV7DeVaRVRcpY5eDVI/pokemon_season06_ep24_ita.mp4",
             "captions": "",
-            "size": 2620695357
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CU/UBdQHMrbNt_hefVa6qH82-_oV7DeVaRVRcpY5eDVI/pokemon_season06_ep24_ita.mp4"
         },
         {
             "id": "31d09c26b7eb4b9c936aa60816c3ed87",
@@ -237,16 +198,13 @@
             "title": "Forza e bellezza",
             "description": "Ash, Brock, Max e Vera sono appena arrivati all'Arena Virtù. Janet e Chaz, due esperti Coordinatori Pokémon, informano il gruppo sulle varie Gare.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/MdCcJrfrS5wk2qmCBbD7Yc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ls/7u0PZl8nOadhvOsr-XNfranUKPZEFvU8Vds1mMgjg/pokemon_season06_ep25_ita-2e450201ff9cf394ce2da29c5738c72a75f816f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7d/At3x5kFT0hwAu_MZhlcBrpkqtAboZ3rLx6Y73XKjI/pokemon_season06_ep25_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UB/3Nb7wsr175PowsHm77XiZDU-nQiq2AyoIltLYlQbM/pokemon_season06_ep25_ita.mp4",
             "captions": "",
-            "size": 2632024251
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UB/3Nb7wsr175PowsHm77XiZDU-nQiq2AyoIltLYlQbM/pokemon_season06_ep25_ita.mp4"
         },
         {
             "id": "5938c663f4b64c498c77c227a5eb8448",
@@ -255,16 +213,13 @@
             "title": "La prima cattura di Vera",
             "description": "Mentre il gruppo continua ad avvicinarsi a Ferrugipoli, Vera scorge un Wurmple che desidera tantissimo catturare. Ma non è l'unica ad aver messo gli occhi sul tenero Pokémon di tipo Coleottero.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/WTjGY_S2TEkjHfCJ6XrhEg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kx/dOObbkiHL8M16rFaJ28U9Bp1HKTEwydRuUHYoOz2Q/pokemon_season06_ep26_ita-779e3eeb7bf879baf2292b8565f8be9ba5e0906f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I9/Yfxg_Jy5Cm8pSl_vkimXZaar84hesxmYw0CcHpaO8/pokemon_season06_ep26_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ub/V0Z9Y7hS1XvfXEgJHKLm63VBWXMy9A3j3lhrH5CC8/pokemon_season06_ep26_ita.mp4",
             "captions": "",
-            "size": 2649731573
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ub/V0Z9Y7hS1XvfXEgJHKLm63VBWXMy9A3j3lhrH5CC8/pokemon_season06_ep26_ita.mp4"
         },
         {
             "id": "871bbe905fcd4c12bd4f78c6d2554c3e",
@@ -273,16 +228,13 @@
             "title": "Tutti a scuola",
             "description": "Ora che Ash e i suoi amici sono giunti finalmente a Ferrugipoli, si concedono un momento per esplorare la città. Si imbattono in un'insegnante, Petra, che sta portando la classe in gita.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/hxu-kF_NTBIvU94xtJVTD4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-g/t1d4XrkAF_HQvYzTS9h40mLatrciH8an3rZzUvS-4/pokemon_season06_ep27_ita-f333f080f6c6e1de630910da4b174569147d0311.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AX/z_EybmWJpIEs-aLfn5UDJq2xVg-opMIiH6K3rQpCU/pokemon_season06_ep27_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9R/ngFHdvkxFMzFzAZRb3Haq0QeLfTpMWYPzWPCbKL2g/pokemon_season06_ep27_ita.mp4",
             "captions": "",
-            "size": 2637444715
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9R/ngFHdvkxFMzFzAZRb3Haq0QeLfTpMWYPzWPCbKL2g/pokemon_season06_ep27_ita.mp4"
         },
         {
             "id": "7e0267e3abcb4ea9bd417567f246089c",
@@ -291,16 +243,13 @@
             "title": "La prima Palestra",
             "description": "Pikachu sta migliorando molto con il suo attacco Codacciaio, ed è un'ottima cosa. Ash sta finalmente per affrontare Petra, la Capopalestra di Ferrugipoli.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/fgJn46vLTqkvUF1Z_JGCJw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8D/dPnwV9ipLwqxFiEPlKlDb7sWCXouerq5gagwhwEKw/pokemon_season06_ep28_ita-3ee1916fd9835edfd2ffef3752bf22d6c6b30ccd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nA/qFog5kraWRRrA5izKSZfb_ShrUKU562u_80hjh2FE/pokemon_season06_ep28_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uX/nEDzUdD_I47jJ9qgLU83cqvN7qZPRVmLiX9ex0tOk/pokemon_season06_ep28_ita.mp4",
             "captions": "",
-            "size": 2649253506
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uX/nEDzUdD_I47jJ9qgLU83cqvN7qZPRVmLiX9ex0tOk/pokemon_season06_ep28_ita.mp4"
         },
         {
             "id": "70864f94c98141639916dbc8e29ed46c",
@@ -309,16 +258,13 @@
             "title": "Una grande azienda",
             "description": "Ora che ha ricevuto la Medaglia della Palestra di Ferrugipoli, Ash è pronto a lasciare la città e a dirigersi verso l'Isola di Bluruvia, dove lo attende la sua prossima sfida. Vera, invece, è di un altro parere.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/cIZPlMmBQWMmRbbyOKe1Gw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/nvHQ3PdFehJwlcgCXBvx3qZIMVMJLg4teQahB3po4/pokemon_season06_ep29_ita-99f884773da3cf69e82cbbd2acb5fbc73a3e420a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MS/dOLbHaGr4Fage7wsPC4eVAG7C-DqhtWMqeu5c3k94/pokemon_season06_ep29_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fW/3_Xm3X3064RHDgV2LnzMJqBwulh20NJKbYFbD9W_g/pokemon_season06_ep29_ita.mp4",
             "captions": "",
-            "size": 2589816810
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fW/3_Xm3X3064RHDgV2LnzMJqBwulh20NJKbYFbD9W_g/pokemon_season06_ep29_ita.mp4"
         },
         {
             "id": "506b755f50f0434e8b56a5d9b0ac13d9",
@@ -327,16 +273,13 @@
             "title": "Il lupo di mare",
             "description": "Ash incontra il presidente della Devon Corp. e ottiene qualche informazione sul Team Idro, un malvagio gruppo di criminali. Il suo obiettivo è però ora raggiungere l'Isola di Bluruvia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UGt1X1DwQ04i1al2bCsE9k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R-/R7pUvzqe5-8m9O8LkxOKP3DP0nasuqU_WX-_iNX0I/pokemon_season06_ep30_ita-91e1c7e1daba0408f6cd04e337392f09aef60cba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EH/9IowFTKxpA3bGkGXVSmwTQpVc2kwilD9tYBa-rsbk/pokemon_season06_ep30_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/ZyFMuDohQ17_VvXIdIKNkUgeUO4svjXEu9UdQLkoQ/pokemon_season06_ep30_ita.mp4",
             "captions": "",
-            "size": 2606628090
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/ZyFMuDohQ17_VvXIdIKNkUgeUO4svjXEu9UdQLkoQ/pokemon_season06_ep30_ita.mp4"
         },
         {
             "id": "604eb5e2986d477b9d29665729c0c9e9",
@@ -345,16 +288,13 @@
             "title": "Attacco marino",
             "description": "Ash e il gruppo sono su una barca per Bluruvia, grazie all'aiuto dei loro nuovi amici, il sig. Marino e il suo Wingull, Peeko.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/YE614phtR3snSlmVynAyek/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/-qSFPHxsX5NB2or3OccTxivDs5XHu-3RPmq_sp8rM/pokemon_season06_ep31_ita-1734bb88c70ac95a454e14d6592a19133e20da38.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/44/OOYz71ilO1UY2Y3zpI-6SUjXoisXM1R0R3KdAPCeM/pokemon_season06_ep31_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_h/WEEicOtiFOtNyZa_S_aP-XR8qj0LSe724g8l-HRnY/pokemon_season06_ep31_ita.mp4",
             "captions": "",
-            "size": 2644615164
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_h/WEEicOtiFOtNyZa_S_aP-XR8qj0LSe724g8l-HRnY/pokemon_season06_ep31_ita.mp4"
         },
         {
             "id": "1204f8f85f324d8686805672a5dbc1bc",
@@ -363,16 +303,13 @@
             "title": "Sull’onda dell’entusiasmo",
             "description": "Ash si prepara di buon mattino per la lotta nella Palestra di Bluruvia. Davanti alla porta, Ash é però respinto da un gruppo di energici surfisti che ne controllano l'ingresso.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/EgT4-F8yTYYhoBWcqXbwbw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T_/n5_pVn8Np3VMvw1SBNzIhTdcVwRA2EOvRUjvTsNxI/pokemon_season06_ep32_ita-bf07ecbc30581fc30e1dbf018d3f8bf1847684c2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KE/h6MMVaL-GfkUCXGamxW2V4K_Wa7Bu5bXcjKoz9WOg/pokemon_season06_ep32_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xf/syt4JxPVoSTyYFTg_syBvLj4GPkeaptNzG7GrWuuI/pokemon_season06_ep32_ita.mp4",
             "captions": "",
-            "size": 2474000389
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xf/syt4JxPVoSTyYFTg_syBvLj4GPkeaptNzG7GrWuuI/pokemon_season06_ep32_ita.mp4"
         },
         {
             "id": "93fcfb88ac9848beb0d7fed911da45ae",
@@ -381,16 +318,13 @@
             "title": "Lo scambio",
             "description": "Si stanno tutti preparando per la colazione, ma non c'è traccia di Ash. Si scopre che è fuori dal Centro Pokémon, in attesa di ricevere notizie sul suo Treecko.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/k_z7iKyYSL4sNf-2RHaRa4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_i/HtgNtWGG0LrlNm57nLF5EYHpFmNim4Mb4CxGJMCzI/pokemon_season06_ep33_ita-4f78ad8db0dee2415e131cdf194c7ad4b3981b21.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_r/26tyYI-Jp9U2KR4ZNYG8ulIeazVTwxHNODnfDfJ7g/pokemon_season06_ep33_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ue/OsE_hP5SrGgWb5oZzKWj0-jkzH74mIAhFjRJWmvy8/pokemon_season06_ep33_ita.mp4",
             "captions": "",
-            "size": 2624986911
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ue/OsE_hP5SrGgWb5oZzKWj0-jkzH74mIAhFjRJWmvy8/pokemon_season06_ep33_ita.mp4"
         },
         {
             "id": "eddf85ae2fad4fa99f8cf7ec60ff70d5",
@@ -399,16 +333,13 @@
             "title": "La grotta",
             "description": "Ash e il suo gruppo giungono finalmente alla Grotta Pietrosa. Il Team Rocket si trova già all'interno, perfezionando l'ennesimo tentativo di rapire Pikachu.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7d-Fri-tT6kn4z37GD_cNU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m2/X7AAS4ZtvgsB9h45n9_l5cuC-ER3EuYN8TK7602qQ/pokemon_season06_ep34_ita-74b609e93be774794a949bf6faf5e0aecce465f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m2/X7AAS4ZtvgsB9h45n9_l5cuC-ER3EuYN8TK7602qQ/pokemon_season06_ep34_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xK/T0rpUZx3lSt5SyzAFr2voC1xZfXg7ZkEUhWchRJLs/pokemon_season06_ep34_ita.mp4",
             "captions": "",
-            "size": 2633296384
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xK/T0rpUZx3lSt5SyzAFr2voC1xZfXg7ZkEUhWchRJLs/pokemon_season06_ep34_ita.mp4"
         },
         {
             "id": "efef4b55117d4b9c8ba6464686aaaa1f",
@@ -417,16 +348,13 @@
             "title": "Qualcosa sotto la sabbia",
             "description": "Il Team Rocket si gode una pausa in spiaggia, quando improvvisamente vedono sfrecciare una creatura misteriosa che travolge il Team Rocket, spazzandolo via.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7-9LVRF9S5wi6ZGRoaqqh8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D2/vefQocS_tBXFx0MKrQOfWH10LpNaesmcAMXzA5HBc/pokemon_season06_ep35_ita-4348466b2fa46f5f47774335da90d3e51d791698.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D2/vefQocS_tBXFx0MKrQOfWH10LpNaesmcAMXzA5HBc/pokemon_season06_ep35_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3j/PXCrb0-TR2j074xhc-8q9_MPTqY5z0vJcZvTh1svk/pokemon_season06_ep35_ita.mp4",
             "captions": "",
-            "size": 2510060423
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3j/PXCrb0-TR2j074xhc-8q9_MPTqY5z0vJcZvTh1svk/pokemon_season06_ep35_ita.mp4"
         },
         {
             "id": "afa6dc08ae2648d0a139f510b46006f6",
@@ -435,16 +363,13 @@
             "title": "Un Pokémon maldestro",
             "description": "Ash si sta occupando delle sue Poké Ball, mentre Vera è preoccupata perché il suo Wurmple non mangia. All'improvviso appare il Team Rocket e si impossessa di Pikachu.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/r6bcCK4mSNAoTn1ELRgBvY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mt/eRRBspUQ3Sjz0C0fzJ2fOcIbGGp8Lu91RyOc5Kmys/pokemon_season06_ep36_ita-9369e439a9e4519338967cf595b21962c1913041.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mt/eRRBspUQ3Sjz0C0fzJ2fOcIbGGp8Lu91RyOc5Kmys/pokemon_season06_ep36_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Th/vZWtMXTG5sg9KdEI0nTZaedV19uRK7PhYIgnQFM-A/pokemon_season06_ep36_ita.mp4",
             "captions": "",
-            "size": 2645246640
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Th/vZWtMXTG5sg9KdEI0nTZaedV19uRK7PhYIgnQFM-A/pokemon_season06_ep36_ita.mp4"
         },
         {
             "id": "0f25610071de4443b8cdaa5b75f7e11b",
@@ -453,16 +378,13 @@
             "title": "L’uomo della palude",
             "description": "I nostri eroi riprendono il viaggio e s'imbattono in una cascata e successivamente in un lago che riserva molte sorprese.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DyVhAHHeREMuM2qW3X34Rs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zU/u0E55l7Cm4B-fWGl4lZRoixCbEjD7hIiMDpnDOKDc/pokemon_season06_ep37_ita-b3948b3751bee6bc125cce25c31dbf8b306ad5f9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zU/u0E55l7Cm4B-fWGl4lZRoixCbEjD7hIiMDpnDOKDc/pokemon_season06_ep37_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7L/rCsKKaa4wvVDysXtCtZNNUK1HFunOT-cmJP0U3VDc/pokemon_season06_ep37_ita.mp4",
             "captions": "",
-            "size": 2636065421
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7L/rCsKKaa4wvVDysXtCtZNNUK1HFunOT-cmJP0U3VDc/pokemon_season06_ep37_ita.mp4"
         },
         {
             "id": "aec6b72bece7428f9197da5efd1d6b5e",
@@ -471,16 +393,13 @@
             "title": "Avventure nel bosco",
             "description": "Ash e il suo gruppo tornano indietro attraverso la Grotta Pietrosa per permettere ad Ash di sfidare nuovamente Rudi. Lungo la strada, Corphish sorprende lo stesso Loudred che il gruppo ha incontrato in precedenza.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rsa3K-znQo8kZfaXv0da14/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/MwzgBNUXozcZDqQmc2l01sPzSYxJan7r91GN2qnAI/pokemon_season06_ep38_ita-c951889db1e0aeb051d97331afbfdcfab61b389c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/MwzgBNUXozcZDqQmc2l01sPzSYxJan7r91GN2qnAI/pokemon_season06_ep38_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/02/7JhJcpZEbjclXNewfT4KIDF8IVTZ7fvrmUdLq-3h4/pokemon_season06_ep38_ita.mp4",
             "captions": "",
-            "size": 2645734527
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/02/7JhJcpZEbjclXNewfT4KIDF8IVTZ7fvrmUdLq-3h4/pokemon_season06_ep38_ita.mp4"
         },
         {
             "id": "8d5eda06b7ff4ca08fe9b1dc3a8a9d20",
@@ -489,16 +408,13 @@
             "title": "La grotta dei tempi",
             "description": "Ash e la sua squadra si allenano sulla spiaggia. Presto scoprono che il Prof. Birch sta compiendo delle ricerche sui Wingull proprio in quella zona.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jV7aBrf_TKAj-mx3DqKnSA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bB/OOCoKgJ-N4E_OObya98Ru5hP4MsQPRwyyfqZ9bmyA/pokemon_season06_ep39_ita-da721b82cc7689843433da5aac38acd3b93ded57.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2T/4azlef3XzIh6mJghnrkAE6q4Pu-xxQTQZPxLwV6d0/pokemon_season06_ep39_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pd/_ACQJldrfsi0GirniPgpwX5bghrrvuDY1FTSi6Lnc/pokemon_season06_ep39_ita.mp4",
             "captions": "",
-            "size": 2586942337
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pd/_ACQJldrfsi0GirniPgpwX5bghrrvuDY1FTSi6Lnc/pokemon_season06_ep39_ita.mp4"
         },
         {
             "id": "96ed1cd2ea5245b7ae8200c2c388146d",
@@ -507,16 +423,13 @@
             "title": "Vedere per credere",
             "description": "Il Team Rocket sta architettando un piano per catturare un Seedot. Jessie non vede l'ora che il suo Silcoon (in realtà un Cascoon) si evolva in un Beautifly. James e Meowth rabbrividiscono per l'incombente minaccia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/lu0c0upSRbcroIAwsOIFG0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9_/6hSHj58aQPsOloIXP68piByNtBTRL6KoCjJLIT_Fs/pokemon_season06_ep40_ita-15d53ae04dfc6e2994108a51354e00b8920d9a95.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9_/6hSHj58aQPsOloIXP68piByNtBTRL6KoCjJLIT_Fs/pokemon_season06_ep40_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PT/qKRB0-GNObEXcXa4WQWwGoAO7CeBtYEyDlmTzpIjc/pokemon_season06_ep40_ita.mp4",
             "captions": "",
-            "size": 2402122572
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PT/qKRB0-GNObEXcXa4WQWwGoAO7CeBtYEyDlmTzpIjc/pokemon_season06_ep40_ita.mp4"
         },
         {
             "id": "5ef9d90228ff41539a7888e0b41a4357",
@@ -525,16 +438,13 @@
             "title": "Sorprese in miniera",
             "description": "Ash e i suoi amici trascorrono un'altra giornata rilassante in spiaggia. Nel frattempo, il Team Rocket s'imbatte in una miniera abbandonata e parte alla scoperta, sperando di trovare all'interno delle ricchezze abbandonate.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/XvnZAij_QVMmniI4LQaQ1c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NR/_8eLXkFwb4CyqxzBvdhGlLGMFIx4GvHD8VoqvLAAQ/pokemon_season06_ep41_ita-ee7272300a0ecd7fc6d6461f2511a51b05b15885.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NR/_8eLXkFwb4CyqxzBvdhGlLGMFIx4GvHD8VoqvLAAQ/pokemon_season06_ep41_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/df/ymK3n2q7SpY_YGsvMurh_zX1HgSoUtADY4FdEDDTQ/pokemon_season06_ep41_ita.mp4",
             "captions": "",
-            "size": 2615355230
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/df/ymK3n2q7SpY_YGsvMurh_zX1HgSoUtADY4FdEDDTQ/pokemon_season06_ep41_ita.mp4"
         },
         {
             "id": "50b2ceccdc864960b5aa1168944c5f85",
@@ -543,16 +453,13 @@
             "title": "L’uragano",
             "description": "Ash sta allenando i suoi Pokémon sulla spiaggia, quando una giovane surfista gli va incontro e lo sfida, spiegando che si allena con Rudi di cui è una delle migliore allieve.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ULLOzNyGSWAtaoRaJRMX4U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mq/2E8819-3Tc-6nMlCDF28XOtl-CFT2pBrfcO7yIh3o/pokemon_season06_ep42_ita-72df655b4a77a296e620cca3e824ef3342b124dc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mq/2E8819-3Tc-6nMlCDF28XOtl-CFT2pBrfcO7yIh3o/pokemon_season06_ep42_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1h/KUhVr-OK8uw5DGKBUXAp3hLmPnsHTRlPwcXZsdyKw/pokemon_season06_ep42_ita.mp4",
             "captions": "",
-            "size": 2620722801
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1h/KUhVr-OK8uw5DGKBUXAp3hLmPnsHTRlPwcXZsdyKw/pokemon_season06_ep42_ita.mp4"
         },
         {
             "id": "53cc23848a8148daab16b7b2888d5bbf",
@@ -561,16 +468,13 @@
             "title": "Attenti al geyser!",
             "description": "Ash sta per affrontare Rudi per la seconda volta. Il Team Rocket atterra involontariamente nell'area di allenamento di Rudi e inizia a ispezionarne il frigorifero.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/U8wjhIqBSNoqxa3soiNW78/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jy/r8EUaoli7aTIs9XKpPqhJsCnwQfhXjQ4DRfNykba8/pokemon_season06_ep43_ita-2f86bfca2dc09bb33264765f3081b0ad2bd3e98c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p6/M268RqCCknr2-lqhdJ_0DLFbHLbvlaFYW6yCvqaQY/pokemon_season06_ep43_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jW/W143DtwokiDowE2dGAVQ807ch_q6r_2tjSMwNzYGs/pokemon_season06_ep43_ita.mp4",
             "captions": "",
-            "size": 2595887868
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jW/W143DtwokiDowE2dGAVQ807ch_q6r_2tjSMwNzYGs/pokemon_season06_ep43_ita.mp4"
         },
         {
             "id": "956959b0881f4c72a0946c831d9cc652",
@@ -579,16 +483,13 @@
             "title": "Il relitto",
             "description": "Ash e il suo gruppo sono diretti in motoscafo a Porto Selcepoli, per permettere a Vera di partecipare a una Gara di Pokémon. Il Team Rocket è a bordo, travestito da marinai.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/lWlZsIgfTHIoJRsgx2cxlI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UE/4NLrxFCtbBkMXcpdT3kiiD18p4n51ZckFeR3edbTs/pokemon_season06_ep44_ita-20659a94f319de71ec82e6a8a1af9413bdb5ed6f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UE/4NLrxFCtbBkMXcpdT3kiiD18p4n51ZckFeR3edbTs/pokemon_season06_ep44_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ie/y7kJcq0u9rv5VvZi4JYsdwwaCjpSmDuxqNY1_9za4/pokemon_season06_ep44_ita.mp4",
             "captions": "",
-            "size": 2603902591
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ie/y7kJcq0u9rv5VvZi4JYsdwwaCjpSmDuxqNY1_9za4/pokemon_season06_ep44_ita.mp4"
         },
         {
             "id": "0fdb210c418c4728b7bffcaee887e25e",
@@ -597,16 +498,13 @@
             "title": "Fuochi d’artificio",
             "description": "Ash e il suo gruppo sono giunti a Porto Selcepoli e Vera è molto impegnata a preparare il suo Beautifly per la Gara di Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/D9shDEGMRygt7_8ruiH4l4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bP/LaUx3trWnMJv_2we5Mef_bfro-sY840O0bc8IP54s/pokemon_season06_ep45_ita-05032541a950f182516698e5cc4462bdb1372ab2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bP/LaUx3trWnMJv_2we5Mef_bfro-sY840O0bc8IP54s/pokemon_season06_ep45_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kh/_jiOS_w1Qo6ebezc-yHNjpmPEM3Cx6X4GTLj7t9Jg/pokemon_season06_ep45_ita.mp4",
             "captions": "",
-            "size": 2655164895
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kh/_jiOS_w1Qo6ebezc-yHNjpmPEM3Cx6X4GTLj7t9Jg/pokemon_season06_ep45_ita.mp4"
         },
         {
             "id": "4b4dc8ae26b343e0a89b1ec2a79ed177",
@@ -615,16 +513,13 @@
             "title": "Evoluzione a sorpresa",
             "description": "Vera è impegnatissima a preparare il suo Beautifly per la Gara di Pokémon, mentre Max controlla il suo Torchic. Vera trova un Wailord riverso sulla spiaggia e contatta l'infermiera Joy presso il Centro Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S03IriazQ-AqJsewqee0Xc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yf/gp_d50KgBZejzVxUaIvlRRq8EEc_1BYoWNeq8PKZU/pokemon_season06_ep46_ita-d76dc7b54656c0012c5c7f5f1f42360f403ee2b4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yf/gp_d50KgBZejzVxUaIvlRRq8EEc_1BYoWNeq8PKZU/pokemon_season06_ep46_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vP/XVaEVWzu3CLaWupVrxNn8Y2lhjqpo9moBy9C2D7Qg/pokemon_season06_ep46_ita.mp4",
             "captions": "",
-            "size": 2625336410
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vP/XVaEVWzu3CLaWupVrxNn8Y2lhjqpo9moBy9C2D7Qg/pokemon_season06_ep46_ita.mp4"
         },
         {
             "id": "05dbd2e4014642b9aec34bfc5ae1aed3",
@@ -633,16 +528,13 @@
             "title": "Chi vince, chi perde",
             "description": "Vera iscrive il Beautifly alla Gara di bellezza, mentre il Team Rocket non fa in tempo a iscrivere il suo Dustox. Alle gare, il concorrente iscrittosi subito prima di Vera si rivela essere il suo rivale Drew.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/BdvS5AFGQrkrsNL_FrhrtM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PK/Pr_2VSahV8ojJqAcXlGpP-AHwzAld2AbZXMVwo1yI/pokemon_season06_ep47_ita-4415a41b6d3ff1467e9ccc447fdf6f0f60b536ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PK/Pr_2VSahV8ojJqAcXlGpP-AHwzAld2AbZXMVwo1yI/pokemon_season06_ep47_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5p/7fZT-ADcvbcp8B9iuvm4rCMIc1E2MaQKuIkQ7au4w/pokemon_season06_ep47_ita.mp4",
             "captions": "",
-            "size": 2635016825
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5p/7fZT-ADcvbcp8B9iuvm4rCMIc1E2MaQKuIkQ7au4w/pokemon_season06_ep47_ita.mp4"
         },
         {
             "id": "920016c0ee404679a086bc9ca2f3f6f3",
@@ -651,16 +543,13 @@
             "title": "Guai al museo",
             "description": "Al termine della Gara, i nostri eroi decidono di esplorare l'animata città di Porto Selcepoli. Ash e Max vorrebbero visitare il museo del mare ma purtroppo scoprono che è chiuso.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/kgAWwO5ARnkoIa8nKLz9vM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/xEUp86JXfX5OLadQ4SezVfGOS6VzTrkhu8nhjzoxM/pokemon_season06_ep48_ita-4b6bbbf3260243594d4ebcae0a816acfa1dc31ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ko/Nvf4RTXToibutRlhvBtx3-3hwLJkATajkilykR-A0/pokemon_season06_ep48_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qz/B_nSMW6yR1S3SrJ1VS14zFaEtIqzweoL0IvsWya4Q/pokemon_season06_ep48_ita.mp4",
             "captions": "",
-            "size": 2618253280
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qz/B_nSMW6yR1S3SrJ1VS14zFaEtIqzweoL0IvsWya4Q/pokemon_season06_ep48_ita.mp4"
         },
         {
             "id": "70480f051dee4bcea2ddc1c3e5d8a341",
@@ -669,16 +558,13 @@
             "title": "Un caso di emergenza",
             "description": "Ash e il gruppo giungono presso il Centro Pokémon dove tuttavia non c'è traccia dell'infermiera Joy. Pikachu ispeziona la stanza dove si trovava e cade improvvisamente addormentato. Anche ad Ash tocca la stessa sorte.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/cEgPBR3uS84ot3Bw-XYo0E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A-/2ygtzhPvME2OHMGvp0QlFjCC-Au7VosQzJZ107vDM/pokemon_season06_ep49_ita-7698889147c17ad55470d88d136d363dd8ba83e5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A-/2ygtzhPvME2OHMGvp0QlFjCC-Au7VosQzJZ107vDM/pokemon_season06_ep49_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kX/6aZh8-IaMlYEmKo-Vvo72pPqPiyoZfjc6ag1cCu4o/pokemon_season06_ep49_ita.mp4",
             "captions": "",
-            "size": 2634610327
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kX/6aZh8-IaMlYEmKo-Vvo72pPqPiyoZfjc6ag1cCu4o/pokemon_season06_ep49_ita.mp4"
         },
         {
             "id": "daa8469155364834b8f22c928be88e45",
@@ -687,16 +573,13 @@
             "title": "Un faro nella nebbia",
             "description": "Ash e i suoi amici scorgono il passaggio in mongolfiera del Team Rocket che, a sua volta notandoli, decide di cogliere l'opportunità e provare nuovamente a catturare Pikachu.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/2qhGkVU2SDQuPIskovojkU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YJ/Y1ZCZwO7Kx-nCU2ncFMFAzOWf5HlEiD8BbO5HeJxc/pokemon_season06_ep50_ita-c2cbaeccb46459637d761e12342028b859487d44.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YJ/Y1ZCZwO7Kx-nCU2ncFMFAzOWf5HlEiD8BbO5HeJxc/pokemon_season06_ep50_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ho/0f6bBH7vZ0J3eQPFgCGxlxY8Jgj8i4Ra2RnLg2xUk/pokemon_season06_ep50_ita.mp4",
             "captions": "",
-            "size": 2628010958
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ho/0f6bBH7vZ0J3eQPFgCGxlxY8Jgj8i4Ra2RnLg2xUk/pokemon_season06_ep50_ita.mp4"
         },
         {
             "id": "cf9d57457d4549f9831e8b78273b9334",
@@ -705,16 +588,13 @@
             "title": "Una gara pazzesca",
             "description": "Giunti a Ciclamipoli, Ash e il suo gruppo vengono a sapere da un manifesto che chiunque vincerà una gara presso la Quizzoteca vincerà una fornitura a vita di Pokémelle. Il gruppo decide, quindi, di tentare la fortuna.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/z51XRX1FSfkgx6LeCc7kzQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fj/VRMndPB7Tqr_2YFVWTLoNvNYWjgwm6Vcq2yKIi8CA/pokemon_season06_ep51_ita-7e4f084cbc68e8215d2a94cc7affa1daa25be4ff.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fj/VRMndPB7Tqr_2YFVWTLoNvNYWjgwm6Vcq2yKIi8CA/pokemon_season06_ep51_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i8/SSSmtB6NIRmjg3tQfK_RRKjw5niClFFFp0DabhFPs/pokemon_season06_ep51_ita.mp4",
             "captions": "",
-            "size": 2578490706
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i8/SSSmtB6NIRmjg3tQfK_RRKjw5niClFFFp0DabhFPs/pokemon_season06_ep51_ita.mp4"
         },
         {
             "id": "8da48d5e2aa24d1385fcd1612347197a",
@@ -723,16 +603,13 @@
             "title": "Incontro scioccante",
             "description": "Ash e il gruppo giungono finalmente alla Palestra di Ciclamipoli dove sono accolti in modo elettrizzante da Walter, il Capopalestra, specializzato in Pokémon di tipo Elettro.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jaSNXiqiTRMhfzRYSNHGXo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rE/jaXUrEb-Tlt2hvsgTKSgKR7LalilvW6MJr6UbRGVo/pokemon_season06_ep52_ita-9648f8ccb485fca970b720d9fc9450be13d205f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jz/FUAaGMiS1auoRwp_3rdHH8-3YWyFD166qz9Vf_WhU/pokemon_season06_ep52_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H4/Qos5Rvpk211_P7epRVPA2gswBFwGb1S3QubvF0oWY/pokemon_season06_ep52_ita.mp4",
             "captions": "",
-            "size": 2646821640
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H4/Qos5Rvpk211_P7epRVPA2gswBFwGb1S3QubvF0oWY/pokemon_season06_ep52_ita.mp4"
         }
     ]
 }

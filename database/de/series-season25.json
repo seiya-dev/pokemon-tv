@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-ultimative-reisen-die-serie",
+    "channel_id": "season25",
     "channel_name": "Pokémon Ultimative Reisen: Die Serie",
     "channel_description": "Ash, Goh und Chloe verfolgen ihre Träume als Pokémon-Trainer, während sie ihre Abenteuer fortsetzen.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1125x1500-de.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-de.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-de.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-de.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 1,
-    "channel_creation_date": 1688144845,
-    "channel_update_date": 1688144843,
+    "order": -25000,
     "media": [
         {
             "id": "f4bd809a8fbb49aab68fe7e60a53999c",
@@ -21,16 +18,13 @@
             "title": "Der Geister-Express!",
             "description": "Auf der Reise nach Passbeck besteigen unsere Helden einen mysteriösen Zug voller gruseliger Überraschungen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9L2Amo-7Saoto_n5gpTmZw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jt/h_sZHvSWMDm6PPQ5XjzOrfwVQy-6Fi0hKOmOeNHOc/de-de-25-01-97eda008e6785f8eb37a6d4621ec867cf4915b57.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9r/gI3wCCzhYpVES-btHxpd7Tu6meKrMEx6s-_B2tFeA/de-de-25-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/GVuokjm8sYtHYZ9oV9AsOfvEFpJXpS5WYChaRA3CA/de-de-25-01.mp4",
             "captions": "",
-            "size": 2700724851
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/GVuokjm8sYtHYZ9oV9AsOfvEFpJXpS5WYChaRA3CA/de-de-25-01.mp4"
         },
         {
             "id": "1e4e261fd54747fda029c0d54cc884f3",
@@ -39,16 +33,13 @@
             "title": "Der gewundene Pfad zur Größe!",
             "description": "Gengar möchte sich gigadynamaximieren, und unsere Helden sind entschlossen, ihm zum Erfolg zu verhelfen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Hk4mH9VHR_0oCnA1UzIhPM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qz/IwNnBIlHeYReBU1VXRpy4e-4BNf8S7pvDzbJhXtc8/de-de-25-02-06829f442218f5b6e22e82d02ae3c2e6a80ff127.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mO/rJUB2PXLzj1X-XQElzS9LO9_C14NPVB30VSwBu470/de-de-25-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uq/GzUJEUNQCSWJ24D2wOQPfdp8sezrQdIPaAFdUeySI/de-de-25-02.mp4",
             "captions": "",
-            "size": 2696916081
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uq/GzUJEUNQCSWJ24D2wOQPfdp8sezrQdIPaAFdUeySI/de-de-25-02.mp4"
         },
         {
             "id": "a1d1d87156d54658aeebe33f38d89dba",
@@ -57,16 +48,13 @@
             "title": "Der Name sagt alles!",
             "description": "Kann die Bindung zwischen einem Pokémon und seinem Trainer eine drohende Katastrophe abwenden?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/odHYcVbVRlgruvjPzjYnbo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tc/lV_Bhvqyh-ZF8bSA--SO16JuWyw6wMG8FmZ_CpnfM/de-de-25-03-b02c7395daa4d341bb84fe647a63cf8816c301f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vm/ZlpWukuVreJzuEe7vPpAEgNNT7rMkp4ny3MIF3gIY/de-de-25-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KC/EHDGELBKpB-1UiRX8JHkWaF5MMYRT3BJj_AhIRJlI/de-de-25-03.mp4",
             "captions": "",
-            "size": 2695399314
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KC/EHDGELBKpB-1UiRX8JHkWaF5MMYRT3BJj_AhIRJlI/de-de-25-03.mp4"
         },
         {
             "id": "f567e8a88295493b826baa0763412432",
@@ -75,16 +63,13 @@
             "title": "Amors Pfeil bringt Unheil!",
             "description": "Ein künstlerischer und kreativer Zeitvertreib löst mehrere Kämpfe aus. Und auch einen Kampf zweier Herzen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9WfoqIKVSTsgmuqB2NBJDI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nh/7tAOqfzDODqSSmxBvQ-3ufH6SP39Esrit4ndhrlik/de-de-25-04-1f144cfb1c7aafc5f249d55d0a53e1eab9aed67d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1a/H5hSTeSaStsb_OCKH5LllSx4TV8xy-dyDAJ5E1Jqs/de-de-25-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/kiPrXBp5bexHJlXJfqhyIt9NnG_2fzEyzzDBkkvz0/de-de-25-04.mp4",
             "captions": "",
-            "size": 2680963829
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/kiPrXBp5bexHJlXJfqhyIt9NnG_2fzEyzzDBkkvz0/de-de-25-04.mp4"
         },
         {
             "id": "648ef8abfe07482ea738ae4e0c304e6c",
@@ -93,16 +78,13 @@
             "title": "Glück muss man haben!",
             "description": "Durch eine scheinbare Pechsträhne trifft Team Rocket alte Rivalen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZI74q_4HSC4pziuTgwwTmw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AE/RshigeVS_7jKt0d7YxMFL3VWDDao0mC1YizJYGTUQ/de-de-25-05-8ea3e4eff8c0693b376e2e20c54b950b6ae78d89.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y1/t4Vsp-t-p5cq_a3lkK2_DUqvHouAExeSDTZG3taVA/de-de-25-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jK/ik4ZJ7Zb5jjVitwfYt7SNYYgMe1q9bgPxPKpvPaGk/de-de-25-05.mp4",
             "captions": "",
-            "size": 2704819392
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jK/ik4ZJ7Zb5jjVitwfYt7SNYYgMe1q9bgPxPKpvPaGk/de-de-25-05.mp4"
         },
         {
             "id": "4cd8f579fbf648838db0c8541604100d",
@@ -111,16 +93,13 @@
             "title": "Ampharos geht ein Licht auf!",
             "description": "Zusammen mit Ashs altem Freund Chrys suchen unsere Helden am Himmel nach Abenteuern!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TNj1efv2SIMjbDIVBYEEA0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RL/0xcplL09nrTVdc1Ax8Zs7ecH5cqXeMAp-2vc-vXes/de-de-25-06-50e07fab218dbb716076f445e87b1ba4cac91ba4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qj/eVLlplklAFRbbWqI6I9qpZ_Mvwx3YgU71O4-NYsn4/de-de-25-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KI/BAiHcMNjyVao6SdXpHv44of5iSixyXm8r4POnA8-0/de-de-25-06.mp4",
             "captions": "",
-            "size": 2689407177
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KI/BAiHcMNjyVao6SdXpHv44of5iSixyXm8r4POnA8-0/de-de-25-06.mp4"
         },
         {
             "id": "685bde9ca0274ded8e48e2cb609cb374",
@@ -129,16 +108,13 @@
             "title": "Eine wahre Geschmacksexplosion!",
             "description": "Unsere Helden sind auf die Flegmon-Insel zurückgekehrt und sie kriegen dort bei einem überraschenden Abenteuer richtig Kohldampf!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aFvenKAnTe0jkjiy2Ccs3Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nD/4e2YfLdkwiJ4e5kObIBvulJOR9JUbGBB6iEJwdacg/de-de-25-07-33fa85f0fbed242dd11da452053d47d3b72d40ca.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9n/wWmQRafsKOseotahI5oBwbdRRgFqPoeqczLtGIzEk/de-de-25-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sV/YZRZs8C-77uaKboHS1H8nPMivrf21GrxECXsjet6o/de-de-25-07.mp4",
             "captions": "",
-            "size": 2701508941
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sV/YZRZs8C-77uaKboHS1H8nPMivrf21GrxECXsjet6o/de-de-25-07.mp4"
         },
         {
             "id": "8ab2f12e53a94f67b026ae8942d88549",
@@ -147,16 +123,13 @@
             "title": "In luftigen Höhen!",
             "description": "Ein Besuch im Pokémon-Zirkus stellt unsere Helden vor ein Abenteuer, das sie sich nie hätten träumen lassen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/irLxLlOpT2csCauiULYhUk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qq/qHllxUFBr-fp4TqzIwXhPy_NwvupXtPEQDty7oucw/de-de-25-08-68dc543901532401e0250ee06cb08dd04b0db1be.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yG/An5kYhNxEPOxALKzBIKuvUcZJ4plRYZzFgXJn4gQM/de-de-25-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PM/F_2yIsSvbvCnPLSlHeuYBwzWRE0z0iT2GZ0paaVj8/de-de-25-08.mp4",
             "captions": "",
-            "size": 2692015009
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PM/F_2yIsSvbvCnPLSlHeuYBwzWRE0z0iT2GZ0paaVj8/de-de-25-08.mp4"
         },
         {
             "id": "7d309d7b213d42dbaeef7f8eb1e52f8a",
@@ -165,16 +138,13 @@
             "title": "Von Null auf Elf!",
             "description": "Die Pokémon-Krönungs-Weltmeisterschaften gehen weiter und Ash trifft auf ein aufstrebendes Talent aus der Galar-Region!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fTCdeyE9Qtsru9_jrHlL4o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uJ/_XEZabVWDespDnPcgKeiQTnDI3q9OUFHlkVCTEZII/de-de-25-09-e6aae7abfb69c9d89f262f1ce57030ec125cc8f4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ib/K8M0fCu2Du1mWHHLq9pca0HoZKKxX57OG2CGOFKrE/de-de-25-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3r/GYr2ZUZE6U2kaCnLGADOrRZwb9fmjLuFLsr0c4BSA/de-de-25-09.mp4",
             "captions": "",
-            "size": 2667670211
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3r/GYr2ZUZE6U2kaCnLGADOrRZwb9fmjLuFLsr0c4BSA/de-de-25-09.mp4"
         },
         {
             "id": "70739dcfc2e64b1e93fb94114f10b689",
@@ -183,16 +153,13 @@
             "title": "Training mit dem Monarchen!",
             "description": "Es gibt eine unerwartete Planänderung und Ash erlebt ein Training, das er sich nie hätte träumen lassen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cHOdz8LmSx4k_uUEU8Qtok/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EY/1kTTtpGgo1CwpL3rMdHTncAHenu3nguMMKPgk8n7U/de-de-25-10-eefeda30fb3c2e098be3c37e4c6ceb120278eca0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H8/RgLsq488mTguzoPYyeentTBAIOzIPjXUrQ5A9aZq8/de-de-25-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nm/jO3eMul9x11J276GnqfnJckEdp61l9Vxxx1oRzYsY/de-de-25-10.mp4",
             "captions": "",
-            "size": 2703125515
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nm/jO3eMul9x11J276GnqfnJckEdp61l9Vxxx1oRzYsY/de-de-25-10.mp4"
         },
         {
             "id": "9df54b81679c4dcea58e96b648a99b65",
@@ -201,16 +168,13 @@
             "title": "Das Ein-Schlägel-Wunder!",
             "description": "Unsere Helden helfen einem Chimstix mit nur einem Schlägel und Goh erfährt dabei mehr über Chimpep!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nfVLgWecTc4pY6Wtkipm2U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aD/o1iNvUQeDz8kX6PXSWSdVcvuxdXWQvZAZkwjQ-KXg/de-de-25-11-dae53e21753e89070115328226e6fe7f53577871.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lM/vdrnipZDiBnD56HYBZA2NfQXN4ej3Lly8ltUYOBqI/de-de-25-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lU/zxNv32xePl3lbi6K3YtUxak7niVr0MRdoRbcvm2JM/de-de-25-11.mp4",
             "captions": "",
-            "size": 2684274583
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lU/zxNv32xePl3lbi6K3YtUxak7niVr0MRdoRbcvm2JM/de-de-25-11.mp4"
         },
         {
             "id": "81d6a9d06007489a987dd6ae4cf23dca",
@@ -219,16 +183,13 @@
             "title": "Ein frostiger Raid-Kampf!",
             "description": "Als Goh seinen neuesten Projekt-Mew-Testauftrag in Angriff nimmt, helfen ihm seine Mitstreiter, eine neue Perspektive zu finden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gdap0GAHSJomH3WrkzyPco/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fK/UY4Yi0MDIl8oTJs1isDGu_wLdErowH6O8u6_cyCng/de-de-25-12-9e25a20bcb99cfc1db1007b9770624aa05f51212.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-z/M3SW-5D4J57TKT-S9Pz5n3zjPaUsR67b4RMAtQVHw/de-de-25-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rq/XOGg2iB7fvCiybAMPUbnV3-laaW1jVfqNZNQ-zs6E/de-de-25-12.mp4",
             "captions": "",
-            "size": 2669088307
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rq/XOGg2iB7fvCiybAMPUbnV3-laaW1jVfqNZNQ-zs6E/de-de-25-12.mp4"
         },
         {
             "id": "0e6adf494fae405dad50477c07c05c77",
@@ -237,16 +198,13 @@
             "title": "Die richtige Strategie katapultiert uns in die Zukunft!",
             "description": "Als Ash Citro und Heureka in Kalos besucht, katapultiert die Wissenschaft zwei seiner Pokémon zu mehr Power!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep13_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep13_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DmrfSU-uQF0rVBHfAfAXHc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tH/7LyDG4l29dTToKhp0xl8rmWoZM3KJ4ahQjwLNbgec/es-es-25-13-088404dac5f0c7a2850c1b43d4db464084eab4f9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qb/3r-ItNKiZpRuje7ntln3Jyz-eva1BMWFj-9NabFFA/es-es-25-13.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/0b6Ir6SapwhltUfLEUpaEMfw3KZUfE3y_PPVCM-yg/es-es-25-13.mp4",
             "captions": "",
-            "size": 2687143620
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/0b6Ir6SapwhltUfLEUpaEMfw3KZUfE3y_PPVCM-yg/es-es-25-13.mp4"
         },
         {
             "id": "e3dbbeed90494043ba536f6c6ccb79f8",
@@ -255,16 +213,13 @@
             "title": "Zwei Pokémon, ein Team!",
             "description": "Die Pokémon-Krönungs-Weltmeisterschaften gehen weiter und Ashs Platzierung hängt von seinem bisher schwierigsten Kampf ab!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep14_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep14_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/49u-7ZBJQEMulNvbGzLefg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g4/Un_zcYyMzIQ2ATTO29_HVSclht-IkWDcYsFcnnPJE/de-de-25-14-0c2802b2c20a359674590252c6aa3d6da48ef688.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/22/J-O0c44Z1FQAN2Ad0kqYGI5ehS6pZmOMg2whEYNFc/de-de-25-14.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xB/_Dj2MTWULLyBc36AgWZ94fUxG7xxOHD4JPKcuvuVo/de-de-25-14.mp4",
             "captions": "",
-            "size": 2672895699
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xB/_Dj2MTWULLyBc36AgWZ94fUxG7xxOHD4JPKcuvuVo/de-de-25-14.mp4"
         },
         {
             "id": "45cca4d742d24020a9a1bee918f7586f",
@@ -273,16 +228,13 @@
             "title": "Wiedersehen ist doppelt schön!",
             "description": "Während unsere Helden weiterhin ihre Ziele verfolgen, taucht eine alte Freundin von Ash auf, um Chloe zu helfen, ihr eigenes zu finden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Rcyk10LSQCAqaG-6Rj3WG8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hW/ovQprdnBzCqC3UBc_g6WfO1v9DoYoNxlDyutKvBpc/de-de-25-15-b68e0b2730314642f0ad31766733472caa3912c9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3N/-2n4q94KyLJROaF_wCYpHduP44vVWRjaZuEx6L2A0/de-de-25-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oe/HF79hlYjfupQ3kribXDerCN5LJwOtgkBgaw7mUu04/de-de-25-15.mp4",
             "captions": "",
-            "size": 2694232382
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oe/HF79hlYjfupQ3kribXDerCN5LJwOtgkBgaw7mUu04/de-de-25-15.mp4"
         },
         {
             "id": "d70c73a4892b43bd8054e40a85ddc0c7",
@@ -291,16 +243,13 @@
             "title": "Team Rockets Radiostern geht auf!",
             "description": "Team Rocket plant, neue Mitglieder zu rekrutieren, und hat dabei viel Spaß!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1wxzpIkrQ70gFTkCoXdwMc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hB/eiMSDasoxGDG-uvmGo_WQorTfrioC1YKrVQkoKqq8/de-de-25-16-caf6186ac7a636ff53d407fcc64281a3ff589709.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YU/zZoA05XK7G7u1VnprLudDsItRKGVc6JyENtYKekk4/de-de-25-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tT/Tb44WSycAtAM4IdNa1MDhA0jQFDy8v7IoTFqyjtsM/de-de-25-16.mp4",
             "captions": "",
-            "size": 2680032780
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tT/Tb44WSycAtAM4IdNa1MDhA0jQFDy8v7IoTFqyjtsM/de-de-25-16.mp4"
         },
         {
             "id": "3e98b7f764eb464e91e63e3342021a64",
@@ -309,16 +258,13 @@
             "title": "Der große Bruder eilt zur Hilfe!",
             "description": "Als es im Kirsch-Park Ärger gibt, tritt Voldi in Aktion und hilft unseren Helden, die Situation wieder ins Lot zu bringen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ppi392TrRk4keY-M0ICGmQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QN/p5yNAfd0QIf92rdT-zgxnNhYsh9eZSMAqXcoqBCYI/de-de-25-17-140dfd3114ddd185c3d205ab22037e0d858f133d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IP/gH4SSAItp_dMNmdG1oXQn7uKF1Wijqu22zaMa-JJA/de-de-25-17.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HZ/pzC0cyciIThwjTJd_l-zy-9q-f6MuUL4NtZvth-GU/de-de-25-17.mp4",
             "captions": "",
-            "size": 2702383633
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HZ/pzC0cyciIThwjTJd_l-zy-9q-f6MuUL4NtZvth-GU/de-de-25-17.mp4"
         },
         {
             "id": "f990bcf60314489fbc5a427911ef238a",
@@ -327,16 +273,13 @@
             "title": "Die Aura des Schicksals!",
             "description": "Ash trainiert für seinen Acht-Meister-Aufstiegskampf, und ein Besuch bei einem alten Freund wird zu einer Gelegenheit für ein Power-up!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-ZC89gMUSJ8vFpCeRHvI4o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r3/rW8VWBbXdmG6A12hj_uWiRLIzUTvxpwdaNEi-esrs/de-de-25-18-7070f6dbb9cba86c32eff17a6fd34cda116edafe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6-/-3oJh_EF-VN_dUv6GwDsU-gxH7QhrZ1Ujl6d5wDpg/de-de-25-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xg/1Lv8ufKwtKZnmsoSbJrBm-MO3MvQO5ieUqWULze0Q/de-de-25-18.mp4",
             "captions": "",
-            "size": 2700751937
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xg/1Lv8ufKwtKZnmsoSbJrBm-MO3MvQO5ieUqWULze0Q/de-de-25-18.mp4"
         },
         {
             "id": "281d46f6d51c4a55ab94a90c5c1f10f4",
@@ -345,16 +288,13 @@
             "title": "Kampf um Platz acht!",
             "description": "Der letzte Aufstiegskampf vor dem Turnier der Acht Meister beginnt. Und Ash ist fest entschlossen, zu gewinnen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep19_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep19_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KB1G9tUcSlUq5SpDFwfEPQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7U/C_C4iAVRLvRZIYuZks-4-uGzsI9h_dVGqpqASRE5o/de-de-25-19-e59633741722e967b972806a5aa1d29654df2f7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xg/nH_bopn0MVFhIbl5uibtRoGmPPZNB15FPvSL8_zR8/de-de-25-19.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mV/byU_6LM9aw0xnisGosUYFKOtI21xmq-L72jViwVPU/de-de-25-19.mp4",
             "captions": "",
-            "size": 2679723065
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mV/byU_6LM9aw0xnisGosUYFKOtI21xmq-L72jViwVPU/de-de-25-19.mp4"
         },
         {
             "id": "575d67724a6f4952a424e742c857e540",
@@ -363,16 +303,13 @@
             "title": "Jetzt geht‘s um alles oder nichts!",
             "description": "Während Goh sein Ziel verfolgt, Projekt Mew beizutreten, wird die Konkurrenz von Minute zu Minute härter!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep20_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep20_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/V11nckpvSVIpCTnQshX5UA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E3/kxl0Besi8kcnqJyjkFhNoDCaTBcIQSUoyzDdw6znc/de-de-25-20-c5b027ae6ddef276841f6b521d25d5740e027e79.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nU/JzoBPghds5emyPk4ppATNAv4HU9A-8p77qopKDBKc/de-de-25-20.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AD/ilEnRGPcCbgu_RE6TyWwzGeBybqZdxzcQVF6TLKM8/de-de-25-20.mp4",
             "captions": "",
-            "size": 2664799594
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AD/ilEnRGPcCbgu_RE6TyWwzGeBybqZdxzcQVF6TLKM8/de-de-25-20.mp4"
         },
         {
             "id": "3574352ad1f646d48fa4b486b803296f",
@@ -381,16 +318,13 @@
             "title": "Ein krönendes Wiedersehen!",
             "description": "Lilly und ihre Familie wagen sich in die Kälte der Kronen-Schneelande und machen eine erstaunliche Entdeckung!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NXQ1KtH2RtQj6S0hrgDKW8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w6/DtSgX53a2ExG44ZUP9j33Aq-MIb2xI2N9kDfaRtH4/de-de-25-21-31c8d3303f2195dbb884faad7900d506af98eea1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JN/fLbKGwDj7nX5KL2nMGwSgArTxBRBW9ajWyHsn40ec/de-de-25-21.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BP/ul4F3E2I-eGPECAeSjBGDi62zyg-4Z3UsM8KzKN-8/de-de-25-21.mp4",
             "captions": "",
-            "size": 2820890620
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BP/ul4F3E2I-eGPECAeSjBGDi62zyg-4Z3UsM8KzKN-8/de-de-25-21.mp4"
         },
         {
             "id": "7b07a6ba24db409aa4f531d3d8706d73",
@@ -399,16 +333,13 @@
             "title": "Hilfe für den Helden der Heimat!",
             "description": "Im Vorfeld des Turniers der Acht Meister kennt die Unterstützung, die Ash in Alola erhält, keine Grenzen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep22_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep22_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ewemuiTbQJopPUx09hwbXM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PI/3aNYFqyHbsYdsZNegpi8HJsMNDjgdLcKdxnW3Tim4/de-de-25-22-7e8ce74a6c5e829b35cf471a4bc02b66d1054601.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uM/nJmdgilSBRkBPxvvTyCPzbipqc4qN61jzTYAeqYoY/de-de-25-22.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0_/FVBWlFuUkWnVTewftkoNxjy-g2n1hmJJbIKSyhGGU/de-de-25-22.mp4",
             "captions": "",
-            "size": 2690079607
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0_/FVBWlFuUkWnVTewftkoNxjy-g2n1hmJJbIKSyhGGU/de-de-25-22.mp4"
         },
         {
             "id": "f51f6c5b65944f7b922675f833159410",
@@ -417,16 +348,13 @@
             "title": "Jetzt geht es auf die Zielgerade!",
             "description": "Gohs Plan, ein Verfolger zu werden, geht in die letzte, entscheidende Etappe, auf der er von ganz unerwarteter Seite echte Kooperation und Teamwork erfährt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9R9sW2WUT3skiZ1-DMVlBA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BY/3JFgxVPbkyWGSsSVu9tWY-oYY4B94MDlEXpNHUk_c/de-de-25-23-8c076204c54b197be9efbbac18bdfee0bd73b4e6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mm/Xl0XS0SIciT9IpKyz_chphUsJDDZH6O-MGvKy4G-I/de-de-25-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KG/Mf_Y4nOfp1nLT6cFPHEX8SlNu0m2T4dJivXEetNE4/de-de-25-23.mp4",
             "captions": "",
-            "size": 2608124029
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KG/Mf_Y4nOfp1nLT6cFPHEX8SlNu0m2T4dJivXEetNE4/de-de-25-23.mp4"
         },
         {
             "id": "5421885dd6be40a3b25643e87f9e8768",
@@ -435,16 +363,13 @@
             "title": "Freunde, Rivalen, stärkt meinen Kampfgeist!",
             "description": "Beim Trainieren für das Turnier der Acht Meister erhält Ash viel Unterstützung von seinen Freunden und von einem speziellen Rivalen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep24_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep24_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VCGIXda-QKMslZD6H-eh2g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8O/AHGeJEZZS3yhUt1yk21rR-h2G193bcSO69I2XE0zs/de-de-25-24-f10aa72c62384cdf9ab8e3cf8e2fa81a4237f330.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ub/qn4HBE55mSgAAHwBBvLO472snOsYnY5N5adNQJjCc/de-de-25-24.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1j/z8ScbMM-96kyf7kG_anXc1VPZVZhxBbytzS8LIVSs/de-de-25-24.mp4",
             "captions": "",
-            "size": 2702353069
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1j/z8ScbMM-96kyf7kG_anXc1VPZVZhxBbytzS8LIVSs/de-de-25-24.mp4"
         },
         {
             "id": "5ac1b153aae64a3a9721849d149a8a22",
@@ -453,16 +378,13 @@
             "title": "Vorhang auf! Die Kämpfe beginnen!",
             "description": "Das Turnier der Acht Meister hat begonnen, und die Kämpfe sind bereits in vollem Gange!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep25_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep25_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WsGxU6rmSjolyGEnRSaiiI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V2/TU3cD5_csGrGdUjxna1S_TurwcsuOxXLnTeFWBixM/de-de-25-25-79acd73009bbecc8071175eb6c0fdf1932cbd535.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b2/WXGNK2lDPrEe8iAjYJaK1upqnTxgsdP6AUFvvE6e4/de-de-25-25.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mV/KWKRue1cgm0xURXGh6AYgBY0aa7lzE-vaAldDM7pQ/de-de-25-25.mp4",
             "captions": "",
-            "size": 2667239246
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mV/KWKRue1cgm0xURXGh6AYgBY0aa7lzE-vaAldDM7pQ/de-de-25-25.mp4"
         },
         {
             "id": "21ce161c5d9943d1b2a36c4881ea6d68",
@@ -471,16 +393,13 @@
             "title": "Champ gegen Champ!",
             "description": "Die Spannung war bei dem Turnier der Acht Meister von Anfang an zu spüren, doch der nächste Kampf sorgt für noch mehr Nervenkitzel!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep26_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep26_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ic4WHF2ZQ9EsqNsSIHqbWg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vM/saGKwaN6iffgWh7_-DSMcmPEHTzcyQRC7a9egpJEQ/de-de-25-26-93cc4643d5d7e9f67738c8167e7781a13f4da82d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x2/TFJspN2tOCZ1kLTA7yQ1JaGqli6AuypQYBwVWniww/de-de-25-26.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ts/2x4g4LRNJMKJsY2YoMH9E2o4oM2GQpwFZJTb1VRkA/de-de-25-26.mp4",
             "captions": "",
-            "size": 2671550426
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ts/2x4g4LRNJMKJsY2YoMH9E2o4oM2GQpwFZJTb1VRkA/de-de-25-26.mp4"
         },
         {
             "id": "b4750021f990467199fccf10547509af",
@@ -489,16 +408,13 @@
             "title": "Der feurige Weg zum Meistertitel!",
             "description": "Das Turnier der Acht Meister läuft auf Hochtouren, als Mentor und Schützling um den Sieg kämpfen und das Score-Stadion zum Lodern bringen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep27_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep27_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tHUAIfmQRnEmfzPEFR1Ca8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9g/Xbz1sE_jcwIyQ_i-W6MD1j6LrzEf2zkvfj45fVp_s/de-de-25-27-9f1b1beae6280e841be3d043071d058d6a8cf017.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J_/ea8Hi_P-_xqlU31v2RTrrciQRx1MW0WHygNE4blns/de-de-25-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QJ/xqW6k-G9-aQen5qeIw_Q9Sxf5fbViolBJOBkS-bgk/de-de-25-27.mp4",
             "captions": "",
-            "size": 2665342233
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QJ/xqW6k-G9-aQen5qeIw_Q9Sxf5fbViolBJOBkS-bgk/de-de-25-27.mp4"
         },
         {
             "id": "687c366bf24e401b93d3016806eb07c2",
@@ -507,16 +423,13 @@
             "title": "Harter Gegner – harter Kampf!",
             "description": "Der letzte Kampf der ersten Runde des Turniers der Acht Meister beginnt jeden Moment, und Ash steht seinem bisher härtesten Gegner gegenüber!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep28_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep28_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aHw2a_JOQBsk9MBaAbrB8I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eC/cdx4LURl3MrUHcuvr6bvAiugotqTyWZCfdMq6PAow/de-de-25-28-1a79307b9e741310a8fbc521bcf987dba1f52adf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/67/XUzlGAFcpaBoTdl_vFGHdl74erN7UaNECEpSYLQXo/de-de-25-28.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/Y8s4Q4Me048Kkmc9N_-AqNcPOPirE4JFgEVolK9XA/de-de-25-28.mp4",
             "captions": "",
-            "size": 2626083146
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/Y8s4Q4Me048Kkmc9N_-AqNcPOPirE4JFgEVolK9XA/de-de-25-28.mp4"
         },
         {
             "id": "a4c5dff58db44f119cc21326d930d97e",
@@ -525,16 +438,13 @@
             "title": "Unendliche Möglichkeiten!",
             "description": "Chloe macht mit ihrer Familie einen Campingausflug und bekommt einen Einblick in die wunderbare Welt der Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep29_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep29_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pMXf9Y20TxEnMITJtkw2X4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sD/hH9VanOhb9CcvT3VtAOrvUwbOOB6h2M2APRO9EAvU/de-de-25-29-ae2c07df9d95d3058f07b27da999c8775cbf540a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fw/CC7Cnz0DPz40fH7GONtHPe0GkrVTUj-4xyWzQ7pO8/de-de-25-29.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lj/gplY0asCpkuZiL6EtcqxDfSIgWfhO01jRbb6E5yPw/de-de-25-29.mp4",
             "captions": "",
-            "size": 2706032756
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lj/gplY0asCpkuZiL6EtcqxDfSIgWfhO01jRbb6E5yPw/de-de-25-29.mp4"
         },
         {
             "id": "569ad898f8e847618e373387838fe0e0",
@@ -543,16 +453,13 @@
             "title": "Es ist Champ-Time!",
             "description": "Das Turnier der Acht Meister geht weiter und im Halbfinale heißt es Champ gegen Champ!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep30_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep30_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VprYmPjoR2Ejjczh4OP4OA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X6/-XlaJrfuO7nDkmSxrNS18zzTnwhI6nvZFc5Lb73y8/de-de-25-30-a2db74664c8a49898daf8de5c3c310cef564d4b0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hg/uvW1KTz2M1N-mV64sf0VnAGdr0QdyLFoNADAnJHhY/de-de-25-30.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hn/2cdd3EF7-rGeZEak5qcB1AiCK8bIlOYsb96DvrHQA/de-de-25-30.mp4",
             "captions": "",
-            "size": 2670946641
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hn/2cdd3EF7-rGeZEak5qcB1AiCK8bIlOYsb96DvrHQA/de-de-25-30.mp4"
         },
         {
             "id": "ca66ab97ff9a496480c6256431ef4226",
@@ -561,16 +468,13 @@
             "title": "Wechselspiele ohne Ende!",
             "description": "Im zweiten Halbfinalmatch des Turniers der Acht Meister trifft Ash auf eine Gegnerin, die er nicht so schnell vergessen wird!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep31_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep31_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ymarl_-aSWQgMYlZDHvQiY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yP/ze9yLlZpM6Efh5ZB9-ctoZdnVM1YHAxOxpNgxbiJE/de-de-25-31-072880a49e25a0c757f436d56d6ee2d7885c5570.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ry/UT5sixEJbdqhNC48VXcp1u5Df5eRiayGzYcRtw0jA/de-de-25-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L2/mfeRR48UQwCtvrxFuWqcUutIoDoj13JEi_s7HO07c/de-de-25-31.mp4",
             "captions": "",
-            "size": 2600257728
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L2/mfeRR48UQwCtvrxFuWqcUutIoDoj13JEi_s7HO07c/de-de-25-31.mp4"
         },
         {
             "id": "af0484bb01384f3c9f026f38eb9bba76",
@@ -579,16 +483,13 @@
             "title": "Wagemut: Ein strategischer Teil des Kämpfens!",
             "description": "Im Kampf des Turniers der Acht Meister zwischen Ash und Cynthia dreht sich alles um Strategie und Stärke!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep32_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep32_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rwSEuwE4TzwnwJvOOubunY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aI/9oYWIHTYxkweG8uPT7Fy0nvniCYLd4-yjoVuLVZH8/de-de-25-32-9e55fa3ad911f68d68d7e4cc956b83751968a327.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Md/209fz9OfyYbQw0k1Gs9fkHpilxI4F4UnNMwId82OA/de-de-25-32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ld/NGOqRV0BZkc1yr-EgQri3Jn8LWiDh9x2z8t-P8u88/de-de-25-32.mp4",
             "captions": "",
-            "size": 2678184003
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ld/NGOqRV0BZkc1yr-EgQri3Jn8LWiDh9x2z8t-P8u88/de-de-25-32.mp4"
         },
         {
             "id": "01fa653c34c346d3b0efd3175c4591d8",
@@ -597,16 +498,13 @@
             "title": "Schritt für Schritt dem Ziel näher!",
             "description": "Das zweite Match im Halbfinale des Turniers der Acht Meister geht weiter, und dort heißt es Champ gegen Champ!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AfplPDTDRtMsO_TF1xFkdg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8x/_qvfOrL0XAqHuGyXQdKl_g9HdrqAY_3yNLaIhHHCg/de-de-25-33-0df8edbfb625a27a00f8d1f90ff84c1f5ea261c1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/td/IrbXW7pE7g7TZ9eaZ5I8YIcff-RUWDNn-pByw95jo/de-de-25-33.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/44/DwJGzANOmvxkq1OhVBTqExWySVV-8AHYYO2tGvrk4/de-de-25-33.mp4",
             "captions": "",
-            "size": 2674858283
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/44/DwJGzANOmvxkq1OhVBTqExWySVV-8AHYYO2tGvrk4/de-de-25-33.mp4"
         },
         {
             "id": "2732188632d641aabf5d801a6abdf416",
@@ -615,16 +513,13 @@
             "title": "Galar-Nostalgie!",
             "description": "Vor dem Finale des Turniers der Acht Meister sehen sich unsere Helden Score City an und schwelgen in Erinnerungen an ihre gemeinsamen Reisen durch die Galar-Region!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep34_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep34_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JzIYhjLWQaov12AGmq99BY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PM/r3B-PZaGjB_M5lplRfmxNCMRdvtpqubjz1dpDZAEY/de-de-25-34-88cda03a08e2a47a130a0694f3578268c6f57239.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5y/JRulRZGpW1QdawRk6Fa6vkLai0E8Y6QVDK9hOi15w/de-de-25-34.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jc/WhyhTxnedzUKhJEpQMswjDl8H0LwosIs3HgIlTnhE/de-de-25-34.mp4",
             "captions": "",
-            "size": 2687540014
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jc/WhyhTxnedzUKhJEpQMswjDl8H0LwosIs3HgIlTnhE/de-de-25-34.mp4"
         },
         {
             "id": "5acfdba20a4f4611ad49d19bbb377fc8",
@@ -633,16 +528,13 @@
             "title": "Sintflutartige Gewinnfälle!",
             "description": "Das Finale der Pokémon-Krönungs-Weltmeisterschaften beginnt, und Ash und Delion streben beide nach dem Sieg!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ws_bogpPRhErUnRm7s3f8g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/la/wlAhU7c5bYzhg6OP_kV1StmXxqpzBbVG9feHmC7RM/de-de-25-35-697becbf38719db5eac137714ae705738339ad69.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/ph54ShZaTEAGIM92Jdv24ocSvXzCEqfZzj21PlbBo/de-de-25-35.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_P/9QxdbvfqjizLIQvci0uBJS9tC0auUIeeioduOmAB0/de-de-25-35.mp4",
             "captions": "",
-            "size": 2584947199
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_P/9QxdbvfqjizLIQvci0uBJS9tC0auUIeeioduOmAB0/de-de-25-35.mp4"
         },
         {
             "id": "6fbc8ec2c90b4ded874bbbbbbd186303",
@@ -651,16 +543,13 @@
             "title": "Taktikspiele!",
             "description": "Ash setzt seinen Kampf gegen Delion im Turnier der Acht Meister fort, und je länger sie kämpfen, desto turbulenter wird es!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep36_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep36_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/b7yOwskLTe0h0u7u70YYwM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wx/UuL5t7Tn89dxgswsWr02v1MxrJw8fZxsLemWEn5Gc/de-de-25-36-e04389a754f3e0952ff6460c7900b8c7e17ae59c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D1/kRwBRj1u1nxGnOTgUxDI9_AUPi6feCD5YpfX496QE/de-de-25-36.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/3ZQvN7o8GfCWf_wA_Zz1VKPWpO3ZgpiEdtOhPm3KA/de-de-25-36.mp4",
             "captions": "",
-            "size": 2598971369
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/3ZQvN7o8GfCWf_wA_Zz1VKPWpO3ZgpiEdtOhPm3KA/de-de-25-36.mp4"
         },
         {
             "id": "bbe6e776f56747a1a8b6c53963e56a91",
@@ -669,16 +558,13 @@
             "title": "Wer gibt hier den takt an?!",
             "description": "Im Finale setzen Ash und Delion ihre stärksten Attacken ein, die ein unerwartetes Ergebnis zur Folge haben!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/u-bndvVnR6EqLbFOWPlapE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cH/lzVFbdqT_-Piros9hIuhJ5KubOITnYNY9xzLMtjcY/de-de-25-37-2f419c0e87b25ad940afec5f1488e63f5afd477b.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kj/GYQhlfjlNGcL9nsfr2YMsjywrUij9LtEUF1Zmtd40/de-de-25-37.mp4",
             "captions": "",
-            "size": 2696598445
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kj/GYQhlfjlNGcL9nsfr2YMsjywrUij9LtEUF1Zmtd40/de-de-25-37.mp4"
         }
     ]
 }

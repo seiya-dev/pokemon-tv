@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-serial-xy",
+    "channel_id": "season17",
     "channel_name": "Покемон Сериал: XY",
     "channel_description": "В мультсериале Покемон XY Эш отправляется в регион Калос и узнаёт о силе Мега-Эволюции. Смотрите сейчас на Покемон ТВ!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season17/season17-1125x1500-ru.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season17/season17-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season17/season17-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season17/season17-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 141,
-    "channel_creation_date": 1593800349,
-    "channel_update_date": 1638552986,
+    "order": -17000,
     "media": [
         {
             "id": "526ce5a953ab49688deeaa7bebcc2f1d",
@@ -21,16 +18,13 @@
             "title": "Регион Калос. Где рождаются мечты и начинаются приключения!",
             "description": "Эш и Пикачу прибывают в регион Калос и не теряют времени зря. Новые приключения не заставляют себя ждать!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UmzlqVOrSWgje6qe-vMLx0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IA/GNnchfnayxP0cejdwjGahfj78NffwdIMuhpPe81-I/pok_tv_s1701_2997-master-ru-sdt_1080p-aa0210d66d1e1d26f74e08733565e579829fd8f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IA/GNnchfnayxP0cejdwjGahfj78NffwdIMuhpPe81-I/pok_tv_s1701_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L6/ByAwdv4IhjC2PwMbDFLxP_8yw9rjM5ntywzT1VcEs/pok_tv_s1701_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2646171650
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L6/ByAwdv4IhjC2PwMbDFLxP_8yw9rjM5ntywzT1VcEs/pok_tv_s1701_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "9ea272a1caea40eb8253725f8ef098f1",
@@ -39,16 +33,13 @@
             "title": "Погоня по Люмиос-Сити!",
             "description": "Эш помогает страдающему Покемону. А весь город наблюдает за тем, как он ставит на кон собственную жизнь!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nqJyocrqQOsglNyX47wmPE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u6/Oxj5LonwXIBnt3S2CoCLtVZU9LfuayFNC1xmgcUjk/pok_tv_s1702_2997-master-ru-sdt_1080p-b33eb33100ad78a4ddf61a53508789cdb0994cda.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u6/Oxj5LonwXIBnt3S2CoCLtVZU9LfuayFNC1xmgcUjk/pok_tv_s1702_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qy/N2D7UaOe0Thu4weR1NGqG3GWRRHiLzygbqw5ue4a4/pok_tv_s1702_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2591927158
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qy/N2D7UaOe0Thu4weR1NGqG3GWRRHiLzygbqw5ue4a4/pok_tv_s1702_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "500fe16cd2b14fa2ad1bec0d7ae48d68",
@@ -57,16 +48,13 @@
             "title": "Битва за присутствие в воздухе!",
             "description": "Эш намерен поймать больше Покемонов из Калоса! И он такой не один.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UA_hbNKxT6IrRvsDXrkjWg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kU/XJ4BnbIyiDhCk-FdGlTEJhOyEXOA6sdI19L6K_mPo/pok_tv_s1703_2997-master-ru-sdt_1080p-589a15c4f74cc30e41212f9fcbe0c18031d5db34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kU/XJ4BnbIyiDhCk-FdGlTEJhOyEXOA6sdI19L6K_mPo/pok_tv_s1703_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wQ/xHvTcjt_vyzK9jsjz_-R3JGOQDNYhFMzWeftNYDV8/pok_tv_s1703_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2661763101
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wQ/xHvTcjt_vyzK9jsjz_-R3JGOQDNYhFMzWeftNYDV8/pok_tv_s1703_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "a3ddc7f2cf31452db9406bfcaefc70a7",
@@ -75,16 +63,13 @@
             "title": "Новая шокирующая дружба!",
             "description": "Наши герои продолжают путешествие по региону Калос. И впереди их ожидают новые друзья!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/o93H8s8xRS0uUBr_K78cKc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dl/py44Ojky3Sb_SisNevnggpThukgBFFtAHcPD7LcTw/pok_tv_s1704_2997-master-ru-sdt_1080p-f6cab4623b33023a89172df5610ba26a0487cc59.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dl/py44Ojky3Sb_SisNevnggpThukgBFFtAHcPD7LcTw/pok_tv_s1704_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/bOYdFHD5V9V7MtrAZfw7ecT8j8hQkJtec99lyYZUo/pok_tv_s1704_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2702389941
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/bOYdFHD5V9V7MtrAZfw7ecT8j8hQkJtec99lyYZUo/pok_tv_s1704_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "e97e00945e6b4b6ea7f94641c221c89a",
@@ -93,16 +78,13 @@
             "title": "Бурная Гим-битва в Санталун-Сити!",
             "description": "Эш борется за первый значок в Калосе. Но не слишком ли сложное он выбрал себе задание?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6X4AlF5rS24p_lGQcIhyJo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ST/WV5bDtB1BSheIT8xQ-hVw2Bb02Abzbvr-7-q13WB8/pok_tv_s1705_2997-master-ru-sdt_1080p-645398d6725bc12fdbc2a9e4d9d6f8afd339c522.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ST/WV5bDtB1BSheIT8xQ-hVw2Bb02Abzbvr-7-q13WB8/pok_tv_s1705_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S3/ShjeloarV435jUhLqRTGGReqBoISka90hePhhqPYM/pok_tv_s1705_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2637552717
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S3/ShjeloarV435jUhLqRTGGReqBoISka90hePhhqPYM/pok_tv_s1705_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "23c9debf7478459d8b97d15fd95afa5f",
@@ -111,16 +93,13 @@
             "title": "Битва на тонком льду!",
             "description": "Эш никогда не сдаётся и сразу же устраивает матч-реванш против Виолы в надежде получить первый значок в регионе Калос!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/I8nev3R4RZ0i5fRX9la-l8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8v/CXCMeedGrZipZJdvqBQ-7Jwktu0g0UKdsNSlmvEnk/pok_tv_s1706_2997-master-ru-sdt_1080p-2819d746573d295e543a2dad53405498d1fe005b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8v/CXCMeedGrZipZJdvqBQ-7Jwktu0g0UKdsNSlmvEnk/pok_tv_s1706_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0e/rBhFfkbTLT6FFIZw8noqncoIEdh_SoDIqWqLNKC_I/pok_tv_s1706_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2704646094
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0e/rBhFfkbTLT6FFIZw8noqncoIEdh_SoDIqWqLNKC_I/pok_tv_s1706_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "aba54b0205ef4e139ddf8fc6123b1bd6",
@@ -129,16 +108,13 @@
             "title": "В погоне на скачках Райхорнов!",
             "description": "У Эша появляется возможность поучаствовать в скачках Райхорнов. И он не может отказаться!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/q6VLAgXvThMnd-PxhI7G9Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wT/t4UyWwJOPJqHTT4L4NOTDTeHUiDm71lMIUnQ70glY/pok_tv_s1707_2997-master-ru-sdt_1080p-13161974685870a72fd752df19d824386cbeffb9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wT/t4UyWwJOPJqHTT4L4NOTDTeHUiDm71lMIUnQ70glY/pok_tv_s1707_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QO/YwfSugdrHkDi6DRIZJm-rhBtJfc1Zh0mYWWdjiKH0/pok_tv_s1707_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2684518191
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QO/YwfSugdrHkDi6DRIZJm-rhBtJfc1Zh0mYWWdjiKH0/pok_tv_s1707_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "9a01ca32548a4598b6ace33a1ba5873c",
@@ -147,16 +123,13 @@
             "title": "Стрижка для Фурфу!",
             "description": "Наши герои читают в путеводителе о суперзвезде – стилисте Покемонов. И вскоре они знакомятся с ним и его помощницей лично!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mgHKMlSKRZgtqzjOhulhzw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dp/HKDQUIOWkHuF9nqo1p9wMvuX6F0s9z577BtNpPqCo/pok_tv_s1708_2997-master-ru-sdt_1080p-398cfe8efad42e83ce6b9e99249636e87e63de09.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dp/HKDQUIOWkHuF9nqo1p9wMvuX6F0s9z577BtNpPqCo/pok_tv_s1708_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tq/eGs2OcdiUMhyWBk4eVnLQ0KcAlS-KA4_HThifnuAI/pok_tv_s1708_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2661545780
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tq/eGs2OcdiUMhyWBk4eVnLQ0KcAlS-KA4_HThifnuAI/pok_tv_s1708_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "f59dd5fbccdb4d06bf1fa2d6efb5b308",
@@ -165,16 +138,13 @@
             "title": "У Клемонта есть секрет!",
             "description": "Наши герои прибывают в Люмиос-Сити. И там Клемонт и Бонни раскрывают секрет, который повергает всех в шок!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9Z3V-8zbTQYvx-i1u-1swg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L4/DRqmQsqz3k-m36qYkrMVWPYw0F1G7fBZDGKe0WCy8/pok_tv_s1709_2997-master-ru-sdt_1080p-d3e31f5edb4e0a7c632718af511a4bc5346f1966.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L4/DRqmQsqz3k-m36qYkrMVWPYw0F1G7fBZDGKe0WCy8/pok_tv_s1709_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NP/1L7bfPo84-T0CnbjhRtL9hPDRgS9YbVUzD__n6YS4/pok_tv_s1709_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2496044348
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NP/1L7bfPo84-T0CnbjhRtL9hPDRgS9YbVUzD__n6YS4/pok_tv_s1709_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "634fe41d43314bb9945fb875bb0e4f70",
@@ -183,16 +153,13 @@
             "title": "Мега-безумие с Мега Мяутом!",
             "description": "Когда герои посещают Профессора Сайкамора в Люмиос-Сити, они сталкиваются с необычным противником мега-мега размеров!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Y0_kHUMxS7klF-4dbsOT3A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uZ/75Cqb3M-XB41xl8neuiwD-pY9TLJ9uE7Q-1HeO8uk/pok_tv_s1710_2997-master-ru-sdt_1080p-7b5703dcf33108a1e0e3740cbdc2f57e7c14fc1d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uZ/75Cqb3M-XB41xl8neuiwD-pY9TLJ9uE7Q-1HeO8uk/pok_tv_s1710_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YT/A_V8zuDpaZsohTVS4ZgSqEzSYAI8zmY0WFFgVouwg/pok_tv_s1710_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2633085421
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YT/A_V8zuDpaZsohTVS4ZgSqEzSYAI8zmY0WFFgVouwg/pok_tv_s1710_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "106e77a86c354a7188e0a8d69ce62b7b",
@@ -201,16 +168,13 @@
             "title": "Приключения в бамбуковом лесу!",
             "description": "Наши герои продолжают путь к Силладж-Сити. По пути им бросают вызов новые Покемоны и старые соперники!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EG53qGw1SnEiOCo1pzmK3s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/87/kF93FbPqBDG2CMF9la-r7SXbN46tnEsAKDZ4njEkQ/pok_tv_s1711_2997-master-ru-sdt_1080p-012f6a0412acff3d1464dbc39a9ebd8512e381dc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/87/kF93FbPqBDG2CMF9la-r7SXbN46tnEsAKDZ4njEkQ/pok_tv_s1711_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ug/u94Pe1Vvn7Rvr6LuNrmDHWFzUHtRCg2BSwAPOu8iY/pok_tv_s1711_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2722259390
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ug/u94Pe1Vvn7Rvr6LuNrmDHWFzUHtRCg2BSwAPOu8iY/pok_tv_s1711_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "5acbc75ac9574d439e32aec8ab171ff8",
@@ -219,16 +183,13 @@
             "title": "В погоне за контрабандистом Покемонов!",
             "description": "По пути в Силладж-Сити нашим героям приходится столкнуться с очень неприятным представителем очень неприятной профессии.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WsvHWslXTUMnjKuyKsXH_g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jS/jLceRBkMQ9u_KbyCxiK6yh0HqKxycMz54EmEBx6Iw/pok_tv_s1712_2997-master-ru-sdt_1080p-9f0cb23e3e227a61d60c7a9f9ee9b6c6ec4f6932.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jS/jLceRBkMQ9u_KbyCxiK6yh0HqKxycMz54EmEBx6Iw/pok_tv_s1712_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/93/9RoZUOi7Dt1zcWop0nEyR_2hg6RN3fS_86mbPpfVk/pok_tv_s1712_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2614172646
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/93/9RoZUOi7Dt1zcWop0nEyR_2hg6RN3fS_86mbPpfVk/pok_tv_s1712_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "965f8f311e4d4adfbd5c87841cfecda0",
@@ -237,16 +198,13 @@
             "title": "Хаос в детском саду!",
             "description": "То, что начинается, как обычная битва между Тренерами в лесу, меняет жизнь одного из её участников!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ll-PMR5NSt8vVyHhBz-zaA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hO/OFU1Vfa6o6UiAXEzWtJAv9-6blumGISd34aLrZO1g/pok_tv_s1713_2997-master-ru-sdt_1080p-ff62a5d7fbe430fbd581c5317419f8a032aac374.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hO/OFU1Vfa6o6UiAXEzWtJAv9-6blumGISd34aLrZO1g/pok_tv_s1713_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pw/dUvxpLsoYOGn2ObPcHYqWE3fytSDrJKFzoMmqXjdc/pok_tv_s1713_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2588888683
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pw/dUvxpLsoYOGn2ObPcHYqWE3fytSDrJKFzoMmqXjdc/pok_tv_s1713_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "aac0cb875adc4d288e939bf9b221e273",
@@ -255,16 +213,13 @@
             "title": "Скрываясь от грозы!",
             "description": "Наши герои скрываются в заброшенном особняке от дождя. Но они не подозревают, что их там ждёт!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qsDLh1rcTSgjpOb-bIh4nM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pb/sQB6bObI3Wl9Lzt09oBtxscZKNkLyQOKb6JZ0txTE/pok_tv_s1714_2997-master-ru-sdt_1080p-3ddf5b3b56a808bd6779246cf07082bcf0fad2c0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pb/sQB6bObI3Wl9Lzt09oBtxscZKNkLyQOKb6JZ0txTE/pok_tv_s1714_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nj/Ucd5dwX5jxrL3mBnNoq5JeD4nKVQwwHFSI_wnkKi0/pok_tv_s1714_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2507632336
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nj/Ucd5dwX5jxrL3mBnNoq5JeD4nKVQwwHFSI_wnkKi0/pok_tv_s1714_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "b98ad7842009496e8f8957558fa31578",
@@ -273,16 +228,13 @@
             "title": "Аппетит к битве!",
             "description": "У наших героев возникает недопонимание во время ночёвки в лагере. Но в итоге это позволяет Тренерам и Покемонам сблизиться друг с другом.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uYrXhCAJSW4j4lXVY-jFXg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BB/AtWpO4gjXh7Qas8q5AT3jKEsbd7Q_X29ZaYbZMJvM/pok_tv_s1715_2997-master-ru-sdt_1080p-bb789d2d4f9c58635c2c1de72db861e65bdad2b1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BB/AtWpO4gjXh7Qas8q5AT3jKEsbd7Q_X29ZaYbZMJvM/pok_tv_s1715_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XY/sm4tS687WnFfJEZ74CPJuP-L7Ugp2lyBN21CkY0EU/pok_tv_s1715_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2592287762
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XY/sm4tS687WnFfJEZ74CPJuP-L7Ugp2lyBN21CkY0EU/pok_tv_s1715_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "56d6f1b0184b40bb9a32a5267e5fe63e",
@@ -291,16 +243,13 @@
             "title": "Неразбериха с сумками!",
             "description": "В ходе визита в местный Центр Покемонов возникает путаница, исправить которую и пытаются наши герои!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VtbxsBhLQLsmjKlJn5f5j4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ye/fgcnKa6vhEscl0hjS-YWDlM7jIRVGHA61Z1i79RLc/pok_tv_s1716_2997-master-ru-sdt_1080p-995b9ddf9712cfa666c990fa0985a4d789b8b70a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ye/fgcnKa6vhEscl0hjS-YWDlM7jIRVGHA61Z1i79RLc/pok_tv_s1716_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/dJFQuXyWUN36HHLhECoidKmRccONULRObMMQ9G_uI/pok_tv_s1716_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2566334568
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/dJFQuXyWUN36HHLhECoidKmRccONULRObMMQ9G_uI/pok_tv_s1716_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "542c68f346ff452980dc61fc42c10869",
@@ -309,16 +258,13 @@
             "title": "Немного мудрости ниндзя!",
             "description": "По пути в Силладж-Сити наши герои встречают умелого юного ниндзя, а также его могучего Фрогадира. У них есть чему поучиться.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VCxo80b_RSkgNxh_ELBCGk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ef/VcOuAoA2YBpjuuM7RUj5bqL0WW64qWg8ggSGFCd14/pok_tv_s1717_2997-master-ru-sdt_1080p-3fb05ef0dc68a571cbf6f966731dff60175afe82.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ef/VcOuAoA2YBpjuuM7RUj5bqL0WW64qWg8ggSGFCd14/pok_tv_s1717_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1N/8tjdZ2Mrj90-2NqhsuXVhgi1ECfzbFPIGZ-0w40ZI/pok_tv_s1717_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2730153518
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1N/8tjdZ2Mrj90-2NqhsuXVhgi1ECfzbFPIGZ-0w40ZI/pok_tv_s1717_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "4272e7605dc245fc884ba93886a3f01e",
@@ -327,16 +273,13 @@
             "title": "Пробуждение спящего гиганта!",
             "description": "Наши герои прибывают в Камфриер Таун, и перед ними встает дилемма эпических размеров!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QnLnYF3CRfwiEupOIaj8B4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0l/0U_f3QpARJ-fWm4CbiVVTKQpjT99s-z52Vhd6u5As/pok_tv_s1718_2997-master-ru-sdt_1080p-4afcdf803026558bacd98b00f9bf79e7944082cb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0l/0U_f3QpARJ-fWm4CbiVVTKQpjT99s-z52Vhd6u5As/pok_tv_s1718_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o3/YbfFB1HAmeSgTu_jyDdUBrY4IdYxFf9jYR3ckAUUk/pok_tv_s1718_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2620929703
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o3/YbfFB1HAmeSgTu_jyDdUBrY4IdYxFf9jYR3ckAUUk/pok_tv_s1718_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "33b2cb96c87442f084b2ecd0c74133b7",
@@ -345,16 +288,13 @@
             "title": "Заговор для покорения!",
             "description": "Команда Р всё еще пытается поймать Пикачу, но на время все отвлекаются на другого Покемона!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/M7LLlsh0QvAhLLs0MdBM7c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1u/q8pWenK5Ko6N4dfQRaDUfKEpYpEDBgcjM6mUSQJus/pok_tv_s1719_2997-master-ru-sdt_1080p-fcbf29e7ad7ee380bbf3bb8647cf534f833aa5b7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1u/q8pWenK5Ko6N4dfQRaDUfKEpYpEDBgcjM6mUSQJus/pok_tv_s1719_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/BBqsKBN0TO0EicsIkm7-3Of5X8es-HjffcbsJk7wY/pok_tv_s1719_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2664133086
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/BBqsKBN0TO0EicsIkm7-3Of5X8es-HjffcbsJk7wY/pok_tv_s1719_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "7532ce7ca8014ba5a3e8760a0d8ddbd7",
@@ -363,16 +303,13 @@
             "title": "Зарабатывая титулы в замке!",
             "description": "Визит в Боевой замок региона Калос дарит нашим героям не только незабываемые впечатления, но и невероятное знакомство!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dTLOfKgBS6Uo-h2Cg2N29c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/KcG-MPLNA5aWz1sy09ozC-gfRruwwpVOnzQPW4Pp4/pok_tv_s1720_2997-master-ru-sdt_1080p-ab40d4e7384505be1e4d6dfc6d42fd45d3cbe3cb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/KcG-MPLNA5aWz1sy09ozC-gfRruwwpVOnzQPW4Pp4/pok_tv_s1720_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/te/hbCfweBlq46NwgsXmQgJIgVGmHs-vIT8NkENtTT7U/pok_tv_s1720_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2498681455
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/te/hbCfweBlq46NwgsXmQgJIgVGmHs-vIT8NkENtTT7U/pok_tv_s1720_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "1eb339b113a84aa8ad0068160bae4d3a",
@@ -381,16 +318,13 @@
             "title": "Новая звезда Покевидения!",
             "description": "Наши герои исследуют мир Покевидения. Их ждут невероятные постановки и потрясающие открытия!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HrM5sROoSqgrQBoFguuTTo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fc/9Genj3lB0RzxBQsuc0x6H3mvL2FX5LdrWCJ0HMygg/pok_tv_s1721_2997-master-ru-sdt_1080p-c9d5b1d90389e0ef14779405fac815a8de37c53d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fc/9Genj3lB0RzxBQsuc0x6H3mvL2FX5LdrWCJ0HMygg/pok_tv_s1721_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PG/j8RMLGKy8pQlUcHfXngsWCJXIkXSJRNzfZuN0hIUA/pok_tv_s1721_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2622601086
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PG/j8RMLGKy8pQlUcHfXngsWCJXIkXSJRNzfZuN0hIUA/pok_tv_s1721_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "04129b39cb574f4197c4212b581f164a",
@@ -399,16 +333,13 @@
             "title": "В поисках золота!",
             "description": "Посетив невероятный аквариум, наши герои находят легендарное создание!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BBKbOctXT0El8QhK1gfFko/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mQ/EYs9VtPM-cWu42LxbS14RLmhb2Dvp-dbD3jZbwFS8/pok_tv_s1722_2997-master-ru-sdt_1080p-0cb60432aa2d81944f32ea64d8378c8ee2c5d6ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mQ/EYs9VtPM-cWu42LxbS14RLmhb2Dvp-dbD3jZbwFS8/pok_tv_s1722_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eX/1qFQOn-aEaurJ6B4W77Drhp09Nkwt3-njfG0KZN_g/pok_tv_s1722_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2526172745
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eX/1qFQOn-aEaurJ6B4W77Drhp09Nkwt3-njfG0KZN_g/pok_tv_s1722_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "11ef93760de644168f799fcc2847d384",
@@ -417,16 +348,13 @@
             "title": "Назад в холод!",
             "description": "Наши герои встречают старого друга, а также делают открытие, которое никогда не забудут!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ee-Tdg3mRBYj3mfzChH04Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eh/tQcgkK-Mj24txEl3Xq8FYyWnStfVCvGgEhX3e-7bU/pok_tv_s1723_2997-master-ru-sdt_1080p-651b703694032783ef4f94eb862d4e24cb0214d2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eh/tQcgkK-Mj24txEl3Xq8FYyWnStfVCvGgEhX3e-7bU/pok_tv_s1723_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bl/gG3_lDt8c1CkQ5qfzGVSFT4BJ98nr0V6rZ4SxV_lc/pok_tv_s1723_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2568118129
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bl/gG3_lDt8c1CkQ5qfzGVSFT4BJ98nr0V6rZ4SxV_lc/pok_tv_s1723_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "91720ccb6dfc453db28d011ae3dfc356",
@@ -435,16 +363,13 @@
             "title": "Карабкаясь по стенам!",
             "description": "Время для битвы Эша против Гранта в Гиме Силладж-Сити, наконец, настало! И ему придётся покорить эту гору!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kXIMy238RT0so0BGuPfw1Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qt/ylUd9YUMOcN0enxfZysiUS_WuYqEdDwUP1Muh4NjA/pok_tv_s1724_2997-master-ru-sdt_1080p-83eabe181dd6765346b8ac0a997705721e714555.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qt/ylUd9YUMOcN0enxfZysiUS_WuYqEdDwUP1Muh4NjA/pok_tv_s1724_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B7/GEsXEoV4L01gazCOgyBkB9JNf8Q9xp_AZgO2-tES0/pok_tv_s1724_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2490808233
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B7/GEsXEoV4L01gazCOgyBkB9JNf8Q9xp_AZgO2-tES0/pok_tv_s1724_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "b4643acd43aa4cc6b9154f059c32b26c",
@@ -453,16 +378,13 @@
             "title": "Кулинарный поединок!",
             "description": "Серена принимает участие в сладком поединке, в котором ей понадобятся опыт, ум и доброта!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tGQ6zUOqTMYuRVPBZwysmw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ql/pEa8x_NDjOv-tjCgTe2TbsCb4QyrKBB6pBUZxsY-o/pok_tv_s1725_2997-master-ru-sdt_1080p-4a2de9e5bb08126d89ed41df517bb2bf3c95e40d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ql/pEa8x_NDjOv-tjCgTe2TbsCb4QyrKBB6pBUZxsY-o/pok_tv_s1725_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/du/ebCekSiJ4edpK__a51tINYquUya-VKXFB79hoN2sY/pok_tv_s1725_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2664758280
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/du/ebCekSiJ4edpK__a51tINYquUya-VKXFB79hoN2sY/pok_tv_s1725_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "082b9d6f466549f88713d17f231ad5da",
@@ -471,16 +393,13 @@
             "title": "В поисках цветка фей!",
             "description": "У Бонни новая причёска! А с ней – и новые друзья!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CCudb0ZlSfghxPRfyMa1do/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DZ/ZUWMStPvsPwK_R3IG8ElfmObcWCczeSPVpCcd7z1M/pok_tv_s1726_2997-master-ru-sdt_1080p-89ebb8bb19a2242ea076210a525e5b6866d61aac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DZ/ZUWMStPvsPwK_R3IG8ElfmObcWCczeSPVpCcd7z1M/pok_tv_s1726_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lj/lg378AtcQc3M7yDyP6MG6oEen2YDTw74F-WTYm1Yw/pok_tv_s1726_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2554597669
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lj/lg378AtcQc3M7yDyP6MG6oEen2YDTw74F-WTYm1Yw/pok_tv_s1726_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "f17667de390d4e6da26e1f8abde517ae",
@@ -489,16 +408,13 @@
             "title": "Узы эволюции!",
             "description": "Наши герои случайно встречают Чемпиона! И он позволяет им заглянуть в таинственный мир эволюции!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8XZn3jkNTm0om4fir3lF64/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xV/PVR57hYndyJQAcy_VKBmY3rN9dOrzB8TZbEeAaHdA/pok_tv_s1727_2997-master-ru-sdt_1080p-88c8262d3733f4f19d3453f8910ad58751059b7f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xV/PVR57hYndyJQAcy_VKBmY3rN9dOrzB8TZbEeAaHdA/pok_tv_s1727_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ug/eDXDf-25bWZoW6Dq2JQazSCw8dSdAZbIqlTqlA_y8/pok_tv_s1727_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2616622419
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ug/eDXDf-25bWZoW6Dq2JQazSCw8dSdAZbIqlTqlA_y8/pok_tv_s1727_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "916c8fc59a3f45979281a05544616adf",
@@ -507,16 +423,13 @@
             "title": "Герои! Хорошие и не очень!",
             "description": "Команда Р разрабатывает самый изощрённый из всех своих планов по поимке Пикачу!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kWyPxZo_RZckoGgVURhat8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zr/hTKmZvCXkc0rMHdShDrLia40uiTHpTqKdkZS11WWo/pok_tv_s1728_2997-master-ru-sdt_1080p-9e9da89a987ff0d9714c25e50829b18480e2ffc1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zr/hTKmZvCXkc0rMHdShDrLia40uiTHpTqKdkZS11WWo/pok_tv_s1728_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z1/7vONVcEPgRPRFYnm1nagEf8YsYp2RInHwvpv2keLs/pok_tv_s1728_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2550607590
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z1/7vONVcEPgRPRFYnm1nagEf8YsYp2RInHwvpv2keLs/pok_tv_s1728_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "41c6b7df32a04cc4af83f36ea982bd09",
@@ -525,16 +438,13 @@
             "title": "Мега-открытия!",
             "description": "Неожиданная встреча с Кориной и её Лукарио приносит героям сюрпризы, которых они себе не могли и представить!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Qca33zKgTMQr4PzbqmCvQk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2D/resmrZED37yVeO-zDO1Q5_RlC7z6P_dWEXoMIdgy0/pok_tv_s1729_2997-master-ru-sdt_1080p-2e9bd3dc30828f5bef016c9aa977d8aae5f42d51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2D/resmrZED37yVeO-zDO1Q5_RlC7z6P_dWEXoMIdgy0/pok_tv_s1729_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hv/Cn0M_8dqTV4kkA2sv7p8JgEuAPiZFIPCENfrpSHIk/pok_tv_s1729_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2619835804
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hv/Cn0M_8dqTV4kkA2sv7p8JgEuAPiZFIPCENfrpSHIk/pok_tv_s1729_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "e32d6902167c483593cfe0aa405eb712",
@@ -543,16 +453,13 @@
             "title": "Пещера испытаний!",
             "description": "Поиск Лукарионита начинается. Корина сталкивается с вызовом, которого не ожидала!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4y1pAhZ8SDUk8_gqkBetxI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nx/xZsBahdkELed_7lR7Yhytrdnrt1QUS0HlVBiNDQJ0/pok_tv_s1730_2997-master-ru-sdt_1080p-f7545975a898c9671488c0f3789b3cf507002679.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nx/xZsBahdkELed_7lR7Yhytrdnrt1QUS0HlVBiNDQJ0/pok_tv_s1730_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qk/2Yn5LMN7jNs0-u4BD_jZB9OxtD5FQj2mN4agoUCOc/pok_tv_s1730_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2593605153
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qk/2Yn5LMN7jNs0-u4BD_jZB9OxtD5FQj2mN4agoUCOc/pok_tv_s1730_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "aa94edb8c516445e9f763d252bc55238",
@@ -561,16 +468,13 @@
             "title": "Ураган ауры!",
             "description": "Корина, Лукарио и наши герои узнают, что явление Мега-Эволюции гораздо сложнее, чем они думали!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qpTtuMUWRF4n3Y9JSvFUjg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GN/hbHEP9nkKkuuXtRl4JUvILkkaJ2cs0J9rVf6igt3s/pok_tv_s1731_2997-master-ru-sdt_1080p-41c0302a7fc298417248879a9b1c72e4107009d7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GN/hbHEP9nkKkuuXtRl4JUvILkkaJ2cs0J9rVf6igt3s/pok_tv_s1731_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qB/1ydj5TtBdRhrLXWTCcvg66LHZ6JynJmcC9ZK0HfBQ/pok_tv_s1731_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2551637100
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qB/1ydj5TtBdRhrLXWTCcvg66LHZ6JynJmcC9ZK0HfBQ/pok_tv_s1731_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "6076ba0d3c6444798c3aa6005c7ae5ba",
@@ -579,16 +483,13 @@
             "title": "Зов из-за пределов ауры!",
             "description": "По пути к горе Помес Корина, Лукарио и наши герои становятся свидетелями интересного события в саге Мега-Эволюции!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YHa6DTxkRHkjDqmAFx65bo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iq/L0UKkvGhitoxJvd4ZHS3SW0CRLlA6QUS2W2Fqm2WI/pok_tv_s1732_2997-master-ru-sdt_1080p-c79a09e95337e17720f29286e8e1172bd4c410a2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iq/L0UKkvGhitoxJvd4ZHS3SW0CRLlA6QUS2W2Fqm2WI/pok_tv_s1732_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tx/U-VafRfAPWp45WjPoNroowjP3BJsBbeyO0R-bNRok/pok_tv_s1732_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2646434535
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tx/U-VafRfAPWp45WjPoNroowjP3BJsBbeyO0R-bNRok/pok_tv_s1732_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "fdb98b3531be4ea68f4a811850c255b5",
@@ -597,16 +498,13 @@
             "title": "Узы Мега-Эволюции!",
             "description": "Корина и Лукарио находятся на горе Помес вместе с нашими героями. Там они самым неожиданным образом узнают о Мега-Эволюции!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_bmLNTG-TqYj0qBGFDCVbU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/GNW9z9jnRJL3Pq9iQhJBp3bvWFmvYXQlVCrd-f8jA/pok_tv_s1733_2997-master-ru-sdt_1080p-3a96207fe3f9df28853578163672bcfe1a64e999.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/GNW9z9jnRJL3Pq9iQhJBp3bvWFmvYXQlVCrd-f8jA/pok_tv_s1733_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f7/UxaurTNmJ9fmQEr0hH9kWCgwQOVvtm-ylcnTYtDWA/pok_tv_s1733_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2645819652
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f7/UxaurTNmJ9fmQEr0hH9kWCgwQOVvtm-ylcnTYtDWA/pok_tv_s1733_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "8aa012a7ba4f4231b0a89480a21371fe",
@@ -615,16 +513,13 @@
             "title": "Лесной чемпион!",
             "description": "По пути в Шалор-Сити наши герои встречают потрясающего Покемона с уникальным способом ведения боя!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iqASp7pPQjEsKiUgKITcf4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vL/nKjZVx5axYoX2-zV7zNWvFDci_XVsuBdvyKNwdurc/pok_tv_s1734_2997-master-ru-sdt_1080p-c47e2e3913d3d786aa2d5587b14b72d41615d65e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vL/nKjZVx5axYoX2-zV7zNWvFDci_XVsuBdvyKNwdurc/pok_tv_s1734_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zn/8PSb-BsU4A3A14CmgJxoWvzdUhdkZcu5IoEUybQ9w/pok_tv_s1734_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2722773088
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zn/8PSb-BsU4A3A14CmgJxoWvzdUhdkZcu5IoEUybQ9w/pok_tv_s1734_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "3a849abf60b6446e929f119c188d31cc",
@@ -633,16 +528,13 @@
             "title": "Битвы в небе!",
             "description": "По пути в Шалор-Сити, наши герои знакомятся с новым для себя типом битв!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OoSav2C2RG4kp8RnBiNMcw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ML/0uxOUB2QFr1WtsAyU7r9boolZjRS8k4K6IvVIVEUg/pok_tv_s1735_2997-master-ru-sdt_1080p-9693c4f299bd4428b329be8349a5fd6ae34d8d24.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ML/0uxOUB2QFr1WtsAyU7r9boolZjRS8k4K6IvVIVEUg/pok_tv_s1735_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/TdEa9aHMyHZGOyjYZnuaHgzFK46fBBgIYzBAAsRbs/pok_tv_s1735_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2698669497
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/TdEa9aHMyHZGOyjYZnuaHgzFK46fBBgIYzBAAsRbs/pok_tv_s1735_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "8f905d56baa44ece90a85181984061d0",
@@ -651,16 +543,13 @@
             "title": "Пещера зеркал!",
             "description": "Во время исследования известной пещеры по пути в Шалор-Сити наши герои неожиданно видят себя со стороны!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/j5BdVrqkTs4kKhRgZhAYdA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v7/yXY3fdGhDWUMAsQ8xd9j2I9vx42rTGu_LXg2wrVXM/pok_tv_s1736_2997-master-ru-sdt_1080p-6833a935fe303906936ab5f44739ebd0270e8eb1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v7/yXY3fdGhDWUMAsQ8xd9j2I9vx42rTGu_LXg2wrVXM/pok_tv_s1736_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VB/foJc4LIii8im1wx0KECKFpclWGA-asWRSi3j8IIKc/pok_tv_s1736_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2672109303
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VB/foJc4LIii8im1wx0KECKFpclWGA-asWRSi3j8IIKc/pok_tv_s1736_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "4885e8fb2dd8448f8bf2cc27a623438c",
@@ -669,16 +558,13 @@
             "title": "Укрепление лесной дружбы!",
             "description": "Семейные дрязги внезапно перерастают в прекрасную командную работу!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SIXo-y3YRI8i_LMJ6YjQ4w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fp/biS9vzhKgx_zVL_arXUxclfPgHJH5rvsKl9tO9BCQ/pok_tv_s1737_2997-master-ru-sdt_1080p-5772181a2a2d55f1f5971b95604b4612fd249d9e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fp/biS9vzhKgx_zVL_arXUxclfPgHJH5rvsKl9tO9BCQ/pok_tv_s1737_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EK/xQv4nOdxROLjrBzafiGmWhDUQ4OMnoTlcz7Mk2DG8/pok_tv_s1737_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2768896529
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EK/xQv4nOdxROLjrBzafiGmWhDUQ4OMnoTlcz7Mk2DG8/pok_tv_s1737_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "f986e6bc98784d9ba1a932ca5097a8fc",
@@ -687,16 +573,13 @@
             "title": "Лето открытия!",
             "description": "Первый день Летнего лагеря Покемонов Профессора Сайкамора! Впереди множество веселья и приключений!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-YbmvJh4TZsoakyylCXqPw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Il/JnyoaQPPKWuNgf7i6O_nw3Rw1oS5-Qxt2hw67I888/pok_tv_s1738_2997-master-ru-sdt_1080p-a1541cd223ac4b53437d5702bc3f9eec61cefae1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Il/JnyoaQPPKWuNgf7i6O_nw3Rw1oS5-Qxt2hw67I888/pok_tv_s1738_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h_/qUVXM3Kk91nSIYUAFtvdtt8I-f3pk_DXhwNLWMyVA/pok_tv_s1738_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2536451613
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h_/qUVXM3Kk91nSIYUAFtvdtt8I-f3pk_DXhwNLWMyVA/pok_tv_s1738_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "695c9badc31141e0b22d5318b765956c",
@@ -705,16 +588,13 @@
             "title": "Блокбастеры третьего дня!",
             "description": "Начинается третий день Летнего лагеря Покемонов Профессора Сайкамора. На повестке дня – Покевидение!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aVybrcMRQeAsi1TGLdllWw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gn/MykYSpokwUxneoAESxZDCH45kr6qkya507pVT5KiQ/pok_tv_s1739_2997-master-ru-sdt_1080p-3573f60abfdebe0accdf945839f72d1a4d11390c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gn/MykYSpokwUxneoAESxZDCH45kr6qkya507pVT5KiQ/pok_tv_s1739_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gu/bQL-HJCeu8kBCcHG0OFCemqvwDl_RSms6v06qgt70/pok_tv_s1739_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2587093018
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gu/bQL-HJCeu8kBCcHG0OFCemqvwDl_RSms6v06qgt70/pok_tv_s1739_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "ab26ab0fffcc43b2b92d2cd15d0d2a50",
@@ -723,16 +603,13 @@
             "title": "Ориентирование с Покемонами в тумане!",
             "description": "Проходит пятый день Летнего лагеря Покемонов Профессора Сайкамора. Ориентирование с Покемонами приводит наших героев к загадочному открытию!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qyarD__MQ7IuS0s0V0NKlA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vP/oy2k1dXk6OeZEYrCUOzTDDaGFq5U8ZbKJt0JC_9Ro/pok_tv_s1740_2997-master-ru-sdt_1080p-87647adf09630432ac3ee31b72c147a02e48ffd5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vP/oy2k1dXk6OeZEYrCUOzTDDaGFq5U8ZbKJt0JC_9Ro/pok_tv_s1740_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pV/fcDLMiEpyPeDtmqbObnhAqOrzi2zzuk0ke4T0v_Tg/pok_tv_s1740_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2648307904
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pV/fcDLMiEpyPeDtmqbObnhAqOrzi2zzuk0ke4T0v_Tg/pok_tv_s1740_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "2ff896622bb64f7da6100d84965953c3",
@@ -741,16 +618,13 @@
             "title": "Бой за зал славы!",
             "description": "Наступил последний день Летнего лагеря Покемонов Профессора Сайкамора, и победившая команду будет внесена в зал славы!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/L_iWYiu2T30phANhJZZU8M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fs/9Tnh_XaORikFY7-FYpoBaC6zTFWS__unwTi3N98dU/pok_tv_s1741_2997-master-ru-sdt_1080p-ccdf854235daea3460b74e8fba3393d759782e3d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fs/9Tnh_XaORikFY7-FYpoBaC6zTFWS__unwTi3N98dU/pok_tv_s1741_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0v/2wopfuo-JZR2-4PPQgfvr8V4baDyu03CcLU01gwSg/pok_tv_s1741_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2597176440
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0v/2wopfuo-JZR2-4PPQgfvr8V4baDyu03CcLU01gwSg/pok_tv_s1741_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "03e13ad622a8488db341a519cfe13837",
@@ -759,16 +633,13 @@
             "title": "Истоки Мега-Эволюции!",
             "description": "Наши герои, наконец, прибыли в Шалор-Сити, и Гим-битва Эша с Кориной вот-вот начнётся!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/A-E61iKoSI0s0GlGc_hODc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K5/ldKv6CzHmZirvenOdosbZCCFRgKSYuuxjVd2mHgEs/pok_tv_s1742_2997-master-ru-sdt_1080p-7fc50efe861f5f5413df68d1e7b32dda04d891fe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K5/ldKv6CzHmZirvenOdosbZCCFRgKSYuuxjVd2mHgEs/pok_tv_s1742_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xk/cePZQJOSLT6asq8j3X9fSNN_Ot5STbZKR8Rhn-Rlc/pok_tv_s1742_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2594531748
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xk/cePZQJOSLT6asq8j3X9fSNN_Ot5STbZKR8Rhn-Rlc/pok_tv_s1742_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "e154b4a0f0f045b299f01eec40e7374c",
@@ -777,16 +648,13 @@
             "title": "Время боя в Гиме Шалор!",
             "description": "Долгожданная Гим-битва между Эшем и Кориной начинается! И её стоило ждать!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4VS0oPDwRbImfAe7EDnN0w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7U/UXTPNDMVEJ-S79pt9zLsQWql9imtg2hU1WJIPPcJE/pok_tv_s1743_2997-master-ru-sdt_1080p-acbfdb18503110967f180bc3e85e668d9f42646e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7U/UXTPNDMVEJ-S79pt9zLsQWql9imtg2hU1WJIPPcJE/pok_tv_s1743_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4g/qE1helJV3WR6dqJd4sSWiHl-ssSyteblXA4ntUDP8/pok_tv_s1743_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2633968266
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4g/qE1helJV3WR6dqJd4sSWiHl-ssSyteblXA4ntUDP8/pok_tv_s1743_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "c43d1005df1c49cdafbe4450cc259c7e",
@@ -795,16 +663,13 @@
             "title": "Ссора наследников!",
             "description": "По пути в Кумарин-Сити, место проведения следующей Гим-битвы с участием Эша, наши герои встречают двух братьев, которым предстоит усвоить один урок!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xD0QBd8cSc0r75EUMwlnH4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zo/ZIEbHrhJZrQG-ipUyPHWk88yqGqBIsikVNSWgymaA/pok_tv_s1744_2997-master-ru-sdt_1080p-b3a6efaa25687878f6cc219fa246ece181041b0a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zo/ZIEbHrhJZrQG-ipUyPHWk88yqGqBIsikVNSWgymaA/pok_tv_s1744_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/ehTE_V3NCqYlVEALLocQDmcbzSyylKo7OwjbqePtk/pok_tv_s1744_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2496066278
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/ehTE_V3NCqYlVEALLocQDmcbzSyylKo7OwjbqePtk/pok_tv_s1744_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "4a76b0a176004e2d880cee66c4199d2e",
@@ -813,16 +678,13 @@
             "title": "Плакса справляется с хаосом!",
             "description": "Визит в Центр Покемонов позволяет нашим героям познакомиться с необычным Вигглитаффом!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SnawoXYATi0iAzuZsQZnS4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ca/_EPFCcqXreMZK1AszeBEaFJZLFM4y2bEdkZG9uAg4/pok_tv_s1745_2997-master-ru-sdt_1080p-b95c2145e9a795a8d99bf4a9b2c487f94ce8ea49.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ca/_EPFCcqXreMZK1AszeBEaFJZLFM4y2bEdkZG9uAg4/pok_tv_s1745_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v4/Rs-glBHLqlGZ8UMtOEXkRkFu3zsBCHb_eTz3g-pkE/pok_tv_s1745_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2569790891
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v4/Rs-glBHLqlGZ8UMtOEXkRkFu3zsBCHb_eTz3g-pkE/pok_tv_s1745_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "65865586762449569588b2ea46625a29",
@@ -831,16 +693,13 @@
             "title": "Рождение мечты исполнителя!",
             "description": "Наши герои посещают первое Представление Покемонов, и Серене есть, над чем задуматься!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZYZVhnYkSVYlYiy6kZiWik/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9j/Tcqs53aBVpkWegz0c5V3NLece5mZ56lqdmMpLxJrE/pok_tv_s1746_2997-master-ru-sdt_1080p-3e00bd7f9259b26a023b20b1a45488cf328b55f4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9j/Tcqs53aBVpkWegz0c5V3NLece5mZ56lqdmMpLxJrE/pok_tv_s1746_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BQ/gG1xwFMTGDwxMzAcfqNjvaM3mXYBz5tNhxOGXmRs0/pok_tv_s1746_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2692566529
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BQ/gG1xwFMTGDwxMzAcfqNjvaM3mXYBz5tNhxOGXmRs0/pok_tv_s1746_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "36c1319e3bd84263b8547cda0df312c0",
@@ -849,16 +708,13 @@
             "title": "Школьное воссоединение!",
             "description": "Клемонт посещает место своей учёбы и снова встречается со старыми друзьями!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NsExnjvYQmMuFR82g3zEsA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gr/RXLaRGpU397uOioS87aUXnUlJdbKHSq4DqMJ7VUYE/pok_tv_s1747_2997-master-ru-sdt_1080p-a0960d89ab9096b55a38a3ace90f6b10a197d424.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gr/RXLaRGpU397uOioS87aUXnUlJdbKHSq4DqMJ7VUYE/pok_tv_s1747_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DV/rTc0HgNWhAMvFs2-TV77KdV-ubNGhzHZUWO-smgYw/pok_tv_s1747_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2524608157
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DV/rTc0HgNWhAMvFs2-TV77KdV-ubNGhzHZUWO-smgYw/pok_tv_s1747_2997-master-ru-sdt_1080p.mp4"
         },
         {
             "id": "6e61f7076a2e4857befb01b75fc3b570",
@@ -867,16 +723,13 @@
             "title": "Бонни на защите!",
             "description": "По пути в Кумарин-Сити Бонни знакомится с новыми друзьями. И это сила, с которой стоит считаться!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bmH3B2ouSFcvvsBt1_DtXA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_n/rMRY0V_9efQ0_-5xszDcWR7KI47cVqdHZpHzimIgc/pok_tv_s1748_2997-master-ru-sdt_1080p-dbb2d956736e000f0243d1b6a902c9272e605f07.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_n/rMRY0V_9efQ0_-5xszDcWR7KI47cVqdHZpHzimIgc/pok_tv_s1748_2997-master-ru-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qO/RpptnMjXNZVsRG2MpAzQ-bCFD6Gn1IOWZugxphV-s/pok_tv_s1748_2997-master-ru-sdt_1080p.mp4",
             "captions": "",
-            "size": 2670673851
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qO/RpptnMjXNZVsRG2MpAzQ-bCFD6Gn1IOWZugxphV-s/pok_tv_s1748_2997-master-ru-sdt_1080p.mp4"
         }
     ]
 }

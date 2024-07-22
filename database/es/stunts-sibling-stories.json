@@ -1,18 +1,15 @@
 {
-    "channel_id": "historias-fraternales",
+    "channel_id": "sibling-stories",
     "channel_name": "Historias fraternales",
     "channel_description": "Anima a tus hermanos favoritos en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sibling-stories/sibling-stories-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sibling-stories/sibling-stories-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sibling-stories/sibling-stories-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sibling-stories/sibling-stories-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1649434260,
-    "channel_update_date": 1650036130,
+    "order": -1649434260,
     "media": [
         {
             "id": "d71e8670a6cf481da523b973015a2842",
@@ -21,16 +18,13 @@
             "title": "Combate en Ciudad Plateada",
             "description": "Jessie, James y Meowth cavan una trampa para nuestros héroes, pero ¡son ellos los que acaban cayéndose dentro!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1x6GcKbPSB0pSO5cwFaKEI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/db/2-MNpfRSWEULQGy32vU-qbw6Wx1T8taao6pY-pev4/pok_tv_s0105_2398-master-cas-0c66b9258cd140ca452ff0649c3d04319e70db95.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/db/2-MNpfRSWEULQGy32vU-qbw6Wx1T8taao6pY-pev4/pok_tv_s0105_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mh/6xtBE4wakpBa248EqTvHGw47Z66K8JgCOvJBDdcQY/pok_tv_s0105_2398-master-cas.mp4",
             "captions": "",
-            "size": 2803651480
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mh/6xtBE4wakpBa248EqTvHGw47Z66K8JgCOvJBDdcQY/pok_tv_s0105_2398-master-cas.mp4"
         },
         {
             "id": "37d83fb670fa4a3d81405375ff18308b",
@@ -39,16 +33,13 @@
             "title": "Los combatientes hermanos Eevee",
             "description": "Siguiendo un camino a través del bosque, el grupo llega a un árbol cebado con un plato de comida y agua. Un Eevee está atado al tronco con una cuerda.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/N9g_tnD6Sj0gUBTdf8YMIs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mh/O5BEUKU02AJtQHkG2IJVOQzGsEjnMR3sRsHABqm_g/pok_tv_s0137_2398-master-cas-af525324b294f4287b37abea3988bd6eb9a8d719.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mh/O5BEUKU02AJtQHkG2IJVOQzGsEjnMR3sRsHABqm_g/pok_tv_s0137_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a3/Kel2zW5gs5ajZ6qxPT4KfBAWyorCrzG8BQNXHrk80/pok_tv_s0137_2398-master-cas.mp4",
             "captions": "",
-            "size": 2801064495
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a3/Kel2zW5gs5ajZ6qxPT4KfBAWyorCrzG8BQNXHrk80/pok_tv_s0137_2398-master-cas.mp4"
         },
         {
             "id": "11898c35ec9c49c8b8e288b32e58f081",
@@ -57,16 +48,13 @@
             "title": "Misty la sirena",
             "description": "Uno de los Pokémon de tipo Agua de Misty necesita desesperadamente hacer ejercicio, de modo que la pandilla decide llevar a su Horsea a un Gimnasio que dirigen sus hermanas en Ciudad Celeste.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/EYmMNeycScguOKIsy5Y8IE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vt/DctrC0suTu6Afn7VFmbSoNsdUBKIONIL4m34sBoKU/pokemon_season02_ep06_spa-a3d613a01aed208527c6e9a69ed74af82e8bc4d7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vt/DctrC0suTu6Afn7VFmbSoNsdUBKIONIL4m34sBoKU/pokemon_season02_ep06_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/LbQGXBa32dAXdkNi8YD-71tkiOQIR90ajwolDz-Fc/pokemon_season02_ep06_spa.mp4",
             "captions": "",
-            "size": 2723076332
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/LbQGXBa32dAXdkNi8YD-71tkiOQIR90ajwolDz-Fc/pokemon_season02_ep06_spa.mp4"
         },
         {
             "id": "d5ca7676665d409bb38c5cc74817a1f9",
@@ -75,16 +63,13 @@
             "title": "¡Reforma esta casa con Shuppet!",
             "description": "Ash y sus amigos están perdidos cuando de repente empieza a llover. Consiguen llegar a una mansión y quedan atrapados dentro.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1cp2dmZdQJss4xcx0gXofk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K_/ILvZ1YIXBVc-DLc4ZQCLAzdXKVA8HGNiNajzDbuz8/pok_tv_s0741_2398-master-cas-7fa8e1e634b3ce80bfe678f60aa2a13c296ae4b0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K_/ILvZ1YIXBVc-DLc4ZQCLAzdXKVA8HGNiNajzDbuz8/pok_tv_s0741_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/xRbRMeefH6Yepe0LDSU8DJsjnX1u3bYnFRxMx1thg/pok_tv_s0741_2398-master-cas.mp4",
             "captions": "",
-            "size": 2657350152
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/xRbRMeefH6Yepe0LDSU8DJsjnX1u3bYnFRxMx1thg/pok_tv_s0741_2398-master-cas.mp4"
         },
         {
             "id": "3e14e4d6a2ad4e0992959f36f64412b7",
@@ -93,16 +78,13 @@
             "title": "¡Sólido como un Solrock!",
             "description": "La batalla de Ash contra los Líderes del Gimnasio Algaria está a punto de empezar. Saca a Swellow y a Pikachu contra el Solrock de Vito y el Lunatone de Leti, teniendo en cuenta que utilizarán un extraño campo de combate aéreo lleno de planetas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/PhTk1qKtTgkkpWfNvZEErc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e-/iy1QrHI8qdz5e7JH-T6VV31r93eesn2IC0l5WD0bA/pok_tv_s0808_2398-master-cas-622c664e5323cbc89f40cc54f6afd1aa833fa522.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e-/iy1QrHI8qdz5e7JH-T6VV31r93eesn2IC0l5WD0bA/pok_tv_s0808_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J8/JJKEZhodAcIGYnOZg22YD2Yi9Pzo42nX4kroBoB74/pok_tv_s0808_2398-master-cas.mp4",
             "captions": "",
-            "size": 2689219851
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J8/JJKEZhodAcIGYnOZg22YD2Yi9Pzo42nX4kroBoB74/pok_tv_s0808_2398-master-cas.mp4"
         },
         {
             "id": "b6972a3d39c84163b20b69d5beb3ca77",
@@ -111,16 +93,13 @@
             "title": "Estrategia de Líder derrotado",
             "description": "Justo cuando llegan a Ciudad Rocavelo, Ash y sus amigos ven un alboroto cercano y van hasta donde está: La Líder de Gimnasio Brega y su Lucario, ¡se encuentran inmersos en una intensa sesión de lucha!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tpcqPTnIQWMsgtp1b6zync/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zs/z2jKj1zDgjxEL2byklMIbIlkpcdraQN4qq5HbMGN8/pok_tv_s1114_2398-master-cas-b7331bb1253ebc100b7cf0050816672f60a513e8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zs/z2jKj1zDgjxEL2byklMIbIlkpcdraQN4qq5HbMGN8/pok_tv_s1114_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cS/IW_PyXsvez0ht5mwmzOjqJG4ZboHUsCSD-rJ3uae4/pok_tv_s1114_2398-master-cas.mp4",
             "captions": "",
-            "size": 2628715782
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cS/IW_PyXsvez0ht5mwmzOjqJG4ZboHUsCSD-rJ3uae4/pok_tv_s1114_2398-master-cas.mp4"
         },
         {
             "id": "80b69382a3724b75af9244b7350be137",
@@ -129,16 +108,13 @@
             "title": "¡Una llamada de amor fraternal!",
             "description": "Mientras Ash se prepara para su próximo Combate de Gimnasio contra Yakón, un visitante sorpresa con un dilema ofrece a Ash y a Millo la oportunidad de ayudar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gLaTgqNyS3Ur5JEtzUL4Tc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iz/qaOJ_UFniFhIJfeS13fWUN0-JbLLrFCgX5vPrFvCY/pok_tv_s1510_2997-master-cas-sdt-h264-e00eafc03fd692d3545f33ae5e714556de353f4c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iz/qaOJ_UFniFhIJfeS13fWUN0-JbLLrFCgX5vPrFvCY/pok_tv_s1510_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IS/U9FhVerfSxKvch9H5p0LNCT9idDkXjV3MjqSAwRkM/pok_tv_s1510_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3286817963
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IS/U9FhVerfSxKvch9H5p0LNCT9idDkXjV3MjqSAwRkM/pok_tv_s1510_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "8b0bb72fad7142e1a878805051462ea4",
@@ -147,16 +123,13 @@
             "title": "¡Equipo de Batalla de Dobles tierra aire!",
             "description": "En su viaje a Ciudad Vidriera y la Liga de Teselia, nuestros héroes son desafiados por el camino a una Batalla de Dobles como nunca han experimentado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iwu3L61xQuEqHiAUFFGLqQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kj/cz8Ri8KNtadRZ9q-1PceKOhiGxuzMcwLfJbQM41EQ/pok_tv_s1602_2997-master-cas-6ee7b4f421361a9fd3f810b4a93aefade80f06f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GD/bINv7a1X1apREHOpcRuMMkuqaHWZD1jkX0ET1kOUs/pok_tv_s1602_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_X/kjUKVx0mXS_gORWM_13OjYOemrBWKJ1Sv1cExaJ6c/pok_tv_s1602_2997-master-cas.mp4",
             "captions": "",
-            "size": 2718790369
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_X/kjUKVx0mXS_gORWM_13OjYOemrBWKJ1Sv1cExaJ6c/pok_tv_s1602_2997-master-cas.mp4"
         },
         {
             "id": "68a387ab33ac4839af29e61f25df767f",
@@ -165,16 +138,13 @@
             "title": "¡Por favor, cásate con mi hermanito!",
             "description": "Clem ha estado buscando a alguien que se case con su hermanito mayor, pero ¿qué ocurrirá cuando encuentre a ese alguien?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aKOHqzOsSDkrynmHyXfdn8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/je/dnusEeEyKQHnAvH0UcsoKT4xA2bQbxaznC0If8foY/pok_tv_s1921_2997-master-cas-sdt-v2-h264-6b3ca1d274bbdfea0d5f21ec6fb9289e397918ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/je/dnusEeEyKQHnAvH0UcsoKT4xA2bQbxaznC0If8foY/pok_tv_s1921_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6v/POG_T8XDV9FbIOtSgchnW4mSra_BAWQypzGtFq0Mg/pok_tv_s1921_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3229052669
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6v/POG_T8XDV9FbIOtSgchnW4mSra_BAWQypzGtFq0Mg/pok_tv_s1921_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "5f717534bf0440e3937151fa497ee25c",
@@ -183,16 +153,13 @@
             "title": "¡Determinación familiar!",
             "description": "Un Ultraente ha capturado a Samina y se la ha llevado atravesando un Ultraumbral, pero todos están decididos a rescatarla.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/X3F1NL8EQOMk3FR-kl-4lw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7r/odIBUSPm72dWKGEHsXd2yQb7UGtMcVZN40-qKzS2k/pokemon_season21_ep08_spa-506707ffcf7ecbf096fcd057d00c7ced9a88e300.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eh/NhGvtXq10cohI5RM6O1XOAIpMzdm5ZLO_PYjuXq0s/pokemon_season21_ep08_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4S/CHGaXrzZFCY6bmcicANGmrpHvlPspvfzS-zzjgW0s/pokemon_season21_ep08_spa.mp4",
             "captions": "",
-            "size": 2887025173
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4S/CHGaXrzZFCY6bmcicANGmrpHvlPspvfzS-zzjgW0s/pokemon_season21_ep08_spa.mp4"
         },
         {
             "id": "9ae296b942b54c23b40aca8ac4e45345",
@@ -201,16 +168,13 @@
             "title": "¡Endulzando lo ácido!",
             "description": "Se va a celebrar una gran competición de repostería en Alola, y un sorprendente participante se une al evento.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep28_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep28_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/muKWuUK1TCMtArKisTkU0U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IK/u1DDlE7U0SLAoPgnXQpfkMJqPrr7mSZIfJL92qT6E/pokemon_season21_ep28_spa-ba7f135299048dca755dd1da07d218baa5423b79.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IK/u1DDlE7U0SLAoPgnXQpfkMJqPrr7mSZIfJL92qT6E/pokemon_season21_ep28_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lj/5CnpHKaSVT_0w0heN7TEPGjxPHfdo6B3P1M3bX76k/pokemon_season21_ep28_spa.mp4",
             "captions": "",
-            "size": 2816564255
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lj/5CnpHKaSVT_0w0heN7TEPGjxPHfdo6B3P1M3bX76k/pokemon_season21_ep28_spa.mp4"
         }
     ]
 }

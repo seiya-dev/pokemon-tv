@@ -1,17 +1,15 @@
 {
-    "channel_id": "tv-pokemon-si-colora-di-verde",
+    "channel_id": "green",
     "channel_name": "TV Pokémon si colora di verde",
     "channel_description": "Colora la tua giornata di verde seguendo Ash e Pikachu negli episodi della serie animata dedicati ai Pokémon di questo colore su TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-1125x1500-it.png",
-        "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-960x1277.png",
-        "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-2048x1152.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-2048x1152.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1615569307,
-    "channel_update_date": 1616170558,
+    "order": -1615569307,
     "media": [
         {
             "id": "969911179c2d4d3e864c37fff97cfc9f",
@@ -20,16 +18,13 @@
             "title": "Bulbasaur e il villaggio nascosto",
             "description": "Completamente disorientati, i nostri eroi arrivano in un villaggio non segnato sulla mappa. Questo luogo tranquillo è abitato da Pokémon che hanno sofferto nelle lotte o sono stati abbandonati dai loro Allenatori.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lpkRF5wtTT4hkw3__l8_J8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5F/Ph0cCSuyLKUMXeV7v3_As2_yKEHdjqjdZsI8ezUh0/pok_tv_s0110_2398-master-it-8e684563e79d210c665934ba0e1294caa8092801.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5F/Ph0cCSuyLKUMXeV7v3_As2_yKEHdjqjdZsI8ezUh0/pok_tv_s0110_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EV/zLa8YOOjGBXICYJjbIQVZ-EqAfn11XTFZHW3imQv4/pok_tv_s0110_2398-master-it.mp4",
             "captions": "",
-            "size": 2805012110
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EV/zLa8YOOjGBXICYJjbIQVZ-EqAfn11XTFZHW3imQv4/pok_tv_s0110_2398-master-it.mp4"
         },
         {
             "id": "99ad423a844d473b8833eacdf5a4c294",
@@ -38,16 +33,13 @@
             "title": "Il salvataggio del Chikorita",
             "description": "Sempre sulla strada per Violapoli, Ash si imbatte in un Chikorita selvatico e cerca di catturarlo ma il Pokémon si rivela un avversario più duro del previsto. L’intervento del Team Rocket rende la situazione ancora più ardua…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ma1COoRNRzsiDPqzfWkwpQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rR/i4D6rKB_0B92KlLwqQxiyFZU-_uxghdO2RmNq87kc/pokemon_season03_ep21_ita-2ec593996834466cee2db3229f2e453fd4b64b2f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rR/i4D6rKB_0B92KlLwqQxiyFZU-_uxghdO2RmNq87kc/pokemon_season03_ep21_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MI/igjV8O-a2awKoRSyBIKlY_7x3ftIs2DOtq9grsv1k/pokemon_season03_ep21_ita.mp4",
             "captions": "",
-            "size": 2754224478
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MI/igjV8O-a2awKoRSyBIKlY_7x3ftIs2DOtq9grsv1k/pokemon_season03_ep21_ita.mp4"
         },
         {
             "id": "147682b6248c4726b434e0498b88ea69",
@@ -56,16 +48,13 @@
             "title": "I Pokémon degli alberi",
             "description": "Nel cuore di una foresta, Ash individua un Treecko. Desidera catturarne uno fin da quando ne vide un esemplare nel laboratorio del Prof. Birch.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/FHaCtiSMRyYtDTgSYuI6mk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BC/-k9qItO4GVPn1YYzi_AmTHOhhtgfnwP-lR2sqb8MY/pokemon_season06_ep19_ita-e0843e97e906280fbae03d1fd2e64359e9116c00.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K-/h4UejguN6BqyKahY0JcKsY-dIvvTq3Ce0GFYztGdw/pokemon_season06_ep19_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2b/PMDjmAKoY5U8BVO3pw0r-WSb5_0kMDcXeJMMhI0dY/pokemon_season06_ep19_ita.mp4",
             "captions": "",
-            "size": 2600211522
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2b/PMDjmAKoY5U8BVO3pw0r-WSb5_0kMDcXeJMMhI0dY/pokemon_season06_ep19_ita.mp4"
         },
         {
             "id": "e61dc88b488b4d1a94f18c16caf479cf",
@@ -74,16 +63,13 @@
             "title": "Un Pokémon generoso",
             "description": "Il nuovo piano del Team Rocket per catturare Pikachu fallisce miseramente e il Pokémon finisce per perdersi in una foresta. È trovato da un Turtwig amichevole che lo difende dal Team Rocket, ma che scambia Ash per un altro nemico!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5h3Ii0iLTRolPGMFsr0ec8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S2/Vp2yDGriyuFAQJbQP0yHe-RdatyymFFVFeJDQ6ET0/pok_tv_s1005_2398-master-it-bd9cb47cb19a6a0c5a7599aa1f9f44e42a07206a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S2/Vp2yDGriyuFAQJbQP0yHe-RdatyymFFVFeJDQ6ET0/pok_tv_s1005_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZF/P69BDt4-IlvFjynsKMz-Nm8X1BCAhPcZ5xM_B33JY/pok_tv_s1005_2398-master-it.mp4",
             "captions": "",
-            "size": 2630715396
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZF/P69BDt4-IlvFjynsKMz-Nm8X1BCAhPcZ5xM_B33JY/pok_tv_s1005_2398-master-it.mp4"
         },
         {
             "id": "302320d0fcf6442991448bd18e958e16",
@@ -92,16 +78,13 @@
             "title": "L’esperta di Pokémon Erba",
             "description": "È il momento della sfida nella Palestra di Evopoli tra Ash e il Capopalestra Gardenia, esperta di Pokémon di tipo Erba. La lotta sarà 3 contro 3, partendo dal Turtwig di Ash che se la vedrà con il Cherubi di Gardenia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MCMg0Pz2RCkkUSL0Y6VjhY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YK/AskUQj188uNFsA2o4zEKACdCwlBc5B72peH7A-YnU/pok_tv_s1037_2398-master-it-913294122b52c05b716218575441fe8003dbdb49.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YK/AskUQj188uNFsA2o4zEKACdCwlBc5B72peH7A-YnU/pok_tv_s1037_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/j76HVjyB1e2xjeEb1Kx4Mc9x_EzQNWhTxwXEkqnaI/pok_tv_s1037_2398-master-it.mp4",
             "captions": "",
-            "size": 2645336670
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/j76HVjyB1e2xjeEb1Kx4Mc9x_EzQNWhTxwXEkqnaI/pok_tv_s1037_2398-master-it.mp4"
         },
         {
             "id": "9c23a175e5f9485e95dab8f77c1af72d",
@@ -110,16 +93,13 @@
             "title": "Uno Snivy difficile da catturare!",
             "description": "Sulla strada verso Zefiropoli e la sua seconda lotta in palestra, Ash incontra un incredibile Snivy che si dimostra molto difficile da catturare!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nCOhdeX5SF4ldq493wa9y0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cM/Aq9XlEa_CLJkGGr5fVhNErO6nb2Q6CUA5K2r0QPLI/pokemon_s14_h-264_it_07-d2a2730310d9b2815135d5a9c192568cdec2e216.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cM/Aq9XlEa_CLJkGGr5fVhNErO6nb2Q6CUA5K2r0QPLI/pokemon_s14_h-264_it_07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jF/Qv_f60B4ArUxWgZIKb_8znNlIMXIjjKv10q0Q2qlM/pokemon_s14_h-264_it_07.mp4",
             "captions": "",
-            "size": 1120100310
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jF/Qv_f60B4ArUxWgZIKb_8znNlIMXIjjKv10q0Q2qlM/pokemon_s14_h-264_it_07.mp4"
         },
         {
             "id": "55aad353605f4b5da15009643b370086",
@@ -128,16 +108,13 @@
             "title": "Mega-Mega Meowth-Mania!",
             "description": "I nostri eroi fanno visita al Professor Platan a Luminopoli, ma si imbattono in un insolito avversario di dimensioni mega!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VarTU2BfS10oVAJZDs3AIY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fX/2in4mWHV58Z5B7E-poZsDG4wb1C4ehFZiMIXtbnrY/pok_tv_s1710_2997-master-it-sdt-h264-b6c9eaaa7bcaae78f598b4b30f73450b024e2897.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-f/2SSbcXAn4AxovAk65H1BrI0GTmm5S-bdWA4wJY0YY/pok_tv_s1710_2997-master-it-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qo/ROSQG92lAQ9Upw4V4W6655D6QFpY5yxfNY69p_IDI/pok_tv_s1710_2997-master-it-sdt-h264.mp4",
             "captions": "",
-            "size": 3252259796
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qo/ROSQG92lAQ9Upw4V4W6655D6QFpY5yxfNY69p_IDI/pok_tv_s1710_2997-master-it-sdt-h264.mp4"
         },
         {
             "id": "3916765587314e6db19be992e6dc73aa",
@@ -146,16 +123,13 @@
             "title": "Fame di lotta!",
             "description": "Un piccolo fraintendimento si rivela essere un’opportunità perfetta per rafforzare il legame tra un Pokémon e il suo Allenatore!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ORZ2VYcxTm0sZvpkubcc6o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1J/TDxcGbpQhY_4mzEzyOLLHgPyFn4PUzy3415PucUNU/pok_tv_s1715_2997-master-it-sdt-h264-720414b659281466643d67b9553609611bd85d7e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ex/K5nlM54bGH7fYvu0EKRtj5AndkZ_iOw5DZhgnpLxs/pok_tv_s1715_2997-master-it-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LX/dWEkZOFXchLoj_nIlgNnADYGtapU4ihT0e25rHvQo/pok_tv_s1715_2997-master-it-sdt-h264.mp4",
             "captions": "",
-            "size": 387457739
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LX/dWEkZOFXchLoj_nIlgNnADYGtapU4ihT0e25rHvQo/pok_tv_s1715_2997-master-it-sdt-h264.mp4"
         },
         {
             "id": "71e4a81a1c5747819a5a5c5cce7d3d2e",
@@ -164,16 +138,13 @@
             "title": "Prima cattura ad Alola, in puro stile Ash!",
             "description": "Ash è alla ricerca del suo primo Pokémon della regione di Alola e l’avventura che si ritrova a vivere è in pieno stile Ash!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep04_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep04_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ceSoGhxXR4EmlpcXM59PS4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/nHoaRx9foIXC8Na__a0JLA7eO5oiH41HS85L5tv7k/pokemon_season20_ep04_ita-321b004d4ac9772e6094f354e8de2d4b46e0a083.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/nHoaRx9foIXC8Na__a0JLA7eO5oiH41HS85L5tv7k/pokemon_season20_ep04_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/au/RjrutVrvmkaTFrmutwu6Ikt6tPooSGhqSHTNrKYYY/pokemon_season20_ep04_ita.mp4",
             "captions": "",
-            "size": 2668944335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/au/RjrutVrvmkaTFrmutwu6Ikt6tPooSGhqSHTNrKYYY/pokemon_season20_ep04_ita.mp4"
         },
         {
             "id": "0442b0ab18d1434ba63054751a85bcf1",
@@ -182,16 +153,13 @@
             "title": "L’imitazione è la più sincera delle strategie!",
             "description": "Mentre si preparano alla lotta della Lega Pokémon di Alola contro Hau, Ash e Rowlet ricevono un piccolo aiuto da alcuni vecchi amici.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep40_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep40_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BEKwqxjRQ0spjBUdRqFvPE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HC/lwdB-pw9fsyNJ7SbiR8y1aGfdnttTbxOtPQqXUBLc/pokemon_season22_ep40_ita-5c4a1e6f2eec27ce4e60fc0cf0c5ec3abd6ace62.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HC/lwdB-pw9fsyNJ7SbiR8y1aGfdnttTbxOtPQqXUBLc/pokemon_season22_ep40_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9f/ukv00gp2_hrUj0jN2mbwvkwMeU35He7rGzku39Nm0/pokemon_season22_ep40_ita.mp4",
             "captions": "",
-            "size": 2886009695
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9f/ukv00gp2_hrUj0jN2mbwvkwMeU35He7rGzku39Nm0/pokemon_season22_ep40_ita.mp4"
         },
         {
             "id": "46dbac90194442deaf3920e87b618cc4",
@@ -200,16 +168,13 @@
             "title": "La misteriosa torre degli Ivysaur!",
             "description": "Mentre Ash e Goh si abituano al loro nuovo ruolo di collaboratori di ricerca per il Professor Cerasa, si ritrovano circondati dai misteri e dalle meraviglie del mondo dei Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RtuskBlEQt4rzkg6HthjMQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oT/kC7205gb8H-WIqiz43fMAEZm3cdW25M2sy0EfbKok/it-it-23-03-8e243b8df7fd1bb497c94ade0c12cdf766752af1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oT/kC7205gb8H-WIqiz43fMAEZm3cdW25M2sy0EfbKok/it-it-23-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1P/n1eAJWBNEacsYvaFnimfFRkWqove155MvGlfel8_c/it-it-23-03.mp4",
             "captions": "",
-            "size": 2668300485
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1P/n1eAJWBNEacsYvaFnimfFRkWqove155MvGlfel8_c/it-it-23-03.mp4"
         }
     ]
 }

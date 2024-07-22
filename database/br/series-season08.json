@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-advanced-battle",
+    "channel_id": "season08",
     "channel_name": "Pokémon: Advanced Battle",
     "channel_description": "Ash está se preparando para participar da Liga de Hoenn, mas ainda precisa encarar muitos desafios. Não perca a 8ª temporada de Pokémon, a série na TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1125x1500-br.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1660x940-br.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1660x940-br.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1660x940-br.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 231,
-    "channel_creation_date": 1614961424,
-    "channel_update_date": 1659714164,
+    "order": -8000,
     "media": [
         {
             "id": "e6254693812d4ed6b4e08950a11d8165",
@@ -21,16 +18,13 @@
             "title": "Clamperl da Sabedoria",
             "description": "Nossos heróis reencontram um Spoink azarado que ainda está com problemas para segurar sua pérola!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5iVGk4EtTtYtOCJUKEdgWU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GX/PLMG99p_XdY5PYbye8MwERYiEl3Xjd7C0EXFprAFA/pok_tv_s0801_2398-master-bpo-a8cf3696782819b756a4e5cee6285aed1ab36c57.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GX/PLMG99p_XdY5PYbye8MwERYiEl3Xjd7C0EXFprAFA/pok_tv_s0801_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v-/52RGRorpnM6TGDqJLEjlRvacEE0A8jB73aSk3kTqM/pok_tv_s0801_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2718764842
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v-/52RGRorpnM6TGDqJLEjlRvacEE0A8jB73aSk3kTqM/pok_tv_s0801_2398-master-bpo.mp4"
         },
         {
             "id": "fb90a31eb7454adc9d0ec0bc478f74ed",
@@ -39,16 +33,13 @@
             "title": "O Santuário do Relicário",
             "description": "Ash e seus amigos se unem a um caçador de tesouros para explorar as profundezas do oceano, mas a Equipe Rocket está logo atrás deles!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-5CjHrdFStwnQ7AvEePdO0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zk/EnqRYxEbsBNkf5Xp-YItl3jVw0dOhvRToWVfg2eIU/pok_tv_s0802_2398-master-bpo-9fc0858fb7ae84915dcdf861c18e7b58ce92f578.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zk/EnqRYxEbsBNkf5Xp-YItl3jVw0dOhvRToWVfg2eIU/pok_tv_s0802_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VJ/VBbz1aZSaTd9UM04SKp68xQTno4bQct7xD3G4R_pM/pok_tv_s0802_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2721475548
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VJ/VBbz1aZSaTd9UM04SKp68xQTno4bQct7xD3G4R_pM/pok_tv_s0802_2398-master-bpo.mp4"
         },
         {
             "id": "58b7eeec1a6543199b6cda0cd8ebaac2",
@@ -57,16 +48,13 @@
             "title": "A Guerra Evolutiva",
             "description": "Quando uma rivalidade entre um Gorebyss e um Huntail engloba duas ilhas, nossos heróis precisam chegar até o fundo disso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WLfu7BplQxkm2zaDNjrqsI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2B/jVQfsN-c-Ifd-aWP2teyZ5gGyUywOy0uZe-0sr22g/pok_tv_s0803_2398-master-bpo-5325d67a8697b671d346841ce54cd54daa66bc25.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2B/jVQfsN-c-Ifd-aWP2teyZ5gGyUywOy0uZe-0sr22g/pok_tv_s0803_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/np/MNKc7Tr1tDdLJ_8cgYcGuG2-meXhF_9cYx5nd0EvM/pok_tv_s0803_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2686928354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/np/MNKc7Tr1tDdLJ_8cgYcGuG2-meXhF_9cYx5nd0EvM/pok_tv_s0803_2398-master-bpo.mp4"
         },
         {
             "id": "9f2b5ade81964bc9bd5314f48996a48f",
@@ -75,16 +63,13 @@
             "title": "Malhando Muito",
             "description": "Os residentes da Ilha Músculo são dedicados à boa forma física, mas será que eles aguentam uma batalha Pokémon contra Ash?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nyta3oGWS8kvVMU9ImWpI8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rJ/M7qVmM93PGUiiNJLhbYBjDONh2p37vJdpw89iK5s0/pok_tv_s0804_2398-master-bpo-21652fb112d2613ddb795fa803b25428bc32ff90.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rJ/M7qVmM93PGUiiNJLhbYBjDONh2p37vJdpw89iK5s0/pok_tv_s0804_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7G/Ezj1UF5JrVDHdbiImYW-c8zOC4zvv3zW63jH4IrxI/pok_tv_s0804_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2714488436
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7G/Ezj1UF5JrVDHdbiImYW-c8zOC4zvv3zW63jH4IrxI/pok_tv_s0804_2398-master-bpo.mp4"
         },
         {
             "id": "f420d154734e40b2b2f4cc51fec9fcbe",
@@ -93,16 +78,13 @@
             "title": "Ganhando Groudon",
             "description": "Depois de um resgate no mar, nossos heróis se encontram a bordo do submarino da Equipe Magma e aprendem mais sobre o plano de dominação mundial do grupo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9CDRVHNOQLIsvTMUf7J_L4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ja/O3efVEn8Wr5eC4xIRD0kK9okw7xHVDkZ_BcI5p84o/pok_tv_s0805_2398-master-bpo-345ed0657acf145fe6fba5ebe8ea618c2d6beb0c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ja/O3efVEn8Wr5eC4xIRD0kK9okw7xHVDkZ_BcI5p84o/pok_tv_s0805_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WO/ppC-cBiB587UOoNafKwFiiWZSDD1JQzkiLKv42JWI/pok_tv_s0805_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2719143550
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WO/ppC-cBiB587UOoNafKwFiiWZSDD1JQzkiLKv42JWI/pok_tv_s0805_2398-master-bpo.mp4"
         },
         {
             "id": "034c3bf383da4257877f88ecb243c902",
@@ -111,16 +93,13 @@
             "title": "A Luta das Lendas",
             "description": "A Equipe Aqua e a Equipe Magma despertaram os antigos Pokémon Lendários Groudon e Kyogre! Poderão Ash e seus amigos escaparem?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/A0w784PaQlch3-I7LJDyQI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hG/6-LFqf4lMOyRZ7LEBj-Y2FsB6vUtSFN-CLeTNhQDg/pok_tv_s0806_2398-master-bpo-b55235b1d39f8f20816fdc8ef238ad96673ceb51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hG/6-LFqf4lMOyRZ7LEBj-Y2FsB6vUtSFN-CLeTNhQDg/pok_tv_s0806_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vp/sH5tZ5WXLwACnN6Cds-zDw_I3oIUfCsRqnUrnfz-Y/pok_tv_s0806_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2708465990
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vp/sH5tZ5WXLwACnN6Cds-zDw_I3oIUfCsRqnUrnfz-Y/pok_tv_s0806_2398-master-bpo.mp4"
         },
         {
             "id": "26942d78915f42b6b07df0f5778f59a8",
@@ -129,16 +108,13 @@
             "title": "Ainda é Rocket Roll pra Mim",
             "description": "Um ataque da Equipe Rocket contra a Cidade de Mossdeep arrasta nossos heróis e os Líderes de Ginásio gêmeos da cidade em um plano envolvendo um ônibus espacial!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JpQteJFfQrYsH3w9XePWag/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oj/GI0bVFOOUTOesQjPHffl5YVUR8q4RFM_Fe7JISIis/pok_tv_s0807_2398-master-bpo-3b8f59f19cf28755067c79f4ef983611d6bbc689.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oj/GI0bVFOOUTOesQjPHffl5YVUR8q4RFM_Fe7JISIis/pok_tv_s0807_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mb/Y9He3J_5p3VtjGTks_ieTqmZlkxTmx6peVt84-ubY/pok_tv_s0807_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2718930291
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mb/Y9He3J_5p3VtjGTks_ieTqmZlkxTmx6peVt84-ubY/pok_tv_s0807_2398-master-bpo.mp4"
         },
         {
             "id": "9e24a3a0ad7549f7a472272587380134",
@@ -147,16 +123,13 @@
             "title": "Sólido como um Solrock",
             "description": "Ash desafia o Ginásio de Mossdeep, enfrentando os dois Líderes de Ginásio de uma vez!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/niSjoK11SfcpHInJYc4ATQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pb/T5h1f9qajRyyAJJtfpW-cDLmkQZjLpZ82C-exQ5MM/pok_tv_s0808_2398-master-bpo-a8244ddda706c491c90b4858391e6afb428db0ee.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pb/T5h1f9qajRyyAJJtfpW-cDLmkQZjLpZ82C-exQ5MM/pok_tv_s0808_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iM/k4EXxvjDM5S4NwoiQULt91ZYqmfayIVo1JZhhoaAc/pok_tv_s0808_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2722062840
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iM/k4EXxvjDM5S4NwoiQULt91ZYqmfayIVo1JZhhoaAc/pok_tv_s0808_2398-master-bpo.mp4"
         },
         {
             "id": "2e5a15b2eecc4d5d8824b36f8549c037",
@@ -165,16 +138,13 @@
             "title": "Caso de Vaidade",
             "description": "Após ganhar sua sétima Insígnia de Ginásio, Ash não consegue parar de se gabar de suas habilidades de batalha... até ele encontrar um membro da Elite dos Quatro!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep9_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep9_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LloVsu7MTV0iCSzb4VJwDc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e5/aKRV8W5O3T48bWPy3mwAkbfdrAho47b29GAo6nL2A/pok_tv_s0809_2398-master-bpo-53aed57246d941c23a1153a92ce0ab04387907e7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e5/aKRV8W5O3T48bWPy3mwAkbfdrAho47b29GAo6nL2A/pok_tv_s0809_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_D/K455KHS7JaXZFgiFObSQD7iO943ayOknGn_Yhmkpg/pok_tv_s0809_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2720816178
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_D/K455KHS7JaXZFgiFObSQD7iO943ayOknGn_Yhmkpg/pok_tv_s0809_2398-master-bpo.mp4"
         },
         {
             "id": "a497fdb5e1d441468fa47830e1ef60a1",
@@ -183,16 +153,13 @@
             "title": "Onde está Armaldo?",
             "description": "Em uma reserva ecológica insular, Ash e seus amigos ficam cara a cara com vários Pokémon que acreditava-se estarem extintos!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pJf9teHUQUYj6R4MOHvYKE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LF/ntfbfqqdiOtWQrDBE9vfXPK8xGokPihGTihepH51U/pok_tv_s0810_2398-master-bpo-47113af4bdc4a2cab7be725342ff1d565054b83d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LF/ntfbfqqdiOtWQrDBE9vfXPK8xGokPihGTihepH51U/pok_tv_s0810_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H7/KLVPC6gsJ6dpgpqlz8xShBQDmc29uZfivjnflgEmA/pok_tv_s0810_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2720583881
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H7/KLVPC6gsJ6dpgpqlz8xShBQDmc29uZfivjnflgEmA/pok_tv_s0810_2398-master-bpo.mp4"
         },
         {
             "id": "a0b1784b81554dd5b41593d3e0668570",
@@ -201,16 +168,13 @@
             "title": "O Pior de um Cacturne",
             "description": "May compete em um Concurso Pokémon onde outro Coordenador tenta sabotar sua apresentação!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/oLF4S4FVTdUtBWT0-BmhXA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/96wfn_Ulb7E9mZKZFNlgxBoATZRwuDvKfnF0O2mHc/pok_tv_s0811_2398-master-bpo-e84163109018063b30cea5c71904c339623999a4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/96wfn_Ulb7E9mZKZFNlgxBoATZRwuDvKfnF0O2mHc/pok_tv_s0811_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wj/6LHtwLbZZbX9Y5_8IUBwLJ7kDofAuOIyEu9UTqGAs/pok_tv_s0811_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2723491419
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wj/6LHtwLbZZbX9Y5_8IUBwLJ7kDofAuOIyEu9UTqGAs/pok_tv_s0811_2398-master-bpo.mp4"
         },
         {
             "id": "bb7d53f0b3c7446087116744be432e2c",
@@ -219,16 +183,13 @@
             "title": "O Grande Claydol",
             "description": "Quando nossos heróis descobrem uma Poké bola enorme em uma ilha, a interferência da Equipe Rocket liberta uma antiga força destrutiva!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/u31T8LPHRGAhxFnRL5DLiw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qB/7S_cRGUrlDZCnpl-4hC-hdOM9shKXWaCNmrM6tpyU/pok_tv_s0812_2398-master-bpo-ed1948cd0b7875a33ca30320533b983c7ca6f899.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qB/7S_cRGUrlDZCnpl-4hC-hdOM9shKXWaCNmrM6tpyU/pok_tv_s0812_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ya/Gkn_GQaQBWD4v63vHfUTfvmtjD-yCMbK1nqh19r7w/pok_tv_s0812_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2725297253
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ya/Gkn_GQaQBWD4v63vHfUTfvmtjD-yCMbK1nqh19r7w/pok_tv_s0812_2398-master-bpo.mp4"
         },
         {
             "id": "c3a4a73a4e3d431281471f0f3e2e428f",
@@ -237,16 +198,13 @@
             "title": "Uma Vez uma Mawile",
             "description": "Ash e seus amigos encontram uma Treinadora talentosa que executa uma dança com fita usando o seu Mawile… até a Equipe Rocket entrar no caminho!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/w6SnOk49QxIgUcfDz4uQo8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QF/8J5_1yFgapOcbv_L-ABlW4y0MxnSREQYNklpqHfZg/pok_tv_s0813_2398-master-bpo-5ace2f57315f70332d9eeeb07cd1314f023ca2bc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QF/8J5_1yFgapOcbv_L-ABlW4y0MxnSREQYNklpqHfZg/pok_tv_s0813_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gl/363fcndbFKoXIVDp4uNYx0dy8qqyCKoNHIxkXd6yM/pok_tv_s0813_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2719401896
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gl/363fcndbFKoXIVDp4uNYx0dy8qqyCKoNHIxkXd6yM/pok_tv_s0813_2398-master-bpo.mp4"
         },
         {
             "id": "a16813b002a14ab591913ef6a09ec632",
@@ -255,16 +213,13 @@
             "title": "Implorar, Cavar e Roubar",
             "description": "Para ajudar um pesquisador local, nossos heróis exploram um gigantesco labirinto subterrâneo criado por um grupo de Trapinch… e se metem em encrenca no caminho!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/oWgTsAKhSrUkZE-9qCexjI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G1/GIq4eGW-8sfqsRuewEUfScC-DXJTWd2ZH1bbAekGQ/pok_tv_s0814_2398-master-bpo-2f6f2e993d6c462a4436ef3920a8ff389b7fd4fe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G1/GIq4eGW-8sfqsRuewEUfScC-DXJTWd2ZH1bbAekGQ/pok_tv_s0814_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R3/awF33RIsPR34qVxfBlQm22jJTZA_gMKvIgSoXTpxw/pok_tv_s0814_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2710980878
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R3/awF33RIsPR34qVxfBlQm22jJTZA_gMKvIgSoXTpxw/pok_tv_s0814_2398-master-bpo.mp4"
         },
         {
             "id": "4a187f83ee10446b8b97a9ffdca8a56d",
@@ -273,16 +228,13 @@
             "title": "Absol-uto Desastre",
             "description": "Um Absol aparece para avisar uma vila de um perigo, mas os aldeõs acham que é ele que está causando problemas. Poderão nossos heróis esclarecer esse mal-entendido?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Shh_g-4QRGsi5ep_9yopW0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3L/9p_odm9hhwbrzaZeXnLJ5sBGSFa9-in5JcyMm8Tn8/pok_tv_s0815_2398-master-bpo-53039b604436a698e7d553aed49c1d671e66b685.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3L/9p_odm9hhwbrzaZeXnLJ5sBGSFa9-in5JcyMm8Tn8/pok_tv_s0815_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/52/zrqLf2SVG-WyEqvypD_0vwXIvdRrpJd9izbzrvqW4/pok_tv_s0815_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2718170257
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/52/zrqLf2SVG-WyEqvypD_0vwXIvdRrpJd9izbzrvqW4/pok_tv_s0815_2398-master-bpo.mp4"
         },
         {
             "id": "7075308ed4c14de3b30ac7c08fdbfbf9",
@@ -291,16 +243,13 @@
             "title": "Deixa Nevar, Deixa Nevar, Deixa Snorunt",
             "description": "Quando um Snorunt sapeca rouba as Insígnias de Ginásio que Ash suou tanto para conseguir, ele o persegue direto para uma tempestade de neve!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cHUwjtTBTeMswrHwI_b-_k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gr/aWgHBLFG8rvFTqVxhd7zNpE7JDQFvcG2NmUkGNIuU/pok_tv_s0816_2398-master-bpo-a92eb02d3a7c5cffef381ee2e934c8c39915de93.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gr/aWgHBLFG8rvFTqVxhd7zNpE7JDQFvcG2NmUkGNIuU/pok_tv_s0816_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hS/63k7kc2Zn4IpOfPjw-Z25rKLT2CaUMrqUajEmCfQc/pok_tv_s0816_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2706722696
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hS/63k7kc2Zn4IpOfPjw-Z25rKLT2CaUMrqUajEmCfQc/pok_tv_s0816_2398-master-bpo.mp4"
         },
         {
             "id": "2b15dde9e18443b2aa6005e16bad6197",
@@ -309,16 +258,13 @@
             "title": "Eu Ouvi um Ralts?",
             "description": "Max encontra um Ralts ferido e tenta levá-lo a um Centro Pokémon, mas seus amigos, Gardevoir e Kirlia acham que nossos heróis estão tentando roubá-los!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KxXd6eGEQ7IqmAF4WutYZc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qM/mIQgjWyavZ1ceOLOHtOccTpuXzESOpF7-qZmdo0EY/pok_tv_s0817_2398-master-bpo-380a3cdeaf4a73508031cfcad405debdc44f23a0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qM/mIQgjWyavZ1ceOLOHtOccTpuXzESOpF7-qZmdo0EY/pok_tv_s0817_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cd/HwcMkkq1AANTpN7J5pOKZNpVhlPo3GmbosR2ggaAQ/pok_tv_s0817_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2723452320
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cd/HwcMkkq1AANTpN7J5pOKZNpVhlPo3GmbosR2ggaAQ/pok_tv_s0817_2398-master-bpo.mp4"
         },
         {
             "id": "979d32447be04511a424dd742cf0b348",
@@ -327,16 +273,13 @@
             "title": "A Oitava Insígnia!",
             "description": "Ash se prepara para sua última Insígnia de Ginásio na Região de Hoenn: uma Batalha em Dupla contra o Líder de Ginásio Juan, que costumava ser um Coordenador Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/l50yRHvgRREpCTddCzws0g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BI/M0xyHqe-gG_wnnxN6h3fXbx1wwCGXiOBe41MoE-7k/pok_tv_s0818_2398-master-bpo-a449eb0ab8a3f47a9207fe676c83ff90154828bd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BI/M0xyHqe-gG_wnnxN6h3fXbx1wwCGXiOBe41MoE-7k/pok_tv_s0818_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wb/Ymkpkywknyq1vaBafmr6QAF7RBKNg8DQXkgzRxmTg/pok_tv_s0818_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2712916634
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wb/Ymkpkywknyq1vaBafmr6QAF7RBKNg8DQXkgzRxmTg/pok_tv_s0818_2398-master-bpo.mp4"
         },
         {
             "id": "cf86ca2940b04e14b7e54e3f55d9e16e",
@@ -345,16 +288,13 @@
             "title": "Oito não é o Bastante",
             "description": "Ash e Juan se enfrentam no Ginásio de Sootopolis! Poderá Ash ganhar sua oitava Insígnia de Ginásio para se qualificar para a Liga Hoenn?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/z4bKKUCwThQt-VOP1XZ4W4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mY/QsACBxRQuHtxoCTnFcZ56i3e673qZrpsa9PoBPixY/pok_tv_s0819_2398-master-bpo-ff8a8710d5ef11efb1824ab710612bddf423d68a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mY/QsACBxRQuHtxoCTnFcZ56i3e673qZrpsa9PoBPixY/pok_tv_s0819_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pM/8DtHs7Prjm9Etv0uEBzV350FRlN-TDyNPGxVnCTyQ/pok_tv_s0819_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2720313180
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pM/8DtHs7Prjm9Etv0uEBzV350FRlN-TDyNPGxVnCTyQ/pok_tv_s0819_2398-master-bpo.mp4"
         },
         {
             "id": "cd7d5bce4a644b96976d9150b74df175",
@@ -363,16 +303,13 @@
             "title": "A Revelação de Linoone",
             "description": "Quando May descobre que duas de suas Pokébolas desapareceram, ela logo assume que foi a Equipe Rocket! Mas o culpado pode ser outra pessoa...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zX1bzkpkS5Yl22RULdN8XU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cT/fabdGhoEE3Tuyy3RWrPzGw7hZu57lEKjy6c4Hmpek/pok_tv_s0820_2398-master-bpo-9cf07f2541fb753cf6f7443b5acfdf65bd02831a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cT/fabdGhoEE3Tuyy3RWrPzGw7hZu57lEKjy6c4Hmpek/pok_tv_s0820_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GC/kdht_Q_0kS-qncR60xp22rx0hKjDEHGU0uH-leBAU/pok_tv_s0820_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2698090226
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GC/kdht_Q_0kS-qncR60xp22rx0hKjDEHGU0uH-leBAU/pok_tv_s0820_2398-master-bpo.mp4"
         },
         {
             "id": "c47bc9ee5bf94deb8e08b77b232f0d25",
@@ -381,16 +318,13 @@
             "title": "Quem, O Que, Quando, Onde, Wynaut?",
             "description": "Quando a Equipe Rocket interrompe uma batalha de treinamento entre May e seu rival Drew, nossos heróis e seus Pokémon precisam solucionar uma grande confusão!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xHvJ7lv5Tesjgi3eyMvDSU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Us/O9d-_BcPL__aaNlkmonTBHNGNBFKj3bpr3o5z3TlY/pok_tv_s0821_2398-master-bpo-cd0a0afe83335d9d493f5742e91aba1b3754c681.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Us/O9d-_BcPL__aaNlkmonTBHNGNBFKj3bpr3o5z3TlY/pok_tv_s0821_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8x/4hkHkGLnN88gGg6oZyec_QfOH5FrYL-N3Z8RTcKoA/pok_tv_s0821_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2724680417
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8x/4hkHkGLnN88gGg6oZyec_QfOH5FrYL-N3Z8RTcKoA/pok_tv_s0821_2398-master-bpo.mp4"
         },
         {
             "id": "f6c9ad450b40443aa28dc94768114dac",
@@ -399,16 +333,13 @@
             "title": "Expectativas de Encontro",
             "description": "Nossos heróis são atrasados por um bando de Donphan a caminho da Cidade de Pacifidlog! Poderá May chegar na balsa a tempo para seu último Concurso Pokémon?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9smtRQtARDooo3JR2gRTaw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8q/j7FuUWKHf1eP5owY1dC6iTY6gZP6pYo0Y_Z5HG3_A/pok_tv_s0822_2398-master-bpo-6f1674bdfe5f12d8656b54632bbfab463db595fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8q/j7FuUWKHf1eP5owY1dC6iTY6gZP6pYo0Y_Z5HG3_A/pok_tv_s0822_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/52/jPg_tGsu9jUXJ7AAFsWn-5JZkZXNXWTm20_t363M4/pok_tv_s0822_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2722806186
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/52/jPg_tGsu9jUXJ7AAFsWn-5JZkZXNXWTm20_t363M4/pok_tv_s0822_2398-master-bpo.mp4"
         },
         {
             "id": "befbbd97abcd48f894563b4ef8ec2cb9",
@@ -417,16 +348,13 @@
             "title": "Um Pouco de Inveja",
             "description": "May entra para o Concurso de Pacifidlog, onde ela enfrenta os rivais Joshua e Erica, mais uma competidora misteriosa conhecida apenas como \"Jester\"…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vvu9l6vNSPglFY7TvjsLLk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hd/xlWPc2lQv6sA2hDYtFWS5OVT-73Rw86mO4OZQ1dME/pok_tv_s0823_2398-master-bpo-6a338ffec4f2daa7b15ae8a0bfaf3e529d0f4903.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hd/xlWPc2lQv6sA2hDYtFWS5OVT-73Rw86mO4OZQ1dME/pok_tv_s0823_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ng/boDvSKv6_FEWmdC-3YVQZ5yTiOjYCjWlqjwUmyY0E/pok_tv_s0823_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2704683519
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ng/boDvSKv6_FEWmdC-3YVQZ5yTiOjYCjWlqjwUmyY0E/pok_tv_s0823_2398-master-bpo.mp4"
         },
         {
             "id": "842a389fffea4e43a8f23db3c0f28af1",
@@ -435,16 +363,13 @@
             "title": "Estrago em Pacifidlog",
             "description": "May compete contra um Meowth incomum no segundo round do Concurso de Pacifidlog. Poderá ela ganhar a última fita que ela precisa para entrar no Grande Festival?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hCo4n__qTkMqPI9s8DyivE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8e/bB7ENDFT_XYNrY0ai-Lo4IizwSMbT1-zbIyejxPQU/pok_tv_s0824_2398-master-bpo-a2bcbd0b3bbad4a8ed5712d1c24dd9850dea3a81.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8e/bB7ENDFT_XYNrY0ai-Lo4IizwSMbT1-zbIyejxPQU/pok_tv_s0824_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GU/_tsPJOGyXuMaHlohwOCTVz-WISp-MZKhpqH5abfUk/pok_tv_s0824_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2727401534
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GU/_tsPJOGyXuMaHlohwOCTVz-WISp-MZKhpqH5abfUk/pok_tv_s0824_2398-master-bpo.mp4"
         },
         {
             "id": "874dc01af9254a6db595194fd1bb92d4",
@@ -453,16 +378,13 @@
             "title": "Fruta, Fruta Interessante",
             "description": "Quando nossos heróis descobrem uma maravilhosa colheita de frutas, May aproveita a oportunidade para fazer algumas Pokébarras para o Grande Festival, atraindo a atenção de um Munchlax faminto!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h03AGvklSm0tZUZT9G7ktQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I8/pQYD23ZLE6sVFwUV_OX3Cmp31h1LGGYqzXS553A-o/pok_tv_s0825_2398-master-bpo-e0ca1a25f333b246098b832a8e3ce2626384a168.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I8/pQYD23ZLE6sVFwUV_OX3Cmp31h1LGGYqzXS553A-o/pok_tv_s0825_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XC/18CpYicWBGo8tEJ-qZRj8P1WHD2e6vM0czJvEH6SI/pok_tv_s0825_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2711119405
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XC/18CpYicWBGo8tEJ-qZRj8P1WHD2e6vM0czJvEH6SI/pok_tv_s0825_2398-master-bpo.mp4"
         },
         {
             "id": "73eebf9d77bd47708b63d3b273b696cb",
@@ -471,16 +393,13 @@
             "title": "Morrison não tá com Nada!",
             "description": "Ash conhece Morrison, outro Treinador a caminho de competir na Liga Hoenn, e os dois imediatamente se tornam grandes rivais!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/c-6_nXe9R3Ai2PTsnO2lss/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tp/3KFSlv_SiVSSD9hjgO72gLxHA94LVXFFsExd3s64g/pok_tv_s0826_2398-master-bpo-af8ea5157a9004d10978e17262390576f01422c7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tp/3KFSlv_SiVSSD9hjgO72gLxHA94LVXFFsExd3s64g/pok_tv_s0826_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rH/VTteo55V5mUPTsyzIYc6ZVxwZQI_UqkbZRKlMlaA8/pok_tv_s0826_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2715478140
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rH/VTteo55V5mUPTsyzIYc6ZVxwZQI_UqkbZRKlMlaA8/pok_tv_s0826_2398-master-bpo.mp4"
         },
         {
             "id": "9badf42068984769811d73b3be3e5c7c",
@@ -489,16 +408,13 @@
             "title": "O Sumiço da Taça",
             "description": "A bordo de um cruzeiro de luxo rumo à Cidade de Slateport e o Grande Festival, nossos heróis precisam ajudar a Oficial Jenny a capturar um mestre ladrão!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/m630IGiYR2kgR1zs74-XHw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1_/X_FaXl2HvExqADk2RVsZ8bfv1hhF6tdmY_5MzzJGg/pok_tv_s0827_2398-master-bpo-b8dbb5f4af3bde2e9e3cac587e5097ebe3b42255.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1_/X_FaXl2HvExqADk2RVsZ8bfv1hhF6tdmY_5MzzJGg/pok_tv_s0827_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3H/fvZ8QbANyL1LoiY5y_MyIWJb8aiuQnDrtPY-4ABqQ/pok_tv_s0827_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2710265520
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3H/fvZ8QbANyL1LoiY5y_MyIWJb8aiuQnDrtPY-4ABqQ/pok_tv_s0827_2398-master-bpo.mp4"
         },
         {
             "id": "5b9f64665dcf4f1f98df9fce9c116354",
@@ -507,16 +423,13 @@
             "title": "Hi Ho Vento de Prata!",
             "description": "No primeiro dia do Grande Festival, May encontra seu elusivo rival Harley mais uma vez!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/W59kZl3PTx8mN-fzpwRY1Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6m/ANgaVnjFglfBh6O4NYtVPNAqIP2h2qIvSu2iPIYrk/pok_tv_s0828_2398-master-bpo-265f54fa29925b48fcfff60a92c62b92466021b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6m/ANgaVnjFglfBh6O4NYtVPNAqIP2h2qIvSu2iPIYrk/pok_tv_s0828_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N-/DWq2fouvT6M6dvuyGaMv44NYSve2KJfHylXOf--Wk/pok_tv_s0828_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2684215750
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N-/DWq2fouvT6M6dvuyGaMv44NYSve2KJfHylXOf--Wk/pok_tv_s0828_2398-master-bpo.mp4"
         },
         {
             "id": "50fb490cd8d24d7681cd8fdad5c40e00",
@@ -525,16 +438,13 @@
             "title": "Fraude e Lance",
             "description": "Ash conhece um Coordenador cujas fitas foram roubadas e May ouve uns maus conselhos antes de sua primeira apresentação no Grande Festival!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UPtJDNjSTXYgc2P2tXEDgA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nw/pv6dmnJFOy2Q-Ja338VmnfUGmdchlJOKQVybzIum0/pok_tv_s0829_2398-master-bpo-1ee23fba3107f755233cc1602019b039bb88daef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nw/pv6dmnJFOy2Q-Ja338VmnfUGmdchlJOKQVybzIum0/pok_tv_s0829_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6j/qa4d0aqlaeobirHtNTf42eKNxB8l7RGkGS-98w7yo/pok_tv_s0829_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2686549553
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6j/qa4d0aqlaeobirHtNTf42eKNxB8l7RGkGS-98w7yo/pok_tv_s0829_2398-master-bpo.mp4"
         },
         {
             "id": "16fde1d7ee054fcb9ca49bb8e8efb2ad",
@@ -543,16 +453,13 @@
             "title": "Rapsódia em Drew",
             "description": "May enfrenta Harley no segundo round do Grande Festival! Poderá ela triunfar sobre suas táticas traiçoeiras?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Fv3h1-4FT8snKSbuOjvsq0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/DMYv4ExDYBkukU7Re3II6s-TQYEfG3qdxfccnB-ks/pok_tv_s0830_2398-master-bpo-890d08b8798e684a874486dff5e3105f195795eb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/DMYv4ExDYBkukU7Re3II6s-TQYEfG3qdxfccnB-ks/pok_tv_s0830_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9c/t8Sx6Dzc4f9UlZggppo1n6A7GxEwbA932Zkmn0-Qc/pok_tv_s0830_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2729808740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9c/t8Sx6Dzc4f9UlZggppo1n6A7GxEwbA932Zkmn0-Qc/pok_tv_s0830_2398-master-bpo.mp4"
         },
         {
             "id": "6246775f68404a84a83e96167a50af48",
@@ -561,16 +468,13 @@
             "title": "A Ilha do Tempo",
             "description": "Quando nossos heróis ganham ingressos para a Cidade de Ever Grande para o Campeonato da Liga Hoenn, eles ficam maravilhados... até ficar claro que este é apenas mais um dos planos da Equipe Rocket!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YkZ3X2hASoQqD6WFnpQr0g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tx/86IhDoIFv_WdJqCPklecq0pKcT20snRAZNMH6qeZA/pok_tv_s0831_2398-master-bpo-ceb8fcf65357a28f51b1994e032f392fbbe554a2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tx/86IhDoIFv_WdJqCPklecq0pKcT20snRAZNMH6qeZA/pok_tv_s0831_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_v/IUIzUc1SH3itCXODbw9T1DtvkK0Nb0gEf7Yb5TGdw/pok_tv_s0831_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2724501635
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_v/IUIzUc1SH3itCXODbw9T1DtvkK0Nb0gEf7Yb5TGdw/pok_tv_s0831_2398-master-bpo.mp4"
         },
         {
             "id": "53b06180eb614719a7baf0a419dbb827",
@@ -579,16 +483,13 @@
             "title": "De Meowth para uma Chama",
             "description": "Enquanto treina para a Liga Hoenn, Ash conhece um colega Treinador Tyson e seu Meowth de botas, e eles descobrem que a tocha cerimonial foi roubada!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U7BhgOthRxkp7rwpBnbuCc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D4/vTidcqTcEYRFXD7HXl3EcV76yOEk-wBxhQC_teMQg/pok_tv_s0832_2398-master-bpo-884e5df735caa404989c680cb579adb7054c5fca.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D4/vTidcqTcEYRFXD7HXl3EcV76yOEk-wBxhQC_teMQg/pok_tv_s0832_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/18/KWGQsTgeyK7U2gRksyXdp-LDI5pbMnh2JBWtlVDhc/pok_tv_s0832_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2686181627
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/18/KWGQsTgeyK7U2gRksyXdp-LDI5pbMnh2JBWtlVDhc/pok_tv_s0832_2398-master-bpo.mp4"
         },
         {
             "id": "ff98abf03c874ba3ad075eb4ea2977cf",
@@ -597,16 +498,13 @@
             "title": "Salvo Pelo Beldum",
             "description": "Ash, Morrison e Tyson se inscrevem para a Liga Hoenn, e parece que o Meowth de Tyson tem um passado infeliz...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_5ir8DyHS6MrQdetOopd88/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d1/fv9_oZ4ooQZxmtnBxVs3_vPkSj2S-9AF5tTPQEXCA/pok_tv_s0833_2398-master-bpo-1bf83c330b8fda3d5aa90d0612f41f4225dc3706.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d1/fv9_oZ4ooQZxmtnBxVs3_vPkSj2S-9AF5tTPQEXCA/pok_tv_s0833_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-k/LRzhd5KEN__l5Jw-1c92tAFxDSSjXjQihnTvv9T3Q/pok_tv_s0833_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2717840121
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-k/LRzhd5KEN__l5Jw-1c92tAFxDSSjXjQihnTvv9T3Q/pok_tv_s0833_2398-master-bpo.mp4"
         },
         {
             "id": "c526d92ce74b42739c9939d55abfa199",
@@ -615,16 +513,13 @@
             "title": "Da Vaidade à Riqueza",
             "description": "Nos rounds de qualificação, Ash enfrenta um sério desafio: ele precisa vencer três partidas seguidas, e cada partida é uma Batalha em Dupla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xSbZLOdLQnMnJk51Vq_oZk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pW/8F-47zCUtQEbHCwOaCEINNhH2qNowdwURt1sbfnbY/pok_tv_s0834_2398-master-bpo-1b9eecabef53ff8e9930dd125437ebc12f6315fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pW/8F-47zCUtQEbHCwOaCEINNhH2qNowdwURt1sbfnbY/pok_tv_s0834_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/82/ucdPOq5gBUsOapscZKxb8bnxPDE46mWADfvrAauZE/pok_tv_s0834_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2729622660
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/82/ucdPOq5gBUsOapscZKxb8bnxPDE46mWADfvrAauZE/pok_tv_s0834_2398-master-bpo.mp4"
         },
         {
             "id": "e40028f79d9b4537999684005fac4e09",
@@ -633,16 +528,13 @@
             "title": "Choques e Bônus",
             "description": "Ash consegue passar dos rounds de qualificação, mas agora ele enfrenta uma impressionante Treinadora chamada Katie em uma batalha completa, onde ambos usarão todos os seus seis Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5AAo952bRTcmZaEAF-sTgk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V3/oJbsbOjJ_IqOkA-7x8FonjTIM83VYxgZ_PvpUSIrE/pok_tv_s0835_2398-master-bpo-04f684571e09718b2032e87540ba0dfbee434dc0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V3/oJbsbOjJ_IqOkA-7x8FonjTIM83VYxgZ_PvpUSIrE/pok_tv_s0835_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WE/mFnxd-izXirlCQtOrs-VeIWFt3y1shIVV9NO9tc78/pok_tv_s0835_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2724058489
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WE/mFnxd-izXirlCQtOrs-VeIWFt3y1shIVV9NO9tc78/pok_tv_s0835_2398-master-bpo.mp4"
         },
         {
             "id": "2a04bed422eb4767bc9f9ebd5cae94f6",
@@ -651,16 +543,13 @@
             "title": "O Julgamento de uma Disputa",
             "description": "Ash ficou para trás em sua batalha total contra Katie! Poderá ele se recuperar e conseguir entrar para o segundo round?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KgS-1CLrR2cvJ-evVyulPY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lR/msBZubOIkKSjd05Zf1uLCvybdY8Aeq5X-9-uM6AFY/pok_tv_s0836_2398-master-bpo-b76c6a5421099a84b33607bc1d0429fb76a6e427.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lR/msBZubOIkKSjd05Zf1uLCvybdY8Aeq5X-9-uM6AFY/pok_tv_s0836_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pr/ASHfJWlB8zplaZKNbFlrLm0i5EHf864FSNv93prlo/pok_tv_s0836_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2730868782
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pr/ASHfJWlB8zplaZKNbFlrLm0i5EHf864FSNv93prlo/pok_tv_s0836_2398-master-bpo.mp4"
         },
         {
             "id": "f8937202bd8a48149f38631ecd32985b",
@@ -669,16 +558,13 @@
             "title": "Escolha ou Perca",
             "description": "Ash enfrenta seu amigo e rival Morrison no segundo round da Liga Hoenn!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-JNyAr2KSBQnzhjHs0ymFs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Db/GrCHRAUMeqBbAeLwLF6hfPl7zG7c7lEqzuc_HfnfQ/pok_tv_s0837_2398-master-bpo-a7d7ca4cc7161e87d6a96b772b8e9fcb4b8cf4f5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Db/GrCHRAUMeqBbAeLwLF6hfPl7zG7c7lEqzuc_HfnfQ/pok_tv_s0837_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D_/FXa66QKuQUrVsAAYpvs-HiWdr9ZOJskW0o7OeL-lc/pok_tv_s0837_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2731941372
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D_/FXa66QKuQUrVsAAYpvs-HiWdr9ZOJskW0o7OeL-lc/pok_tv_s0837_2398-master-bpo.mp4"
         },
         {
             "id": "59897e0739424d4db58c21d554f71b83",
@@ -687,16 +573,13 @@
             "title": "No Fim da Luta",
             "description": "Ash enfrenta seu rival Tyson nas quartas de final da Liga Hoenn!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WYl-BzlCTU0tYwh1VT3G4M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/re/2sFeSyGYiOwFWZCyoDoK5G4ThO6J7C3rdYayaNe-0/pok_tv_s0838_2398-master-bpo-61fef86f617cca39313e0fe3d838de622bcbd89b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/re/2sFeSyGYiOwFWZCyoDoK5G4ThO6J7C3rdYayaNe-0/pok_tv_s0838_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uM/B_8mXUfdLrbsYJuFfN5amT154ipN75H9VTOVeIuNk/pok_tv_s0838_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2697823221
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uM/B_8mXUfdLrbsYJuFfN5amT154ipN75H9VTOVeIuNk/pok_tv_s0838_2398-master-bpo.mp4"
         },
         {
             "id": "84d6dfea61bd44e9a1dbe2e39a7b552c",
@@ -705,16 +588,13 @@
             "title": "O Time do Esquema",
             "description": "A Liga Hoenn acabou e é hora de Ash dizer adeus a seus companheiros de viagem e voltar para casa... mas ele não consegue resistir a mais um desafio de um Líder de Ginásio no caminho!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hNbf6mG9ROkodvi45p7VSw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FE/FCmNRaRLlArPXsT_CLAoMscxZNM5Wo_-R8S_nqA2E/pok_tv_s0839_2398-master-bpo-811252c3f74b3c43f5872f8587b386ee43987add.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FE/FCmNRaRLlArPXsT_CLAoMscxZNM5Wo_-R8S_nqA2E/pok_tv_s0839_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P6/B2HEUx3y8G9CerhfJrIsu8rf94zjE6Q8JuYRrKpIY/pok_tv_s0839_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2712394324
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P6/B2HEUx3y8G9CerhfJrIsu8rf94zjE6Q8JuYRrKpIY/pok_tv_s0839_2398-master-bpo.mp4"
         },
         {
             "id": "ba757719eba840ee9759f9a4bfa9c280",
@@ -723,16 +603,13 @@
             "title": "O Lugar Certo e o Mime Certo",
             "description": "Max e May visitam Ash na Cidade de Pallet, juntos de Misty e Brock, e todos fazem planos para outra jornada juntos—dessa vez, para a Batalha da Fronteira!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/unV3GeuoQO4l1n5pL-pwoA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jC/5ObawdvpeLqY_owoeKoEnFtf7wIqLFWpOod0UXSc0/pok_tv_s0840_2398-master-bpo-33344985c98c9a5e244f17d981db2c505f72060b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jC/5ObawdvpeLqY_owoeKoEnFtf7wIqLFWpOod0UXSc0/pok_tv_s0840_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/Nf3W9MeCqkEBR1koqAFwg9VbWTOXeAaIqkJe9ZMgY/pok_tv_s0840_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2717258573
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/Nf3W9MeCqkEBR1koqAFwg9VbWTOXeAaIqkJe9ZMgY/pok_tv_s0840_2398-master-bpo.mp4"
         },
         {
             "id": "35063065ffe640ffb9241008b2642783",
@@ -741,16 +618,13 @@
             "title": "Uma Verdadeira Ajuda do Cleffa",
             "description": "Nossos heróis param para um piquenique na base do Mt. Lua, onde eles encontram os raramente vistos Cleffa, Clefairy e Clefable!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NQYwZf_mQP8uSQQCLJkJ4M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o1/8jwQ9zhvE1rRCiqNnUYw2QHv_3TE5MrucbCPV1gUQ/pok_tv_s0841_2398-master-bpo-551918ffe3010928ddb5b8b4a065f4d18bc988a9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o1/8jwQ9zhvE1rRCiqNnUYw2QHv_3TE5MrucbCPV1gUQ/pok_tv_s0841_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3m/uE0xwOO2zwugacbLHNdA24TmwwVfokkoSsePKz-tA/pok_tv_s0841_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2688730776
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3m/uE0xwOO2zwugacbLHNdA24TmwwVfokkoSsePKz-tA/pok_tv_s0841_2398-master-bpo.mp4"
         },
         {
             "id": "500530544fbd47aca0fb8f1cb5234c1a",
@@ -759,16 +633,13 @@
             "title": "Articuno, O Número Um",
             "description": "A caminho da primeira partida de Ash na Batalha da Fronteira, nossos heróis vêem o Pokémon Lendário Articuno voando em uma tempestade de neve!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UAUwVE-9R6woPuPHLUjTBo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RP/vKgBNNuj9HOZm599_IalXeOXXo91QcLzPRTFuOcM4/pok_tv_s0842_2398-master-bpo-a4462a71b00b38e4cbdd4685528dcd19d013c233.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RP/vKgBNNuj9HOZm599_IalXeOXXo91QcLzPRTFuOcM4/pok_tv_s0842_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6A/mHzfOCJfw3dOw2wrAb31_pH_HTsO_8NWRDWWO4cJ4/pok_tv_s0842_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2687052613
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6A/mHzfOCJfw3dOw2wrAb31_pH_HTsO_8NWRDWWO4cJ4/pok_tv_s0842_2398-master-bpo.mp4"
         },
         {
             "id": "9d4ce22c83ca4322bd40069f6c3a1cd3",
@@ -777,16 +648,13 @@
             "title": "O Símbolo da Vida",
             "description": "Ash chama seu velho amigo Charizard para ajudar em sua batalha contra o Cérebro da Fronteira Noland e seu amigo Articuno!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nUziLIPKQyIvUAGn2w6HNM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/qzlcKksrrjAAKF5if5a4a9dBZL5S0-NzBQROgQH7s/pok_tv_s0843_2398-master-bpo-3fca20a024bf2858962e6e8e7b9c7f10340157e2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/qzlcKksrrjAAKF5if5a4a9dBZL5S0-NzBQROgQH7s/pok_tv_s0843_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CO/2F_eXOAklF4b7LcrySkqpQASvI1ShYcp0Up9A7c2E/pok_tv_s0843_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2704018398
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CO/2F_eXOAklF4b7LcrySkqpQASvI1ShYcp0Up9A7c2E/pok_tv_s0843_2398-master-bpo.mp4"
         },
         {
             "id": "623481782d014f2b9dd089e929c34346",
@@ -795,16 +663,13 @@
             "title": "Obcecado por um Onix",
             "description": "Provocados pela Equipe Rocket, hordas de Pokémon Tipo-Pedra atacam nossos heróis a caminho da Arena de Batalha!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YjSBeC0BTysndCJ6SnDQ0Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ri/N_inyNKsJS4QyOYGs6GbQQYD_sE9c39-Ko8tLtPJg/pok_tv_s0844_2398-master-bpo-30a862451fbce01c89b20e400cd8db039874f202.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ri/N_inyNKsJS4QyOYGs6GbQQYD_sE9c39-Ko8tLtPJg/pok_tv_s0844_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/08/34nC37QKLvrXCm9O4yUvmBYyMQanL7yxzZvbRLYfw/pok_tv_s0844_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2711974126
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/08/34nC37QKLvrXCm9O4yUvmBYyMQanL7yxzZvbRLYfw/pok_tv_s0844_2398-master-bpo.mp4"
         },
         {
             "id": "f5800a229c8b494d9ce122aa1591d675",
@@ -813,16 +678,13 @@
             "title": "Bruto, Brigão Jigglypuff",
             "description": "Ash e seus amigos caem numa armadilha armada por um homem que quer capturar um Jigglypuff para o aniversário de sua filha!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9YAKIpyLSU0nOEiqhWR1nU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/KHUXzAk43BKIWyA_CUaS-BbpMk-wOV-YvASkWyeSA/pok_tv_s0845_2398-master-bpo-4bd2220f55400e2b01c7b0a5bd9fa19100a32eeb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/KHUXzAk43BKIWyA_CUaS-BbpMk-wOV-YvASkWyeSA/pok_tv_s0845_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0i/VoVCRLaMAbLGyyZPfDGjxeRLTXlYIr9fqNnRsnzTg/pok_tv_s0845_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2719547922
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0i/VoVCRLaMAbLGyyZPfDGjxeRLTXlYIr9fqNnRsnzTg/pok_tv_s0845_2398-master-bpo.mp4"
         },
         {
             "id": "87319f8d77fd4cff963f90700eafebfc",
@@ -831,16 +693,13 @@
             "title": "Acima das Nuvens, Arcanine",
             "description": "May e seu rival Drew vão atrás do mesmo Arcanine, ambos esperando capturá-lo para seu próximo Concurso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hzGfjXf9TP8lj-QcA6v6_w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fl/yf07tEyzf0-LWJya82CM4RkY3oMBRTStalRF4wlsg/pok_tv_s0846_2398-master-bpo-405b37c075e103ca6189396f4be9521853f301c2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fl/yf07tEyzf0-LWJya82CM4RkY3oMBRTStalRF4wlsg/pok_tv_s0846_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vr/Hyjhay6TxEhfjOfsSq9sPGEyNbV-YgoMu8jp4vphQ/pok_tv_s0846_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2686480653
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vr/Hyjhay6TxEhfjOfsSq9sPGEyNbV-YgoMu8jp4vphQ/pok_tv_s0846_2398-master-bpo.mp4"
         },
         {
             "id": "76cb3b9efbae436faedd96e7509e933f",
@@ -849,16 +708,13 @@
             "title": "O Indefeso Psyduck",
             "description": "Ash e seus amigos resgatam um triste Psyduck de um grupo de Tipo-Lutador, mas eles não fazem ideia de como animá-lo…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dss7nvuuQ28rt2W51Cekz8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/3bM0hShFo5VFiK1QOklb11m6dJd395bce9swUIrC4/pok_tv_s0847_2398-master-bpo-39ec60c53add3b0daa959c2bc29fc21eeb73020b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/3bM0hShFo5VFiK1QOklb11m6dJd395bce9swUIrC4/pok_tv_s0847_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nF/e8c9ckUk3dUaC59oZ4D4c1yd0AKpoCGwz6bsZvPIg/pok_tv_s0847_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2720022028
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nF/e8c9ckUk3dUaC59oZ4D4c1yd0AKpoCGwz6bsZvPIg/pok_tv_s0847_2398-master-bpo.mp4"
         },
         {
             "id": "42bc21270ef845e5bc83dd7d05a4a2d3",
@@ -867,16 +723,13 @@
             "title": "Salve o Chefe!",
             "description": "Nossos heróis e a Equipe Rocket visitam um novo restaurante comandado por duas irmãs que não param de brigar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QrwhJw74ReUvIPdfQWkotM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LA/xPcO7ArLMHi3xziPIkup_XC9FhXOSHA0xi3mNt-TU/pok_tv_s0848_2398-master-bpo-0fb54bbcb353ea201f9aec1c5079fc0ac3628736.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LA/xPcO7ArLMHi3xziPIkup_XC9FhXOSHA0xi3mNt-TU/pok_tv_s0848_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UY/1jdJEm8OlfkcU6ISf4YkBn0pE4uf_KyNZ2pe9HkgY/pok_tv_s0848_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2719007768
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UY/1jdJEm8OlfkcU6ISf4YkBn0pE4uf_KyNZ2pe9HkgY/pok_tv_s0848_2398-master-bpo.mp4"
         },
         {
             "id": "033fe6c358eb43ec8dc0da6ceb91cf7a",
@@ -885,16 +738,13 @@
             "title": "O Grande Dilema de Caterpie",
             "description": "Depois de um experimento científico dar errado, Ash e seus amigos tentam rastrear um Caterpie  que cresceu em um tamanho desproporcional!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Az_mw1jrQ-wjcDabOuRz3o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nh/BSzY-ILAsTM5cDHcKRSVizEXZxMzQiGlRnT1mZkBU/pok_tv_s0849_2398-master-bpo-d910a2fb82afec68c93ff81e31d7d3e8d1e3c5a8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nh/BSzY-ILAsTM5cDHcKRSVizEXZxMzQiGlRnT1mZkBU/pok_tv_s0849_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NJ/X_iObLPeR-DokfTh51oaECZESMxnSneVTRWvbmh68/pok_tv_s0849_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2720304234
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NJ/X_iObLPeR-DokfTh51oaECZESMxnSneVTRWvbmh68/pok_tv_s0849_2398-master-bpo.mp4"
         },
         {
             "id": "3a7b9a9ed22f4722a16d038053e2ff43",
@@ -903,16 +753,13 @@
             "title": "O Torneio de Saffron",
             "description": "Nossos heróis estão na Cidade de Saffron para o primeiro Concurso Pokémon de May na Região de Kanto—e seu suspeito rival Harley também está competindo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OnuantIvRyIoW0DgFPi_0M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TL/4Nlr4ZvKvh3uJm68wAKRE_g6BqOK6M3gCcDOFQJXw/pok_tv_s0850_2398-master-bpo-cf4d53cfe85f4c68f7a210e0a4e684e3acc2830d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TL/4Nlr4ZvKvh3uJm68wAKRE_g6BqOK6M3gCcDOFQJXw/pok_tv_s0850_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JE/CQaUeClPOLeqFfA-HCTO9bNXIsZimUkrgPBG4BWTs/pok_tv_s0850_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2719549761
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JE/CQaUeClPOLeqFfA-HCTO9bNXIsZimUkrgPBG4BWTs/pok_tv_s0850_2398-master-bpo.mp4"
         },
         {
             "id": "6ab7936ba50e4e64bf97d60d29435b7a",
@@ -921,16 +768,13 @@
             "title": "Um Obstáculo para Squirtle",
             "description": "O Concurso Pokémon de Saffron começou! Será que May vai ganhar sua primeira fita na Região de Kanto?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/areTa6UOTmQv5fWDSlDW3o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F1/Q7-ylIRnzpRs4ujCv2CdC9rtDErUTzQl5_ssB-VY8/pok_tv_s0851_2398-master-bpo-7ffbe10a72ba5a093fa8fa690498046e93a93545.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F1/Q7-ylIRnzpRs4ujCv2CdC9rtDErUTzQl5_ssB-VY8/pok_tv_s0851_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/JjKNvxAW9m5J0RPYVtSJ-vsKN0qUijuEXsNTmkNHI/pok_tv_s0851_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2717817607
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/JjKNvxAW9m5J0RPYVtSJ-vsKN0qUijuEXsNTmkNHI/pok_tv_s0851_2398-master-bpo.mp4"
         },
         {
             "id": "1b0ef84328a94398b9f1aaf5f6021087",
@@ -939,16 +783,13 @@
             "title": "Pasta la Vista!",
             "description": "Ash visita o Dojo para Tipos Lutadores na Cidade de Saffron e acaba sendo recrutado como um novo aluno!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Gw74QyipQ5gufGq9fYCEIc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wL/Gm78sN1a8ID3yL59NAjYa412rvz1tr4xzotVZbPsg/pok_tv_s0852_2398-master-bpo-85efbd7043ad165ca29d6baca9e24e335f92b2ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wL/Gm78sN1a8ID3yL59NAjYa412rvz1tr4xzotVZbPsg/pok_tv_s0852_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sz/0Uxs_sp77aAY7aMUfUL3G4GYmRjqoIiTTUhvQ60eI/pok_tv_s0852_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2722543881
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sz/0Uxs_sp77aAY7aMUfUL3G4GYmRjqoIiTTUhvQ60eI/pok_tv_s0852_2398-master-bpo.mp4"
         }
     ]
 }

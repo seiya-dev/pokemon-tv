@@ -1,18 +1,15 @@
 {
-    "channel_id": "mysteres-pokemon",
+    "channel_id": "mysteries",
     "channel_name": "Mystères Pokémon",
     "channel_description": "Mystères et superstitions à l’honneur sur TV Pokémon !",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1125x1500-fr.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1660x940-fr.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1660x940-fr.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1660x940-fr.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 4,
-    "channel_creation_date": 1652462386,
-    "channel_update_date": 1653024009,
+    "order": -1652462386,
     "media": [
         {
             "id": "158a063372bf4204b80b69cd0e9c40e6",
@@ -21,16 +18,13 @@
             "title": "Le mystère du phare",
             "description": "Une ombre imposante se dessine dans la brume maritime, mais cette éventuelle découverte risque d'être entravée par l'infâme Team Rocket, qui mijote un autre de ses plans machiavéliques.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FYoGM3K_QgQuAtpzQ6cQOY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w6/oEhKu0DaEbBaW7YUqUVeyeg9AfsyKgBjJILr8WuBs/pok_tv_s0113_2398-master-fr-f2ba328bf87e01ef928d3588f655d5cac588b179.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w6/oEhKu0DaEbBaW7YUqUVeyeg9AfsyKgBjJILr8WuBs/pok_tv_s0113_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A3/RGyJsN5UhoamVcYNdNA7Ic9i9Mk43W_dG1xWeiGx8/pok_tv_s0113_2398-master-fr.mp4",
             "captions": "",
-            "size": 2785881451
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A3/RGyJsN5UhoamVcYNdNA7Ic9i9Mk43W_dG1xWeiGx8/pok_tv_s0113_2398-master-fr.mp4"
         },
         {
             "id": "f0c8697b527a4d6c843f827f976e2544",
@@ -39,16 +33,13 @@
             "title": "La menace mystérieuse",
             "description": "Sacha et ses amis finissent par atteindre la ville de Tartofoupolis, qui doit les mener directement à l'Île Tartofou et à la prochaine Arène de la Ligue Orange !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8Mhpe1J6TWwhD-Cf5duJUQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yl/os84phOSH7ptAXfeiWiw3zb5C5oVFgCppHDTwLwPw/pokemon_season02_ep49_fre-8d91c1169f235a210e3e3f822e17e86c00aaa943.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yl/os84phOSH7ptAXfeiWiw3zb5C5oVFgCppHDTwLwPw/pokemon_season02_ep49_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/Fmp4vNcMdGq1KW2NUY666JK9iLqgBoFOI4Nl0HK9Y/pokemon_season02_ep49_fre.mp4",
             "captions": "",
-            "size": 2663127350
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/Fmp4vNcMdGq1KW2NUY666JK9iLqgBoFOI4Nl0HK9Y/pokemon_season02_ep49_fre.mp4"
         },
         {
             "id": "418f9766c26c4d9882ac7bf0237ae1e9",
@@ -57,16 +48,13 @@
             "title": "La source de leurs ennuis",
             "description": "Le groupe se dirige vers Clémenti-Ville pour que Sacha puisse décrocher son cinquième Badge. Nos amis tombent dans un nouveau piège de la Team Rocket, qui cherche à s'emparer de Pikachu, mais ils sont sauvés par un Solaroc sauvage.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QY-XZsJsTZggqx78CN64ek/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gD/arjZeZ5U5UpZuh8hoIXRBr8B2GwcrKdyARfVs7kx0/pok_tv_s0723_2398-master-fr-dbde7bc77656a8dcd070b9c0f02f3d0264a4ebe0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7S/nbLsHsu1ndtJYoKReIr5tyg53dW1SGsgwtfSCvoAo/pok_tv_s0723_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/yzn7oIRcaxfBQaiRqmFjZhtr4qMwyo8zcyU2T7wx0/pok_tv_s0723_2398-master-fr.mp4",
             "captions": "",
-            "size": 2690699988
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/yzn7oIRcaxfBQaiRqmFjZhtr4qMwyo8zcyU2T7wx0/pok_tv_s0723_2398-master-fr.mp4"
         },
         {
             "id": "b579536e27db45ac9826bb9172c9744b",
@@ -75,16 +63,13 @@
             "title": "Le Pokémon mystérieux",
             "description": "Ken et Mary du Club des Pokémon Mystérieux sont de nouveau à la recherche d'un Pokémon extraterrestre et se rendent sur les lieux où une météorite s'est écrasée.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tXlTbifbRawmCa7kXLJdEs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ib/76sCUK-NuMvME7Jco3ZzZjNWNdF2fU_nDv7HPkwtE/pok_tv_s0747_2398-master-fr-96c830c15d03f74721b14c9a88a931e667c2fc59.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/21/dzxqMS0OUPz16g-bQUyy6H3DJSRghYTPuCfxNmhmw/pok_tv_s0747_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/78T1unr2PF1TUZ1E7Om3bCfUneStikpO8CEZ2W5K8/pok_tv_s0747_2398-master-fr.mp4",
             "captions": "",
-            "size": 2687591535
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/78T1unr2PF1TUZ1E7Om3bCfUneStikpO8CEZ2W5K8/pok_tv_s0747_2398-master-fr.mp4"
         },
         {
             "id": "f807472e5cb04e7bb2e669616f485b71",
@@ -93,16 +78,13 @@
             "title": "Absol-ument un désastre",
             "description": "Alors que Sacha approche de la prochaine ville sur l'Île d'Izabe, une crue soudaine de la rivière détruit le pont qu'il s'apprêtait à traverser. Un Absol est repéré dans les débris et les habitants locaux se précipitent pour le capturer.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-AdHLlywTnssuZpYW9IW3E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PD/UcJ2oEQY23llo98z4Znnxj54oZRtZzc4PGIEsuPVM/pok_tv_s0815_2398-master-fr-f33f054ed48bf67101e9637b5750a429b50eac20.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PD/UcJ2oEQY23llo98z4Znnxj54oZRtZzc4PGIEsuPVM/pok_tv_s0815_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zA/eits3tS1iZ1yirCCLILxVJWXpAhE_oREtvQwPvJVw/pok_tv_s0815_2398-master-fr.mp4",
             "captions": "",
-            "size": 2721169099
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zA/eits3tS1iZ1yirCCLILxVJWXpAhE_oREtvQwPvJVw/pok_tv_s0815_2398-master-fr.mp4"
         },
         {
             "id": "d14b6ffffded4964b14978e256a3fef4",
@@ -111,16 +93,13 @@
             "title": "Esprit maléfique",
             "description": "Nos héros continuent leurs études à l'Académie d’Été Pokémon, où une rencontre avec des Pokémon de type Spectre s'avère éprouvante pour Sacha et son nouveau rival Angie.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0Utv__3tSWQsUl44laj_vQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ug/Z3-KistDvT6egPy1DfwfTk3TXnbJYiw6cHRKYUIK8/pok_tv_s1138_2398-master-fr-7146c874f795af04e0b3b8c8841772cf0a07b870.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ug/Z3-KistDvT6egPy1DfwfTk3TXnbJYiw6cHRKYUIK8/pok_tv_s1138_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uH/MZlsKPPUSzVNRZjAjdvOFw7c8XqUt2Ks6OJMx2VbU/pok_tv_s1138_2398-master-fr.mp4",
             "captions": "",
-            "size": 2655119431
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uH/MZlsKPPUSzVNRZjAjdvOFw7c8XqUt2Ks6OJMx2VbU/pok_tv_s1138_2398-master-fr.mp4"
         },
         {
             "id": "4f54e6cc3a134f88a5e6d01dc5a50ba3",
@@ -129,16 +108,13 @@
             "title": "Un mystère de taille !",
             "description": "Le Festival de Bonaugure touche à sa fin, mais avant que l'événement ne se termine, nos amis doivent encore régler quelques affaires !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/T1TmzDoTT4gpebQHcWlC6M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ht/v2CL8vCzrIpdG46-DDr7xx5nYMVxAuCla6vwxOtZc/pok_tv_s1235_2997-master-fr-31742d3297150a719bda8df3f32571ef6a583153.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ec/GLC3YMojpTADwIfmPLLf5JhiHQiMIlpp7UDaT9mwA/pok_tv_s1235_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0A/kcbp1pCcBdREVZPpQiltxC9ehSD0JmWOuP8L4h9jw/pok_tv_s1235_2997-master-fr.mp4",
             "captions": "",
-            "size": 2694079445
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0A/kcbp1pCcBdREVZPpQiltxC9ehSD0JmWOuP8L4h9jw/pok_tv_s1235_2997-master-fr.mp4"
         },
         {
             "id": "7d5e421c423c49f39b5256a5ef8a4c47",
@@ -147,16 +123,13 @@
             "title": "Une nuit au Musée de Maillard !",
             "description": "En arrivant à Maillard, nos héros découvrent que l’Arène se trouve dans un lieu inattendu et dans une situation encore plus étrange !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fV5CHEI8SfMm1JWpe-KTEc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N-/rbkdDqCA83M8JkrnfVjOiFH4YfKQ7F9Kf0iK8YPS8/pok_tv_s1414_2997-master-fr-une-nuit-au-mus-e-de-maillard---b4040bb9e094427464097ee5d78aff14450f4f46.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mT/g_NHvCZ8V3j1JADUTmVX1CRpJeXW3SRhWB37vW834/pok_tv_s1414_2997-master-fr-une-nuit-au-mus-e-de-maillard--.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/jftXJRaDRhBExC-5IA2WevfCE7_9jSDcFSWgLxN3k/pok_tv_s1414_2997-master-fr-une-nuit-au-mus-e-de-maillard--.mp4",
             "captions": "",
-            "size": 3219441533
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/jftXJRaDRhBExC-5IA2WevfCE7_9jSDcFSWgLxN3k/pok_tv_s1414_2997-master-fr-une-nuit-au-mus-e-de-maillard--.mp4"
         },
         {
             "id": "3687ef6512c0429f9c02dc926da92b01",
@@ -165,16 +138,13 @@
             "title": "Un ovni pour Lewsor !",
             "description": "En route vers l’Arène de Méanville, nos héros aperçoivent un mystérieux OVNI et un curieux Pokémon, aux origines plus mystérieuses encore !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NofvZRLAQp8nALckm2pKwE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X6/-pWVJeMoqqpFuDAIzOrFzkH_IgTaKUeZ2SzcLz-h8/pok_tv_s1433_2997-master-fr-un-ovni-pour-lewsor---091d212f0e8fe006fef8747db66c2ce48eced0d3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X6/-pWVJeMoqqpFuDAIzOrFzkH_IgTaKUeZ2SzcLz-h8/pok_tv_s1433_2997-master-fr-un-ovni-pour-lewsor--.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/du/OHiKW_SAVykKrM4k7n1gcGks7nD9FjtLUecMDhKNg/pok_tv_s1433_2997-master-fr-un-ovni-pour-lewsor--.mp4",
             "captions": "",
-            "size": 2706512902
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/du/OHiKW_SAVykKrM4k7n1gcGks7nD9FjtLUecMDhKNg/pok_tv_s1433_2997-master-fr-un-ovni-pour-lewsor--.mp4"
         },
         {
             "id": "cb2b5604303f40a3baa762709965bca6",
@@ -183,16 +153,13 @@
             "title": "Le mystère du Polarhume disparu !",
             "description": "Tandis que nos héros s'entraînent pour la Coupe Junior du Pokémon World Tournament, un petit voisin très inquiet vient leur demander de l'aide.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yytWBDA_QKMuqdicJllvKY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9h/PYe4u-SMmCu2LDshdZiGLD0Hvx25kloMZVhW5gFBY/pok_tv_s1540_2997-master-fr-d3251ff224c3833045195e78317ddd41a9460793.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xR/z6sZkEwOnflaGsivLVuHawNTB7C00LJnwTwf23yHM/pok_tv_s1540_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N5/HQvyBUtfzglMDsTbNuh-ZdgX0pC4sgiKXPq7iyiQU/pok_tv_s1540_2997-master-fr.mp4",
             "captions": "",
-            "size": 3288192467
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N5/HQvyBUtfzglMDsTbNuh-ZdgX0pC4sgiKXPq7iyiQU/pok_tv_s1540_2997-master-fr.mp4"
         },
         {
             "id": "36d834dd914042a1b51d8ced68b891af",
@@ -201,16 +168,13 @@
             "title": "Rachid et l'affaire du Chacripan témoin !",
             "description": "Nos héros continuent leur croisière d'île en île, quand un vol a lieu à bord. C’est l’occasion pour un super Connaisseur Détective de mener l'enquête !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ntg03ZFAQqEtR2M7Wi4ka8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E1/30hD1ZRJ3Bq7n9zR86o1oi6pRPloKWfCxVXCkMfJw/pok_tv_s1628_2997-master-fr-88e2f14d859714a3e7af23ef07bb97ee81da2126.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E1/30hD1ZRJ3Bq7n9zR86o1oi6pRPloKWfCxVXCkMfJw/pok_tv_s1628_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/_ZG8LcPdNHhKXG5hOJFUpA5ADWTEfnX_lgxTWQuhE/pok_tv_s1628_2997-master-fr.mp4",
             "captions": "",
-            "size": 2703217161
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/_ZG8LcPdNHhKXG5hOJFUpA5ADWTEfnX_lgxTWQuhE/pok_tv_s1628_2997-master-fr.mp4"
         },
         {
             "id": "d214124e55a24e77935abfac418bec88",
@@ -219,16 +183,13 @@
             "title": "L'île des illusions !",
             "description": "Une île déserte donne à nos héros l’occasion de découvrir ce que permet d’accomplir une amitié fidèle !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0hQSTlWiTnck1q_rEGL7Ig/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x7/dZcdtxyDPMkBLgmbIfz0AmJOfZJTkDf21cD49eppY/pok_tv_s1630_2997-master-fr-9ef1fb7d70ed8355d99bfafa4ee1dffbf063c691.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x7/dZcdtxyDPMkBLgmbIfz0AmJOfZJTkDf21cD49eppY/pok_tv_s1630_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dz/ee5ASze9NkfCUiuAu2wz44pAMG-HR1cxs_AWfO7hU/pok_tv_s1630_2997-master-fr.mp4",
             "captions": "",
-            "size": 2708097215
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dz/ee5ASze9NkfCUiuAu2wz44pAMG-HR1cxs_AWfO7hU/pok_tv_s1630_2997-master-fr.mp4"
         },
         {
             "id": "5c4c177132e84231971d4f849ca4938a",
@@ -237,16 +198,13 @@
             "title": "Un mauvais sort à faire froid dans le dos !",
             "description": "Ce qui semble au départ être un mauvais sort finit par se transformer par une joyeuse surprise générale !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XEwXcTLoQjElx1PhJykk4o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cV/4mZzBEEX2sWhiIMcVlx9EHPG1fU5QKg-85vi_Hszc/fr-fr-23-16-6fdb9ec8d1165d98fe244df478d2f76216a5711a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cV/4mZzBEEX2sWhiIMcVlx9EHPG1fU5QKg-85vi_Hszc/fr-fr-23-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v3/E8fFTnzQG5ZW9VCcMgshooUuKRIDm73_2oEnntMak/fr-fr-23-16.mp4",
             "captions": "",
-            "size": 2507826451
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v3/E8fFTnzQG5ZW9VCcMgshooUuKRIDm73_2oEnntMak/fr-fr-23-16.mp4"
         }
     ]
 }

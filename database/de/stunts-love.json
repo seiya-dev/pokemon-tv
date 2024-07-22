@@ -1,17 +1,15 @@
 {
-    "channel_id": "verliebte-pokemon",
+    "channel_id": "love",
     "channel_name": "Verliebte Pokémon",
     "channel_description": "Spüre diesen Februar die Liebe der Pokémon auf Pokémon-TV.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-1125x1500-de.png",
-        "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-960x1277.png",
-        "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-2048x1152.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-2048x1152.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1613149860,
-    "channel_update_date": 1613149857,
+    "order": -1613149860,
     "media": [
         {
             "id": "1165455e7b784ce5bd7feffe8d97c93c",
@@ -20,16 +18,13 @@
             "title": "Bye-bye Smettbo",
             "description": "Als die Gruppe einen Schwarm Smettbos über das Meer fliegen sieht, erklärt Rocko als Pokémon-Züchter den anderen, dass die Smettbos zum Eier legen fliegen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EWVFXnt4TOUvX_v_o2XyTw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qv/6rOy1LEch3eBgm6vel1yJk8asjszfp6DreuD87m7M/pok_tv_s0120_2398-master-de-8b7c15cb5666e428a7b2935d3bd1588bbd2c1972.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qv/6rOy1LEch3eBgm6vel1yJk8asjszfp6DreuD87m7M/pok_tv_s0120_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/tyWg6qVcssFoNc7-7Al0ByFhlNMCrClhejwMXFQMg/pok_tv_s0120_2398-master-de.mp4",
             "captions": "",
-            "size": 2809719798
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/tyWg6qVcssFoNc7-7Al0ByFhlNMCrClhejwMXFQMg/pok_tv_s0120_2398-master-de.mp4"
         },
         {
             "id": "bbbdf7edac324c43b67b9561e095ae97",
@@ -38,16 +33,13 @@
             "title": "Mauzi in Hollywood",
             "description": "Unsere Freunde wollen in Hollywood die Premiere von „Pokémon in Love“ anschauen. Mauzi ist gezwungen, sich seiner schmerzlichen Vergangenheit zu stellen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/u7337awyTEMtnuVYeCVrpc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qn/wPvWRFGQLqU7ZTNJkXDW0Quy0vK5stRhr1_lscv90/pokemon_season02_ep17_ger-e2683de747f871f0772fd9f623e4fe0a9e617673.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qn/wPvWRFGQLqU7ZTNJkXDW0Quy0vK5stRhr1_lscv90/pokemon_season02_ep17_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kk/gh9I7GFf1nl983JyCc41He78iAZ9Okz5x7mFshRRM/pokemon_season02_ep17_ger.mp4",
             "captions": "",
-            "size": 2783942306
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kk/gh9I7GFf1nl983JyCc41He78iAZ9Okz5x7mFshRRM/pokemon_season02_ep17_ger.mp4"
         },
         {
             "id": "2bedbf39a9014e678ccb905fb17f7466",
@@ -56,16 +48,13 @@
             "title": "Liebe auf Karnimani Art",
             "description": "Ashs Karnimani verliebt sich Hals über Schwanz in ein vorbeigehendes Azumarill. Aber bevor das Azumarill die Gefühle entgegnen kann, wird es von Team Rocket direkt vor Karnimanis Augen entführt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/K-2_OakBTmcjMuQX7F_dGY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rl/yIklO4vLghzwHhc6hbuYnzDzaaVzQQplOBrGwdSNg/pokemon_season03_ep48_ger-0ac6f812b678065425248e028e52c7dc6eb1ec74.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rl/yIklO4vLghzwHhc6hbuYnzDzaaVzQQplOBrGwdSNg/pokemon_season03_ep48_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E9/MJov2yFIPIIHCnlqGAFU03NchLtog-UiJNqFDpbm4/pokemon_season03_ep48_ger.mp4",
             "captions": "",
-            "size": 2760363453
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E9/MJov2yFIPIIHCnlqGAFU03NchLtog-UiJNqFDpbm4/pokemon_season03_ep48_ger.mp4"
         },
         {
             "id": "197fc81d7e0b4ee0836079c2ea9820d8",
@@ -74,16 +63,13 @@
             "title": "Liebe auf den zweiten Blick",
             "description": "Ash und seine Freunde sind noch immer unterwegs nach Laubwechselfeld. Bei einer Rast am Maike-See entdecken sie ein Illumise und ein Volbeat, die für das Maifest üben.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GX_IHX4LTuAg2B5wuqYINg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lo/3uryORp1PUcdutfIfDyQXm9qcH9sqk9VnMz6fHcxw/pokemon_season07_ep06_ger-9eba17f49184a0956675f1d39262bbafe3815b9f.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/93/3cgoMdFEYpEj3qHHqrynvK8zC_ThLh-KE5wydD93s/pokemon_season07_ep06_ger.mp4",
             "captions": "",
-            "size": 2609110386
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/93/3cgoMdFEYpEj3qHHqrynvK8zC_ThLh-KE5wydD93s/pokemon_season07_ep06_ger.mp4"
         },
         {
             "id": "6e180ff8c1614128942babe4d2f869a2",
@@ -92,16 +78,13 @@
             "title": "Jede Geschichte hat drei Seiten!",
             "description": "Unsere Helden setzen ihren Weg nach Lilienblattdorf fort, wo Lucias nächster Pokemon-Wettbewerb stattfinden soll. Dabei entdecken sie eine Beerenplantage...und Plinfa verliebt sich prompt in das Marill der Tochter des Plantagenbesitzers.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bhgP-MFhQSglCur5NL4aaI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E1/tncNhk-mtaFrZ3fBlPknRFXKfpQuZfSpSz3frSu44/pokemon_s12_h-264_de_32-e6b7b41464c8ea1062e7ea139137a7f7ddaba9c6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E1/tncNhk-mtaFrZ3fBlPknRFXKfpQuZfSpSz3frSu44/pokemon_s12_h-264_de_32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LN/kWkLqJpnpWj4OAzkiiqEeq4_rH_ZY5kT8JjmkQKC0/pokemon_s12_h-264_de_32.mp4",
             "captions": "",
-            "size": 2801465158
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LN/kWkLqJpnpWj4OAzkiiqEeq4_rH_ZY5kT8JjmkQKC0/pokemon_s12_h-264_de_32.mp4"
         },
         {
             "id": "53e95c80e8b84c28b857473fdca26fcd",
@@ -110,16 +93,13 @@
             "title": "Mauzi im Liebesrausch!",
             "description": "Mauzi wird von Team Rocket getrennt und trifft ein wunderschönes Charmian! Könnte dies das Ende seiner Verbrecherkarriere bedeuten?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U-lcgOi4TCguFdHP9yib80/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dA/piDK_-mPS60Ut-JKYKYotfC1OWlthjw_BAkqSuZj4/pok_tv_s1321_2997-master-de-6c8f65fad173bc0864614cb7be2a5d80c94e5765.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dA/piDK_-mPS60Ut-JKYKYotfC1OWlthjw_BAkqSuZj4/pok_tv_s1321_2997-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qu/EHjhX12EsrtrdkjvkgzduCXfrZW9kcwsWypv1TKfA/pok_tv_s1321_2997-master-de.mp4",
             "captions": "",
-            "size": 2636811138
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qu/EHjhX12EsrtrdkjvkgzduCXfrZW9kcwsWypv1TKfA/pok_tv_s1321_2997-master-de.mp4"
         },
         {
             "id": "b288830e95884a84b2dbe03b3ab4688c",
@@ -128,16 +108,13 @@
             "title": "Waumboll – zweisam in Einall!",
             "description": "Auf ihrem Weg nach Rayono City begegnen unsere Helden einem liebeskranken Waumboll, dem es etwas an Selbstvertrauen mangelt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/soiDDpWISoQstvgOzq0aIw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FO/7h44GZb_iuqSSjuc2KN75_QlITYVbrFDwTR0uxULw/pok_tv_s1432_2997-master-de-waumboll---zweisam-in-einall--eced23495fd67e627629cbce8c30a22523a79e5c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FO/7h44GZb_iuqSSjuc2KN75_QlITYVbrFDwTR0uxULw/pok_tv_s1432_2997-master-de-waumboll---zweisam-in-einall-.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eU/nxqFkpCMAuJg_xngwwOpL9YKCbP8pzFXhFG4lLT9Y/pok_tv_s1432_2997-master-de-waumboll---zweisam-in-einall-.mp4",
             "captions": "",
-            "size": 2718803833
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eU/nxqFkpCMAuJg_xngwwOpL9YKCbP8pzFXhFG4lLT9Y/pok_tv_s1432_2997-master-de-waumboll---zweisam-in-einall-.mp4"
         },
         {
             "id": "4f55b01c8ac1490494381c59bb7af3d3",
@@ -146,16 +123,13 @@
             "title": "Wo die Liebe hinfällt...!",
             "description": "Während Evoli mit einer unerwünschten Aufmerksamkeit ihm gegenüber zurechtkommen muss, richtet Team Rocket seine Aufmerksamkeit auf Blobby.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/T1WwHIrBSQQlDgcWbt689M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s1/VmrbX3t9v8EhIlMX2mPU6GGiXk4Anoyc4jtH46zkY/pok_tv_s1902_2997-master-de-sdt-h264-1357bcfe338b6fa7d1927a09c1ea46a94398936c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PR/urIXa1YhAtCglpIMX_F63YNxutTI6d-YDEgZVy_-8/pok_tv_s1902_2997-master-de-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/cC5JQ9uFxSr7-_LjxxkrBBzEe2UOf6e404pIeRMHM/pok_tv_s1902_2997-master-de-sdt-h264.mp4",
             "captions": "",
-            "size": 3305147671
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/cC5JQ9uFxSr7-_LjxxkrBBzEe2UOf6e404pIeRMHM/pok_tv_s1902_2997-master-de-sdt-h264.mp4"
         },
         {
             "id": "91efe4829dde491a852f98640022101f",
@@ -164,16 +138,13 @@
             "title": "Das neue Abenteuer der Professoren!",
             "description": "Professor Kukui und Professor Burnett heiraten und unsere Helden wissen sofort, was sie zu tun haben!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ke_kgp3eSRohS-YZAAiEB8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/105dnCyi9SkAMgJ4phs8kxox71IYs070thccD9oRw/pokemon_season21_ep12_ger-e3ab4c8758149362f2b6e05f552ce026b7a04a22.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H4/o3cxbF0AL_NZk_CjEuzAvDN1Y46YjJCBvP7U1JJxA/pokemon_season21_ep12_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L8/PbEXvg0RTLIo9RIuRKJA0J_2dCmW2cJLGZuCqopCY/pokemon_season21_ep12_ger.mp4",
             "captions": "",
-            "size": 2832031454
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L8/PbEXvg0RTLIo9RIuRKJA0J_2dCmW2cJLGZuCqopCY/pokemon_season21_ep12_ger.mp4"
         },
         {
             "id": "9d25c54fdce64bd5b2e16d1b529a8360",
@@ -182,16 +153,13 @@
             "title": "Liebe auf den ersten Dreh!",
             "description": "Die Pokémon-Familie unserer Helden bekommt unerwarteten Zuwachs – unerwartet, aber äußerst reizend!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nSXFT9zmS9UsuFtG1Kag2A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zV/l0cA92xCY40AuzdxT3gUlpZyl4KSysOVuBONiBisE/pokemon_season21_ep23_ger-1a66e6b4ac2e6553ca28548fa9bab7e2c9264c60.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kG/ORLyUGLHNzVUlCtKiFjQb2KOCHk9E2HBOueSt_jpw/pokemon_season21_ep23_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/5xRAzzfu4vLsLoyTwKeB2VziigpyyNcJeFYR_BeN8/pokemon_season21_ep23_ger.mp4",
             "captions": "",
-            "size": 2888037959
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/5xRAzzfu4vLsLoyTwKeB2VziigpyyNcJeFYR_BeN8/pokemon_season21_ep23_ger.mp4"
         }
     ]
 }

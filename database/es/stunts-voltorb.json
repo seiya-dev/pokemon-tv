@@ -1,18 +1,15 @@
 {
-    "channel_id": "voltorb-electrizante",
+    "channel_id": "voltorb",
     "channel_name": "Voltorb electrizante",
     "channel_description": "¡Disfruta a tope con el electrizante Voltorb en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/voltorb/voltorb-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/voltorb/voltorb-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/voltorb/voltorb-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/voltorb/voltorb-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 4,
-    "channel_creation_date": 1639154716,
-    "channel_update_date": 1639760311,
+    "order": -1639154716,
     "media": [
         {
             "id": "58d21aed3f44496cb7bf8537716b938c",
@@ -21,16 +18,13 @@
             "title": "El Poké-enfrentamiento ninja",
             "description": "El Gimnasio Fucsia, el Gimnasio autorizado donde Ash busca su próxima Medalla, resulta ser una guarida de ninjas. Después de encontrar el Gimnasio y entrar por fin en él, es retenido por un complejo sistema de trampas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WNIa7T9ESWwt7-FN3Frk4w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ou/cnU78LkXAFBswNlDiTUB9bNA1tVdXT6DEnOeCsOCQ/pok_tv_s0131_2398-master-cas-0c018a349f3abd7f7ffa1e945526a9d15da5b23f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ou/cnU78LkXAFBswNlDiTUB9bNA1tVdXT6DEnOeCsOCQ/pok_tv_s0131_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HD/8jMNtT-dhGQ7Tn1L8zmq62U5vuYWnOeWNj6aDLC7Q/pok_tv_s0131_2398-master-cas.mp4",
             "captions": "",
-            "size": 2798387310
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HD/8jMNtT-dhGQ7Tn1L8zmq62U5vuYWnOeWNj6aDLC7Q/pok_tv_s0131_2398-master-cas.mp4"
         },
         {
             "id": "7d94e824d9b84cc1ac2129c1407638cf",
@@ -39,16 +33,13 @@
             "title": "La llama Pokémon-athon",
             "description": "Nuestros héroes llegan a una pradera donde viven los Laramie, una familia de Rancheros Pokémon. Se enteran por la hija de la familia Laramie de que una vez al año se celebra una carrera en el rancho para medir el crecimiento de los Pokémon de los demás.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fZToJNm4TMErCEpwUB2OM8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vl/nNz7uLCZua1X2hc07ui364ma3h9c49VL57Vwn0pw4/pok_tv_s0132_2398-master-cas-7589ee46aacb5a528d0f28e28593111821919296.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vl/nNz7uLCZua1X2hc07ui364ma3h9c49VL57Vwn0pw4/pok_tv_s0132_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KK/H1P7rZSb2DeHTiv_Lk7orITL5OROJRxjs7QcZ-Z9w/pok_tv_s0132_2398-master-cas.mp4",
             "captions": "",
-            "size": 2806250438
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KK/H1P7rZSb2DeHTiv_Lk7orITL5OROJRxjs7QcZ-Z9w/pok_tv_s0132_2398-master-cas.mp4"
         },
         {
             "id": "27bce2ffc7514c59b251e565d566204e",
@@ -57,16 +48,13 @@
             "title": "Maniobras en Navel",
             "description": "Un segundo Entrenador de las Islas Naranja somete a Ash y a sus Pokémon a una serie de pruebas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/J7zi_8dRTFkslHlZdVmIE4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uy/Gsgc4zQTHy7eWdtLz3Rxh8_A-EIsWM77Gkgc62ad4/pokemon_season02_ep40_spa-4aaf685f9d65906279561bc430f3234d88611a23.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uy/Gsgc4zQTHy7eWdtLz3Rxh8_A-EIsWM77Gkgc62ad4/pokemon_season02_ep40_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/s8JzHyDQ-0tGE5JsSbaK3au3v6yEFDvRGdNIJvGfM/pokemon_season02_ep40_spa.mp4",
             "captions": "",
-            "size": 2788470264
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/s8JzHyDQ-0tGE5JsSbaK3au3v6yEFDvRGdNIJvGfM/pokemon_season02_ep40_spa.mp4"
         },
         {
             "id": "325ed8b2a769493c860a0aebe848d935",
@@ -75,16 +63,13 @@
             "title": "El rodeo subterráneo",
             "description": "Un experimento fallido ha convertido a una ciudad en un basurero virtual, repleto de Electrodes.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ml7YsqdpSTwhgoK6-hI2TU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q6/teguqf6SPEo5kb1x-VqSBrkeGg8HNSThxOiWBx-i8/pokemon_season03_ep09_spa-45ad2cdef644028176ceaea42d276bce6c9af21b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T8/neIBS6zebwQaETFgz-NRXZmX2-6Kb9gMn6FwLxkos/pokemon_season03_ep09_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uo/u5s7j0V1v887cYXT54cQGvlZaHyMHpoF6tGwTMqFg/pokemon_season03_ep09_spa.mp4",
             "captions": "",
-            "size": 2709881334
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uo/u5s7j0V1v887cYXT54cQGvlZaHyMHpoF6tGwTMqFg/pokemon_season03_ep09_spa.mp4"
         },
         {
             "id": "40e0c914119c4b2bacbbdd733e0c64ab",
@@ -93,16 +78,13 @@
             "title": "Watt Y Wattson",
             "description": "Ash y compañía por fin llegan al Gimnasio Malvalona. Les dan una electrizante presentación de Wattson, el Líder de Gimnasio, quien está especializado en Pokémon de tipo Eléctrico.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/QODJFBGcSysrLvdcz4MZKs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6b/_KdkyOypbNXTyAKeWLPESGOhYHV_1jeIjKAKVS2a4/pokemon_season6_ep52_spa-d9d679b40fcbb4aa8770f5b2e48b38ce5170c94f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6b/_KdkyOypbNXTyAKeWLPESGOhYHV_1jeIjKAKVS2a4/pokemon_season6_ep52_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w_/gFxFrBfDQvTvoWGzkXhBWKxJY6u_krHORKh6_ifG8/pokemon_season6_ep52_spa.mp4",
             "captions": "",
-            "size": 2616478594
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w_/gFxFrBfDQvTvoWGzkXhBWKxJY6u_krHORKh6_ifG8/pokemon_season6_ep52_spa.mp4"
         },
         {
             "id": "b799cfe714f44e00923146154812e4e3",
@@ -111,16 +93,13 @@
             "title": "Lo que siembras es lo que recoges",
             "description": "Ash y sus amigos se marchan de ciudad Malvalona, pero Ash quiere ir al Gimnasio Pokémon de Pueblo Lavacalda, mientras que Aura quiere competir en un Concurso Pokémon en Pueblo Pardal.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/t5nP5xT0TgAkjFGFUgS5OM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1-/QF-PAOGuLWk8m2fwLXJxeTeLYNV0_vRAkVP_Psm7s/pok_tv_s0701_2398-master-cas-087ddbf8d3dfc6b0e407be6700a951f107509954.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1-/QF-PAOGuLWk8m2fwLXJxeTeLYNV0_vRAkVP_Psm7s/pok_tv_s0701_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b9/kTAzrFhHunTZvX3y5CZt8Q2gvSq_fO7nltZ5ZxPHk/pok_tv_s0701_2398-master-cas.mp4",
             "captions": "",
-            "size": 2690864772
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b9/kTAzrFhHunTZvX3y5CZt8Q2gvSq_fO7nltZ5ZxPHk/pok_tv_s0701_2398-master-cas.mp4"
         },
         {
             "id": "e15321730ea44a53b5c1e3ed8c0a4252",
@@ -129,16 +108,13 @@
             "title": "Las perlas son las mejores amigas de Spoink",
             "description": "Los chicos están tomando el desayuno, cuando Skitty se escapa y se encuentra con un Spoink que ha perdido su perla. El Spoink les muestra cómo salió rodando, así que los chicos le ayudan a buscarla por el bosque.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4VMhcw6kSlMtcHj7YwKQlI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/86/GFGRe3S6Ja_sIE8eN-FLKBUey8tqUHpIuK4wQitDE/pok_tv_s0739_2398-master-cas-aff5745cdc118a19fd2133ab2ba4f0f6e7886aed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/86/GFGRe3S6Ja_sIE8eN-FLKBUey8tqUHpIuK4wQitDE/pok_tv_s0739_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/_pqGQyaFXO4fUcc5UpY4G3yXziJNG932QnbrG8FQ4/pok_tv_s0739_2398-master-cas.mp4",
             "captions": "",
-            "size": 2674105385
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/_pqGQyaFXO4fUcc5UpY4G3yXziJNG932QnbrG8FQ4/pok_tv_s0739_2398-master-cas.mp4"
         },
         {
             "id": "6fbbb1d0ec734f75b67104b9a63624a1",
@@ -147,16 +123,13 @@
             "title": "La huevo-aventura de Aura",
             "description": "Cuando Ash y sus amigos se dirigen a la siguiente parada en Frente de Batalla, Aura ve una preciosa granja. Pero cuando la mira de cerca, ¡Voltorb le da una descarga!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/b7ux0OxzT3UtnEEuaY2JKE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cp/tOoZsze_6y5o19ZOICePvpNlfeZL_gJRCFoKr85hM/pokemon_season09_ep05_spa-e5f26d4b19437d449fef9384195ca5e2a1697cc1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cp/tOoZsze_6y5o19ZOICePvpNlfeZL_gJRCFoKr85hM/pokemon_season09_ep05_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TQ/P6ey17dzZGhJj6CSbPcvoOiGHf5ju8F7SUEsOK4dw/pokemon_season09_ep05_spa.mp4",
             "captions": "",
-            "size": 2480364108
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TQ/P6ey17dzZGhJj6CSbPcvoOiGHf5ju8F7SUEsOK4dw/pokemon_season09_ep05_spa.mp4"
         },
         {
             "id": "104e0629f9f0410c8c784edb4056ff7b",
@@ -165,16 +138,13 @@
             "title": "¡Unidos en la búsqueda del tesoro!",
             "description": "Mientras continúan su viaje en ferry hacia la Liga de Sinnoh, nuestros héroes se encuentran con un buscador de tesoros realmente insólito en busca de un tesoro igualmente insólito.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EE4GKfnwQQwjHhO20BW_3s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4T/_WG4fi7_9TUN7flGBInVaZiw5uLdUEq-4AZVm-Zmo/pok_tv_s1324_2997-master-cas-19769cd0614d1f15fed0fb3ab2f9e4807ac0f8f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4T/_WG4fi7_9TUN7flGBInVaZiw5uLdUEq-4AZVm-Zmo/pok_tv_s1324_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T0/Nz76PfK1pMcXv6QHnuLd1IXIws2gQjUR2-0u37AhE/pok_tv_s1324_2997-master-cas.mp4",
             "captions": "",
-            "size": 2650832194
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T0/Nz76PfK1pMcXv6QHnuLd1IXIws2gQjUR2-0u37AhE/pok_tv_s1324_2997-master-cas.mp4"
         },
         {
             "id": "0ed9f6efdd354393a07ca797993e8731",
@@ -183,16 +153,13 @@
             "title": "¡Destino: coronación!",
             "description": "¡Ash tan solo acaba de comenzar su camino para volver a combatir contra Lionel, pero la acción ya es electrificante!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Dtn27901Q5MoHynl5k-hzE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V_/s9IYXpcLiSatujCD4eJ0P_x68Rgh6_X-RfE2lSWHQ/es-es-23-18-fd873bc5431871b96847212ebc82c8ab030bd348.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dz/NFTBSTD6VqIKHeqdeAJWLXqrCYfjnsAkkr6qLMn68/es-es-23-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uZ/eVo1gdGpxyTXXNoCLdRL7ZxJYGTQpTeQULxtnYo04/es-es-23-18.mp4",
             "captions": "",
-            "size": 2692226448
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uZ/eVo1gdGpxyTXXNoCLdRL7ZxJYGTQpTeQULxtnYo04/es-es-23-18.mp4"
         }
     ]
 }

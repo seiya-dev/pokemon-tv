@@ -1,18 +1,15 @@
 {
-    "channel_id": "dp-battle-dimension",
+    "channel_id": "season11",
     "channel_name": "DP - Battle Dimension",
     "channel_description": "Ash, Pikachu e i loro amici proseguono il viaggio nella regione di Sinnoh con la stagione DP - Battle Dimension della serie animata Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1125x1500-it.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1660x940-it.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1660x940-it.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1660x940-it.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 201,
-    "channel_creation_date": 1588781235,
-    "channel_update_date": 1667576894,
+    "order": -11000,
     "media": [
         {
             "id": "dadcc3968cf641fcb8fdd02d29d1d60e",
@@ -21,16 +18,13 @@
             "title": "Lacrime di paura!",
             "description": "I nostri eroi si dirigono verso Rupepoli, ma il nuovo Chimchar di Ash ha difficoltà ad adattarsi al nuovo ambiente.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2tzDloz2QfwuP3QLSnR1g4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JE/VYRQhTY4cPTvjlwQVWFBCIg9b_OIy8bVZuynnPQxA/pok_tv_s1101_2398-master-it-18e8666b3d80e33a9f027b6c9d42db153e50e9f6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JE/VYRQhTY4cPTvjlwQVWFBCIg9b_OIy8bVZuynnPQxA/pok_tv_s1101_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/tlTPO0TzNJn96amWFgwOasKUz69i0gPh_k4ZRM0hY/pok_tv_s1101_2398-master-it.mp4",
             "captions": "",
-            "size": 2647427436
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/tlTPO0TzNJn96amWFgwOasKUz69i0gPh_k4ZRM0hY/pok_tv_s1101_2398-master-it.mp4"
         },
         {
             "id": "53bc3bba116b4fb2923cfb676928ce7c",
@@ -39,16 +33,13 @@
             "title": "Addio, Cacnea!",
             "description": "Ash e i suoi amici s'imbattono in Gardenia, la Capopalestra di Evopoli, nel corso del loro viaggio attraverso la regione di Sinnoh.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U7w7uhFrT7Ikjz7Z2koznw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1w/pulMAGZT7Xyy-3HIDfFCtruNR5oOFy7PcL2cFICuI/pok_tv_s1102_2398-master-it-898629b9f3fa7edf4f4193160491ad24c1f422bc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1w/pulMAGZT7Xyy-3HIDfFCtruNR5oOFy7PcL2cFICuI/pok_tv_s1102_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s4/l8gEZUHl-wYErEGxi9YeFOXVEbX00Uw9izO7GOU14/pok_tv_s1102_2398-master-it.mp4",
             "captions": "",
-            "size": 2630785725
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s4/l8gEZUHl-wYErEGxi9YeFOXVEbX00Uw9izO7GOU14/pok_tv_s1102_2398-master-it.mp4"
         },
         {
             "id": "8b2e62b0a9df47cd955f2d1a38fb9eb8",
@@ -57,16 +48,13 @@
             "title": "Scambio di Pokémon",
             "description": "Ash fa lottare Chimchar e Aipom per prepararli alla prossima sfida in Palestra. Ma Buizel si distrae a causa dello scontro tra i due.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iy5isKnfR80lV8tGjj7nrg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cV/J4Rm_sjeAPrjYpgSLIWss07r239EmPkKrUNy09wnA/pok_tv_s1103_2398-master-it-3443d016514a756d63ae7d1280408d19bd6fbe93.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cV/J4Rm_sjeAPrjYpgSLIWss07r239EmPkKrUNy09wnA/pok_tv_s1103_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JF/BoLtT-pQuh15AjzsG68LTNzEM8W9FuDZIDAfURngM/pok_tv_s1103_2398-master-it.mp4",
             "captions": "",
-            "size": 2611726468
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JF/BoLtT-pQuh15AjzsG68LTNzEM8W9FuDZIDAfURngM/pok_tv_s1103_2398-master-it.mp4"
         },
         {
             "id": "ceba703e6ff942e6a06e42584979f8d1",
@@ -75,16 +63,13 @@
             "title": "Un nuovo nemico",
             "description": "Aipom e Buizel stanno lottando, quando il primo devia il Sonicboom dell'altro verso una vecchia torre di pietra, abbattendola.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zrpwPm_5QuYoG5CWEl5-NE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pe/5rz2PvBr9aObh6Os_6bRfJE0Y9MBCv1vOz14LTagk/pok_tv_s1104_2398-master-it-6e7192fb309f121e25507a5adea73f9fceca554c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pe/5rz2PvBr9aObh6Os_6bRfJE0Y9MBCv1vOz14LTagk/pok_tv_s1104_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jY/Atd5Rr0jnDTCBaWeR5z5sEVkUARbl7fqAWAA0C32c/pok_tv_s1104_2398-master-it.mp4",
             "captions": "",
-            "size": 2634637177
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jY/Atd5Rr0jnDTCBaWeR5z5sEVkUARbl7fqAWAA0C32c/pok_tv_s1104_2398-master-it.mp4"
         },
         {
             "id": "625779bd038045feae4620717bacb797",
@@ -93,16 +78,13 @@
             "title": "I fantastici denti di Bibarel",
             "description": "Sulla strada per Flemminia, i nostri eroi giungono nei pressi di un fiume con un ponte in costruzione, Brock si innamora subito della responsabile dei lavori, Isis.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Yld5vQOARf4rkYgcXust5c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R7/cmtRMY8tVLy4KuXlOHAO21s8SY58yMmy71y0_QWf8/pok_tv_s1105_2398-master-it-5d0fca635300b57dbe2bcebd6433344792b6029d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R7/cmtRMY8tVLy4KuXlOHAO21s8SY58yMmy71y0_QWf8/pok_tv_s1105_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uu/-hCpNRVbeZ0ePib4GkjPp4O7re0ojrWLMDabAavUw/pok_tv_s1105_2398-master-it.mp4",
             "captions": "",
-            "size": 2622232274
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uu/-hCpNRVbeZ0ePib4GkjPp4O7re0ojrWLMDabAavUw/pok_tv_s1105_2398-master-it.mp4"
         },
         {
             "id": "27c50a2d1ad043398e934c7e1378a661",
@@ -111,16 +93,13 @@
             "title": "Girovagando per la montagna",
             "description": "Su Monte Corona, Ash e Turtwig stanno affrontando Alan, un Allenatore pieno di energia dotato di un Nosepass. L'unico luogo in cui tale Pokémon può evolversi in Probopass è appunto il Monte Corona, pertanto Alan deve fare il maggior numero di lotte possibile.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J8UKLRrQQzkjpNMfhN4pmE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cJ/sSVmZ5NCHK0bsyCRw7KPB9PTuXwoUQd9m2Ys32I-w/pok_tv_s1106_2398-master-it-6f0da72f343846fc019f0da9ff9202616de315b0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cJ/sSVmZ5NCHK0bsyCRw7KPB9PTuXwoUQd9m2Ys32I-w/pok_tv_s1106_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nf/JS09ybYd6qhIhXwD3I48yZdKbJpk1uhXk-i9Jx8qA/pok_tv_s1106_2398-master-it.mp4",
             "captions": "",
-            "size": 2642430136
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nf/JS09ybYd6qhIhXwD3I48yZdKbJpk1uhXk-i9Jx8qA/pok_tv_s1106_2398-master-it.mp4"
         },
         {
             "id": "bfe682af7d7f4cc1a3b8393adf54e00c",
@@ -129,16 +108,13 @@
             "title": "Il vecchio amuleto!",
             "description": "Sperando di trovare un posto per la notte, i nostri eroi visitano un imponente maniero. Sono però scambiati per ladri da Marble, che si autodefinisce un super detective.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/v-aCr31_TMEo7g5Ot9U4Aw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2Q/71NWT3EONrXpbXhrskc7XEBZ1Rb7Mw27JKM3uH2Rs/pok_tv_s1107_2398-master-it-af7e60a2c0115558998fbcbbcfc0af2dfffee165.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2Q/71NWT3EONrXpbXhrskc7XEBZ1Rb7Mw27JKM3uH2Rs/pok_tv_s1107_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nG/Y0W8QzPo0xcPtIKqvgAgYJwzUijgV7aXeRJbmyyvY/pok_tv_s1107_2398-master-it.mp4",
             "captions": "",
-            "size": 2639231614
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nG/Y0W8QzPo0xcPtIKqvgAgYJwzUijgV7aXeRJbmyyvY/pok_tv_s1107_2398-master-it.mp4"
         },
         {
             "id": "0cef843d79bc4fd58f717f442028f4fa",
@@ -147,16 +123,13 @@
             "title": "Viaggio nell'Unown",
             "description": "Immersa negli allenamenti per la Gara di Flemminia, Lucinda esamina le mosse di Aipom per la gara e nota che ne ha appresa una nuova: il Doppiosmash!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DO-EPXm8T9Uj3F_RCAo9Po/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cr/UAfdtIOcZ9HB1ODGulhbG_10DFi9gC-7DOp03dETY/pok_tv_s1108_2398-master-it-e7e757bf170b2b8dea3e0e10ad81dfd7e8995fd8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cr/UAfdtIOcZ9HB1ODGulhbG_10DFi9gC-7DOp03dETY/pok_tv_s1108_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m0/IWZAuBfRVAa_Tb8tmsensmab97M-jO5eq_m5eSelM/pok_tv_s1108_2398-master-it.mp4",
             "captions": "",
-            "size": 2646799628
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m0/IWZAuBfRVAa_Tb8tmsensmab97M-jO5eq_m5eSelM/pok_tv_s1108_2398-master-it.mp4"
         },
         {
             "id": "4d70da1d86eb4e40a342972f51f82163",
@@ -165,16 +138,13 @@
             "title": "Strategia vincente",
             "description": "La Gara di Flemminia sta per iniziare e Lucinda non vede l'ora di mostrare la spettacolare mossa Comete del suo Ambipom.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TXDaHYbrTkAo0KXL1H4IWM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E5/klRpTs0O0MBeAWOwkMwPm8PBm8mV5_6nd8l_Tk7qY/pok_tv_s1109_2398-master-it-21d4bb5ef845fa9614ab7893ea4e1c7371d35a40.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E5/klRpTs0O0MBeAWOwkMwPm8PBm8mV5_6nd8l_Tk7qY/pok_tv_s1109_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bB/Q4mgOTYLMxkGyNzUL3l3eUF7cYfQR4gANdu3mPVis/pok_tv_s1109_2398-master-it.mp4",
             "captions": "",
-            "size": 2633566946
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bB/Q4mgOTYLMxkGyNzUL3l3eUF7cYfQR4gANdu3mPVis/pok_tv_s1109_2398-master-it.mp4"
         },
         {
             "id": "711d5a2540d84a5b8a8d0e50dafb1d18",
@@ -183,16 +153,13 @@
             "title": "Buon maestro, buoni consigli",
             "description": "Brock porta i suoi amici a un rifugio montano Maid Café, dove le cameriere Spring, Summer e Autumn servono latte fresco di Miltank.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cR1aJUDYSlsio0OUNr7HRg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/95/SJ2oOEcrREEsmPQn6V3iA8Ih2eWRZah5B5ubJFuBw/pok_tv_s1110_2398-master-it-bf1981190e10514b5826a016f20dc1da8e98ebef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/95/SJ2oOEcrREEsmPQn6V3iA8Ih2eWRZah5B5ubJFuBw/pok_tv_s1110_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zN/WMVbgQV5ITIQ57abQMELVVvMtaiN2YQX1aKo8jcpw/pok_tv_s1110_2398-master-it.mp4",
             "captions": "",
-            "size": 2614647538
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zN/WMVbgQV5ITIQ57abQMELVVvMtaiN2YQX1aKo8jcpw/pok_tv_s1110_2398-master-it.mp4"
         },
         {
             "id": "b5b034a8847b448e91ad1f8273b01ca8",
@@ -201,16 +168,13 @@
             "title": "Complotto termale",
             "description": "Si sta facendo tardi e i nostri eroi non trovano un Centro Pokémon vicino, Lucinda propone allora una soluzione: visitare un vicina stazione termale dove lavora una sua vecchia amica Leona!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tbA0qIR7RI4ka0fgnOwHKg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ES/NtDMR26Vb5pJ2Zx3ePfpDA5_KWyG_eOsNVayAkcSo/pok_tv_s1111_2398-master-it-dedefcc62c96d6cd695d4b7642f31f3d04af63f6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ES/NtDMR26Vb5pJ2Zx3ePfpDA5_KWyG_eOsNVayAkcSo/pok_tv_s1111_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x_/jGWYDWWI8Tko9Fvq7awSJOWhApXSE_1-SPXF58fDE/pok_tv_s1111_2398-master-it.mp4",
             "captions": "",
-            "size": 2636691524
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x_/jGWYDWWI8Tko9Fvq7awSJOWhApXSE_1-SPXF58fDE/pok_tv_s1111_2398-master-it.mp4"
         },
         {
             "id": "886ecbd592f4403a8ac237dacf1a5747",
@@ -219,16 +183,13 @@
             "title": "Tutta colpa del vento",
             "description": "Mentre Ash e i suoi amici attraversano una città, un Gliscor e un gruppo di Gligar li accerchiano e divorano tutto il loro pranzo. Inoltre, nella stessa città è di passaggio Paul, in compagnia del suo Murkrow, e sembra essere sulle tracce del Gliscor!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iG7L1ZL0QDoisI32s8aV0c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pJ/XhuyoHLw6ob3DbwPjRBtKRgkXnBx90rQ0liuXsNuc/pok_tv_s1112_2398-master-it-1b867843f33b097e9c91a0133f9cb441758f1286.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pJ/XhuyoHLw6ob3DbwPjRBtKRgkXnBx90rQ0liuXsNuc/pok_tv_s1112_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0x/240GYVZuwvgzJzDJOScoonYV1dVxkXsRCU5B0Yu48/pok_tv_s1112_2398-master-it.mp4",
             "captions": "",
-            "size": 2648888244
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0x/240GYVZuwvgzJzDJOScoonYV1dVxkXsRCU5B0Yu48/pok_tv_s1112_2398-master-it.mp4"
         },
         {
             "id": "5addfd216d604046b047294e6856016c",
@@ -237,16 +198,13 @@
             "title": "Battaglie sabbiose",
             "description": "C'è un altro deserto da attraversare prima che Ash possa raggiungere Rupepoli e la prossima Palestra. I nostri eroi decidono di lasciar liberi i propri Pokémon di giocare nella sabbia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Wt39IW1gQEYsEcpTmhWAWw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8s/bG3osyfE0WIyfPpELQrlKhdN3ZFD8uiaJuokebOtk/pok_tv_s1113_2398-master-it-1d3388e75640aa290156a8d5c76d41c63c5259aa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8s/bG3osyfE0WIyfPpELQrlKhdN3ZFD8uiaJuokebOtk/pok_tv_s1113_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cj/X8pU37Nyvq2w9rS8a2070wHzkMck2JzxnPVlsMDzg/pok_tv_s1113_2398-master-it.mp4",
             "captions": "",
-            "size": 2634220920
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cj/X8pU37Nyvq2w9rS8a2070wHzkMck2JzxnPVlsMDzg/pok_tv_s1113_2398-master-it.mp4"
         },
         {
             "id": "98e286c272c44061b6c1e8cd92811d66",
@@ -255,16 +213,13 @@
             "title": "Strategia da Capopalestra perduta",
             "description": "Non appena raggiungono Rupepoli, Ash e i suoi amici sentono un gran trambusto e si dirigono in tale direzione: la Capopalestra Marzia e il suo Lucario sono impegnati in un'intensa sessione di allenamento!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mOKGwnLEQGEtsHozZKBHWY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pe/W6dMCf6L2q6f-MGhqKZd1APfLfrORaQKe8aS_B45I/pok_tv_s1114_2398-master-it-481ded7440ab7bb0c7235998fa113bda45ccc3d1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pe/W6dMCf6L2q6f-MGhqKZd1APfLfrORaQKe8aS_B45I/pok_tv_s1114_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ht/P2rd7NqsbPDBP2MkjMyXWEVCcYdNdyw9uXx9zXzcs/pok_tv_s1114_2398-master-it.mp4",
             "captions": "",
-            "size": 2627386647
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ht/P2rd7NqsbPDBP2MkjMyXWEVCcYdNdyw9uXx9zXzcs/pok_tv_s1114_2398-master-it.mp4"
         },
         {
             "id": "b55f46d176724cb2b1a738168f475be8",
@@ -273,16 +228,13 @@
             "title": "Al di là della linea di combattimento!",
             "description": "Lucinda ha sfidato Marzia, la Capopalestra di Rupepoli, a un incontro previsto per l'indomani. Ciò concede a Lucinda e ad Ash il tempo di allenarsi.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tV9G0XZyTLIsac4Fo9HW-g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qW/Yuu3Rrm_2wkn2NJ5bth-WNRgfXdAwSYoFdpH1HjCE/pok_tv_s1115_2398-master-it-1208d768fdaa32ffca7aada5b76e1806c546bdd2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qW/Yuu3Rrm_2wkn2NJ5bth-WNRgfXdAwSYoFdpH1HjCE/pok_tv_s1115_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n5/kx9KGXJ6TL3PqiX1V6EqJ39jNlPp5o5TV0ejylKKQ/pok_tv_s1115_2398-master-it.mp4",
             "captions": "",
-            "size": 2644495084
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n5/kx9KGXJ6TL3PqiX1V6EqJ39jNlPp5o5TV0ejylKKQ/pok_tv_s1115_2398-master-it.mp4"
         },
         {
             "id": "90b80fe9441441b98e5802bf9693918b",
@@ -291,16 +243,13 @@
             "title": "Sfida con tre possibilità",
             "description": "La sfida con Lucinda ha restituito a Marzia, Capopalestra di Rupepoli, la fiducia in se stessa; ora, quindi, è pronta per accettare la sfida di Ash.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kLgP6UQUQbkjlgCv5aTkYs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iw/HErzJ9JrOS8IAPUKGVcRpYNhEV4dcqkG6Zlrox1qM/pok_tv_s1116_2398-master-it-8cc92ac31d5edb262c704bd34d093f5afea33476.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iw/HErzJ9JrOS8IAPUKGVcRpYNhEV4dcqkG6Zlrox1qM/pok_tv_s1116_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kj/9jcaTs1jy_2cUEKp2vnT8EsjkyHTXmrrgYuKF7Cpg/pok_tv_s1116_2398-master-it.mp4",
             "captions": "",
-            "size": 2659860178
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kj/9jcaTs1jy_2cUEKp2vnT8EsjkyHTXmrrgYuKF7Cpg/pok_tv_s1116_2398-master-it.mp4"
         },
         {
             "id": "856faee5c7ee486982ec6142e41cd65e",
@@ -309,16 +258,13 @@
             "title": "Il ritorno del Team Galassia",
             "description": "Prima che Ash e i suoi amici dicano addio a Rupepoli, Reggie, il fratello di Paul, mostra loro l'attrazione più famosa della città: un campo pieno di antichi meteoriti che sono considerati i guardiani della città.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hW-u5cfuSGkguxhQuQc1l4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D9/wW9eMBg7vKOq6huAEUZHNO01w2sNrhqkaiq2OsedM/pok_tv_s1117_2398-master-it-f07747c4fbd0ea0ad4c1a235686b89b6c12fd5ab.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D9/wW9eMBg7vKOq6huAEUZHNO01w2sNrhqkaiq2OsedM/pok_tv_s1117_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gf/mEYBjMm6jrrpyH0qC6lM50_1W1M4_Lm1KDGsXvjNk/pok_tv_s1117_2398-master-it.mp4",
             "captions": "",
-            "size": 2644652108
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gf/mEYBjMm6jrrpyH0qC6lM50_1W1M4_Lm1KDGsXvjNk/pok_tv_s1117_2398-master-it.mp4"
         },
         {
             "id": "d4b6082b417e4e0b8caacecb69e6a00a",
@@ -327,16 +273,13 @@
             "title": "Un'avventura canora",
             "description": "È un altro giorno di viaggio per i nostri eroi: Ash e Gligar si allenano, mentre Lucinda e Buneary studiano le ultime novità Pokémon dal mondo della moda.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1LYIK0F-TgsjKrOy2nmoAo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I7/u4Bt63ei03xFtGZzAn_Fnu7QWE31jlBMijudoqM3w/pok_tv_s1118_2398-master-it-3a846feca9d96fa7a1eb4ce4adc91cc3f092dc14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I7/u4Bt63ei03xFtGZzAn_Fnu7QWE31jlBMijudoqM3w/pok_tv_s1118_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jP/wVOllUAuxueq6t2RY2zXaA0U0Yu1_8rGcsxu-dL80/pok_tv_s1118_2398-master-it.mp4",
             "captions": "",
-            "size": 2623667760
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jP/wVOllUAuxueq6t2RY2zXaA0U0Yu1_8rGcsxu-dL80/pok_tv_s1118_2398-master-it.mp4"
         },
         {
             "id": "0584c26bc921434d97273b34f15b5819",
@@ -345,16 +288,13 @@
             "title": "Volo nuziale",
             "description": "Abbagliati da sogni di successo, Jessie e Dustox si allenano sulle sponde di un bellissimo lago di montagna. Ma il Dustox di Jessie è distratto da un Dustox sconosciuto.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BYTCa8khQ00lyc7NPFbWBk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D0/Xpm1QzZ66JZOQUhI7RqKV2WMF7BVY83cObEwIBnRo/pok_tv_s1119_2398-master-it-8e7b98d9d60309abb140e2feaccab85c5e3a212a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D0/Xpm1QzZ66JZOQUhI7RqKV2WMF7BVY83cObEwIBnRo/pok_tv_s1119_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wx/wBTgKSQ7ftxtNlCvOVnzpDHTcOrXrBVnRVAZR_Rto/pok_tv_s1119_2398-master-it.mp4",
             "captions": "",
-            "size": 2655269242
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wx/wBTgKSQ7ftxtNlCvOVnzpDHTcOrXrBVnRVAZR_Rto/pok_tv_s1119_2398-master-it.mp4"
         },
         {
             "id": "f3a492b96b82438e91d86aff62b38f58",
@@ -363,16 +303,13 @@
             "title": "Pikachu contro Raichu",
             "description": "Prima di raggiungere Pratopoli, Ash deve affrontare un Allenatore dalla parlata insolita, di nome Sho. Sho desidera collezionare una serie di evoluzioni di Pikachu e, siccome ha già Raichu e Pichu, ha messo gli occhi sul Pikachu di Ash.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/86SSuWuCQ44kdhq_2Kzj1g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/v438EqsJ80PYp5IgoeAKyBiYcJpKSBkWcl89SPnXA/pok_tv_s1120_2398-master-it-490a3c8d4501d12105a8502ed0833bc102d9cc72.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/v438EqsJ80PYp5IgoeAKyBiYcJpKSBkWcl89SPnXA/pok_tv_s1120_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IQ/m9_DGri_ZOAtyQUH-yz0S0jwSaAYG7MX3NCveR1bI/pok_tv_s1120_2398-master-it.mp4",
             "captions": "",
-            "size": 2640911987
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IQ/m9_DGri_ZOAtyQUH-yz0S0jwSaAYG7MX3NCveR1bI/pok_tv_s1120_2398-master-it.mp4"
         },
         {
             "id": "79fd2cbf8f534632946e068c0145d864",
@@ -381,16 +318,13 @@
             "title": "La visita del Maestro",
             "description": "Adriano, un famosissimo Coordinatore ed ex Capopalestra, sta portando la Coppa Adriano sulle sponde del Lago Valore della regione di Sinnoh.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ef0sv49TRjIlG4GjAFF2GQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rl/ZuG0oqer-Uy4WG0t1gJMVHtPQvQY_ZZhv1xhu_4r0/pok_tv_s1121_2398-master-it-e1f6528e173ae30168999b363363e9d9ef1bdc68.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rl/ZuG0oqer-Uy4WG0t1gJMVHtPQvQY_ZZhv1xhu_4r0/pok_tv_s1121_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hD/S7-pJKFTPiZg6t01atgZQwJngizGCX9jg0GmmTrQ4/pok_tv_s1121_2398-master-it.mp4",
             "captions": "",
-            "size": 2608889519
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hD/S7-pJKFTPiZg6t01atgZQwJngizGCX9jg0GmmTrQ4/pok_tv_s1121_2398-master-it.mp4"
         },
         {
             "id": "f81cfa2ad5834976bf93a8e793241f08",
@@ -399,16 +333,13 @@
             "title": "Uno strano ristorante",
             "description": "Vera è giunta al Lago Valore per fare visita ai suoi vecchi amici e per partecipare alla Coppa Adriano. Ha portato doni per tutti, oltre che un nuovo Pokémon, Glaceon, la nuova evoluzione del suo fidato Eevee.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-Bz6KtWDSXYv5Oo55MkHwg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n7/zHAHaLusJWhjEGW2JFXm4-0OgWQlO9qv2nrjJN4bk/pok_tv_s1122_2398-master-it-8790a6aa7d1d4d7c7e1f08765287205fbe19f474.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n7/zHAHaLusJWhjEGW2JFXm4-0OgWQlO9qv2nrjJN4bk/pok_tv_s1122_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_Y/9g7mRWwBv5sJvl_cmonREMIxWdao7GtTyoKxMiZmk/pok_tv_s1122_2398-master-it.mp4",
             "captions": "",
-            "size": 2625765277
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_Y/9g7mRWwBv5sJvl_cmonREMIxWdao7GtTyoKxMiZmk/pok_tv_s1122_2398-master-it.mp4"
         },
         {
             "id": "4153d50de6b44977b66009be3aa8db82",
@@ -417,16 +348,13 @@
             "title": "La prima prova",
             "description": "Il giorno prima della Coppa Adriano, Zoey giunge al Lago Valore per la competizione.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QVPVDea0SXctmAJvjqo24I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ud/nIpQ2T9wMkBTnxMWEUa2bkfYZVyiIUUsl1seAdsfQ/pok_tv_s1123_2398-master-it-cd842d355d2384faf3272933cf3ebae757c0f651.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ud/nIpQ2T9wMkBTnxMWEUa2bkfYZVyiIUUsl1seAdsfQ/pok_tv_s1123_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9J/oFfaLOwjZUrSHz5oY-s8IdjBz2SSUX7rly90obgfM/pok_tv_s1123_2398-master-it.mp4",
             "captions": "",
-            "size": 2647536956
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9J/oFfaLOwjZUrSHz5oY-s8IdjBz2SSUX7rly90obgfM/pok_tv_s1123_2398-master-it.mp4"
         },
         {
             "id": "1ac2fdac0e9640ed978f514cac64d374",
@@ -435,16 +363,13 @@
             "title": "La seconda prova",
             "description": "Dopo che Lucinda e le sue amiche hanno passato facilmente i primi turni della Coppa Adriano, le ragazze si rilassano e chiacchierano. Ash, invece, non riesce a dormire e decide di fare una passeggiata lungo il Lago Valore.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GsL9rA6WQO0l49RTKxk03Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nt/RLx5KPXoXELiRfXoqYsPJXFlxiQIoUQf3CAtgUEZY/pok_tv_s1124_2398-master-it-6d10f9c69b8237a8482ead57ad6020c523efd410.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nt/RLx5KPXoXELiRfXoqYsPJXFlxiQIoUQf3CAtgUEZY/pok_tv_s1124_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a3/8pan-RtXodmVbhPILTdld3p13D2gc4xwOz6Kn7exc/pok_tv_s1124_2398-master-it.mp4",
             "captions": "",
-            "size": 2640093359
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a3/8pan-RtXodmVbhPILTdld3p13D2gc4xwOz6Kn7exc/pok_tv_s1124_2398-master-it.mp4"
         },
         {
             "id": "b6b8fe9a47c04fb59bb56519fabf0ae5",
@@ -453,16 +378,13 @@
             "title": "La strategia del sorriso",
             "description": "È in corso la semifinale della Coppa Adriano e il Piplup di Lucinda sta affrontando il Crawdaunt di Carlo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/trj-mkfAT7Um7VlGfq_CuU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rH/y01iDN-FyHqQ_zR78D6QZtY7l5l2kElN2u0KpaW5c/pok_tv_s1125_2398-master-it-8653bee91d0f6dc7525e7c57083258751a17d196.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rH/y01iDN-FyHqQ_zR78D6QZtY7l5l2kElN2u0KpaW5c/pok_tv_s1125_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UA/H-MQxC87weDk0KgrZrrJrnzUUzfq5rkk_Tk-S_RWo/pok_tv_s1125_2398-master-it.mp4",
             "captions": "",
-            "size": 2661041215
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UA/H-MQxC87weDk0KgrZrrJrnzUUzfq5rkk_Tk-S_RWo/pok_tv_s1125_2398-master-it.mp4"
         },
         {
             "id": "705d838798cd4d2992b7ecf1887087a0",
@@ -471,16 +393,13 @@
             "title": "Una cattura difficile",
             "description": "Sulla strada per Pratopoli, Ash e i suoi amici incontrano Matte e il suo Piplup, Pippy. Il duo è sulle tracce di uno Yanma.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cF2Dh5jNTSkkrfs8Yhwh6A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aK/lPIdNEN_iJ-X7QA1kIv8ND5O9b0IHJj9QH91A3Dxo/pok_tv_s1126_2398-master-it-84c908e6f84e06ec340f2e91675415970c5d4759.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aK/lPIdNEN_iJ-X7QA1kIv8ND5O9b0IHJj9QH91A3Dxo/pok_tv_s1126_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qO/nrzoI0lnwHXGLYcKlnodJ2AiThi0ccJKdWdHr8fog/pok_tv_s1126_2398-master-it.mp4",
             "captions": "",
-            "size": 2627281149
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qO/nrzoI0lnwHXGLYcKlnodJ2AiThi0ccJKdWdHr8fog/pok_tv_s1126_2398-master-it.mp4"
         },
         {
             "id": "8783b7d98c0a4a5398baa2c3ffaceb78",
@@ -489,16 +408,13 @@
             "title": "Il Chimchar infuocato!",
             "description": "Mentre i Pokémon di Ash si allenano per il prossimo incontro nella Palestra di Pratopoli, Gligar è spazzato via da una ventata improvvisa. Il Pokémon atterra sulla mongolfiera del Team Rocket, bucandola involontariamente con i suoi artigli.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h4O32YwKSlMmLqiw_-s63g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vq/zqiFrmFpGTB_8ZnuR5mD5EsJR8wFjtywXgaC5zf4c/pok_tv_s1127_2398-master-it-d9812618e296bd4989c8d44091da9f2ad979bb51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vq/zqiFrmFpGTB_8ZnuR5mD5EsJR8wFjtywXgaC5zf4c/pok_tv_s1127_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_J/1NUkQbI0Az-5gpKKrhozMAWw0qc2Nl5SiRP-vrqAw/pok_tv_s1127_2398-master-it.mp4",
             "captions": "",
-            "size": 2629484200
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_J/1NUkQbI0Az-5gpKKrhozMAWw0qc2Nl5SiRP-vrqAw/pok_tv_s1127_2398-master-it.mp4"
         },
         {
             "id": "958b3ebe364e493ebe4bcb68d6ab8cb4",
@@ -507,16 +423,13 @@
             "title": "Il Festival di Croagunk",
             "description": "Ash ha raggiunto la Palestra di Pratopoli, ma oggi non potrà gareggiare, perché Omar, il Capopalestra, è in viaggio nell'immensa palude di Pratopoli.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lYs-vjZOST4vkvLaNarjLQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bd/gHhzSpVAzyiKFiw-yfvdodUgApZlaB2_-y2PxdC5Q/pok_tv_s1128_2398-master-it-4bdf360bf9fac7b48c1ffb2a2e1221f02aeed79b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bd/gHhzSpVAzyiKFiw-yfvdodUgApZlaB2_-y2PxdC5Q/pok_tv_s1128_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-7/iQkf8tScjdyaMTTKCztXEARyw4sPctAvHyF_kemzY/pok_tv_s1128_2398-master-it.mp4",
             "captions": "",
-            "size": 2629865914
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-7/iQkf8tScjdyaMTTKCztXEARyw4sPctAvHyF_kemzY/pok_tv_s1128_2398-master-it.mp4"
         },
         {
             "id": "59c218fe6bbf41e6956298d57d57a56e",
@@ -525,16 +438,13 @@
             "title": "Pokémon Ranger e il rapimento di Riolu (prima parte)",
             "description": "Nel cuore della notte in un isolato centro di ricerca si scatena il caos improvviso, quando il soggetto sotto osservazione RX-1, un Riolu, fugge con l'aiuto di alcuni uomini e di un furgoncino.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WcIY_mu_QeYlWKY1X1XpW4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cm/QaOJ7bZdCs9bTHiuyJA2nmStSL611iY6Jm1ONrvIc/pok_tv_s1129_2398-master-it-69aff9a6ee6fd3ea7d55d33b3f6b3692f475895a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cm/QaOJ7bZdCs9bTHiuyJA2nmStSL611iY6Jm1ONrvIc/pok_tv_s1129_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KR/Wbi-0NZ6FTeCVGIiuwT1rFa5Qa5ev0P0RC3p1aCPk/pok_tv_s1129_2398-master-it.mp4",
             "captions": "",
-            "size": 2647884563
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KR/Wbi-0NZ6FTeCVGIiuwT1rFa5Qa5ev0P0RC3p1aCPk/pok_tv_s1129_2398-master-it.mp4"
         },
         {
             "id": "588de0b9157d4e188d9ac69ed09127af",
@@ -543,16 +453,13 @@
             "title": "Pokémon Ranger e il rapimento di Riolu (seconda parte)",
             "description": "J, il Cacciatore di Pokémon, ha intrappolato Ash e rapito Riolu in una foresta in fiamme, seguendo gli ordini del suo cliente. Purtroppo Ash non riesce a impedirle di prendere Riolu e fuggire via!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WI3guRV9ThgjZrGntCRJ68/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bz/8AUVwJmKTwKkHronhN_k5C0OVJ8TTlgyKqc4TOgm8/pok_tv_s1130_2398-master-it-b35bdcb87554f1af9c77584aa14b816c41b12785.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bz/8AUVwJmKTwKkHronhN_k5C0OVJ8TTlgyKqc4TOgm8/pok_tv_s1130_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9y/CHIIn4t6y5DJXxLbjhuIJ_hC-uvneCZpIsYMgSjzE/pok_tv_s1130_2398-master-it.mp4",
             "captions": "",
-            "size": 2651401515
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9y/CHIIn4t6y5DJXxLbjhuIJ_hC-uvneCZpIsYMgSjzE/pok_tv_s1130_2398-master-it.mp4"
         },
         {
             "id": "01ec54755d624673803c5ac00febea1f",
@@ -561,16 +468,13 @@
             "title": "La quarta Medaglia di Sinnoh!",
             "description": "È il giorno dopo il Festival di Croagunk di Pratopoli e mentre il Team Rocket ha il tempo per godersi dei rilassanti bagni di fango, Ash e i suoi Pokémon devono allenarsi per l'incontro nella Palestra.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AexUdV1iRnMgDxawA_r6h8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/na/SvMDBvy6gv6gGK8xDC64gXj8sSHYO76dsP0hD-p40/pok_tv_s1131_2398-master-it-10ce56840f8225202f7663c56b105a3cafdabd09.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/na/SvMDBvy6gv6gGK8xDC64gXj8sSHYO76dsP0hD-p40/pok_tv_s1131_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tY/0zZwhCi0cRzcP-fu0wOCJ-PL1_UwFCkufx24CHHSw/pok_tv_s1131_2398-master-it.mp4",
             "captions": "",
-            "size": 2652650741
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tY/0zZwhCi0cRzcP-fu0wOCJ-PL1_UwFCkufx24CHHSw/pok_tv_s1131_2398-master-it.mp4"
         },
         {
             "id": "008b2a7f5fa04f0eb4290424620af9bf",
@@ -579,16 +483,13 @@
             "title": "Un Pokémon insaziabile!",
             "description": "Ash e i suoi amici sono tratti in salvo da un acquazzone improvviso quando Luana, una governante, li invita a soggiornare nella villa di Mr. Backlot. Il vecchio Mr. Backlot è un uomo molto ricco che ha trasformato l'area in un giardino dei trofei per i propri Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AIsqf1-gTw4tCkEJGIK-b8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4V/R8YIMvMyFWfO8zq6qDtzA6oso8Hh9s1Fp9pdo3fd0/pok_tv_s1132_2398-master-it-9b3b589d3e3ecfca7266d8bc17ab02a2f80b7eba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4V/R8YIMvMyFWfO8zq6qDtzA6oso8Hh9s1Fp9pdo3fd0/pok_tv_s1132_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2t/zgtShkdHw8ICe4KV2hoGX12TxD954dvbTwmC_ciZ8/pok_tv_s1132_2398-master-it.mp4",
             "captions": "",
-            "size": 2626120406
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2t/zgtShkdHw8ICe4KV2hoGX12TxD954dvbTwmC_ciZ8/pok_tv_s1132_2398-master-it.mp4"
         },
         {
             "id": "68bf6bd75acf416f9fe49ede5cfb3b02",
@@ -597,16 +498,13 @@
             "title": "Combattere la paura con la paura",
             "description": "Mentre Ash si dirige nuovamente verso Cuoripoli per affrontare un incontro in Palestra a lungo rimandato, ripensa ai problemi durante la lotta del suo Gligar. Anche se Ash si impegna con Gligar in allenamenti supplementari, non riesce a ottenere i risultati sperati.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aL9r11rPQW8n-Se3lz7OwI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n8/W_RL9HHqsXF6xvIg3E7KhQTtG6oSoItGy8OIaFO6w/pok_tv_s1133_2398-master-it-1214ffe44fc49b019e84bc0d0061f1cddcda66da.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n8/W_RL9HHqsXF6xvIg3E7KhQTtG6oSoItGy8OIaFO6w/pok_tv_s1133_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D4/TgBQF_kNot503hFHi3ZGOIW6C0FHT_QOnz7re-xlI/pok_tv_s1133_2398-master-it.mp4",
             "captions": "",
-            "size": 2639674292
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D4/TgBQF_kNot503hFHi3ZGOIW6C0FHT_QOnz7re-xlI/pok_tv_s1133_2398-master-it.mp4"
         },
         {
             "id": "b8e78fe2f5554680b041fa7ba7083153",
@@ -615,16 +513,13 @@
             "title": "Questione di stile!",
             "description": "Ash e i suoi amici sono tornati a Cuoripoli per l'incontro in Palestra di Ash; tuttavia Fannie, il Capopalestra, è ancora fuori città.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uOeP4vVVRoAsEH6e6cIMVM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LD/lhkoFSd6i8Am8UaxByohYFS5W0n4PTrlT20-YTSro/pok_tv_s1134_2398-master-it-3ed10149129aa003fd60a2085f0e718c5dd0cb07.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LD/lhkoFSd6i8Am8UaxByohYFS5W0n4PTrlT20-YTSro/pok_tv_s1134_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hA/4Epw_6Stu0zemDqlN-gYx2NABHzxKQ4vgz0MRPw8k/pok_tv_s1134_2398-master-it.mp4",
             "captions": "",
-            "size": 2625416788
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hA/4Epw_6Stu0zemDqlN-gYx2NABHzxKQ4vgz0MRPw8k/pok_tv_s1134_2398-master-it.mp4"
         },
         {
             "id": "1a4ee32089524130b11e752a2cafb5e3",
@@ -633,16 +528,13 @@
             "title": "Con gli Psyduck non si passa!",
             "description": "I nostri eroi sono in viaggio per Memoride ma la strada passa per uno stretto passaggio bloccato da tre Psyduck irritabili. Ash e i suoi amici non possono fare una deviazione, altrimenti perderebbero l'incontro a Memoride.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Gk7jIIlSQTAsR51KiyvteM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ps/qHIz44mQyLE_x6po_wtPxc0GT5BUo6ggo_BKA5VRE/pok_tv_s1135_2398-master-it-dd40eb50d7bc645926fb4c4c5f2776f6d04629ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ps/qHIz44mQyLE_x6po_wtPxc0GT5BUo6ggo_BKA5VRE/pok_tv_s1135_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xe/6E2Eh5MAzEg0mAB3ozuZykOf9dTdIOX7OdXlv_3TI/pok_tv_s1135_2398-master-it.mp4",
             "captions": "",
-            "size": 2646448488
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xe/6E2Eh5MAzEg0mAB3ozuZykOf9dTdIOX7OdXlv_3TI/pok_tv_s1135_2398-master-it.mp4"
         },
         {
             "id": "92129be0ebea469dbc9bf898cb3d9932",
@@ -651,16 +543,13 @@
             "title": "L'Accademia Estiva Pokémon",
             "description": "Ash e i suoi amici sono giunti appena in tempo per l'Accademia Estiva Pokémon organizzata presso la struttura di ricerca del Prof. Rowan a Monte Corona, dove sono presenti molti giovani Allenatori desiderosi di fare nuove amicizie e migliorare la conoscenza dei Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/khKb4OvqRp0vJv4mMs9mTI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yd/eBA2aYhAIH8New2JBD3RtNrA4fuyuKrfrKmfN_lTc/pok_tv_s1136_2398-master-it-c1b5cb562661336f2d6ea52057f41fbcfcdc43e1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yd/eBA2aYhAIH8New2JBD3RtNrA4fuyuKrfrKmfN_lTc/pok_tv_s1136_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P_/Tcxq2irhL7UtvPZq6R_QZ5Wm3rlHy7Tj9EEEzQKkc/pok_tv_s1136_2398-master-it.mp4",
             "captions": "",
-            "size": 2629924473
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P_/Tcxq2irhL7UtvPZq6R_QZ5Wm3rlHy7Tj9EEEzQKkc/pok_tv_s1136_2398-master-it.mp4"
         },
         {
             "id": "c6c5d2f9e2d848a79263e875f9855c82",
@@ -669,16 +558,13 @@
             "title": "Lumineon, un Pokémon straordinario!",
             "description": "È il terzo giorno dell'Accademia Estiva Pokémon del Prof. Rowan, il quale ha inviato gli iscritti a osservare i Pokémon di tipo Acqua che vivono in un lago vicino.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xsXS-eLYSKckmPodfmFXII/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bj/dIg3vV0aa3VPmIs5-Tqo-TqYn8jEWNPdcTUtHlAD4/pok_tv_s1137_2398-master-it-203d400189c05491d0e729516fbc43177425d64f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bj/dIg3vV0aa3VPmIs5-Tqo-TqYn8jEWNPdcTUtHlAD4/pok_tv_s1137_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2g/3dQqQN7tX3gazMmnOR40ZKdpRnVY9GX2_p4UN8yCo/pok_tv_s1137_2398-master-it.mp4",
             "captions": "",
-            "size": 2644420497
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2g/3dQqQN7tX3gazMmnOR40ZKdpRnVY9GX2_p4UN8yCo/pok_tv_s1137_2398-master-it.mp4"
         },
         {
             "id": "91a79765dbaf409ba38c8d42dbc488c8",
@@ -687,16 +573,13 @@
             "title": "Oscure presenze",
             "description": "Il quinto giorno dell'Accademia Estiva Pokémon, il Prof. Rowan ha un incarico speciale per gli iscritti: in coppia con un compagno devono visitare di notte le Rovine della collina.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kaeXZduvQJso4yNQtvEiMg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/is/ZAldjNpaqNbp5SUUoHu_LX4EK7nAh7DbY5-PSZRV8/pok_tv_s1138_2398-master-it-1ddfdfe9687a563375546c52386bfdf0e694e096.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/is/ZAldjNpaqNbp5SUUoHu_LX4EK7nAh7DbY5-PSZRV8/pok_tv_s1138_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f0/UgfOHU3QdktgEms82JduwzvxtJJT1klTyUPZh1zcw/pok_tv_s1138_2398-master-it.mp4",
             "captions": "",
-            "size": 2647399402
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f0/UgfOHU3QdktgEms82JduwzvxtJJT1klTyUPZh1zcw/pok_tv_s1138_2398-master-it.mp4"
         },
         {
             "id": "0b22b5de73aa4ea288f20965701c0ad6",
@@ -705,16 +588,13 @@
             "title": "La gara finale! Il triathlon dei Pokémon!",
             "description": "L'Accademia Estiva Pokémon è quasi terminata, manca solo un evento: il triathlon dei Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CyK13nOqTqIiPIJZXAcCtY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YD/vDghTZE_kgF8FYEKA0HNT-oHPCcGv1HpabDFjey-s/pok_tv_s1139_2398-master-it-a88b2c93e0ad1f8aa020f0cf511c625cf1693d40.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YD/vDghTZE_kgF8FYEKA0HNT-oHPCcGv1HpabDFjey-s/pok_tv_s1139_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1f/V84ZrNSMwO6BzPvdvWqTBekDyfSI9Jur0p-bBGwmA/pok_tv_s1139_2398-master-it.mp4",
             "captions": "",
-            "size": 2641370231
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1f/V84ZrNSMwO6BzPvdvWqTBekDyfSI9Jur0p-bBGwmA/pok_tv_s1139_2398-master-it.mp4"
         },
         {
             "id": "d28de10844e24ea3ab6e2d711fe402eb",
@@ -723,16 +603,13 @@
             "title": "Un Team Rocket da combattimento magro e cattivo!",
             "description": "Lucinda e Piplup stanno lavorando duramente a una nuova combinazione per l'attacco Bollaraggio, ma il Pokémon si sforza così tanto da svenire! Lucinda e il gruppo portano subito Piplup presso un Centro Pokémon, dove potrà godersi il meritato riposo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0o3hCETiTqMq24tcR_kAus/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_b/KGoB1FBbterOqA-OfStxkNgdVa2_sUIFv0HW76CKQ/pok_tv_s1140_2398-master-it-a857026dcf5bae4dbdfdcc559ca2dff40bea3c11.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_b/KGoB1FBbterOqA-OfStxkNgdVa2_sUIFv0HW76CKQ/pok_tv_s1140_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/4hCefTOXzaw9JQnEjnVCTZsCll1iuTI_l0fYn1RFw/pok_tv_s1140_2398-master-it.mp4",
             "captions": "",
-            "size": 2632627044
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/4hCefTOXzaw9JQnEjnVCTZsCll1iuTI_l0fYn1RFw/pok_tv_s1140_2398-master-it.mp4"
         },
         {
             "id": "881a14d720a3486fa05ccdd849714578",
@@ -741,16 +618,13 @@
             "title": "Imparare dalle proprie sconfitte",
             "description": "Lucinda e i suoi amici stanno attraversando una città sulla strada per la Gara di Memoride quando vedono Zoey impegnata in un duro incontro con un Coordinatore ben vestito.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iBoU1yCjSG8oFzN2ElxRXg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bL/TRpHqPGB8wxM8vrSVowdWkA6-0bU_4VkHPteM0IfE/pok_tv_s1141_2398-master-it-11d40d3eba9d4a037d246adaaac29c341a2da635.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bL/TRpHqPGB8wxM8vrSVowdWkA6-0bU_4VkHPteM0IfE/pok_tv_s1141_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vN/EnEfPUkgCxTvNksddiM1HAQECi1ewwPPgwnBemomI/pok_tv_s1141_2398-master-it.mp4",
             "captions": "",
-            "size": 2615809497
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vN/EnEfPUkgCxTvNksddiM1HAQECi1ewwPPgwnBemomI/pok_tv_s1141_2398-master-it.mp4"
         },
         {
             "id": "3d50f2c8cae44bcf9b9696101b4a888f",
@@ -759,16 +633,13 @@
             "title": "Dottor Brock!",
             "description": "Sulla strada per Memoride, Ash e i suoi amici si fermano in una baita di montagna. Mentre Lucinda si allena e Ash sonnecchia, Brock scende dalla montagna per cercare una farmacia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/PVDyyMrkS88m5aWEBtKiI8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L1/PdSqWMEktqka9uYsKYk-hom2khav4M0Q2TxxkQeYo/pok_tv_s1142_2398-master-it-819a5c2a7211eb5ffdb3f343b8dc82f82b5ff218.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L1/PdSqWMEktqka9uYsKYk-hom2khav4M0Q2TxxkQeYo/pok_tv_s1142_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/VfHkkITUxFacp7LcTRmk26eKVzZAx5EhB7H9UkcBc/pok_tv_s1142_2398-master-it.mp4",
             "captions": "",
-            "size": 2624478919
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/VfHkkITUxFacp7LcTRmk26eKVzZAx5EhB7H9UkcBc/pok_tv_s1142_2398-master-it.mp4"
         },
         {
             "id": "a034ff7304754e0f855daadcdfc08569",
@@ -777,16 +648,13 @@
             "title": "Generazioni a confronto",
             "description": "Lucinda è diretta alla Gara di Memoride, scoprendo però che anche Lila si è iscritta! È il suo grande ritorno, per questo ha preparato un fantastico spettacolo insieme al suo Cherrim.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/oDT_cwR1Tg8hV2q3N_AhWk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/--_WtHw3KoMcPhWs_Bj-lc5OabkZ5izvpfefj_Lag/pok_tv_s1143_2398-master-it-f185390ba52f9f8ca00fc155f6fbe307d5c3d51e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/--_WtHw3KoMcPhWs_Bj-lc5OabkZ5izvpfefj_Lag/pok_tv_s1143_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lc/HcXqfnvu3Sf2H8ls8Pjb-JHEk1K3tP4ABuEgTgGB8/pok_tv_s1143_2398-master-it.mp4",
             "captions": "",
-            "size": 2610206133
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lc/HcXqfnvu3Sf2H8ls8Pjb-JHEk1K3tP4ABuEgTgGB8/pok_tv_s1143_2398-master-it.mp4"
         },
         {
             "id": "fdaf2094da1c4a65869973faf955c52b",
@@ -795,16 +663,13 @@
             "title": "Lo splendore della Splendisfera",
             "description": "Il Team Galassia ha appena rubato l'Adamasfera da un aereo di trasporto diretto a Memoride e il suo prossimo obiettivo potrebbe essere la Splendisfera conservata nel centro di ricerca della città.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_a8glNocSmUhplz-vlVxSs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aP/ECvRCdqJvKBGGQS9GbQlkg8B3J0AnIe_Gf0Gnhz1E/pok_tv_s1144_2398-master-it-e3ba69c2c64825ef9042741684182612387c0a45.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aP/ECvRCdqJvKBGGQS9GbQlkg8B3J0AnIe_Gf0Gnhz1E/pok_tv_s1144_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/VEaUSIIHT1Lk9VOd8bzmi_9apsJGjlaPLRcb-JpKM/pok_tv_s1144_2398-master-it.mp4",
             "captions": "",
-            "size": 2623454417
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/VEaUSIIHT1Lk9VOd8bzmi_9apsJGjlaPLRcb-JpKM/pok_tv_s1144_2398-master-it.mp4"
         },
         {
             "id": "7f9685e66f4745599bcf97f04415be0d",
@@ -813,16 +678,13 @@
             "title": "Due team da sconfiggere!",
             "description": "Martes e Saturno, comandanti del Team Galassia, hanno sequestrato Camilla, sua nonna Carolina, l'uomo d'affari Cyrus, la squadra dell'agente Jenny e i nostri eroi all'interno del centro di ricerca di Memoride.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/f5aF5m9HRVkm8-X8EQVvg0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2q/VsinL_MeiygvFu2ov3vfqorYd8ozaU54TpW6JKh9s/pok_tv_s1145_2398-master-it-4eecdc1f64d9eea40dfa2527d120ae578c363fff.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2q/VsinL_MeiygvFu2ov3vfqorYd8ozaU54TpW6JKh9s/pok_tv_s1145_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mv/Rrj10XvkeI7wmt780D91qtiJReKYGnHq6Rtm-fk4c/pok_tv_s1145_2398-master-it.mp4",
             "captions": "",
-            "size": 2640517620
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mv/Rrj10XvkeI7wmt780D91qtiJReKYGnHq6Rtm-fk4c/pok_tv_s1145_2398-master-it.mp4"
         },
         {
             "id": "7a0704f23a9947c6881734b435916a9f",
@@ -831,16 +693,13 @@
             "title": "Se la sciarpa ti sta bene, indossala!",
             "description": "Ash e i suoi amici leggono sul giornale che un mostro con la sciarpa si aggira a Flemminia, dove loro sono diretti. Ash è scettico, anche se lui e i suoi amici vedono un'ombra nella foresta che sembra proprio avere l'aspetto del fantomatico mostro.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/egcE8jqZR8YiBc0tDWRap8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pF/7JJX1W0xN3_dZ-AkNPmIZgThfrxDwkkBNLv-qz_PM/pok_tv_s1146_2398-master-it-6e2938cbb85b1e672aed653509cbb3b4b7c1e28f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pF/7JJX1W0xN3_dZ-AkNPmIZgThfrxDwkkBNLv-qz_PM/pok_tv_s1146_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lC/7_iCzj0RUbCQiutCGwIGB2IZntNFpjeZpJLuW_X-g/pok_tv_s1146_2398-master-it.mp4",
             "captions": "",
-            "size": 2637465867
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lC/7_iCzj0RUbCQiutCGwIGB2IZntNFpjeZpJLuW_X-g/pok_tv_s1146_2398-master-it.mp4"
         },
         {
             "id": "dae2754204b04b10aadb134d352d445b",
@@ -849,16 +708,13 @@
             "title": "Il Pokémon ritrovato!",
             "description": "Ash e i suoi amici giungono in una piccola città in cui tutte le ragazze sono in fila per vedere Aaron, uno dei Superquattro, impegnato in una sessione di allenamento aperta al pubblico.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2uJ1QgSwSxAqtsTTTUtRFs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4n/E9JBHIPyBVegTwtB5u8ZX-3vFWgYQDgukbQKOtA_4/pok_tv_s1147_2398-master-it-0e1f063c70eeccebb780d2b603a8e11e8841501f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4n/E9JBHIPyBVegTwtB5u8ZX-3vFWgYQDgukbQKOtA_4/pok_tv_s1147_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SG/gna0lC63qQdlEt6I8d4mRVVT0ym9yERNfVmLr2qgE/pok_tv_s1147_2398-master-it.mp4",
             "captions": "",
-            "size": 2647658848
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SG/gna0lC63qQdlEt6I8d4mRVVT0ym9yERNfVmLr2qgE/pok_tv_s1147_2398-master-it.mp4"
         },
         {
             "id": "94a2e748ef12409babd926422fd83f4c",
@@ -867,16 +723,13 @@
             "title": "Dare una mano al nemico",
             "description": "Ash e i suoi amici vanno alla ricerca di un Centro Pokémon per poter assistere a un importante incontro trasmesso in TV: il Campione Camilla sconfigge Aaron dei Superquattro!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lKLnSO8SQJsq9kmQi_YP0w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L-/OgSEVbEQZHSHtiGZk0YWw771l2VUsu2eloMTLqcjc/pok_tv_s1148_2398-master-it-dc64ee3c248101c4a753a433eeb98767b76a7bdd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L-/OgSEVbEQZHSHtiGZk0YWw771l2VUsu2eloMTLqcjc/pok_tv_s1148_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/V_P3cAUevLUu1QK45_XiXDYbwTCM2Y4cwEGYDfDzg/pok_tv_s1148_2398-master-it.mp4",
             "captions": "",
-            "size": 2641975382
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/V_P3cAUevLUu1QK45_XiXDYbwTCM2Y4cwEGYDfDzg/pok_tv_s1148_2398-master-it.mp4"
         },
         {
             "id": "623adc5d4951471dad2b2d05b442dbb0",
@@ -885,16 +738,13 @@
             "title": "Lo scatenato Barry!",
             "description": "Quando Ash sta entrando nella Palestra di Cuoripoli, si scontra con un Allenatore biondo che va davvero di fretta! L'Allenatore si dilegua in strada, dopo aver lasciato dietro di sé il suo contenitore delle Medaglie.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YjrcXUlRRx0rSstBbRC27A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ey/KFpDY9nOdmwbULnoPe1VRMratuu-Mrh6829jArZ7I/pok_tv_s1149_2398-master-it-742f5cc8641325858f3a96cef5278024506e5137.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ey/KFpDY9nOdmwbULnoPe1VRMratuu-Mrh6829jArZ7I/pok_tv_s1149_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w5/C0M3Mw0QGt9faSBNgViF9GV5vDJ2eQO-CYg6F-85s/pok_tv_s1149_2398-master-it.mp4",
             "captions": "",
-            "size": 2637296311
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w5/C0M3Mw0QGt9faSBNgViF9GV5vDJ2eQO-CYg6F-85s/pok_tv_s1149_2398-master-it.mp4"
         },
         {
             "id": "2735f0f66c8445d0bbf4dbc2efb368fb",
@@ -903,16 +753,13 @@
             "title": "Il Controscudo!",
             "description": "Ash è pronto a scontrarsi per la seconda volta con Fannie, la Capopalestra di Cuoripoli, mettendo in gioco il suo orgoglio e la Medaglia Vestigia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JzXw9myERdAu_Tbwu-zaPs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nD/c7XGfZDdXkRnX7n1fmHCls5pTmNAxNUbl0DJyJii8/pok_tv_s1150_2398-master-it-794ef183b1f387975c31887e0d8a7777b941f682.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nD/c7XGfZDdXkRnX7n1fmHCls5pTmNAxNUbl0DJyJii8/pok_tv_s1150_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cd/rptTnjkXyPK4SyeN2IOrQ9WMnHflUv1XzunUATGvA/pok_tv_s1150_2398-master-it.mp4",
             "captions": "",
-            "size": 2649750949
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cd/rptTnjkXyPK4SyeN2IOrQ9WMnHflUv1XzunUATGvA/pok_tv_s1150_2398-master-it.mp4"
         },
         {
             "id": "aafdbd08c20a431e9e915dd99a8e41f9",
@@ -921,16 +768,13 @@
             "title": "Team Rocket, addio?",
             "description": "Barry si unisce ad Ash e al suo gruppo mentre si stanno per imbarcare su un dirigibile diretto a Canalipoli. Al loro sbarco, componenti del Team Rocket,camuffati da fotografi,si offrono di scattare una foto commemorativa di tutti loro e dei rispettivi Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qv29CMIKQx4npFd2ZqOQfk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/b1fTzjC1wU9ml8AJ9wlsutxheSXqU41QD8DTsssV8/pok_tv_s1151_2398-master-it-f0a05d3c16a61eee026514ade127b95673008e6a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/b1fTzjC1wU9ml8AJ9wlsutxheSXqU41QD8DTsssV8/pok_tv_s1151_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-b/A1oWkptgNFOWEcFPyYa-Nnu2C5JXwSpBdlIoHYvYA/pok_tv_s1151_2398-master-it.mp4",
             "captions": "",
-            "size": 2655536500
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-b/A1oWkptgNFOWEcFPyYa-Nnu2C5JXwSpBdlIoHYvYA/pok_tv_s1151_2398-master-it.mp4"
         },
         {
             "id": "45df20a0ddff4a09a423cc137488d81d",
@@ -939,16 +783,13 @@
             "title": "Incubi prima della battaglia!",
             "description": "Ash raggiunge la Palestra di Canalipoli, ma ci sono brutte notizie: il Capopalestra si trova sull'Isola Ferrosa, mentre gli abitanti del posto non riescono a dormire a causa di orribili incubi!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Rd8goN3_SgkpCPME3SI2B0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D9/mX9VKgq5-PJX-h2IG4RVEHKi0Akg1S256ZGVQf7ps/pok_tv_s1152_2398-master-it-10696e37e3995440528d1e65c240b7cfe3bf913a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D9/mX9VKgq5-PJX-h2IG4RVEHKi0Akg1S256ZGVQf7ps/pok_tv_s1152_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lh/-8F5kMgIK1xYqhpS0Wohdj13IhVIrJQGGxeq0xZ10/pok_tv_s1152_2398-master-it.mp4",
             "captions": "",
-            "size": 2657623449
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lh/-8F5kMgIK1xYqhpS0Wohdj13IhVIrJQGGxeq0xZ10/pok_tv_s1152_2398-master-it.mp4"
         }
     ]
 }

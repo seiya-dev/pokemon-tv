@@ -1,18 +1,15 @@
 {
-    "channel_id": "alola-inselwanderschaft",
+    "channel_id": "25th-alola",
     "channel_name": "Alola-Inselwanderschaft",
     "channel_description": "Schaue zu, wie Ash auf Pokémon-TV gegen Herrscher-Pokémon und Inselkönige kämpft.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/alola/alola-1125x1500-de.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/alola/alola-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/alola/alola-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/alola/alola-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 4,
-    "channel_creation_date": 1617984912,
-    "channel_update_date": 1618588956,
+    "order": -1617984912,
     "media": [
         {
             "id": "f1a17bb2003e4cf4867b7736f4cd433e",
@@ -21,16 +18,13 @@
             "title": "Herrscher des Kampfes!",
             "description": "Ash möchte unbedingt einen neuen Z-Kristall, aber dafür muss er erst einige schwierige Aufgaben meistern!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8aF7sgA-TPQhnt3NvTNQz4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p1/3VXG9_hMjgGz29cN3jO7j8IYSQ2fZr5BiRAqNzNtI/pokemon_season20_ep09_ger-7abe2ab09d3f04b6c407fb6f340bbba8bcee3481.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p1/3VXG9_hMjgGz29cN3jO7j8IYSQ2fZr5BiRAqNzNtI/pokemon_season20_ep09_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iW/Z03eyxfFkqWvfnSYJ6qqb_AdhEYG0dXrul_wkmoco/pokemon_season20_ep09_ger.mp4",
             "captions": "",
-            "size": 2629065632
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iW/Z03eyxfFkqWvfnSYJ6qqb_AdhEYG0dXrul_wkmoco/pokemon_season20_ep09_ger.mp4"
         },
         {
             "id": "25963f0657364e69a880090938159d7d",
@@ -39,16 +33,13 @@
             "title": "Doppelt geprüft hält besser!",
             "description": "Die große Prüfung  von Mele-Mele steht unmittelbar bevor, in der Ash gegen den starken und weisen Inselkönig Hala antreten wird!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/JZY_Blc2TmkqIAJCTgVnX0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YT/Q1r4W7IBSBroG9rm-97DN102WxoS_KPpXwOJxHGtY/pokemon_season20_ep10_ger-c5a56edb5eec390a8d527e0a430cfb537b3ae4d9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YT/Q1r4W7IBSBroG9rm-97DN102WxoS_KPpXwOJxHGtY/pokemon_season20_ep10_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cr/3x72VL9D0FmkBTLOgOW7p6YlJ4hJ0T5kA3N9ssae0/pokemon_season20_ep10_ger.mp4",
             "captions": "",
-            "size": 2648916611
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cr/3x72VL9D0FmkBTLOgOW7p6YlJ4hJ0T5kA3N9ssae0/pokemon_season20_ep10_ger.mp4"
         },
         {
             "id": "8c3f10da1785433e91a1b237b684a2f8",
@@ -57,16 +48,13 @@
             "title": "Kleinfisch, große Beute!",
             "description": "Unsere Helden sind mit Freizeitaktivitäten auf Akala beschäftigt, darunter Ash und Tracy, die auf ein großes Angel-Abenteuer zusteuern.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jD8Q2heFQz4kaGyN7aEovg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hD/_Hp6b-uWlurCND-0JqkWl_tGKMxu0lS9UA-0HwUoc/pokemon_season20_ep33_ger-a18b6e3f7ec807651a0c1eb5cb6feade866e668d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hD/_Hp6b-uWlurCND-0JqkWl_tGKMxu0lS9UA-0HwUoc/pokemon_season20_ep33_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oh/T2YYVW6REwtJdv3mBJ2J14FZfAeqd8JxKvxZ1JkHA/pokemon_season20_ep33_ger.mp4",
             "captions": "",
-            "size": 2639139817
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oh/T2YYVW6REwtJdv3mBJ2J14FZfAeqd8JxKvxZ1JkHA/pokemon_season20_ep33_ger.mp4"
         },
         {
             "id": "188973fed2234a3383d179107636ce6a",
@@ -75,16 +63,13 @@
             "title": "Eine geschmackvolle Aufgabe!",
             "description": "Mayla schickt unsere Helden auf die Suche nach Zutaten für das berühmte Akala-Curry. Ob diese Aufgabe einen überraschenden Geschmack hinterlassen wird?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GIlz_tIjSjMg9F5EHY2zmo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nW/2mdJuqKfEZoXiA9JUJJiigQ82Qiy2Wyl9IXgVQZAM/pokemon_season20_ep35_ger-b11455c745429ea39893a666a9fe17f6ef7065e9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/40/toXFsbU0kAYuy8W3LQ9wpNeNfKHQT_EodvuaSa3-A/pokemon_season20_ep35_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0S/qtwse_pEDfs9BVLOB6LGtCO_Uf_zZTmzqf3_lstkg/pokemon_season20_ep35_ger.mp4",
             "captions": "",
-            "size": 2647990272
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0S/qtwse_pEDfs9BVLOB6LGtCO_Uf_zZTmzqf3_lstkg/pokemon_season20_ep35_ger.mp4"
         },
         {
             "id": "adc49da07690463fa49b444f967f1bc0",
@@ -93,16 +78,13 @@
             "title": "Erneut geprüft hält noch besser!",
             "description": "Es ist endlich Zeit für Ashs große Prüfung gegen Mayla – es wird bestimmt kein gewöhnlicher Kampf!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep36_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep36_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rcSdoHaQRj8pJtET5Z_G8A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d0/KoN8UV_LWql2K5zZR7t2yTzEkhOfUOXOhqkCMNk2I/pokemon_season20_ep36_ger-ceab258b13cdc27f78cf1760e89f3b2efb8e2915.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d0/KoN8UV_LWql2K5zZR7t2yTzEkhOfUOXOhqkCMNk2I/pokemon_season20_ep36_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wy/qRWgwBevTSOp1gRfRegFjFjIJUkIYrrOQqA2yGgao/pokemon_season20_ep36_ger.mp4",
             "captions": "",
-            "size": 2611822277
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wy/qRWgwBevTSOp1gRfRegFjFjIJUkIYrrOQqA2yGgao/pokemon_season20_ep36_ger.mp4"
         },
         {
             "id": "2a14213e93f84c72a4baa9b63b44d8f4",
@@ -111,16 +93,13 @@
             "title": "Prüfungen für harte Typen!",
             "description": "Eine Serie von kleinen Prüfungen bringt Ash näher an sein Ziel – eine große Prüfung!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep30_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep30_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/KhQhPpP4THIpLqptjtE2PQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4L/yX21MwNoT7CEnfCzGs-PW1DtL7mDFinQa84mICSx0/pokemon_season21_ep30_ger-60c915d32e395be6967fa82455497e4b7a01e19e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qz/WUConDtaexbNzq9tx5BVxiVHQ4Bj2opxLMTEB9Gn8/pokemon_season21_ep30_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/um/qe4ZfbgkEPEDoNJd5M6PgbwTrBZ_TaxsGvloLsDhg/pokemon_season21_ep30_ger.mp4",
             "captions": "",
-            "size": 2857315415
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/um/qe4ZfbgkEPEDoNJd5M6PgbwTrBZ_TaxsGvloLsDhg/pokemon_season21_ep30_ger.mp4"
         },
         {
             "id": "65764507092a429393c84fabc052392d",
@@ -129,16 +108,13 @@
             "title": "Ein Rückkampf in Abwesenheit!",
             "description": "Ash und Pikachu sind bereit für ihren Vorprüfungsrückkampf gegen den Inselkönig, aber Yasu hat andere Pläne!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep32_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep32_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ZXZFBwkqQpMk8hPq8BSOS0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lS/IJkv17ifqmJn_Unc0qFqS_EbfvlfI9vjE8ad_PcAo/pokemon_season21_ep32_ger-ca6f026d833bbbf5cf1df083aa6e16288bf11431.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wo/C1LG3P2zK1XuFB3peCUdYVRlE9G7AquJ-RurQqAis/pokemon_season21_ep32_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kJ/_8etwWcgUcLj06AHxCc0MhgcX6sO0Xw0wB9dGctpI/pokemon_season21_ep32_ger.mp4",
             "captions": "",
-            "size": 2842752020
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kJ/_8etwWcgUcLj06AHxCc0MhgcX6sO0Xw0wB9dGctpI/pokemon_season21_ep32_ger.mp4"
         },
         {
             "id": "e7c7627c0df34d6297d58b31f108e091",
@@ -147,16 +123,13 @@
             "title": "Wachgerüttelt!",
             "description": "Ashs große Prüfung auf Ula-Ula ist in vollem Gange und der Inselkönig hält einige Überraschungen im Kampf bereit!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/58difA3zTWIl9WLMfEI4JE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JU/O8e-o59k393Ae41rI_gRBaYOAqkSfY64HNuCW_HVM/pokemon_season21_ep33_ger-549c5f3f6c9f8ce6fbecfb04061269ea27b98ef7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s1/MxS8NtTSNk9MtdRTk5YudmiO2yeALQ7LQSKKw6Ydw/pokemon_season21_ep33_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hh/u_Tb65zpjCVHXAidH-e3p8nyP8j_Ab_IVC-ZUAsw4/pokemon_season21_ep33_ger.mp4",
             "captions": "",
-            "size": 2867957040
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hh/u_Tb65zpjCVHXAidH-e3p8nyP8j_Ab_IVC-ZUAsw4/pokemon_season21_ep33_ger.mp4"
         },
         {
             "id": "d32b8175fef44927b55871d611833592",
@@ -165,16 +138,13 @@
             "title": "Lauft, ihr Helden, lauft!",
             "description": "Die Forschungsprojekte unserer Helden gehen auf Poni weiter, und vor allem Kiawe und Maho müssen zeigen, was sie können.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0yuBdf70SSctVhx1hGDNZI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eo/BL2AEqI2dWfG1Tf1UUm-Dh8Dd5Owoe4H-IZhSh65Y/pokemon_season22_ep15_ger-c5818fbfdbd956e7d71ffab5f484577845fb8b41.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eo/BL2AEqI2dWfG1Tf1UUm-Dh8Dd5Owoe4H-IZhSh65Y/pokemon_season22_ep15_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dN/IrqffxkyyXZd3_JVCRcKCrrt7a_C12OiJAE1vv6kY/pokemon_season22_ep15_ger.mp4",
             "captions": "",
-            "size": 2914868142
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dN/IrqffxkyyXZd3_JVCRcKCrrt7a_C12OiJAE1vv6kY/pokemon_season22_ep15_ger.mp4"
         },
         {
             "id": "5d9bb38832954920af811d99042e20d2",
@@ -183,16 +153,13 @@
             "title": "Ein großes Debüt!",
             "description": "Die Schüler der Pokémon-Schule haben noch ein Forschungsprojekt vor sich, das für jeden sicher aufregend und elektrisierend sein wird!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XZuziDKVSSAr4EdmQQuINI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gc/5awrYEMl3exlHvJeXZX8TBOdPd3723YvctRcfbSVs/pokemon_season22_ep17_ger-e0acebc907864b71016bc17681bc457969cd5d19.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gc/5awrYEMl3exlHvJeXZX8TBOdPd3723YvctRcfbSVs/pokemon_season22_ep17_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EO/CG3THK6ftAFnboeaysIdSMmNW2wnDO0K8lXFaF1q0/pokemon_season22_ep17_ger.mp4",
             "captions": "",
-            "size": 2903371545
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EO/CG3THK6ftAFnboeaysIdSMmNW2wnDO0K8lXFaF1q0/pokemon_season22_ep17_ger.mp4"
         }
     ]
 }

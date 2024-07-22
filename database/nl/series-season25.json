@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-ultieme-reizen-de-serie",
+    "channel_id": "season25",
     "channel_name": "Pokémon Ultieme reizen: de serie",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1125x1500-en.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1689956303,
-    "channel_update_date": 1691155622,
+    "order": -25000,
     "media": [
         {
             "id": "6adb8f7699dd46ddafcc102683dc60b1",
@@ -21,16 +18,13 @@
             "title": "De Griezeltrein!",
             "description": "Op reis naar Stow-on-Side stappen onze helden in een geheimzinnige trein die vol enge verrassingen zit!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/atuPdpndRt0r8wQJoPcYLE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/QUxrZgQFc5G22mdipl8MpeLbf5z4HEGiPUAV8Q2s8/nl-nl-25-01-85e8f5bdf848e535b70adc835aad42a27bec7523.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G9/LU4s4Ij5NIJBhVrCioO4F6sNZCo-fWNa4NIfAHXHM/nl-nl-25-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F7/yCMYJgJ7_6NSenaVI9n78PHACQMW9JhhxuQfeC3tk/nl-nl-25-01.mp4",
             "captions": "",
-            "size": 2700666246
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F7/yCMYJgJ7_6NSenaVI9n78PHACQMW9JhhxuQfeC3tk/nl-nl-25-01.mp4"
         },
         {
             "id": "a931f9870eac49abb02dc51b21f0aed2",
@@ -39,16 +33,13 @@
             "title": "De slingerende weg naar grootsheid!",
             "description": "Gengar wil Gigantamaxen en onze helden zijn vastbesloten om hem daarbij te helpen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qTH5hw6sSassC3FGyHwrtI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/YTrWIhnY6zYYLulDb0JkEicCbu6KajQ0jD01rK0do/nl-nl-25-02-e5aa01c06ca8c9db0351032c5176187714bc325a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TF/XBVOR3IX9B-XibOD0LXP-kwSjUb7CJWO52dDv49mw/nl-nl-25-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wF/IyEPUMyca6AsFmrSL8Ll41dbZN1Q72H6mv8WYEEDI/nl-nl-25-02.mp4",
             "captions": "",
-            "size": 2697879913
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wF/IyEPUMyca6AsFmrSL8Ll41dbZN1Q72H6mv8WYEEDI/nl-nl-25-02.mp4"
         },
         {
             "id": "1d405db785ac4f51b1d4b90b73baf736",
@@ -57,16 +48,13 @@
             "title": "Het zit 'm allemaal in de naam!",
             "description": "Kan de band tussen een Pokémon en Trainer een dreigende ramp voorkomen?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HUBdt4WsT1EsdS5C3O69zY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n2/U2gDWVvlWMEzfqMdq5377t8JIS009C8aUpe5uZUM4/nl-nl-25-03-d7e55a5a141b88bb5f4930891453e3bd923d64ea.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vP/gA1h7CxARAhkUMsNLiMRF2iHhqS-bcfFRaIWgG_oM/nl-nl-25-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qz/tevO7HUk1fNu9JxZQ_Ohn4I5h6V6WPJ3vBA4_dWzU/nl-nl-25-03.mp4",
             "captions": "",
-            "size": 2695509605
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qz/tevO7HUk1fNu9JxZQ_Ohn4I5h6V6WPJ3vBA4_dWzU/nl-nl-25-03.mp4"
         },
         {
             "id": "74f2491c13e34ae4862e2e0895dafa9b",
@@ -75,16 +63,13 @@
             "title": "Liefdesverdriet!",
             "description": "Een artistiek en creatief tijdverdrijf leidt tot verschillende gevechten, waaronder eentje die aan het hart gaat!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dPJJHBPjSuQhi4uCJXa-ps/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/21/lHF6JvvQsDB2Uy3MjLbhUU44ESaMluU1_xLYpv1W4/nl-nl-25-04-ffa5b70c3cbbba244a0ce1f0650bf730022160b0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tp/UkgDrJFi6Ve9VfxbwhFJrScPux_YMMcFdE3BVYAyQ/nl-nl-25-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/14/ETGti5kYjSURJsc-hsywvtX2_jMwS37lgR24KxmJE/nl-nl-25-04.mp4",
             "captions": "",
-            "size": 2685339091
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/14/ETGti5kYjSURJsc-hsywvtX2_jMwS37lgR24KxmJE/nl-nl-25-04.mp4"
         },
         {
             "id": "016dc75f7fc84adb910040efde624218",
@@ -93,16 +78,13 @@
             "title": "Mazzel, pech, of iets anders!",
             "description": "Door schijnbaar ongelukkige omstandigheden komt Team Rocket op het pad van oude rivalen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AW3HX3_IStskQBA795iQhg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z_/pyJgRDRb7dY9nORf0Cza83DhfSjAmWkW8omExm1xs/nl-nl-25-05-d627971e1a789dc3f0d44da4aed4c592ec3e78b2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k_/CClXgC7l835mNnl8Ma2a-nSqAL3TzNT-gsQ0-otAc/nl-nl-25-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iz/-Xeo9WJVu6gVrojee-LROlpFeZhSiNJjx3aZJ3lc8/nl-nl-25-05.mp4",
             "captions": "",
-            "size": 2705019649
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iz/-Xeo9WJVu6gVrojee-LROlpFeZhSiNJjx3aZJ3lc8/nl-nl-25-05.mp4"
         },
         {
             "id": "7ce41bc36ca447149d3cc2c60298805d",
@@ -111,16 +93,13 @@
             "title": "De weg naar huis verlichten!",
             "description": "Onze helden kijken naar de lucht voor avontuur, samen met Sophocles, de oude vriend van Ash.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fOQbw2ykRxQnTzCxgKYgF0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vA/_BVbwVTGRVmcc8c8NMtQIfaE-vqWetfHucqr00ztE/nl-nl-25-06-3a94e6585457a30d61410308b585e4cf7f342fd8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1p/NycsEH6hqdwjL8tJl8sofQQdTkQKhv4Q243z-LOuE/nl-nl-25-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D5/Ex1rq_NntLXfYXq83v04VwNkeBBkHt-kw_kUHLD4g/nl-nl-25-06.mp4",
             "captions": "",
-            "size": 2693201853
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D5/Ex1rq_NntLXfYXq83v04VwNkeBBkHt-kw_kUHLD4g/nl-nl-25-06.mp4"
         },
         {
             "id": "86229036ade84f8487d70b274457b0a3",
@@ -129,16 +108,13 @@
             "title": "Een evolutie in smaak!",
             "description": "Onze helden zijn teruggekeerd naar Slowpoke Island en een verrassend avontuur maakt ze erg hongerig!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hiKQNq3oT4Qh9cLJ0RXsKM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3S/rUF9uSmVo3QMzV0oZ_oVbUrIouWU-ACOw6voZmiAI/nl-nl-25-07-6fec87873c2d2aa79b6a42e2cc82b470adb8379c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6S/VVVvQbSfD74E8lJujOHn_phh7cL0QUoPedDZR7n1g/nl-nl-25-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tm/lAaqfTZFjkgbutg3uXZuIK9ukY7vLp9IGph6UvJak/nl-nl-25-07.mp4",
             "captions": "",
-            "size": 2703943216
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tm/lAaqfTZFjkgbutg3uXZuIK9ukY7vLp9IGph6UvJak/nl-nl-25-07.mp4"
         },
         {
             "id": "e12914bcbd454be48b9d836e945de06a",
@@ -147,16 +123,13 @@
             "title": "Uit hun element!",
             "description": "Een bezoek aan het Pokémon-circus bezorgt onze helden een avontuur waar ze nooit van hadden gedroomd!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4SkUvL1FS-Qi52DbpRd4Go/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rI/p_kNGMIo6DmQgYA-nweSuFlXuKgDelHc-EfPND5CM/nl-nl-25-08-e1e918f0b9543653ea5bfc427121aeed16b9d9f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ze/fnMKuMycALfrqkhHDvjEio3fL8FN6g1Glwcawu-Pg/nl-nl-25-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hI/8-PSbak7Qo82GbxXzmlZg0qr89ujBWQKH3y5uNJL8/nl-nl-25-08.mp4",
             "captions": "",
-            "size": 2694238003
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hI/8-PSbak7Qo82GbxXzmlZg0qr89ujBWQKH3y5uNJL8/nl-nl-25-08.mp4"
         },
         {
             "id": "98ba405c9abc45fdb6cdf787da9b252e",
@@ -165,16 +138,13 @@
             "title": "Vechten met de knop op elf!",
             "description": "Terwijl het Kroningswereldkampioenschap verdergaat, komt Ash tegenover een rijzende ster uit de Galar regio!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mLpAXJq8Rf0ts33h9qbJS4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3I/h2wawwWxjODGrgC4MIZvRNdk1xk3Pw40uE_2bE1Qs/nl-nl-25-09-e98eb550b59e4c09687681b6785d595bd7bbcfb6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KI/iIJM7czyyDIIE7262epHH9x71fiJT17x8uyVTPF0k/nl-nl-25-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uJ/1QR7Cs6clFf5prZFpcLtTOOOPKjIB9VFi7ln_BAVo/nl-nl-25-09.mp4",
             "captions": "",
-            "size": 2670222770
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uJ/1QR7Cs6clFf5prZFpcLtTOOOPKjIB9VFi7ln_BAVo/nl-nl-25-09.mp4"
         },
         {
             "id": "02111690d963424991a293349076a136",
@@ -183,16 +153,13 @@
             "title": "Mee met de Monarch!",
             "description": "De plannen van Ash worden onbedoeld gewijzigd wanneer hij toevallig getuige is van een training zoals hij nooit eerder heeft gezien!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AhEWkNljQkkkaKTNJB2oTY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iG/uKTNJtWNo7hJn0sKKYxgOSNuYp3RPYlCU1OjVRqqU/nl-nl-25-10-dbf9a97e57c9e8f97a7f6ea0343566dfc006be75.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ci/PVnTzfPYhNeIdrOp3LdndGUk5YCWsh___h8ybaPCw/nl-nl-25-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/il/gXP-2_EvFJpwpw0H4CuQMnJh_5EudzZDJ2Mow6sgs/nl-nl-25-10.mp4",
             "captions": "",
-            "size": 2704144229
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/il/gXP-2_EvFJpwpw0H4CuQMnJh_5EudzZDJ2Mow6sgs/nl-nl-25-10.mp4"
         },
         {
             "id": "f67f9663e82748cfb409b800504abf30",
@@ -201,16 +168,13 @@
             "title": "Een wonder met één stok!",
             "description": "Onze helden helpen een Thwackey met één stok, en Goh komt gaandeweg meer over Grookey te weten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9n-WY-gnSM8tAm4AFBKvzA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_M/JGklVZAeE88eQmYDMmMXI4XPaKS4Q5GoCE_fp5kBE/nl-nl-25-11-cb7df54ff7b5a1312c5fbec4752ca9c8306033c3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/es/t5XjXWwNU2bYBjAuaBitpgdFlnl2RkIv3SLMuUuRI/nl-nl-25-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8o/8oxbodrc9F16p9mEjQQUt6UsSjFadP2POn5FOq3cw/nl-nl-25-11.mp4",
             "captions": "",
-            "size": 2688145697
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8o/8oxbodrc9F16p9mEjQQUt6UsSjFadP2POn5FOq3cw/nl-nl-25-11.mp4"
         },
         {
             "id": "238a36b4510342cdba74a3d7f45393ab",
@@ -219,16 +183,13 @@
             "title": "Een ijskoud oppergevecht!",
             "description": "Terwijl Goh aan zijn nieuwste proefmissie van Project Mew begint, laten zijn mede-uitdagers hem een nieuw perspectief zien!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/I4o2tFEDQs0unSj1_RTk6s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qa/jTe5NKC6ysS-_Tn1zrct0h8EiRq2ITzSKAKzxev_Y/nl-nl-25-12-e27fccc6e9636a122087532b563f06bb7a16a49c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/Lf01soUqbJkHFb9rHhXxhoyalsbPssBE_AS_-J4Tw/nl-nl-25-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J8/-ONc1blf1s5kgiM6IwBBSHg_Suu9hHOtDFl8tZCRM/nl-nl-25-12.mp4",
             "captions": "",
-            "size": 2671547410
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J8/-ONc1blf1s5kgiM6IwBBSHg_Suu9hHOtDFl8tZCRM/nl-nl-25-12.mp4"
         }
     ]
 }

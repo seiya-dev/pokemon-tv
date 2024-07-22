@@ -1,18 +1,15 @@
 {
-    "channel_id": "hola-hoenn",
+    "channel_id": "25th-hoenn",
     "channel_name": "¡Hola, Hoenn!",
     "channel_description": "Date un paseo por Hoenn, la preciosa región bañada por las aguas, en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/hoenn/hoenn-1125x1500-es.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/hoenn/hoenn-1660x940.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/hoenn/hoenn-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/hoenn/hoenn-1660x940.jpg"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1628864605,
-    "channel_update_date": 1629476810,
+    "order": -1628864605,
     "media": [
         {
             "id": "8bab5071db6447f4837fa0c4f8fe5f76",
@@ -21,16 +18,13 @@
             "title": "Hay que empezar el camino",
             "description": "¡Pikachu sufre de una seria sobrecarga eléctrica! ¿Podrán Ash y el Profesor Birch encontrar una solución antes de que sea demasiado tarde?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/i6tQcdtkR_Qg3-gxPj-X3Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gN/WIhBF2umOXohfZY5jgvbB_2NT7DmqFrSVP8s8tvI0/pok_tv_s0613_2997-master-las-912d5faac9fa569e19eadd6168e464c651372486.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gN/WIhBF2umOXohfZY5jgvbB_2NT7DmqFrSVP8s8tvI0/pok_tv_s0613_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g0/P9xFRrDw1Saq51sDxD2ZNigbYtOdh9qyj0rbbS6Uk/pok_tv_s0613_2997-master-las.mp4",
             "captions": "",
-            "size": 2671840155
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g0/P9xFRrDw1Saq51sDxD2ZNigbYtOdh9qyj0rbbS6Uk/pok_tv_s0613_2997-master-las.mp4"
         },
         {
             "id": "4e76262f09634051a655c6c1a48a81b0",
@@ -39,16 +33,13 @@
             "title": "No hay lugar como Hoenn",
             "description": "Ash está listo para su primera batalla de Gimnasio en la región Hoenn, ¡y el Líder de Gimnasio que enfrentará es nada menos que el padre de May!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TnYmLwljQFEplXGwaSKgbA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F9/dpLO1U0XqnzfH2K-niVnQSAc4eb_geDMsd9Er4L5M/pok_tv_s0615_2997-master-las-2620ecfb2c9f907e634d37a27fb48262b72bc229.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F9/dpLO1U0XqnzfH2K-niVnQSAc4eb_geDMsd9Er4L5M/pok_tv_s0615_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iT/CLpdB0MlvMnVn4WTEWqPuXwzZ1GSixKBoZ1rbb6Sc/pok_tv_s0615_2997-master-las.mp4",
             "captions": "",
-            "size": 2660625148
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iT/CLpdB0MlvMnVn4WTEWqPuXwzZ1GSixKBoZ1rbb6Sc/pok_tv_s0615_2997-master-las.mp4"
         },
         {
             "id": "0fe7ab949dd04b0fa7c0fcf32fb927ee",
@@ -57,16 +48,13 @@
             "title": "Todas las cosas brillantes y hermosas",
             "description": "Ash y sus amigos descubren toda una nueva clase de competencias Pokémon, ¡y parece que May ha descubierto su vocación!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/D-erlJ3QSw8p8D88y-5J-4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aI/n8Q3zMcSz6iCuu7aAEqUzEorNzK_PSg7det8qW6c0/pok_tv_s0625_2997-master-las-b1d35ee9fed9d2825306aebe3f848428f41c63b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aI/n8Q3zMcSz6iCuu7aAEqUzEorNzK_PSg7det8qW6c0/pok_tv_s0625_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gR/wwyVJrK8igGPvMPilfEZV0xTqWOPXiIFX2uL6BNA4/pok_tv_s0625_2997-master-las.mp4",
             "captions": "",
-            "size": 2649366802
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gR/wwyVJrK8igGPvMPilfEZV0xTqWOPXiIFX2uL6BNA4/pok_tv_s0625_2997-master-las.mp4"
         },
         {
             "id": "a63660f3010d4d738d07e57f6340c085",
@@ -75,16 +63,13 @@
             "title": "De camino a Devon",
             "description": "¡Mientras nuestros héroes visitan la enorme Corporación Devon, un misterioso intruso trata de robar una importante pieza de equipo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pjZg8wENTXMjQflf2NAwIU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/ReKWRL7Sj5b2oPAVd0LK_yefQXpLe5w-gBQmiDUSc/pok_tv_s0629_2997-master-las-2b0e84eb49326786c8b50f8bb886d8e916b5a120.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/ReKWRL7Sj5b2oPAVd0LK_yefQXpLe5w-gBQmiDUSc/pok_tv_s0629_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ga/zOKTg3ijWdHiak4icv-X0jwx_mQjTiqWNaQT9qGi4/pok_tv_s0629_2997-master-las.mp4",
             "captions": "",
-            "size": 2670550402
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ga/zOKTg3ijWdHiak4icv-X0jwx_mQjTiqWNaQT9qGi4/pok_tv_s0629_2997-master-las.mp4"
         },
         {
             "id": "b169fcb8bd7b433183416ece7f023465",
@@ -93,16 +78,13 @@
             "title": "Encuentro de tres equipos",
             "description": "Ash y los otros se reúnen con el Profesor Birch para un día de exploración y terminan en medio de una villanesca confrontación.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sWn8uL17QzEg0Fuzn8CNGU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/FsiwoQZwhdFTmU7y1D7FC_-qtabdTIpTM6mqMdSa4/pok_tv_s0639_2997-master-las-78f917b5ac3908431a88d1d1e852d21df9dd3043.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/FsiwoQZwhdFTmU7y1D7FC_-qtabdTIpTM6mqMdSa4/pok_tv_s0639_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZA/cte832iH8GyNnkOKCj0NYWgWGIijC-uQf7B0Ycdfc/pok_tv_s0639_2997-master-las.mp4",
             "captions": "",
-            "size": 2668505740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZA/cte832iH8GyNnkOKCj0NYWgWGIijC-uQf7B0Ycdfc/pok_tv_s0639_2997-master-las.mp4"
         },
         {
             "id": "28b69efb3c0e4b14a863f50c77b76a00",
@@ -111,16 +93,13 @@
             "title": "Ganar, perder o empatar",
             "description": "¡Es hora del primer Concurso Pokémon de May! ¿Su Beautifly tendrá lo necesario para ganar un listón?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KLae-zwOSxQqGP1DHe3agA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/FvfM07Z_tfOdNZLJ1tmjjLPiTUGbVkHbTe6pPYUJQ/pok_tv_s0647_2997-master-las-d1aa184c43a9f4215060532fe184869f41e3afd2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/FvfM07Z_tfOdNZLJ1tmjjLPiTUGbVkHbTe6pPYUJQ/pok_tv_s0647_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SD/e4EDNRDlMIuURwuw8fdXCgjLdWkNw_eZId3UNtf0A/pok_tv_s0647_2997-master-las.mp4",
             "captions": "",
-            "size": 2670743000
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SD/e4EDNRDlMIuURwuw8fdXCgjLdWkNw_eZId3UNtf0A/pok_tv_s0647_2997-master-las.mp4"
         },
         {
             "id": "3731aac4ebde44dea46718680f885e27",
@@ -129,16 +108,13 @@
             "title": "¡Bien hecho, May!",
             "description": "May entra a su segundo Concurso, donde se enfrenta a una misteriosa Coordinadora quien tiene un fuerte parecido con cierto miembro del Equipo Rocket…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NzGqxOveRN4pGcYaA-IXic/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e4/cmRcsh2U_9qissekhSGBJ6U3G12TrPpm8kV1aEPlY/pok_tv_s0711_2997-master-las-6fd80bf8fdcdb23799f0ee67a3a1a7e7effc54d7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e4/cmRcsh2U_9qissekhSGBJ6U3G12TrPpm8kV1aEPlY/pok_tv_s0711_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_n/zUq61rzSceGzLTg2n_9ECU1j-5UgmpzXM0n6m7TvA/pok_tv_s0711_2997-master-las.mp4",
             "captions": "",
-            "size": 2675523308
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_n/zUq61rzSceGzLTg2n_9ECU1j-5UgmpzXM0n6m7TvA/pok_tv_s0711_2997-master-las.mp4"
         },
         {
             "id": "fb26767a4a4b4480944513c8d816e032",
@@ -147,16 +123,13 @@
             "title": "¿Ahora quién está volando?",
             "description": "Ash y sus amigos se encuentran con la Líder del Gimnasio Fortree, Winona, en el Festival de las Plumas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-yZ2ekpLRIAlEUTyNgW4DI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/eWu5iFEaopI6NSacgWQNTrX3S3C-P8xdP7I3onxr8/pok_tv_s0744_2997-master-las-ba660ded8c0bc2dca2654305fc5e7f295831b252.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/eWu5iFEaopI6NSacgWQNTrX3S3C-P8xdP7I3onxr8/pok_tv_s0744_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ae/mLB506dHpbjIVa7EGMNLFDeWH7fhOL69OGmHoh2pA/pok_tv_s0744_2997-master-las.mp4",
             "captions": "",
-            "size": 2667619865
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ae/mLB506dHpbjIVa7EGMNLFDeWH7fhOL69OGmHoh2pA/pok_tv_s0744_2997-master-las.mp4"
         },
         {
             "id": "8cb5acc65e864bf0b10bca8cea5969af",
@@ -165,16 +138,13 @@
             "title": "Pokéblocks y moras",
             "description": "Antes de participar en el Concurso Pokémon de Valle Lily, May tiene tiempo de estudiar el arte de la preparación del Pokéblock con un maestro del lugar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jLWsxl6GS_AsQvKjOpZaa8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/35/2Nk53bBIez2uQPpF9Lxo2rV8zVukffSVqRnvrcGSg/pok_tv_s0750_2997-master-las-897f8aabfa04573397626c4fef2f98edbf31acd4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/35/2Nk53bBIez2uQPpF9Lxo2rV8zVukffSVqRnvrcGSg/pok_tv_s0750_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yF/NwUu0A0FuovpbialQwMuxUYJNtcyPvtZeeSINoUu4/pok_tv_s0750_2997-master-las.mp4",
             "captions": "",
-            "size": 2668400084
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yF/NwUu0A0FuovpbialQwMuxUYJNtcyPvtZeeSINoUu4/pok_tv_s0750_2997-master-las.mp4"
         },
         {
             "id": "eaa54cd3d4cd4ed4b10fe6e869b67e1c",
@@ -183,16 +153,13 @@
             "title": "¡La batalla de las leyendas!",
             "description": "¡El Equipo Aqua y el Equipo Magma han despertado a los antiguos Pokémon Legendarios Groudon y Kyogre! ¿Podrán Ash y sus amigos escapar?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6qVM09TNTtQsQ_m6Gm2fhw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0G/4QGSTcYBgpD3jKhtbqFeYomPwTSKNDgJuTIK6q8Ws/pok_tv_s0806_2398-master-las-37480d2941fcb27a54c1a12cc32ba6eb7f9be42b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0G/4QGSTcYBgpD3jKhtbqFeYomPwTSKNDgJuTIK6q8Ws/pok_tv_s0806_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cq/yXjYwvQQvc1UZYIbZCH-gtvkoFG8FXnpDNvVHAY9s/pok_tv_s0806_2398-master-las.mp4",
             "captions": "",
-            "size": 2707400161
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cq/yXjYwvQQvc1UZYIbZCH-gtvkoFG8FXnpDNvVHAY9s/pok_tv_s0806_2398-master-las.mp4"
         },
         {
             "id": "fcc62b680b69461e9e27b0a6645acce6",
@@ -201,16 +168,13 @@
             "title": "¡La última medalla!",
             "description": "Ash se prepara para su batalla de Gimnasio final en la región Hoenn: una Batalla Doble contra el Líder de Gimnasio Juan, quien solía ser un Coordinador Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_MYraAtpRh4niewpmRazOY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/MZv8C1YDuChlHnCxRV9BY0GZCNLvh7hSX6mACwWrw/pok_tv_s0818_2398-master-las-c6bc3ea0d4e9fcf3ca1855d50165ec40599cd022.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/MZv8C1YDuChlHnCxRV9BY0GZCNLvh7hSX6mACwWrw/pok_tv_s0818_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dM/rnEGJ6vTWjajLV0nYdvXeBluan0YM07dhACtS_DQo/pok_tv_s0818_2398-master-las.mp4",
             "captions": "",
-            "size": 2713141006
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dM/rnEGJ6vTWjajLV0nYdvXeBluan0YM07dhACtS_DQo/pok_tv_s0818_2398-master-las.mp4"
         },
         {
             "id": "5834a731e6314975ba3d33570ef5e81c",
@@ -219,16 +183,13 @@
             "title": "La curiosidad mató al Meowth",
             "description": "Mientras entrenan para la Liga Hoenn, Ash conoce al Entrenador Tyson y a su Meowth con botas, ¡y ellos descubren que la antorcha ceremonial ha sido robada!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WDSnMeYxSXUuj0zVw716Bw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DS/yXiEvBgBsC2b8-USzXUp9IOBEqxxUjN2GDv36kXfU/pok_tv_s0832_2398-master-las-8b7595edcf8bb5957b8d7335bbc85aeceadc4331.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DS/yXiEvBgBsC2b8-USzXUp9IOBEqxxUjN2GDv36kXfU/pok_tv_s0832_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IN/Of36HbibTyefkiWOJZUfcdd7-15PjD7wpWqthpRKU/pok_tv_s0832_2398-master-las.mp4",
             "captions": "",
-            "size": 2717914442
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IN/Of36HbibTyefkiWOJZUfcdd7-15PjD7wpWqthpRKU/pok_tv_s0832_2398-master-las.mp4"
         }
     ]
 }

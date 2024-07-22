@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-master-journeys-the-series",
+    "channel_id": "season24",
     "channel_name": "Pokémon Master Journeys: The Series",
     "channel_description": "Watch Ash and Goh’s adventures in Pokémon Master Journeys: The Series on Pokémon TV.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1125x1500-en.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1660x940-en.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1660x940-en.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1660x940-en.jpg"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 60,
-    "channel_creation_date": 1670595186,
-    "channel_update_date": 1688135336,
+    "order": -24000,
     "media": [
         {
             "id": "b4dbc17a9f904757b380077201d4d595",
@@ -21,16 +18,13 @@
             "title": "To Train, or Not to Train!",
             "description": "As Chloe takes her time deciding whether to become a Pokémon Trainer, it turns out her decision is right in front of her!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep01_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep01_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep01_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tNvBep-QR1cs4AHcgHU1ZU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fq/IYqy-hURQhba09eW3wQRIdBI8Az-Y4o2t4q2ULXFw/en-us-24-01-ebbd94f60e77cc7dbd86f807d6238abc0e90120a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2C/36zy5apSe_5NMxxZGvfj00Cp99ycg0ZXx4l9Cx_ck/en-us-24-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dy/Ru-aAgz8D3BdrYDs9Ht0TmPxyXsWaU0g39z2yNmAY/en-us-24-01.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fq/IYqy-hURQhba09eW3wQRIdBI8Az-Y4o2t4q2ULXFw/vtt/30/en.vtt",
-            "size": 2713603130
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dy/Ru-aAgz8D3BdrYDs9Ht0TmPxyXsWaU0g39z2yNmAY/en-us-24-01.mp4"
         },
         {
             "id": "369e1346d47a4f019d36b62e9569fb8a",
@@ -39,16 +33,13 @@
             "title": "A Pinch of This, a Pinch of That!",
             "description": "Ash and Goh have always been fascinated with all kinds of Pokémon, and now Chloe is joining them on their latest adventure!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep02_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep02_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep02_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Np4TRtR6TwEnTa2LpVp-4o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gu/NCPwMoJ4ZPQn07kADOF-M5sBiBGEhyiqdnTgzpFuI/en-us-24-02-44b6626de00e72eba8614f8bb55026b4daab5af1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IJ/pyPYYrjg74TjzEekKHf26Bm2Ue777W6x8XKwPd_AA/en-us-24-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NO/MrKPTSB9Lc1nbSiZ8lojawRKdT7fY3gIebQpE20TI/en-us-24-02.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gu/NCPwMoJ4ZPQn07kADOF-M5sBiBGEhyiqdnTgzpFuI/vtt/2/en.vtt",
-            "size": 2697396977
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NO/MrKPTSB9Lc1nbSiZ8lojawRKdT7fY3gIebQpE20TI/en-us-24-02.mp4"
         },
         {
             "id": "ce2e874afb964db5b66b5ebf9ddef949",
@@ -57,16 +48,13 @@
             "title": "Trials of a Budding Master!",
             "description": "Ash wants to improve his World Coronation Series ranking, and there’s only one way to do it: by battling!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep03_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep03_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep03_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zi6HSvuWTbUtmtev53e-Uk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hg/yY9-KKBVjCPRqAxQuVWZbmQSvT9vbU-dhtSQVU18c/en-us-24-03-f5bcdbf4af64ee6752ece1f2c3e58c37e237d2a3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bB/kBUPMn8Dk_3ClJIqdm_DOuLCAFQZtwQbw4Gry1mOU/en-us-24-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HV/WLDR07OYj3zwW504qGi6G2_7H6YqM8LOmTgP3Jlkc/en-us-24-03.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hg/yY9-KKBVjCPRqAxQuVWZbmQSvT9vbU-dhtSQVU18c/vtt/2/en.vtt",
-            "size": 2724034117
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HV/WLDR07OYj3zwW504qGi6G2_7H6YqM8LOmTgP3Jlkc/en-us-24-03.mp4"
         },
         {
             "id": "9bfa9f152a144857aed2239ea067fd12",
@@ -75,16 +63,13 @@
             "title": "How Are You Gonna Keep ‘Em Off of the Farm?",
             "description": "A visit to a vegetable farm has our heroes researching Pokémon in a most surprising way!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/m_qfFSoUSFcrtIjnqBn_RI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lf/oF0hMHYYM3JxiMrZvfBSyttEikfk5OZVfSwg_OKw0/en-us-24-04-25d90216358851034508f1e452e31b7188a0d549.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/Wu_v8lBlZap5B_fwilXzcBCoIk5_u45Zqvs_qxEBI/en-us-24-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AM/jDLi3VKajxT58A25BrnOB5_20-x8m8HnmL4KyMnzM/en-us-24-04.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lf/oF0hMHYYM3JxiMrZvfBSyttEikfk5OZVfSwg_OKw0/vtt/2/en.vtt",
-            "size": 2705543206
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AM/jDLi3VKajxT58A25BrnOB5_20-x8m8HnmL4KyMnzM/en-us-24-04.mp4"
         },
         {
             "id": "7154f8185a2848a58a6c75d03136ed87",
@@ -93,16 +78,13 @@
             "title": "Healing the Healer!",
             "description": "A Legendary Pokémon is in trouble, and our heroes are there to help as best as they can!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep05_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep05_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep05_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cVT4GFooSKUimx10DE27Yc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/03/I0L0vMfK5sn0TeXGmlY6CdT4i8Y5YvXCG3lJ2DfD8/en-us-24-05-8fb694091acc373a96ef4c2ba9888de480fba120.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uQ/X2jdqb_KucT2FOVBh1MWRxAP6Od28O-4yaeYEcxec/en-us-24-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cY/QzZi71MQdsIHkzTPPRIonDuwjUUhGT9TTm69uw07g/en-us-24-05.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/03/I0L0vMfK5sn0TeXGmlY6CdT4i8Y5YvXCG3lJ2DfD8/vtt/4/en.vtt",
-            "size": 2715959599
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cY/QzZi71MQdsIHkzTPPRIonDuwjUUhGT9TTm69uw07g/en-us-24-05.mp4"
         },
         {
             "id": "a700a5722fc4439fa3f12a1d8534de8d",
@@ -111,16 +93,13 @@
             "title": "Sobble Spies A Stealthy Strategy!",
             "description": "When our heroes visit a movie set, Sobble’s outlook on battling undergoes a transformation!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep06_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep06_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep06_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pwClci_EQ58o_EqHYU03o0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7w/WqZPjNHrtCYIMi2fB-ivzRg9u3z72rCXGKQui8nhI/en-us-24-06-21ba26ee4778643c3754b3b5bb3ac2c6dfe7e720.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UV/G7WOYj_c6TyGxdIcMRte1TRc9dmwWKF_q7VF6GHZg/en-us-24-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6-/YhHsKh0gQZEo1LBDF8slvJHFCNGJbzYBNM4hSPjvE/en-us-24-06.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7w/WqZPjNHrtCYIMi2fB-ivzRg9u3z72rCXGKQui8nhI/vtt/2/en.vtt",
-            "size": 2715533479
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6-/YhHsKh0gQZEo1LBDF8slvJHFCNGJbzYBNM4hSPjvE/en-us-24-06.mp4"
         },
         {
             "id": "8bae1970de424bcb812714ccce2bb228",
@@ -129,16 +108,13 @@
             "title": "The Tale of You and Glimwood Tangle!",
             "description": "A fascinating book inspires Chloe to take on an equally fascinating mission!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep07_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep07_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep07_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/i64ZcN5CS8sgScUzM4rsig/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f-/-DRzhjrDI76ymT06c3pMZGsfsKybC4MUeWMCWQhMk/en-us-24-07-55a5c3a6831b9191dbafc491aa6fb73401b8ff71.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3E/1bCoDKILdRbsHxFI0l1Tml7AboNSExQOk9sByfxaw/en-us-24-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E9/AVW2yCK_xuPkgOV0_w1_ti3HkIFh0f3wdoZL0zGps/en-us-24-07.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f-/-DRzhjrDI76ymT06c3pMZGsfsKybC4MUeWMCWQhMk/vtt/1/en.vtt",
-            "size": 2709844286
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E9/AVW2yCK_xuPkgOV0_w1_ti3HkIFh0f3wdoZL0zGps/en-us-24-07.mp4"
         },
         {
             "id": "27707d8177624e06930417d86d8ace8f",
@@ -147,16 +123,13 @@
             "title": "Searching for Chivalry!",
             "description": "Ash and Farfetch’d want to hone their leek-wielding skills, and there’s a place in Kalos where they can do just that!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep08_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep08_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep08_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J3B9gXdiTgYkwQX2G2Kzo8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ib/HJZIMCngLSu0rzvA6H-2hQlblI7Imws-fdArI9Z80/en-us-24-08-48382e28e10cd098b7d4ba889b52c60506f48f35.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G5/pIDQSvYLi9wGnK0YVl8GwzkkIbUUEmGntFJqzE0gg/en-us-24-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3K/h1KRD25U4NgiEKBJ5WjFO3icaFrHIHzU-NpTnrvu4/en-us-24-08.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ib/HJZIMCngLSu0rzvA6H-2hQlblI7Imws-fdArI9Z80/vtt/1/en.vtt",
-            "size": 2712915231
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3K/h1KRD25U4NgiEKBJ5WjFO3icaFrHIHzU-NpTnrvu4/en-us-24-08.mp4"
         },
         {
             "id": "ff916a47912e49aea986a8facb2d24a0",
@@ -165,16 +138,13 @@
             "title": "Memories of A Warming Kindness!",
             "description": "A snowy day provides an opportunity to relive fond memories and forge new ones, too!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep09_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep09_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep09_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_5FqR5EuSa4qYao-sstJKA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aV/MyyqPw2iF-wt9mWDxPWqUQdCYCBebTx_2PUz2t6sE/en-us-24-09-6805b82fc7ca99f50fa377c203390eeef47ebafc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cy/q9mjo7XV1o855HZgzFnhVGIhP9pyoUnkohSC_VjAU/en-us-24-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xt/2GMHODEDiUV0DdvQY8a1DfzC7ENeAB3QJ4h9WZ8lM/en-us-24-09.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aV/MyyqPw2iF-wt9mWDxPWqUQdCYCBebTx_2PUz2t6sE/vtt/2/en.vtt",
-            "size": 2708207772
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xt/2GMHODEDiUV0DdvQY8a1DfzC7ENeAB3QJ4h9WZ8lM/en-us-24-09.mp4"
         },
         {
             "id": "27f1fda4d3a44e549726da23da0f5eb5",
@@ -183,16 +153,13 @@
             "title": "A Rollicking Roll… Eyes on the Goal!",
             "description": "There are always plenty of adventures to go around: for people and Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J_H9pNOkTlQlybaI9oPXrU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0F/s-eBDpZUn8I_l0vQe12-DniNIogXlNPYnyhHtpqdY/en-us-24-10-e4d952cf7c0379a67932566a6d69f50e74c96a10.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xn/cCi2rptHAshZ26i7VOo1clBeJjHeLVs8O0R7DmzCA/en-us-24-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ph/TQZYVxG59yMf-ZB9VVajiNXuF5lIjGeiMUFSHb9Bo/en-us-24-10.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0F/s-eBDpZUn8I_l0vQe12-DniNIogXlNPYnyhHtpqdY/vtt/2/en.vtt",
-            "size": 2708638628
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ph/TQZYVxG59yMf-ZB9VVajiNXuF5lIjGeiMUFSHb9Bo/en-us-24-10.mp4"
         },
         {
             "id": "751be5f97e4b413ca582b5af00c5d0cc",
@@ -201,16 +168,13 @@
             "title": "When a House is Not a Home!",
             "description": "Goh finds a Grookey who’s been separated from its Trainer, but things are not as simple as they seem!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dRvl-X5LQTwpYK1rwDF0Mw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zH/OIKiJXwugsNZIEGC1rxP2mYB3N8oUYpiuJr5NEwe4/en-us-24-11-cdb33a7625658ef0fb0c62abf9d050b17f1db5bc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eD/95UuO7kcsDvs6r0OnGbTgbdM6kFp5NFiWW01D2f5Y/en-us-24-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GG/ynaS4-EeD_xcdFnlTpefmQiNCdgxZXBspqy-aGKMI/en-us-24-11.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zH/OIKiJXwugsNZIEGC1rxP2mYB3N8oUYpiuJr5NEwe4/vtt/1/en.vtt",
-            "size": 2690054838
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GG/ynaS4-EeD_xcdFnlTpefmQiNCdgxZXBspqy-aGKMI/en-us-24-11.mp4"
         },
         {
             "id": "d35101d21b78471db94b868cd4b3b7cd",
@@ -219,16 +183,13 @@
             "title": "Beyond Chivalry… Aiming to be a Leek Master!",
             "description": "Ash is working hard to reach his goal of battling Leon, so it’s time for another World Coronation Series match!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/01EB0ht4Rx0uUuGjNSzt80/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Se/7VSt1M3xrWqUHBNng8FZmKSdb-kapH92aOGZGW7YM/en-us-24-12-6682f4becd807096bbbfdf8d8522c1bcdff21f36.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gg/VWwsk0J7xxJ9_wxffrPprGyoV7TrhnAPZtpUD1NUI/en-us-24-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YU/TCvqkTLfJ6WnvpJ5CElHKYAHJ1nwz8gDS6zbgJSws/en-us-24-12.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Se/7VSt1M3xrWqUHBNng8FZmKSdb-kapH92aOGZGW7YM/vtt/2/en.vtt",
-            "size": 2719282491
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YU/TCvqkTLfJ6WnvpJ5CElHKYAHJ1nwz8gDS6zbgJSws/en-us-24-12.mp4"
         },
         {
             "id": "0a310cc4e11744ef9701962c5e7817e7",
@@ -237,16 +198,13 @@
             "title": "Searching for Service with a Smile!",
             "description": "Ash and Goh meet some workers in need of assistance, so they jump right in and help!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep13_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep13_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CjEMxOEXRO8lwGWLF54F-c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dz/diafNQq9utGok17AHdvpnIixUdZNAcmrH7SL8C0-4/en-us-24-13-273167a6524a11077a6d1e0327adf58fae8e5c18.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WE/PhkHHQhlZ0WCF9hh0jHGacdrBgiAltuXOHBnw1wAA/en-us-24-13.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bn/PcbtZGNVq4L1qoLtuDXoEpNgXl3AvGPsLRoW1UxrQ/en-us-24-13.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dz/diafNQq9utGok17AHdvpnIixUdZNAcmrH7SL8C0-4/vtt/1/en.vtt",
-            "size": 2706861842
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bn/PcbtZGNVq4L1qoLtuDXoEpNgXl3AvGPsLRoW1UxrQ/en-us-24-13.mp4"
         },
         {
             "id": "785b654e48c6422ab3cc8da88e6a9ba1",
@@ -255,16 +213,13 @@
             "title": "Not Too Close for Comfort!",
             "description": "An unexpected Evolution brings back an unexpected memory for Goh!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep14_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep14_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eFtlTkjGQios8yNqI5qm6E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0u/z8lSfopcV-tcBT-Rlzw310ZEpJ083Jhqli8NbeWYg/en-us-24-14-d80961d65e98d701600303dbb448567a131cd63f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gG/62ofAPO1rwx_A52xG3mhbGF3VyQ-3eZmVWQocvAVk/en-us-24-14.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/NZft_nJhuPAsvRZArvN_G5jvQh16ITPc5bZHfwh2I/en-us-24-14.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0u/z8lSfopcV-tcBT-Rlzw310ZEpJ083Jhqli8NbeWYg/vtt/1/en.vtt",
-            "size": 2711748392
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/NZft_nJhuPAsvRZArvN_G5jvQh16ITPc5bZHfwh2I/en-us-24-14.mp4"
         },
         {
             "id": "869aab7fd0e7478db5535ecae81c8821",
@@ -273,16 +228,13 @@
             "title": "On Land, In the Sea, and to the Future!",
             "description": "A meeting with a Vaporeon Trainer has Chloe thinking about Eevee’s future!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hpqrf9DnR40tVNeyugciCE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YZ/ilD9_SjcdsZ65VEBb-xX8LDoK62vjQtlIQL9hjBBY/en-us-24-15-cff62186dcb4d1c11e48981c8063443c6e22e9e3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gB/WmFFZte5-8LuYAFU3R19y3NC5fk5oVCH-Mquci4aQ/en-us-24-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-l/ght0aTCLvNY2q8qM-YeEDjw8sk2LvZ0YLW1fMk1VU/en-us-24-15.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YZ/ilD9_SjcdsZ65VEBb-xX8LDoK62vjQtlIQL9hjBBY/vtt/1/en.vtt",
-            "size": 2722151177
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-l/ght0aTCLvNY2q8qM-YeEDjw8sk2LvZ0YLW1fMk1VU/en-us-24-15.mp4"
         },
         {
             "id": "24da337ab8634a419390cde055e6c55f",
@@ -291,16 +243,13 @@
             "title": "Absol Absolved!",
             "description": "A request from a friend has our heroes off to save the day!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JNozerhjSkEk5DN4FXmxV8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i_/Mby_xWWlaEqIuGK1XJT7Wfv5vJkGcyP7y4UL17aqQ/en-us-24-16-a510cbe0dad1b87bc1988dbad0f35427820f9301.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8u/KWSnL9GkurqKdSzMdDbuSumDEQ4fSNc-aKNG0U_f4/en-us-24-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8d/RfkbVdp9ffqmf8LbHdEsoGQtOugE0deuBgEtYceCY/en-us-24-16.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i_/Mby_xWWlaEqIuGK1XJT7Wfv5vJkGcyP7y4UL17aqQ/vtt/1/en.vtt",
-            "size": 2706000914
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8d/RfkbVdp9ffqmf8LbHdEsoGQtOugE0deuBgEtYceCY/en-us-24-16.mp4"
         },
         {
             "id": "072ba8da3e4943399c873430e291b327",
@@ -309,16 +258,13 @@
             "title": "Thrash of the Titans!",
             "description": "An invitation from an old friend has Ash really excited and looking toward the Pokémon World Coronation Series with renewed determination!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Byuo2j5JQzknIc0MOKRsyc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/D37ID-xIuqPLcymtWKXWTI4CBHSLgyMfztr-HGVIM/en-us-24-17-949228e8d1783575d49c72d86abc7a127cb4cdab.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PU/MPTwlCHj81py6xsQIBRd0qO2MBCl3qw35ZbVBFKtc/en-us-24-17.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZI/luWbFxGEU1I9zxrfhbHKBhVmyiQOpsVwZpAl7HyuM/en-us-24-17.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/D37ID-xIuqPLcymtWKXWTI4CBHSLgyMfztr-HGVIM/vtt/1/en.vtt",
-            "size": 2718113215
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZI/luWbFxGEU1I9zxrfhbHKBhVmyiQOpsVwZpAl7HyuM/en-us-24-17.mp4"
         },
         {
             "id": "f2b2819bc74d4d2f996868eb46983c14",
@@ -327,16 +273,13 @@
             "title": "Under Color of Darkness!",
             "description": "Our heroes are on a mission to help a diminutive Pokémon in distress!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8rKBm8dNTS8mWho60aYPBQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c4/fsewjKXnpSAYAvhQjzYqzFJz5ef_DyFlIASRJIAMQ/en-us-24-18-acaf7a618b9443809602d280065d2fba48d0daf5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7t/6_4xhLuXxO4AMX3FnOzTiEBnmuBYl4YEfn5Wf2Djk/en-us-24-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D0/RTPOVHC808AzOOq_nS4L4HC4U7gQ_OZEdj8hXQmhM/en-us-24-18.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c4/fsewjKXnpSAYAvhQjzYqzFJz5ef_DyFlIASRJIAMQ/vtt/1/en.vtt",
-            "size": 2711581976
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D0/RTPOVHC808AzOOq_nS4L4HC4U7gQ_OZEdj8hXQmhM/en-us-24-18.mp4"
         },
         {
             "id": "bae18220280642a88fe2c7915e181f62",
@@ -345,16 +288,13 @@
             "title": "Sleuths for Truth!",
             "description": "A rash of wrongdoing is gripping Vermilion City, but our heroes are there to crack the case!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep19_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep19_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uuGCICgGQqgj-LHkV4YH2I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YF/mtVT_KpTXQcKGpaS2JkyCrUfW5tVqEWf4CpPvhDuA/en-us-24-19-cef91afe79436d2379177b2c5861096cb559283a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qe/PTVhi87aS-6czykgvk7Deo_EIQRkTnTdGrpbes4_M/en-us-24-19.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q0/IbfvR2ycyu4UlWeQG6bQoFwMOqc-LaFM35IaC7ZfY/en-us-24-19.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YF/mtVT_KpTXQcKGpaS2JkyCrUfW5tVqEWf4CpPvhDuA/vtt/1/en.vtt",
-            "size": 2689464362
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q0/IbfvR2ycyu4UlWeQG6bQoFwMOqc-LaFM35IaC7ZfY/en-us-24-19.mp4"
         },
         {
             "id": "83b2c05c3996456c8e7a35a119e35071",
@@ -363,16 +303,13 @@
             "title": "Advice to Goh!",
             "description": "Goh has a big decision to make, and Ash’s first rival is here to help!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep20_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep20_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/g7LAXDmWRWwjno1oRnjUHE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eV/DUnL26qjb_uUluKw8tXF_kG9Ou5GnOpjpA84NbxfA/en-us-24-20-e9e4ed72eb1c530066ca7edde5c1aa5a1083bef1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QR/1xdzf5Oevin2MXSnQn9nC3ReEObbNqBYj8i4wC6I8/en-us-24-20.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9I/yI_OLaFXZVGXVa7a9-y4lou2y4JxdWujCca9vAP9c/en-us-24-20.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eV/DUnL26qjb_uUluKw8tXF_kG9Ou5GnOpjpA84NbxfA/vtt/1/en.vtt",
-            "size": 2714853905
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9I/yI_OLaFXZVGXVa7a9-y4lou2y4JxdWujCca9vAP9c/en-us-24-20.mp4"
         },
         {
             "id": "716c30a5048d4f61ac41a9891c3728e2",
@@ -381,16 +318,13 @@
             "title": "Errand Endurance!",
             "description": "When Grookey and Eevee run their first errand, it becomes a learning experience for everyone!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cWwwpQSNT2ErEGpiRw3KOI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eL/q7bBsHNBPW2FPMxxL9UWFkYnR3p0synVoeC9leqL0/en-us-24-21-2015df4137e3dfafa4c26b1276222a942f952455.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9R/D2c1BPFAgwC1Z83_wikCie9VObfbV2Hi-Skt4MmQ0/en-us-24-21.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-p/j6_LHMYwq3N72SlOIlZyxv_cbcjGule5jmxqFctOQ/en-us-24-21.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eL/q7bBsHNBPW2FPMxxL9UWFkYnR3p0synVoeC9leqL0/vtt/1/en.vtt",
-            "size": 2719085496
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-p/j6_LHMYwq3N72SlOIlZyxv_cbcjGule5jmxqFctOQ/en-us-24-21.mp4"
         },
         {
             "id": "cdd9413dadeb4b24a8077080a8ba49f1",
@@ -399,16 +333,13 @@
             "title": "Take My Thief! Please!",
             "description": "Team Rocket has a big decision to make, and their food supply depends on it!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep22_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep22_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zdlBPa3rSyQqAdwgKi6SfE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VG/hpgncXT2djcAHw9j4sZ9lakZjF8soGxu8obTnEDcc/en-us-24-22-5405a01cd6bdb96e9603bfb81152b3a7466c1c06.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qe/QQn1kFht4NdJ1urBlCc-PGHLZZ7LLHjhiP-FvfVzM/en-us-24-22.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0S/xSsKyYGTZ0V87uFYAOYVsvZtuvTykTZaJLy8qRr2c/en-us-24-22.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VG/hpgncXT2djcAHw9j4sZ9lakZjF8soGxu8obTnEDcc/vtt/3/en.vtt",
-            "size": 2701404791
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0S/xSsKyYGTZ0V87uFYAOYVsvZtuvTykTZaJLy8qRr2c/en-us-24-22.mp4"
         },
         {
             "id": "5a66eaa5933941dc94da221436aeec0f",
@@ -417,16 +348,13 @@
             "title": "Leaping Toward the Dream!",
             "description": "Goh’s first test for Project Mew awaits—along with some very challenging situations!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WmbqpZM5QdwlNoiFDau7A8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BI/CiUYWKR-71CT6VdOcdPmi5QYY1wb0ypKUcuM6ZGeE/en-us-24-23-09c897bb4ba8a4ba0efa2f29ce95614112b7d232.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pX/FOcJ5fj538YRAPqcH7YxCYKOMYgrCY8soBcZMR6LE/en-us-24-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/78/ULji55y2PWTtbW2XKh5PH_sYATnP7Lr0rZzEeZIn4/en-us-24-23.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BI/CiUYWKR-71CT6VdOcdPmi5QYY1wb0ypKUcuM6ZGeE/vtt/1/en.vtt",
-            "size": 2676022849
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/78/ULji55y2PWTtbW2XKh5PH_sYATnP7Lr0rZzEeZIn4/en-us-24-23.mp4"
         },
         {
             "id": "d8364473245a44c7a9d0e5fc7ac0fe41",
@@ -435,16 +363,13 @@
             "title": "Everybody’s Doing the Underground Shuffle!",
             "description": "Unexpected alliances form when our heroes and Team Rocket get mixed up underground!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep24_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep24_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2DZEcyRaRMcqdDl_HrA_kE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pQ/l6CAqrRv0UTkuwqo4Qq2qF0cXqnWxu2u_tZnnjuNM/en-us-24-24-dfc775c0e7911a51cb23fe4a43ff1eb8b6b733b3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tM/cffRDm4dOWkIjRg9zuOGrQY5yCPUBLx6rFLUEJ5yY/en-us-24-24.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q0/asrQmjvwX_P1jYq3GCt4FfmaK7d9j7eq2QjiYgnP8/en-us-24-24.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pQ/l6CAqrRv0UTkuwqo4Qq2qF0cXqnWxu2u_tZnnjuNM/vtt/2/en.vtt",
-            "size": 2701680237
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q0/asrQmjvwX_P1jYq3GCt4FfmaK7d9j7eq2QjiYgnP8/en-us-24-24.mp4"
         },
         {
             "id": "7007368bc9f34f2ea0c9b0c624c48de9",
@@ -453,16 +378,13 @@
             "title": "Grabbing the Brass Ring!",
             "description": "A trip to the Galar region has Ash and Goh doing some surprising research about Pokémon teamwork!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep25_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep25_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cAc2i8nzTy4oMmwxiTEjek/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X1/Zz-HopXqAo6VyqiYTcf5UGSrtnxYY7YjAuqRQNdbs/en-us-24-25-725c1251fa02afe8a925d3e82df8895523f391d6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ub/oUe8b5sAm0QUAy54O6kMOqHjvKmV7XdU3DJv1chbQ/en-us-24-25.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vj/v00EABME0u9cKQxtToC2HWjpZ2fnpfShI3HnsRSdQ/en-us-24-25.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X1/Zz-HopXqAo6VyqiYTcf5UGSrtnxYY7YjAuqRQNdbs/vtt/3/en.vtt",
-            "size": 2711462951
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vj/v00EABME0u9cKQxtToC2HWjpZ2fnpfShI3HnsRSdQ/en-us-24-25.mp4"
         },
         {
             "id": "d607c20a8f714b2cb6604153a796f633",
@@ -471,16 +393,13 @@
             "title": "Nightfall? Nightmares!",
             "description": "A series of mysterious events are occurring in Sinnoh, so our heroes are off to investigate!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep26_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep26_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1gfCCo9xSywtmBBU6eW9jM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/W73RVuYclP4_gr5zL8m8-1sxVxF95wqB71a6BWcto/en-us-24-26-1b66c82ff08a203aeaad4cc9e73c61f0c154a977.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ey/YbLwQSuRT-qfYq2OcVbAbs0vaOWTKHdhmO4Cg_2AI/en-us-24-26.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7m/J0kcEN4thFBDEvBdofhd5M6Jt1cVZ8qQEI0z821lg/en-us-24-26.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/W73RVuYclP4_gr5zL8m8-1sxVxF95wqB71a6BWcto/vtt/3/en.vtt",
-            "size": 2706404410
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7m/J0kcEN4thFBDEvBdofhd5M6Jt1cVZ8qQEI0z821lg/en-us-24-26.mp4"
         },
         {
             "id": "133faabc4071433ca3a954f0cd0184b8",
@@ -489,16 +408,13 @@
             "title": "A Midsummer Night's Light!",
             "description": "A legendary conflict unfolds as our heroes investigate the source of nightmares in the Sinnoh region!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep27_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep27_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ez-qvEBxQzwo6lU8M0BhLg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/uCi5O6m2jYU0ZDPUeFMoJhhp7QVRroPpusFBysc80/en-us-24-27-007067371b441ab9556626bcf65b775cfa87aed5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8g/BZk9fufSBs5xMMrq1BgE3qjG5XNRttuE8CWgSOyXM/en-us-24-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bt/-86tS-zfHUnh0R-tTxRgMDDQqgOjIwROoHWw19UQg/en-us-24-27.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/uCi5O6m2jYU0ZDPUeFMoJhhp7QVRroPpusFBysc80/vtt/1/en.vtt",
-            "size": 2703970105
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bt/-86tS-zfHUnh0R-tTxRgMDDQqgOjIwROoHWw19UQg/en-us-24-27.mp4"
         },
         {
             "id": "28db356356f145a09195f21dc456d479",
@@ -507,16 +423,13 @@
             "title": "All Out, All of the Time!",
             "description": "When Ash and Goh enter a race in Alola, the other competitors go all out to make it a challenge!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep28_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep28_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KNs1Y1bxRaAkZXyHcRW1Hk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2m/czqjUZga9Dyyib9mfGJngNzhcEM4fqMXqfhli2QAE/en-us-24-28-d2551c2b28af7b144218f7ebb4017475086d5c4d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iP/v6yNQk9GYjjYkxMgXUCbSy7q4uY9C8pdMb37hh4_8/en-us-24-28.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f2/RSqmfHx5R3ClvfrJXP5x6Sp1AjEPnBP-Lf7sbF_OM/en-us-24-28.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2m/czqjUZga9Dyyib9mfGJngNzhcEM4fqMXqfhli2QAE/vtt/3/en.vtt",
-            "size": 2711993349
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f2/RSqmfHx5R3ClvfrJXP5x6Sp1AjEPnBP-Lf7sbF_OM/en-us-24-28.mp4"
         },
         {
             "id": "a54ce75273274519b34c417569ca78d1",
@@ -525,16 +438,13 @@
             "title": "Ultra Exciting from the Shocking Start!",
             "description": "It’s time for Ash’s first Ultra Class battle, and the competition is formidable indeed!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep29_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep29_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pUznUnMnRRks0xBdWnKeNE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/9-TApuvovuPJPB_8fYKcu3ASM_Hf6Aan5mLtX8fLo/en-us-24-29-278edede7777ee227d0cb5984a91e231898ed608.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zm/V-zsWTn6tzWExfOmpoD8ITisOMO3Fok__2qb9qzjw/en-us-24-29.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iN/7fhyButB7O5DL0AcSrEYTdj5v1XWF5zZoX431HhkY/en-us-24-29.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/9-TApuvovuPJPB_8fYKcu3ASM_Hf6Aan5mLtX8fLo/vtt/1/en.vtt",
-            "size": 2701643795
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iN/7fhyButB7O5DL0AcSrEYTdj5v1XWF5zZoX431HhkY/en-us-24-29.mp4"
         },
         {
             "id": "41907093222e48f0931d3552d4494a02",
@@ -543,16 +453,13 @@
             "title": "Detective Drizzile!",
             "description": "Cerise Laboratory’s research data has been deleted, and everyone is determined to find out why!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep30_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep30_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QZBwkyIuSPAkx01UtRJSgI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RO/03MCvYbZUahD2i5UIV_RBEYcwd18OE-39eN7Asnlo/en-us-24-30-057989a9fcd55abdd46e46e94ab2a9e6c10ca484.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kF/Rg-_3BuQpKutHXpCqh-0j3zYCaoOsmk0sjWBsjFpg/en-us-24-30.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xV/E_a0aTswaaerVfgrif9VAQhZPTGdMfl_I0XGkfEYk/en-us-24-30.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RO/03MCvYbZUahD2i5UIV_RBEYcwd18OE-39eN7Asnlo/vtt/1/en.vtt",
-            "size": 2712963711
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xV/E_a0aTswaaerVfgrif9VAQhZPTGdMfl_I0XGkfEYk/en-us-24-30.mp4"
         },
         {
             "id": "4cf79c1bda824300bfe7ae073a820353",
@@ -561,16 +468,13 @@
             "title": "Night and Day, You are the Ones!",
             "description": "An encounter with some remarkable people and Pokémon gives Chloe and Eevee some valuable life lessons!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep31_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep31_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TPecG9qCQwAv-euBzqCA1M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/is/DWbPdmBAoXIyqZWoQC8vsGvL4lxt7CbbStAIqaJWk/en-us-24-31-31cc2952afc2261ac94388396da51f1390eda98c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zv/6ZlcijIsPM14pJZ_Uif9wPI1dSHPn3D9LTgjk_Z3E/en-us-24-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4U/BJ8N7kZg64BkPHoH8PgHhXPvyqP19wZ_8Dc1KJZMU/en-us-24-31.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/is/DWbPdmBAoXIyqZWoQC8vsGvL4lxt7CbbStAIqaJWk/vtt/1/en.vtt",
-            "size": 2690963427
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4U/BJ8N7kZg64BkPHoH8PgHhXPvyqP19wZ_8Dc1KJZMU/en-us-24-31.mp4"
         },
         {
             "id": "bea2db1cf0254f439a239039e471321d",
@@ -579,16 +483,13 @@
             "title": "Trial on a Golden Scale!",
             "description": "Goh’s first trial mission for Project Mew is about to begin, and it promises to deliver a host of surprises!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep32_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep32_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vqLbHPAlT0MmiOQOeRxMh0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QE/KeFgkiRUequJAJaAzFgBrlStir2XT6YhUe5d5kNzo/en-us-24-32-77ca5aed5c8220334bd03a8336e9a269e1fc5906.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N9/DbfD76TdZpi8AepqPZkDPR9FV6yX1SJyWm__P44Gk/en-us-24-32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wh/S3PtekHPm01WTu6hbhhb_jX73ljGYYFQEz267Of9w/en-us-24-32.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QE/KeFgkiRUequJAJaAzFgBrlStir2XT6YhUe5d5kNzo/vtt/1/en.vtt",
-            "size": 2686517122
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wh/S3PtekHPm01WTu6hbhhb_jX73ljGYYFQEz267Of9w/en-us-24-32.mp4"
         },
         {
             "id": "48e95b8ed21345999d878950f047959e",
@@ -597,16 +498,13 @@
             "title": "Mad About Blue!",
             "description": "After Goh catches a rare Pokémon, our heroes meet some unusual people with some fascinating, blue interests!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SOlbjtITRZknYeJUPBHlZ4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rF/Zk2G2yp-D8ikwMTU3glGpa2hYKR3w6v7fyIxPVE9A/en-us-24-33-70af40c71fa4f537e757283109f92ba69354cbdf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6z/m4iTPgOpjHOFZB-mKXZAfOir0wQ1XCWOOWqhO2CR8/en-us-24-33.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WI/7uW_7_M6MKVe1U-KE84ntbmzaKVDFANkhuoDlMfds/en-us-24-33.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rF/Zk2G2yp-D8ikwMTU3glGpa2hYKR3w6v7fyIxPVE9A/vtt/1/en.vtt",
-            "size": 2701577384
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WI/7uW_7_M6MKVe1U-KE84ntbmzaKVDFANkhuoDlMfds/en-us-24-33.mp4"
         },
         {
             "id": "077e399ff58d4290b3101982f97d8aa0",
@@ -615,16 +513,13 @@
             "title": "The Sweet Taste of Battle!",
             "description": "Our heroes take on a challenge that gives the word “sweet” new meaning!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep34_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep34_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/B345n_WNQpAsxAZgvl9iqA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9t/4KcYorgKecOBfy156Jy08tK_EJnDIyaCsmoWOHMks/en-us-24-34-b9957a881bbf1f56ebf839afc379c997fdd4f62a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wf/Xx50jUo-Z8hRbTBbyMhwJUPa7kVqA1ONPmmIS3ilc/en-us-24-34.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/un/InrO18DOSVWEVjBib6q-3KL9c3r2XfnYwMeuBoc_c/en-us-24-34.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9t/4KcYorgKecOBfy156Jy08tK_EJnDIyaCsmoWOHMks/vtt/2/en.vtt",
-            "size": 2697048441
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/un/InrO18DOSVWEVjBib6q-3KL9c3r2XfnYwMeuBoc_c/en-us-24-34.mp4"
         },
         {
             "id": "7b285acacce14651af55bdf43b1825e2",
@@ -633,16 +528,13 @@
             "title": "Star Night, Star Flight!",
             "description": "Ash and Goh visit a town in a difficult situation involving the difference between night and day!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eyhayszhRlEr1W99DsYJeI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PJ/HKBJS7cgb6k5tuRFKwth1PfkwmNPc2CvlFeS3vLJ4/en-us-24-35-66c49832a55fb7a68194fef5ec10144fd4e37167.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4t/V_-RqPkCx1-RjVoJirvA-P28DObdD2ONqaxaIske0/en-us-24-35.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3U/SQXHVrlCMLkKIPUvz1GBb7wBjShu2JffNhLs6B2M4/en-us-24-35.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PJ/HKBJS7cgb6k5tuRFKwth1PfkwmNPc2CvlFeS3vLJ4/vtt/1/en.vtt",
-            "size": 2707824539
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3U/SQXHVrlCMLkKIPUvz1GBb7wBjShu2JffNhLs6B2M4/en-us-24-35.mp4"
         },
         {
             "id": "b6a9e7b9bfe64167a0efd5f84befa9cf",
@@ -651,16 +543,13 @@
             "title": "An Adventure of Mega Proportions!",
             "description": "Korrina and Gurkinn take our heroes to Mega Island, where Ash and Lucario face an unexpected test!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep36_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep36_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tqnnub_mQWcoO_V-Evvqc8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H0/Va_DYtwzykJx6aMWV2uAUlThSWubcUu_eiEHzn2Z4/en-us-24-36-f5f71ffcd5b1ca39af13323944ff16682b3f0c62.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6r/BEF0vfe2Ujwoj-Mk2yAYdw2Id7WMNz9c_gC941-04/en-us-24-36.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p4/Vf6U3mE3_SEvx2J4SfdP09GBQy9TY2LASi2Yy8YH4/en-us-24-36.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H0/Va_DYtwzykJx6aMWV2uAUlThSWubcUu_eiEHzn2Z4/vtt/1/en.vtt",
-            "size": 2723423638
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p4/Vf6U3mE3_SEvx2J4SfdP09GBQy9TY2LASi2Yy8YH4/en-us-24-36.mp4"
         },
         {
             "id": "1ef8374e7af34aa58dd11ab96f1b71fe",
@@ -669,16 +558,13 @@
             "title": "Battle Three With Bea!",
             "description": "Determined to advance in the World Coronation Series, Ash and Bea battle in the Ultra Class!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Hvg3TnrzSqUjdEauW8bcf4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CV/GToT01IJbbUrHTbF0FI1Q3K-MJ981xAPMOl921WZY/en-us-24-37-9cffd6357f92c0c138905b5a0db40871c29544bc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5c/1o31hf7WKGBZ_VAni6mrunVtUC9XFbUP28MPWUSIE/en-us-24-37.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ea/OZLNnCg4T8FujRQ5inIXI_9v0k-1XUk-pqjrGhku0/en-us-24-37.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CV/GToT01IJbbUrHTbF0FI1Q3K-MJ981xAPMOl921WZY/vtt/1/en.vtt",
-            "size": 2695586808
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ea/OZLNnCg4T8FujRQ5inIXI_9v0k-1XUk-pqjrGhku0/en-us-24-37.mp4"
         },
         {
             "id": "b6535eecc4b943739e994a204ce40691",
@@ -687,16 +573,13 @@
             "title": "A Battle of Mega Versus Max!",
             "description": "Ash’s battle against Bea develops into a full-throttled competition where the victor is anyone’s guess!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tlNe7MS5Q3MnplKIEzkBpE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7J/QVxEq8IN-WmKr-aRvURmRBypXyF_iWZT5S9rNTFUQ/en-us-24-38-24e9dd89ca05e1a6118f42c0484f0ba44d2d2f92.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1g/nJrcbfd9qPEJmP5WM1JkoYRuIJoNgnKuDgJJxyl_I/en-us-24-38.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/db/hoxYsSqJpOmZ3SsWaLYbKYXta-_G_ZbMaQonpvVD0/en-us-24-38.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7J/QVxEq8IN-WmKr-aRvURmRBypXyF_iWZT5S9rNTFUQ/vtt/2/en.vtt",
-            "size": 2692273406
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/db/hoxYsSqJpOmZ3SsWaLYbKYXta-_G_ZbMaQonpvVD0/en-us-24-38.mp4"
         },
         {
             "id": "b3c667c699804e6bb895bb4bcf9984d3",
@@ -705,16 +588,13 @@
             "title": "Breaking the Ice!",
             "description": "A new classmate at Chloe and Goh’s school has a Glaceon with an icy disposition!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep39_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep39_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/s8ZnxpmATmsuJW7S8-ZhNM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E0/VxYwUn0LI10Mi1fFaQ8sQaGAk8O6FHqnADmCcJSU4/en-us-24-39-6a23c3a343abbe33a2a5dbedfaad84061cfceace.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/SDpRSqRNUs55d_6o_osUXyzssyeqcg4pG0vypwTYw/en-us-24-39.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kO/kttQBUXoHDYpUoec6sCV5l6ZtwWV9zvVu-Y2xkP60/en-us-24-39.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E0/VxYwUn0LI10Mi1fFaQ8sQaGAk8O6FHqnADmCcJSU4/vtt/1/en.vtt",
-            "size": 2687367319
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kO/kttQBUXoHDYpUoec6sCV5l6ZtwWV9zvVu-Y2xkP60/en-us-24-39.mp4"
         },
         {
             "id": "376b308d8ef2402a949f82114c059059",
@@ -723,16 +603,13 @@
             "title": "Looking out for Number Two!",
             "description": "Continuing his quest to join Project Mew, Goh faces his second trial mission!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep40_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep40_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/N2swjY7yQColJ-CEUwFkFk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7q/l3_5Ig9eSpcYHBsa7M2QodBcanmw-LWpMoKvnkdOQ/en-us-24-40-fcf80571fb2830afe270a3a7187c51d33bec32a0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6E/dJ4Kf4u4D1WQgIyh1VLnOmIjvTh2w3Y6pH8EDP1Qs/en-us-24-40.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mj/gj19DTO2m1JAxWy3lKtfg_2O_8EW0irrYmah8GFdI/en-us-24-40.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7q/l3_5Ig9eSpcYHBsa7M2QodBcanmw-LWpMoKvnkdOQ/vtt/1/en.vtt",
-            "size": 2686574220
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mj/gj19DTO2m1JAxWy3lKtfg_2O_8EW0irrYmah8GFdI/en-us-24-40.mp4"
         },
         {
             "id": "23254dc608c44001bdb8669234992a71",
@@ -741,16 +618,13 @@
             "title": "The Gates of Warp!",
             "description": "A mysterious phenomenon pulls our heroes into uncharted territory!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep41_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep41_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/IyVNxgjEQAEvbhmkjSZKnE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H7/kDBy3VA8sdAdd3RBHwEllFoKz8NksXTKYfOseX5sA/en-us-24-41-c0ceba8b8964c8e45417ba07788222998261c94c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5r/sb6uLecAdI9nVplhpLCGgH119DwCy4Ld9cqu4VtK8/en-us-24-41.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f6/2SnYys2DeQ_yAqKbPN3MAwPwoi11m8ysWXRLw8eR0/en-us-24-41.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H7/kDBy3VA8sdAdd3RBHwEllFoKz8NksXTKYfOseX5sA/vtt/1/en.vtt",
-            "size": 2670294915
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f6/2SnYys2DeQ_yAqKbPN3MAwPwoi11m8ysWXRLw8eR0/en-us-24-41.mp4"
         },
         {
             "id": "77c18c8c9129488689a8bba41e93aa25",
@@ -759,16 +633,13 @@
             "title": "Showdown at the Gates of Warp!",
             "description": "Confronted with an unexpected reality, our heroes team up with some unexpected allies!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/d8GMjJEpSIYiai7pB6TqiU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xu/xQGRFuLDz3BrHuWAAc03RBR5yJDB0R9EbXyKD9HpQ/en-us-24-42-5e2494bd596cfde08eee6dedc237fe1921692732.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hy/MtMLyE40gr2_TMNmjvpC_jmv4K0sQ_KrMM_UTvTSU/en-us-24-42.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/-whYUCzPAaZAe2Xl8h2k7IbhPT7BfZXmcVSmc48U0/en-us-24-42.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xu/xQGRFuLDz3BrHuWAAc03RBR5yJDB0R9EbXyKD9HpQ/vtt/10/en.vtt",
-            "size": 2720468688
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/-whYUCzPAaZAe2Xl8h2k7IbhPT7BfZXmcVSmc48U0/en-us-24-42.mp4"
         }
     ]
 }

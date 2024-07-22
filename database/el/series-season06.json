@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-advanced",
+    "channel_id": "season06",
     "channel_name": "Pokémon Advanced",
     "channel_description": "El viaje de Ash y Pikachu tiene una parada en la región Hoenn en la sexta temporada de la serie Pokémon. ¡Disponible ahora en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1125x1500-el.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-es.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 251,
-    "channel_creation_date": 1610128098,
-    "channel_update_date": 1699030233,
+    "order": -6000,
     "media": [
         {
             "id": "8bab5071db6447f4837fa0c4f8fe5f76",
@@ -21,16 +18,13 @@
             "title": "Hay que empezar el camino",
             "description": "¡Pikachu sufre de una seria sobrecarga eléctrica! ¿Podrán Ash y el Profesor Birch encontrar una solución antes de que sea demasiado tarde?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/i6tQcdtkR_Qg3-gxPj-X3Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gN/WIhBF2umOXohfZY5jgvbB_2NT7DmqFrSVP8s8tvI0/pok_tv_s0613_2997-master-las-912d5faac9fa569e19eadd6168e464c651372486.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gN/WIhBF2umOXohfZY5jgvbB_2NT7DmqFrSVP8s8tvI0/pok_tv_s0613_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g0/P9xFRrDw1Saq51sDxD2ZNigbYtOdh9qyj0rbbS6Uk/pok_tv_s0613_2997-master-las.mp4",
             "captions": "",
-            "size": 2671840155
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g0/P9xFRrDw1Saq51sDxD2ZNigbYtOdh9qyj0rbbS6Uk/pok_tv_s0613_2997-master-las.mp4"
         },
         {
             "id": "f7962b142d33409daf24bb32b127bacb",
@@ -39,16 +33,13 @@
             "title": "Las ruinas de Hoenn",
             "description": "¡Una falla eléctrica en el Centro Pokémon lleva a Ash y a su nueva amiga May a hacer un asombroso descubrimiento!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/95YrFC0zQJ0ryS7MrEnuss/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ma/Wp2o0bVThvYyfN9PbUK-ezoAaLUOYszDEErZSlucs/pok_tv_s0614_2997-master-las-52547a4040a7d81ca4e0e61047e69e28ea370900.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ma/Wp2o0bVThvYyfN9PbUK-ezoAaLUOYszDEErZSlucs/pok_tv_s0614_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ht/UWPsM4iQhUHuR5A-7d5mfjCMcm44KWDvpbPEzCNhE/pok_tv_s0614_2997-master-las.mp4",
             "captions": "",
-            "size": 2669822788
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ht/UWPsM4iQhUHuR5A-7d5mfjCMcm44KWDvpbPEzCNhE/pok_tv_s0614_2997-master-las.mp4"
         },
         {
             "id": "4e76262f09634051a655c6c1a48a81b0",
@@ -57,16 +48,13 @@
             "title": "No hay lugar como Hoenn",
             "description": "Ash está listo para su primera batalla de Gimnasio en la región Hoenn, ¡y el Líder de Gimnasio que enfrentará es nada menos que el padre de May!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TnYmLwljQFEplXGwaSKgbA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F9/dpLO1U0XqnzfH2K-niVnQSAc4eb_geDMsd9Er4L5M/pok_tv_s0615_2997-master-las-2620ecfb2c9f907e634d37a27fb48262b72bc229.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F9/dpLO1U0XqnzfH2K-niVnQSAc4eb_geDMsd9Er4L5M/pok_tv_s0615_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iT/CLpdB0MlvMnVn4WTEWqPuXwzZ1GSixKBoZ1rbb6Sc/pok_tv_s0615_2997-master-las.mp4",
             "captions": "",
-            "size": 2660625148
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iT/CLpdB0MlvMnVn4WTEWqPuXwzZ1GSixKBoZ1rbb6Sc/pok_tv_s0615_2997-master-las.mp4"
         },
         {
             "id": "8c226d8eb01140aabc05fce8624ad0ee",
@@ -75,16 +63,13 @@
             "title": "Un Pokémon implacable",
             "description": "¡Cuando el Equipo Rocket pone a una bandada de Taillow contra nuestros héroes, un viejo amigo llega al rescate!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jCJtjrARQKovAX86GJK0O4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tc/WN29JliXqZfpd99titdoLJ6miKkUkqDLVXFebKEgs/pok_tv_s0616_2997-master-las-9598237e0e66b9bd3aeee07cfad0f8d8194e3337.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tc/WN29JliXqZfpd99titdoLJ6miKkUkqDLVXFebKEgs/pok_tv_s0616_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6S/uOj4IiBmkhGNXPuTblwhQGb1Z8jz2Cu968NuFlKUk/pok_tv_s0616_2997-master-las.mp4",
             "captions": "",
-            "size": 2669280932
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6S/uOj4IiBmkhGNXPuTblwhQGb1Z8jz2Cu968NuFlKUk/pok_tv_s0616_2997-master-las.mp4"
         },
         {
             "id": "024e5bbc72e7449a800ae20a5150b867",
@@ -93,16 +78,13 @@
             "title": "Las primeras batallas",
             "description": "Ash y sus amigos conocen a un excéntrico Entrenador quien desafía a May a su primera batalla Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ak5bvHLnRJogAriClFQuGc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ua/KcCDcD3PI2lY0eQFEE5uV_1grjTnTjP1Tz4i0LryE/pok_tv_s0617_2997-master-las-37c58cca73798be38671127f79f332d39cd3412a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ua/KcCDcD3PI2lY0eQFEE5uV_1grjTnTjP1Tz4i0LryE/pok_tv_s0617_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yj/WpyCTv0ImLGH_WpGbcs73vH4J9IP8lX7ewRGlpAfU/pok_tv_s0617_2997-master-las.mp4",
             "captions": "",
-            "size": 2666401575
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yj/WpyCTv0ImLGH_WpGbcs73vH4J9IP8lX7ewRGlpAfU/pok_tv_s0617_2997-master-las.mp4"
         },
         {
             "id": "bdde0d4dd292460f8076c2906549c927",
@@ -111,16 +93,13 @@
             "title": "El cazador furtivo",
             "description": "Nuestros héroes siguen el rastro de un cazador Pokémon, ¡y el Equipo Rocket está muy cerca!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vd4NTdKSRg8gHbCkGVJySc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DX/eSwAbEew23QeY1gYtzMzwtriioVWjxxDlwVDob5dI/pok_tv_s0618_2997-master-las-8da6c152f8f2c8bff503f2f5b140896fed8e802a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DX/eSwAbEew23QeY1gYtzMzwtriioVWjxxDlwVDob5dI/pok_tv_s0618_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jS/YtxqFXBALCSy6IUmsW1mLMDlAoGB4Hi8-Qiu8K7FE/pok_tv_s0618_2997-master-las.mp4",
             "captions": "",
-            "size": 2667869441
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jS/YtxqFXBALCSy6IUmsW1mLMDlAoGB4Hi8-Qiu8K7FE/pok_tv_s0618_2997-master-las.mp4"
         },
         {
             "id": "0e8d259f32e94ef38aa5c1e0be3835a7",
@@ -129,16 +108,13 @@
             "title": "El árbol de Treecko",
             "description": "Cuando Ash se pierde en el bosque, conoce a un Treecko que está decidido a salvar su hogar en el bosque.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Do0lnzLpTvMiqXB4L44Nac/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/VNBgKVxBjnn0cYQJ3qYi2IN5lO2-e88qhUK2BU7Kg/pok_tv_s0619_2997-master-las-92500733d8be9bd2c6c4caccdbcce5b47cf8a316.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/VNBgKVxBjnn0cYQJ3qYi2IN5lO2-e88qhUK2BU7Kg/pok_tv_s0619_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vp/YJ2w7qlPL1rD5SuwDjR3TK-oxpTzVSabOczgxUBx8/pok_tv_s0619_2997-master-las.mp4",
             "captions": "",
-            "size": 2669040950
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vp/YJ2w7qlPL1rD5SuwDjR3TK-oxpTzVSabOczgxUBx8/pok_tv_s0619_2997-master-las.mp4"
         },
         {
             "id": "6b65999aabd146f8a04439f8a113aa23",
@@ -147,16 +123,13 @@
             "title": "Una cola explosiva",
             "description": "El Treecko de Ash enfrenta a un Seviper salvaje, pero las cosas no van muy bien…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/a2WZmqvRRvgoEQ5-KETqiM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/id/mxKFQ5UqHFJuBeNZBmWjM484eNI9P3Fkp_hkW-bKA/pok_tv_s0620_2997-master-las-7b11224b32306de0308a0d9e583fab281ccbdddf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/id/mxKFQ5UqHFJuBeNZBmWjM484eNI9P3Fkp_hkW-bKA/pok_tv_s0620_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6r/k49VDwAYpGX61mSP6eeA4Oxd7oLPI-LW1ICgJxEc8/pok_tv_s0620_2997-master-las.mp4",
             "captions": "",
-            "size": 2668388939
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6r/k49VDwAYpGX61mSP6eeA4Oxd7oLPI-LW1ICgJxEc8/pok_tv_s0620_2997-master-las.mp4"
         },
         {
             "id": "3e7e88b529ba4f4da1411e249b846122",
@@ -165,16 +138,13 @@
             "title": "El rescate de Shroomish",
             "description": "Tras detenerse en Pueblo Rinshin, nuestros héroes investigan el misterio de una mansión embrujada.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Pn6ItSm6T00oUEeJJuEYSI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S6/T8izOUaVlCEagy4ZD8nWw0uB7SWYFQSyKGm6wXoAg/pok_tv_s0621_2997-master-las-785ab0b3b2580c3009dc499a924320fb66aff579.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S6/T8izOUaVlCEagy4ZD8nWw0uB7SWYFQSyKGm6wXoAg/pok_tv_s0621_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YI/tldKh_4ItBeXf60FC_RpF4VKZnOiCChmGoglP1_CA/pok_tv_s0621_2997-master-las.mp4",
             "captions": "",
-            "size": 2662358679
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YI/tldKh_4ItBeXf60FC_RpF4VKZnOiCChmGoglP1_CA/pok_tv_s0621_2997-master-las.mp4"
         },
         {
             "id": "f9bde89e74bb40c598043fe0fe12d474",
@@ -183,16 +153,13 @@
             "title": "Un bocado peligroso",
             "description": "Ash no puede resistir retar a un Entrenador quien dice tener el Pokémon más poderoso del mundo, pero hay algo extraño con esta batalla…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-b3onnS7QMUmAQ_4P4S1HQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ir/-D9Kje68Xa5TgsuKGeT6WVYi7QeAYjs_JyPDdA_k0/pok_tv_s0622_2997-master-las-3ca76a468b4953bbbb5e439acb2c0935df56c238.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ir/-D9Kje68Xa5TgsuKGeT6WVYi7QeAYjs_JyPDdA_k0/pok_tv_s0622_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uU/RgweUG6ANGDzIWIiBUjg4BQrIyGjO3nzHE7Ivaz5U/pok_tv_s0622_2997-master-las.mp4",
             "captions": "",
-            "size": 2665978416
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uU/RgweUG6ANGDzIWIiBUjg4BQrIyGjO3nzHE7Ivaz5U/pok_tv_s0622_2997-master-las.mp4"
         },
         {
             "id": "972abfd19e554a66b27c9e2a28728041",
@@ -201,16 +168,13 @@
             "title": "Una mordida para recordar",
             "description": "Luego de conocer a un grupo de Mightyena, Max se hace amigo de un Poochyena que todavía no ha evolucionado, y decide entrenarlo él mismo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lyq_0Z5VSmYsnyeKihygEE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vp/ALykR320QPiCS14k3ySAlPxwhpdW_D7tXUQiN2zVk/pok_tv_s0623_2997-master-las-7a14ca2c48c9e3694ab9ef29825a098be3d12d57.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vp/ALykR320QPiCS14k3ySAlPxwhpdW_D7tXUQiN2zVk/pok_tv_s0623_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BK/LKUPcV3QJHVP-CMxAIzmUGmyUT0UZLHXhNtRsDMl4/pok_tv_s0623_2997-master-las.mp4",
             "captions": "",
-            "size": 2663507026
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BK/LKUPcV3QJHVP-CMxAIzmUGmyUT0UZLHXhNtRsDMl4/pok_tv_s0623_2997-master-las.mp4"
         },
         {
             "id": "7b22df0f62b149198229df433cf05d00",
@@ -219,16 +183,13 @@
             "title": "Los pequeños Lotad",
             "description": "Nuestros héroes conocen a tres hermanas que cultivan bayas con la ayuda de un grupo cercano de Lotad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eyLfD2KxSRkginfQzzwXQA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vr/QyG-tX6cq0b2MPKmVDsYVhSM2ysy9SisI5SlIvoOQ/pok_tv_s0624_2997-master-las-c94e325905340fa4d355ba5cb7af5bf467f13c7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vr/QyG-tX6cq0b2MPKmVDsYVhSM2ysy9SisI5SlIvoOQ/pok_tv_s0624_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/EZnatN6ZmYCDSp5JE17zojKEdpX8pjmk12oCaE1_k/pok_tv_s0624_2997-master-las.mp4",
             "captions": "",
-            "size": 2667922134
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/EZnatN6ZmYCDSp5JE17zojKEdpX8pjmk12oCaE1_k/pok_tv_s0624_2997-master-las.mp4"
         },
         {
             "id": "0fe7ab949dd04b0fa7c0fcf32fb927ee",
@@ -237,16 +198,13 @@
             "title": "Todas las cosas brillantes y hermosas",
             "description": "Ash y sus amigos descubren toda una nueva clase de competencias Pokémon, ¡y parece que May ha descubierto su vocación!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/D-erlJ3QSw8p8D88y-5J-4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aI/n8Q3zMcSz6iCuu7aAEqUzEorNzK_PSg7det8qW6c0/pok_tv_s0625_2997-master-las-b1d35ee9fed9d2825306aebe3f848428f41c63b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aI/n8Q3zMcSz6iCuu7aAEqUzEorNzK_PSg7det8qW6c0/pok_tv_s0625_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gR/wwyVJrK8igGPvMPilfEZV0xTqWOPXiIFX2uL6BNA4/pok_tv_s0625_2997-master-las.mp4",
             "captions": "",
-            "size": 2649366802
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gR/wwyVJrK8igGPvMPilfEZV0xTqWOPXiIFX2uL6BNA4/pok_tv_s0625_2997-master-las.mp4"
         },
         {
             "id": "1fd897409bc14550b22aa4f71e3d24ef",
@@ -255,16 +213,13 @@
             "title": "Atrapen a Wurmple",
             "description": "Cuando May sale a atrapar a un Wurmple para su primer Concurso Pokémon, Ash recibe un desafío para una Batalla Doble.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/H9iXQJvBRVAsiqk9x49JO8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fk/wf8ROUMsfSp4ZN5COEh3SFWOQWEQo0gx8ugDxUjuk/pok_tv_s0626_2997-master-las-eca60a308608dae24e2d60194588a237a96a97c7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fk/wf8ROUMsfSp4ZN5COEh3SFWOQWEQo0gx8ugDxUjuk/pok_tv_s0626_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5D/BQa89ilFBAOKshi7Ts4zVCh1VF5-ojCt5b0EzFr_8/pok_tv_s0626_2997-master-las.mp4",
             "captions": "",
-            "size": 2666844070
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5D/BQa89ilFBAOKshi7Ts4zVCh1VF5-ojCt5b0EzFr_8/pok_tv_s0626_2997-master-las.mp4"
         },
         {
             "id": "45c2471734d448f5a72cccb4ed89768b",
@@ -273,16 +228,13 @@
             "title": "Quiero ir a la escuela",
             "description": "Nuestros héroes deciden conocer la Escuela de Entrenadores Pokémon de Ciudad Rustboro, donde Max se encuentra con un compañero de clase.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RcJHFzTUSPUpyzMtO2Jdos/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hr/rMMcciSITV9kfrHInmUxoZHXyP6R4WMm0t_EXOykA/pok_tv_s0627_2997-master-las-aa94d4d10ee356756121bb672f6a1eadb1d49774.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hr/rMMcciSITV9kfrHInmUxoZHXyP6R4WMm0t_EXOykA/pok_tv_s0627_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W2/4hhZF6DY5wPISCMJMVp5eLRM8yuTo-82h55TtIwEM/pok_tv_s0627_2997-master-las.mp4",
             "captions": "",
-            "size": 2664809991
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W2/4hhZF6DY5wPISCMJMVp5eLRM8yuTo-82h55TtIwEM/pok_tv_s0627_2997-master-las.mp4"
         },
         {
             "id": "d8517e623162439cb38af40aeac6f362",
@@ -291,16 +243,13 @@
             "title": "Una batalla contra Nosepass",
             "description": "¡Armado con el nuevo ataque de Pikachu, Cola de Hierro, Ash desafía a la Líder de Gimnasio, Roxanne!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2FF-YjFiQ5ws4r0CurG82I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/0Fwdf4r5jP4JMH4Z1Fio8KoufswnlcMDGuObE1RGI/pok_tv_s0628_2997-master-las-5dbc1de9a2daf05d5ebf8d19d2368e337bf0a644.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/0Fwdf4r5jP4JMH4Z1Fio8KoufswnlcMDGuObE1RGI/pok_tv_s0628_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wH/XBmYz-4rDUItpP6Xnn3OZTV3aWlDZoALP4DA3jqJA/pok_tv_s0628_2997-master-las.mp4",
             "captions": "",
-            "size": 2665555382
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wH/XBmYz-4rDUItpP6Xnn3OZTV3aWlDZoALP4DA3jqJA/pok_tv_s0628_2997-master-las.mp4"
         },
         {
             "id": "a63660f3010d4d738d07e57f6340c085",
@@ -309,16 +258,13 @@
             "title": "De camino a Devon",
             "description": "¡Mientras nuestros héroes visitan la enorme Corporación Devon, un misterioso intruso trata de robar una importante pieza de equipo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pjZg8wENTXMjQflf2NAwIU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/ReKWRL7Sj5b2oPAVd0LK_yefQXpLe5w-gBQmiDUSc/pok_tv_s0629_2997-master-las-2b0e84eb49326786c8b50f8bb886d8e916b5a120.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/ReKWRL7Sj5b2oPAVd0LK_yefQXpLe5w-gBQmiDUSc/pok_tv_s0629_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ga/zOKTg3ijWdHiak4icv-X0jwx_mQjTiqWNaQT9qGi4/pok_tv_s0629_2997-master-las.mp4",
             "captions": "",
-            "size": 2670550402
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ga/zOKTg3ijWdHiak4icv-X0jwx_mQjTiqWNaQT9qGi4/pok_tv_s0629_2997-master-las.mp4"
         },
         {
             "id": "614572a845fe4312a22ba6773cb71f4b",
@@ -327,16 +273,13 @@
             "title": "El rescate de Wingull",
             "description": "El señor Briney, un marinero, ofrece llevar a nuestros héroes a la Isla Dewford para la siguiente batalla de Gimnasio de Ash, pero luego cambia de opinión. ¿Qué está pasando?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YUVyqEX-QxIoiumdzy3H0s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dL/VnUDUgoTvfXswpWSbKLxCHiv4dLTOL_mxEW0bQ4y0/pok_tv_s0630_2997-master-las-b674cd2bb852f8501765d60d10e08e840ef38ce0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dL/VnUDUgoTvfXswpWSbKLxCHiv4dLTOL_mxEW0bQ4y0/pok_tv_s0630_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ex/eGZ7zvtxVv1J0Bslp9KAqiyIjkfElEaG9SMlSk_60/pok_tv_s0630_2997-master-las.mp4",
             "captions": "",
-            "size": 2670838220
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ex/eGZ7zvtxVv1J0Bslp9KAqiyIjkfElEaG9SMlSk_60/pok_tv_s0630_2997-master-las.mp4"
         },
         {
             "id": "2e43a98f74024c46a59413285a1f9a45",
@@ -345,16 +288,13 @@
             "title": "El ataque de los Sharpedo",
             "description": "¡Cuando un banco de Sharpedo ataca, Ash y sus amigos quedan varados en una isla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LkOpj3QCTEYpZQTKFofmkU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kt/9IpcpPRUF7t_QjMS-CPg8TEoE4nxtzERasdmLk5Vc/pok_tv_s0631_2997-master-las-550f3c7fc80e2c0e5744aa28ea7488ddb660ca87.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kt/9IpcpPRUF7t_QjMS-CPg8TEoE4nxtzERasdmLk5Vc/pok_tv_s0631_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tj/DBmYecmvHzQbcxcftqeyqabL7AePZ8uiqopjbImwM/pok_tv_s0631_2997-master-las.mp4",
             "captions": "",
-            "size": 2676980604
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tj/DBmYecmvHzQbcxcftqeyqabL7AePZ8uiqopjbImwM/pok_tv_s0631_2997-master-las.mp4"
         },
         {
             "id": "d368ec1c14484d7896b234cf1b9ef4b4",
@@ -363,16 +303,13 @@
             "title": "Toma la ola",
             "description": "Ash reta al Gimnasio Dewford, pero el Líder de Gimnasio Brawly parece más interesado en surfear!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/02jsHBRITXglrI0zxue9LQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ph/h_sxJtqq8BPDyhxlMyVV1elt6GFTgnyzkJ9-v5G7k/pok_tv_s0632_2997-master-las-c8c8258b832ac3002eb30070c6f9a056728ddba8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ph/h_sxJtqq8BPDyhxlMyVV1elt6GFTgnyzkJ9-v5G7k/pok_tv_s0632_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9V/AF8KfUl2zypux9BWHZryWY_c7BGR2-LQidR7iECXc/pok_tv_s0632_2997-master-las.mp4",
             "captions": "",
-            "size": 2670139124
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9V/AF8KfUl2zypux9BWHZryWY_c7BGR2-LQidR7iECXc/pok_tv_s0632_2997-master-las.mp4"
         },
         {
             "id": "59a7c0a1289e4fa78cb3918a07b7e68e",
@@ -381,16 +318,13 @@
             "title": "¿Cuál Wurmple es cuál?",
             "description": "Tanto May como Jessie del Equipo Rocket tienen un Wurmple, ¡y los dos Pokémon accidentalmente se intercambian durante una batalla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WafAoSieT6cjLORige35o4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qf/Q0BcpfYFqj35AYfraDYz0GTrmLd0Bbw3g_UYzAPKo/pok_tv_s0633_2997-master-las-9dbd8ba65d6002326db793dd7ae895aab16ab8fc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qf/Q0BcpfYFqj35AYfraDYz0GTrmLd0Bbw3g_UYzAPKo/pok_tv_s0633_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cb/qBk65C9OTfm5AtZRFpiTfOdkgdKtw0iLtTfQK5o3Q/pok_tv_s0633_2997-master-las.mp4",
             "captions": "",
-            "size": 2670724712
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cb/qBk65C9OTfm5AtZRFpiTfOdkgdKtw0iLtTfQK5o3Q/pok_tv_s0633_2997-master-las.mp4"
         },
         {
             "id": "3b72a200f6f646a58cfaa4af808c14a0",
@@ -399,16 +333,13 @@
             "title": "Problemas en la cueva",
             "description": "Ash y sus amigos conocen a Steven Stone en la Cueva de Granito, ¡y ahí rápidamente caen en una de las trampas del Equipo Rocket!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/O3KiAPb2RqUjPqkr4CMFKA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I8/_eONHaD6K2h2riaZeEqLyhdUv5QBqhzUUhvp_tM7E/pok_tv_s0634_2997-master-las-4e974e5b0730168e09f3dd12661178baf1ca9548.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I8/_eONHaD6K2h2riaZeEqLyhdUv5QBqhzUUhvp_tM7E/pok_tv_s0634_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qt/ShZnGWZOFRpGCYWT3s3EplypbCdg7RxTmZ6N1y-UU/pok_tv_s0634_2997-master-las.mp4",
             "captions": "",
-            "size": 2669821632
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qt/ShZnGWZOFRpGCYWT3s3EplypbCdg7RxTmZ6N1y-UU/pok_tv_s0634_2997-master-las.mp4"
         },
         {
             "id": "d7cacf9a304c43b2943469238fb41608",
@@ -417,16 +348,13 @@
             "title": "Capturando a Corphish",
             "description": "¡Un misterioso Pokémon no deja de cavar en la playa cercana al campamento de nuestros héroes y tira todo a su paso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/18rPmjBMQ7IlDRpI4-0Fgg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Av/McOabVNK1oIlrBQjSiJuRvikiQ6_27Vba-Xavl35c/pok_tv_s0635_2997-master-las-ae1c62f52ea00b0c09216c9c214dcfe41b048936.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Av/McOabVNK1oIlrBQjSiJuRvikiQ6_27Vba-Xavl35c/pok_tv_s0635_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/EjpmzWevAvWBX8HuvfsGcRzAqQiDEpi3Dvu0jVa5g/pok_tv_s0635_2997-master-las.mp4",
             "captions": "",
-            "size": 2670502195
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/EjpmzWevAvWBX8HuvfsGcRzAqQiDEpi3Dvu0jVa5g/pok_tv_s0635_2997-master-las.mp4"
         },
         {
             "id": "6cdea161029542239ae458ab0ddf7167",
@@ -435,16 +363,13 @@
             "title": "Un Corphish fuera del agua",
             "description": "Cuando el escandaloso nuevo Corphish de Ash se come algo que no debería, él debe realizar un peligroso viaje para llevarlo al Centro Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bN6hYQKVQiMmuRYqw3fcWc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Va/iVLuO-V-WcTYmlCwT56s1iSnoa1Os3sHLp-aXzIwI/pok_tv_s0636_2997-master-las-aa606191ebb18a1ff43d5ff54dee19dbfdaa56aa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Va/iVLuO-V-WcTYmlCwT56s1iSnoa1Os3sHLp-aXzIwI/pok_tv_s0636_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ky/kemy0TfdoPPG4S_Ux06OLi7PeWFnZPMnOf0_JGfPM/pok_tv_s0636_2997-master-las.mp4",
             "captions": "",
-            "size": 2671187481
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ky/kemy0TfdoPPG4S_Ux06OLi7PeWFnZPMnOf0_JGfPM/pok_tv_s0636_2997-master-las.mp4"
         },
         {
             "id": "46b69622d3484f6c80abcf0357e1734f",
@@ -453,16 +378,13 @@
             "title": "Una misión Mudkip",
             "description": "Ash y sus amigos se encuentran con un lago lleno de Mudkip, ¡y pronto acaban protegiendo a los Pokémon de un plan del Equipo Rocket!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RraWItNIT2wgKvPA1fhc08/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ut/_8trLey6O2S8z2h2Zv-mu20O-d2f1UEzBvfwGZZPM/pok_tv_s0637_2997-master-las-1c890fe05b7580f67472bdb47e0478b984b2ae7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ut/_8trLey6O2S8z2h2Zv-mu20O-d2f1UEzBvfwGZZPM/pok_tv_s0637_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qn/3xvF93s7R41qr13y346oNawGlDcI0y2kEYkfB2zGg/pok_tv_s0637_2997-master-las.mp4",
             "captions": "",
-            "size": 2666753037
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qn/3xvF93s7R41qr13y346oNawGlDcI0y2kEYkfB2zGg/pok_tv_s0637_2997-master-las.mp4"
         },
         {
             "id": "d6610976d4404da0bfc9e096f88dc220",
@@ -471,16 +393,13 @@
             "title": "Nuestro amigo Nuzleaf",
             "description": "Cuando nuestros héroes se separan de sus Pokémon en una cueva profunda y oscura, ambos grupos se encuentran en problemas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1mEJdtRATaAv8nglviNwiA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4L/V1O8ZJ-mdri26e5DvrYhz_BmyeLUSV_yVlz1jwxCM/pok_tv_s0638_2997-master-las-bda19577096d0b0520c20ac8a53f419fd8d3b2fd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4L/V1O8ZJ-mdri26e5DvrYhz_BmyeLUSV_yVlz1jwxCM/pok_tv_s0638_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EQ/Cion9ldxuADqeYbLtmUKCdP4qmEYPXMrwKdLaInf4/pok_tv_s0638_2997-master-las.mp4",
             "captions": "",
-            "size": 2670659784
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EQ/Cion9ldxuADqeYbLtmUKCdP4qmEYPXMrwKdLaInf4/pok_tv_s0638_2997-master-las.mp4"
         },
         {
             "id": "b169fcb8bd7b433183416ece7f023465",
@@ -489,16 +408,13 @@
             "title": "Encuentro de tres equipos",
             "description": "Ash y los otros se reúnen con el Profesor Birch para un día de exploración y terminan en medio de una villanesca confrontación.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sWn8uL17QzEg0Fuzn8CNGU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/FsiwoQZwhdFTmU7y1D7FC_-qtabdTIpTM6mqMdSa4/pok_tv_s0639_2997-master-las-78f917b5ac3908431a88d1d1e852d21df9dd3043.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/FsiwoQZwhdFTmU7y1D7FC_-qtabdTIpTM6mqMdSa4/pok_tv_s0639_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZA/cte832iH8GyNnkOKCj0NYWgWGIijC-uQf7B0Ycdfc/pok_tv_s0639_2997-master-las.mp4",
             "captions": "",
-            "size": 2668505740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZA/cte832iH8GyNnkOKCj0NYWgWGIijC-uQf7B0Ycdfc/pok_tv_s0639_2997-master-las.mp4"
         },
         {
             "id": "07884f038ae24fb98c3c12840c50bf63",
@@ -507,16 +423,13 @@
             "title": "Ver para creer",
             "description": "Jessie del Equipo Rocket está segura de que su Pokémon algún día evolucionará a una hermosa Beautifly, ¡pero podría llevarse una sorpresa inesperada!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/B4hPA4riT7kjDwShAxQv2M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MB/rRCWQ4RdHCVKzsOUm5aEyZ6EKoddcs77RvvZfTXa4/pok_tv_s0640_2997-master-las-356c06170f26843a00c6adaa64fd770b8b1d58fe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MB/rRCWQ4RdHCVKzsOUm5aEyZ6EKoddcs77RvvZfTXa4/pok_tv_s0640_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WC/-TXtYabLKzGNPX1cIuye-z0qi-OAasG5F_4P3E818/pok_tv_s0640_2997-master-las.mp4",
             "captions": "",
-            "size": 2668804221
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WC/-TXtYabLKzGNPX1cIuye-z0qi-OAasG5F_4P3E818/pok_tv_s0640_2997-master-las.mp4"
         },
         {
             "id": "bd15584c088b4b08b167fb7b3088793a",
@@ -525,16 +438,13 @@
             "title": "El gran susto de Sableye",
             "description": "Tras decidir que es hora de darle una lección a su indisciplinado Corphish, Ash guía a los Pokémon a una mina abandonada, donde las cosas no son lo que parecen…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vRVYTAiLSwgsWf7ezCIeTo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oz/PZsar4M6PopAsMIL0Fqgat0bbToRHEGYGwIPcnm_8/pok_tv_s0641_2997-master-las-2d7a4f2a994c21deb4923bf75fca82277dbe6ae4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oz/PZsar4M6PopAsMIL0Fqgat0bbToRHEGYGwIPcnm_8/pok_tv_s0641_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hd/L_vAhtcp-dzVvlTEK5Xnc1k0w2z2GUv4sB_tFfAzQ/pok_tv_s0641_2997-master-las.mp4",
             "captions": "",
-            "size": 2669235730
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hd/L_vAhtcp-dzVvlTEK5Xnc1k0w2z2GUv4sB_tFfAzQ/pok_tv_s0641_2997-master-las.mp4"
         },
         {
             "id": "00ef7a3a305446a8b5e302f5a6514fd4",
@@ -543,16 +453,13 @@
             "title": "Una pelea para meditar",
             "description": "¡El pronóstico de una peligrosa tormenta interrumpe el reto de batalla más reciente de Ash!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AO96OjBURqgteMC9aZRT9Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gX/IYX_Pa5r697xlyjECKIRKfrmlhs5CQ7X-MZscVj_k/pok_tv_s0642_2997-master-las-9bf337d640596efadd63059f2bac1dc8748e3d77.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gX/IYX_Pa5r697xlyjECKIRKfrmlhs5CQ7X-MZscVj_k/pok_tv_s0642_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K0/PAW1q5OoSavxztAZ7XY11hUf-XWB2Ki6eoUk7wVBk/pok_tv_s0642_2997-master-las.mp4",
             "captions": "",
-            "size": 2663973547
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K0/PAW1q5OoSavxztAZ7XY11hUf-XWB2Ki6eoUk7wVBk/pok_tv_s0642_2997-master-las.mp4"
         },
         {
             "id": "187a73760a144e529dfe7934beb92a95",
@@ -561,16 +468,13 @@
             "title": "La fuerza del géiser",
             "description": "¡En una arena de una isla secreta con un campo de batalla inusual, Brawly, el Líder del Gimnasio Dewford, le abre las puertas a Ash para una revancha!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GHpzdgoUTlInf55NL65KpU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yQ/9DOxZOaAl7-JMn8bNcAkznP2bVEtd6WsLpA-gut8o/pok_tv_s0643_2997-master-las-e8233681d37e47bb42b8262e67699a2c9e2b55f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yQ/9DOxZOaAl7-JMn8bNcAkznP2bVEtd6WsLpA-gut8o/pok_tv_s0643_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S5/_wLbeSv1h751oBlOidawR-ZoEkRDcxuGIcZTS8kUE/pok_tv_s0643_2997-master-las.mp4",
             "captions": "",
-            "size": 2641877792
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S5/_wLbeSv1h751oBlOidawR-ZoEkRDcxuGIcZTS8kUE/pok_tv_s0643_2997-master-las.mp4"
         },
         {
             "id": "dafaedc969894de3814e7081c80e6d07",
@@ -579,16 +483,13 @@
             "title": "¡Abandonen el barco!",
             "description": "Nuestros héroes se encuentran a bordo de un barco abandonado…. ¡y luego empiezan a desaparecer uno a uno!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2vrtyWmJTeMgU5wgcgObQc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DD/LXxztipqaMj-sLqPQi5B0Vbe_AqdWHjPgQGk4JdN4/pok_tv_s0644_2997-master-las-77f7b406a686cd645596350e5efc78b5fb6d4a39.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DD/LXxztipqaMj-sLqPQi5B0Vbe_AqdWHjPgQGk4JdN4/pok_tv_s0644_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lk/vPa-iAxHYV5tybZ89ev-i05iD0lLDB4Sxs-odyPbs/pok_tv_s0644_2997-master-las.mp4",
             "captions": "",
-            "size": 2669909287
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lk/vPa-iAxHYV5tybZ89ev-i05iD0lLDB4Sxs-odyPbs/pok_tv_s0644_2997-master-las.mp4"
         },
         {
             "id": "c5895145f05a4e86b4acca996320b875",
@@ -597,16 +498,13 @@
             "title": "El poder de las flores",
             "description": "Mientras May entrena para el Concurso Pokémon en Ciudad Slateport, el apetito de Torchic por bayas la mete en problemas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xYlRRfBaToYtKzKmWMguHU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nu/lGT9b8hMc1V-LHDwwEQgpbuM1R0__hmw9FvHxjn8k/pok_tv_s0645_2997-master-las-c669fb240199eabeaf0229b51af498a4229f1b43.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nu/lGT9b8hMc1V-LHDwwEQgpbuM1R0__hmw9FvHxjn8k/pok_tv_s0645_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7z/qKU31erDSjmSEN0VhWUrD0ioaFEuMhm5RtdEPzZBc/pok_tv_s0645_2997-master-las.mp4",
             "captions": "",
-            "size": 2669599105
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7z/qKU31erDSjmSEN0VhWUrD0ioaFEuMhm5RtdEPzZBc/pok_tv_s0645_2997-master-las.mp4"
         },
         {
             "id": "10c7f5b0f177437380b16d77c0196522",
@@ -615,16 +513,13 @@
             "title": "El primer Pokémon",
             "description": "Una nueva Entrenadora va hacia el Centro Pokémon a escoger a su primer compañero Pokémon, y la Enfermera Joy le pide a Ash y a Max que cuiden de Treecko, Torchic, y Mudkip por ella.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EMf1sPF3Q3MgLFtd8AZZSI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Th/WmX-uGSniTumSbDL0jJQOC9YNysw5K-91ez0oYxC8/pok_tv_s0646_2997-master-las-d64fc57b5cddc30e2425c3cc3af6935a3a83851e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Th/WmX-uGSniTumSbDL0jJQOC9YNysw5K-91ez0oYxC8/pok_tv_s0646_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/GLgUn6tlB-89Upf6p4DqC-OV42daPaDP0hrimB05Y/pok_tv_s0646_2997-master-las.mp4",
             "captions": "",
-            "size": 2668235141
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/GLgUn6tlB-89Upf6p4DqC-OV42daPaDP0hrimB05Y/pok_tv_s0646_2997-master-las.mp4"
         },
         {
             "id": "28b69efb3c0e4b14a863f50c77b76a00",
@@ -633,16 +528,13 @@
             "title": "Ganar, perder o empatar",
             "description": "¡Es hora del primer Concurso Pokémon de May! ¿Su Beautifly tendrá lo necesario para ganar un listón?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KLae-zwOSxQqGP1DHe3agA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/FvfM07Z_tfOdNZLJ1tmjjLPiTUGbVkHbTe6pPYUJQ/pok_tv_s0647_2997-master-las-d1aa184c43a9f4215060532fe184869f41e3afd2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/FvfM07Z_tfOdNZLJ1tmjjLPiTUGbVkHbTe6pPYUJQ/pok_tv_s0647_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SD/e4EDNRDlMIuURwuw8fdXCgjLdWkNw_eZId3UNtf0A/pok_tv_s0647_2997-master-las.mp4",
             "captions": "",
-            "size": 2670743000
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SD/e4EDNRDlMIuURwuw8fdXCgjLdWkNw_eZId3UNtf0A/pok_tv_s0647_2997-master-las.mp4"
         },
         {
             "id": "b77782772cf4412c92b7244bb30be850",
@@ -651,16 +543,13 @@
             "title": "La roca misteriosa",
             "description": "¡Un día de relajación en Ciudad Slateport se convierte en una confrontación entre el Equipo Rocket y el Equipo Magma!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/t3eCdyz0QSwkrckS7ML6FA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mg/zyb8b7h2FQfQEbVRegxZFc2o6blb97kkR4nQpOQWI/pok_tv_s0648_2997-master-las-79f2721a351493dc6405447b7c8bfac4f7f8586c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mg/zyb8b7h2FQfQEbVRegxZFc2o6blb97kkR4nQpOQWI/pok_tv_s0648_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e7/s4dhCUDG-NgrG41CjSoLuF3NO0OXMNy6iOG0TDYa4/pok_tv_s0648_2997-master-las.mp4",
             "captions": "",
-            "size": 2664494093
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e7/s4dhCUDG-NgrG41CjSoLuF3NO0OXMNy6iOG0TDYa4/pok_tv_s0648_2997-master-las.mp4"
         },
         {
             "id": "c7549d220a9944fbaaa94a69d62414d5",
@@ -669,16 +558,13 @@
             "title": "El secuestro de Joy",
             "description": "Ash y sus amigos se detienen en un Centro Pokémon para pedir indicaciones, ¡pero no hay rastro de la Enfermera Joy! ¿Qué pudo haberle sucedido?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/x1SdIgqZRPsqqlKadYkFNU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/MWGlqBHV-xTzyZKHJwCEAWMIPdSpq_Ej5M1B8XIfA/pok_tv_s0649_2997-master-las-fc66ee2a7e682990320d786d10009d4a95e1ecd0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/MWGlqBHV-xTzyZKHJwCEAWMIPdSpq_Ej5M1B8XIfA/pok_tv_s0649_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T5/RuNDPqq4n0v02NvDsMTGY6n5vti5E2stO4ZPBROH4/pok_tv_s0649_2997-master-las.mp4",
             "captions": "",
-            "size": 2670816720
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T5/RuNDPqq4n0v02NvDsMTGY6n5vti5E2stO4ZPBROH4/pok_tv_s0649_2997-master-las.mp4"
         },
         {
             "id": "b353d4ea0cd846a8a5b7269a29f50f2e",
@@ -687,16 +573,13 @@
             "title": "La roca de luz",
             "description": "Ash y sus amigos visitan un faro, donde tratan de devolver un artículo robado que recuperaron del Equipo Rocket, ¡pero el guardián del faro cree que nuestros héroes son los ladrones!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/s1PU6gzYRqgpbcmmin1Dy4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GR/EWAMdWK74Yf12cM4zRyLvqZqxeMIlEe44w-NP0mZ8/pok_tv_s0650_2997-master-las-8ca5603917de396d45fab079138739dfb12a6af0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GR/EWAMdWK74Yf12cM4zRyLvqZqxeMIlEe44w-NP0mZ8/pok_tv_s0650_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lk/yueuBjwmwwXRMt-7wUvdO9QUd7auu7STYhRRLNO5M/pok_tv_s0650_2997-master-las.mp4",
             "captions": "",
-            "size": 2670985794
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lk/yueuBjwmwwXRMt-7wUvdO9QUd7auu7STYhRRLNO5M/pok_tv_s0650_2997-master-las.mp4"
         },
         {
             "id": "75e32b3a6c3e45fd961650b5076b9c9d",
@@ -705,16 +588,13 @@
             "title": "La casa de los trucos",
             "description": "Ash y sus amigos se unen al Concurso de la Casa de Bromas, que los lleva por un laberinto lleno de trucos y trampas, y, claro, hacia el Equipo Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/deMrOmw-Rf0lhZQtQdrnJ0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/St/IPRgVF8MwwcXlzE2N47isk0vY0Qz5ty5bAFGo-sY4/pok_tv_s0651_2997-master-las-abc68cab0e946f961fc17ee83ae529cdd4a185ae.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/St/IPRgVF8MwwcXlzE2N47isk0vY0Qz5ty5bAFGo-sY4/pok_tv_s0651_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UX/Tszk4UsHz4bI1s3P47vWX8qwv0mj4vxdyTISkpDHY/pok_tv_s0651_2997-master-las.mp4",
             "captions": "",
-            "size": 2653328880
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UX/Tszk4UsHz4bI1s3P47vWX8qwv0mj4vxdyTISkpDHY/pok_tv_s0651_2997-master-las.mp4"
         },
         {
             "id": "b6ae850108f448c492af486d669f30a8",
@@ -723,16 +603,13 @@
             "title": "Wattson y Watt",
             "description": "Cuando Ash desafía al Gimnasio de Ciudad Mauville, pronto se encuentra cara a cara con el Pokémon Legendario Raikou, o eso es lo que parece…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tq6FAQj0SMQkq9IbWafMKg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RY/uneSnGZ-RSXzMIGJA1zpCIOk1mpWaTpDLLyEYMACA/pok_tv_s0652_2997-master-las-4f4c4b057507a92d1821756a56d7ea73bdcef5b5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RY/uneSnGZ-RSXzMIGJA1zpCIOk1mpWaTpDLLyEYMACA/pok_tv_s0652_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ss/WTzqXFVU8p01QdjvX83vlmpiHOXqq_DV8VLm76a20/pok_tv_s0652_2997-master-las.mp4",
             "captions": "",
-            "size": 2669923382
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ss/WTzqXFVU8p01QdjvX83vlmpiHOXqq_DV8VLm76a20/pok_tv_s0652_2997-master-las.mp4"
         }
     ]
 }

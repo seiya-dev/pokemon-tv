@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-mesterrejser-serien",
+    "channel_id": "season24",
     "channel_name": "Pokémon-mesterrejser: Serien",
     "channel_description": "Se Ash and Goh’s eventyr i Pokémon-mesterrejser: Serien på Pokémon TV.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1125x1500-en.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1660x940-en.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1660x940-en.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season24/season24-1660x940-en.jpg"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 1,
-    "channel_creation_date": 1673015144,
-    "channel_update_date": 1673015140,
+    "order": -24000,
     "media": [
         {
             "id": "7fbf7fd2cdfd43f8852ba14ac01bb63b",
@@ -21,16 +18,13 @@
             "title": "At træne eller ikke at træne!",
             "description": "Da Chloe har svært ved at beslutte, om hun skal være Pokémon-træner, viser det sig, at beslutningen er lige for næsen af hende!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep01_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep01_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep01_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/f79_0s39Q_ghSuhSsAbtjs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fW/tJ5Dzr0dUcGom3NL-NZRDN-RTLvoo4aSYDUup-eeM/da-dk-24-01-9b911c1d393086514e9be73373956b509cf751e5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n2/klhYdDyLWaDbWjfuXzVP5KpRBXCTWbTKqkB6P-wIM/da-dk-24-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/nXQwZlXSMlb4INBtL4Ofw6F0bjrHnwPWKP5bOkoJ8/da-dk-24-01.mp4",
             "captions": "",
-            "size": 2711276118
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/nXQwZlXSMlb4INBtL4Ofw6F0bjrHnwPWKP5bOkoJ8/da-dk-24-01.mp4"
         },
         {
             "id": "12c064c2cfcd48248df7ed3b34688f37",
@@ -39,16 +33,13 @@
             "title": "Lidt af det ene og lidt af det andet!",
             "description": "Ash og Goh har altid været fascineret af alle slags Pokémon, og nu gør Chloe dem selskab på deres seneste eventyr!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep02_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep02_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep02_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EsBkws_NSCQjfftOzRojzc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K5/rMMkbtfRv9xek2PK9YyW_NRyeZHI5T4tKGd0Mto8o/da-dk-24-02-8bb5807430b50a5608d666a76b0134cdf040b49d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j6/BuywrY69aS9nk3dWmpSfazcrSNC-sWUo1MFafjxnw/da-dk-24-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/NsGPN4xpIdoPmtju7qPa9q_ub4OxZa2EhjE9d3N0s/da-dk-24-02.mp4",
             "captions": "",
-            "size": 2696780602
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/NsGPN4xpIdoPmtju7qPa9q_ub4OxZa2EhjE9d3N0s/da-dk-24-02.mp4"
         },
         {
             "id": "ecb504a6c7da479aa6988e4688c71258",
@@ -57,16 +48,13 @@
             "title": "En kommende mesters prøvelser!",
             "description": "Ash vil forbedre sin placering i Verdenskroningsserien, og det opnår man kun på én måde: i kamp!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep03_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep03_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep03_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7LUEpsfaR5oppiORojHElg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QI/nOTNePthxB2v80eL-d-sYm0sDZ6x_qZCopk-t3Wyo/da-dk-24-03-21fec758bcf3e970cd11458d959cd935d8a3dca0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1s/uduXfjbl-Io24lUlyLTStr81bn-qf_w1Jx258XSfs/da-dk-24-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HD/xdqZREEbsSfXOvuNeVe8La3_eed4TsPm3qMw4XPDw/da-dk-24-03.mp4",
             "captions": "",
-            "size": 2722952589
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HD/xdqZREEbsSfXOvuNeVe8La3_eed4TsPm3qMw4XPDw/da-dk-24-03.mp4"
         },
         {
             "id": "a068d26be73b44a9940907175b00555c",
@@ -75,16 +63,13 @@
             "title": "Hvordan får vi dem væk fra gården?",
             "description": "På et besøg på en grønsagsgård udforsker vore helte Pokémon på en højst overraskende måde!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/oGjSa-c7RKklAkHF1sAVVw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1G/Q997Xr1nwAOSPMPMMsvz5Kls34c7gjd61fCpFROFQ/da-dk-24-04-c78ddd8ce9e6a417d4e4a35834bc128b731da975.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e4/yL5c3bsb3DgSlq2KEXQ_t_x0GVAoXUYtqVLohGWIo/da-dk-24-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wv/SR_cW57RnXRdYzYX5FYVlZ9BDz8fq2_jplTCL6Xwg/da-dk-24-04.mp4",
             "captions": "",
-            "size": 2706468827
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wv/SR_cW57RnXRdYzYX5FYVlZ9BDz8fq2_jplTCL6Xwg/da-dk-24-04.mp4"
         },
         {
             "id": "28593cc09e30426eb7e04b3b86c98c9e",
@@ -93,16 +78,13 @@
             "title": "Helbredelse af en healer!",
             "description": "En Legendarisk Pokémon er i knibe, og vore helte træder til for at hjælpe så godt, de kan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep05_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep05_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep05_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KFk8wJ4wQm4t-BLO4bJjJ4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2Z/7rZhhzbfhCJ3UmGVZgm735PMVVYIttPYRGYpEgVbE/da-dk-24-05-d39d7b8fb032866e3af7ec4a1db50914f69bfcab.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5j/W7F_DjUUSQOPapdEPIHR1Nx0NnSlh5yRAOBlu9zLw/da-dk-24-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-H/FbmkT5Kl9oy9cW9Wu9i_n8xw0bKfavmDyp0hdjI60/da-dk-24-05.mp4",
             "captions": "",
-            "size": 2716912915
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-H/FbmkT5Kl9oy9cW9Wu9i_n8xw0bKfavmDyp0hdjI60/da-dk-24-05.mp4"
         },
         {
             "id": "10f6c73dc7ce4997925e76f76641219b",
@@ -111,16 +93,13 @@
             "title": "Lys, kamera, reaktion!",
             "description": "Da vore helte besøger et filmset, ændres Sobbles syn på kamp en fuldstændigt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep06_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep06_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep06_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EPbHPcfOSZckl5292ZBIZs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NP/xh6HU7M6Lnp_K4907RlOp49-bN8BNBHufeKWyMFe4/da-dk-24-06-8520db9966c4a83d1d6a1a08ed4c02920d09849b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_M/W3S6_suZt7XFSqWzt232Q9rpHncKoK8-SG1MaOZvs/da-dk-24-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mt/VIrg7osAuzvJykTmQWMv1aWa9ReeOLFAY_geP-RwU/da-dk-24-06.mp4",
             "captions": "",
-            "size": 2716144643
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mt/VIrg7osAuzvJykTmQWMv1aWa9ReeOLFAY_geP-RwU/da-dk-24-06.mp4"
         },
         {
             "id": "cb4d56d26b48450e9b3aa21736be27a1",
@@ -129,16 +108,13 @@
             "title": "Fortællingen om dig og Glimwood-skoven!",
             "description": "En fascinerende bog inspirerer Chloe til at tage ud på en lige så fascinerende mission!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep07_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep07_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep07_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/y01W0mtIRQ4mzqiFza-J6E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hS/MXhDtLVyHLUsd8T9KrBZeqU3ErVRk1DBS7JmHUzTw/da-dk-24-07-45c4a4ff08f5d555bcc46d638d89337b96f42179.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/-U50CWOxjEVSZED41ylc-gUrSBZl91I1cElaeLWy8/da-dk-24-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r4/djK5pdrw9q1KQUhimh_VOlY5ITXKhYXdUFcS0y_Lc/da-dk-24-07.mp4",
             "captions": "",
-            "size": 2710705033
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r4/djK5pdrw9q1KQUhimh_VOlY5ITXKhYXdUFcS0y_Lc/da-dk-24-07.mp4"
         },
         {
             "id": "f9a6828df2c34034bbee9a6216989033",
@@ -147,16 +123,13 @@
             "title": "Jagten på ridderskabet!",
             "description": "Ash og Farfetch'd vil udvikle deres porresvingende færdigheder, og der findes et sted i Kanto, som er perfekt til formålet!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep08_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep08_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep08_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-aaCjfLDQDQu-6aYhaYkDM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mS/FHRY8MBZMrsE9TSBuDjs6uNW3oQ3T3x7SkZNTRwp0/da-dk-24-08-7a08e9fe69e52d972b6a3ab5f2f33fa78a347f1e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/no/Yx_sbiJq_GxoCzPiFS4EEVEIXCl-unpbOLZ56PLm4/da-dk-24-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O7/DhDYFmFf0BoOvQBv5LsBu_-oCEHPNVixv4l-YhRl4/da-dk-24-08.mp4",
             "captions": "",
-            "size": 2713224169
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O7/DhDYFmFf0BoOvQBv5LsBu_-oCEHPNVixv4l-YhRl4/da-dk-24-08.mp4"
         },
         {
             "id": "614648896a5649d0976d8736a6a6c66a",
@@ -165,16 +138,13 @@
             "title": "Et halstørklæde af varme minder!",
             "description": "En dag med snevejr giver mulighed for at genopleve kære minder og skabe nogen nye!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep09_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep09_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep09_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YUZIiWpWSdAl22HNqamxmo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/OoylKr8rcVsdWTUkuW8rzTBnMuSKarCunbpc9Wlrg/da-dk-24-09-da9db382e5e82b1ede17ce68b6e55bc746c8be42.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pJ/ngGBy8L5vcbc3turG-K6HppFKXxExrG-UCgETS6l0/da-dk-24-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y8/HSmKfk0WmPsR6kokGAGgUh31VDZ2cDsUtfkgWQVcw/da-dk-24-09.mp4",
             "captions": "",
-            "size": 2707626017
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y8/HSmKfk0WmPsR6kokGAGgUh31VDZ2cDsUtfkgWQVcw/da-dk-24-09.mp4"
         },
         {
             "id": "8f310c8e058947958779ee8e7070df2b",
@@ -183,16 +153,13 @@
             "title": "En forrygende rulletur... Et skjold af målbevidsthed!",
             "description": "Der er altid masser af eventyr, der venter. Både for mennesker og Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jzEMjgWJR5Uh3nujnBw3ys/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yj/3MdHRiQnfonxLTkaL1ByrhUzc_KduMig-dKObYk-Q/da-dk-24-10-9776cef02c63b6cf902b0be98cdbfc3e41650206.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z9/79YOvyyBPszEl2S9Pp5rhqdpUMK0_m8hmKM3ApLTg/da-dk-24-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Q/-R2V7T7Yejt2-XbNewRGD9A4pDED--j0tKDyzpOQU/da-dk-24-10.mp4",
             "captions": "",
-            "size": 2708170796
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Q/-R2V7T7Yejt2-XbNewRGD9A4pDED--j0tKDyzpOQU/da-dk-24-10.mp4"
         },
         {
             "id": "029a319bda99463fb1d9e69eef4434c3",
@@ -201,16 +168,13 @@
             "title": "Hjem, kære hjem, Grookey!",
             "description": "Goh finder en Grookey, som er blevet væk fra sin Træner. Men det er ikke så enkelt, som det ser ud!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Apoxm9qZRj8sdnmnu9ENMM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qm/UkmZELhyMcR9EwhilS7vD_Y7-BHaOo-9vHLEa8Hpk/da-dk-24-11-da0447a22fa502aa553556959c25c57c0fc87fe5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/is/4qSgS5ETcBIvoaX_zKL1qsc8Y8Y-o8UO9wa5yeR-Y/da-dk-24-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oT/g0whYUV68EI_qQAhV4uTkMR2BtveCvJHHnHz5TSbw/da-dk-24-11.mp4",
             "captions": "",
-            "size": 2688770291
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oT/g0whYUV68EI_qQAhV4uTkMR2BtveCvJHHnHz5TSbw/da-dk-24-11.mp4"
         },
         {
             "id": "18535681b15344a89869869afd530133",
@@ -219,16 +183,13 @@
             "title": "Større end ridderskab... Drømmen om at blive Porremester!",
             "description": "Ash arbejder hårdt for at nå sit mål, at kæmpe mod Leon. Så nu er det tid til den næste kamp i Verdenskroningsserien!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GFNWgbFTRKgmGmGmv1TATM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/o2zxxCC3W8H687PJls5PYvnsU1CmLQvuInLYt6uXI/da-dk-24-12-b1c3c0c218989baa2b677b9970cfe6346d028176.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/AmoU887ZB0_GP_4R1g0iQO90gyOfBYmWArT5YGfdM/da-dk-24-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vg/b1-lQFsJn7RbW44T0IRimxrAFkz77iHII5UdeISFQ/da-dk-24-12.mp4",
             "captions": "",
-            "size": 2718876402
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vg/b1-lQFsJn7RbW44T0IRimxrAFkz77iHII5UdeISFQ/da-dk-24-12.mp4"
         },
         {
             "id": "315c90b91c8f494383160121402c2160",
@@ -237,16 +198,13 @@
             "title": "Service med et smil!",
             "description": "Da Ash og Goh støder på nogle håndværkere, som har brug for assistance, træder de straks til med en hjælpende hånd!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep13_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep13_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MVyQuRyPSUMgxYBIUAsIWA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RE/qjX_Ogdoz3eVuXl1deooCaMp9RQwMrkewUU6x68aA/da-dk-24-13-e6080b563d32ccd3bd51f84cb62404d94106675c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0H/qsNnL-bZKUWzr5JjKhX9l-sSlcUKRaiqC15F3TrVs/da-dk-24-13.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vf/2FvMWMzcbAsKjbFS53AZQ9Mv6oaBMa2A-NjBuwHpw/da-dk-24-13.mp4",
             "captions": "",
-            "size": 2705772665
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vf/2FvMWMzcbAsKjbFS53AZQ9Mv6oaBMa2A-NjBuwHpw/da-dk-24-13.mp4"
         },
         {
             "id": "4486358f0fa7471b814f5ce5ec84a84d",
@@ -255,16 +213,13 @@
             "title": "På behagelig afstand!",
             "description": "En uventet Udvikling bringer ubehagelige minder frem hos Goh!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep14_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep14_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RIY1jw-nRxsgU9c5eyEqE0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lT/YuF3aP9h4Oy1jvPwpvpL9gz5pS0AvaI4x4XxFRjkg/da-dk-24-14-0861f3aab73bb32bb911da0fb4cbba5f68968157.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hC/Ca36TNMxy5tYZKevLHyLhRKQcR8kQY5e_M592ca_0/da-dk-24-14.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NR/KMzbCL61zYtXW176Mu5sw5o3GPPILBsopNEj--xMI/da-dk-24-14.mp4",
             "captions": "",
-            "size": 2710500796
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NR/KMzbCL61zYtXW176Mu5sw5o3GPPILBsopNEj--xMI/da-dk-24-14.mp4"
         },
         {
             "id": "c2ea3e34f4a44800925f8a15dc2ca938",
@@ -273,16 +228,13 @@
             "title": "Til lands, til vands og ind i fremtiden!",
             "description": "Et møde med en Vaporeon-træner får Chloe til at tænke på Eevees fremtid!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wuo-NPSkSAAkl-KFdwsqTg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/Dv0eqN3kSkHS9njTzMZczh5f8Sq9izQMdGJGi-YTI/da-dk-24-15-c710635598004dfb52593478b3d64fcda3e807ff.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LD/hOYa2yV-pp_z3BRlYzhky-V9o5zSQa5M8assiuu7w/da-dk-24-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T_/tt0FpBg_0mDsen2o0c2zJZH8dq3cfUnRTvQsYMcQw/da-dk-24-15.mp4",
             "captions": "",
-            "size": 2721217075
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T_/tt0FpBg_0mDsen2o0c2zJZH8dq3cfUnRTvQsYMcQw/da-dk-24-15.mp4"
         },
         {
             "id": "22d8723eca424e72a9a2a52e10fcf042",
@@ -291,16 +243,13 @@
             "title": "Absolut frikendelse til Absol!",
             "description": "Efter et opkald fra en ven må vore helte atter af sted for at redde dagen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/IthyPspCTnIqaKlLhD88EI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2u/1SJR6wjej6w41gxaYiVPalkdLRA3dVYqqhx5T0lxw/da-dk-24-16-925576edcf193747e9f29b29959d50a1f7f4fc7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zw/gJkaFMh-bNMEXN4J4kOth6JpKeN3KuHppRERnWYm8/da-dk-24-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LV/S-FLolkxHG52XtfXDpnEsnn0SyMmmlPhrQ4DEzZYA/da-dk-24-16.mp4",
             "captions": "",
-            "size": 2704983317
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LV/S-FLolkxHG52XtfXDpnEsnn0SyMmmlPhrQ4DEzZYA/da-dk-24-16.mp4"
         },
         {
             "id": "0c40107986bc4e92bbfbc599a0c49377",
@@ -309,16 +258,13 @@
             "title": "Titanernes Pokémon-kamp!",
             "description": "En indbydelse fra en gammel ven gør Ash så begejstret, at han nu ser frem til Pokémon Verdenskroningsserien med fornyet styrke!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DEAQeYa8TpIu_vFmaDEk3c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XO/FSrIx9IDEdJ4TwRGA-gL7K0duP93dOdHD9lSKiacY/da-dk-24-17-f768892d8d1147c2c964cf5663753b83b9683e8a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wC/7YnyUKVuVDTZ6IxWwdAppDpKoeTWy18NEqM6BUZso/da-dk-24-17.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zd/5Q8mpvs3AhsP1oo8OkmXMQSRIepLxWoHr-hwOIJrk/da-dk-24-17.mp4",
             "captions": "",
-            "size": 2717800079
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zd/5Q8mpvs3AhsP1oo8OkmXMQSRIepLxWoHr-hwOIJrk/da-dk-24-17.mp4"
         },
         {
             "id": "5ae0e7a29c444416b923f74e48f6e8ba",
@@ -327,16 +273,13 @@
             "title": "Jagten på den hvide blomst!",
             "description": "Vore helte er på en mission for at hjælpe en lillebitte Pokémon i nød!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WuDnopxERBYuSP3Tkj26Lo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_V/od1cFk3umj1VxzsvAhcaTFh5qWVsx54vyz4drT0YI/da-dk-24-18-b449038f82fd88e105eb71d93238628ee8357c30.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Si/2E3sHul_h4XYv3iE9IqBoeynQcaAA1SEIJPq_3oLg/da-dk-24-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fm/hU7R4QToKV1D-irXAKv-nRStIsn9tjjmlCT44rZV8/da-dk-24-18.mp4",
             "captions": "",
-            "size": 2711734356
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fm/hU7R4QToKV1D-irXAKv-nRStIsn9tjjmlCT44rZV8/da-dk-24-18.mp4"
         },
         {
             "id": "17417c296897405b8db02ccc2df33251",
@@ -345,16 +288,13 @@
             "title": "En sand detektiv!",
             "description": "En bølge af forbrydelser skyller ind over Vermilion City, men vore helte er på pletten for at opklare sagen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep19_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep19_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/F0F8KWiXQFsjbAszC3zMlE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/mTO6_0Rd01DmUUxqjJb8dZTIU-TQJsropJMQjMb0Y/da-dk-24-19-9fc43fddaed0a00641e890a7c59f129e9ea01e26.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7w/FQ-y_R49IDZIH-_HVno0JinPqkx4FXVxRgOOZkW1A/da-dk-24-19.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/be/zqpTCbcap0w3JolfKHB7WJJQNdhKQgjjYKI1wG38w/da-dk-24-19.mp4",
             "captions": "",
-            "size": 2688020405
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/be/zqpTCbcap0w3JolfKHB7WJJQNdhKQgjjYKI1wG38w/da-dk-24-19.mp4"
         },
         {
             "id": "8ae879bb4f4b4219a6ae9cacda9963ec",
@@ -363,16 +303,13 @@
             "title": "Et råd med Goh i!",
             "description": "Goh skal træffe en stor beslutning, og Ashs første rival træder hjælpende til!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep20_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep20_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iuh5u09LQhkpq6crNqZY-w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kW/sq41KNEtFtDJ8sVrFz-oL7XGCRvftui3pEm4FnWzg/da-dk-24-20-4504a07bb74e66dd6a7e86af707d806b0aaf8890.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NI/HUrUTBUwKvgUBDr9DaT9k-vqCq-FoY1K5LtbhB-_o/da-dk-24-20.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hU/GOZbEx3FakNBOAgoJk-7s-h1gjtXjsCTZT7vM9El0/da-dk-24-20.mp4",
             "captions": "",
-            "size": 2717482860
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hU/GOZbEx3FakNBOAgoJk-7s-h1gjtXjsCTZT7vM9El0/da-dk-24-20.mp4"
         },
         {
             "id": "c21cd933727641cabf63d7bd0e8cb6f7",
@@ -381,16 +318,13 @@
             "title": "Tjenstvillige ærinder!",
             "description": "Da Grookey og Eevee skal på deres første ærinde, bliver det en stor erfaring for alle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/whzZM3J2Qcov2PXvQ6Mtvc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3W/slPoRg-PVGB0zIgWy2RD8bGVcDmlzMImsm78ptLBI/da-dk-24-21-2862d755836b1db7ee44d422cd78d65ff451715b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W6/YSp_gTx5tvTDqQIi9Imxj8GTK-0_6bXem6OOz_iUo/da-dk-24-21.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sj/X5uIIKyG0DZQ-q9-2EChFad9R23danJ3YiCuRISTM/da-dk-24-21.mp4",
             "captions": "",
-            "size": 2720689370
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sj/X5uIIKyG0DZQ-q9-2EChFad9R23danJ3YiCuRISTM/da-dk-24-21.mp4"
         },
         {
             "id": "0671ea36f92e46e09f81aa872987104d",
@@ -399,16 +333,13 @@
             "title": "Bare tag min tyv, tak!",
             "description": "Team Rocket må træffe et vigtigt valg, og deres madforsyninger afhænger af det!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep22_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep22_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BnHqNvkuRuAn4GqhymHEE0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Z/qvzQYJBseWqRHWqIhsD4IEginFStco4vmYtiQBZ7s/da-dk-24-22-f947eda99cd48dbf0b7cc4f657315ddde57674c6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ss/79DtrHRnCz6fXVJGJodtR_487O51yAbsJD5A8FdKw/da-dk-24-22.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i2/QNcFOBUMyBADu0WuxWw3qsKgC49EQNLdV5sTRjaF4/da-dk-24-22.mp4",
             "captions": "",
-            "size": 2706066120
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i2/QNcFOBUMyBADu0WuxWw3qsKgC49EQNLdV5sTRjaF4/da-dk-24-22.mp4"
         },
         {
             "id": "bb872157624244f493f5abce702aea91",
@@ -417,16 +348,13 @@
             "title": "Et spring nærmere drømmen!",
             "description": "Gohs første prøve til Projekt Mew venter - sammen med nogle meget udfordrende situationer!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/u4chV2JCRPQk_WrznAq6pE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j5/_3R3IB07kzQR2ESjcYZ5rzeNxeFap-Gz9ZyPZGZZQ/da-dk-24-23-b0d68dbac94bbab9ded3e2dd44f4a4abd9bc2f11.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fH/9PtpqTqO7aXgT6u_NZDXwIVHP9nmcI9qbNZ6wQcAE/da-dk-24-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ep/DKuKhjvhg69pQMDeWYCArUiRmgdM4Pdf3uUje0mcU/da-dk-24-23.mp4",
             "captions": "",
-            "size": 2675869871
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ep/DKuKhjvhg69pQMDeWYCArUiRmgdM4Pdf3uUje0mcU/da-dk-24-23.mp4"
         },
         {
             "id": "daba951c130c43db825d14c43faf2bb8",
@@ -435,16 +363,13 @@
             "title": "Så er der underjordisk ombytning!",
             "description": "Uventede alliancer dannes, da vore helte og Team Rocket rodes sammen på kryds og tværes under jorden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep24_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep24_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2rqVHBMMQ9sgl0UxD-vK7g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X9/bITiwWHrCDFmxwXUX4_Ecm3h1KbqdzNo45owbyV7M/da-dk-24-24-96d07dde70baecddf98f3860d3bca99bef3739ea.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bo/kH9WbB54Eu7MkwacDoDVan6vgWpmaqpMlqQQ5xs_c/da-dk-24-24.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/T10PKPuH7b1l1cZlsjKlPtQIw4cJCtvvRvfaAft7c/da-dk-24-24.mp4",
             "captions": "",
-            "size": 2704029708
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/T10PKPuH7b1l1cZlsjKlPtQIw4cJCtvvRvfaAft7c/da-dk-24-24.mp4"
         },
         {
             "id": "b225e66580bb41b38f32d2ea1366c24a",
@@ -453,16 +378,13 @@
             "title": "Hvo intet vover, intet vinder!",
             "description": "På en rejse til Galar-regionen får Ash og Goh masser af fantastisk viden om Pokémon-samarbejde!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep25_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep25_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/siXmZYC7QbMjzLS6hNmwko/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1d/R2EzGdVKI6POiX_l_r9IIT9y0xS6HrCEKg49o_rAY/da-dk-24-25-373e8b24b863af48e9909ec1435173d0424e7c35.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jA/znDi37VPzv2WcNPpkclgftleIf7CBhVIpsxfoqcAU/da-dk-24-25.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l4/ldcYCYKHdBNWr3CR8cVvVFKYvkgwAo8QIT-mftB2Y/da-dk-24-25.mp4",
             "captions": "",
-            "size": 2711449107
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l4/ldcYCYKHdBNWr3CR8cVvVFKYvkgwAo8QIT-mftB2Y/da-dk-24-25.mp4"
         },
         {
             "id": "4b74ead91a02498abcced27b9c454f11",
@@ -471,16 +393,13 @@
             "title": "Nattens frembrud? Mareridt!",
             "description": "Der foregår en række mystiske begivenheder i Sinnoh, så vore helte må af sted!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep26_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep26_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S3Tq2RoCSYovM7Se5xFTxE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wa/JQfwpikECSNaSM-JVyg3VZWFo-PZMVjWLiBo6VDPk/da-dk-24-26-e67ffd723fb8ca56f7562484224e362b0354a202.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hD/ObjeJKTZFE_p2tsKG9xAjg0DBda57PcCT4OBU5B5A/da-dk-24-26.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xr/vqIZH5nYu66ey2oOrJvs8Q_vsmfNNLew3E9hgR3WM/da-dk-24-26.mp4",
             "captions": "",
-            "size": 2705559647
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xr/vqIZH5nYu66ey2oOrJvs8Q_vsmfNNLew3E9hgR3WM/da-dk-24-26.mp4"
         },
         {
             "id": "4344fee5ccb74a11aab4254fbc53e9ea",
@@ -489,16 +408,13 @@
             "title": "Et skærsommernatslys!",
             "description": "En legendarisk konflikt ligger bag, da vore helte undersøger årsagen til mareridt i Sinnoh-regionen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep27_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep27_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Q0T-5cy3ShEqrQlT7xT6eo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5d/p7JVkz5n2cg9axP3ePvNnMcGd-F6wmiQgllKjY3Uo/da-dk-24-27-e2d0982151f4a187b92eade2e52c7506911e7ecb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/st/ZmCGXs4YSkP-MqpPT_b5CjdxBOf8MyID9abgEFhJc/da-dk-24-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/mRM4mdxD5Wk8Xx-B-wrf5G9mgO9PtjMB7nOOWZCRY/da-dk-24-27.mp4",
             "captions": "",
-            "size": 2701485483
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/mRM4mdxD5Wk8Xx-B-wrf5G9mgO9PtjMB7nOOWZCRY/da-dk-24-27.mp4"
         },
         {
             "id": "24cf2d040ce042048388a40f80350c51",
@@ -507,16 +423,13 @@
             "title": "Fuld fart fra start til slut!",
             "description": "Da Ash og Goh deltager i et væddeløb i Alola, sørge andre deltagere for en udfordring i fuld fart!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep28_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep28_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JM8tBAzgQgQg4ikD4A1DFE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Du/CmDmrFp5kI99fxf_s50u97TiRzf7occD4PNN_CJbY/da-dk-24-28-dd1ef73f6dfb6779686237ae1237f257516c9879.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i_/euPgFtNpOCNHBK_5JMkOuZ-zBnMQfKgssKgi4lBrQ/da-dk-24-28.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZK/3G7l84PfIqKRBIy-yfCO9IP6EzHtYnnc__zaXz3mc/da-dk-24-28.mp4",
             "captions": "",
-            "size": 2710601427
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZK/3G7l84PfIqKRBIy-yfCO9IP6EzHtYnnc__zaXz3mc/da-dk-24-28.mp4"
         },
         {
             "id": "acacde95475149928035ba11816b9c3f",
@@ -525,16 +438,13 @@
             "title": "Ultraspændede fra den chokerende start!",
             "description": "Tiden er kommet til Ashs første kamp i Ultraklassen, og modstanderen er i den grad respektindgydende!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep29_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep29_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rKzelUdRSZIgDW6EYFrnD8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y1/w6odYgQ3G4bNq06CRQJmhW70TFt3rgmOBg-cNHhRY/da-dk-24-29-e61bd714262de726598050abbaadc733ac5af8c2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sz/ds2lJJ_irXLrR8wtBYLDqhZ2B8vrbgmAsofs8k3cE/da-dk-24-29.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RO/-oloPssq42BlqHLbyswBVH5H5Qx0XZnvZhQF7QZZQ/da-dk-24-29.mp4",
             "captions": "",
-            "size": 2700757625
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RO/-oloPssq42BlqHLbyswBVH5H5Qx0XZnvZhQF7QZZQ/da-dk-24-29.mp4"
         },
         {
             "id": "45c45923f5294068be312616a671b182",
@@ -543,16 +453,13 @@
             "title": "Detektiv Drizzile!",
             "description": "Cerise-laboratoriets videnskabelige data er blevet slettet, og alle er opsatte på at finde ud af hvorfor!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep30_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep30_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RcRZI_UpQGgvjEmFqZxsYI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gM/asx12irVOZPTk60ryZ4Yez6y8GLWGdTLqNBKl7WrY/da-dk-24-30-a8915e24b480f1e5307f2065cbf3e92707b90e98.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E3/-0CRbGNed_SyWEMit91aNXw_3cKle_-G7Kgv8hnyI/da-dk-24-30.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lw/YWlS9bwAmzDuEznVJomED5EZelVEvcLQRXDJS4bCU/da-dk-24-30.mp4",
             "captions": "",
-            "size": 2711131987
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lw/YWlS9bwAmzDuEznVJomED5EZelVEvcLQRXDJS4bCU/da-dk-24-30.mp4"
         },
         {
             "id": "b0ed568faf234e579efb03036d5a1cb0",
@@ -561,16 +468,13 @@
             "title": "Nat og dag, I er de bedste!",
             "description": "Et møde med nogle usædvanlige mennesker og Pokémon giver Chloe og Eevee en vigtig lære for livet!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep31_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep31_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sO1Wj68jTlcnvsDA21aHLA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-P/j9OoDQdf4L6SP3Eo5iWm6OIoHZ4s5xwP6rPauRhY8/da-dk-24-31-4cc2855b4a40b914ad59576b319b8913335abbe3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zb/bKIlbNWeaj32-YIkx3DG2BwwQt516vUNjwVFol218/da-dk-24-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kF/SvipzIXl0gLzZZ4LVXpVb1k37q6d1f7nKeDABVUWo/da-dk-24-31.mp4",
             "captions": "",
-            "size": 2687332992
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kF/SvipzIXl0gLzZZ4LVXpVb1k37q6d1f7nKeDABVUWo/da-dk-24-31.mp4"
         },
         {
             "id": "0627b3a97ccf42e8af1ac10c2ac9c1d0",
@@ -579,16 +483,13 @@
             "title": "Jagten på de gyldne skæl!",
             "description": "Gohs første prøvemission for Projekt Mew tager sin begyndelse og byder på mange overraskelser!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep32_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep32_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BiezqXzPQugrxrBDCrJwdA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o7/LQKVbuvUvsFej18IrFB5xOf1okaa9-R-boiPoJbjM/da-dk-24-32-3d6b0dd1b91b66ed67413bebe7409ec2e8d82fb6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R4/RlZfeoLc2n_Jcy3SQGNyTSdzsHeHxCSDnesEaXPgU/da-dk-24-32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ie/3Cj1tCM9xP9ACCaIA0oDVYz_xWaxbQC6aTfjrvr4Q/da-dk-24-32.mp4",
             "captions": "",
-            "size": 2684117806
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ie/3Cj1tCM9xP9ACCaIA0oDVYz_xWaxbQC6aTfjrvr4Q/da-dk-24-32.mp4"
         },
         {
             "id": "f888f6deb1154f838939f04d1d7b541f",
@@ -597,16 +498,13 @@
             "title": "Vild med blå!",
             "description": "Goh fanger en sjælden Pokémon, og bagefter møder vore helte nogle spændende mennesker med en fascinerende, blå interesse!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-Ij23rEVT4MiTnwTR17VB8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xm/4WK3M5NU2GBYILyFfO_rlO--lKbUUPuRmimSEOIDE/da-dk-24-33-e433abbb50b79b8e27816831f7752654c43c90bb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y-/SM2AOsc-IzvSojmHKH-M9dnIXyUPexTWZJgXp9rMQ/da-dk-24-33.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FD/jgDNqM2K9KLl8ZipAqAM6NHrptZZx1x-E7LMT7F1E/da-dk-24-33.mp4",
             "captions": "",
-            "size": 2699983336
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FD/jgDNqM2K9KLl8ZipAqAM6NHrptZZx1x-E7LMT7F1E/da-dk-24-33.mp4"
         },
         {
             "id": "c894be1116cb471cb23b361e8ab5c8aa",
@@ -615,16 +513,13 @@
             "title": "I kampens sødme!",
             "description": "Vore helte accepterer en udfordring, som giver ordet 'sødme' en helt ny betydning!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep34_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep34_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yJS-ERbLRxwsjs2Hoq1yKo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/57/X6GxmWrhrhVgiyY8w8jhf3Few6jPGbnh9UOqkGS0A/da-dk-24-34-f61edc310038f9c2230a977c116fdb24375a0ce5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/89/H32TEL-ltji4BrH5l4Ovs_olh_kUdYMw-PJrBjKGM/da-dk-24-34.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zQ/f_KOwaPZ4IplYlCpZtfjJ_ZrP_TFgXJXLhrfmW4NU/da-dk-24-34.mp4",
             "captions": "",
-            "size": 2697036829
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zQ/f_KOwaPZ4IplYlCpZtfjJ_ZrP_TFgXJXLhrfmW4NU/da-dk-24-34.mp4"
         },
         {
             "id": "edfda3b2dcd74c4b93a16aded7e58fe6",
@@ -633,16 +528,13 @@
             "title": "Stjernenat, stjerneflugt!",
             "description": "Ash og Goh besøger en by, som befinder sig i en vanskelig situation. Det drejer sig om nat og dag!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7f2jstzXTEsk6Fq3tflj-Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BP/Sx8MU4FRKuRn_GMKZMQTRbPb0jrJ01aqncjCTib_E/da-dk-24-35-c27925ac7a36504edb788ca389154ffa20633dc8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f0/-Cc5QHQZfce-8DdpZ4jp3fnROOAr96ca1t97ruthw/da-dk-24-35.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Id/LjqBmzRBVlxVczgOOx75Mybskhi-4IUSjvAcTey1Q/da-dk-24-35.mp4",
             "captions": "",
-            "size": 2706430335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Id/LjqBmzRBVlxVczgOOx75Mybskhi-4IUSjvAcTey1Q/da-dk-24-35.mp4"
         },
         {
             "id": "0a327b0971294c74a517d04b67d9d3a5",
@@ -651,16 +543,13 @@
             "title": "Et megastort eventyr!",
             "description": "Korrina og Gurkinn fører vore helte til Megaøen, hvor Ash og Lucario stilles over for en uventet prøve!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep36_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep36_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CjJ7CXEpTHQpRfQS2fZ06U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e-/yyyYA14SLKrO02R_-mWs-e9p4L8nvomfVWqrKQl0s/da-dk-24-36-d8b524a8e38cc96fed0000e066ac71cadb77da4c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ep/LhWgk8Ut3nwFo7cVHIuGFmRWoTryIM7EmkwTKqSbg/da-dk-24-36.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mC/z_9O2YlVM0Aloa3h09usQJe0_Jxik2lZuJUkoCspU/da-dk-24-36.mp4",
             "captions": "",
-            "size": 2723468975
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mC/z_9O2YlVM0Aloa3h09usQJe0_Jxik2lZuJUkoCspU/da-dk-24-36.mp4"
         },
         {
             "id": "a7822dddceb148f98b76cd1b5731e7e6",
@@ -669,16 +558,13 @@
             "title": "Kamp nummer tre med Bea!",
             "description": "Ash og Bea er stræber begge for at rykke op i Verdenskroningsserien, og nu mødes de i Ultraklassen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/p4It3c6xSPki3bNG1cx5-Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o2/KvlTvI7Fqvi1vMXpwPure6e6-K6i0Y3nGqS838y3Q/da-dk-24-37-76c78caa1b5ad63c403105117e08e468206e4043.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bt/crlz07reuLxYYLLgJ7N-dYJoLE8WUXlxkdz40x05A/da-dk-24-37.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ou/Mb7UEBy0_kSOn_rZHOn_dM0F6AGF5SuaooipSjEJk/da-dk-24-37.mp4",
             "captions": "",
-            "size": 2695364380
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ou/Mb7UEBy0_kSOn_rZHOn_dM0F6AGF5SuaooipSjEJk/da-dk-24-37.mp4"
         },
         {
             "id": "fac03751ba7f4a6bb37c6451a729fac9",
@@ -687,16 +573,13 @@
             "title": "En kamp mellem Mega og Max!",
             "description": "Ashd kamp mod Bea udvikler sig til en rasende dyst, hvor det er umuligt at forudsige udfaldet!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-sA3Ubp_Smss3xkUacp-sk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/Q2TaG1TD86qCj0dP4DuDYB_1SxfHXxPo9Oj5wIwDs/da-dk-24-38-fa91f8deb96ad7d205159ea3b9121bbac1ead757.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UQ/9NoK3atiFy--iyd6hq7GIFPSzxBkIPEnb7cuKJD14/da-dk-24-38.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dw/1gLl04nWUITCrjN9KuXkcIqavZrXkaMUBly3PCWC4/da-dk-24-38.mp4",
             "captions": "",
-            "size": 2691179828
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dw/1gLl04nWUITCrjN9KuXkcIqavZrXkaMUBly3PCWC4/da-dk-24-38.mp4"
         },
         {
             "id": "4db695660ec1462ba246b3e893c23c5f",
@@ -705,16 +588,13 @@
             "title": "Isen brydes!",
             "description": "En ny klassekammerat på Chloe og Gohs skole har en Glaceon med isnende tilbøjeligheder!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep39_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep39_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TbaVZg7BRisokaz6JPCPF8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/70/4kZxdxijX9Szwt8nNw0qVP-jXJvtp_Gt5j5HFZo1k/da-dk-24-39-fe545f37ad34c51465bcb8f4e47f81ad78aef9fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lf/ZeASy18yrsQWLUeiEUW0wdIflXROqpxqfb1NE1yqc/da-dk-24-39.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V8/eJ9iyE4OG2dAmcaIuTtiMYFkS-v4POw7tCyjEHBRA/da-dk-24-39.mp4",
             "captions": "",
-            "size": 2688519903
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V8/eJ9iyE4OG2dAmcaIuTtiMYFkS-v4POw7tCyjEHBRA/da-dk-24-39.mp4"
         },
         {
             "id": "b8027fe343a94fa18a25d91aea35561e",
@@ -723,16 +603,13 @@
             "title": "En skat på havets bund!",
             "description": "I sin fortsatte stræben efter at blive optaget i Projekt Mew skal Goh nu gennem sin anden prøveopgave!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep40_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep40_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uAJ_40OpT6EiiXZGuo1Vh4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/CpmxBeUF0FusXWxlm-rgnLdGopwS5atRZpY3b4syo/da-dk-24-40-1f4a00672937485c2789ac153585dabe1a61e77c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4F/VF6vFA4kWPKIBD4TyONowhx5oZ2087uIddy1DQ8fg/da-dk-24-40.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uD/7D_HE-XZ0bZtsF4n-xP-i8052I7tS8Pqm1l3bLeBw/da-dk-24-40.mp4",
             "captions": "",
-            "size": 2686391871
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uD/7D_HE-XZ0bZtsF4n-xP-i8052I7tS8Pqm1l3bLeBw/da-dk-24-40.mp4"
         },
         {
             "id": "e30c8f39ea4a42a0b2a205614859fece",
@@ -741,16 +618,13 @@
             "title": "En portal til en anden verden!",
             "description": "Et mystisk fænomen trækker vore helte ind på ukendt territorium!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep41_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep41_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4wyPOepKQqAsqIFYUhZ_s4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6I/3-VLR3eB7xozpVQUiEOEuWB2HKuyriZ30XxzNF6KU/da-dk-24-41-e85fd1f145dfe8944c5d98b6493e4e4eee5a1bac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nR/ld_Ml4sFVJvba0OnKrVo5fcP0K4ZXoUTsQlXERuoM/da-dk-24-41.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SS/oPE0EmQlYkiI1fBd5L8BombDWXwJduzyDDZfBnB3o/da-dk-24-41.mp4",
             "captions": "",
-            "size": 2668884534
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SS/oPE0EmQlYkiI1fBd5L8BombDWXwJduzyDDZfBnB3o/da-dk-24-41.mp4"
         },
         {
             "id": "cd6516b5c45e4e8fb269414e1bfd7fe6",
@@ -759,16 +633,13 @@
             "title": "Et sammenstød mellem verdener!",
             "description": "Konfronteret med en uventet virkelighed må vore helte slå sig sammen med uventede allierede!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zWUWtcReTo8smlBThv9f-Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K4/gEspREvTyv_TqUSawAt0pL-7Z_C5xDJWBIQHMxFTI/da-dk-24-42-4235c2e45e95c0190e0e6ca80054b3341f045025.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ie/o6dEX8tIM6lNVcxfDLOIhYzqj2qMsbhCiVyQyQoSc/da-dk-24-42.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0V/CIhlcwwzcK2TkwzZOsUrlpFU6eXACEj6FpRCoaH-U/da-dk-24-42.mp4",
             "captions": "",
-            "size": 2719301693
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0V/CIhlcwwzcK2TkwzZOsUrlpFU6eXACEj6FpRCoaH-U/da-dk-24-42.mp4"
         }
     ]
 }

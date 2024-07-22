@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-dp-sinnoh-league-victors",
+    "channel_id": "season13",
     "channel_name": "Pokémon: DP Sinnoh League Victors",
     "channel_description": "Ash and friends’ adventure through the Sinnoh region reaches its end in Pokémon: DP Sinnoh League Victors, now on Pokémon TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season13/season13-1125x1500-en.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season13/season13-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season13/season13-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season13/season13-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 181,
-    "channel_creation_date": 1587738797,
-    "channel_update_date": 1673014086,
+    "order": -13000,
     "media": [
         {
             "id": "fef744c72f244dd5a126cebc26712216",
@@ -21,16 +18,13 @@
             "title": "Regaining the Home Advantage!",
             "description": "Daybreak Town and Dawn’s next Pokémon Contest are within reach, but first our heroes must confront a mysteriously angry Magnezone and Metagross, who threaten an entire town!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_vdExy8kTdUoSbOvCZxIhY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D2/KU2Nxoh84GYM6j481xLuMNsO8t7bYz61nKD0H9j8M/pok_tv_s1301_2997-master-en-916e87c5d57e4417d10528caad9ad2004a7eede2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xt/gKw_GheH2FwUD9oWM2qOMM1seN16IJgSJlshJ9ZXE/pok_tv_s1301_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MJ/OQMGuo9vWbmGoOrlT7K0rjd__D-QlwKXQq4Yj0kQk/pok_tv_s1301_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D2/KU2Nxoh84GYM6j481xLuMNsO8t7bYz61nKD0H9j8M/vtt/1/en.vtt",
-            "size": 2652596308
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MJ/OQMGuo9vWbmGoOrlT7K0rjd__D-QlwKXQq4Yj0kQk/pok_tv_s1301_2997-master-en.mp4"
         },
         {
             "id": "9cf5d1239dbd43829371f5bf7a6eb7ed",
@@ -39,16 +33,13 @@
             "title": "Short and to the Punch!",
             "description": "On the trek toward Daybreak Town and Dawn’s next Pokémon Contest, our heroes meet a Pokémon martial artist who has a valuable lesson for Ash!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nPXRI529Q4Ik3H1v3put-0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c9/CMy3e0rCOlqbL_SDdViP0EFZ1cGievawgimpuMw5A/pok_tv_s1302_2997-master-en-2d99414a7c919f2a50a686270c115d3ff7da0ed2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c9/CMy3e0rCOlqbL_SDdViP0EFZ1cGievawgimpuMw5A/pok_tv_s1302_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oF/PgSFucAunrDwXQuGfiHDUs_80mi1KIHlp0eslFzFQ/pok_tv_s1302_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c9/CMy3e0rCOlqbL_SDdViP0EFZ1cGievawgimpuMw5A/vtt/1/en.vtt",
-            "size": 2661148038
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oF/PgSFucAunrDwXQuGfiHDUs_80mi1KIHlp0eslFzFQ/pok_tv_s1302_2997-master-en.mp4"
         },
         {
             "id": "e5189823ad2441a8b6fd29facb9e3d10",
@@ -57,16 +48,13 @@
             "title": "A Marathon Rivalry!",
             "description": "Our heroes discover a Trainer with a style much different from Ash’s, as demonstrated in a unique competition that compares the difference!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5RiYI60kQagtv0p-suePRA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Z/ZQcoj3nRFMjEP8SYRSkpXwvlAZcx6zLTS_3JEdxT4/pok_tv_s1303_2997-master-en-92608725747aa65ef39995d0d819086b0968b1cd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Z/ZQcoj3nRFMjEP8SYRSkpXwvlAZcx6zLTS_3JEdxT4/pok_tv_s1303_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bW/q5o4gEZh9CIMCj_ToylVZNig86TKuFDBNrxLBS1dE/pok_tv_s1303_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Z/ZQcoj3nRFMjEP8SYRSkpXwvlAZcx6zLTS_3JEdxT4/vtt/1/en.vtt",
-            "size": 2623839513
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bW/q5o4gEZh9CIMCj_ToylVZNig86TKuFDBNrxLBS1dE/pok_tv_s1303_2997-master-en.mp4"
         },
         {
             "id": "e62d4b3fbf114407919faee321f63c91",
@@ -75,16 +63,13 @@
             "title": "Yes, in Dee Dee, It's Dawn!",
             "description": "Having arrived in Daybreak Town for her next Pokémon Contest, Dawn bumps into a past rival waiting to challenge her...and the rest of our heroes find out something about Dawn's past, as well!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5i1LP78RRAckZ-u4yH2PJE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7r/nopu6K0Zzvxh9j6ZNEu9_MN230SeJxvSGeRtGF8tg/pok_tv_s1304_2997-master-en-fe6287901b31007566e2fe0a3ce91707c0b4129f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7r/nopu6K0Zzvxh9j6ZNEu9_MN230SeJxvSGeRtGF8tg/pok_tv_s1304_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mj/7CN9dSkR9zaZUjk3XwkY_VN2Gih7D42ptMspPYkaw/pok_tv_s1304_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7r/nopu6K0Zzvxh9j6ZNEu9_MN230SeJxvSGeRtGF8tg/vtt/1/en.vtt",
-            "size": 2638755950
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mj/7CN9dSkR9zaZUjk3XwkY_VN2Gih7D42ptMspPYkaw/pok_tv_s1304_2997-master-en.mp4"
         },
         {
             "id": "a8e3c0f2b739402bbdae5b24bcb636ca",
@@ -93,16 +78,13 @@
             "title": "Playing the Performance Encore!",
             "description": "As the Daybreak Town Pokémon Contest continues, the makings of a fierce rivalry are taking shape!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qOPA8rc5QCsva5bJLy2Nso/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eV/Gt6GijJIfFP1TkbAGCPxit9nSNltZKTcSCS31EaLY/pok_tv_s1305_2997-master-en-db99d4412e19195d26425b0311d018d85fd06185.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eV/Gt6GijJIfFP1TkbAGCPxit9nSNltZKTcSCS31EaLY/pok_tv_s1305_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oA/M75ZiDqmCssreX2nSL7oXCbQhjquZPIaLMJKqfGbI/pok_tv_s1305_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eV/Gt6GijJIfFP1TkbAGCPxit9nSNltZKTcSCS31EaLY/vtt/1/en.vtt",
-            "size": 2678541622
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oA/M75ZiDqmCssreX2nSL7oXCbQhjquZPIaLMJKqfGbI/pok_tv_s1305_2997-master-en.mp4"
         },
         {
             "id": "4be0f1921e8a432f837452c292337ebb",
@@ -111,16 +93,13 @@
             "title": "Fighting Ire With Fire!",
             "description": "Team Rocket devises a new strategy to catch Pikachu, Piplup, and Empoleon. As a result, Ash’s Monferno responds to the dire situation in a fiery and unexpected way!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S-Dxkh6KQy8g3RSwpIzfrs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/si/jB1oIjv2B4ENIMBMuTh3gro8qcrzDoWexopii_L-g/pok_tv_s1306_2997-master-en-1ec4bafc25c7a75a617c97de143c65af6b8c615d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/si/jB1oIjv2B4ENIMBMuTh3gro8qcrzDoWexopii_L-g/pok_tv_s1306_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/bC5FzalNi4_6sAG1tJAsI4LoXyOYkeBjEd6cU9t48/pok_tv_s1306_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/si/jB1oIjv2B4ENIMBMuTh3gro8qcrzDoWexopii_L-g/vtt/1/en.vtt",
-            "size": 2621680236
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/bC5FzalNi4_6sAG1tJAsI4LoXyOYkeBjEd6cU9t48/pok_tv_s1306_2997-master-en.mp4"
         },
         {
             "id": "e78e8dee68304d5ebaccfda5abb90a9b",
@@ -129,16 +108,13 @@
             "title": "Piplup, Up and Away!",
             "description": "Piplup keeps getting hit with Gible’s Draco Meteor, and it decides enough is enough!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/546N7mgwTV4usz9pau5Cps/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IG/GNB5GJ0rMeCevcgQsqDb_SjfqIfY7uVwbyMuM6-YM/pok_tv_s1307_2997-master-en-21b00edcb140c0bbd630b60dd571dfcfbc9645ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IG/GNB5GJ0rMeCevcgQsqDb_SjfqIfY7uVwbyMuM6-YM/pok_tv_s1307_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C6/eUyB2xxaxSbeRKSM1Ev9GfoOPb9JY--SbTvGbYx7o/pok_tv_s1307_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IG/GNB5GJ0rMeCevcgQsqDb_SjfqIfY7uVwbyMuM6-YM/vtt/1/en.vtt",
-            "size": 2616695504
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C6/eUyB2xxaxSbeRKSM1Ev9GfoOPb9JY--SbTvGbYx7o/pok_tv_s1307_2997-master-en.mp4"
         },
         {
             "id": "aec55e9bd34944edba5a898342e185c0",
@@ -147,16 +123,13 @@
             "title": "Flint Sparks the Fire!",
             "description": "When Ash arrives at the Sunyshore Gym for his next Gym battle, its uninspired Gym Leader refuses to accept his challenge!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rsVem9NJRO0ulqJg0LhhcA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p_/a1NiPmzY353wDyR8pkAbASt_XlRDX7HQPdVIEVE34/pok_tv_s1308_2997-master-en-e1d41f3b8b1d34c73646e24d67d740598e2f8386.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p_/a1NiPmzY353wDyR8pkAbASt_XlRDX7HQPdVIEVE34/pok_tv_s1308_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cn/Uh7q6Eb7kfnXJ0Fv0K963eFcegmC3W6R2-xy4XYWg/pok_tv_s1308_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p_/a1NiPmzY353wDyR8pkAbASt_XlRDX7HQPdVIEVE34/vtt/1/en.vtt",
-            "size": 2639932059
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cn/Uh7q6Eb7kfnXJ0Fv0K963eFcegmC3W6R2-xy4XYWg/pok_tv_s1308_2997-master-en.mp4"
         },
         {
             "id": "70a1bd1822fc4518b1f4eead59794176",
@@ -165,16 +138,13 @@
             "title": "The Fleeing Tower of Sunyshore!",
             "description": "Team Rocket wants to steal Sunyshore Tower…and comes up with a novel way to do just that!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cKG9GCL8RRgsfTurVl5QXY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/dfwFGYASeK4kcoi0Glx7adI4xJwpiwR9DI96AnG7g/pok_tv_s1309_2997-master-en-016294890b3ede90f31e3e0a33b3ed030bedf05d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/dfwFGYASeK4kcoi0Glx7adI4xJwpiwR9DI96AnG7g/pok_tv_s1309_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iH/rdovyGgrAjcsD8gNh-G3WaqHnq9GdZVFazC-NbPN4/pok_tv_s1309_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/dfwFGYASeK4kcoi0Glx7adI4xJwpiwR9DI96AnG7g/vtt/1/en.vtt",
-            "size": 2658062958
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iH/rdovyGgrAjcsD8gNh-G3WaqHnq9GdZVFazC-NbPN4/pok_tv_s1309_2997-master-en.mp4"
         },
         {
             "id": "aa24d53208b5451f9a93d55e103a3d47",
@@ -183,16 +153,13 @@
             "title": "Teaching the Student Teacher!",
             "description": "When our heroes agree to be substitute teachers for Dawn’s mother Johanna, one of their students winds up teaching Dawn a valuable lesson!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qiTVMgi1RR8mpPVXhA6PUc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l2/Ks2sf6X3ip9evoxtSTK7WPv-F0mZGb1Pl0MuHZ6zo/pok_tv_s1310_2997-master-en-a1022b946b5e4ea001bf8ee41c6d7c3dd9599046.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l2/Ks2sf6X3ip9evoxtSTK7WPv-F0mZGb1Pl0MuHZ6zo/pok_tv_s1310_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ez/1yWxQKvLKCO-y7R6FKaRsqeAb3tQsdxP2OFTl91Wk/pok_tv_s1310_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l2/Ks2sf6X3ip9evoxtSTK7WPv-F0mZGb1Pl0MuHZ6zo/vtt/1/en.vtt",
-            "size": 2654015281
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ez/1yWxQKvLKCO-y7R6FKaRsqeAb3tQsdxP2OFTl91Wk/pok_tv_s1310_2997-master-en.mp4"
         },
         {
             "id": "afb117a44ff1493ca741d04183b2781c",
@@ -201,16 +168,13 @@
             "title": "Pokémon Ranger: Heatran Rescue!",
             "description": "As our heroes continue toward Lake Valor and the Grand Festival, they come across a determined, upbeat Pokémon Ranger on a mission to capture a rare Heatran!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/r7EXpE_xSTwp0HQQYOyeBw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q1/3XhWHcAQWpfTba1PF-sNdWha0tmyRa5w7e9KgLi2o/pok_tv_s1311_2997-master-en-68a7c962b6df23044019402fb70a169099ca6347.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q1/3XhWHcAQWpfTba1PF-sNdWha0tmyRa5w7e9KgLi2o/pok_tv_s1311_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xh/6XdExjaPYVG2Y75A_YtTHeFqHGtsUN_RUUnJBG7bA/pok_tv_s1311_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q1/3XhWHcAQWpfTba1PF-sNdWha0tmyRa5w7e9KgLi2o/vtt/1/en.vtt",
-            "size": 2659476944
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xh/6XdExjaPYVG2Y75A_YtTHeFqHGtsUN_RUUnJBG7bA/pok_tv_s1311_2997-master-en.mp4"
         },
         {
             "id": "0ea8359f85a6484e9359a68847b22d98",
@@ -219,16 +183,13 @@
             "title": "Keeping in Top Forme!",
             "description": "Before Ash and the gang can make it to the Grand Festival, they come across a mysterious girl with a sick Shaymin in need of assistance!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Dqg1n4WmSE4k1mmiEeyLZg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sA/pfJ3CVKXnmMrgLJFUCkycK0EfYqELPN15G9KO7PJo/pok_tv_s1312_2997-master-en-35be36c057f499021ba09128657cb904f4d3978c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sA/pfJ3CVKXnmMrgLJFUCkycK0EfYqELPN15G9KO7PJo/pok_tv_s1312_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/Z7EAh0-baQ5YfBKNEtOp2gCB-Pmo0gtqqjmUWMj-c/pok_tv_s1312_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sA/pfJ3CVKXnmMrgLJFUCkycK0EfYqELPN15G9KO7PJo/vtt/1/en.vtt",
-            "size": 2651665272
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/Z7EAh0-baQ5YfBKNEtOp2gCB-Pmo0gtqqjmUWMj-c/pok_tv_s1312_2997-master-en.mp4"
         },
         {
             "id": "86dbf5c3cea34b848ca01aeaaa0b75c2",
@@ -237,16 +198,13 @@
             "title": "An Elite Coverup!",
             "description": "As our heroes attempt to help a young Trainer named Ian recover his stolen Pokémon, they discover his mentor is none other than Bertha of the Elite Four!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/htv1w86jS4QjKAa6qoLdcI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/-vdqdz7J_OnQ6uGueLajqEPz1Et2KiJkbkoM4JZcc/pok_tv_s1313_2997-master-en-29e67cbe0e7f3f0bc574672ce6482ed7d9e38c7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/-vdqdz7J_OnQ6uGueLajqEPz1Et2KiJkbkoM4JZcc/pok_tv_s1313_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TQ/FuC5EsU_rVEkdIBJ4V50uCBY04ZOibhQU9tdMGOBg/pok_tv_s1313_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/-vdqdz7J_OnQ6uGueLajqEPz1Et2KiJkbkoM4JZcc/vtt/1/en.vtt",
-            "size": 2653934908
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TQ/FuC5EsU_rVEkdIBJ4V50uCBY04ZOibhQU9tdMGOBg/pok_tv_s1313_2997-master-en.mp4"
         },
         {
             "id": "998cc41e3b6741c18d1f7f4a888a5609",
@@ -255,16 +213,13 @@
             "title": "Dawn of a Royal Day!",
             "description": "On their way to the Grand Festival, our heroes are befriended by a royal princess with a familiar face...and an unusual request!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mYzEHjtnQcEjR9_SoiKVgk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qc/q4unJxTdyqzeQQyeu91SEqLhX1vIeHBPUqdWubalk/pok_tv_s1314_2997-master-en-256c243de300f92eb12422f4b1a5474cc4845298.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qc/q4unJxTdyqzeQQyeu91SEqLhX1vIeHBPUqdWubalk/pok_tv_s1314_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/69/6HfEQOkK8gdqeTDVMDI8mY1bjcOcMejbbcgWisjZE/pok_tv_s1314_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qc/q4unJxTdyqzeQQyeu91SEqLhX1vIeHBPUqdWubalk/vtt/1/en.vtt",
-            "size": 2642571542
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/69/6HfEQOkK8gdqeTDVMDI8mY1bjcOcMejbbcgWisjZE/pok_tv_s1314_2997-master-en.mp4"
         },
         {
             "id": "1a4a2b0320b04e1c8d04e60e08bbc95d",
@@ -273,16 +228,13 @@
             "title": "With the Easiest of Grace!",
             "description": "As the Grand Festival approaches, Dawn discovers her newly acquired Togekiss has a unique approach to battling!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GkorAyCwThwjQTmDgi7yV0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ym/nY4wZuXZyaaotj_gZt7KCWLhSfDlJD3dZlRq6tnxE/pok_tv_s1315_2997-master-en-58ab96a94403bcf5d7ff45b04edb9983688487f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ym/nY4wZuXZyaaotj_gZt7KCWLhSfDlJD3dZlRq6tnxE/pok_tv_s1315_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tO/wtNNHbZBAccGFRlywe1RLGwplDKiCr5kZs-LrUDEA/pok_tv_s1315_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ym/nY4wZuXZyaaotj_gZt7KCWLhSfDlJD3dZlRq6tnxE/vtt/1/en.vtt",
-            "size": 2673921349
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tO/wtNNHbZBAccGFRlywe1RLGwplDKiCr5kZs-LrUDEA/pok_tv_s1315_2997-master-en.mp4"
         },
         {
             "id": "35522f73a5ce45aa925ae3f7c620b4c0",
@@ -291,16 +243,13 @@
             "title": "Dealing with a Fierce Double Ditto Drama!",
             "description": "On their way to Lake Valor and the Grand Festival, our heroes come across a seemingly tough Trainer with a pair of incredible Ditto!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NVIvc6XORaoklrj98YgtMA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZH/jRhgee4KX-nzdm2oG7yWfzzZ7qwBXQqZZA8YnNfW0/pok_tv_s1316_2997-master-en-e8e2dd48d8997a8820cd53a7bc21fa48464c67df.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZH/jRhgee4KX-nzdm2oG7yWfzzZ7qwBXQqZZA8YnNfW0/pok_tv_s1316_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tu/IYjhfLX5PXOx36rpVepQibTP0NPt6cMjl4KqHqykU/pok_tv_s1316_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZH/jRhgee4KX-nzdm2oG7yWfzzZ7qwBXQqZZA8YnNfW0/vtt/1/en.vtt",
-            "size": 2622428995
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tu/IYjhfLX5PXOx36rpVepQibTP0NPt6cMjl4KqHqykU/pok_tv_s1316_2997-master-en.mp4"
         },
         {
             "id": "7dbbfcc504724521aca321b91c3b0667",
@@ -309,16 +258,13 @@
             "title": "Last Call—First Round!",
             "description": "It’s the opening of the Grand Festival, and the first round is an amazing array of faces, both new and familiar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fbv8xQRyRSErKMhuRw7Bmc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jg/yF1S6x-RBJjzbbQL0KpWm6aS40RgSRvgfjnIgAF_8/pok_tv_s1317_2997-master-en-6b521b3e8735803fac070ae2f5e81186002b57a9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jg/yF1S6x-RBJjzbbQL0KpWm6aS40RgSRvgfjnIgAF_8/pok_tv_s1317_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ft/Cg9XFtCymLXptvjyHs-N_HZvXKi8IZTGGhSEn-380/pok_tv_s1317_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jg/yF1S6x-RBJjzbbQL0KpWm6aS40RgSRvgfjnIgAF_8/vtt/1/en.vtt",
-            "size": 2646774725
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ft/Cg9XFtCymLXptvjyHs-N_HZvXKi8IZTGGhSEn-380/pok_tv_s1317_2997-master-en.mp4"
         },
         {
             "id": "7b769c6828124fd68f3f9884ddb980b0",
@@ -327,16 +273,13 @@
             "title": "Opposites Interact!",
             "description": "The Battle Stage of the Grand Festival is under way, and the first pairing is none other than Dawn and her feisty rival, Ursula!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/e3acaCgST9Yjz-YhN25gLA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7C/2Qt0gA5I_wP_LmZKYELdOPPvGd1LyFWa0ZWlku2dg/pok_tv_s1318_2997-master-en-66c051f8a22012dc23b44f386802a6fa381ae8c0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7C/2Qt0gA5I_wP_LmZKYELdOPPvGd1LyFWa0ZWlku2dg/pok_tv_s1318_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BV/4tcm85RIy1U16sQT1lh0KtdZSwhWEsX-KrS1qOjIc/pok_tv_s1318_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7C/2Qt0gA5I_wP_LmZKYELdOPPvGd1LyFWa0ZWlku2dg/vtt/1/en.vtt",
-            "size": 2637615886
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BV/4tcm85RIy1U16sQT1lh0KtdZSwhWEsX-KrS1qOjIc/pok_tv_s1318_2997-master-en.mp4"
         },
         {
             "id": "6f2738f6f5014edc83342640aecf830f",
@@ -345,16 +288,13 @@
             "title": "Coming Full-Festival Circle!",
             "description": "As the field competing in the Grand Festival gets whittled down, some very familiar faces emerge for the final pairings!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/byc49vUBTtwgzQmQK7Pgw8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rP/GYBnICtKLvofb9baJ2uF4bjIcj5_V8vtRIaH_KESE/pok_tv_s1319_2997-master-en-a83ff88eb982ad4d589638db037987d822ebd5a4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rP/GYBnICtKLvofb9baJ2uF4bjIcj5_V8vtRIaH_KESE/pok_tv_s1319_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iz/5EWCAiyq6U7xDY_ZQLOSWoMpZPaxrg03RzPo-082o/pok_tv_s1319_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rP/GYBnICtKLvofb9baJ2uF4bjIcj5_V8vtRIaH_KESE/vtt/1/en.vtt",
-            "size": 2668290918
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iz/5EWCAiyq6U7xDY_ZQLOSWoMpZPaxrg03RzPo-082o/pok_tv_s1319_2997-master-en.mp4"
         },
         {
             "id": "64418de8844c480593f54fd4f03ef905",
@@ -363,16 +303,13 @@
             "title": "A Grand Fight for Winning!",
             "description": "Get ready for the final round of the Grand Festival, where Dawn and Zoey prepare to face off!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZEGN6IRMSAUk_VP1PA--QU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qv/aKlLrjRCGyD3RS2J80glmng3cJTeRKEnVYyEauUSw/pok_tv_s1320_2997-master-en-cdee238a5fc1c2389b1f0684a6891320cc003f35.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qv/aKlLrjRCGyD3RS2J80glmng3cJTeRKEnVYyEauUSw/pok_tv_s1320_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M8/jbrxCb_CcJPBPoNnwVwhLWcwyD0vu2mjz7ThgkGjk/pok_tv_s1320_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qv/aKlLrjRCGyD3RS2J80glmng3cJTeRKEnVYyEauUSw/vtt/1/en.vtt",
-            "size": 2677541015
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M8/jbrxCb_CcJPBPoNnwVwhLWcwyD0vu2mjz7ThgkGjk/pok_tv_s1320_2997-master-en.mp4"
         },
         {
             "id": "fe12d6a071684b9ba96dea9b9eacb0d6",
@@ -381,16 +318,13 @@
             "title": "For the Love of Meowth!",
             "description": "While our heroes have their sights set on the Sunyshore Gym and Ash’s next Gym Battle, a certain Pokémon has its sights set on something completely different!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_hLWoHFoS5sqW3qm56ssNY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZJ/5IMp88SY7vzGz1HBZHINutLH59RyHJWoxmUFnlbN0/pok_tv_s1321_2997-master-en-838119bf5877a19fb6547791ba659e39016e0a4d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZJ/5IMp88SY7vzGz1HBZHINutLH59RyHJWoxmUFnlbN0/pok_tv_s1321_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ge/y4Jisa7E72wquug6nWlg07yflKqxOBvAxT3Zf5LWI/pok_tv_s1321_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZJ/5IMp88SY7vzGz1HBZHINutLH59RyHJWoxmUFnlbN0/vtt/1/en.vtt",
-            "size": 2662744533
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ge/y4Jisa7E72wquug6nWlg07yflKqxOBvAxT3Zf5LWI/pok_tv_s1321_2997-master-en.mp4"
         },
         {
             "id": "e8d4311ed4ea47e39a271b9825a99e72",
@@ -399,16 +333,13 @@
             "title": "The Eighth Wonder of the Sinnoh World!",
             "description": "With the battle for Ash’s eighth Gym Badge at hand, Volkner promises a challenge for our hero like none he has faced before!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6NQxHtTqR-MmicbmCWpnnI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/1RnoB0QzIxV2xdz_QdmcOaD4D0vOJiQ2gZevAfd-0/pok_tv_s1322_2997-master-en-acd157c6dc4f5b4f46c9771403da5a9d78811cbe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/1RnoB0QzIxV2xdz_QdmcOaD4D0vOJiQ2gZevAfd-0/pok_tv_s1322_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xH/XRWbcqmWfaCY8CG3TIcWjEkQ8AQA-f_I_CxyzbBbQ/pok_tv_s1322_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/1RnoB0QzIxV2xdz_QdmcOaD4D0vOJiQ2gZevAfd-0/vtt/1/en.vtt",
-            "size": 2660056864
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xH/XRWbcqmWfaCY8CG3TIcWjEkQ8AQA-f_I_CxyzbBbQ/pok_tv_s1322_2997-master-en.mp4"
         },
         {
             "id": "0ef3d86c3f1d43ffb33383912fdbabb8",
@@ -417,16 +348,13 @@
             "title": "Four Roads Diverged in a Pokémon Port!",
             "description": "For our heroes, the road to the Sinnoh League suddenly becomes a trip down memory lane with a group of old friends!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DvPYbD8dQ_8szODkS_bq7g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S_/2otVfBExtuqm_R1wjfEdibR7TiYVamfcq9_IlMEgs/pok_tv_s1323_2997-master-en-7cafd39b9731730a39355d539a2c8e912cbbf94a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S_/2otVfBExtuqm_R1wjfEdibR7TiYVamfcq9_IlMEgs/pok_tv_s1323_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1y/hX9VYDzRvzaktlxqEq4IPJP_RePCea6rYgiJL-EVg/pok_tv_s1323_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S_/2otVfBExtuqm_R1wjfEdibR7TiYVamfcq9_IlMEgs/vtt/1/en.vtt",
-            "size": 2639294708
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1y/hX9VYDzRvzaktlxqEq4IPJP_RePCea6rYgiJL-EVg/pok_tv_s1323_2997-master-en.mp4"
         },
         {
             "id": "4121101245994f128401ef39fa626aa0",
@@ -435,16 +363,13 @@
             "title": "Bucking the Treasure Trend!",
             "description": "As our heroes continue their trek via ferry to the Sinnoh League, they come across a most unusual treasure hunter—out on a most unusual treasure hunt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QSEQEkWZTxIhAHvOfpiaqA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h7/ANSZlizIKtrL1UDi8lrkipZ_xr_pyJfCRzJHAyToQ/pok_tv_s1324_2997-master-en-e59b357a1b55f0ea0b0d7c281c98cdab0409d46e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h7/ANSZlizIKtrL1UDi8lrkipZ_xr_pyJfCRzJHAyToQ/pok_tv_s1324_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CD/a1m8Ua7xN0ASH4NzDQ630msRvBz741gHDPvYs0nRw/pok_tv_s1324_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h7/ANSZlizIKtrL1UDi8lrkipZ_xr_pyJfCRzJHAyToQ/vtt/1/en.vtt",
-            "size": 2648704781
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CD/a1m8Ua7xN0ASH4NzDQ630msRvBz741gHDPvYs0nRw/pok_tv_s1324_2997-master-en.mp4"
         },
         {
             "id": "9e45f0c640fa4436943012bb4d2fc5ed",
@@ -453,16 +378,13 @@
             "title": "An Old Family Blend!",
             "description": "As the Sinnoh League gets under way at Lily Of The Valley Island, Ash encounters some unexpected challenges while deciding which Pokémon to use!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nkXwxkD6RDYlDASu00vxe0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/46/aYx7YCh69ZHHVTldtjGN6x2k69w3nvhDasBbFxCN4/pok_tv_s1325_2997-master-en-f9bd36f0bef2b9616affe2a089177b4ab02d873f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/46/aYx7YCh69ZHHVTldtjGN6x2k69w3nvhDasBbFxCN4/pok_tv_s1325_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P-/X5FrfdawlWfH-ZOI94neKtpgrCJKPvg4N5pe9GBVE/pok_tv_s1325_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/46/aYx7YCh69ZHHVTldtjGN6x2k69w3nvhDasBbFxCN4/vtt/1/en.vtt",
-            "size": 2616583205
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P-/X5FrfdawlWfH-ZOI94neKtpgrCJKPvg4N5pe9GBVE/pok_tv_s1325_2997-master-en.mp4"
         },
         {
             "id": "a733c122a33246b3970d9d63feebe1cc",
@@ -471,16 +393,13 @@
             "title": "League Unleashed!",
             "description": "In the opening round of the Sinnoh League at Lily Of The Valley Island, it’s Ash versus Nando!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pzPBIqMyRrMlw2dY_7r4cw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0I/kwv4vZnY49DDGP7aROrtz2YOlkbE1y1H7z0DSBg3s/pok_tv_s1326_2997-master-en-ec667aad7dbc29293d505036477c98bfed0d6bb2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0I/kwv4vZnY49DDGP7aROrtz2YOlkbE1y1H7z0DSBg3s/pok_tv_s1326_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vZ/C2Nx1Qy7QzVupQas28jEDLVysbo2kx_u9C0CUjOcs/pok_tv_s1326_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0I/kwv4vZnY49DDGP7aROrtz2YOlkbE1y1H7z0DSBg3s/vtt/1/en.vtt",
-            "size": 2644774938
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vZ/C2Nx1Qy7QzVupQas28jEDLVysbo2kx_u9C0CUjOcs/pok_tv_s1326_2997-master-en.mp4"
         },
         {
             "id": "0b34b6f7015641cdb1ba72ddd5fe146a",
@@ -489,16 +408,13 @@
             "title": "Casting a Paul on Barry!",
             "description": "Ash is on his way to a third-round battle with Conway at the Sinnoh League Tournament, but first he and the gang take time to watch Barry’s battle with Paul!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CzS29wFWQc0sbpy3dX-FGo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SN/6xuRD3sGmoOZ7K2Ky3F_HtgpPRlxzZc5jXYkWHSc4/pok_tv_s1327_2997-master-en-cd72051acbce60622c2652e73eb21cdb2010fabb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SN/6xuRD3sGmoOZ7K2Ky3F_HtgpPRlxzZc5jXYkWHSc4/pok_tv_s1327_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5m/kPgU_h3pGCTeJ6DQmZFzcvKxYlMjWukVtxCbqZ4Jg/pok_tv_s1327_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SN/6xuRD3sGmoOZ7K2Ky3F_HtgpPRlxzZc5jXYkWHSc4/vtt/1/en.vtt",
-            "size": 2645283660
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5m/kPgU_h3pGCTeJ6DQmZFzcvKxYlMjWukVtxCbqZ4Jg/pok_tv_s1327_2997-master-en.mp4"
         },
         {
             "id": "7536ec6053804ba8a3f76cb12682a804",
@@ -507,16 +423,13 @@
             "title": "Working on a Right Move!",
             "description": "It’s Ash versus Conway in their Round Three match at the Sinnoh League, and their battle styles couldn’t be more different!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dTbsYFOAS6go_dssSaCqAQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6M/xI0v44R2p8HodLXlWngLyWcbCN5DyKyMWFhosDYXU/pok_tv_s1328_2997-master-en-ac576eda929080fc2851e70ecb54a72309c24d09.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6M/xI0v44R2p8HodLXlWngLyWcbCN5DyKyMWFhosDYXU/pok_tv_s1328_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3n/ig1Y5we_xpp8mbQfjsemkfMyhETCvFrzwStje3SFw/pok_tv_s1328_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6M/xI0v44R2p8HodLXlWngLyWcbCN5DyKyMWFhosDYXU/vtt/1/en.vtt",
-            "size": 2660299542
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3n/ig1Y5we_xpp8mbQfjsemkfMyhETCvFrzwStje3SFw/pok_tv_s1328_2997-master-en.mp4"
         },
         {
             "id": "4872d27d1e064ca6a5e2313179277c04",
@@ -525,16 +438,13 @@
             "title": "Familiarity Breeds Strategy!",
             "description": "As the Sinnoh League quarterfinals get under way, an old rivalry is reignited when Ash goes up against Paul in their second full battle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SHLSfR4GTKYpeIxMXknfAQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gX/83BDeqsjApBDnoHSTSA8HUO1tWPLe3sgdVfp7Puu4/pok_tv_s1329_2997-master-en-c75146256d6c23fa9a6d90ede4fb1001ad264e53.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gX/83BDeqsjApBDnoHSTSA8HUO1tWPLe3sgdVfp7Puu4/pok_tv_s1329_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YT/qccGr3rMogiXrhZtrCebCWdVP98rF1DPzuAfn9n6Y/pok_tv_s1329_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gX/83BDeqsjApBDnoHSTSA8HUO1tWPLe3sgdVfp7Puu4/vtt/1/en.vtt",
-            "size": 2643539829
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YT/qccGr3rMogiXrhZtrCebCWdVP98rF1DPzuAfn9n6Y/pok_tv_s1329_2997-master-en.mp4"
         },
         {
             "id": "3756a81a97e44282a40e95bcadf5389a",
@@ -543,16 +453,13 @@
             "title": "A Real Rival Rouser!",
             "description": "As the Sinnoh League quarterfinals continue, the battle between Ash and Paul brings their rivalry to levels previously only imagined!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/N1aoGpfkQoIpA6VvK31OJo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cu/POV2_-U9qVImsQaHIkkZaRj-5iALhDG-sachRqgY0/pok_tv_s1330_2997-master-en-f27135f7f0ee947f6e5554e83014740ac1fc99eb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cu/POV2_-U9qVImsQaHIkkZaRj-5iALhDG-sachRqgY0/pok_tv_s1330_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y2/GMdZb89xd17ICI5Qg--gJq5jOBWlCUmfVqxwqZ7fE/pok_tv_s1330_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cu/POV2_-U9qVImsQaHIkkZaRj-5iALhDG-sachRqgY0/vtt/1/en.vtt",
-            "size": 2674540353
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y2/GMdZb89xd17ICI5Qg--gJq5jOBWlCUmfVqxwqZ7fE/pok_tv_s1330_2997-master-en.mp4"
         },
         {
             "id": "bf85310515e54697a03fa11f92ec40bd",
@@ -561,16 +468,13 @@
             "title": "Battling a Thaw in Relations!",
             "description": "The quarterfinal battle between Ash and Paul is building to a fever pitch, revealing surprising emotions between the two Trainers!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/v4UxBRXlRpcoD-hH5LsQL0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/ZnwS7pwIRj9HJqiflXcKKs5zAuPi_osyThw1eiC9k/pok_tv_s1331_2997-master-en-c8399e2300eb52e40a1b1ccd1c10d186b32536ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/ZnwS7pwIRj9HJqiflXcKKs5zAuPi_osyThw1eiC9k/pok_tv_s1331_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WF/9hqfTIcZt-16wbQ9tVAzeIyg9Z2v8b5kGQYCbEXds/pok_tv_s1331_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/ZnwS7pwIRj9HJqiflXcKKs5zAuPi_osyThw1eiC9k/vtt/1/en.vtt",
-            "size": 2687092207
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WF/9hqfTIcZt-16wbQ9tVAzeIyg9Z2v8b5kGQYCbEXds/pok_tv_s1331_2997-master-en.mp4"
         },
         {
             "id": "36b2bb8872204cfe825167c0e26c901b",
@@ -579,16 +483,13 @@
             "title": "The Semi-Final Frontier!",
             "description": "As Ash begins his semifinal battle against Tobias, he discovers that his opponent is not to be taken lightly!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NrK7iHIgTP4glFnwOJskBs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A1/ISj4GtYrpmroe8aLOblX0wetniBXeNd2Mjph0tRZg/pok_tv_s1332_2997-master-en-7bbf779bd2cb0a4f22cdb0fa4255dbe565faedcb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A1/ISj4GtYrpmroe8aLOblX0wetniBXeNd2Mjph0tRZg/pok_tv_s1332_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1l/Yky8ZVD-21DukBA0sj_qEDnJXu-OhJ6wH5eJznML8/pok_tv_s1332_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A1/ISj4GtYrpmroe8aLOblX0wetniBXeNd2Mjph0tRZg/vtt/1/en.vtt",
-            "size": 2669422895
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1l/Yky8ZVD-21DukBA0sj_qEDnJXu-OhJ6wH5eJznML8/pok_tv_s1332_2997-master-en.mp4"
         },
         {
             "id": "531c0d17e8ab4beea0408980bbe673d8",
@@ -597,16 +498,13 @@
             "title": "The Brockster Is In!",
             "description": "As our heroes make their way to Twinleaf Town via ferryboat, a group of injured Pokémon challenges Brock to practice new skills!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UxwNF-irS-4oECJgLvmc9g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/vZtyPc8LbhNwZAMpiyyOxbcDpqAl1Suu8dmcs2KGk/pok_tv_s1333_2997-master-en-4652c0b4381ee91a36054064cd82f17c5a3f73df.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/vZtyPc8LbhNwZAMpiyyOxbcDpqAl1Suu8dmcs2KGk/pok_tv_s1333_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mx/B0IwWX_b-an1S3900w1DA2mmAJJB373nHWof_G7yQ/pok_tv_s1333_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/vZtyPc8LbhNwZAMpiyyOxbcDpqAl1Suu8dmcs2KGk/vtt/1/en.vtt",
-            "size": 2671432122
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mx/B0IwWX_b-an1S3900w1DA2mmAJJB373nHWof_G7yQ/pok_tv_s1333_2997-master-en.mp4"
         },
         {
             "id": "5c3f6f3d05734711a7c6be593cba8ca2",
@@ -615,16 +513,13 @@
             "title": "Memories Are Made of Bliss!",
             "description": "Spending time at Dawn’s house in Twinleaf Town before going their separate ways, our heroes find a chance to reminisce, as well as to plan for happy times sure to come!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XD9vPQVzRxEp8a-WTy6jKI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N9/uG6osZoFj0DWGRPsImDX7L7y4acpRFNCy0Y5IgWW4/pok_tv_s1334_2997-master-en-cbdcd9509b3acaab2378470d825e6ce5a9905af5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N9/uG6osZoFj0DWGRPsImDX7L7y4acpRFNCy0Y5IgWW4/pok_tv_s1334_2997-master-en.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iN/5h0GdUNVrxK0TJ93w_l0rrGwTJpWJie2FvasXzY84/pok_tv_s1334_2997-master-en.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N9/uG6osZoFj0DWGRPsImDX7L7y4acpRFNCy0Y5IgWW4/vtt/1/en.vtt",
-            "size": 2677500553
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iN/5h0GdUNVrxK0TJ93w_l0rrGwTJpWJie2FvasXzY84/pok_tv_s1334_2997-master-en.mp4"
         }
     ]
 }

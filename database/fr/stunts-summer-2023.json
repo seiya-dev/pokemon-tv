@@ -1,18 +1,15 @@
 {
-    "channel_id": "plongez-avec-les-pokemon",
+    "channel_id": "summer-2023",
     "channel_name": "Plongez avec les Pokémon",
     "channel_description": "Rafraîchissez-vous avec une collection d’épisodes de Pokémon, la série remplis d’aventures aquatiques.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2023/summer-1125x1500-fr.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2023/summer-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2023/summer-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2023/summer-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1598620208,
-    "channel_update_date": 1689955729,
+    "order": -1598620208,
     "media": [
         {
             "id": "a1f7a5cd454c4c4fb6a47ccf302de027",
@@ -21,16 +18,13 @@
             "title": "Le Pi-Kahuna",
             "description": "Pour s'entraîner dur et garder la forme en vue de la Ligue Pokémon, Sacha décide de se mettre au surf.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ofelzUVMTE8tqR8zzAt4Cc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oH/RYqCOkJB4Oc0cUAUpktv2840qfK_WqlYXPTMD7LiQ/pokemon_season02_ep14_fre-9434294fbb0f78d4e628f8815fad31f56765d894.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oH/RYqCOkJB4Oc0cUAUpktv2840qfK_WqlYXPTMD7LiQ/pokemon_season02_ep14_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6o/9Kx2w1bwqqMxDcxxwS2EXEdjoPRf1ylnBWs49qd4s/pokemon_season02_ep14_fre.mp4",
             "captions": "",
-            "size": 2574456437
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6o/9Kx2w1bwqqMxDcxxwS2EXEdjoPRf1ylnBWs49qd4s/pokemon_season02_ep14_fre.mp4"
         },
         {
             "id": "708c745c00fc4566b86dbede0aa3cf28",
@@ -39,16 +33,13 @@
             "title": "Combat aquatique",
             "description": "Alors qu'ils reviennent à Bourg Geon, Sacha et ses amis s'arrêtent pour se reposer au bord de l'océan. Ils remarquent alors un panneau annonçant qu'une épreuve de danse synchronisée Pokémon va être organisée.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/cIx0XAD8RWYuG2-3gqjzyg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_8/ejUxrcYpGIFMHx2c8HlPeYoSKF5r-r_nUK3IV3TQY/pokemon_season05_ep46_fre-062281b059c2f3fd5d1c5aa5d0ede2ae45c20a00.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_8/ejUxrcYpGIFMHx2c8HlPeYoSKF5r-r_nUK3IV3TQY/pokemon_season05_ep46_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/scPYScCFzOQBlN8CG26tJKa0Etw1GjpvyKuNNh48I/pokemon_season05_ep46_fre.mp4",
             "captions": "",
-            "size": 2550619458
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/scPYScCFzOQBlN8CG26tJKa0Etw1GjpvyKuNNh48I/pokemon_season05_ep46_fre.mp4"
         },
         {
             "id": "195c2bec4c65437087bc0f72669f5bd7",
@@ -57,16 +48,13 @@
             "title": "Des Pokémon bien agressifs",
             "description": "Sacha et ses compagnons voguent vers l'Île de Myokara grâce à leurs nouveaux amis M. Marco et son Goélise, Piko.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GVwr7ExlQ3Ah7wPcmafW9c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lx/9gXz0uGC6AFRKUOm-K2ZewrkqSU5rtsgvCe4FVXjM/pokemon_season06_ep31_fre-a677d2f41c077b060ac41e9d7ba711d5e64daf14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lx/9gXz0uGC6AFRKUOm-K2ZewrkqSU5rtsgvCe4FVXjM/pokemon_season06_ep31_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UP/AE2t2wPvQInOnCm3U2m6hskQv68UNbpysHeIeFn4s/pokemon_season06_ep31_fre.mp4",
             "captions": "",
-            "size": 2572299298
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UP/AE2t2wPvQInOnCm3U2m6hskQv68UNbpysHeIeFn4s/pokemon_season06_ep31_fre.mp4"
         },
         {
             "id": "e86eb2031ac144f09019211898a40906",
@@ -75,16 +63,13 @@
             "title": "À voir de près",
             "description": "À l'Académie d’Été Pokémon, nos héros travaillent sur un rapport sur les Pokémon de type Eau dans un lac proche, quand un mystère se fait jour.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6G6yAxrBRPAkBkhGJikCQY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ni/j91MfA3lL-tkdNzoMGvL9S0WsjSZzPsaBDKbnQ9C0/pok_tv_s1137_2398-master-fr-01a02e2bdfac42b780bac827c3b84676d52256c3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ni/j91MfA3lL-tkdNzoMGvL9S0WsjSZzPsaBDKbnQ9C0/pok_tv_s1137_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1w/UHwQL5vuCO4LRyIZCq5U-8NtISwwbxcZN0x7vMuEI/pok_tv_s1137_2398-master-fr.mp4",
             "captions": "",
-            "size": 2649838184
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1w/UHwQL5vuCO4LRyIZCq5U-8NtISwwbxcZN0x7vMuEI/pok_tv_s1137_2398-master-fr.mp4"
         },
         {
             "id": "b3b0c0b57721430b96b0a21d262d327d",
@@ -93,16 +78,13 @@
             "title": "Affronter la peur les yeux grands ouverts !",
             "description": "Les Pokémon sont tombés malades à cause des spores empoisonnés d’un groupe de Trompignon, et Moustillon doit affronter sa peur pour leur fournir un remède adéquat !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/s7DAtXchQwslrCiHSYtMn0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/17gn3_a0GCShfORE2XAWyfd59AiK7fHRmcazuJRq8/pok_tv_s1435_2997-master-fr-faffronter-la-peur-les-yeux-grands-ouverts---0aa4792d715b575d5bfe63065ce8ebf5bbba10bb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/17gn3_a0GCShfORE2XAWyfd59AiK7fHRmcazuJRq8/pok_tv_s1435_2997-master-fr-faffronter-la-peur-les-yeux-grands-ouverts--.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/0ijXHSf3OdS7J8rcXsdWYhW7sEa0P0EKNcvVZzL7Y/pok_tv_s1435_2997-master-fr-faffronter-la-peur-les-yeux-grands-ouverts--.mp4",
             "captions": "",
-            "size": 2687821791
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/0ijXHSf3OdS7J8rcXsdWYhW7sEa0P0EKNcvVZzL7Y/pok_tv_s1435_2997-master-fr-faffronter-la-peur-les-yeux-grands-ouverts--.mp4"
         },
         {
             "id": "6e04bc66d7444646a13a5709e5d8de36",
@@ -111,16 +93,13 @@
             "title": "Soleil, terreur et tanière secrète !",
             "description": "Tandis que nos héros font la classe sur la plage, des évènements plus ou moins inattendus se déroulent en coulisse…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bgS8ZtdERkYoTpXCeXY3jY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/99/k3JmaF3atNvoTiGcB3OWG3W-reJcWkeW4Iiinm2qY/pokemon_season20_ep12_fre-8b2a1ea77167fbedb06650309007a978801cb7bd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fk/bOWLoyF0kcfCurAhF91PofQBLSzNDWwEGLNO5__6s/pokemon_season20_ep12_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cN/C0FMYu0_IzW5iPSV22mIJTBMK2bahMfWqt0sE09YI/pokemon_season20_ep12_fre.mp4",
             "captions": "",
-            "size": 2622461621
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cN/C0FMYu0_IzW5iPSV22mIJTBMK2bahMfWqt0sE09YI/pokemon_season20_ep12_fre.mp4"
         },
         {
             "id": "a807444d23cb4bd38591477bdb4b5133",
@@ -129,16 +108,13 @@
             "title": "Bienvenue au paradis !",
             "description": "Nos héros et leurs Pokémon se réjouissent de passer une journée dans un centre de détente. Malheureusement, certains ont d'autres projets…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qAdETSPLS9MhZFHe9tLUTM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Md/jzOkCn9X3C1upvIRWe7fG-VgVh5dwaU_imVz5e87M/pokemon_season21_ep42_fre-7b37729e498d0fcc487ed9d24305449b113b4bb7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Md/jzOkCn9X3C1upvIRWe7fG-VgVh5dwaU_imVz5e87M/pokemon_season21_ep42_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xH/4Gq3nnrDxAEuMLTcUWxa6ciMh4yCQEV-je9e4CMbM/pokemon_season21_ep42_fre.mp4",
             "captions": "",
-            "size": 2855440307
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xH/4Gq3nnrDxAEuMLTcUWxa6ciMh4yCQEV-je9e4CMbM/pokemon_season21_ep42_fre.mp4"
         },
         {
             "id": "742b352dad684a43bcdeb5b8597412d8",
@@ -147,16 +123,13 @@
             "title": "Alola, Alola !",
             "description": "Les vacances commencent, les élèves de l'École Pokémon ont de la visite... et Sacha n'arrive pas à en croire ses yeux !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dCs1La1oSkMvN61uFl0Etg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R_/G_Wne5GndlY5qiMf8h7lbeWaQDJ_Exfn15Z4EQbwY/pokemon_season22_ep10_fre-faa59dca200b0f79cac5b013a5da7ffd6c2ac282.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R_/G_Wne5GndlY5qiMf8h7lbeWaQDJ_Exfn15Z4EQbwY/pokemon_season22_ep10_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wR/Tri7xln-PMy3N8Rf0N6gdJpIJNTpz803eg0fTMilM/pokemon_season22_ep10_fre.mp4",
             "captions": "",
-            "size": 2903303217
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wR/Tri7xln-PMy3N8Rf0N6gdJpIJNTpz803eg0fTMilM/pokemon_season22_ep10_fre.mp4"
         },
         {
             "id": "f2412ec533e8434c954cf5aa36a2b351",
@@ -165,16 +138,13 @@
             "title": "Bizarre ou mignon ? Telle est la question !",
             "description": "Les liens entre les humains et les Pokémon peuvent parfois sembler magiques !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8kEuxTPoQ0wlUz1qjais1E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/91/lCVB0HcNhES4vfHDfNDHu90uOPwxtIpA47HbtX9ps/fr-fr-23-31-a4c6575b44362705d00861ac20e57a897d2efe3d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zi/ws27C8HobcPh0SWctawO-5ZPmxqmZNWzYPXFwL-qg/fr-fr-23-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CK/CmlB_ERCEkglc2CeTC-M1PyO-u86mIPqIYNXkSDIc/fr-fr-23-31.mp4",
             "captions": "",
-            "size": 2602989599
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CK/CmlB_ERCEkglc2CeTC-M1PyO-u86mIPqIYNXkSDIc/fr-fr-23-31.mp4"
         },
         {
             "id": "d07eea70bb894cbeb8df6dd4e3a94236",
@@ -183,16 +153,13 @@
             "title": "Sur terre, en mer et vers l'avenir…",
             "description": "Une rencontre avec un Dresseur d'Aquali fait réfléchir Chloé à l'avenir d'Évoli…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0H7qcLuJTL4uN9t1OOpQjY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hk/EjYZ0njKeR_K4FDsn1r7qq1lkY9EkEZhRcgOvLhM8/fr-fr-24-15-9026e76aaf2a8c600ee018f71b125dceff0a72a8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1r/nw43wu2n9jmZxqHMzS5OL5E9H22_Tb7y-N73u7hBI/fr-fr-24-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vn/9XVZdPkeqwIbgaRYmr8Q_2lv_HenauodZUcUDY4hU/fr-fr-24-15.mp4",
             "captions": "",
-            "size": 2705867209
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vn/9XVZdPkeqwIbgaRYmr8Q_2lv_HenauodZUcUDY4hU/fr-fr-24-15.mp4"
         }
     ]
 }

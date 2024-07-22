@@ -234,11 +234,7 @@ function showChannel(){
     window.location.hash = `#/${tvRegion}/channel?id=` + channel;
     uriLoader();
     
-    let chanImg2 = curChannel.channel_images.spotlight_image_2048_1152;
-    let chanImg1 = curChannel.channel_images.spotlight_image_1660_940;
-    
-    let chanImg = chanImg2 && chanImg2 != '' ? chanImg2 : '';
-    chanImg = chanImg1 && chanImg1 != '' ? chanImg1 : chanImg;
+    let chanImg = curChannel.channel_images.spotlight_image_1660_940;
     chanImg = chanImg != '' ? chanImg : '../img/channel.png';
     
     let channelInfo = [];

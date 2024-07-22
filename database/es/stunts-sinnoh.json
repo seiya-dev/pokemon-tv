@@ -1,18 +1,15 @@
 {
-    "channel_id": "la-brillante-y-reluciente-region-de-sinnoh",
+    "channel_id": "sinnoh",
     "channel_name": "La brillante y reluciente región de Sinnoh",
     "channel_description": "Una aventura brillante y reluciente por Sinnoh te espera en TV Pokémon",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sinnoh/sinnoh-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sinnoh/sinnoh-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sinnoh/sinnoh-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sinnoh/sinnoh-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1441405134,
-    "channel_update_date": 1637770606,
+    "order": -1441405134,
     "media": [
         {
             "id": "f24188cf57a64f14a72e0749f47d975c",
@@ -21,16 +18,13 @@
             "title": "¡Comprendiendo a Turwig!",
             "description": "El último plan del Team Rocket para atrapar a Pikachu fracasa, y Pikachu termina perdido en el bosque. Un simpático Turtwig encuentra a Pikachu y le defiende del Team Rocket, ¡pero también confunde a Ash con un enemigo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8kGIz1emTxQpy4HSfR9l1w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fQ/k6LrIGODC4noUnwJvmRIYxNiIjYWuCcMsghCpZi_c/pok_tv_s1005_2398-master-cas-a6c1e3714cec6029871cb003878792d72103a3b4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fQ/k6LrIGODC4noUnwJvmRIYxNiIjYWuCcMsghCpZi_c/pok_tv_s1005_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ja/ouJHiV8yAd-_gpDAA6l9S1g6i52kvwxDMX7KuJWQw/pok_tv_s1005_2398-master-cas.mp4",
             "captions": "",
-            "size": 2621777502
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ja/ouJHiV8yAd-_gpDAA6l9S1g6i52kvwxDMX7KuJWQw/pok_tv_s1005_2398-master-cas.mp4"
         },
         {
             "id": "1630d18328ca4f5daf5f3481dd909454",
@@ -39,16 +33,13 @@
             "title": "¡Piplup: el líder!",
             "description": "Es un duro día tanto para el héroe como para el villano. El Piplup de Maya lucha por conseguir un movimiento perfecto para el próximo Concurso Pokémon, y el Team Rocket lucha por encontrar algo de comer.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FjDRgyjKT10r180gd2QlFQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1A/Qpm__L3VXyXyHoHW-Vjtyszr0gYwVJXfoWgYokCdg/pok_tv_s1007_2398-master-cas-f460dc0a99f00a227e2d71621574aa715320deec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1A/Qpm__L3VXyXyHoHW-Vjtyszr0gYwVJXfoWgYokCdg/pok_tv_s1007_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/aOg4Bo4wQJGQ4NdJaUIHu7NE-92-Q7oyo393SNyLo/pok_tv_s1007_2398-master-cas.mp4",
             "captions": "",
-            "size": 2650371955
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/aOg4Bo4wQJGQ4NdJaUIHu7NE-92-Q7oyo393SNyLo/pok_tv_s1007_2398-master-cas.mp4"
         },
         {
             "id": "bf7797ac334940b58b01febe600898b3",
@@ -57,16 +48,13 @@
             "title": "Ajustando una cuenta de la infancia",
             "description": "El Concurso de Pueblo Aromaflor acaba de empezar, ¡y Aura ya tiene problemas! Pachirisu se espanta antes de que Maya pueda ni siquiera llamarlo. Solo la rapidez mental de Maya y un tratamiento Pokocho pueden calmarlo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/v3eXrDNJQLUiwH-vmAImLM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4V/csF8L-Gcsr4gECqWNqeC2OfNpArgVdmnMtM9V7ftY/pok_tv_s1027_2398-master-cas-9ec023d7726640015dd25c22e3e1e0c41fab9e10.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4V/csF8L-Gcsr4gECqWNqeC2OfNpArgVdmnMtM9V7ftY/pok_tv_s1027_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bT/NiNo9Hrt10edvQlRwookDYc23-mygd7kcIOaa477Y/pok_tv_s1027_2398-master-cas.mp4",
             "captions": "",
-            "size": 2644641930
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bT/NiNo9Hrt10edvQlRwookDYc23-mygd7kcIOaa477Y/pok_tv_s1027_2398-master-cas.mp4"
         },
         {
             "id": "16de944266ec44b69c17a4cdec5d0458",
@@ -75,16 +63,13 @@
             "title": "Conexión de Pokémon Planta",
             "description": "A Ash le ha llegado la hora del combate de gimnasio de Eterna contra la Líder de Gimnasio Gardenia, que es una experta en Pokémon de tipo Planta. La batalla será 3 contra 3, empezando con Turtwig de Ash contra Cherubi de Gardenia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ft6UQmbsRLYnBekzexdBFg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zl/bjtpsD0w63Fg7R1VFu-vFHc3tvM57782o8tgQfhRU/pok_tv_s1037_2398-master-cas-94b7aca977a743f44aee888800fde753ae988d28.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zl/bjtpsD0w63Fg7R1VFu-vFHc3tvM57782o8tgQfhRU/pok_tv_s1037_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r3/DwYZFyIHmVaVWsIXEH21o3PXHDTLkr8aMpPOEaem4/pok_tv_s1037_2398-master-cas.mp4",
             "captions": "",
-            "size": 2650155154
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r3/DwYZFyIHmVaVWsIXEH21o3PXHDTLkr8aMpPOEaem4/pok_tv_s1037_2398-master-cas.mp4"
         },
         {
             "id": "a524704d18f54aa0895bfb76b7d46217",
@@ -93,16 +78,13 @@
             "title": "¡Resplandor de gloria!",
             "description": "Las buenas noticias para Ash y sus amigos son que han entrado en el torneo de combate de Ciudad Corazón y todo el mundo consigue pasar la primera ronda. ¿Las malas noticias? Polo es el compañero de Ash, y ellos no se soportan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pSRwTRj1SqAiVv7drfUYhc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ge/jqjC4FeplCFY6liyPvPgdmUU858vAaTnklx_r_wzI/pok_tv_s1050_2398-master-cas-16cb025e7cc1beb8e3b47d7272e11c6949856b59.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ge/jqjC4FeplCFY6liyPvPgdmUU858vAaTnklx_r_wzI/pok_tv_s1050_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hw/KZwj_l9bJbRubhPfedpS5alHoz2MD-2HEUWqkre6s/pok_tv_s1050_2398-master-cas.mp4",
             "captions": "",
-            "size": 2643169735
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hw/KZwj_l9bJbRubhPfedpS5alHoz2MD-2HEUWqkre6s/pok_tv_s1050_2398-master-cas.mp4"
         },
         {
             "id": "624b9239af584419bb8c884e216fdeea",
@@ -111,16 +93,13 @@
             "title": "Sintiendo el espíritu de equipo",
             "description": "Tras una extraña victoria en la segunda ronda del torneo de combate de Ciudad Corazón, Polo ha abandonado a su Chimchar y Ash quiere que Chimchar se una a su equipo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YkuSOa9YRBku4yITiFv3uo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uP/bcUYOCXBI4VjdS6FgO6EgFZOTdBThJ_Mw0czVz3NA/pok_tv_s1051_2398-master-cas-246f8ac5414fd6122acd8c4f5c2efad29e17836a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uP/bcUYOCXBI4VjdS6FgO6EgFZOTdBThJ_Mw0czVz3NA/pok_tv_s1051_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FW/Rwwa7YUCRxTx25MX8a3VVjNmAMrrhPryOt3v_Y6ts/pok_tv_s1051_2398-master-cas.mp4",
             "captions": "",
-            "size": 2655899808
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FW/Rwwa7YUCRxTx25MX8a3VVjNmAMrrhPryOt3v_Y6ts/pok_tv_s1051_2398-master-cas.mp4"
         },
         {
             "id": "12fbb24353ee431aafea9253c7e794eb",
@@ -129,16 +108,13 @@
             "title": "Estrategias y sonrisas",
             "description": "Es la ronda de semifinales de la Copa Publio y el Piplup de Maya está luchando duro contra el Crawdaunt de Kyle.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EvuyQ1PuQxor-qSU8fnlOs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p6/eOXl4N7UPiYcAjt2yXgBekyA-LOPZAdENcQXr6Ip0/pok_tv_s1125_2398-master-cas-17a3604aadef9de77621017803148615fbea7387.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p6/eOXl4N7UPiYcAjt2yXgBekyA-LOPZAdENcQXr6Ip0/pok_tv_s1125_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zq/yVemkVdEZoDHbD40pkyfPWZRok3ymaO2w_Dyy_Cjs/pok_tv_s1125_2398-master-cas.mp4",
             "captions": "",
-            "size": 2664279847
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zq/yVemkVdEZoDHbD40pkyfPWZRok3ymaO2w_Dyy_Cjs/pok_tv_s1125_2398-master-cas.mp4"
         },
         {
             "id": "403faffe58d74543a407c706a1a464ae",
@@ -147,16 +123,13 @@
             "title": "Ayudando al enemigo",
             "description": "Ash y sus amigos llegan a un Centro Pokémon para ver un gran combate en televisión: ¡la Campeona Cintia está derrotando al Alto Mando Alecrán!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QD-v_ljXRUMpAfHBqGkZK4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dm/X004Mv-wGGtTtHxrPQKDVUuivkX9O2AUqw6cfuMPk/pok_tv_s1148_2398-master-cas-f49ca78ec5c24e622c20b3f155dd5570a49f0773.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dm/X004Mv-wGGtTtHxrPQKDVUuivkX9O2AUqw6cfuMPk/pok_tv_s1148_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dM/lh-KNN68CBMIXxzu5niNBXlkvVVpqhWTg59YodoSQ/pok_tv_s1148_2398-master-cas.mp4",
             "captions": "",
-            "size": 2640640294
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dM/lh-KNN68CBMIXxzu5niNBXlkvVVpqhWTg59YodoSQ/pok_tv_s1148_2398-master-cas.mp4"
         },
         {
             "id": "6bb55111965249bd81574765c4e47487",
@@ -165,16 +138,13 @@
             "title": "Parado por una cuestión de amor",
             "description": "Cuando Maya y Ash llegan a Pueblo Alpargata, se encuentran con dos amigos: ¡Kenny y Benito! Kenny planea entrar en el concurso Alpargata, mientras que Benito está entrenándose para la siguiente Competición de Ping-pong Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/a7VREZZSSb0gVdHZcTkdIc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/BPC2a6UPwqWehhgot8rrodaDcV_ztovfZdtPg9EIo/pok_tv_s1217_2997-master-cas-f84eea41079339699cc887b016eecc553a96e98b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3t/d_yc7Y-uWDXsR9qCgfHbAfaKljQq4jXobRAxvnGwY/pok_tv_s1217_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KI/Pmc6Pc2AWDOIVfeb6RX2pSYisOIdiHZ-f9F-4KHVE/pok_tv_s1217_2997-master-cas.mp4",
             "captions": "",
-            "size": 2701216831
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KI/Pmc6Pc2AWDOIVfeb6RX2pSYisOIdiHZ-f9F-4KHVE/pok_tv_s1217_2997-master-cas.mp4"
         },
         {
             "id": "34b512fb453a4fc3a7859c30ac09bdb9",
@@ -183,16 +153,13 @@
             "title": "¡Combatiendo ira con fuego!",
             "description": "El Team Rocket se inventa una nueva estrategia para atrapar a Pikachu, Piplup y Empoleon. Como resultado, ¡el Monferno de Ash responde a la seria situación de una manera exaltada e inesperada!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NLUS-0U6T8Mp4WcMKwJvbk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fu/IN4_B2fwx-tBlaXGAlW44oaGhRUCAR6_o_XYUoI80/pok_tv_s1306_2997-master-cas-1c35dd56c35bd1245122b24e6e4386070c4c27c1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fu/IN4_B2fwx-tBlaXGAlW44oaGhRUCAR6_o_XYUoI80/pok_tv_s1306_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eX/gZPyCkLnLjZsDqJ8KY1IakklfjJ7IxLrMnu7J0gjc/pok_tv_s1306_2997-master-cas.mp4",
             "captions": "",
-            "size": 2628905125
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eX/gZPyCkLnLjZsDqJ8KY1IakklfjJ7IxLrMnu7J0gjc/pok_tv_s1306_2997-master-cas.mp4"
         },
         {
             "id": "d1192c5939df4151b4104af0d94cbed1",
@@ -201,16 +168,13 @@
             "title": "El robo de Torre Marina",
             "description": "El Team Rocket quiere robar la Torre Marina y se les ocurre una manera nueva de hacerlo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0RksWTnfQVEtBBK8NlMvtE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/81/G52HoETV52nASOkqb0VtQGaffO50157Lm9sNHL2cg/pok_tv_s1309_2997-master-cas-7a54acfae33e92c5b41f6615ed748964cf82a60d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/81/G52HoETV52nASOkqb0VtQGaffO50157Lm9sNHL2cg/pok_tv_s1309_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yL/drkEIf9Imu_UK28iuOnuRXyTVE9BU8XX0DlhS_4gM/pok_tv_s1309_2997-master-cas.mp4",
             "captions": "",
-            "size": 2659484601
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yL/drkEIf9Imu_UK28iuOnuRXyTVE9BU8XX0DlhS_4gM/pok_tv_s1309_2997-master-cas.mp4"
         },
         {
             "id": "4d5929a9a6f74e0cbafcbd7f53b7fe2b",
@@ -219,16 +183,13 @@
             "title": "¡La octava maravilla del mundo de Sinnoh!",
             "description": "Se acerca el combate de Ash por la octava Medalla de Gimnasio, y Lectro le reta a un desafío como nunca ha librado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TVkpqab3Tgwuvy9f1O3_is/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Am/G2noTvW-Hq15YwJGx9PihpJu-GlHw48t1TpdTBHWM/pok_tv_s1322_2997-master-cas-0cd6c5ef00381bb5862bc27dc2117cbf874dbd2e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Am/G2noTvW-Hq15YwJGx9PihpJu-GlHw48t1TpdTBHWM/pok_tv_s1322_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9t/l3KOmXKRDqmsP_1QJipWYa-JqW_lTJfU7-60tvANA/pok_tv_s1322_2997-master-cas.mp4",
             "captions": "",
-            "size": 2639955676
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9t/l3KOmXKRDqmsP_1QJipWYa-JqW_lTJfU7-60tvANA/pok_tv_s1322_2997-master-cas.mp4"
         }
     ]
 }

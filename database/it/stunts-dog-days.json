@@ -1,18 +1,15 @@
 {
-    "channel_id": "giornata-del-cane",
+    "channel_id": "dog-days",
     "channel_name": "Giornata del cane",
     "channel_description": "Non perderti gli episodi dedicati ai migliori amici degli esseri umani (oltre ai Pokémon) su TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/dog-days/dog-days-1125x1500-it.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/dog-days/dog-days-1660x940.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/dog-days/dog-days-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/dog-days/dog-days-1660x940.jpg"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 7,
-    "channel_creation_date": 1630081248,
-    "channel_update_date": 1632500683,
+    "order": -1630081248,
     "media": [
         {
             "id": "943c36f3cd5b45c49a4d46ef5a20f80c",
@@ -21,16 +18,13 @@
             "title": "Lo strano caso dell’unità k-9",
             "description": "Diretti all'Isola Cannella, i nostri eroi si uniscono ad un allenamento speciale dell'Agente Jenny e della squadra di polizia formata da Growlithe per cercare di migliorare le abilità di lotta di Pikachu...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lDw2881bRcQmk1G71og-Aw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bN/RuDBFIYppCya4VZF05-6lGP1U5QztVFOhvinyIEN0/pok_tv_s0149_2398-master-it-cadb3fcdbc6a946aa4e89c68c1d01fe3e95cf3bd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bN/RuDBFIYppCya4VZF05-6lGP1U5QztVFOhvinyIEN0/pok_tv_s0149_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uB/DRcvp6LfEzVt5_M94EHGdJhlZo6jO7LazCRrxAhAI/pok_tv_s0149_2398-master-it.mp4",
             "captions": "",
-            "size": 2798393889
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uB/DRcvp6LfEzVt5_M94EHGdJhlZo6jO7LazCRrxAhAI/pok_tv_s0149_2398-master-it.mp4"
         },
         {
             "id": "f315b4b879da4edf953860f318335aaa",
@@ -39,16 +33,13 @@
             "title": "Furti misteriosi",
             "description": "Indagando su una serie di inspiegabili furti, i nostri eroi scoprono un gruppo di Houndour che sta lottando per la sopravvivenza. Ma per riuscire ad aiutarli Ash e amici devono prima guadagnare la loro fiducia…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8xW0uHnaTt8lThg8xgzWqo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/-Nl063io-gAVAQA4WBDwdELyfA0QKlIZq1ePPjwzk/pokemon_season03_ep45_ita-210a6d09a0751e10e0545f682d9b03b625da4be9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/-Nl063io-gAVAQA4WBDwdELyfA0QKlIZq1ePPjwzk/pokemon_season03_ep45_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eL/JpazPtet2YCjUhEQcs7h9yVaYupqphRXnbLJ4o4C8/pokemon_season03_ep45_ita.mp4",
             "captions": "",
-            "size": 2744968980
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eL/JpazPtet2YCjUhEQcs7h9yVaYupqphRXnbLJ4o4C8/pokemon_season03_ep45_ita.mp4"
         },
         {
             "id": "5848d88a003f4564a76f59b551e00f47",
@@ -57,16 +48,13 @@
             "title": "Il Pokémon ritrovato",
             "description": "Mentre i nostri eroi si godono una pausa vicino a un fiume, Ash vede uno Snubbull correre sulla sponda opposta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/WEjYigA_RWQp29ZtVHgD0c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3u/K4SUfggYGuPEMiRwy5iomo5m3kw2i5Um5NhYxmrD4/pokemon_season04_ep18_ita-b6267d9185d77ab496cee92190d3a61b30488180.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3u/K4SUfggYGuPEMiRwy5iomo5m3kw2i5Um5NhYxmrD4/pokemon_season04_ep18_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mv/SbKkoKvzynep1oNPo_28qmS_FqvdtNvkBnteQKXOY/pokemon_season04_ep18_ita.mp4",
             "captions": "",
-            "size": 2623720196
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mv/SbKkoKvzynep1oNPo_28qmS_FqvdtNvkBnteQKXOY/pokemon_season04_ep18_ita.mp4"
         },
         {
             "id": "7c1a14ac821d48858673b6201a1e8083",
@@ -75,16 +63,13 @@
             "title": "Una consegna speciale",
             "description": "Quando il Team Rocket attacca i nostri eroi mentre attraversano un passo di montagna, l'attacco Muro di Fumo di Weezing separa Togepi da Misty.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/fBoUrIIdSIUhnO2IBoegIM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/9yFDK4_jAt3nOMpkG8vFcCMp4LO64zBizi-5-yDCM/pokemon_season04_ep23_ita-3ee522f9305ed1cfd4d15e78d02250c855ba8b14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/9yFDK4_jAt3nOMpkG8vFcCMp4LO64zBizi-5-yDCM/pokemon_season04_ep23_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/c0MXowMK6u-1dneb7t5rlEVnPolabGd96MXpWr7pY/pokemon_season04_ep23_ita.mp4",
             "captions": "",
-            "size": 2599070892
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/c0MXowMK6u-1dneb7t5rlEVnPolabGd96MXpWr7pY/pokemon_season04_ep23_ita.mp4"
         },
         {
             "id": "0c48e8d3fc2747c0982f6baf802725aa",
@@ -93,16 +78,13 @@
             "title": "Pokémon artisti",
             "description": "Non appena i nostri eroi entrano a Whitestone, notano un gruppo di Smeargle scatenati che imbratta ogni parete bianca usando la coda.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DEjo0_wnR8AmC9rr4AnJao/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vc/3AIR6Sl_GKjSJk_8EBtyauXSYopg2DcF6EouJZ6H4/pokemon_season04_ep40_ita-a8b18dd4ea584fa5e3837e513d5e27d2d4854f89.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vc/3AIR6Sl_GKjSJk_8EBtyauXSYopg2DcF6EouJZ6H4/pokemon_season04_ep40_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3x/Dx9sjvBl0MNgajrVwxAvUcLhiH6RaMQmFIV4FSCQc/pokemon_season04_ep40_ita.mp4",
             "captions": "",
-            "size": 2634823636
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3x/Dx9sjvBl0MNgajrVwxAvUcLhiH6RaMQmFIV4FSCQc/pokemon_season04_ep40_ita.mp4"
         },
         {
             "id": "cb5e082e49014759a62da89cf7cd66ce",
@@ -111,16 +93,13 @@
             "title": "Un’esperienza memorabile",
             "description": "Lungo il cammino verso Ferrugipoli, il gruppo fa tappa in una foresta abitata da vari tipi di Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/y14ILkkBR1kpi2onPfNZs4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q5/iV3mmUU_CEvV_kBom-EDE-AUJg14ppPDyhA4E-4Ls/pokemon_season06_ep23_ita-e879283ba86c55704e2648c68e55a30e5a1f0f4a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FV/Sbwr88vFaXP7_ff64WuKYMY9M4d53B7tihShMgzT4/pokemon_season06_ep23_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/6ZlNL-mISp7LgnJcVXFW1SlxWbKrLK3AI8KOWAHn8/pokemon_season06_ep23_ita.mp4",
             "captions": "",
-            "size": 2579791826
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GO/6ZlNL-mISp7LgnJcVXFW1SlxWbKrLK3AI8KOWAHn8/pokemon_season06_ep23_ita.mp4"
         },
         {
             "id": "c27ad2234afe45d789ca0f7bc8a37a17",
@@ -129,16 +108,13 @@
             "title": "A caccia di Arcanine",
             "description": "Vera e Ash sono in fila fuori da una famosa panetteria quando vedono passare un Arcanine. Vera desidera tanto catturarlo, ma scopre che anche Drew  è della stessa idea!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wnrSI0r-RdcicoPe8ijehc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sP/MilEBM4xw39hzhDTF0A_kP2bGmT2BEYfipVWSK3lE/pok_tv_s0846_2398-master-it-dc8bb0fab0fd384fa4d5f8ed524bce803323367b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OH/bU0Nzlyr_RqQztKuaGP1c3ElLd_SvMQKfTRJ-cs7I/pok_tv_s0846_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vq/XXx_x7LWmv6wrbjV8vTCeYNUhKDMe_a1xDGW7CMGQ/pok_tv_s0846_2398-master-it.mp4",
             "captions": "",
-            "size": 2717704869
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vq/XXx_x7LWmv6wrbjV8vTCeYNUhKDMe_a1xDGW7CMGQ/pok_tv_s0846_2398-master-it.mp4"
         },
         {
             "id": "f5d4c0359caf4494b93d9c83815b84ff",
@@ -147,16 +123,13 @@
             "title": "Una toeletta per Furfrou!",
             "description": "La sorprendente coincidenza di incontrare di persona un rinomato toelettatore per Pokémon, visto poco prima su una guida, e la sua assistente, lascia i nostri eroi a bocca aperta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9dTANZyvRJQuT2cg4FbhP8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O7/oxHXjG3P3atBW_BzgbCK7m1Ox1ynm_n4i4mn8-mTM/pok_tv_s1708_2997-master-it-sdt-h264-87ef3d78539fb4cc42f2d085373bd65c23a7295c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FE/KelbAVyIhXGlXu_e_5AyuUYWrKx0gfvLBzKInhxHE/pok_tv_s1708_2997-master-it-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FH/8XltXuywCrO6etGtRYRH-MOPFYrRrBP2ZidTsXSlk/pok_tv_s1708_2997-master-it-sdt-h264.mp4",
             "captions": "",
-            "size": 3293184647
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FH/8XltXuywCrO6etGtRYRH-MOPFYrRrBP2ZidTsXSlk/pok_tv_s1708_2997-master-it-sdt-h264.mp4"
         },
         {
             "id": "ca23b2589d4344fe8662091a6554838d",
@@ -165,16 +138,13 @@
             "title": "Ecco perché Litten fa il birbante!",
             "description": "Un Litten molto determinato non si fa problemi a rubare il cibo degli altri, ma Ash e Pikachu sono altrettanto decisi a scoprire perché!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/yiOyWJ1DRP4hmIJGmVUg40/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kz/-_Fgc1Hcor7uXsBzM9Hf9anjP0iwtiu507lG39C4Y/pokemon_season20_ep07_ita-390a5567709ac7c9f690727a17043c1126c59290.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kz/-_Fgc1Hcor7uXsBzM9Hf9anjP0iwtiu507lG39C4Y/pokemon_season20_ep07_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_s/48DIFWllCc04Jv8pdjaaE8TjYYCU1O_Pn8nQkpqVk/pokemon_season20_ep07_ita.mp4",
             "captions": "",
-            "size": 2652023587
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_s/48DIFWllCc04Jv8pdjaaE8TjYYCU1O_Pn8nQkpqVk/pokemon_season20_ep07_ita.mp4"
         },
         {
             "id": "3d1310aa0ada4156a2e2c73f7907e91b",
@@ -183,16 +153,13 @@
             "title": "Volontà di pietra!",
             "description": "Ultimamente Rockruff ha un comportamento misterioso e Ash e il Professor Kukui sono determinati a scoprirne il motivo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/PRMQqgraQVYouLHP3kH6Rs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TF/hwFoGKclcqvcV88glRMcKaNqqNnNNU4OC5D_wyETI/pokemon_season20_ep15_ita-b9f0a0cedfa902885b734606edf4c54ddd3a2868.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TF/hwFoGKclcqvcV88glRMcKaNqqNnNNU4OC5D_wyETI/pokemon_season20_ep15_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vh/KZdENfwf_j4SJOxmSAaQj-yemsnPThcTIGtPOwAGY/pokemon_season20_ep15_ita.mp4",
             "captions": "",
-            "size": 2622151372
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vh/KZdENfwf_j4SJOxmSAaQj-yemsnPThcTIGtPOwAGY/pokemon_season20_ep15_ita.mp4"
         },
         {
             "id": "4182e8cd524041bcab4d6335b50d3924",
@@ -201,16 +168,13 @@
             "title": "Nuove leggende e nuovi amici!",
             "description": "Ash visita un nuovo laboratorio di ricerca e incontra uno spirito affine!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QYLozVJAQbwq01jNbUNOSQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IS/4iC2EowTRfajMhv4beZLsveJkhVpw9oxQRT-KP68A/it-it-23-02-4f18d2ac1af2d6cfc328d6bb3121cc1df1974d42.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IS/4iC2EowTRfajMhv4beZLsveJkhVpw9oxQRT-KP68A/it-it-23-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tl/eepDAzGQOqkZOQf4Xl70d4uXW9f-bi0IlyqtCK2YY/it-it-23-02.mp4",
             "captions": "",
-            "size": 2820744514
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tl/eepDAzGQOqkZOQf4Xl70d4uXW9f-bi0IlyqtCK2YY/it-it-23-02.mp4"
         }
     ]
 }

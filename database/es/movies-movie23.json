@@ -1,18 +1,15 @@
 {
-    "channel_id": "los-secretos-de-la-selva",
+    "channel_id": "movie23",
     "channel_name": "Los secretos de la selva",
     "channel_description": "Ash se hace amigo de un joven que fue criado en la jungla por el Pokémon singular Zarude en la película Pokémon Los secretos de la selva.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1660x940-es.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 3,
-    "channel_creation_date": 1684515187,
-    "channel_update_date": 1685060136,
+    "order": -23000,
     "media": [
         {
             "id": "1edd335d014f465ba154d0b1c0e5e7a2",
@@ -21,16 +18,13 @@
             "title": "Los secretos de la selva",
             "description": "Ash se hace amigo de Koko, un niño que ha sido criado en lo profundo de la selva por el Pokémon singular Zarude. Cuando el peligro acecha en la selva, los lazos entre los Pokémon y los humanos se pondrán a prueba.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie23/movie23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie23/movie23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie23/movie23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ht0zXQFPRlsoVTQscDl56I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NU/h0rZaNPTWDcvoF_EFXZInMZJNgPlTpBGlLZ2OVfFw/pok_m_m23_2398-master-cas-2d8cbccd57f4e298469d74ad6ec68a61d2d90f18.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jh/8vTdbmISX4Bv-9eQuMaALfD5l4Z123hSm9R_DFcRk/pok_m_m23_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q3/FZQ0BjHeqPbG_zYLlNyqWpv_yzdWNIdaFVIoAfKj0/pok_m_m23_2398-master-cas.mp4",
             "captions": "",
-            "size": 12443054309
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q3/FZQ0BjHeqPbG_zYLlNyqWpv_yzdWNIdaFVIoAfKj0/pok_m_m23_2398-master-cas.mp4"
         }
     ]
 }

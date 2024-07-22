@@ -1,18 +1,15 @@
 {
-    "channel_id": "serie-pokemon-xy-expediciones-en-kalos",
+    "channel_id": "season18",
     "channel_name": "Serie Pokémon XY-Expediciones en Kalos",
     "channel_description": "No te pierdas las aventuras de Ash a través de la región de Kalos en la serie Pokémon XY-Expediciones en Kalos, ¡ya en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season18/season18-1125x1500-es.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season18/season18-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season18/season18-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/season18/season18-1660x940-es.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 131,
-    "channel_creation_date": 1596816760,
-    "channel_update_date": 1685721626,
+    "order": -18000,
     "media": [
         {
             "id": "7f5fb23735544a789ae19fcebd41cedd",
@@ -21,16 +18,13 @@
             "title": "¡De camino a una actuación en equipo!",
             "description": "Tras una riña entre amigos, un encuentro casual brinda a nuestros héroes la oportunidad de hacer un inesperado trabajo en equipo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/f1-yNzVUSngmuGfzr1Bzt0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uw/iYig1eGpS1__HUjl6wSxLOd5lJ-vLnT2v3_6C8Cv8/pok_tv_s1801_2997-master-cas-sdt-v2-h264-a5c5bd72d1eee0b06aae77f9daacb0154962d79a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uw/iYig1eGpS1__HUjl6wSxLOd5lJ-vLnT2v3_6C8Cv8/pok_tv_s1801_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H6/yQ02krfE5m04bEInpfbArRWRYeJjo2Nl2yalMIKo0/pok_tv_s1801_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3286823779
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H6/yQ02krfE5m04bEInpfbArRWRYeJjo2Nl2yalMIKo0/pok_tv_s1801_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "3d4763f240274ccaa289d8c8b98f4987",
@@ -39,16 +33,13 @@
             "title": "¡Cuando colisionan la luz y la oscuridad!",
             "description": "Tras una metedura de pata de Ash, su Hawlucha se encuentra inmerso en una función única en la vida.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/PUdj8kAnTMooonYyLmPSYc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/I1VfQELj4SPwQU0JaWUf5XVF3vaHOAZvZiij1H4zE/pok_tv_s1802_2997-master-cas-sdt-v2-h264-c563020696f487884f4f36999da81302c2424291.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/I1VfQELj4SPwQU0JaWUf5XVF3vaHOAZvZiij1H4zE/pok_tv_s1802_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CF/dkhRfohMapt5b0hyX4pZ12IJdJATfBwp-rnaQrld4/pok_tv_s1802_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3321489361
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CF/dkhRfohMapt5b0hyX4pZ12IJdJATfBwp-rnaQrld4/pok_tv_s1802_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "b82735bb4820471b8629a3f9c2c2924d",
@@ -57,16 +48,13 @@
             "title": "¡Un lugar submarino llamado hogar!",
             "description": "Una visita a la Muralla Costera hace partir a nuestros héroes en una aventura acuática llena de Pokémon submarinos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep03_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep03_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uCc1u0ggRxshimj-cLCkk0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xn/n4FLA9PeD_GBjO8kVMLZLeELL5OpBW0ywV5ieHwzk/pok_tv_s1803_2997-master-cas-sdt-v2-h264-40c686869c2f2995457243ad363ee9f304ddd06e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xn/n4FLA9PeD_GBjO8kVMLZLeELL5OpBW0ywV5ieHwzk/pok_tv_s1803_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nf/pro2dj5zjQcg8IflbhmuayRR7fX6VEKE88ph1qeNw/pok_tv_s1803_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3303877703
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nf/pro2dj5zjQcg8IflbhmuayRR7fX6VEKE88ph1qeNw/pok_tv_s1803_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "4177d05274604956b19bd435aa9b7a26",
@@ -75,16 +63,13 @@
             "title": "¡Un desafío sigiloso!",
             "description": "Tras reencontrarse con un amigo, nuestros héroes se embarcan en una aventura llena de sigilo y sorpresas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep04_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep04_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QXfQUnRgSVYsZvUNaqbeiY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sj/tzjgfhfI0kuKHCpjqK7cyOyVlMyfU94_x839syavc/pok_tv_s1804_2997-master-cas-sdt-v2-h264-4b54f4693654a56a35ddc6964b9fa989154a6c80.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sj/tzjgfhfI0kuKHCpjqK7cyOyVlMyfU94_x839syavc/pok_tv_s1804_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hp/Z-i-wgSg3Q3Onp3vzoPDRkm5GJF4Vrfh78uOIJyHQ/pok_tv_s1804_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3296209600
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hp/Z-i-wgSg3Q3Onp3vzoPDRkm5GJF4Vrfh78uOIJyHQ/pok_tv_s1804_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "42529867e2ff44b08945469f3f93c809",
@@ -93,16 +78,13 @@
             "title": "¡Una carrera por la vuelta a casa!",
             "description": "Una visita a un rancho de Skiddo proporciona a nuestros héroes desafíos inesperados.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QlKYZ-L_RLAiUVGnz-TyAk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QH/Smw_NSMk0ZqhmksTLv7tvsER-jeDMAvagWIdC2ZvQ/pok_tv_s1805_2997-master-cas-sdt-v2-h264-b4c3ad79f2d0434c7ff7cf25b2975685f54233d1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QH/Smw_NSMk0ZqhmksTLv7tvsER-jeDMAvagWIdC2ZvQ/pok_tv_s1805_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/om/Q3jbIitdPPwVkm19wPqSvUskbo9h_7LUm5kAPkGQs/pok_tv_s1805_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3250338469
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/om/Q3jbIitdPPwVkm19wPqSvUskbo9h_7LUm5kAPkGQs/pok_tv_s1805_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "36d33bf720554cc79f9704967613ddb6",
@@ -111,16 +93,13 @@
             "title": "¡Enfrentándose al grandioso plan!",
             "description": "El mundo está en peligro, y un grupo de antiguos enemigos debe unir sus fuerzas para salvarlo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NtM79yBVTMcn5cElnYT3bY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hC/9CRWsy7bjfsq0NYdwlvCWRWeVfOd3-63DliSVC1Uo/pok_tv_s1806_2997-master-cas-sdt-v2-h264-7e6195faad5b674b1036d13ca2d0bc27c4ca62e1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hC/9CRWsy7bjfsq0NYdwlvCWRWeVfOd3-63DliSVC1Uo/pok_tv_s1806_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a0/Ni2DihH5nEV0fTtlbAVjG-s-8duw68fLr2NnXxatE/pok_tv_s1806_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3260446765
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a0/Ni2DihH5nEV0fTtlbAVjG-s-8duw68fLr2NnXxatE/pok_tv_s1806_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "eec886038ac644859ebca65f6d342180",
@@ -129,16 +108,13 @@
             "title": "¡Un encuentro muy baboso!",
             "description": "Un encuentro casual con un Pokémon necesitado lleva a nuestros héroes a vivir una aventura inesperada.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7siGA4rGRIUnrymX200IYA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Je/eiG_fwRGyW8zmzSlyQUpF5yZMVOkd3y37B3Xb5R-4/pok_tv_s1807_2997-master-cas-sdt-v2-h264-2ba444544f88b4fd6f7c9e8316465f686775d1dc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Je/eiG_fwRGyW8zmzSlyQUpF5yZMVOkd3y37B3Xb5R-4/pok_tv_s1807_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5D/Ohlex9i_06zNabri-Cl35uLtW2MV0nqyRi5RiDIwg/pok_tv_s1807_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3300275127
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5D/Ohlex9i_06zNabri-Cl35uLtW2MV0nqyRi5RiDIwg/pok_tv_s1807_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "534ea061f0ef4b6381f61f9b5613bc57",
@@ -147,16 +123,13 @@
             "title": "¡Una para Goomy!",
             "description": "El miembro más reciente de la familia Pokémon de nuestros héroes está en problemas, pero el miembro más pequeño interviene para ayudar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U06gYfDvS2MgfYfm1YTvFc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XI/8PLGqeZFOQUnpGTkLSq6NlsrSvP2nWwwKV80v3bDg/pok_tv_s1808_2997-master-cas-sdt-v2-h264-649d0cac526f7b43c69c11900ba51e7cd4c4c8c7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XI/8PLGqeZFOQUnpGTkLSq6NlsrSvP2nWwwKV80v3bDg/pok_tv_s1808_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/kf5mfKAb0ggiqo-zWuzDAHBERj640v4h7Q9GTPbIU/pok_tv_s1808_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3294489686
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/kf5mfKAb0ggiqo-zWuzDAHBERj640v4h7Q9GTPbIU/pok_tv_s1808_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "bba2239203ff4dfca1807f955898604b",
@@ -165,16 +138,13 @@
             "title": "¡Derritiendo un pánico helador!",
             "description": "Nuestros héroes llegan a Ciudad Témpera y, enseguida, deben enfrentarse a una crisis con consecuencias heladoras.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/u6IjkgP_TfwoYB_lViYYEs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y0/OwI0HZbTZ6q8fiBw2cthH21ddsAC3FRxI7QR9mYEE/pok_tv_s1809_2997-master-cas-sdt-v2-h264-906a7cd7bd505994e12b12353b158e100d18429d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y0/OwI0HZbTZ6q8fiBw2cthH21ddsAC3FRxI7QR9mYEE/pok_tv_s1809_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OD/hRry7sGkiesCsdm70htizuKul8mcFDKiYs5E6YxFA/pok_tv_s1809_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3293479964
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OD/hRry7sGkiesCsdm70htizuKul8mcFDKiYs5E6YxFA/pok_tv_s1809_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "35f81d35cf144d23a63795da9e0f51f7",
@@ -183,16 +153,13 @@
             "title": "¡Los Pokémon de tipo Planta más verdes del hogar!",
             "description": "Ha llegado el momento del Combate de Gimnasio de Ash en Ciudad Témpera y, con ello, la oportunidad de aprender y madurar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NfgdNc8UTSMpjeV2p4PUfc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/Em_3xp2rE8p2ONU0glzyX6G8obaAWD2BS5zSdVFOw/pok_tv_s1810_2997-master-cas-sdt-v2-h264-56a3dc466fed8d553b6491b46a2b74c88ce02f03.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/Em_3xp2rE8p2ONU0glzyX6G8obaAWD2BS5zSdVFOw/pok_tv_s1810_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rf/VNIrU7sUoj-5P6RBQROrpNNoTtvGDHb199lRojPLQ/pok_tv_s1810_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3306481021
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rf/VNIrU7sUoj-5P6RBQROrpNNoTtvGDHb199lRojPLQ/pok_tv_s1810_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "ad14df335f204facac43a79cfb83d776",
@@ -201,16 +168,13 @@
             "title": "¡Bajo el Árbol de la Promesa!",
             "description": "Una tradición de Ciudad Témpera está en peligro, y nuestros héroes deben evitar una crisis importante.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rRTfM18gT6wrEOnnPuD13Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hr/-g-qU0gLSJ0Vv7oYMPjEbyAyENwbhqKE0xmW3EKFU/pok_tv_s1811_2997-master-cas-sdt-v2-h264-47948d0890ada5d3098a4c41d66d67d87e364802.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hr/-g-qU0gLSJ0Vv7oYMPjEbyAyENwbhqKE0xmW3EKFU/pok_tv_s1811_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xa/fNefZcrJ_jCc0qgxsKJA1Jw7dHxMa0RCBkp9T8SeE/pok_tv_s1811_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3309026745
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xa/fNefZcrJ_jCc0qgxsKJA1Jw7dHxMa0RCBkp9T8SeE/pok_tv_s1811_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "1e14a1fec413481c9ce04cd0570b9e6a",
@@ -219,16 +183,13 @@
             "title": "¡Debut en el Gran Espectáculo!",
             "description": "Es el debut de Serena en el Gran Espectáculo Pokémon, rodeada de amigos y rivales, antiguos y nuevos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HhSh_sQTSBwnOBM0FcLnmo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wg/2AA4GYAATgYCKgW9QyDamg7dfPyqrFPRTRy34U19I/pok_tv_s1812_2997-master-cas-sdt-v2-h264-cf7c17e1a61cab3ee0808650ab2b79c0fd906e8b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wg/2AA4GYAATgYCKgW9QyDamg7dfPyqrFPRTRy34U19I/pok_tv_s1812_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/aEE6KNDZX2S_xaeTlrCLF_8POPBkkBkqjamj2OvDo/pok_tv_s1812_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3319907280
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/aEE6KNDZX2S_xaeTlrCLF_8POPBkkBkqjamj2OvDo/pok_tv_s1812_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "3d379441c04e462e87a3b4a571730190",
@@ -237,16 +198,13 @@
             "title": "¡Un oasis de esperanza!",
             "description": "Hay un abusón en el Páramo de Luminalia, y muchos Pokémon indefensos dependen de nuestros héroes para recuperar su libertad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep13_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep13_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/PTeUQcBORi4h6O0pXFzAZA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PR/pi0TYKroxki-dCYaiX90uUO9tt1OovLsArSoPeK3Q/pok_tv_s1813_2997-master-cas-sdt-v2-h264-9dd06f3bd3dbf37b0a76aa0672c1fd6e25ab3b27.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PR/pi0TYKroxki-dCYaiX90uUO9tt1OovLsArSoPeK3Q/pok_tv_s1813_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/rju9xSQ8Y06VIui4d-OmkMUHBLsSTDwEcjlGIaMi0/pok_tv_s1813_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3303249658
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/rju9xSQ8Y06VIui4d-OmkMUHBLsSTDwEcjlGIaMi0/pok_tv_s1813_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "2e06cb8151f04780ae184047e3b2326d",
@@ -255,16 +213,13 @@
             "title": "¡La determinación alumbra nuestro camino hacia el futuro!",
             "description": "La Central de Kalos ha sido tomada, y la seguridad de Ciudad Luminalia y la de muchos Pokémon está en peligro.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep14_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep14_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LgbLgVHwR4ArhhAR-OyMm0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mO/itONVMe7dixd1bKIQ12axzqLgFZHv0GOJboT6kN4M/pok_tv_s1814_2997-master-cas-sdt-v2-h264-dec45232005eaf489e23f79418ad4c8865dd725b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mO/itONVMe7dixd1bKIQ12axzqLgFZHv0GOJboT6kN4M/pok_tv_s1814_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q0/ogMj3PKpl1vzb-ZS-7NbXgFU3J2VzEUxgotG_eCu4/pok_tv_s1814_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3306835886
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q0/ogMj3PKpl1vzb-ZS-7NbXgFU3J2VzEUxgotG_eCu4/pok_tv_s1814_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "9b3920de97894f19ad0bdcdd0b65d5c8",
@@ -273,16 +228,13 @@
             "title": "¡Una encrucijada! ¡La separación!",
             "description": "Sentimientos salidos directos del corazón amenazan el futuro de una muy antigua asociación.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mzkg3peJTxkrQvc3Qtl1cg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qw/FXgNW8cZ_kLaos6fyTfo9yVFtoUIdSM1d6GPtvAiA/pok_tv_s1815_2997-master-cas-sdt-v2-h264-fa6edfbe98381316628566b23b31492f75252170.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qw/FXgNW8cZ_kLaos6fyTfo9yVFtoUIdSM1d6GPtvAiA/pok_tv_s1815_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_o/DoI0COIsPbu8BDbYmXSuS-PhfohhE0ZZK6kqnvxVc/pok_tv_s1815_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3248718432
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_o/DoI0COIsPbu8BDbYmXSuS-PhfohhE0ZZK6kqnvxVc/pok_tv_s1815_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "169a5cbf0d904047a296520cc9c64049",
@@ -291,16 +243,13 @@
             "title": "¡Combatiendo con elegancia y una gran sonrisa!",
             "description": "Un encuentro casual con una misteriosa Estrella Pokémon proporciona a Serena y a sus Pokémon consejos y apoyo de incalculable valor.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Fppcvw2QQEcopZSDMnGQEk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6M/dLRZOO68_FKvky0julmBM_Gh4pVOdzHZsh8Y7RP7A/pok_tv_s1816_2997-master-cas-sdt-v2-h264-6b5d08fa0897ef6c4ab2d37a68450518606b6c45.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6M/dLRZOO68_FKvky0julmBM_Gh4pVOdzHZsh8Y7RP7A/pok_tv_s1816_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9c/qjFzJQOsRxasYc0ukHUsRhTlTj6xogGQwaG_A2k6k/pok_tv_s1816_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3251097049
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9c/qjFzJQOsRxasYc0ukHUsRhTlTj6xogGQwaG_A2k6k/pok_tv_s1816_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "855b7b196d17494385d3d97308ca0fae",
@@ -309,16 +258,13 @@
             "title": "¡Un gran entrenamiento entre buenos amigos!",
             "description": "Un reencuentro sorpresa con un viejo amigo le da a Ash la oportunidad perfecta para hacer un entrenamiento especial, e incluso recibir más sorpresas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hVt7GW0XSUMhdPZcwjKD64/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P4/Wpmw5e1Bo0VtIJKsy3P3r2ayAAeOfzjD0FFpewvf4/pok_tv_s1817_2997-master-cas-sdt-v2-h264-a0e9a9693eb6cc5e0e1cc2a738a11c592a320516.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P4/Wpmw5e1Bo0VtIJKsy3P3r2ayAAeOfzjD0FFpewvf4/pok_tv_s1817_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zu/PpZa9xR52YKJ1AsHw8XdqvNJURdrGJKCTjBmVnSaw/pok_tv_s1817_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3298217951
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zu/PpZa9xR52YKJ1AsHw8XdqvNJURdrGJKCTjBmVnSaw/pok_tv_s1817_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "22ca63c1fdcf4a6da1ea2b2fcbad8bbc",
@@ -327,16 +273,13 @@
             "title": "¡Enfrentándose a la oscuridad!",
             "description": "Ash por fin está en Ciudad Luminalia para librar el Combate de Gimnasio contra Lem, pero un incidente importante amenaza con desviar el curso de la acción.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ispjwf3PSm0oeorL8uti7w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z9/BKCPLIJBAiu4MOnQIyiQZjvvqPSFdZGwS4LdODPcA/pok_tv_s1818_2997-master-cas-sdt-v2-h264-c604d8c150284a7640bd842bf4b1555f96801064.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2E/hHNj7vwXDIxhQ3Ak3vqUDtS1rtsJA4BxVso1VyohY/pok_tv_s1818_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7V/ifqSBzuEWUoHFzJrmmeNxLSeUDoGKCzZa2sExS5ps/pok_tv_s1818_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3289081955
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7V/ifqSBzuEWUoHFzJrmmeNxLSeUDoGKCzZa2sExS5ps/pok_tv_s1818_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "13693ee2dda24d81bdb32ba6c06f34e6",
@@ -345,16 +288,13 @@
             "title": "¡El momento de la verdad en Luminalia!",
             "description": "El largamente esperado Combate de Gimnasio entre Ash y el Líder de Gimnasio Lem está en marcha, y vamos a poder ver el resultado de todo el intenso entrenamiento.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep19_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep19_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/E2k-4t2iTYEvbMrpsBvNOY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oV/o1-XMexMb-3UcFlSbz2BP1UN_lIum1je3ETdS4t94/pok_tv_s1819_2997-master-cas-sdt-v2-h264-0e109056653f9d6ae132c914a61529ab761f1608.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oV/o1-XMexMb-3UcFlSbz2BP1UN_lIum1je3ETdS4t94/pok_tv_s1819_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/bXsAMVi7aehmbNyWb5XoG0oWr0vyw0H_AjNTmjaKQ/pok_tv_s1819_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3255583879
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/bXsAMVi7aehmbNyWb5XoG0oWr0vyw0H_AjNTmjaKQ/pok_tv_s1819_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "4d8fb4b3b6764156999e8bb0a76bd359",
@@ -363,16 +303,13 @@
             "title": "¡El megavínculo de Garchomp!",
             "description": "Antes de irse de Ciudad Luminalia, nuestros héroes deciden visitar al Profesor Ciprés, con el que van a vivir una megasorpresa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep20_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep20_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TY-0s7Z2QVYmZ6LsKdr01k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tu/hj6iQ9ntpuLhATCc-B7rj0yK1xwA7DuRwsjRTCfCw/pok_tv_s1820_2997-master-cas-sdt-v2-h264-e8cdd25d1f42a42035e8eaa87f102f5873e5ea11.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tu/hj6iQ9ntpuLhATCc-B7rj0yK1xwA7DuRwsjRTCfCw/pok_tv_s1820_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/gzxyOrpr6Z4cjASeMG-ZrNTjFkCrQej_4dCzJpHno/pok_tv_s1820_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3296763872
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/gzxyOrpr6Z4cjASeMG-ZrNTjFkCrQej_4dCzJpHno/pok_tv_s1820_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "193c3e1cbb4e4a5486d76ca172db821f",
@@ -381,16 +318,13 @@
             "title": "¡Defendiendo la tierra natal!",
             "description": "Cuando el Goodra de Ash se reencuentra con viejos amigos, nuestros héroes deciden visitar un lugar para saber sobre su pasado misterioso.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GTw-HLtOSlQhtdsoXLbgh8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rA/jaMQfKsRRJCA3Eas38dTMw6K-ULZ8EppxVUEsO0L0/pok_tv_s1821_2997-master-cas-sdt-v2-h264-e7d2941d6742320248db7ca070bf93486b285f6d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rA/jaMQfKsRRJCA3Eas38dTMw6K-ULZ8EppxVUEsO0L0/pok_tv_s1821_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uB/yRX9snq6xCCELb4Pr4RPCyOVILVTE8mpxrYE-nFKI/pok_tv_s1821_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3297995842
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uB/yRX9snq6xCCELb4Pr4RPCyOVILVTE8mpxrYE-nFKI/pok_tv_s1821_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "d27ebd7d1a6948dc9d9c3820ef7afa4e",
@@ -399,16 +333,13 @@
             "title": "¡Más allá del arcoíris!",
             "description": "Las adoradas ciénagas de Goodra corren un peligro inminente, y nuestros héroes se enfrentan a un problema que deben resolver por el bien de los muchos Pokémon que allí habitan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep22_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep22_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0n69fRppSNwnZw4IO96-k4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BN/0j-QX0v9zC0rSJgTs_V2OJJljRubW3-6wZOMF9vm4/pok_tv_s1822_2997-master-cas-sdt-v2-h264-f360817f748db510fbccc19b80118324b0004cb8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BN/0j-QX0v9zC0rSJgTs_V2OJJljRubW3-6wZOMF9vm4/pok_tv_s1822_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E_/s3Qwl1GvXuv64w5co3JXzyzQoOq91Jl9OFxnfZ2Ws/pok_tv_s1822_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3305098207
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E_/s3Qwl1GvXuv64w5co3JXzyzQoOq91Jl9OFxnfZ2Ws/pok_tv_s1822_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "b8e7819a50d844009b0421d25e744e13",
@@ -417,16 +348,13 @@
             "title": "¡Así que tienes un mal día!",
             "description": "El horóscopo del día de la guía de Serena predice un mal día para nuestros héroes. Y esa predicción resulta ser cierta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uOeBmlDYRAAmwQh0l50ThM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jS/DDwhbOdOjDA12GMQWZiggpuaoFv1HbQSwLsifo0q0/pok_tv_s1823_2997-master-cas-sdt-v2-h264-d69df9a11ab63e9afa54b55ad6dc47c9d0c47a02.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jS/DDwhbOdOjDA12GMQWZiggpuaoFv1HbQSwLsifo0q0/pok_tv_s1823_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iM/78nv0vAiUs79n7pGnZMoJG1Y4wsTZ-S9so36IIJJI/pok_tv_s1823_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3303814531
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iM/78nv0vAiUs79n7pGnZMoJG1Y4wsTZ-S9so36IIJJI/pok_tv_s1823_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "8c96a7edfd4c4cab96fe6f706ffcd82f",
@@ -435,16 +363,13 @@
             "title": "¡Hospitalidad tétrica!",
             "description": "Una noche lluviosa y una vieja mansión se combinan para ofrecer a nuestros héroes una noche para recordar... o no.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep24_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep24_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jJan7f1MTKslv5vcG_82C8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Po/X1cbWtLciBvg622yjXMHNjiagHsPVdInrCb3DIymI/pok_tv_s1824_2997-master-cas-sdt-v2-h264-a344708e96142c04553bba8831a4315b8383834d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Po/X1cbWtLciBvg622yjXMHNjiagHsPVdInrCb3DIymI/pok_tv_s1824_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cb/Tba96ZF4nlEc5V3hcNBsssWA4JnHsuiey19Gw56OE/pok_tv_s1824_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3326693862
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cb/Tba96ZF4nlEc5V3hcNBsssWA4JnHsuiey19Gw56OE/pok_tv_s1824_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "48b190b653be4f3fa8bc554a424c7646",
@@ -453,16 +378,13 @@
             "title": "¡Un combate muy glamuroso!",
             "description": "Nuestros héroes han llegado a Ciudad Romantis, y la Líder de Gimnasio les tiene reservado un guardarropa lleno de sorpresas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep25_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep25_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SLGQtlO-Tz8qLxVSkJMdkY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2e/dp633Rx1w4l7bGwadvxC8W2HQruGml39T9rcs-2ew/pok_tv_s1825_2997-master-cas-sdt-v2-h264-781aea071e556c9a195ac57c34572c25d701e030.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2e/dp633Rx1w4l7bGwadvxC8W2HQruGml39T9rcs-2ew/pok_tv_s1825_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k_/oWbOfhtj4bAnevNCz4H_3FMJ-gQuJMu6lSCL-smU0/pok_tv_s1825_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3300083576
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k_/oWbOfhtj4bAnevNCz4H_3FMJ-gQuJMu6lSCL-smU0/pok_tv_s1825_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "bec9db92b338490b9a6e082bcd52d6c2",
@@ -471,16 +393,13 @@
             "title": "¡Estratagema de tipo Hada!",
             "description": "Ha llegado la hora del combate de Ash contra Valeria en el Gimnasio Romantis y, al parecer, pensar muy deprisa podría ser la clave de la victoria de nuestro héroe.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep26_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep26_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vsnbkrM4SQsmm4IK81S1sI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b-/oTsCJtnjT__hlmXouzhBSGeIpCBqgFZBhhHm4YDJY/pok_tv_s1826_2997-master-cas-sdt-v2-h264-f7a20105cdba6a3edf8a91d2eec6b48c5946ce02.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b-/oTsCJtnjT__hlmXouzhBSGeIpCBqgFZBhhHm4YDJY/pok_tv_s1826_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KO/TvcPbsVzNuw3U9ulo34ZJcmYFp3wKiNqHKrj7B8AY/pok_tv_s1826_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3295498592
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KO/TvcPbsVzNuw3U9ulo34ZJcmYFp3wKiNqHKrj7B8AY/pok_tv_s1826_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "834436913fba489e8084ccfafdde13d2",
@@ -489,16 +408,13 @@
             "title": "¡Rivales: hoy y mañana!",
             "description": "Tras el duro combate de Ash contra Valeria en el Gimnasio Romantis, el joven Sabino se hace un montón de preguntas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep27_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep27_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/g0Q2kT-6SJ4gITM-v3eE9I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4t/5hHjE1XjF8BYLxdW-q4YyhE9EPPZvB34W08gQHEzQ/pok_tv_s1827_2997-master-cas-sdt-v2-h264-46cb84ba3c1f56d0787d46a46859fb8ab7d06807.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4t/5hHjE1XjF8BYLxdW-q4YyhE9EPPZvB34W08gQHEzQ/pok_tv_s1827_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cU/L_lZKzNPFkt1eNs4JvCFmyHA8GBE4srpES9A3csJs/pok_tv_s1827_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3290406587
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cU/L_lZKzNPFkt1eNs4JvCFmyHA8GBE4srpES9A3csJs/pok_tv_s1827_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "5dc6f044f62c47bbac411abf7c7442ac",
@@ -507,16 +423,13 @@
             "title": "¡Un comienzo no muy volador!",
             "description": "Un descubrimiento inesperado, en su camino hacia Ciudad Fluxus, da a nuestros héroes una estimulante oportunidad de enseñar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep28_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep28_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XcbwRPYsR7srEEav3x0Qqw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eH/PhgjlIBDc8kxMQJQxv4aqJtBC3YIkQvqUmuKWV0r0/pok_tv_s1828_2997-master-cas-sdt-v2-h264-5a9a578025002b9b9ffc427afe67747ab11cb68a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eH/PhgjlIBDc8kxMQJQxv4aqJtBC3YIkQvqUmuKWV0r0/pok_tv_s1828_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mt/-bl5XeRtPAaiklR82HUbeX3bv-DHincXGw41UQ1FI/pok_tv_s1828_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3308126424
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mt/-bl5XeRtPAaiklR82HUbeX3bv-DHincXGw41UQ1FI/pok_tv_s1828_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "632aefd0e0fc4a83a2d25c2abc68202f",
@@ -525,16 +438,13 @@
             "title": "¡Carrera Aérea de Relevos en El Cielo!",
             "description": "Una carrera inesperada proporciona a nuestros héroes la oportunidad de que su miembro más joven alce el vuelo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep29_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep29_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Yyrv0OD8SoMotJcKrxoIC8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aQ/qaPvtmCEgxZbpB4ZosBfu7_m7BuvaXfmMQWsYCypI/pok_tv_s1829_2997-master-cas-sdt-v2-h264-9d6097f1ed778743f6809889552896d328ccaa13.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aQ/qaPvtmCEgxZbpB4ZosBfu7_m7BuvaXfmMQWsYCypI/pok_tv_s1829_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fh/nXN4wyrZiCH4eq_POvinizw2LCL_42OM4FhA_N5Ls/pok_tv_s1829_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3289784509
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fh/nXN4wyrZiCH4eq_POvinizw2LCL_42OM4FhA_N5Ls/pok_tv_s1829_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "4dd82f227a994afab6ad9192fde0e2f8",
@@ -543,16 +453,13 @@
             "title": "¡Un Fiasco frenético en la fábrica!",
             "description": "Una visita a la Fábrica de Poké Balls les proporciona a nuestros héroes muchas más cosas que una simple Poké Ball.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TdgvInqZSvotq2Rkv3g4vg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/vAftnFmdS2obusQI8gLvE2OMwfVY8KUcOOUYsWIp8/pok_tv_s1830_2997-master-cas-sdt-v2-h264-be95f2eae4ee49ea6cff3ef30b9b9af661c7099b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/vAftnFmdS2obusQI8gLvE2OMwfVY8KUcOOUYsWIp8/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/t6pqck2U5G5NCd7g8wX74PWTT0LDbmp9w380oEm18/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3307913287
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/t6pqck2U5G5NCd7g8wX74PWTT0LDbmp9w380oEm18/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "2bbc9d1549da46578841ce6f5c186f0d",
@@ -561,16 +468,13 @@
             "title": "¡Una actuación con ardiente encanto!",
             "description": "La siguiente aparición de Serena en un Gran Espectáculo Pokémon va a tener lugar en Pueblo Fresco, doónde se enfrentará a una dura competencia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep31_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep31_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/K7ydFUnaRlciEHOb1wYbw0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IX/NRZ0N3ThJGw0VmgUC1vad6tGV3kDXpPtxmfOFS7U4/pok_tv_s1831_2997-master-cas-sdt-v2-h264-510f3e71ddeac389f87281229134a0b70b4d0714.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IX/NRZ0N3ThJGw0VmgUC1vad6tGV3kDXpPtxmfOFS7U4/pok_tv_s1831_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3b/s9sbzo2UdGc-UXQ-5B5cA6ZY0dFT-1fBO7tbhQOAM/pok_tv_s1831_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3301932993
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3b/s9sbzo2UdGc-UXQ-5B5cA6ZY0dFT-1fBO7tbhQOAM/pok_tv_s1831_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "439639c499a24f279dfb51996c12622f",
@@ -579,16 +483,13 @@
             "title": "¡El deseo de Rotom!",
             "description": "Una visita a un hotel muy peculiar, da a nuestros héroes la oportunidad de enmendar una mala acción de mucho tiempo atrás.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep32_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep32_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Q5Y5xJmiTycnftRmWwSYi8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yf/ubLIoHx6k0gw-0vUXzdUf8e_fyB5cvNWg7LrmWvnk/pok_tv_s1832_2997-master-cas-sdt-v2-h264-91e41e74562483a27933d6ec284c54838a6bde93.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yf/ubLIoHx6k0gw-0vUXzdUf8e_fyB5cvNWg7LrmWvnk/pok_tv_s1832_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ME/-oBWVT_rC3L4Ks8I3N2CNYAE1FdaNZ628XaWMBJ_0/pok_tv_s1832_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3272337386
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ME/-oBWVT_rC3L4Ks8I3N2CNYAE1FdaNZ628XaWMBJ_0/pok_tv_s1832_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "727ddc68aa244fd1a17e283e25e70d8f",
@@ -597,16 +498,13 @@
             "title": "¡El Festival del intercambio! ¿Adiós al Festival?",
             "description": "Durante la celebración de una fiesta popular, nuestros héroes son víctimas de diversos engaños de identidad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cn3caKokT9EoX4oPiXnDY8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mi/z5aq6XyqWnQLPdttR3_8Ex1zXk2yVIAYvmQ-vyUAI/pok_tv_s1833_2997-master-cas-sdt-v2-h264-1ab6342183b4a09b6cdebe73ad8006d8db8b54e0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mi/z5aq6XyqWnQLPdttR3_8Ex1zXk2yVIAYvmQ-vyUAI/pok_tv_s1833_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HH/c9UxCbb1Q-3Wk2pjhnaE_NbFi9q8iilihkXtvPTKY/pok_tv_s1833_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3297691061
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HH/c9UxCbb1Q-3Wk2pjhnaE_NbFi9q8iilihkXtvPTKY/pok_tv_s1833_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "b8560a954bd54d0e95a98743060ca597",
@@ -615,16 +513,13 @@
             "title": "¡Travesía por la montaña nevada!",
             "description": "La travesía de una montaña nevada da a nuestros héroes la oportunidad de ayudar a unos Pokémon que lo necesitan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep34_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep34_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uFYKlUvVTQ4lamHQwYMpZc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hp/aQM0dw4vsSjMYqC2BCoVOSzxK76P-BEukSNidicz4/pok_tv_s1834_2997-master-cas-sdt-v2-h264-398543a871de83b1d8f2a139accfb086901c0484.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hp/aQM0dw4vsSjMYqC2BCoVOSzxK76P-BEukSNidicz4/pok_tv_s1834_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wh/iV9HlvlkOyI_dg6XO4IxjaMbOG7O7d40zq-3xccMA/pok_tv_s1834_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3294922106
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wh/iV9HlvlkOyI_dg6XO4IxjaMbOG7O7d40zq-3xccMA/pok_tv_s1834_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "ac9ac93adc9a4e6785a724817f758116",
@@ -633,16 +528,13 @@
             "title": "¡Viviendo aventuras haciendo recados!",
             "description": "Nuestros héroes y sus Pokémon se lanzan al rescate cuando se va la luz en un Centro Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rJrJOtyaTmchackgX91gRY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uT/0O_IoPmJ3U-rlvyBoE_DuBU9C4mnMBdPG_0T8KC4M/pok_tv_s1835_2997-master-cas-sdt-v2-h264-d19fe09ce71025c48e9799ed810b6688ea4ddac5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uT/0O_IoPmJ3U-rlvyBoE_DuBU9C4mnMBdPG_0T8KC4M/pok_tv_s1835_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2X/qViOB38qs6vLNHUihtXvYnsEp7TOZUblLiwGQUN4E/pok_tv_s1835_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3283551907
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2X/qViOB38qs6vLNHUihtXvYnsEp7TOZUblLiwGQUN4E/pok_tv_s1835_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "fb075ffc1f75427f83384901607f4fa4",
@@ -651,16 +543,13 @@
             "title": "¡Sanando un espíritu quebrado!",
             "description": "Una crisis de confianza da lugar a una fuerza y determinación renovadas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep36_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep36_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-wdf_B91Qn8gzhJAWB_T6Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ja/7qg_VP30Z4Sj0I1f85MaRY0TER1zwG4i6_yyaQriM/pok_tv_s1836_2997-master-cas-sdt-v2-h264-c76f5edf0b7465b380e680179924ec6521b12f63.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ja/7qg_VP30Z4Sj0I1f85MaRY0TER1zwG4i6_yyaQriM/pok_tv_s1836_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oE/ERkrZ2HJO6IiTzPOWuzk91konPhEkwp6Zb-rDf9wQ/pok_tv_s1836_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3290485277
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oE/ERkrZ2HJO6IiTzPOWuzk91konPhEkwp6Zb-rDf9wQ/pok_tv_s1836_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "7238cf8a30ef46c3a5267774e3e71723",
@@ -669,16 +558,13 @@
             "title": "¡Una sesión de fotos legendaria!",
             "description": "Un reencuentro casual con un viejo amigo aporta a nuestros héroes una experiencia de proporciones legendarias.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cjjPijDvRsMpSZ3dOPnFyM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6x/uLh9_Yt4W07KjPPf8RRpe6sNG2FU08Rq-ud35IxEw/pok_tv_s1837_2997-master-cas-sdt-v2-h264-631066115b2e424e6fb91830378bf7d683781250.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6x/uLh9_Yt4W07KjPPf8RRpe6sNG2FU08Rq-ud35IxEw/pok_tv_s1837_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/04/XOhol7TSwbeec1LzgjTwvyZIU9r5nWweNj258dPLs/pok_tv_s1837_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3239673413
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/04/XOhol7TSwbeec1LzgjTwvyZIU9r5nWweNj258dPLs/pok_tv_s1837_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "c287a483f78246dbbbad09be059bcee8",
@@ -687,16 +573,13 @@
             "title": "¡La cuidadora pequeñina!",
             "description": "Un Pokémon necesitado proporciona una lección sincera de cómo se lo debe cuidar y cómo dejarlo marchar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/woekg_eCRtsu60JvgWbzug/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sC/WAp48NphcOlz0WUgKdrDDnAZ73HAT9HOCEoO1krTw/pok_tv_s1838_2997-master-cas-sdt-v2-h264-0d9de885fa234d543caafd1f142686551076b61d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sC/WAp48NphcOlz0WUgKdrDDnAZ73HAT9HOCEoO1krTw/pok_tv_s1838_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G2/Em_ey2Q2b6Fnt5j1rjSgDK7tWUN8o4Id7Itd1f35A/pok_tv_s1838_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3307570795
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G2/Em_ey2Q2b6Fnt5j1rjSgDK7tWUN8o4Id7Itd1f35A/pok_tv_s1838_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "63447530823a4552a83a6e088902c49d",
@@ -705,16 +588,13 @@
             "title": "¡Un viaje subterráneo en el tren de los recuerdos!",
             "description": "Una situación de emergencia ofrece la oportunidad perfecta para recordar una agradable historia del pasado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep39_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep39_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Y0R1MII6RVIqDpuCIkCxJ0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0-/Enxgp3PVfP_xUZ2xD7Ojn-S2GKqgM0aR2dKQg7U7A/pok_tv_s1839_2997-master-cas-sdt-v2-h264-8a7d624d5eb0a1e32b93914ceba5fc41ce390989.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0-/Enxgp3PVfP_xUZ2xD7Ojn-S2GKqgM0aR2dKQg7U7A/pok_tv_s1839_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qn/ylUuWSkXw0tQkIBPHd7V6mvyaTKLrIvmyDdSkuZ1g/pok_tv_s1839_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3316211968
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qn/ylUuWSkXw0tQkIBPHd7V6mvyaTKLrIvmyDdSkuZ1g/pok_tv_s1839_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "04fd62c054da45babaf19f556336d3c9",
@@ -723,16 +603,13 @@
             "title": "¡Un hallazgo bailarín entre las flores!",
             "description": "Un precioso prado proporciona a nuestros héroes el lugar perfecto para hacer tomarse un descanso y presenciar una sorprendente actuación.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep40_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep40_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BP1iwFTaRbouvGfVWM208k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qs/sKAnjfwmYY0zyEd9urqA8bm4lsQHk_5fBM59QKAw4/pok_tv_s1840_2997-master-cas-sdt-v2-h264-4f04f3100713c7ca66c20fc294e8fbbc64eb7dec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qs/sKAnjfwmYY0zyEd9urqA8bm4lsQHk_5fBM59QKAw4/pok_tv_s1840_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vz/UstBP4hInbuJH94COaBAwFNeXe4JqzpU6rFM7q6zE/pok_tv_s1840_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3258193335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vz/UstBP4hInbuJH94COaBAwFNeXe4JqzpU6rFM7q6zE/pok_tv_s1840_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "26177e9b815149e4b6adc6d85bbde76d",
@@ -741,16 +618,13 @@
             "title": "¡Luces! ¡Cámara! ¡Pika!",
             "description": "Se va a filmar una obra maestra, y nuestros héroes están deseando participar en ella.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep41_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep41_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Jhd-m4FRSeQtq3G2Fu9520/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/WKnrXO41ObLKek6wjZ7K8I3ahIyi8aGlbSaoJG2lg/pok_tv_s1841_2997-master-cas-0d50aefff61b7f13938d496a04986324b3584b51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/WKnrXO41ObLKek6wjZ7K8I3ahIyi8aGlbSaoJG2lg/pok_tv_s1841_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I_/uAZH-LOOdIjSSjAQpvA4oXXLnuwwEAqi5vWusVPoU/pok_tv_s1841_2997-master-cas.mp4",
             "captions": "",
-            "size": 2707661790
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I_/uAZH-LOOdIjSSjAQpvA4oXXLnuwwEAqi5vWusVPoU/pok_tv_s1841_2997-master-cas.mp4"
         },
         {
             "id": "c37459f3d54c4afdb834198853cbf558",
@@ -759,16 +633,13 @@
             "title": "¡Inspirándose con los equipos de Dobles!",
             "description": "Una amistosa Batalla de Dobles proporciona a Eevee y a Serena una gran confianza e inspiración.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/w3RZ89VMSv0uDQZiFPL9Vg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u-/DgWsWrxjVDXFHfNvsdX3R6rqGOBmSE5xEP8faty2w/pok_tv_s1842_2997-master-cas-sdt-v2-h264-0e9d5b673c9295c95c910c87c7a3253aeb2747bf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u-/DgWsWrxjVDXFHfNvsdX3R6rqGOBmSE5xEP8faty2w/pok_tv_s1842_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KB/zOilWbIjQc_GLThrRHSNc97kAwsgLsniedIfM4h5k/pok_tv_s1842_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3294174631
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KB/zOilWbIjQc_GLThrRHSNc97kAwsgLsniedIfM4h5k/pok_tv_s1842_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "853bba7029484e8b8c371c1a1fd17039",
@@ -777,16 +648,13 @@
             "title": "¡Un performance tipo prueba!",
             "description": "Ha llegado la hora del Gran Espectáculo Pokémon de Ciudad Fluxus y una segunda Llave Princesa pende de un hilo para Serena.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep43_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep43_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hTu6cClITosjDccGh_RcDk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_7/1_AqO_KKDCQIUanPY8EfGlONc4Pm7Ik5NPkFUgUiE/pok_tv_s1843_2997-master-cas-sdt-v2-h264-b1506b52f719f9c374f1f682f5c978facb20e0e2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cY/72qkCHVcJ8zCt46yXWpjdwvqekCJhBgWkbXVqiM0E/pok_tv_s1843_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t8/78EPCpz9OuVOuiTcYGBKSDMi7OfBfn3rdKhi69Oeo/pok_tv_s1843_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3305203802
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t8/78EPCpz9OuVOuiTcYGBKSDMi7OfBfn3rdKhi69Oeo/pok_tv_s1843_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "3a3d10ae22d0446c8609cf6ae7d8a90d",
@@ -795,16 +663,13 @@
             "title": "¡Destino nublado, futuro brillante!",
             "description": "Mientras nuestros héroes van de camino al siguiente combate de Ash en el Gimnasio de Ciudad Fluxus, descubren cosas sobre su Líder de Gimnasio que jamás habrían imaginado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep44_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep44_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Oj0QriLQRGwhgnPaufYqQ0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CG/i8Zqjgbsat58QwdgmcjHNdq3fDwzBhvRRwvf8NHpg/pok_tv_s1844_2997-master-cas-sdt-v2-h264-7e7465b7fe81785c40a10f3a46030ca553eb5644.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hT/faV_-L_63NxlOyKvXfi-0KfU3UqRxVhbZPJXlJbEs/pok_tv_s1844_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/My/K432EGf5uaULH-A1Upa-WcBZtlK_NXXBouZVumlww/pok_tv_s1844_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3307814815
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/My/K432EGf5uaULH-A1Upa-WcBZtlK_NXXBouZVumlww/pok_tv_s1844_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "00f8672580cc46f4a9691da19d0f7cef",
@@ -813,16 +678,13 @@
             "title": "¡Mirando hacia el futuro!",
             "description": "Ha llegado el momento de que Ash libre el Combate de Gimnasio de Ciudad Fluxus, pero, en este caso, el tiempo tiene ciertos significados inesperados.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep45_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep45_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/APhnJYDMRvQqWkdoZ0PfO8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fE/VsOVByNwsjzmarPacQ_N6-X8FC4ussCqNDHInL5sk/pok_tv_s1845_2997-master-cas-sdt-v2-h264-a14787b407edd0d10d3b42be416a49dba0ffa3c7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fE/VsOVByNwsjzmarPacQ_N6-X8FC4ussCqNDHInL5sk/pok_tv_s1845_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/Pxbocp3DsouLLMaZ3-cr-GMcRC9oHPd_H6gF43GbI/pok_tv_s1845_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3267989568
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/Pxbocp3DsouLLMaZ3-cr-GMcRC9oHPd_H6gF43GbI/pok_tv_s1845_2997-master-cas-sdt-v2-h264.mp4"
         }
     ]
 }

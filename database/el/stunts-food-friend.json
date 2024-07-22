@@ -1,18 +1,15 @@
 {
-    "channel_id": "comida-amigos",
+    "channel_id": "food-friend",
     "channel_name": "¿Comida? ¡Amigos!",
     "channel_description": "Prepárate un aperitivo y disfruta de los Pokémon con forma de comida en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 4,
-    "channel_creation_date": 1657294207,
-    "channel_update_date": 1657892217,
+    "order": -1657294207,
     "media": [
         {
             "id": "2cf47ab2ba1d4679993840500c2a341d",
@@ -21,16 +18,13 @@
             "title": "¡La marcha del escuadrón Exeggutor!",
             "description": "Ash entrena rigurosamente incluso en las vacaciones de primavera, ¡hasta que nuestros héroes descubren que hay un carnaval rodante cercano! ¡Ash, Misty y Brock pronto se unen a la diversión de la feria!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LPR6srodRnkmThAUAwqNB0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IZ/H51P_vM4GPp0_V8m13syIJMz4EL_0IntsDCvytFx0/pok_tv_s0140_2398-master-las-ca33fa2c411cb7f7880ed3735f56ce305bd1be43.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IZ/H51P_vM4GPp0_V8m13syIJMz4EL_0IntsDCvytFx0/pok_tv_s0140_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z3/2EOjC2_Ynt8ep_FEsgsfAeQPw5czY6i75727wRR6Q/pok_tv_s0140_2398-master-las.mp4",
             "captions": "",
-            "size": 2805607197
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z3/2EOjC2_Ynt8ep_FEsgsfAeQPw5czY6i75727wRR6Q/pok_tv_s0140_2398-master-las.mp4"
         },
         {
             "id": "7ef5920560814b0eb51c946b87f56caf",
@@ -39,16 +33,13 @@
             "title": "¡El problema con Paras!",
             "description": "Aún en persecución de nuestros héroes, el Equipo Rocket está listo para otro intento de atrapar a Pikachu, ¡hasta que el desastre se presenta! Pronto se vuelve evidente que Meowth está enfermándose.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fvWSBWCBSw4tRyUa4f1bK8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B2/1jE3q4a6dx6TBYAP82zlZgydbPOIns1i7i7mdYKQQ/pok_tv_s0141_2398-master-las-d0e80d95933ae6a7ae8f91a69edcea8e3734d55a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B2/1jE3q4a6dx6TBYAP82zlZgydbPOIns1i7i7mdYKQQ/pok_tv_s0141_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N-/mzNZsM4Jw5e7q5pEXvQw3P4YAx_qybnji_B5fGoos/pok_tv_s0141_2398-master-las.mp4",
             "captions": "",
-            "size": 2801263518
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N-/mzNZsM4Jw5e7q5pEXvQw3P4YAx_qybnji_B5fGoos/pok_tv_s0141_2398-master-las.mp4"
         },
         {
             "id": "521937b06ce14c439583d925d07fc725",
@@ -57,16 +48,13 @@
             "title": "La evolución de Grovyle",
             "description": "Mientras nuestros héroes continúan hacia el siguiente Concurso Pokémon de May, el Grovyle de Ash abriga un sentimiento por el Meganium de la Enfermera Joy.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Uhk3sGzhTEMlYPZJdB_xyU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UK/iWKWx_x68Wn7U9WFz5c3Vp6zOFBR6bITkJulrRtCM/pok_tv_s0916_2997-master-las-d540f39d655bba378c1c7a597c8c68550ffb67a4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UK/iWKWx_x68Wn7U9WFz5c3Vp6zOFBR6bITkJulrRtCM/pok_tv_s0916_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/xSm1fhS-z36tOwCuw_Dgolm9TTcXReEWJj1fmIssk/pok_tv_s0916_2997-master-las.mp4",
             "captions": "",
-            "size": 2646872031
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/xSm1fhS-z36tOwCuw_Dgolm9TTcXReEWJj1fmIssk/pok_tv_s0916_2997-master-las.mp4"
         },
         {
             "id": "cd08303ae091454389e0200ef49596aa",
@@ -75,16 +63,13 @@
             "title": "¡Enfrentando un lindo drama!",
             "description": "Tras detenerse en Pueblo Shelter en su camino hacia Ciudad Snowpoint, nuestros héroes conocen a una jovencita que juzga a todos los Pokémon por su lindura.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zQgwOuCRRUMieAgDvSVlqo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s1/xbltmpfHkdpKkK6jRPmIGmDV5UkPgp2mjoBvKhRpo/pok_tv_s1220_2997-master-las-hd-16x9-oz-54682d62036c3158942cae5afd1816da66427401.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s1/xbltmpfHkdpKkK6jRPmIGmDV5UkPgp2mjoBvKhRpo/pok_tv_s1220_2997-master-las-hd-16x9-oz.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yf/UBeZpABuZ2L1NK9TnRgKQLj_xtJ3lR9eEK_DxfMtE/pok_tv_s1220_2997-master-las-hd-16x9-oz.mp4",
             "captions": "",
-            "size": 3506521335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yf/UBeZpABuZ2L1NK9TnRgKQLj_xtJ3lR9eEK_DxfMtE/pok_tv_s1220_2997-master-las-hd-16x9-oz.mp4"
         },
         {
             "id": "87c62dda036445aa8044f072564e3c7c",
@@ -93,16 +78,13 @@
             "title": "¡Furia de conocedores!",
             "description": "En su búsqueda de la octava Medalla de Gimnasio Unova de Ash y su posterior entrada a la Liga Unova, nuestros héroes son convocados a un lugar donde las habilidades de Conocedor de Cilan son muy solicitadas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h8Yt2gNkRaogETwclZOPHw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/Qx7RKtYq8dZhQdooXGjp5dWdc_KQEP0ZzR4cWHvgs/pok_tv_s1532_2997-master-las-6b1aff4ed075e76351c6de7e20ed5886c860e8ad.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/Qx7RKtYq8dZhQdooXGjp5dWdc_KQEP0ZzR4cWHvgs/pok_tv_s1532_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/JnOzrB8jeyCGPq__RiSKo2YHonL9rfxdI36Uf7ogE/pok_tv_s1532_2997-master-las.mp4",
             "captions": "",
-            "size": 2620399452
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/JnOzrB8jeyCGPq__RiSKo2YHonL9rfxdI36Uf7ogE/pok_tv_s1532_2997-master-las.mp4"
         },
         {
             "id": "59958d4365614621bedece72dd028504",
@@ -111,16 +93,13 @@
             "title": "¡Una batalla con cualquier otro nombre!",
             "description": "¡Un dulce postre tiene a Serena compitiendo cuerpo a cuerpo en una batalla de habilidad, ingenio y corazón!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WZWNQ2VhRiEvt7Oct0ChQQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/37/2ReDMzt2QNEP2Oyo_Dt3evcdEiMPa1uvddNmnIt5s/pok_tv_s1725_2997-master-las-sdt_1080p-99590be3dadb856b10f6e412d968ed98888752f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/37/2ReDMzt2QNEP2Oyo_Dt3evcdEiMPa1uvddNmnIt5s/pok_tv_s1725_2997-master-las-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZD/C0c3TDR8HSDvZtcnKH7RVy6EdNa6qJx5hKzMCwMl8/pok_tv_s1725_2997-master-las-sdt_1080p.mp4",
             "captions": "",
-            "size": 2664751822
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZD/C0c3TDR8HSDvZtcnKH7RVy6EdNa6qJx5hKzMCwMl8/pok_tv_s1725_2997-master-las-sdt_1080p.mp4"
         },
         {
             "id": "9ab4f17304bc47b5a8df00a352458939",
@@ -129,16 +108,13 @@
             "title": "¡Derritiendo un pánico helado!",
             "description": "Nuestros héroes han llegado a Ciudad Coumarine, y de inmediato se ven confrontados por una crisis cuyas consecuencias les helarán los huesos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mrTxcwS8R7UqN8Ao1JFiTk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pi/Nto7F_0rYNuEmJqOj4_YPpA8qgPcL8qrHLAmZNjVg/pok_tv_s1809_2997-master-las-sdt_1080p-b810b7268aad58d88384a79b56e868c64820e6ec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lp/TquLeErnA8UE3aq4RHyZZ3Io-dCdgWoZCDl-WZ_js/pok_tv_s1809_2997-master-las-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ne/N55uxThbXU5hi-VSCZDife3SiBh3JaTS5dUNxH33s/pok_tv_s1809_2997-master-las-sdt_1080p.mp4",
             "captions": "",
-            "size": 2706111713
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ne/N55uxThbXU5hi-VSCZDife3SiBh3JaTS5dUNxH33s/pok_tv_s1809_2997-master-las-sdt_1080p.mp4"
         },
         {
             "id": "94d45c927b3a40209dba922d0468eaf3",
@@ -147,16 +123,13 @@
             "title": "¡Un intercambio en el festival! ¿Una despedida en el festival?",
             "description": "Durante una visita a un popular festival, nuestros héroes son víctimas de varios casos de confusión de identidad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lNRckns6QCAnbqSLQRo6vM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RI/zI3w-OBXhF6tU7pwCL2JZay1kq7hvbKc_6D5NNZY4/pok_tv_s1833_2997-master-las-sdt_1080p-ec723d4f56e2d9342a0efca085f3738bd4dccbcf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ot/QyrcW4Ej-ev1DesLBk4WAAA_dUlwZbTZgwq3gHn8M/pok_tv_s1833_2997-master-las-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gz/eB33t3DgyDtRmrFTF-gU2xNmHg1zaGVMd448-2Aos/pok_tv_s1833_2997-master-las-sdt_1080p.mp4",
             "captions": "",
-            "size": 2553373740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gz/eB33t3DgyDtRmrFTF-gU2xNmHg1zaGVMd448-2Aos/pok_tv_s1833_2997-master-las-sdt_1080p.mp4"
         },
         {
             "id": "8c9b16239ccc4c5ea87f31367e46f701",
@@ -165,16 +138,13 @@
             "title": "¡En busca del condimento!",
             "description": "¡Nuestros héroes seguro que tienen hambre, pero su misión de encontrar el ingrediente faltante no los dejará descansar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jJsWI5zMTF4qH8xNn5G9wE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/HRU4lr3cnT6QA_Yfik51Sox6VA60Tp8xPiEevo8dg/s20_e18_las-7aa6b75802ac6379d912ab9e889f96d1e5c423b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/HRU4lr3cnT6QA_Yfik51Sox6VA60Tp8xPiEevo8dg/s20_e18_las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OY/yNJ8-qveBrOKdHkFQpIgbrnyGYFkxZWh1Nf0NmBxM/s20_e18_las.mp4",
             "captions": "",
-            "size": 2634959717
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OY/yNJ8-qveBrOKdHkFQpIgbrnyGYFkxZWh1Nf0NmBxM/s20_e18_las.mp4"
         },
         {
             "id": "9de88e418f4f4f0ba3f33f90c72220e9",
@@ -183,16 +153,13 @@
             "title": "¡Resistiendo!",
             "description": "¡Una visita a un importante evento de batalla no sólo lleva a nuestros héroes hacia nuevas aventuras, sino que también conocen nuevos amigos!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/neiOQY9PTwso_M_kMciIOk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5y/Mh_3e-uitXQRTbbs-CJq5AqFdvD8iIwYovGdFK-i4/es-xl-23-27-cc3906834077326f8508249139631d550da4d40d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gd/49G3ZnsMIPaKa0OmFrd6Ca5eQc3Rf9dKzjwsryrWk/es-xl-23-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/zMznMbsYXEDm85wRbwLMARXvFqeU4qHRi_8OMI1zg/es-xl-23-27.mp4",
             "captions": "",
-            "size": 2711902950
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/zMznMbsYXEDm85wRbwLMARXvFqeU4qHRi_8OMI1zg/es-xl-23-27.mp4"
         }
     ]
 }

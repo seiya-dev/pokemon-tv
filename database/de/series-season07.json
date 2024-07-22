@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-advanced-challenge",
+    "channel_id": "season07",
     "channel_name": "Pokémon: Advanced Challenge",
     "channel_description": "Ash, Pikachu und Freunde setzen ihre Reise durch die Hoenn-Region in der siebten Staffel von Pokémon – Die TV-Serie auf Pokémon-TV fort.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-1125x1500-de.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season07/seasons07-1660x940-de.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season07/seasons07-1660x940-de.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season07/seasons07-1660x940-de.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 241,
-    "channel_creation_date": 1612542207,
-    "channel_update_date": 1701439789,
+    "order": -7000,
     "media": [
         {
             "id": "e462088a63544cfca13c1bb9b784a39a",
@@ -21,16 +18,13 @@
             "title": "Die Melonenmeisterin",
             "description": "Ash und Gefährten verlassen Malvenfroh City. Ash möchte zur Pokémon-Arena in Bad Lavastadt, Maike hingen zu einem Pokémon-Wettbewerb in Laubwechselfeld.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5GIIimNUTPwoTwbubeEo5o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2V/GI36fujA0YdCWalyN31YyIKxd4jT4f_k6_EgGFD40/pok_tv_s0701_2398-master-de-12fa1493aba0d05a409d3f360fce9a53d7d8f894.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/kKmcuyDIjCYrpLusMJO_icajP8KyFxEQdtAxOxRzk/pok_tv_s0701_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bi/3iS5OJG3sshUTbQj3McpARR8t99XobChNc-opqGag/pok_tv_s0701_2398-master-de.mp4",
             "captions": "",
-            "size": 2691172782
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bi/3iS5OJG3sshUTbQj3McpARR8t99XobChNc-opqGag/pok_tv_s0701_2398-master-de.mp4"
         },
         {
             "id": "cba99893a07c4a99881c9f3aa945bfce",
@@ -39,16 +33,13 @@
             "title": "Der Traum vom Fliegen",
             "description": "Ash und seine Freunde sind unterwegs nach Laubwechselfeld, als sie beinahe von einem klippenspringenden Kindwurm erschlagen werden.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/y6mYk6B8SpkiByfOqlFv84/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k8/sAcm_eC51_kSIIj9zZO0QA5R9bGUdgfMEw9tVzxpg/pok_tv_s0702_2398-master-de-27c8bdae3a33062ce3d380551f7ed8aeb8782892.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OI/hXBX62nivMJA8ZIVP7GwJFbL7jmjYWQAQvBSRATPA/pok_tv_s0702_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mm/AXbuOYmhHXQPWjrWsFELMmkLtLcK-U6EdwhAj_s60/pok_tv_s0702_2398-master-de.mp4",
             "captions": "",
-            "size": 2861761966
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mm/AXbuOYmhHXQPWjrWsFELMmkLtLcK-U6EdwhAj_s60/pok_tv_s0702_2398-master-de.mp4"
         },
         {
             "id": "05eda8c41711454b8724f60bf84d0e67",
@@ -57,16 +48,13 @@
             "title": "Die Prinzessin und das Togepi",
             "description": "Ash und die Gefährten treffen eine alte Bekannte: Misty! Sie wurde zu einem Togepi-Fest eingeladen. Kurz darauf begrüßt Team Rocket, verkleidet als Festkomitee, die Gäste.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Be2oxBcRRUshyT2C_hNDmc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6d/Yu5MLO-6qFEuA6RUCqkpmXbeUcVMhtiJWc2TFmI8s/pok_tv_s0703_2398-master-de-93af08f8b07041c987ce6b8e97de9d8ec2cf061d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SZ/MXxYAuqvGg-p9O2p4IRd-d9NcYckSu6bVghDtR2Bg/pok_tv_s0703_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rM/MMSS5S7PWihbGzl0oigrDG705wOR68af7xUypDDy8/pok_tv_s0703_2398-master-de.mp4",
             "captions": "",
-            "size": 2835797354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rM/MMSS5S7PWihbGzl0oigrDG705wOR68af7xUypDDy8/pok_tv_s0703_2398-master-de.mp4"
         },
         {
             "id": "d50c86ac63154df6aede8f4d62a0b695",
@@ -75,16 +63,13 @@
             "title": "Das Togepi-Paradies",
             "description": "Ninjatom greift Misty und die Freunde an, die aber von Togepi mit Bodyguard beschützt werden. Dadurch werden alle ins Togepi-Paradies versetzt, das sich in der Fata Morgana über dem Tempel befindet.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1QyGrGMVTfYrt6PTWKgtpU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BF/2LsZV4OZoOEfTRXAbafckwcroN-zLlHIL7-gNRwUc/pok_tv_s0704_2398-master-de-6e8430e00413b2f4bb837d857909be70c84398b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ey/WE5kAAm6ixHenQA3ECAAFYVSE7qBz8m7WBvjqNC5g/pok_tv_s0704_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MM/MhVzzL8NFwDFDg0yUCtxOOn0gDSWp2Hl1CYl1nLqY/pok_tv_s0704_2398-master-de.mp4",
             "captions": "",
-            "size": 2858162318
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MM/MhVzzL8NFwDFDg0yUCtxOOn0gDSWp2Hl1CYl1nLqY/pok_tv_s0704_2398-master-de.mp4"
         },
         {
             "id": "0094e756ca654e5bb3705ccd61687e68",
@@ -93,16 +78,13 @@
             "title": "Camperupt außer Rand und Band!",
             "description": "Ash und seine Freunde schleppen sich durch die Wüste, wo sie vor Erschöpfung zusammenbrechen. Die Familie Winstrate kommt ihnen zur Hilfe.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AJTnVsplTlss3BczWFofmg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G9/8zyUWuqT2P-YD2puWQtJB_A6AfZ5dFkPQvgzbWFMA/pok_tv_s0705_2398-master-de-63268e2da174e4584b7322c3e3e05cda2c1bf5c8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OF/xSROGeGANwERyqksitGCvcVP5tcgAS1iurv8ClLtk/pok_tv_s0705_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HI/lODkNpju_fKVUkvY1U3kqEgY-UNXSL2mJss8R-K0M/pok_tv_s0705_2398-master-de.mp4",
             "captions": "",
-            "size": 2847248727
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HI/lODkNpju_fKVUkvY1U3kqEgY-UNXSL2mJss8R-K0M/pok_tv_s0705_2398-master-de.mp4"
         },
         {
             "id": "694cf23e73994598b52a409a16cba2d0",
@@ -111,16 +93,13 @@
             "title": "Liebe auf den zweiten Blick",
             "description": "Ash und seine Freunde sind noch immer unterwegs nach Laubwechselfeld. Bei einer Rast am Maike-See entdecken sie ein Illumise und ein Volbeat, die für das Maifest üben.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aUzyPnOZRZgtSpAmhbLotA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HR/b6TpZNBVY5WpLR7nacQp-hxFGhxmuP9QCFOanbggw/pok_tv_s0706_2398-master-de-bcab48cbc13ae3d57cf0d7800990b6efe3fcd8d1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Di/IE5vKk3Hfnbn1gIb7pFqF9k4pumrPKfgSmXEtaGys/pok_tv_s0706_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j4/KLxSsLlNk4sVifNJWeibTtk38V8jM6XKCpncWrqSQ/pok_tv_s0706_2398-master-de.mp4",
             "captions": "",
-            "size": 2853010726
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j4/KLxSsLlNk4sVifNJWeibTtk38V8jM6XKCpncWrqSQ/pok_tv_s0706_2398-master-de.mp4"
         },
         {
             "id": "01fb500d072144ecb02762cb2c8b0631",
@@ -129,16 +108,13 @@
             "title": "Wenn Düfte durch die Lüfte ziehen…",
             "description": "Maike trainiert für ihren nächsten Pokémon-Wettbewerb, als Flemmli im Gebüsch ein Eneco entdeckt. Maike möchte es fangen, doch das Eneco ist krank und braucht Hilfe.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AftQDQchROwsCdiyyyLBjE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m6/3OwxMNJXOX0fN-O3TEKEMkRKDtXPkKsRoyohoH2BQ/pok_tv_s0707_2398-master-de-3ced7044afbe570a9ceda2541125a183aa28636f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vs/uZpKW60i3HPDOUFRepWY0GU_v-oveG5Y1TcrvMRRg/pok_tv_s0707_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/Mm4y1XFENl127wbF2BPiZQ2R4hMGDkj_eiHcQ6Iow/pok_tv_s0707_2398-master-de.mp4",
             "captions": "",
-            "size": 2689067719
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/Mm4y1XFENl127wbF2BPiZQ2R4hMGDkj_eiHcQ6Iow/pok_tv_s0707_2398-master-de.mp4"
         },
         {
             "id": "b656c79c4d4d4ede8d1a4f1d76bec540",
@@ -147,16 +123,13 @@
             "title": "Im Zickzack zum Ziel",
             "description": "Ein Sengo läuft Ash und seinen Freunden über den Weg. Sein Trainer, ihr alter Freund Nicholai, rennt dem Pokémon hinterher. Ash fordert Nicholai zum Kampf heraus.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tlbHnE1NTt4jRpPHXa-xUA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rm/stpbCAcbYQhERUWc_c4E5LoYl1YvkpHVqCQSqZmsQ/pok_tv_s0708_2398-master-de-137dd91a148d5943c878ddeb42ea64e9f21a9a0f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qu/FXd_EMjl25Uc45EeRncgfBdpHfQoA9rx4sT8e1Q_8/pok_tv_s0708_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/11/qe_V9OMFSOVHzedKrdeNPjLwpkBAN6e9YZ-41BlOY/pok_tv_s0708_2398-master-de.mp4",
             "captions": "",
-            "size": 2686182956
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/11/qe_V9OMFSOVHzedKrdeNPjLwpkBAN6e9YZ-41BlOY/pok_tv_s0708_2398-master-de.mp4"
         },
         {
             "id": "c7ca55d7c621456f96f00196d9ebce66",
@@ -165,16 +138,13 @@
             "title": "Max im Doppelpack",
             "description": "Ash und die Freunde besuchen ein Pokémon-Center, in dem Maikes Eneco aus seinem Pokéball entkommt und für Ärger sorgt. Ein Junge schimpft mit ihnen – er sieht aus wie Max und heißt auch so!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/x8pV18YhRW8lvABltnrzmY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zk/GUy-mleUqSvHMKaq2Gt6VwC7PCTSiyaS7LDfOzbjQ/pok_tv_s0709_2398-master-de-73de6a2f3d00b89fcc11649404840da3dfa3dddd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bk/Iv6iDSMf4tIqfZ33YqKwvMJ4ZcVqlk6LXSojXgDv8/pok_tv_s0709_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OD/xet3jLprnYaO1icKSt4n4TNEKcZyt3v5W6zfa-bdE/pok_tv_s0709_2398-master-de.mp4",
             "captions": "",
-            "size": 2688178734
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OD/xet3jLprnYaO1icKSt4n4TNEKcZyt3v5W6zfa-bdE/pok_tv_s0709_2398-master-de.mp4"
         },
         {
             "id": "b3fba63328954090b64ef0df3fd9292c",
@@ -183,16 +153,13 @@
             "title": "Schwindel auf der ganzen Linie!",
             "description": "Maike und Gefährten erreichen Laubwechselfeld und sind für den nächsten Pokémon-Wettbewerb bereit.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/s_umMyiVQJAtk7w3z_ZKSw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bw/LRH5lZ-g72IQvMxjw2Tn3FUgWGMNMtVRGzCUef-KA/pok_tv_s0710_2398-master-de-ce234d2778dea86186c6349323a179d3dc1a0af2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qv/1Rt3McQYH1I5niG0xAHnsqOK1rWI75scSxEUS0eaM/pok_tv_s0710_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uh/yu50aoRNI21lXJH8lOrSTxwYFZuk2kxYDZsLCNHbc/pok_tv_s0710_2398-master-de.mp4",
             "captions": "",
-            "size": 2653351632
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uh/yu50aoRNI21lXJH8lOrSTxwYFZuk2kxYDZsLCNHbc/pok_tv_s0710_2398-master-de.mp4"
         },
         {
             "id": "2c17c888694e4ee78a918781df0562f7",
@@ -201,16 +168,13 @@
             "title": "Maike macht’s möglich",
             "description": "Maike nimmt an ihrem zweiten Pokémon-Wettbewerb teil und schafft es mit Doris und Dorothea (die in Wirklichkeit Jessie ist) in die nächste Runde.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LBfIiGlOTucipGHgd8FYvc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rh/RerC1unwcTWAs-L4XuNAnW0HaSXmFJSKHXTOEEz_s/pok_tv_s0711_2398-master-de-586fa2d90cc85fa9d605a3b0ca3e88056986c1d6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EE/vVR6LRq_PnsI9S_P6XAVHQcsBa82QuV17TGAZIcVw/pok_tv_s0711_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xu/NdOKqjW7aWxmUtCEqH7cqXYvKLgFpRWo_6Vl8I5ig/pok_tv_s0711_2398-master-de.mp4",
             "captions": "",
-            "size": 2697687014
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xu/NdOKqjW7aWxmUtCEqH7cqXYvKLgFpRWo_6Vl8I5ig/pok_tv_s0711_2398-master-de.mp4"
         },
         {
             "id": "74b4a2890eab4e70a23897ff0ca2a94f",
@@ -219,16 +183,13 @@
             "title": "Der falsche Meister",
             "description": "Ash trifft einen alten Freund wieder: Tasso vom Leuchtturmberg! Er ist Teil einer Cheerleadertruppe, die Pokémon-Kämpfe anfeuert. Cheridan führt die Truppe an.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dLSiiQ6rTnAojiX_wyiqU8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bL/EfcbBRPTfN-o5nBuvboHUZgHTdDf-COGikBq4TqTI/pok_tv_s0712_2398-master-de-eb061636902664ce94bcc85c9bed4295bd325704.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/49/QyfhgSo5xBVAEcPF_06VOhGF-4UhhZHAnCpDM47Uw/pok_tv_s0712_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ki/BRnGXJINP-4cuoQLmRL2jnu8QEFpyA21PfIg3vyhY/pok_tv_s0712_2398-master-de.mp4",
             "captions": "",
-            "size": 2689368461
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ki/BRnGXJINP-4cuoQLmRL2jnu8QEFpyA21PfIg3vyhY/pok_tv_s0712_2398-master-de.mp4"
         },
         {
             "id": "8cefa1b89656425c8716dfb3f0fa6c9f",
@@ -237,16 +198,13 @@
             "title": "Ein Ass im Ärmel",
             "description": "Ash und seine Freunde fliehen vor einer Herde ausgerasteter Schneckmags einen feurigen Pfad entlang. Unten angekommen können sie sich auf eine Camaub-Farm retten.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jO-huJZWQlwhxbfs_D6bJ8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k-/HiEYWz7xVacldbneSwpRK5RYoAlTkqT5ANWd0hsio/pok_tv_s0713_2398-master-de-ecfa7064ead05001f361c87d78751df20353bf6b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cD/xlWOppETqnNpmskEgwpcfbFiuHW9vvaFaQ_ishZYQ/pok_tv_s0713_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9x/X-acWJuXQDp4v2H-_NuPLzVtOeZy8l9GEcyBUzg0s/pok_tv_s0713_2398-master-de.mp4",
             "captions": "",
-            "size": 2690857573
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9x/X-acWJuXQDp4v2H-_NuPLzVtOeZy8l9GEcyBUzg0s/pok_tv_s0713_2398-master-de.mp4"
         },
         {
             "id": "f307d06300ab40ac9ac6a95593939558",
@@ -255,16 +213,13 @@
             "title": "Der Stein aus dem All",
             "description": "Unsere Truppe schafft es in letzter Sekunde in die Seilbahn zum Schlotberg. Allerdings ist Team Rocket in Verkleidung ebenfalls da.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8wfQYwCrQKwmsapVZOTlVg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mY/xLo_xXtU_hJ0ffeNJzNRAGNqnOn0nYxFpMLoiO114/pok_tv_s0714_2398-master-de-ea28d3dacb480c9fd985d6e038b0264471c5e83c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sj/oQ5gl9zoeIA38mNo4tQMa1equKlkZ1wABbpz8TFGs/pok_tv_s0714_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lP/KBRCJ65-39s_uOUZE-bJCPs7HHL14OdJIUxiYZFOE/pok_tv_s0714_2398-master-de.mp4",
             "captions": "",
-            "size": 2693518130
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lP/KBRCJ65-39s_uOUZE-bJCPs7HHL14OdJIUxiYZFOE/pok_tv_s0714_2398-master-de.mp4"
         },
         {
             "id": "099c432fb08e4a9c83391be3dae3e7ac",
@@ -273,16 +228,13 @@
             "title": "Der Pokémon-Poet",
             "description": "Ash und seine Freunde erreichen Bad Lavastadt. Ash geht direkt zur Arena, wo die Arenaleiterin Flavia in Flammen steht.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CZxDL7COSpwgzkb49rj56w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TM/BDDWko_gPszI_AZ4HqX9s3uB7SegyStwt27OSNaBc/pok_tv_s0715_2398-master-de-4ccf8ca1f896175f8b7c65d92f6bf081d2c439ac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/10/xhuOL-ROQk-4jposn41aMfEz_uH8cDnkB6A5S6BWY/pok_tv_s0715_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1l/bUDFGxaKPAfyxf1FmIbHCKCmTpY0sbnG3z7VxX2EY/pok_tv_s0715_2398-master-de.mp4",
             "captions": "",
-            "size": 2687977350
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1l/bUDFGxaKPAfyxf1FmIbHCKCmTpY0sbnG3z7VxX2EY/pok_tv_s0715_2398-master-de.mp4"
         },
         {
             "id": "08a51cba33204f0fbacd6a9e89d84917",
@@ -291,16 +243,13 @@
             "title": "Das große Gähnen",
             "description": "Ash nutzt Krebscorps in Arenakampf gegen Flavia. Flavia wählt zuerst Magcargo aus, das von Krebscorps mit Krabbhammer besiegt wird.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CKUcujMgTw8us1qnonYSRc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cy/dwiZKQZR46F7INk1OK1N3L-55L0S6A2vvm3O0xQXs/pok_tv_s0716_2398-master-de-092bae8070e2df5579b846a73f83bdba564cf48b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2b/cWb_y-Qt7qsa9EwfhWdR1HEjyATO6lnUlLQQLLhxE/pok_tv_s0716_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zY/qY0jI2wS8ALx-sUfh4zYTVi3k-HIpHp8pqcfEJxYM/pok_tv_s0716_2398-master-de.mp4",
             "captions": "",
-            "size": 2694399353
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zY/qY0jI2wS8ALx-sUfh4zYTVi3k-HIpHp8pqcfEJxYM/pok_tv_s0716_2398-master-de.mp4"
         },
         {
             "id": "16595aa14f4742f6a00fb3d06d859393",
@@ -309,16 +258,13 @@
             "title": "Schnapp dir das Pandir!",
             "description": "Ash möchte seinen nächsten Arenakampf in Blütenburg City ausfechten. Unterwegs trifft die Gruppe auf einige Pandir.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FllaoU9HQvYoA-z0G2Fk5M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bz/P_HHfust7kHqQW1iaQQdVkA-NeAiYhluduoT3H6Xk/pok_tv_s0717_2398-master-de-b604bf013183ef762c6bfdcea08975ba9f7071e7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/De/uXkUS7NTr3CpOOOD7lSusR2yuHiUwJfwxEi79w5NI/pok_tv_s0717_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H9/0HODeGGo8yitu1K9d-c07KxNdD5MUKDswmur-HN8A/pok_tv_s0717_2398-master-de.mp4",
             "captions": "",
-            "size": 2693081856
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H9/0HODeGGo8yitu1K9d-c07KxNdD5MUKDswmur-HN8A/pok_tv_s0717_2398-master-de.mp4"
         },
         {
             "id": "a67856a97a5b46769498af6fbbd6e929",
@@ -327,16 +273,13 @@
             "title": "Qual aus Stahl",
             "description": "Ash und seine Freunde befinden sich im Stahltal, als sie ein Qurtel sehen, das von einem Panzaeron und mehreren Magnetilo angegriffen wird.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pnhWqXpbRnYlJivb7vW6Sk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VZ/i1SZaIl7W1qxeWCWPPkHGUTm-3ipVuS8yxMeoKKco/pok_tv_s0718_2398-master-de-5074b68ae597e692edd3d43ac92dfa76ee868007.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mw/T_ANFvYJ24k2qcxfqTFUnT0pWMfPXyAwtv4TBDj3o/pok_tv_s0718_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W0/VthSuHCk0FZJoEgRZnl1JR96Ckm1Y454U1sbcxcI0/pok_tv_s0718_2398-master-de.mp4",
             "captions": "",
-            "size": 2693470278
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W0/VthSuHCk0FZJoEgRZnl1JR96Ckm1Y454U1sbcxcI0/pok_tv_s0718_2398-master-de.mp4"
         },
         {
             "id": "c35d45761445476fabaeab8c170b19ac",
@@ -345,16 +288,13 @@
             "title": "Voltenso in Hochspannung",
             "description": "Ash und die Freunde kehren nach Malvenfroh City zurück, wo Team Rocket gerade einen Jahrmarkt veranstaltet. Sie geben ihren Pokémon Auslauf auf die Veranstaltung, wo Team Rocket versucht, sie zu stehlen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/w11FdhRFR28q66rjBcLGaw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_1/0HgW8psx8HpMgijcM0QqnlurZ6Zc-3HOIjWKIowZQ/pok_tv_s0719_2398-master-de-37f4e760a037e7c126cbb3da7de5e3066cbe4df6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jk/oj7DkXy8oa-p_cCMdfs5FV3vO3gUAccZVJTfHnN0M/pok_tv_s0719_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bc/kGJgdfCAjn8nYfR8kYRxo3x1600D5dxs8zFuAh1X4/pok_tv_s0719_2398-master-de.mp4",
             "captions": "",
-            "size": 2691586056
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bc/kGJgdfCAjn8nYfR8kYRxo3x1600D5dxs8zFuAh1X4/pok_tv_s0719_2398-master-de.mp4"
         },
         {
             "id": "ac2247106d0e48459887d517143f0578",
@@ -363,16 +303,13 @@
             "title": "Heilendes Händchen",
             "description": "Unsere Helden sind unterwegs nach Wiesenflur, als Team Rocket ihnen wieder einmal auflauert.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rCJHEG0OSEUmIfVFxQ_BXg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ea/nvCYtWlVVoSmO8Fr9SRyvz9yF-ckNQXqTkgV5Hpg0/pok_tv_s0720_2398-master-de-63b296c0ec07d95a230a5f34c1d7428081371f0c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6D/3Rn9jA_IcKYEWnqbnBrZ8MUjzZ5ohe2ZijI8APapQ/pok_tv_s0720_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p6/f-BIHj5VqlqsEsZ5yrdjQZ4gkW7iXPjfmMgvKSIBM/pok_tv_s0720_2398-master-de.mp4",
             "captions": "",
-            "size": 2691186197
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p6/f-BIHj5VqlqsEsZ5yrdjQZ4gkW7iXPjfmMgvKSIBM/pok_tv_s0720_2398-master-de.mp4"
         },
         {
             "id": "90be11d7aa37421881b8034adbcddfd4",
@@ -381,16 +318,13 @@
             "title": "Perfekt getarnt!",
             "description": "Doris verliert einen Pokémon-Kampf gegen das mysteriöse „Phantom“, einen maskierten Pokémon-Trainer, der Zwirrklop einsetzt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kL4R16o3QhggbgDStvN39Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2E/TES3NQKdpX1ZPKXtbmoriycgacpNwRjsnyDZKLRPc/pok_tv_s0721_2398-master-de-f502677a7528e20f79617b2631d5593460c5b74d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/b1IxHKhJup3PjBg7es41XzuIgTXl0FD5MWLJ8IrZg/pok_tv_s0721_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Z/WTtvEd5ILShYuAI0zEdQSr5V7fezEjC9m2OsLmy2U/pok_tv_s0721_2398-master-de.mp4",
             "captions": "",
-            "size": 2689242772
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Z/WTtvEd5ILShYuAI0zEdQSr5V7fezEjC9m2OsLmy2U/pok_tv_s0721_2398-master-de.mp4"
         },
         {
             "id": "fc68002ed483449689869c72cebb2f37",
@@ -399,16 +333,13 @@
             "title": "Auf den letzten drücker",
             "description": "Jessie tritt unter falschem Namen bei einem Wettbewerb an. Die erste Runde gewinnt ihr Pudox. Maikes Eneco macht einen Fehler beim Blizzard-Angriff und verliert Punkte, sodass Maike in Rückstand gerät.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_GgALtSDRJYiYaccs67Lzc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ik/J-4fStejuqouLtNVZR4ANZ2bSpryLLaWRWv6lkn24/pok_tv_s0722_2398-master-de-5267098b3f0fe5c0faa9644bf6b5c1d397283ead.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iq/gM_88zbhpzpAIek-Y1FFpLTJYGDo-HDXUL-ojR750/pok_tv_s0722_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hW/89ujCmT1-Ij3-5U9KuESVuzPu2iQuvYyBryYQ0spQ/pok_tv_s0722_2398-master-de.mp4",
             "captions": "",
-            "size": 2659327388
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hW/89ujCmT1-Ij3-5U9KuESVuzPu2iQuvYyBryYQ0spQ/pok_tv_s0722_2398-master-de.mp4"
         },
         {
             "id": "e0bf6e9612bc49ed8b86ccb5691503d6",
@@ -417,16 +348,13 @@
             "title": "Der Lord des Wassers",
             "description": "Ash und seine Freunde sind unterwegs nach Blütenburg City, wo er seinen fünften Orden erringen will. Wieder einmal versucht Team Rocket, Pikachu zu stehlen. Zum Glück kommt ein wildes Sonnfel zur Hilfe.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4L9ulhK8Se0i4bMtWkVA9Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Va/17EQt-xQo12fLbdgAHE18gKxhZ8TzjNIHcmHiiYyE/pok_tv_s0723_2398-master-de-149deb1d20d9604b7eddde66d1a5ac404f5c6d3f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4V/0Mu7MFS4mmbP1R8rMdNTxgqwQgSlnh05zD9RSBfoY/pok_tv_s0723_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ma/w-Tk8VaW1nCmaxYP_KcLYG-V33LXybpIBU46Dnvn8/pok_tv_s0723_2398-master-de.mp4",
             "captions": "",
-            "size": 2690278884
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ma/w-Tk8VaW1nCmaxYP_KcLYG-V33LXybpIBU46Dnvn8/pok_tv_s0723_2398-master-de.mp4"
         },
         {
             "id": "4b88a2ea3b374d078de76afd168a4c36",
@@ -435,16 +363,13 @@
             "title": "Angst vorm Fliegen",
             "description": "Maike und ihre Freunde treffen im Wald auf ein verwundetes Wablu. Das Wablu schläfert die Kinder mit seinem Gesang ein, aber Flemmli weckt sie mit Nasenstübern auf.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S4ii6js3TQcjedq_RaKTDY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zi/AKqTUQ2bDKV6PEg1yk8fPyck4PbXRv4OyvL7xnXg4/pok_tv_s0724_2398-master-de-37cea3bc25e83be170cd9345b14acacedfcf7dd4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CT/Nw5I0o1obezf1hfyPJvTx5YCbm0g2CwTHN19uchPc/pok_tv_s0724_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kn/wqxrGFH2EhiadGKfjzFRH4jGxQOQSvRXJJWNh1mMk/pok_tv_s0724_2398-master-de.mp4",
             "captions": "",
-            "size": 2692304623
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kn/wqxrGFH2EhiadGKfjzFRH4jGxQOQSvRXJJWNh1mMk/pok_tv_s0724_2398-master-de.mp4"
         },
         {
             "id": "29dbaf81db254b3a9abe4342d742d934",
@@ -453,16 +378,13 @@
             "title": "Riesenschlucker Schluppuck!",
             "description": "Ash und Gefährten sind in der Nähe von Blütenburg City unterwegs, als ihr Picknick von einem Schluppuck gefressen wird. Plötzlich werden alle über eine Notfalldurchsage aufgefordert, wegen einer Notsituation schleunigst die Gegend zu verlassen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KduvgdslSzomr5DQtdC2TQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e8/7SL7tlczXj1CwTDzu7ZOYT8r3ZEHm1nPR876Slmks/pok_tv_s0725_2398-master-de-c1732b7c3716f40fd6054be275e769306163f812.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e4/KnmDabIaTONToOVABvNMpVhDxyJpUGElYiSDI7_ew/pok_tv_s0725_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RI/kccPzrbNyosBoggDpxp5REroaph26hCOQjhw0a_YU/pok_tv_s0725_2398-master-de.mp4",
             "captions": "",
-            "size": 2693458480
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RI/kccPzrbNyosBoggDpxp5REroaph26hCOQjhw0a_YU/pok_tv_s0725_2398-master-de.mp4"
         },
         {
             "id": "1cf43175682442b1b8a6515b1506ee0d",
@@ -471,16 +393,13 @@
             "title": "Rums! Da kommt ein Krawumms!",
             "description": "Ash und seine Freunde essen im Wald zu Mittag, als sie plötzlich bemerken, dass Geckarbor verschwunden ist. Sie schaffen es nicht, das Pflanzen-Pokémon von einem Baum herabzulocken. Da stürmt ein wütendes Krakeelo heran!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HPQxdWgkQrEuKZRWxUG7g0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rt/S1pXnTHNrzeAy2L8v_y7bYWgumpnKLrFoqEdKvbow/pok_tv_s0726_2398-master-de-7f3240d44092df9868da4856c965953c4c6e4278.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kv/Yw1AsbGZnhf_UuCFXCgc_4DhovY1f93jR36KuCPag/pok_tv_s0726_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/65/cPpk8ZUOcDoyRxP0btMZGXsaifZhGx-q74phPKmXk/pok_tv_s0726_2398-master-de.mp4",
             "captions": "",
-            "size": 2691737961
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/65/cPpk8ZUOcDoyRxP0btMZGXsaifZhGx-q74phPKmXk/pok_tv_s0726_2398-master-de.mp4"
         },
         {
             "id": "1e2b50e5c1084f64ac04054224c4f327",
@@ -489,16 +408,13 @@
             "title": "So ein Kappalores!",
             "description": "Ash und Gefährten sind fast in Blütenburg City angekommen. Ash kann es kaum erwarten, gegen den Arenaleiter Norman anzutreten. Maike und Max freuen sich gleichzeitig auf ein Wiedersehen mit ihren Eltern.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HitQ5cEIT2QrAQFQiTE8yc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uP/IAMDV0QzQWP3ANO3o3WIRuR4Y9T1xCq1OXntnktf4/pok_tv_s0727_2398-master-de-0096135e746746c59a70d402090a1748b67fc934.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Da/E3PFhglopW7CJeqdB1YS3LKpIZkLmoJglXS29MLdI/pok_tv_s0727_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NI/8LKCxmp3PClJVNO1MS1we4lCuc2p4nFKGNUxhO7EI/pok_tv_s0727_2398-master-de.mp4",
             "captions": "",
-            "size": 2684408639
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NI/8LKCxmp3PClJVNO1MS1we4lCuc2p4nFKGNUxhO7EI/pok_tv_s0727_2398-master-de.mp4"
         },
         {
             "id": "2663a8bcc3fd4cbca647628c0825e137",
@@ -507,16 +423,13 @@
             "title": "Norman-Mania!",
             "description": "Die Freunde kommen in Nord-Blütenburg an und machen am Pokémon-Center Halt. Team Rocket kommt ebenfalls in die Stadt und beschließt, sich zu verkleiden.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JmOovMP9TLwpkdijAgl4Tc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rn/ThH-fqivBIgI8A6JA41l1Thk3nCmxB_QLpNRAM9Tw/pok_tv_s0728_2398-master-de-618948b2fcc395523f2bd401ef8d3bf1f8699bff.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aw/w7clCpfhyzZ5J5_RzY4lm6yPaZLpvSunH8VZJkSqk/pok_tv_s0728_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/gLSyyea6MAozvJ0hHGgHA3oEhvJ93fU9mbyjuxcwE/pok_tv_s0728_2398-master-de.mp4",
             "captions": "",
-            "size": 2690084605
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/gLSyyea6MAozvJ0hHGgHA3oEhvJ93fU9mbyjuxcwE/pok_tv_s0728_2398-master-de.mp4"
         },
         {
             "id": "2b004ff91b834ec6b23db17da75feb0c",
@@ -525,16 +438,13 @@
             "title": "Romantik à la Blütenburg!",
             "description": "Ash und Gefährten sind endlich in Blütenburg City angekommen. Ash geht direkt zum Pokémon-Center, um sich um sein Team zu kümmern. Der Rest der Gruppe geht zum Haus von Maike und Max.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KwBP-RuDTsYsj2xfadf6ww/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sE/PskMBUWMZqm3j_NtKZgv4mSaEzv_3YAlE-mwPmxwQ/pok_tv_s0729_2398-master-de-3053b67d88c07d3373ecc4a2fc88defd392a18a4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qp/CTOqMNstcIsvJ5YgCkxnFt1EkZVVmq5SUXpSPb2aA/pok_tv_s0729_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vi/NvjbrpuggoVxZooZHNLsh3rRQ5HwkhQKk9l_EwJMw/pok_tv_s0729_2398-master-de.mp4",
             "captions": "",
-            "size": 2689100144
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vi/NvjbrpuggoVxZooZHNLsh3rRQ5HwkhQKk9l_EwJMw/pok_tv_s0729_2398-master-de.mp4"
         },
         {
             "id": "f95dcb3d6861465ba424ec7308c69d4d",
@@ -543,16 +453,13 @@
             "title": "Power zum Umfallen!",
             "description": "Ash fordert Arenaleiter Norman zum Kampf um den Orden heraus. Während des Kampfes gräbt Team Rocket einen Tunnel unter der Arena.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-V3LPWhhRlspCTscwjGnU0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vj/c_1froR6itbEBVIyyCg73giPRIenuQ-uO61l_tzII/pok_tv_s0730_2398-master-de-616dad43c8cfafdf77e840cbc0487ed684a5827c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nc/os-iPKX2LBLANMrCIS64qC7v2NhheCUEBvfaDWz54/pok_tv_s0730_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x0/P9Xzf1flgWxHrYBa-6lkmmVRnDXSG_8Bb_v1ZaCKE/pok_tv_s0730_2398-master-de.mp4",
             "captions": "",
-            "size": 2692074160
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x0/P9Xzf1flgWxHrYBa-6lkmmVRnDXSG_8Bb_v1ZaCKE/pok_tv_s0730_2398-master-de.mp4"
         },
         {
             "id": "2d6e1caf99254a2eaebcf316e1ab4c57",
@@ -561,16 +468,13 @@
             "title": "Die geheimste Geheimbasis der Welt!",
             "description": "Ash und seine Freunde möchten Professor Birk einen Besuch abstatten. Auf dem Weg zu ihm überfährt Birk sie fast mit seinem Jeep, denn er möchte Professor Eich abholen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LW4cr5klSi4rrzzFuGrTFc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KH/sAbbyXoanApM-f78cQk4t60BMn4Z9ZYbW6jdU-KYI/pok_tv_s0731_2398-master-de-e0132eb7bfa2acc7ce143e40e9f53c9342e78c50.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2f/iwsB8Am_-cUT7yO0qmu_twVl28wz3OIYPtTwy6CAU/pok_tv_s0731_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gm/bLTKjRjWrO5uoFTWNotsnfFuPo6W2Qorx1nxy5xX0/pok_tv_s0731_2398-master-de.mp4",
             "captions": "",
-            "size": 2688406742
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gm/bLTKjRjWrO5uoFTWNotsnfFuPo6W2Qorx1nxy5xX0/pok_tv_s0731_2398-master-de.mp4"
         },
         {
             "id": "da9b3052f03a4604a1e79ee3ccc43d86",
@@ -579,16 +483,13 @@
             "title": "Top-Teamwork!",
             "description": "Die Kinder sind unterwegs nach Baumhausen City, aber Maike hält alle auf. Ash fängt daraufhin Streit mit ihr an, der sich eine Weile hinzieht. Sie werden von einem Paar namens Andi und Oscar unterbrochen, die Maike und Ash prompt zu einem Multikampf herausfordern.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2pswUvA6RgQoeee48zEPYY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MO/iwhI22W4G9KJXvE6UAmy3q4VxMsQWh0pDwZK-_RN4/pok_tv_s0732_2398-master-de-4efb709862e0ae52b03e475eeeb93cde39b90622.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sD/SC1s7R0oME3BtBf_hPnUokSSzxrSSgIZ9UAY5lwf0/pok_tv_s0732_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dr/wPi8PZpRgfr2Lc7iO-8k2_iDENFy_P5a7uvnSC2eU/pok_tv_s0732_2398-master-de.mp4",
             "captions": "",
-            "size": 2684323099
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dr/wPi8PZpRgfr2Lc7iO-8k2_iDENFy_P5a7uvnSC2eU/pok_tv_s0732_2398-master-de.mp4"
         },
         {
             "id": "255b4d66e5ae4e43ba5950936f245720",
@@ -597,16 +498,13 @@
             "title": "Betreten verboten!",
             "description": "Ash und Anhang haben sich im Wald verirrt, als sie von einem Panzaeron angegriffen werden, das Maike entführt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JVtNZuWuTkMullQk28kVyA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hO/odDcdj_nBubuzfvrqIdPa6i5pZUJ_EKI5bCajmdwE/pok_tv_s0733_2398-master-fr-1066548ac0de1b62b397c9dc3971629101262e21.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BV/_irOhmIkdA6X_eCEtYAMf3CAwVDHr_0Vm7hNVeKds/pok_tv_s0733_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QQ/X0oQValckUG8pjVaSAKH4zSWXIlluGNhB71PewIZI/pok_tv_s0733_2398-master-fr.mp4",
             "captions": "",
-            "size": 2688318499
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QQ/X0oQValckUG8pjVaSAKH4zSWXIlluGNhB71PewIZI/pok_tv_s0733_2398-master-fr.mp4"
         },
         {
             "id": "53e80b29576f43ecaa30656f431a12a7",
@@ -615,16 +513,13 @@
             "title": "Das nennt man Pech!",
             "description": "Unsere Helden kommen in einer Stadt an, in der Maike ihr Bisasam die Landschaft genießen lässt. Team Rocket ist inzwischen am Pokémon-Center angekommen und „repariert“ den Transporter.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U-gLKVdvQ-wqjBlb0MaEqc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vD/KJFHd_n6fQaEkTSP6UEWIXUXrnHv231zsHu16btHo/pok_tv_s0734_2398-master-fr-beb27c52006c2ebe23cbe44845f43d50cc2956b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a0/wOrnRaVdwRuhZBA46bcAIwRZ2i8AB5bduWE_SjdVE/pok_tv_s0734_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NN/1vyqi9qeIDgvQFJiQNY8CxVXDs5W9bjgdihNX2YCQ/pok_tv_s0734_2398-master-fr.mp4",
             "captions": "",
-            "size": 2689866485
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NN/1vyqi9qeIDgvQFJiQNY8CxVXDs5W9bjgdihNX2YCQ/pok_tv_s0734_2398-master-fr.mp4"
         },
         {
             "id": "27fa7108430d4779aec792d9b241f964",
@@ -633,16 +528,13 @@
             "title": "Ein angelnder Gott",
             "description": "Unsere Freunde haben auf dem Weg nach Baumhausen City an einem See Rast gemacht. Ash stolpert und die Tasche mit seinen Orden fällt in den See, wo sie von einem riesigen Welsar gefressen wird.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J_pxCEMNR3krseS2bJB-WQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1M/dktgvD8WswReH65-jrm6KABYFxq6zBuskOVUDRQ4o/pok_tv_s0735_2398-master-de-dd3d37f29590c34ace6a95bd35ea095545a03ffd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bo/mzYnPQY0d1LRM3RKpPlZJjRQW7J_sGtNvV_UtTGQE/pok_tv_s0735_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pY/YPoV6LycuYpimAIhEMiJOUWeVYMgzLvm2l5Pz1HGo/pok_tv_s0735_2398-master-de.mp4",
             "captions": "",
-            "size": 2690516331
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pY/YPoV6LycuYpimAIhEMiJOUWeVYMgzLvm2l5Pz1HGo/pok_tv_s0735_2398-master-de.mp4"
         },
         {
             "id": "5faa50be30e44b1eb159a6f8a9d7d5ef",
@@ -651,16 +543,13 @@
             "title": "Ich bin du!",
             "description": "Die Gruppe überquert einen Berg im Nebel. Ash stürzt und schlittert mit Pikachu eine Klippe herab. Er begegnet einer geheimnisvollen Frau, die ein seltsames Lied singt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/X6pQvjDkSx4sVmm-KnX1e8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/40/JHshwMGj4A4mWQjpdmgacDDPzPpt7-GoAXSOn12cg/pok_tv_s0736_2398-master-de-ef2d6cd1e87f775a3843f2ba5504e45f1001ebf4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gW/dwMvlRo9CvTtLxKXcHDX5OvHMV2rux17uzsMAiPLQ/pok_tv_s0736_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o2/9FIoQ536NWkRPKUHHonX2_66MIDZvq7AXIwwKCoeI/pok_tv_s0736_2398-master-de.mp4",
             "captions": "",
-            "size": 2691646510
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o2/9FIoQ536NWkRPKUHHonX2_66MIDZvq7AXIwwKCoeI/pok_tv_s0736_2398-master-de.mp4"
         },
         {
             "id": "1dcd46fa6dd94cceb4f1a95b12db508a",
@@ -669,16 +558,13 @@
             "title": "MFP-Girls wollen Spaß!",
             "description": "Maike will am Pokémon-Wettbewerb in Rubello City teilnehmen, für den man mindestens ein Band benötigt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Hc1G-m3ZTM4tPGpWxLbUIo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yN/-NVNeRUHJuUIHLpMn8JK3SnH2Oq3rZdK91n4Y6NwA/pok_tv_s0737_2398-master-de-c5868b2a970d0932184e35e731b5309f11719433.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e9/rxD-z25v1OwTUVxK_raOlAQewDhdi04lcfoJtrXBA/pok_tv_s0737_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dz/jCTt7lNc57p_Zz0FdT1Pbp8hvoDWXfRZqyZHHWVu0/pok_tv_s0737_2398-master-de.mp4",
             "captions": "",
-            "size": 2680854787
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dz/jCTt7lNc57p_Zz0FdT1Pbp8hvoDWXfRZqyZHHWVu0/pok_tv_s0737_2398-master-de.mp4"
         },
         {
             "id": "7a594ed7af6549108bc3f80936cefb86",
@@ -687,16 +573,13 @@
             "title": "Verlieren geht über studieren!",
             "description": "Der Pokémon-Wettbewerb in Rubello City beginnt! Savannah ist noch sehr nervös, Maike dagegen allzu selbstsicher. Beide schneiden in der ersten Runde gut ab.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ellO169lSRAi8P4CTbO-4Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZP/1kFU42srVHWzgXPoohmh1aC_-fd5ROzg3nUggc4Pw/pok_tv_s0738_2398-master-de-17570003f7a8d34dbfb8f7803cb05995a9d4e011.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4y/vTJzvOKMC7g8QKID4PRxFDZYakj9JpiA6x3VzV0B0/pok_tv_s0738_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wn/zI4KAkJyeMRQXEuUQhLDP2Qj45YDfCG_8G07nRlkc/pok_tv_s0738_2398-master-de.mp4",
             "captions": "",
-            "size": 2693709701
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wn/zI4KAkJyeMRQXEuUQhLDP2Qj45YDfCG_8G07nRlkc/pok_tv_s0738_2398-master-de.mp4"
         },
         {
             "id": "4dbfef151e044a79b602cd8c3dd6f3e8",
@@ -705,16 +588,13 @@
             "title": "Perle, wem Perle gebührt!",
             "description": "Die Kinder frühstücken, als Eneco wegläuft und einem Spoink begegnet, das seine Perle verloren hat. Das Spoink zeigt ihnen, wie es sie verloren hat, und die Kinder helfen ihm im Wald danach suchen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Tb_vFR4ESnktgLNjD3W8-g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-x/g8aRYbNbfth9HPllrc5wk6WubrFuXsU3l0vXJkTJ0/pok_tv_s0739_2398-master-de-a9e0b5d2c7703b7dcb800cd35761cca0a8386426.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/id/GYRNQgsJyN4qMv5LMIZ6IueoDCVEMrRHufL6QeUWc/pok_tv_s0739_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z-/HP6ysW-pNbbZkmSn707oPMExT4Es0UKrMN_i-tIpw/pok_tv_s0739_2398-master-de.mp4",
             "captions": "",
-            "size": 2673962905
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z-/HP6ysW-pNbbZkmSn707oPMExT4Es0UKrMN_i-tIpw/pok_tv_s0739_2398-master-de.mp4"
         },
         {
             "id": "1f0cf78fa1f54f9e8abd3a0c33699712",
@@ -723,16 +603,13 @@
             "title": "Der König der Ringe",
             "description": "Während eines Wettbewerbs überreden Jessie und Mauzi die Trainer, ihre Pokémon zu einer besondere Entspannungsbehandlung zurückzulassen. Die beiden fangen daraufhin die Pokémon mit einem Netz ein und versuchen zu fliehen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Hwz3j6H1T54ir06DDNplxI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cH/7qibO7iP9SB77oJPHa60uoXDy7TLYskQH9zPv_ouU/pok_tv_s0740_2398-master-de-20616ab3ba949e93a769df0babefe31cbc791e1d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/00/smTE9QTajDnWKlq-Mw-RZwNiCTIU1GwfiA6AiCZvw/pok_tv_s0740_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j3/S04WSXClDy6yhVCrmR_9fhXiZE1EcPf4koezX-4as/pok_tv_s0740_2398-master-de.mp4",
             "captions": "",
-            "size": 2689485805
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j3/S04WSXClDy6yhVCrmR_9fhXiZE1EcPf4koezX-4as/pok_tv_s0740_2398-master-de.mp4"
         },
         {
             "id": "09e356c37fdb461a876b63f13b86613b",
@@ -741,16 +618,13 @@
             "title": "Fliegende Untertassen",
             "description": "Ash und Gefährten verirren sich bei Regen in der Wildnis. Schließlich entdecken sie ein Haus, werden darin jedoch eingesperrt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CeNWw3_bRhoh2tj8TuGYTs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lz/SK2UP_1OBfTWCO6L9vmxU87TlEqvBdGggSZrK2S0U/pok_tv_s0741_2398-master-de-4799fd9efe132e2e2633b989362e2bb8d9cd1433.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dY/fpPcIoHy0kUy1xbHf3zoczrpJdnmUIVZqwEIWW91M/pok_tv_s0741_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1E/ZC_5DZiP393GKYLcWwEU3r9L24shyGWHWtgLKZ45g/pok_tv_s0741_2398-master-de.mp4",
             "captions": "",
-            "size": 2686592221
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1E/ZC_5DZiP393GKYLcWwEU3r9L24shyGWHWtgLKZ45g/pok_tv_s0741_2398-master-de.mp4"
         },
         {
             "id": "627ad91bdc894e2b9c564d1ded8b8cdc",
@@ -759,16 +633,13 @@
             "title": "Apfeldiebe!",
             "description": "Team Rocket hat gewaltigen Hunger und stiehlt einer Knilz-Gruppe die Äpfel. Einige Knilz werden so wütend, dass sie sich zu Kapilz entwickeln und Team Rocket angreifen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YnrZG9yJTisnFZNHe2LjNw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g9/rX2nkp5AC5FgpKSaY-cU3jkfPkzPhDD-v-DeIOuV0/pok_tv_s0742_2398-master-de-f07608f511d6b86a110ee0fbeb6806123083dd6b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Aj/c84Q-OHVfaw9YV-Il_izaBrpd9Tv53vfACMK-ah2I/pok_tv_s0742_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q6/dbuYtWH4_bTMxqMSGnPsAZ8aXJl8oEGdU2VduNQM0/pok_tv_s0742_2398-master-de.mp4",
             "captions": "",
-            "size": 2660035958
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q6/dbuYtWH4_bTMxqMSGnPsAZ8aXJl8oEGdU2VduNQM0/pok_tv_s0742_2398-master-de.mp4"
         },
         {
             "id": "1019e97bdd6348ca9865a29916780a5b",
@@ -777,16 +648,13 @@
             "title": "Der Mann mit den 1000 Gesichtern",
             "description": "Ash und seine Freunde sind auf dem Weg nach Baumhausen City, als es zu regnen und schneien beginnt. Sie suchen Zuflucht und stoßen auf ein Formeo, das ihnen den Weg weist.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EBnpe91jSMomGWimRZ4Cls/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wp/FQ1Hqgffup1Fv-AMI-hExB5lRjoIvLc4ddxZiNuqo/pok_tv_s0743_2398-master-de-bffcb51219f31836d30302258ce18fc721d687cd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/DMiK1iFERGSuUmkfow4Nk8eX5Xn0MtmqP_VjkZrUI/pok_tv_s0743_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8v/KWrdu2i_6aYg3YrQIoQPyhcc5Surp80TRaG6-PGeM/pok_tv_s0743_2398-master-de.mp4",
             "captions": "",
-            "size": 2688492156
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8v/KWrdu2i_6aYg3YrQIoQPyhcc5Surp80TRaG6-PGeM/pok_tv_s0743_2398-master-de.mp4"
         },
         {
             "id": "848b9a52328c475bb46dddb6a045b8b1",
@@ -795,16 +663,13 @@
             "title": "Und wer fliegt jetzt?!",
             "description": "Ash und seine Freunde erklimmen die Stufen zur Baumhausen-Arena. Oben angekommen stellt sich heraus, dass die Arenaleiterin beim Federfest ist.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hIuaUjKMR1stG3dtqBFuLE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IV/GhOA6y5FcWHoUUNq9N4Yl-NT8MZ7K7dh7YXbyY4Dg/pok_tv_s0744_2398-master-de-57d6549fb50291f43ac616ad7a3bf39a2286dc3a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6f/COqWOOZVp2wpW40QvnrkYZH5vUG0fiBXcH8kDaHIM/pok_tv_s0744_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LB/H-LDSx49M6un_yboqEwQs9DAfOJrbh_DMQtPb013g/pok_tv_s0744_2398-master-de.mp4",
             "captions": "",
-            "size": 2687379931
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LB/H-LDSx49M6un_yboqEwQs9DAfOJrbh_DMQtPb013g/pok_tv_s0744_2398-master-de.mp4"
         },
         {
             "id": "ff4bc11e9ba54ef18acc5a93cac1676b",
@@ -813,16 +678,13 @@
             "title": "Kampf um den sechsten Orden",
             "description": "Ash beginnt seinen Kampf gegen Wibke, indem er sein Reptain gegen ihr Altaria in den Kampf schickt. Reptain schaltet Altaria mit Laubklinge aus. Es folgt das Wasser- und Flug-Pokémon Pelipper.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_0vBHpulTvEisxak8rBZ2s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wB/oqbpDJVJb5RiDfeUopkNMitOkO9JAom6t5pawaIMw/pok_tv_s0745_2398-master-de-2b2f67e7d2edb25a42a3f068a2fad8b5d6579f2f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ug/fZbhCGmeFHZCgvo7lmusTv1nlG2gtHiWikkjCqnqA/pok_tv_s0745_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1A/GEiOAYjBN7NcmVHQfSuLIzwk0Davf9ogM_XpU4vrQ/pok_tv_s0745_2398-master-de.mp4",
             "captions": "",
-            "size": 2694465993
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1A/GEiOAYjBN7NcmVHQfSuLIzwk0Davf9ogM_XpU4vrQ/pok_tv_s0745_2398-master-de.mp4"
         },
         {
             "id": "421e2564ff4749ba9a3fbebb7eb7a81b",
@@ -831,16 +693,13 @@
             "title": "Projektor an und Action!",
             "description": "Ash ist für seinen nächsten Orden bereit. Also macht er sich auf nach Moosbach City. Um dorthin zu gelangen, muss er mit seinen Freunden die Fähre in Seegrasulb City nehmen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Qh4lZP9HSbomj--u363qBs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Y/ZJBgPJIutIq_4YYLtV36E52zgabUENa9mNO0hOcJs/pok_tv_s0746_2398-master-de-3297aac4c7604625d5159ddfdcc564f2abdfb5b2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ug/5_gq0-X4R78lYmCZb5Und12-QvowclThvA6CHTAKg/pok_tv_s0746_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S6/iDs5jdI8D1RQuecCnd3f_w4wTnWY5e8dHq9pgm3D4/pok_tv_s0746_2398-master-de.mp4",
             "captions": "",
-            "size": 2690850415
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S6/iDs5jdI8D1RQuecCnd3f_w4wTnWY5e8dHq9pgm3D4/pok_tv_s0746_2398-master-de.mp4"
         },
         {
             "id": "de7edf37e2204ba5ae6a2510555f8269",
@@ -849,16 +708,13 @@
             "title": "Verrückt nach Lunastein",
             "description": "Rudi und Anita vom Pokémon Mystery Club suchen mal wieder nach Pokémon aus dem Weltall und untersuchen daher einen Meteoritenkrater.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3n7fN-IgS6UrmolEFVfgmk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c0/SXrwUFd4-23VZyDZLR7SiaFB8K0rgLG1RQjHwAvAg/pok_tv_s0747_2398-master-de-701a8b196002c1eae55bf72e50a503216e354368.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hA/aWoUAnCLQ8Ye29XaSzW_Dk8S4rHFwkvHZoveft0XI/pok_tv_s0747_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fs/tgBgZsnC8LuxaVjYZdoRB44hGBocLfl3Li11sOan0/pok_tv_s0747_2398-master-de.mp4",
             "captions": "",
-            "size": 2688199335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fs/tgBgZsnC8LuxaVjYZdoRB44hGBocLfl3Li11sOan0/pok_tv_s0747_2398-master-de.mp4"
         },
         {
             "id": "f15b5a75a53145159821dee726e5dd85",
@@ -867,16 +723,13 @@
             "title": "Der Bummelz-Bananen-Garten",
             "description": "Unsere Helden besuchen auf dem Weg nach Seegrasulb City den Bummelz-Bananen-Garten. Aber das Tor ist verschlossen und die Bäume tragen keine Früchte.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8VtadaUxRRUmCHe5ybl3YU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WM/46WI3uHY9wQtO84fPGD9w8kXnuxH56Xu3IeZvZl8c/pok_tv_s0748_2398-master-de-6c032a4733190b810eae6c8e0a8d5ee956cba417.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VB/aVN3ARr7asCmZY_iElDFzXke66fNEKKxkZ74Q3tuQ/pok_tv_s0748_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/td9U-KDF4pvjyVmlivIkrzeKP1RrLByEdoV8z_RmM/pok_tv_s0748_2398-master-de.mp4",
             "captions": "",
-            "size": 2677416503
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/td9U-KDF4pvjyVmlivIkrzeKP1RrLByEdoV8z_RmM/pok_tv_s0748_2398-master-de.mp4"
         },
         {
             "id": "557d084021344d378073ab7a1bfffce8",
@@ -885,16 +738,13 @@
             "title": "Freunde fürs Leben!",
             "description": "Als Ash und seine Freunde nach Seegrasulb City gehen, stürzt direkt vor ihnen ein Baum um. Schuld ist Team Rocket mit seinem riesigen Roboter!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VX0IQCE0TTcgHOrehv__Og/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yR/gWFDXHht4TQOyALABTc-OgYQsEnx3misL8aUMjQAU/pok_tv_s0749_2398-master-de-2b6db47212afa6d8ff99fdbba48edad1ab4f68a0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z5/vTWv40mPml3fjlMtBY0dCz6DnIuIOkrqNDH4RZ4e0/pok_tv_s0749_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eq/-U8yyD9H9m4bFF5qBZfdKMx2_WjEEY5rHzTwXsNXw/pok_tv_s0749_2398-master-de.mp4",
             "captions": "",
-            "size": 2689611843
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eq/-U8yyD9H9m4bFF5qBZfdKMx2_WjEEY5rHzTwXsNXw/pok_tv_s0749_2398-master-de.mp4"
         },
         {
             "id": "84de4dd66e6040cfaa99d8aaa6b47920",
@@ -903,16 +753,13 @@
             "title": "Vladimer, der Angreifer!",
             "description": "Unsere Helden sind endlich in Seegrasulb City angekommen. Ash hat einen Riesenhunger. Sie beschließen, ein Omelett-Restaurant zu besuchen, aber Pikachu rennt weg und führt sie zum Beerenmarkt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hN5N1m5gQM8qpnYqqa0eSA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yi/_lZm0_TmZ18LZzBlLJlzuczPbtSW21RXilRDI1dQQ/pok_tv_s0750_2398-master-de-5df65738ff64bd1768e3e337a4319f1753af2095.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s_/bI1PrSCqaJnASYLExcbS3BO6-bX6hKqrsSpAsgXAU/pok_tv_s0750_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vV/5xi8rP8UpRxkl_AsEnvT85Knyobqg90-KllWXCN-A/pok_tv_s0750_2398-master-de.mp4",
             "captions": "",
-            "size": 2684841285
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vV/5xi8rP8UpRxkl_AsEnvT85Knyobqg90-KllWXCN-A/pok_tv_s0750_2398-master-de.mp4"
         },
         {
             "id": "fcd5f29f83124fa194b04e68b84cd6d1",
@@ -921,16 +768,13 @@
             "title": "Übung macht den Meister!",
             "description": "Junggluts Feuerwirbel gerät in der Wettbewerbshalle von Seegrasulb außer Kontrolle. Jungglut beschützt Maike, die mit einem Feuerball und Himmelhieb des Feuer- und Kampf-Pokémons die Lage entschärft.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_NXyn4MST6ElLBOaLhM1tE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MN/O_UZeNhKc_GzTBRsRcQPqiy2xnxcAAvjKVXUjmzkI/pok_tv_s0751_2398-master-de-817af54d4248a45b8ba85daebc99293963d54ac1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F7/_eNw7x1ZcQDESMkad91yylwzK51YPK97TwkxFWY_k/pok_tv_s0751_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/Dj4q9CqwY_uPhAH6tk7mfR7jKm86RJFWpcD5b04GQ/pok_tv_s0751_2398-master-de.mp4",
             "captions": "",
-            "size": 2693174910
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/Dj4q9CqwY_uPhAH6tk7mfR7jKm86RJFWpcD5b04GQ/pok_tv_s0751_2398-master-de.mp4"
         },
         {
             "id": "e92c04d2c4be43b5b06cb00e20c74482",
@@ -939,16 +783,13 @@
             "title": "Das Herz am rechten Fleck!",
             "description": "Unsere Helden springen in letzter Sekunde an Bord der Fähre nach Seegrasulb, nur um dann festzustellen, dass das Ziel der Reise die Bomba-Insel ist. Dort treffen sie den jungen Trainer Edmund.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6SwE0sS-Q7UsGywDiDHRII/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/29/hs-lVlOIRCneqyTHh3Xy3YM5XIc8wNcstAEn17K6Q/pok_tv_s0752_2398-master-de-afeecb51190942a25eaf6d8ab70e361b0e5f87a1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H7/qdLUExTylqEiOjKZ6-7MKG-tYOSLtKEKGwaEUMnKI/pok_tv_s0752_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R9/mDNtGvs25cizqkoGIRV7uwC34VCWYA8eoQW3BOPI0/pok_tv_s0752_2398-master-de.mp4",
             "captions": "",
-            "size": 2689304248
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R9/mDNtGvs25cizqkoGIRV7uwC34VCWYA8eoQW3BOPI0/pok_tv_s0752_2398-master-de.mp4"
         }
     ]
 }

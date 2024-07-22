@@ -1,18 +1,15 @@
 {
-    "channel_id": "dias-de-verano",
+    "channel_id": "sunny-days",
     "channel_name": "Días de verano",
     "channel_description": "Disfruta de los días soleados y del espíritu de las vacaciones en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sunny-days/sunny-days-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sunny-days/sunny-days-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sunny-days/sunny-days-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/sunny-days/sunny-days-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1656084315,
-    "channel_update_date": 1656084309,
+    "order": -1656084315,
     "media": [
         {
             "id": "12f3c4f4253c4f2ab3a12baaae1bb829",
@@ -21,16 +18,13 @@
             "title": "Dulce Jaimito",
             "description": "El Munchlax de Aura se pone enfermo, y no hay ningún Centro Pokémon cerca, pero una pareja de ancianos muy amable (y su Mime Jr.) ¡acuden a socorrelo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/EvPE9CU8Tyos6Erqq4buCk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H_/Im1OMp_fim9-tuQWzaNu1BVDjVc8S0Fj9o-7DJr-Y/pokemon_season09_ep02_spa-c85fcfd1ece543c48f1c3d5e8a9d687cc58ed968.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H_/Im1OMp_fim9-tuQWzaNu1BVDjVc8S0Fj9o-7DJr-Y/pokemon_season09_ep02_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iU/ZxjCv5YnCVc2lHQEcf6sulrTKIKlSiCSLddf6DOxQ/pokemon_season09_ep02_spa.mp4",
             "captions": "",
-            "size": 2462596012
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iU/ZxjCv5YnCVc2lHQEcf6sulrTKIKlSiCSLddf6DOxQ/pokemon_season09_ep02_spa.mp4"
         },
         {
             "id": "b24c973d1b0d4369b30bfb96618d36d6",
@@ -39,16 +33,13 @@
             "title": "¡Oh! ¿Conoces la receta de los Pokochos?",
             "description": "Maya y Ash han llegado a Pueblo Aromaflor, el lugar del próximo Concurso Pokémon de Maya, así como ¡una clase de cocina sobre Pokochos!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/skyXPRsNQ2kswv7lmGNNtY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4F/FGkwfHUpRgAaefslYcVz0yExgx_uqt1GF7AAeUDFw/pok_tv_s1025_2398-master-cas-862714669571e8f1cd32f4282b300326aff38025.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4F/FGkwfHUpRgAaefslYcVz0yExgx_uqt1GF7AAeUDFw/pok_tv_s1025_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lo/v5X_eTTk-WE1fvYo4-DdAHFMbm3N7_fPTwTH7RAsY/pok_tv_s1025_2398-master-cas.mp4",
             "captions": "",
-            "size": 2597952186
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lo/v5X_eTTk-WE1fvYo4-DdAHFMbm3N7_fPTwTH7RAsY/pok_tv_s1025_2398-master-cas.mp4"
         },
         {
             "id": "bb46b1b434f84f5a80501c17bb8a27f1",
@@ -57,16 +48,13 @@
             "title": "Campamento Pokémon",
             "description": "Ash y sus amigos llegan a tiempo para el Campamento Pokémon en las instalaciones de investigación del Profesor Serbal en Monte Corona, donde jóvenes Entrenadores se reúnen para hacer nuevos amigos y aprender cosas sobre Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/u0axtDT4T1ogFAcF7uKJ_E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1M/0d2Eq73uel0REZuH3YTi8Aad4QxuF2Ea_96FfwQLo/pok_tv_s1136_2398-master-cas-57c0290fc8d2178559637e2c63f22d6b642ded0b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1M/0d2Eq73uel0REZuH3YTi8Aad4QxuF2Ea_96FfwQLo/pok_tv_s1136_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n-/0RnQHC68g4BXJ166xK61CGFq52rpTU-uxbpKKao_Q/pok_tv_s1136_2398-master-cas.mp4",
             "captions": "",
-            "size": 2636102289
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n-/0RnQHC68g4BXJ166xK61CGFq52rpTU-uxbpKKao_Q/pok_tv_s1136_2398-master-cas.mp4"
         },
         {
             "id": "a2b3fececcd9400fb527fc2fe4f1e9ee",
@@ -75,16 +63,13 @@
             "title": "¡Verano de descubrimientos!",
             "description": "Es el primer día del Campamento de Verano Pokémon del Profesor Ciprés, y las emocionantes aventuras solo acaban de empezar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/orP-zszZQA8tSf8L-Tx6e4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Le/P9FRkPJ76Ing1PnchDzXsu11ICy-2mCBkpWNK9fzI/pok_tv_s1738_2997-master-cas-sdt-h264-b686a48abd8013512210e8263c78b4b87505be57.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iq/ufcnKLGo9TyN5kFMetfoCf3KXwD1ZrcpRqrhSEGHs/pok_tv_s1738_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nE/e_Myv20tYKIEmi3nxMy77edK0ZVd8s8CrIF2D9yu8/pok_tv_s1738_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3297153110
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nE/e_Myv20tYKIEmi3nxMy77edK0ZVd8s8CrIF2D9yu8/pok_tv_s1738_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "35f81d35cf144d23a63795da9e0f51f7",
@@ -93,16 +78,13 @@
             "title": "¡Los Pokémon de tipo Planta más verdes del hogar!",
             "description": "Ha llegado el momento del Combate de Gimnasio de Ash en Ciudad Témpera y, con ello, la oportunidad de aprender y madurar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NfgdNc8UTSMpjeV2p4PUfc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/Em_3xp2rE8p2ONU0glzyX6G8obaAWD2BS5zSdVFOw/pok_tv_s1810_2997-master-cas-sdt-v2-h264-56a3dc466fed8d553b6491b46a2b74c88ce02f03.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/Em_3xp2rE8p2ONU0glzyX6G8obaAWD2BS5zSdVFOw/pok_tv_s1810_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rf/VNIrU7sUoj-5P6RBQROrpNNoTtvGDHb199lRojPLQ/pok_tv_s1810_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3306481021
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rf/VNIrU7sUoj-5P6RBQROrpNNoTtvGDHb199lRojPLQ/pok_tv_s1810_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "d2c369bbaf394b10a663370b9ef77433",
@@ -111,16 +93,13 @@
             "title": "¡Alola a nuevas aventuras!",
             "description": "Lo que empieza siendo unas vacaciones para nuestro héroe en la isla de Melemele en la región de Alola se convierte en la promesa de muchas, muchas emocionantes aventuras futuras",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0sNpu685SxApmM3C573dDM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mw/86KhFnpNaxh8FtTagLLJRAX3wRdjIrDvzKiissCvc/pokemon_season20_ep01_spa-4f023f861d9405d220170ebf9ac72f134f165d6a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mw/86KhFnpNaxh8FtTagLLJRAX3wRdjIrDvzKiissCvc/pokemon_season20_ep01_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ow/01ZC11kPSntmeB4as3jaHVo4BV_qAVyb318_Wn8KU/pokemon_season20_ep01_spa.mp4",
             "captions": "",
-            "size": 2716073138
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ow/01ZC11kPSntmeB4as3jaHVo4BV_qAVyb318_Wn8KU/pokemon_season20_ep01_spa.mp4"
         },
         {
             "id": "c8ec2a92469f4df0a2a1e796ce72ad2e",
@@ -129,16 +108,13 @@
             "title": "¡Curriándose el favor y el sabor!",
             "description": "Nuestros héroes se embarcan en una misión llena de aromas y sabores, y con un final sorprendente.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/yOwqkkafTfAoqHnls5yrS4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R4/BdfYzlYmeUzSDYAi-4WRkjSkETycri-ISQR46oXGU/pokemon_season20_ep35_spa-6baa433d4edbe958226c54f302c2a675e5bff1ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R4/BdfYzlYmeUzSDYAi-4WRkjSkETycri-ISQR46oXGU/pokemon_season20_ep35_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/we/jjvwoRvsemGxwWYSJVmWmCWxwve9tCYgrBAaVyi5I/pokemon_season20_ep35_spa.mp4",
             "captions": "",
-            "size": 2632010086
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/we/jjvwoRvsemGxwWYSJVmWmCWxwve9tCYgrBAaVyi5I/pokemon_season20_ep35_spa.mp4"
         },
         {
             "id": "73194eb6d55c4d5a8bdee2534549a3f8",
@@ -147,16 +123,13 @@
             "title": "¡Corazón De Fuego, Corazón De Piedra!",
             "description": "Brock y Misty continúan disfrutando de sus vacaciones en la región de Alola, pero hay algunos a los que les gustaría que eso no fuera así.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cxlOttVcTVoi97iU0VJo_g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c4/HEObfAUtZEholXZGe9NTNkagdtObVYcN4o9AxwWaw/pokemon_season22_ep11_spa-e4eb19d6be8af530ffe2278041aee1ea179a680f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c4/HEObfAUtZEholXZGe9NTNkagdtObVYcN4o9AxwWaw/pokemon_season22_ep11_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/hG3rvH3sN7TkjTfZdtwdQT5Qjc9OYRoeuX3AtsVUM/pokemon_season22_ep11_spa.mp4",
             "captions": "",
-            "size": 2870855500
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/hG3rvH3sN7TkjTfZdtwdQT5Qjc9OYRoeuX3AtsVUM/pokemon_season22_ep11_spa.mp4"
         },
         {
             "id": "e7b1a3e7b4e6463f997affc3482ebe83",
@@ -165,16 +138,13 @@
             "title": "¡Sueños \"Sol y Luna\"!",
             "description": "Ahora que la Liga Pokémon de Alola ha terminado, ha llegado el momento de que los niños de la Escuela Pokémon hagan planes para pasar sus vacaciones.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep53_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep53_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep53_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/57Gj57TmRj8mXr_w0guvoM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fu/lZe_2ExbS89WBnS-ALN6DcXKRe5IbjIjktl4NsJ1U/pokemon_season22_ep53_spa-f2b7fd64b62416c7c2d63e1e08bf3c31e1f848fd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fu/lZe_2ExbS89WBnS-ALN6DcXKRe5IbjIjktl4NsJ1U/pokemon_season22_ep53_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/58/lOwi4kF1NOZ_E5ITB7qi6Xq1-_ES7VpHR6YI3E3-o/pokemon_season22_ep53_spa.mp4",
             "captions": "",
-            "size": 2958956520
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/58/lOwi4kF1NOZ_E5ITB7qi6Xq1-_ES7VpHR6YI3E3-o/pokemon_season22_ep53_spa.mp4"
         },
         {
             "id": "c061f92d7c76411985666b27d0055718",
@@ -183,16 +153,13 @@
             "title": "¡Pánico en el parque!",
             "description": "¡Aunque es maravilloso contemplar el Parque Cerezo, a veces surgen problemas en el paraíso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wGH5LXx2QRkhWZrJ9AFVxg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VE/-5BROn_LCsazpLICx91CqFmo9slIYcSaBJJkw29NQ/es-es-23-23-853d1cc0eed6449a23096d6cc298b6901458ef5d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Or/RirdBFVPNAMgqPk-cUgU0u8hFP5sZliCQ22G2hso8/es-es-23-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M7/Tv3bQnADNZ1sB7CJJNf3CrQ24K7c7gZlQphr4Z8WA/es-es-23-23.mp4",
             "captions": "",
-            "size": 2711855600
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M7/Tv3bQnADNZ1sB7CJJNf3CrQ24K7c7gZlQphr4Z8WA/es-es-23-23.mp4"
         }
     ]
 }

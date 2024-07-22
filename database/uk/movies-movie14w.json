@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-the-movie-white-victini-and-zekrom",
+    "channel_id": "movie14w",
     "channel_name": "Pokémon the Movie: White—Victini and Zekrom",
     "channel_description": "When a plot to use Victini’s power threatens a town, Ash calls on Reshiram and Zekrom to help save the day. See the action on Pokémon TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14w-1125x1500-en.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-1660x940.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 4,
-    "channel_creation_date": 1472739849,
-    "channel_update_date": 1619193759,
+    "order": -14001,
     "media": [
         {
             "id": "91b3fe89fb8744e9bf4b0e55f5689225",
@@ -21,16 +18,13 @@
             "title": "Pokémon the Movie: White—Victini and Zekrom",
             "description": "The Power of a Hero's Ideals",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie14/movie14w_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie14/movie14w_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie14/movie14w_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/kbP-ifuHROkv0sOVfVokiU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dg/q_UBKbRInsPEv6WjHkAal9ao_mISf97H-TGYyQPO8/pokemon_movie14_white_eng-fd04ee16cd25e752a59dff782a6c7d66ee81705a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dg/q_UBKbRInsPEv6WjHkAal9ao_mISf97H-TGYyQPO8/pokemon_movie14_white_eng.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hg/fxOMiuhjsHs4NTNYr79t5VNlskC3ZhNyyawLjCtUw/pokemon_movie14_white_eng.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dg/q_UBKbRInsPEv6WjHkAal9ao_mISf97H-TGYyQPO8/vtt/8/en.vtt",
-            "size": 11942451483
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hg/fxOMiuhjsHs4NTNYr79t5VNlskC3ZhNyyawLjCtUw/pokemon_movie14_white_eng.mp4"
         }
     ]
 }

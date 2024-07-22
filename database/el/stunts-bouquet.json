@@ -1,18 +1,15 @@
 {
-    "channel_id": "ramo-de-pokemon",
+    "channel_id": "bouquet",
     "channel_name": "Ramo de Pokémon",
     "channel_description": "Bulbasaur, Sunflora y Floette protagonizan un ramo de episodios en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/bouquet/bouquet-1125x1500-latam.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/bouquet/bouquet-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/bouquet/bouquet-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/bouquet/bouquet-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1682696787,
-    "channel_update_date": 1682696785,
+    "order": -1682696787,
     "media": [
         {
             "id": "0e7c6774bbed4bcda1175f02d2a61379",
@@ -21,16 +18,13 @@
             "title": "¡El jardín misterioso de Bulbasaur!",
             "description": "En una batalla con el Rhyhorn de otro Entrenador, el bulbo en la espalda de Bulbasaur empieza a brillar. Ash lo lleva al Centro Pokémon del lugar. Pronto descubren que Bulbasaur no está enfermo, ¡se prepara para evolucionar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DnxndLvtS80oRdfAtKmE3k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IM/Af4mU-nGRUKwuDqnIFRqKpsPxa6WWNFJh8_QmsIp8/pok_tv_s0148_2398-master-las-8b4e85ea3b57e461153c26adb9f3cd952d193425.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IM/Af4mU-nGRUKwuDqnIFRqKpsPxa6WWNFJh8_QmsIp8/pok_tv_s0148_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XT/GBhLM_I6AdVcoLYuaunUdB9miiCYduPQYfIEbr-DA/pok_tv_s0148_2398-master-las.mp4",
             "captions": "",
-            "size": 2807258877
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XT/GBhLM_I6AdVcoLYuaunUdB9miiCYduPQYfIEbr-DA/pok_tv_s0148_2398-master-las.mp4"
         },
         {
             "id": "d56252e03ee742f0b576477c728b3e52",
@@ -39,16 +33,13 @@
             "title": "Sonríe para ganar",
             "description": "En su camino hacia el Gimnasio Azalea, nuestros héroes descubren un festival de Sunflora en un pueblo cercano y conocen a un Entrenador cuya Sunflora está demasiado triste para competir. ¿Podrán Ash y sus amigos alegrarla?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1WJS4D7nQvAtXZHfHKLPlI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5w/2TT-dJP0SURssinuU5XfHLaECV8VEyUaH3UHyw-yA/pok_tv_s0330_2997-master-las-46bc7bf689faf7d389aafa4a9985cdc7022124a3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5w/2TT-dJP0SURssinuU5XfHLaECV8VEyUaH3UHyw-yA/pok_tv_s0330_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xF/qHL0PsB3qDQb1rX6gAcqowna5WE12O15kMGpvtfWA/pok_tv_s0330_2997-master-las.mp4",
             "captions": "",
-            "size": 2851625426
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xF/qHL0PsB3qDQb1rX6gAcqowna5WE12O15kMGpvtfWA/pok_tv_s0330_2997-master-las.mp4"
         },
         {
             "id": "ea090413a3a041be8a2e5e89efe7f89c",
@@ -57,16 +48,13 @@
             "title": "La ruta de la hierba",
             "description": "Luego de oír sobre un torneo cercano para Pokémon tipo Planta, Ash decide entrar… ¡y pronto una rivalidad nace en el calor de la batalla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6gkEE6OgQb4ii5eie_n-Jw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nn/c5yiScwjJoaL4Q120yvokbWxwXIx7h8I9ug3FkYXY/pok_tv_s0421_2997-master-las-64370bd60f1545b42582fbea2a7d6f82b66a2e61.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nn/c5yiScwjJoaL4Q120yvokbWxwXIx7h8I9ug3FkYXY/pok_tv_s0421_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1F/FKnMjiocOkKDJ0Z8ensJJiaBku0luMBy-3USVPrko/pok_tv_s0421_2997-master-las.mp4",
             "captions": "",
-            "size": 2668135878
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1F/FKnMjiocOkKDJ0Z8ensJJiaBku0luMBy-3USVPrko/pok_tv_s0421_2997-master-las.mp4"
         },
         {
             "id": "9be112c0faf247e08194195397027af4",
@@ -75,16 +63,13 @@
             "title": "Para donde sople el viento",
             "description": "Nuestros héroes encuentran grupos de batalla de Bellossom y Vileplume, recientemente evolucionados. Como cada grupo lucha cada vez con mayor número e intensidad, ¿podrán nuestros héroes ponerle fin a la disputa?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/m-ESwPryR-AgZQZU5cCevQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i7/SMEkK7nD7-06QcflgAJB0lDYbPoaRWRcHlx0UKoc8/pok_tv_s0530_2997-master-las-9483a9e1be8439bb97b80585defa2727a49c1cb6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i7/SMEkK7nD7-06QcflgAJB0lDYbPoaRWRcHlx0UKoc8/pok_tv_s0530_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5j/QLeHG72fPh3xH-v5WTnRd1TJeBjisoYFCHkdlgNBw/pok_tv_s0530_2997-master-las.mp4",
             "captions": "",
-            "size": 2670283736
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5j/QLeHG72fPh3xH-v5WTnRd1TJeBjisoYFCHkdlgNBw/pok_tv_s0530_2997-master-las.mp4"
         },
         {
             "id": "68b969c3927d44528db0c5d1ec175bb2",
@@ -93,16 +78,13 @@
             "title": "¡Histeria de hierba!",
             "description": "Cuando May accidentalmente entra a un lugar prohibido donde sólo viven Pokémon tipo Planta, pronto se hace amiga de un Bulbasaur.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aLlpw5J9RFIjbDF0ewXW7I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rf/1F6WUwwy8nt-o_i6Jm56RS9kb7bVRu9a5MzMbO63M/pok_tv_s0733_2997-master-las-1ea1fee731155ec1a4e4dca20c7e662276bc286b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rf/1F6WUwwy8nt-o_i6Jm56RS9kb7bVRu9a5MzMbO63M/pok_tv_s0733_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wY/aA_x_-OVbHTbdolOhwMxDN7oxrM7h61iVAi_K79TQ/pok_tv_s0733_2997-master-las.mp4",
             "captions": "",
-            "size": 2670841332
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wY/aA_x_-OVbHTbdolOhwMxDN7oxrM7h61iVAi_K79TQ/pok_tv_s0733_2997-master-las.mp4"
         },
         {
             "id": "521937b06ce14c439583d925d07fc725",
@@ -111,16 +93,13 @@
             "title": "La evolución de Grovyle",
             "description": "Mientras nuestros héroes continúan hacia el siguiente Concurso Pokémon de May, el Grovyle de Ash abriga un sentimiento por el Meganium de la Enfermera Joy.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Uhk3sGzhTEMlYPZJdB_xyU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UK/iWKWx_x68Wn7U9WFz5c3Vp6zOFBR6bITkJulrRtCM/pok_tv_s0916_2997-master-las-d540f39d655bba378c1c7a597c8c68550ffb67a4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UK/iWKWx_x68Wn7U9WFz5c3Vp6zOFBR6bITkJulrRtCM/pok_tv_s0916_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/xSm1fhS-z36tOwCuw_Dgolm9TTcXReEWJj1fmIssk/pok_tv_s0916_2997-master-las.mp4",
             "captions": "",
-            "size": 2646872031
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/xSm1fhS-z36tOwCuw_Dgolm9TTcXReEWJj1fmIssk/pok_tv_s0916_2997-master-las.mp4"
         },
         {
             "id": "ddf5c3fe9ab54303bd9b336e2ad15d95",
@@ -129,16 +108,13 @@
             "title": "¡Las cuatro estaciones de Sawsbuck!",
             "description": "Haciendo una parada en un Centro Pokémon camino a Ciudad Driftveil, nuestros héroes conocen a un joven Fotógrafo Pokémon en una misión impresionante.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3fXD_pq1QwMvZszbirRXZU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vi/iUY6xEHxCwJRvBHmIGfdEtBwOnroBj5WA135YDngk/pok_tv_s1506_2997-master-las-da167db342beb0714f977ce85a564b90fbaf72f8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vi/iUY6xEHxCwJRvBHmIGfdEtBwOnroBj5WA135YDngk/pok_tv_s1506_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/uXs_9EyIMYcMU9T7zhyWeZZyIQSX-QGVp5T15Addo/pok_tv_s1506_2997-master-las.mp4",
             "captions": "",
-            "size": 2672887022
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/uXs_9EyIMYcMU9T7zhyWeZZyIQSX-QGVp5T15Addo/pok_tv_s1506_2997-master-las.mp4"
         },
         {
             "id": "ee6b17b304bb433fb1cd53b69e2ec89d",
@@ -147,16 +123,13 @@
             "title": "¡Un encuentro ventoso!",
             "description": "Un campo enorme de flores brinda a nuestros héroes un hermoso escenario para presenciar una floreciente amistad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7msXswS7Qz8sc1Ttp4uyJ0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wS/7lsA5oPrhFp0T5OcHg1wS-k4hq0oAiyhlXW1gjA4I/pok_tv_s1911_2997-master-las-18208544ae194be3e726e3a25e13db9038f6abc2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wS/7lsA5oPrhFp0T5OcHg1wS-k4hq0oAiyhlXW1gjA4I/pok_tv_s1911_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fo/_YtL5BSseM4I1zKO-9vdvJTsg5TQ-Fa9VibCgVAuQ/pok_tv_s1911_2997-master-las.mp4",
             "captions": "",
-            "size": 2731130893
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fo/_YtL5BSseM4I1zKO-9vdvJTsg5TQ-Fa9VibCgVAuQ/pok_tv_s1911_2997-master-las.mp4"
         },
         {
             "id": "bc8bc1aa1de946fe9c002bce08c32356",
@@ -165,16 +138,13 @@
             "title": "¡Memorias en la niebla!",
             "description": "Una visita al huerto de Hapu ¡envuelve a nuestros héroes en una experiencia que nunca olvidarán!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vIvBqh3pRv4nAArzgjDI1Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jQ/Ea-Hsx0dRdDOYr2ED8r-m5vHp7iEaTpDV9vs4C9vs/pokemon_season22_ep16_las-7b659c0d7aafb4d453df4a2ea892c4c4b27dde3e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jQ/Ea-Hsx0dRdDOYr2ED8r-m5vHp7iEaTpDV9vs4C9vs/pokemon_season22_ep16_las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6h/k-6ThdWtRwJ7VGotcQsrOKkN0hIy--PyQe5OqKA9M/pokemon_season22_ep16_las.mp4",
             "captions": "",
-            "size": 2905098346
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6h/k-6ThdWtRwJ7VGotcQsrOKkN0hIy--PyQe5OqKA9M/pokemon_season22_ep16_las.mp4"
         }
     ]
 }

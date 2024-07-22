@@ -1,18 +1,15 @@
 {
-    "channel_id": "mewtwo-vs-mew",
+    "channel_id": "movie01",
     "channel_name": "Mewtwo vs. Mew",
     "channel_description": "Ve a Ash y a sus amigos enfrentarse al poderoso Pokémon Legendario Mewtwo en la película Mewtwo vs. Mew, ¡ahora en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-es.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 3,
-    "channel_creation_date": 1560369949,
-    "channel_update_date": 1687525548,
+    "order": -1000,
     "media": [
         {
             "id": "f42a98fc2d0c465086bbaad89572a312",
@@ -21,16 +18,13 @@
             "title": "Mewtwo vs. Mew",
             "description": "Giovanni, el líder del Equipo Rocket, contrata a un científico para usar sus conocimientos en materia de clonación y crear así un arma viviente. Esa arma, un Pokémon llamado Mewtwo, está furioso por haber sido usado por los humanos. Ash, Pikachu y sus amigos tratan de frenar las ansias destructoras de Mewtwo y demostrar que las personas y los Pokémon se definen por sus acciones y no por sus orígenes.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9CqY_C0MRlAhruq2JVyoxI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2E/5ns_ujWXMa7LqqgSxbgFShBLKqaVjhly_x82is0Ds/m1_las_esp-7e9c63bb3498595d3afdd8a935a1ec5b65d344cb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2E/5ns_ujWXMa7LqqgSxbgFShBLKqaVjhly_x82is0Ds/m1_las_esp.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/eQo9FEqxX7psOaP5gOdHgn-hcMXJCAXw6VbrRnjLE/m1_las_esp.mp4",
             "captions": "",
-            "size": 10359051803
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nZ/eQo9FEqxX7psOaP5gOdHgn-hcMXJCAXw6VbrRnjLE/m1_las_esp.mp4"
         }
     ]
 }

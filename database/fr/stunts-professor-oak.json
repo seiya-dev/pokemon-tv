@@ -1,18 +1,15 @@
 {
-    "channel_id": "le-poete-pokemon",
+    "channel_id": "professor-oak",
     "channel_name": "Le poète Pokémon",
     "channel_description": "C’est avec fierté que le Professeur Chen présente de joyeux poèmes Pokémon sur TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1125x1500-fr.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1627661727,
-    "channel_update_date": 1627661722,
+    "order": -1627661727,
     "media": [
         {
             "id": "7d7f23effae647a1a647c8fe6f25a931",
@@ -21,16 +18,13 @@
             "title": "Une rencontre mouvementée",
             "description": "Alors qu'ils se rendent à Céladopole, nos héros rencontrent un Férosinge, un Pokémon sauvage qui peut se mettre dans une colère incontrôlable lorsqu'on le provoque.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fX8j7_rmR6EpkfI_m8lqTE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T9/SLUBEtULjd2Dl7Dy6IyYOb81zULBYMtheNyRQd5eY/pok_tv_s0124_2398-master-fr-977294f4348b049077edaac016161d14516f1a9e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T9/SLUBEtULjd2Dl7Dy6IyYOb81zULBYMtheNyRQd5eY/pok_tv_s0124_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wv/oEV9d7KSdfINiwkKf7sHa_iOtZfYaN-XtYvoO2jnc/pok_tv_s0124_2398-master-fr.mp4",
             "captions": "",
-            "size": 2804781799
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wv/oEV9d7KSdfINiwkKf7sHa_iOtZfYaN-XtYvoO2jnc/pok_tv_s0124_2398-master-fr.mp4"
         },
         {
             "id": "a6a1ad92861f4b049fe33fafe2197aac",
@@ -39,16 +33,13 @@
             "title": "Y a-t-il un Professeur Chen dans l'assistance ?",
             "description": "Jessie et James de la Team Rocket entendent parler d'une réception huppée organisée en l'honneur des célèbres invités d'un présentateur d'une émission radio qui sera enregistrée devant le public. Ils s'empressent alors d'annoncer qu'ils sont les célébrités que tout le monde attend avec impatience.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pqGtkoYfSwQn-M_r-IZeqw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RY/v7PHtSdPbcu8BJOngpgVoPXRZNx4sbOYGvuiV5440/pokemon_season05_ep36_fre-29226ee64f0ad632e8ee4443a28c0a4f5121e448.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RY/v7PHtSdPbcu8BJOngpgVoPXRZNx4sbOYGvuiV5440/pokemon_season05_ep36_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7s/Sj2s-O0ltQbMiEWQuF1Ds63LeZWX6tsqoo2HnrlVo/pokemon_season05_ep36_fre.mp4",
             "captions": "",
-            "size": 2574216412
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7s/Sj2s-O0ltQbMiEWQuF1Ds63LeZWX6tsqoo2HnrlVo/pokemon_season05_ep36_fre.mp4"
         },
         {
             "id": "84e148317f37475099c240718d38b62c",
@@ -57,16 +48,13 @@
             "title": "Sous le sable, le Pokémon",
             "description": "Alors que les membres de la Team Rocket se détendent sur la plage, une mystérieuse créature passe soudainement en trombe et les envoie vers d'autres cieux.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/hOFIMX83R1AmcJAcY04tiw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_r/g9hO2TvFGWZhEkpGaZ7tHYmckS4fA1gsUdjjJtSk8/pokemon_season06_ep35_fre-467de2fbefdc649e9ebec3d8872c590b841eb8f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_r/g9hO2TvFGWZhEkpGaZ7tHYmckS4fA1gsUdjjJtSk8/pokemon_season06_ep35_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gc/SUTM6liQSZtZVIwI3X9HDAFQ-813GLnKoqKz84jH4/pokemon_season06_ep35_fre.mp4",
             "captions": "",
-            "size": 2558465909
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gc/SUTM6liQSZtZVIwI3X9HDAFQ-813GLnKoqKz84jH4/pokemon_season06_ep35_fre.mp4"
         },
         {
             "id": "73a6034e6901460cb1d587d6cebf6ed5",
@@ -75,16 +63,13 @@
             "title": "Poésie Pokémon",
             "description": "Sacha et ses amis arrivent à Vermilava. Sacha se dirige aussitôt vers l'Arène pour y affronter la Championne Adriane lors d'un combat enflammé.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/c6YDTmkBRgwsdWH1s6_btU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5M/qMg9J9ujpBYi_i_V7T3lNl--mZES2gxzIbOvR_-Zc/pok_tv_s0715_2398-master-fr-c514a149b0eac82a7e78a8d8ba5bff7d843da8d3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Py/v6v-TtqBlJOJsLGDuVIb-foHURVkPT3xNgmwuAfrY/pok_tv_s0715_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pm/vFkEXDyBiM6Zolafn7Pw8dfTXDaV4bHzHfm9wW704/pok_tv_s0715_2398-master-fr.mp4",
             "captions": "",
-            "size": 2687254714
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pm/vFkEXDyBiM6Zolafn7Pw8dfTXDaV4bHzHfm9wW704/pok_tv_s0715_2398-master-fr.mp4"
         },
         {
             "id": "d1f4bc9dbb5c4cd28f37602aee6f62cb",
@@ -93,16 +78,13 @@
             "title": "Retour pour un nouveau départ",
             "description": "Sacha est revenu à Bourg Palette pour y retrouver ses amis ! Flora décide de faire une halte chez Sacha, mais ce dernier est parti au laboratoire du Professeur Chen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0fS8nbtcTNIjzdgKu5vYss/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/UMCFMANQ4z8hjc_i-YAN5th9TkjJ5Mraas9U7gMo0/pok_tv_s0840_2398-master-fr-4dd75f837f467c5bf27f0b49daeb8c0fe304d6ec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/UMCFMANQ4z8hjc_i-YAN5th9TkjJ5Mraas9U7gMo0/pok_tv_s0840_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_Y/NXAt3hJNBsKuVYKXKoYf5QkB7yVi9WIE0XmbORViw/pok_tv_s0840_2398-master-fr.mp4",
             "captions": "",
-            "size": 2720841251
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_Y/NXAt3hJNBsKuVYKXKoYf5QkB7yVi9WIE0XmbORViw/pok_tv_s0840_2398-master-fr.mp4"
         },
         {
             "id": "3ad75dd0f63c4633bba91f8ad92ca5ba",
@@ -111,16 +93,13 @@
             "title": "Remise en question",
             "description": "Sacha se remet encore de sa défaite à la Pyramide Extrême et Flora est également accablée par son échec au Grand Festival.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Otdd0PY8RjMu6kfitkspbo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Od/jW5LbpjzaQydv72ptznF0vmY8Tsik32w4H9sYIM6k/pokemon_season09_ep42_fre-5ee8804beeef3480f6c0a22bf6d012df3353db15.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Od/jW5LbpjzaQydv72ptznF0vmY8Tsik32w4H9sYIM6k/pokemon_season09_ep42_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9D/irlywIVVc301Xs3ag4_avMrwoUrsczryCHhr2COus/pokemon_season09_ep42_fre.mp4",
             "captions": "",
-            "size": 2456473106
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9D/irlywIVVc301Xs3ag4_avMrwoUrsczryCHhr2COus/pokemon_season09_ep42_fre.mp4"
         },
         {
             "id": "98f7c025b51745c19415e465a7b6e58d",
@@ -129,16 +108,13 @@
             "title": "Deux visions opposées",
             "description": "Paul capture un Étourmi et défie Sacha en duel, mais sans Pikachu, Sacha n'a pas assez de Pokémon pour combattre à 3 contre 3 !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mPfAJbUXRcElBXkZae25Y0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lu/Z_cuyDJgQz_Ew9Lx1c4kbZroP17aza3WpvczlcDDs/pok_tv_s1003_2398-master-fr-84e0d11f60c65c7864c6302288470831b9abcb61.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lu/Z_cuyDJgQz_Ew9Lx1c4kbZroP17aza3WpvczlcDDs/pok_tv_s1003_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Em/WjBs6N-l92tfK-aKFucdn9D870RB3Z6C1W9nnFn3U/pok_tv_s1003_2398-master-fr.mp4",
             "captions": "",
-            "size": 2651925935
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Em/WjBs6N-l92tfK-aKFucdn9D870RB3Z6C1W9nnFn3U/pok_tv_s1003_2398-master-fr.mp4"
         },
         {
             "id": "100f3b4c74154361bade60a1797501ce",
@@ -147,16 +123,13 @@
             "title": "Chasse aux Dinoclier",
             "description": "Près du Mont Couronné, Sacha et ses amis tombent sur les sbires de la Chasseuse de Pokémon J qui essayent de kidnapper un groupe de Dinoclier sauvages. Sacha se lance à leur rescousse, mais son vieil ami et rival Régis arrive en premier avec son Élekable.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EA87THQVQ2Eut5goXl1Ac4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fc/U2QWJw8BpvxjmMvEcL4SI2uKqoJkMnz0KuR66SW9A/pok_tv_s1045_2398-master-fr-292bc74d0df0415b4b90cd0b1375b295cea0cce9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fc/U2QWJw8BpvxjmMvEcL4SI2uKqoJkMnz0KuR66SW9A/pok_tv_s1045_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XF/Bzw2uVIKj_JpJJupeGEv-Zg1zboJgAQbYhloz_hI0/pok_tv_s1045_2398-master-fr.mp4",
             "captions": "",
-            "size": 2651431439
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XF/Bzw2uVIKj_JpJJupeGEv-Zg1zboJgAQbYhloz_hI0/pok_tv_s1045_2398-master-fr.mp4"
         },
         {
             "id": "e8f72f77272a413081f7459c07451b19",
@@ -165,16 +138,13 @@
             "title": "Duel mère-fille !",
             "description": "Alors que nos amis arrivent chez Aurore à Bonaugure, Johanna, la mère d'Aurore, est occupée à planifier le festival de la ville avec Isis et Carla.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6PcvdycqQTAgfdFnAdFGxk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sb/_5qu4mn6i7YaVM33c5fqgFTH4LxxHKw-KKBKXJHio/pok_tv_s1233_2997-master-fr-e5ce4cad3c5035d6888069defdd2161c3774ea32.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ne/kIJlfbL1wc6EpkLxG_b_JxRvbC6bzTyFYoK9SS7c0/pok_tv_s1233_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EE/iRBbSjRoRXXPsQPzdVhZpzo2dK0YJO8L_X6AL_V4g/pok_tv_s1233_2997-master-fr.mp4",
             "captions": "",
-            "size": 2673119596
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EE/iRBbSjRoRXXPsQPzdVhZpzo2dK0YJO8L_X6AL_V4g/pok_tv_s1233_2997-master-fr.mp4"
         },
         {
             "id": "4a58d25c03f647d49f8a6b8b786700c9",
@@ -183,16 +153,13 @@
             "title": "L'usurpateur !",
             "description": "C'est le premier jour du Festival de Bonaugure et le Professeur Chen est censé donner une conférence sur l'interaction des Pokémon avec les Pierres d'évolution.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SljSXAP2R9Qn4pri3hnAMk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bM/5JlRrQYFR65w9oSJOsaDnbbZo3ZvO9BumWrCPzrIA/pok_tv_s1234_2997-master-fr-31c371c34561ce6330cfc99e81f533c35aa8ff11.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3I/HZMIOSQyxquIkVB-IOo-jjsdVGk-82kMa80xOxZ7Y/pok_tv_s1234_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/DaVOZU3FKTBRG3WeheTKhMRPIot2Lce8WHbc_I7gc/pok_tv_s1234_2997-master-fr.mp4",
             "captions": "",
-            "size": 2691604822
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ck/DaVOZU3FKTBRG3WeheTKhMRPIot2Lce8WHbc_I7gc/pok_tv_s1234_2997-master-fr.mp4"
         },
         {
             "id": "7dbaf673b8e542158c19db32b34f5e02",
@@ -201,16 +168,13 @@
             "title": "Alola, Kanto!",
             "description": "La fête d’anniversaire de l’école Pokémon devient une réunion d’amis que nul n’est près d’oublier !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/fbr2c7jlQhUjBnbMrNPXgI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lq/c9ZP8vUBpwz5oe3bcxTdZx6-GgJbRRYtRkfLN5Gm0/pokemon_season20_ep42_fre-0cb616f385c8f4090338fb53027668a4f0653782.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lq/c9ZP8vUBpwz5oe3bcxTdZx6-GgJbRRYtRkfLN5Gm0/pokemon_season20_ep42_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/--/moBNsElQnY3fN23pMA_U06nHaHSqbemUhE8yM12J8/pokemon_season20_ep42_fre.mp4",
             "captions": "",
-            "size": 2622886777
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/--/moBNsElQnY3fN23pMA_U06nHaHSqbemUhE8yM12J8/pokemon_season20_ep42_fre.mp4"
         }
     ]
 }

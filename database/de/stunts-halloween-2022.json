@@ -1,18 +1,15 @@
 {
-    "channel_id": "schaurig-viele-emotionen",
+    "channel_id": "halloween-2022",
     "channel_name": "Schaurig viele Emotionen",
     "channel_description": "Deine gruseligen Lieblingstrainer bringen dir Emotionen und Gänsehaut auf Pokémon-TV.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/halloween/2022/halloween-1125x1500-de.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/halloween/2022/halloween-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/halloween/2022/halloween-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/halloween/2022/halloween-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1665754903,
-    "channel_update_date": 1665754898,
+    "order": -1665754903,
     "media": [
         {
             "id": "546d9b43e4e1405f9a4e243d23bcea16",
@@ -21,16 +18,13 @@
             "title": "Abra und das Psycho-Duell",
             "description": "Die Gruppe erreicht endlich Saffronia City, wo ein junges Mädchen mithilfe ihrer Psychokräfte eine Pokémon-Arena leitet. Indem Ash diese Arenaleiterin besiegt, kann er sich einen goldenen Orden verdienen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VG2bQ-ThQF8mk4kPSO86hY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HT/lNid2IASgykS94M3ZQWkVa5AyqD2kqEp2UWzaAxCk/pok_tv_s0121_2398-master-de-ad8ae9f286b5569c9d3d7336a83132f9436a8b09.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HT/lNid2IASgykS94M3ZQWkVa5AyqD2kqEp2UWzaAxCk/pok_tv_s0121_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2_/1h2j7-TH8fwKVOXu6NqXI4vFdIYZ3A6ufPqirkWE0/pok_tv_s0121_2398-master-de.mp4",
             "captions": "",
-            "size": 2794879255
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2_/1h2j7-TH8fwKVOXu6NqXI4vFdIYZ3A6ufPqirkWE0/pok_tv_s0121_2398-master-de.mp4"
         },
         {
             "id": "2b1953c448f7437fb81592dba7594323",
@@ -39,16 +33,13 @@
             "title": "Unklares Schicksal, leuchtende Zukunft!",
             "description": "Auf dem Weg zu Ashs nächstem Kampf in der Fluxia-Arena lernen unsere Helden die dortige Arenaleiterin und ihre unglaublichen Kräfte kennen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep44_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep44_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KxlTxEj3Q38uBWS26dZQyM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gK/NGqQ2yz_VGM2L4Nen-VFlcTxzgNQTIi8YNPZh4nhA/pok_tv_s1844_2997-master-de-sdt-v2-h264-8781e9280e7d875395813dab59af0faeae3845ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gK/NGqQ2yz_VGM2L4Nen-VFlcTxzgNQTIi8YNPZh4nhA/pok_tv_s1844_2997-master-de-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ar/_5iBowKRVhNtWKba2Gn1jWGBe3ymk4kyPiymgU15E/pok_tv_s1844_2997-master-de-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3308468681
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ar/_5iBowKRVhNtWKba2Gn1jWGBe3ymk4kyPiymgU15E/pok_tv_s1844_2997-master-de-sdt-v2-h264.mp4"
         },
         {
             "id": "bb2d47a81d5146fd80b67d9b27b0f1dc",
@@ -57,16 +48,13 @@
             "title": "Auf die Form kommt es an!",
             "description": "Als unsere Helden sich gerade auf das Große Festival und Ashs Rückkampf gegen Arenaleiter Volkner vorbereiten, lernen sie ein geheimnisvolles Mädchen kennen, das sich um ein krankes Shaymin in Not kümmert.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uy1HqB1RRv0gLZ9myew8dw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/08/SRHTZYRITIijzyhtAxPCFV--t57Z8P6osizksmGaE/pok_tv_s1312_2997-master-de-5309d8a545cca51423fdc74be299047ece875423.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/08/SRHTZYRITIijzyhtAxPCFV--t57Z8P6osizksmGaE/pok_tv_s1312_2997-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/2rXhZ8d1hfnjqsGold2COWUqZnJ59En__UAJducN4/pok_tv_s1312_2997-master-de.mp4",
             "captions": "",
-            "size": 2656511559
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/2rXhZ8d1hfnjqsGold2COWUqZnJ59En__UAJducN4/pok_tv_s1312_2997-master-de.mp4"
         },
         {
             "id": "2519d748c473492d818c0a7cd08c55cd",
@@ -75,16 +63,13 @@
             "title": "Der große Traum der Meisterin!",
             "description": "Auf ihrem Weg nach Herzhofen treffen unsere Helden auf Cynthia, den Champ der Sinnoh-Liga. Ashs Rivale Paul fordert sie vor ihren Augen zum Kampf auf!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JRnXSMRzSS0gYwKfNCMVc0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PM/JkLcIvc1ZYcWUGXJAPVXZdj9LobCaCs_DTJCCtzWY/pok_tv_s1040_2398-master-de-ce053308c30066b217330c6af7e02c552309327a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PM/JkLcIvc1ZYcWUGXJAPVXZdj9LobCaCs_DTJCCtzWY/pok_tv_s1040_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eL/LdsdzzonI_mlaWnic6Q4r405Cw3His4kxTVk2UfJc/pok_tv_s1040_2398-master-de.mp4",
             "captions": "",
-            "size": 2651323484
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eL/LdsdzzonI_mlaWnic6Q4r405Cw3His4kxTVk2UfJc/pok_tv_s1040_2398-master-de.mp4"
         },
         {
             "id": "828db5e8e5084b0992f5e356084fb359",
@@ -93,16 +78,13 @@
             "title": "Drei gegen drei!",
             "description": "Nach mehreren fehlgeschlagenen Versuchen ist es jetzt endlich soweit: Ash tritt gegen Arenaleiterin Lamina in Herzhofen an!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/go216OUISwkkvXjVghPs1k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KE/gtWXWUSuh_aacVO6VApw9h7ZZXEhakgesD3nutFYs/pok_tv_s1150_2398-master-de-1020e5cb334d5f51a2670b3bad1d99076196f9c6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KE/gtWXWUSuh_aacVO6VApw9h7ZZXEhakgesD3nutFYs/pok_tv_s1150_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P2/2_Tqquog1Htyb3GKKyNvOHXv0khnGmgp7JJvmWy38/pok_tv_s1150_2398-master-de.mp4",
             "captions": "",
-            "size": 2623777326
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P2/2_Tqquog1Htyb3GKKyNvOHXv0khnGmgp7JJvmWy38/pok_tv_s1150_2398-master-de.mp4"
         },
         {
             "id": "2d25df52ac304bacb60d9a69da5b8a79",
@@ -111,16 +93,13 @@
             "title": "Es rockt in der Vapydro-Arena! (Teil 1)",
             "description": "Ashs Kampf um seinen achten Arenaorden ist in vollem Gange – ein Multimedia-Ereignis im wahrsten Sinne des Wortes!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LSXfUqwwS6wtg2aadpbink/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MA/QIDhIPuS4-yAvz-bwbrDWKRdcIojXXfnTc9TXbBpM/pok_tv_s1535_2997-master-de-sdt-h264-6ab8382ae08883eaaa3eabb62d14e05f64cbec1e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tU/05Yklr_fb4EiODpF_uU-7d2F1DDedUR2eqsyiAhbQ/pok_tv_s1535_2997-master-de-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/1KJKf9327LmAXXZd8sjGTTZtlEPThsmq58dgXHqME/pok_tv_s1535_2997-master-de-sdt-h264.mp4",
             "captions": "",
-            "size": 3304025593
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/1KJKf9327LmAXXZd8sjGTTZtlEPThsmq58dgXHqME/pok_tv_s1535_2997-master-de-sdt-h264.mp4"
         },
         {
             "id": "9e62c603bfbf44aaaca64f64b77dc116",
@@ -129,16 +108,13 @@
             "title": "Der Händler der Zerstörung!",
             "description": "Professor Kukuis große Ankündigung schlägt unerwartet hohe Wellen bei völlig unerwarteten Menschen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nmLGA7-_RKorKZPZLd9wRY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sm/0iHnG6XmDs7kAvfrg4ZH3Fse5h4yUxEB91W2s1JH4/pokemon_season22_ep23_ger-eb1eaa4bb9ef62e40bb7f39e4d918e26b5e84d34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sm/0iHnG6XmDs7kAvfrg4ZH3Fse5h4yUxEB91W2s1JH4/pokemon_season22_ep23_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u-/NZ7IcPe__RlCssbl01TaIPvJ4AK3RaH5ugZJl94II/pokemon_season22_ep23_ger.mp4",
             "captions": "",
-            "size": 2894436360
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u-/NZ7IcPe__RlCssbl01TaIPvJ4AK3RaH5ugZJl94II/pokemon_season22_ep23_ger.mp4"
         },
         {
             "id": "2e4ab7136d614cb391375e5991fa2ef5",
@@ -147,16 +123,13 @@
             "title": "Erinnerungen und Träume!",
             "description": "Die Alola-Pokémon-Liga legt einen mitreißenden Start hin und die Gefühle im Manalo-Stadion sind überwältigend!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep35_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep35_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Lkq3E21hTLMkTdeWZH6LvU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5l/Ny9ekR4xmS1zaA5qMoVAvKU87rt3uWevx4e5CWvZU/pokemon_season22_ep35_ger-96249c6d64d20a65e62b2d16bc7c1d87b14dc82f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5l/Ny9ekR4xmS1zaA5qMoVAvKU87rt3uWevx4e5CWvZU/pokemon_season22_ep35_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Y/mA02H-2s7fkJU2kCih3hUZzZ86OroYPTYiSzfbZtU/pokemon_season22_ep35_ger.mp4",
             "captions": "",
-            "size": 2884106717
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Y/mA02H-2s7fkJU2kCih3hUZzZ86OroYPTYiSzfbZtU/pokemon_season22_ep35_ger.mp4"
         },
         {
             "id": "e4597700d471427abe659a48c96b6abe",
@@ -165,16 +138,13 @@
             "title": "Ein Geisterhaus für jeden!",
             "description": "Hannah und Zoe freuen sich, ein Geisterhaus zu besuchen, aber sie haben ein bisschen zu viel Spaß!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5Fl3ANRxQnovmWaSMlrar4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/u-z1JJlGT8eVr7J90OW3ZuEMegoJtu7zgu7XujWN0/pokemon_season22_ep02_ger-ce07fdc72b935f20bee0c00b489199603c5d259a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/u-z1JJlGT8eVr7J90OW3ZuEMegoJtu7zgu7XujWN0/pokemon_season22_ep02_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K8/Jzt_CLqTLUkhJGuKsQ9NWkJrjTXeK4rdMRBYgpLjY/pokemon_season22_ep02_ger.mp4",
             "captions": "",
-            "size": 2889886234
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K8/Jzt_CLqTLUkhJGuKsQ9NWkJrjTXeK4rdMRBYgpLjY/pokemon_season22_ep02_ger.mp4"
         },
         {
             "id": "e7c7627c0df34d6297d58b31f108e091",
@@ -183,16 +153,13 @@
             "title": "Wachgerüttelt!",
             "description": "Ashs große Prüfung auf Ula-Ula ist in vollem Gange und der Inselkönig hält einige Überraschungen im Kampf bereit!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/58difA3zTWIl9WLMfEI4JE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JU/O8e-o59k393Ae41rI_gRBaYOAqkSfY64HNuCW_HVM/pokemon_season21_ep33_ger-549c5f3f6c9f8ce6fbecfb04061269ea27b98ef7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s1/MxS8NtTSNk9MtdRTk5YudmiO2yeALQ7LQSKKw6Ydw/pokemon_season21_ep33_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hh/u_Tb65zpjCVHXAidH-e3p8nyP8j_Ab_IVC-ZUAsw4/pokemon_season21_ep33_ger.mp4",
             "captions": "",
-            "size": 2867957040
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hh/u_Tb65zpjCVHXAidH-e3p8nyP8j_Ab_IVC-ZUAsw4/pokemon_season21_ep33_ger.mp4"
         },
         {
             "id": "df49af3be7a94f05b5dca8ae7ad6dbef",
@@ -201,16 +168,13 @@
             "title": "Folge 6: Mondlicht",
             "description": "Nachdem Tommy in eine Auseinandersetzung mit seinem Freund John geraten ist, möchte er die Angelegenheit wieder ausbügeln. Er bittet dazu Nio, den auf Pokémon vom Typ Geist spezialisierten Arenaleiter der Galar-Region, ihm auf eine ganz ungewöhnliche Weise dabei zu helfen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/30mvO-epTwUtdyornrW2-8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qE/sdlK-6EEEdJif7sjlmGMrEHt6l_iniy7Drp_c0ca0/tw_ep106_eng_de_24_1080_h264_v1-96b00d358792fad9c87a0c95289dd1e90a6d4ea3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Y/k36z-DwW5PbiUEwd4NOhJwvPy6bzLX0NX7IO1w8Bw/tw_ep106_eng_de_24_1080_h264_v1.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hf/Aem5SG01zBxlmC8Hs-aYMPYD4Ks2w-6Q5AmLuVWd8/tw_ep106_eng_de_24_1080_h264_v1.mp4",
             "captions": "",
-            "size": 1242804942
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hf/Aem5SG01zBxlmC8Hs-aYMPYD4Ks2w-6Q5AmLuVWd8/tw_ep106_eng_de_24_1080_h264_v1.mp4"
         }
     ]
 }

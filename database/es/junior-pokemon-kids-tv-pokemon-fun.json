@@ -1,18 +1,15 @@
 {
-    "channel_id": "diversion-pokemon",
+    "channel_id": "pokemon-kids-tv-pokemon-fun",
     "channel_name": "Diversión Pokémon",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/pokemon-fun/pokemon-fun-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/pokemon-fun/pokemon-fun-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/pokemon-fun/pokemon-fun-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/pokemon-fun/pokemon-fun-1660x940-es.png"
     },
+    "category_id": 5,
+    "category": "Junior",
     "media_type": "junior",
-    "order": 503,
-    "channel_creation_date": 1634317955,
-    "channel_update_date": 1704733764,
+    "order": -1634317955,
     "media": [
         {
             "id": "6500b29b022848f3b33a587585847ff8",
@@ -21,16 +18,13 @@
             "title": "Radio Taiso n.º 1",
             "description": "¡Radio Taiso n.º 1! Pikachu y Lucario están haciendo Radio Taiso, un ejercicio de calentamiento muy popular en Japón. Conforme avanza el calentamiento, todo lo que rodea a Lucario y sus amigos se vuelve... ¡supercolorido!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/radio-taiso-number-one-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/radio-taiso-number-one-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/radio-taiso-number-one-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZQCymwIoSPMszpYdYWEf_g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sY/5Y6wOAaJKRgycY-azcyNxE-EBY2vzcPXVnHo1NusU/radio_taiso_number_1_cas_1080p-021c8cdd240482719281be3b1c6799a35fcfbc20.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JY/UGai_7YyOLR_hkfjDFnEce6zE9NmhHM6xsSpw7DuU/radio_taiso_number_1_cas_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PQ/-N4ecblbb0nKn1FDM8rMNjz75D7LX1XMAAa_ASGkQ/radio_taiso_number_1_cas_1080p.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sY/5Y6wOAaJKRgycY-azcyNxE-EBY2vzcPXVnHo1NusU/vtt/1/es.vtt",
-            "size": 456454887
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PQ/-N4ecblbb0nKn1FDM8rMNjz75D7LX1XMAAa_ASGkQ/radio_taiso_number_1_cas_1080p.mp4"
         },
         {
             "id": "d9a6820bc975470e846626dee50756f6",
@@ -39,16 +33,13 @@
             "title": "Ponte cachas con Machamp",
             "description": "¡Toca ponerse cachas con Machamp! Pon a trabajar tus cuatro brazos para despertar los músculos y tener un día espléndido.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/machamp-workout-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/machamp-workout-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/machamp-workout-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2aaCC8l1Rw4hGYm3uUHVvY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jh/uxgp_0Igt98dpMJyWx1NPIr7BWuTZEVxd4Bjui054/machamp_workout_cas_1080p-62275b4ee5d8cb4b7fb9c237290954b50add9287.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zm/FUpfu6Rc3BCxXUHhK9LhZL2xb2vj3gWyxz-hsxeRQ/machamp_workout_cas_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xo/H9x3EWRrdTeziiUjVeJhk3jUUuyA48XdJqZbHKjPY/machamp_workout_cas_1080p.mp4",
             "captions": "",
-            "size": 275676763
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xo/H9x3EWRrdTeziiUjVeJhk3jUUuyA48XdJqZbHKjPY/machamp_workout_cas_1080p.mp4"
         },
         {
             "id": "69d0660af61b4b2b8207739661cea252",
@@ -57,16 +48,13 @@
             "title": "El conciertito de Jigglypuff",
             "description": "Jigglypuff está buscando algo en el bosque, pero no ha tenido mucha suerte. Ditto ve que Jigglypuff está triste, así que decide transformarse. ¡Veamos en qué se transforma Ditto!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/jigglypuffs-mini-concert-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/jigglypuffs-mini-concert-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/jigglypuffs-mini-concert-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/adBmCvYbSysggdzlmHOolI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/myo0Nsapy0OCb3SmyRqC3YR4Y3v6vikO1Qeaa2Egk/jigglypuffs_mini_concert_es_1080p-ed72f347c66d4d555563d3bd4f1bfeebdebc5c44.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jZ/Fkgxhebt_wcDt3NcgjNqGoZYgfBWNUYAuI-bpqd_s/jigglypuffs_mini_concert_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/U_VRjMEARDwGQjELrt0I2Mo05apm_WnFwg1styV0I/jigglypuffs_mini_concert_es_1080p.mp4",
             "captions": "",
-            "size": 238657252
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/U_VRjMEARDwGQjELrt0I2Mo05apm_WnFwg1styV0I/jigglypuffs_mini_concert_es_1080p.mp4"
         },
         {
             "id": "78d373bdcdd44c9a8640c885048dfff8",
@@ -75,16 +63,13 @@
             "title": "Wooper, ¡a ordenar se ha dicho! (con Ditto)",
             "description": "¡Los tres Wooper estaban jugando con mucha energía! Sin embargo, cuando han terminado de jugar, los juguetes estaban por toda la habitación... Ditto no paraba de ordenar, ¡pero era una misión imposible! ¡Ditto ha decidido transformarse en un instrumento musical! ¿Sabes cuál es? ¿Puedes adivinarlo?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/wooper-lets-tidy-up-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/wooper-lets-tidy-up-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/wooper-lets-tidy-up-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eNNzvc3UTJohkDIhQSN__g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m3/-dw-LWAYWuAh74OeXkV4ok4FdH9YeQ_sKfm8aMxAE/wooper_lets_tidy_up_es_1080p-3fc84c465da820b4a0592956e4c559136050cab5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XN/vnouL4V3g9YcLe1H5ovdGRR3QKD1VDv3igirpLtPQ/wooper_lets_tidy_up_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g8/RXSohI-E9nmAXEVXdyI_MaN-N5CW3XaY-rlP_eqWA/wooper_lets_tidy_up_es_1080p.mp4",
             "captions": "",
-            "size": 240111977
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g8/RXSohI-E9nmAXEVXdyI_MaN-N5CW3XaY-rlP_eqWA/wooper_lets_tidy_up_es_1080p.mp4"
         },
         {
             "id": "c53d1133d2844f15bff69643d253c56a",
@@ -93,16 +78,13 @@
             "title": "¡Pokémon en tus dedos!",
             "description": "¡Prepárate para conocer Pokémon de una forma nueva y divertida! Coloca tu dedo en la pantalla e imagina cómo es jugar con tus amigos Pokémon. ¡Prueba en tu móvil y tableta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-at-your-fingertips-01-180x103-es.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-at-your-fingertips-01-es.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-at-your-fingertips-01-360x206-es.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xT0RM9KETxUv_aWQ9JTxWo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZY/Mtwyl_ZUvh8zVUMA1YwHyqglZ8S3RSxBYi-vXPy1c/pokemon_at_your_fingertips_es_1080p-7a6039091259e2265be29ed1075f29bd5c80706e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KW/5iTMMVNg1GIxVQkky0eA6sxtiQz0LjNek8A27XAiw/pokemon_at_your_fingertips_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2d/EucfWjxZ3YtOZ_USUCaM7bZ2u_3zYbIhI6E2YO0tE/pokemon_at_your_fingertips_es_1080p.mp4",
             "captions": "",
-            "size": 298806233
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2d/EucfWjxZ3YtOZ_USUCaM7bZ2u_3zYbIhI6E2YO0tE/pokemon_at_your_fingertips_es_1080p.mp4"
         },
         {
             "id": "d7ff8cf0651444468d7729761fccc010",
@@ -111,16 +93,13 @@
             "title": "ASMR: Bulbasaur en el bosque",
             "description": "ASMR es un sonido relajante y agradable de escuchar. Relájate con Bulbasaur mientras busca el lugar perfecto para descansar. (¡Recomendamos que uses auriculares!)",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-bulbasaur-in-the-woods-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-bulbasaur-in-the-woods-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-bulbasaur-in-the-woods-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1_-M8GUUREYjXcpdh_MwBA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K8/5i8y2dGPFU7HOWJDMLpDBTDyVg4HNMcwZ2IwjJRRU/all_languages_asmr_bulbasaur_in_the_woods-e87088c0bfa614a1cdc8b9873296f10a57ef1b8d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T2/e4aINVhvJqSZGSDsfbRSI3_8GQDWuI_d2Io_NxyXA/all_languages_asmr_bulbasaur_in_the_woods.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/mPiH9O4FRL1jdJZhwaP9H-zmSfvvCz7BCX_yEdXkw/all_languages_asmr_bulbasaur_in_the_woods.mp4",
             "captions": "",
-            "size": 13301131534
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/mPiH9O4FRL1jdJZhwaP9H-zmSfvvCz7BCX_yEdXkw/all_languages_asmr_bulbasaur_in_the_woods.mp4"
         },
         {
             "id": "6b6e5e293149413a83ec34e91c323929",
@@ -129,16 +108,13 @@
             "title": "ASMR: Charmander duerme al calor de la hoguera",
             "description": "ASMR es un sonido relajante y agradable de escuchar. Relájate con el dormilón de Charmander. (¡Recomendamos que uses auriculares!)",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-charmanders-fireside-slumber-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-charmanders-fireside-slumber-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-charmanders-fireside-slumber-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/a25eKTFJQTog-w06RwyOSk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tE/KvarofcMNgestErElCtSeBwOpwzGJONjwISrmJPcg/all_languages_asmr_charmanders_fireside_slumber-6829988e46203c13e2fa184abb5b3094fd304af6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FJ/1nVo6H6st66IrZ80i-ZjqE6wCjzdmhNQAw_XWCn_g/all_languages_asmr_charmanders_fireside_slumber.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yg/ZJZ0woccFcqIz3NXn1aeljv80ViMZUO0UxBejy3xM/all_languages_asmr_charmanders_fireside_slumber.mp4",
             "captions": "",
-            "size": 6658822620
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yg/ZJZ0woccFcqIz3NXn1aeljv80ViMZUO0UxBejy3xM/all_languages_asmr_charmanders_fireside_slumber.mp4"
         },
         {
             "id": "8a60a5a568e1427cb01dcbd12f747dd4",
@@ -147,16 +123,13 @@
             "title": "ASMR: Día de playa de Squirtle",
             "description": "ASMR es un sonido relajante y agradable de escuchar. ¡Disfruta de un apacible día de playa con Squirtle! (¡Recomendamos que uses auriculares!)",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-squirtles-day-at-the-beach-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-squirtles-day-at-the-beach-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-squirtles-day-at-the-beach-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/imClpWjhQnwsB3L0S90fdQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sg/1n1Q6-S4finCb_rButay00SDE_H_Q0NMVdfrWNgaM/all_languages_asmr_squirtles_day_at_the_beach-53e51948915b7fc215905dde970caff69d13172c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pW/2fgbiP7AhBmKcMjQAPcyvgsyRJg1x9Nvb8xqWT6mQ/all_languages_asmr_squirtles_day_at_the_beach.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1D/V7OyWMqU4bYtfIpf5TC3uZ8YNIF5eZJDXjQURC7oM/all_languages_asmr_squirtles_day_at_the_beach.mp4",
             "captions": "",
-            "size": 3350152467
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1D/V7OyWMqU4bYtfIpf5TC3uZ8YNIF5eZJDXjQURC7oM/all_languages_asmr_squirtles_day_at_the_beach.mp4"
         },
         {
             "id": "9dc96c8670d14b5d8c39254ab3c13799",
@@ -165,16 +138,13 @@
             "title": "Dulces Sueños, Rowlet (con Ditto)",
             "description": "Ditto se transforma en una roca y se echa una siesta. Cuando se despierta, ¡se sorprende al ver que tiene a Rowlet durmiendo encima! ¡Mira lo que hace Ditto a continuación!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/good-night-rowlet-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/good-night-rowlet-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/good-night-rowlet-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nclshnDRS10jDklSrPBN5k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hK/JHohxFdHBuSkEpwhWIc7vIhjtAZHr-0YfVm6ek-g0/good_night_rowlet_es_1080p-3eb6a5a7c36bdfaafcd31df4c30461bd3847740e.m3u8",
             "poketv_url": "*",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i0/uSrjVJqcihWsYU17O3VXHMe2C2JcuJSQETw0jeP6I/good_night_rowlet_es_1080p.mp4",
             "captions": "",
-            "size": 240909801
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i0/uSrjVJqcihWsYU17O3VXHMe2C2JcuJSQETw0jeP6I/good_night_rowlet_es_1080p.mp4"
         },
         {
             "id": "597dfb278ce6415d91fa8d181446b813",
@@ -183,16 +153,13 @@
             "title": "Precioso campo Pokémon",
             "description": "Pikachu está explorando cuando se encuentra con un grupo de Patrat que están vigilando el prado. ¡Únete a la diversión y descubre lo que andan buscando los Patrat!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-lovely-meadows-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-lovely-meadows-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-lovely-meadows-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WX37J4zmQV0kfqNGBRGuBM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ic/3cWhznWfcnTvSpQ-ZzStbDlAmZyrPP-aThE8l2zPo/pokemon_lovely_meadows_es_1080p-9b4d30a0609c0379e48e1ab3faddf46ec73fe738.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QL/UYMZWqvy0wQcXvVFmuvkfdYHLYmgqIjah5i6IxzSQ/pokemon_lovely_meadows_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gZ/18Q4DbnfGyup9B0CYBdTdnl2aNvvR618SF3eYoQvM/pokemon_lovely_meadows_es_1080p.mp4",
             "captions": "",
-            "size": 325229716
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gZ/18Q4DbnfGyup9B0CYBdTdnl2aNvvR618SF3eYoQvM/pokemon_lovely_meadows_es_1080p.mp4"
         },
         {
             "id": "76621ec0f4e64ea68aa599a3446f33b9",
@@ -201,16 +168,13 @@
             "title": "¡A contar Wooloo!",
             "description": "Escucha la nana mientras Wooloo salta la valla.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/lets-count-wooloo-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/lets-count-wooloo-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/lets-count-wooloo-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dmIewPTmTqYiqWZo0RvM7k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tV/P1bgEfgY868wfaDhds5Gevy64MMcK1B0ix4Z2AY3E/lets_count_wooloo_es_1080p-0822e3378f188c0410df9424a5a3715acaafd069.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-H/rEqpFD0xY12wE7zG0_PqEvt_FyyrFPXzt1kUkRyRw/lets_count_wooloo_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/pWOrovzvg7WP56ZHUvCiyYKg604UzI5rrVGoeS7uM/lets_count_wooloo_es_1080p.mp4",
             "captions": "",
-            "size": 7370403841
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/pWOrovzvg7WP56ZHUvCiyYKg604UzI5rrVGoeS7uM/lets_count_wooloo_es_1080p.mp4"
         },
         {
             "id": "908a57c48e404f6fb20e82519cb6d56f",
@@ -219,16 +183,13 @@
             "title": "¡Pikachu, Piplup y la plastilina mágica!",
             "description": "Pikachu y Piplup se encuentran con una misteriosa plastilina. ¡Veamos qué hacen con ella!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-piplup-and-the-playful-clay-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-piplup-and-the-playful-clay-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-piplup-and-the-playful-clay-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kIpXxI5AT28sg6CUZy21W8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BV/qx5iLbVig3ieAZ7fMdCLT7Nz4zB_rgwkEw5ZL4y0I/pikachu_piplup_and_the_playful_clay-_figs_bpo_las_withbumper-a17a5654f968d5cc24bfa7836b9e49f726c40ceb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1H/UtQ1MFN9dOAOM62LSLESSxfziVxBtKYKxnqkOw3XA/pikachu_piplup_and_the_playful_clay-_figs_bpo_las_withbumper.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gm/5I02SEJAlrBJwBMDwPJv7uyUmAdauYjhoZi2F4WOM/pikachu_piplup_and_the_playful_clay-_figs_bpo_las_withbumper.mp4",
             "captions": "",
-            "size": 1247763602
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gm/5I02SEJAlrBJwBMDwPJv7uyUmAdauYjhoZi2F4WOM/pikachu_piplup_and_the_playful_clay-_figs_bpo_las_withbumper.mp4"
         },
         {
             "id": "e954152f1eed41f4a81ef1c2567d76de",
@@ -237,16 +198,13 @@
             "title": "Poké Balls rodantes: Sinnoh",
             "description": "¡Siente el ritmo y sigue las Poké Balls rodantes para descubrir si tu Pokémon favorito está dentro de una de ellas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-sinnoh-region-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-sinnoh-region-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-sinnoh-region-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6VQVLx7tQfQqB7xwlZ9dt4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/we-zB8MmUEq1Y5Ws_yzwHBr5ZneiOhLTj2V1yIrzI/rolling_pokeball_sinnoh_region_es_1080p-bda3c02a513adb3f26372fb5319133beb21e1078.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/VC3UojlugEWJnlngmukoKVk-TrBaNJ9cfr1isvlCM/rolling_pokeball_sinnoh_region_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/heqEc63pFkcVJMU6E9prvnfF2Yq5qc6eLAtmB2dug/rolling_pokeball_sinnoh_region_es_1080p.mp4",
             "captions": "",
-            "size": 682019838
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SF/heqEc63pFkcVJMU6E9prvnfF2Yq5qc6eLAtmB2dug/rolling_pokeball_sinnoh_region_es_1080p.mp4"
         },
         {
             "id": "a218223967f542af8fd88a13deafc78c",
@@ -255,16 +213,13 @@
             "title": "Poké Balls rodantes Kanto",
             "description": "¡Siente el ritmo y sigue las Poké Balls rodantes para descubrir si tu Pokémon favorito está dentro de una de ellas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-kanto-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-kanto-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-kanto-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ohgiOWf1Qq8j9iKE96vx4w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/my/iYs4tPuZl9X_rWOdWHwHsHQt2XVr2rAGYw5Cjawac/rolling_poke_balls_kanto_region_es_1080p-46c10d07d55ce3553f53c8042e2d2bf26a9d3487.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rZ/WoLNElwg7KlHbrOMi3QEUN8LX7Zxnms7paMoEjvHY/rolling_poke_balls_kanto_region_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f9/z_8FxCl5WT_z7tdi65J6_oJ7xKiOmBmWkQep_JRVE/rolling_poke_balls_kanto_region_es_1080p.mp4",
             "captions": "",
-            "size": 705925239
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f9/z_8FxCl5WT_z7tdi65J6_oJ7xKiOmBmWkQep_JRVE/rolling_poke_balls_kanto_region_es_1080p.mp4"
         },
         {
             "id": "dcc4b46b91b94ca0a46680f50d60d903",
@@ -273,16 +228,13 @@
             "title": "Rellena el dónut",
             "description": "Estas formas resultan familiares... ¡Son Pokémon! ¿Puedes adivinar a qué Pokémon corresponde cada forma?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/fill-in-the-donut-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/fill-in-the-donut-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/fill-in-the-donut-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3MS0a5G5TKApGaA9Q1g2QM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fe/x3zDgFnOIkSYjDsxin-ycaDHxI9Hf-bXAB1gpi2oI/fill-the-donut-es-7258bdd2ccc5db9ba555014f452987eed72dcd37.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RX/VxSYl1cCJk-eQqtpHmxHheWbGJGbr5l-9akYz0QZs/fill-the-donut-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s7/13-l5jGysSWGvJ5Wxw7iaFojGUtVUon0fu2Gh8fhw/fill-the-donut-es.mp4",
             "captions": "",
-            "size": 952656601
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s7/13-l5jGysSWGvJ5Wxw7iaFojGUtVUon0fu2Gh8fhw/fill-the-donut-es.mp4"
         },
         {
             "id": "29c122ae0c2240c4b528832ca5f8ccc6",
@@ -291,16 +243,13 @@
             "title": "La rutina matutina de Pikachu",
             "description": "No te pierdas a Pikachu cada mañana y descubre cómo es su rutina.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachus-morning-routine-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachus-morning-routine-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachus-morning-routine-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KcEirgwiQMQtSiDLKX4zMY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HF/Ggg0r2reYBUoW34P8KYlOgQwDnO6cE7sG24HqF1h8/es_morning_routine_1080p-263901aa1d31d4e30f700bafacbf450e8afcf723.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8l/v9_23VrHfl5y_j3J6V6i7h9E65zVcjV-BTMuakcTA/es_morning_routine_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/iz3lkxb_x0HffAG11IlsFAsjECmMoahGrmESkR7SE/es_morning_routine_1080p.mp4",
             "captions": "",
-            "size": 308140485
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/iz3lkxb_x0HffAG11IlsFAsjECmMoahGrmESkR7SE/es_morning_routine_1080p.mp4"
         },
         {
             "id": "6859e03ae9564097a714abc4dab533e4",
@@ -309,16 +258,13 @@
             "title": "Gimnasia Pokémon",
             "description": "¡Es la hora de la Gimnasia Pokémon! ¡Mira cómo los Pokémon compiten haciendo carreras, pasándose la pelota, jugando al tira y afloja o saltando a la comba!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-sports-day-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-sports-day-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-sports-day-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aFngOulWQJcpxSrxNq1M-Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YM/Ue-9N_Tc7F-EknoYRUFSA2bYHt_3TXAswQY8kX4sg/es_pokemon_sports_day_1080p-6025fea0bda929e9d856e97d354e1c4fb453afda.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3V/pK3-zAVV6DLFoOSMWWs8A_8DqWjwsyhIge9C1JY8A/es_pokemon_sports_day_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rz/55BrNNs384sZVpGOehN1PkSk3OvG6YVRebBnkIcRI/es_pokemon_sports_day_1080p.mp4",
             "captions": "",
-            "size": 451214740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rz/55BrNNs384sZVpGOehN1PkSk3OvG6YVRebBnkIcRI/es_pokemon_sports_day_1080p.mp4"
         },
         {
             "id": "5e6ac4ddc2a046f4bf8a8f71a7417965",
@@ -327,16 +273,13 @@
             "title": "Eevee vs Pikachu - Carrera de relevos",
             "description": "Los equipos de Pikachu e Eevee lo dan todo en una carrera de relevos. ¿Qué equipo crees que ganará? ¡Animemos a los dos!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-relay-race-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-relay-race-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-relay-race-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XmrE3cKgRvQv4qPcadBeWU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nd/peX24ky7DcGHgPpV5K1U0sTKw4Ks8aKKqDSD3Ku4U/es_pikachu_vs_eevee_relay_race_1080p-ba8448855b5247c53df2d96cddce1ee8f20858a7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GV/1tTxol7KUPJ80ONqMJcRz0P0hZjcmT9q2u5rlhnaY/es_pikachu_vs_eevee_relay_race_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I6/Ch8MCwYtYDO5KNQo6anmjnmfHtlizqkEfycx-p2Kk/es_pikachu_vs_eevee_relay_race_1080p.mp4",
             "captions": "",
-            "size": 112897547
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I6/Ch8MCwYtYDO5KNQo6anmjnmfHtlizqkEfycx-p2Kk/es_pikachu_vs_eevee_relay_race_1080p.mp4"
         },
         {
             "id": "f9f114092d2e42c687d496061a417bbb",
@@ -345,16 +288,13 @@
             "title": "Sigue al Pokémon",
             "description": "Ayuda a Eevee a encontrar a sus amigos Pokémon en muchos sitios diferentes.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-chase-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-chase-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-chase-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-fEUCS0uQsYh9SWBhpBe7s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZW/gF_qwgUaCYAN6JkSvL9q2xntXB5B3BD9yx1DscF7Q/pokemon_chase_es_1080p-52ffa7073d8e681617c980a6851b13e8a00592d3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4m/uJJXb6v_Nf0sLDBSLGhs8nnUETc5Zrr02T91iRGEQ/pokemon_chase_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rT/T1z1YMFfxmGmObUeBzOWgHlFOUX1KQfW_ypiEwwAE/pokemon_chase_es_1080p.mp4",
             "captions": "",
-            "size": 343987989
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rT/T1z1YMFfxmGmObUeBzOWgHlFOUX1KQfW_ypiEwwAE/pokemon_chase_es_1080p.mp4"
         },
         {
             "id": "74525321424441938feba8fc72b203e0",
@@ -363,16 +303,13 @@
             "title": "Pikachu vs. Eevee: Rueda la bola",
             "description": "¡Ahí va! ¡Pikachu e Eevee están empeñados en mover la bola gigante! ¿Quién crees que llegará antes a la meta?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-roll-the-ball-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-roll-the-ball-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-roll-the-ball-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dFJTIUJEQZMj-uo_HKyA-A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/2GSLhwsVGE3Jg7F14SDLT-xUhA5YM_aMSgBy7Bdv8/pikachu_vs_eevee_roll_the_ball_cas_1080p-fe5be5d9365a8bfef32194f0e637c693778f7c1c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qJ/Krw7DThkoSaJH7gtqG05TrHLLDZLVPEiSV6jW8SWY/pikachu_vs_eevee_roll_the_ball_cas_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Au/Purl6iQo9QS8IOXXOvmtUuHS5sZ-KNkdfN0IxcxFQ/pikachu_vs_eevee_roll_the_ball_cas_1080p.mp4",
             "captions": "",
-            "size": 114323354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Au/Purl6iQo9QS8IOXXOvmtUuHS5sZ-KNkdfN0IxcxFQ/pikachu_vs_eevee_roll_the_ball_cas_1080p.mp4"
         },
         {
             "id": "fed1a4d6f81b4a23b6d76929d5688ac1",
@@ -381,16 +318,13 @@
             "title": "¡Cucutrás con Pokémon!",
             "description": "¿Puedes encontrar al Pokémon que está escondido?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-peek-a-boo-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-peek-a-boo-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-peek-a-boo-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_tGk1vgbSiMttdpKdVoisE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Al/bgiudkbCHBxGtxnZYCEOlvDWCBZeOH9oXfSlxkNR8/pokemon_peek_a_boo_es_1080p-f42b90747ec89d722cc3715e37c614931412f4d3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1I/UtOAmfysPLdt2-5a_vxLJ7y9vt6Cz1RezXHMPLycQ/pokemon_peek_a_boo_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0l/uTnC9Ng59IxF3vCSvaly7Q6iyYNr2S9Jeve0xzNjk/pokemon_peek_a_boo_es_1080p.mp4",
             "captions": "",
-            "size": 587248986
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0l/uTnC9Ng59IxF3vCSvaly7Q6iyYNr2S9Jeve0xzNjk/pokemon_peek_a_boo_es_1080p.mp4"
         },
         {
             "id": "0b2a67f76f404cc5bd215ade925c9217",
@@ -399,16 +333,13 @@
             "title": "Pikachu vs. Eevee: Pincha globos",
             "description": "Pikachu e Eevee están listos para jugar una amistosa partida de... ¡explotar globos! ¡Vamos a animarlos!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-balloon-popping-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-balloon-popping-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pikachu-vs-eevee-balloon-popping-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Cypn929ATMUvSFa3pJckhc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ij/_057Crs_2uycGlvLNFsxiI681QGoxy2qzFLqiLXls/pikachuvseeveeballoonpoppinges_1080p-28ebac11baf7c1da520adeb51ab6557f0dbe5d7f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ay/54Wn2CtZI6s1ax8BoM3jLMmkkHJo03JRgEg1eRxdo/pikachuvseeveeballoonpoppinges_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zc/zmvCK8AwFLsInSp4P4nHcAKt4HKdWOBcxBFES0G3E/pikachuvseeveeballoonpoppinges_1080p.mp4",
             "captions": "",
-            "size": 103175833
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zc/zmvCK8AwFLsInSp4P4nHcAKt4HKdWOBcxBFES0G3E/pikachuvseeveeballoonpoppinges_1080p.mp4"
         },
         {
             "id": "7ddea16afe3d48488062767182acc61c",
@@ -417,16 +348,13 @@
             "title": "La gran marcha de los Pokémon",
             "description": "¡Parece que a los Pokémon no les importa desfilar al son de una melodía tan divertida como esta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/great-march-of-pokemon-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/great-march-of-pokemon-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/great-march-of-pokemon-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fd6hav49SEggGJ2cYKsxhw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B6/q0yl0TMc_trTNDzqeAqJyODNKaQrCuYMwYDe6dKjM/great-march-of-pok--mon-es-62fe828d5d34ca1c4fe13a50b40bbd68d4594125.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TB/PW4ZGf6_QvOd5g5Pv80aXuAieOyV07fsRGPRxGxfk/great-march-of-pok--mon-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G6/eZ8ld_5iqV1ZAmDBnRIWB4PWvhpv758EYnCtOQi00/great-march-of-pok--mon-es.mp4",
             "captions": "",
-            "size": 923285814
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G6/eZ8ld_5iqV1ZAmDBnRIWB4PWvhpv758EYnCtOQi00/great-march-of-pok--mon-es.mp4"
         },
         {
             "id": "9d70ffce01db45d499d823ddd2e7d32c",
@@ -435,16 +363,13 @@
             "title": "Poké Balls rodantes",
             "description": "¡Siente el ritmo y sigue las Poké Balls rodantes para descubrir si tu Pokémon favorito está dentro de una de ellas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-1-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-1-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-1-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nXD_zgHbRdQmdgj3dLn0yw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LH/6dzsmXTFBiKUWo8z6ZxZx5VuoikTw6n-5LhtXIpCo/rolling-poke---balls-1-es-5dcf3d3b9196fa381aa51aa7ad614f2cdbd996a1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DS/mhxXQNckY-tDgy5LGoUdkhwXDaNzJ9SzOzBU9Gg6U/rolling-poke---balls-1-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nS/tCifNpz73JNV3JvUUQZwsZ2oPzRNnFcs8pqDdQiLQ/rolling-poke---balls-1-es.mp4",
             "captions": "",
-            "size": 934189778
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nS/tCifNpz73JNV3JvUUQZwsZ2oPzRNnFcs8pqDdQiLQ/rolling-poke---balls-1-es.mp4"
         },
         {
             "id": "2a3c1d861898463293bd1ffa79b43ce0",
@@ -453,16 +378,13 @@
             "title": "Poké Balls rodantes 2",
             "description": "¡Siente el ritmo y sigue las Poké Balls rodantes para descubrir si tu Pokémon favorito está dentro de una de ellas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-2-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-2-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-2-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KjwdhhiYRjIk70f-nm0POA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h7/NphlKhUbITxxM83ri7s-CEbJARl8xC6OIDldbg8kQ/rolling-poke---balls-2-es-40599ad42d860a5e86690d2645c3978924224830.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/DmvLhtTrs7zt4dtaw1JnOV66OC5AhSiT3IuK9YyW8/rolling-poke---balls-2-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sP/PJRBNrP_D1sqR-vvV5EgmLqTEUZ19n5E90uia-OHo/rolling-poke---balls-2-es.mp4",
             "captions": "",
-            "size": 925381941
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sP/PJRBNrP_D1sqR-vvV5EgmLqTEUZ19n5E90uia-OHo/rolling-poke---balls-2-es.mp4"
         },
         {
             "id": "ac86f3a49f3e41548f569e7970abee6d",
@@ -471,16 +393,13 @@
             "title": "Poké Balls rodantes 3",
             "description": "¡Siente el ritmo y sigue las Poké Balls rodantes para descubrir si tu Pokémon favorito está dentro de una de ellas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-3-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-3-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-3-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rIbzpJ8-QVQj1aeeXCr7m0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/km/aLjsxpKbvm9pYp5yMNnHcyaxwcHHhEHytSM-YDkks/rolling-poke---balls-3-es-f0fca1d81ab5e38fed3abe736c9447a48accbe88.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/19/sfef1Zd_w_So-xnyexv0QsDXWacrrOYwZ83A-4QLw/rolling-poke---balls-3-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/np/gk6QBVR9eRxy-ObTg7772ncOlxHpJP455bXqDrnyM/rolling-poke---balls-3-es.mp4",
             "captions": "",
-            "size": 932596541
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/np/gk6QBVR9eRxy-ObTg7772ncOlxHpJP455bXqDrnyM/rolling-poke---balls-3-es.mp4"
         },
         {
             "id": "c27200c0af6947c9a2f4a9bf9d2773fd",
@@ -489,16 +408,13 @@
             "title": "Poké Balls rodantes 4",
             "description": "¡Siente el ritmo y sigue las Poké Balls rodantes para descubrir si tu Pokémon favorito está dentro de una de ellas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-4-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-4-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/rolling-poke-balls-4-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wnIAwK9pR8kovSpv50nc_0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wL/JPxmXdbgZwocdRuzJfHiSspWF3icf7tcV75seUm-M/rolling-poke---balls-4-es-dcf9c1c34f38a130d47447f1443ab735d273fb1e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_m/m7fZtimFRZE-2eHEnLbDFBDFybrbni1fletXkBMT4/rolling-poke---balls-4-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/Leefvf9HxtTdTboA9TQ6aWpxUz7JGLV9sIgOKDaTU/rolling-poke---balls-4-es.mp4",
             "captions": "",
-            "size": 932721474
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/Leefvf9HxtTdTboA9TQ6aWpxUz7JGLV9sIgOKDaTU/rolling-poke---balls-4-es.mp4"
         },
         {
             "id": "d67af73ea51246899d11095a53180c33",
@@ -507,16 +423,13 @@
             "title": "Encuentra al Pokémon",
             "description": "¡Ve cómo Pikachu y Pelipper buscan y encuentran a sus compañeros Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/spot-the-pokemon-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/spot-the-pokemon-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/spot-the-pokemon-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1nr3PqUSRoknREJWlMYDDM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_u/jvw-A5B-4bB24jukgbrpknxzqUIjKpcygkGuCf5hk/spot-the-poke--mon-es-5329a6827f168a2a4964a8a2608aa2c0c17d04a2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pF/YTdMlUMnA96tsKsQ08R0BbA6BC7mPcDmacoVj3SDA/spot-the-poke--mon-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3G/kaFhfPYOCa6GXv4UNdgB6yWDa6uOeg4mUkDOLfyPc/spot-the-poke--mon-es.mp4",
             "captions": "",
-            "size": 703827356
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3G/kaFhfPYOCa6GXv4UNdgB6yWDa6uOeg4mUkDOLfyPc/spot-the-poke--mon-es.mp4"
         },
         {
             "id": "797daaf7c5534d2caf257b7869ac2dec",
@@ -525,16 +438,13 @@
             "title": "Misteriosa mansión fantasma",
             "description": "¡Explora junto a Mimikyu una mansión llena de Pokémon aterradores y espeluznantes!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/mysterious-ghost-manor-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/mysterious-ghost-manor-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/mysterious-ghost-manor-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eX2q98VTTSwryV7eGmsLew/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UF/lQwlX-YBzv4vUGx_abndsOSDfl6FGcFNuk3Li8Lpc/mysterious_ghost_mansion_es_1080p-975a3940b44e0f6b2c61b696409fe2473ba11fb9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f8/cfxO1rlHVRYWDPs8IcrbEzWBkk5ZpbwkC_8OBx0BQ/mysterious_ghost_mansion_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tJ/bXHKeMNrHBYSQ2VEAG6Y2-CZJ22xq4AZGwZSF6AUw/mysterious_ghost_mansion_es_1080p.mp4",
             "captions": "",
-            "size": 629962471
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tJ/bXHKeMNrHBYSQ2VEAG6Y2-CZJ22xq4AZGwZSF6AUw/mysterious_ghost_mansion_es_1080p.mp4"
         }
     ]
 }

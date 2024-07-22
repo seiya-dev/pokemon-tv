@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-dp-battle-dimension",
+    "channel_id": "season11",
     "channel_name": "Pokémon: DP Battle Dimension",
     "channel_description": "Ash, Pikachu ja heidän ystävänsä jatkavat seikkailuaan Sinnoh-alueella, kun Pokémon: DP Battle Dimension alkaa Pokémon TV:ssä!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1125x1500-fi.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/season11/season11-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 201,
-    "channel_creation_date": 1587763213,
-    "channel_update_date": 1667577499,
+    "order": -11000,
     "media": [
         {
             "id": "0450806ee8bb4670a626369f0a43fde9",
@@ -21,16 +18,13 @@
             "title": "Pelonkyyneleitä!",
             "description": "Matkalla Veilstone Cityyn ja Ashin seuraavaan saliotteluun, Chimchar joutuu kohtaamaan pelottavan menneisyytensä kolmen vihaisen Zangoosen pakottamana.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BFCAbui7RnApiY2nwpD_ek/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nN/bYTCr_L9nYjC9PwtVt32MjLEB_9ynbDgr8fqjnvw0/pok_tv_s1101_2398-master-fi-444a03382a44be6161718a41ac6f6ce4f4bbdd34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nN/bYTCr_L9nYjC9PwtVt32MjLEB_9ynbDgr8fqjnvw0/pok_tv_s1101_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FF/V85QE-hO5spPJW7VLjMGVmc0MbBXhGidTowFVAxfQ/pok_tv_s1101_2398-master-fi.mp4",
             "captions": "",
-            "size": 2648451932
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FF/V85QE-hO5spPJW7VLjMGVmc0MbBXhGidTowFVAxfQ/pok_tv_s1101_2398-master-fi.mp4"
         },
         {
             "id": "6a07b54dfa9844d9b8e3f0d80ed66915",
@@ -39,16 +33,13 @@
             "title": "Missä ruoho on vihreämpää",
             "description": "Jamesin on päätettävä haluaako hän pitää rakkaan Cacneansa, vai antaako se harjoitella ja kasvaa voimakkaaksi Gardenian, Eternan salijohtajan huomassa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/age1TfqYRNkuOPw2A7WaRU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sN/GguSbYqTi9CiqzykhJ002qwrdeQ8KXrb1nFzFvdjE/pok_tv_s1102_2398-master-fi-f218c2fe8877fcf0398eecc7dbb2c261e697e399.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sN/GguSbYqTi9CiqzykhJ002qwrdeQ8KXrb1nFzFvdjE/pok_tv_s1102_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/aEImsNvu8QUrA8NeQtvdxUz2-uvBuT3AbXytg1Szc/pok_tv_s1102_2398-master-fi.mp4",
             "captions": "",
-            "size": 2632348835
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/aEImsNvu8QUrA8NeQtvdxUz2-uvBuT3AbXytg1Szc/pok_tv_s1102_2398-master-fi.mp4"
         },
         {
             "id": "517fe654a6fd46af99152f415c6897a8",
@@ -57,16 +48,13 @@
             "title": "Vaihtelu virkistää!",
             "description": "Sankareittemme lähestyessä Ashin seuraavaa saliottelua ja Dawnin Pokémon-kilpailua, he harkitsevat Pokémon-vaihdon hyviä ja huonoja puolia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UX_mVKb9Rq8mRUvQVxol6g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FP/ymalVHCmnO30EwmaiZWJg7dp0g6eXE5kVoMEovwlY/pok_tv_s1103_2398-master-fi-e777c737f1991709f0623c0d0121a4b2aeebffdc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FP/ymalVHCmnO30EwmaiZWJg7dp0g6eXE5kVoMEovwlY/pok_tv_s1103_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NE/9iDuAkkumPoKUBYK19TM6rNxGBzguQ50sJplGwg58/pok_tv_s1103_2398-master-fi.mp4",
             "captions": "",
-            "size": 2618493691
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NE/9iDuAkkumPoKUBYK19TM6rNxGBzguQ50sJplGwg58/pok_tv_s1103_2398-master-fi.mp4"
         },
         {
             "id": "d7326b5fe07441e79c3bee13dfa84722",
@@ -75,16 +63,13 @@
             "title": "Kiven sisällä!",
             "description": "Jatkaessaan matkaansa Solaceon Towniin ja siitä Veilstone Cityyn sankarimme vapauttavat vahingossa ilkeämielisen Spiritombin avainkivestä, jossa se oli ollut vankina 500 vuotta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1zJrX-B0QecnDvuE9-oRyI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qv/1K0q-7uSphd-Z_FjVMEUoZfrFxHPXHcFDK9o5iiCk/pok_tv_s1104_2398-master-fi-60b3ec654658390a46a8f32c1e193027dd2e026f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qv/1K0q-7uSphd-Z_FjVMEUoZfrFxHPXHcFDK9o5iiCk/pok_tv_s1104_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jy/WQdm4o7T_qX2dFmAlUJ71froT58HZ269cM4maTFzI/pok_tv_s1104_2398-master-fi.mp4",
             "captions": "",
-            "size": 2645055881
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jy/WQdm4o7T_qX2dFmAlUJ71froT58HZ269cM4maTFzI/pok_tv_s1104_2398-master-fi.mp4"
         },
         {
             "id": "a76829e041894a89b68fbbb920da9229",
@@ -93,16 +78,13 @@
             "title": "Jyrsijöistä parhain!",
             "description": "Matkalla Solaceon Towniin sankarimme kohtaavat huolestuneen kivenhakkaajan tekemässä kivisiltaa, jonka pitäisi olla valmis kolmessa päivässä. Pystyvätkö he auttamaan häntä?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/p2gp4EGJSokto-7uSDakik/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5I/7Lj-_ajkQk0znYkX4iUKkzKLxsgomZVddJGY3Trr0/pok_tv_s1105_2398-master-fi-bff478ef12c7caec57bb6a3f3966dfb2a5562250.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5I/7Lj-_ajkQk0znYkX4iUKkzKLxsgomZVddJGY3Trr0/pok_tv_s1105_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pA/ulyDpdiiJp2eDKusKJyPnqrZdWdH4RwWoqepbHiwE/pok_tv_s1105_2398-master-fi.mp4",
             "captions": "",
-            "size": 2610486323
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pA/ulyDpdiiJp2eDKusKJyPnqrZdWdH4RwWoqepbHiwE/pok_tv_s1105_2398-master-fi.mp4"
         },
         {
             "id": "36f1f85918a34d2dbbd53bbaccc60590",
@@ -111,16 +93,13 @@
             "title": "Kuumat oltavat vuorella",
             "description": "Ash ystävineen tapaa kipakan nuoren kouluttajan nimeltään Alan, jonka vastakehittynyt Probopass on Rakettiryhmän uusin kohde!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NvH4WRijTS0u9U7uszGBZA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hL/l2sJ7bW8fyilZ60X2v34Szqzq_7bZzWbT6vxnWVDE/pok_tv_s1106_2398-master-fi-57d1d8248b234634e74cb82a26c253a4a4a3241d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hL/l2sJ7bW8fyilZ60X2v34Szqzq_7bZzWbT6vxnWVDE/pok_tv_s1106_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S7/-huStRtlSvbmb8W8mycdqAZCsTIYKIorv18hSLXh4/pok_tv_s1106_2398-master-fi.mp4",
             "captions": "",
-            "size": 2639252204
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S7/-huStRtlSvbmb8W8mycdqAZCsTIYKIorv18hSLXh4/pok_tv_s1106_2398-master-fi.mp4"
         },
         {
             "id": "a7ec740025484d17ad1372a4d3d96733",
@@ -129,16 +108,13 @@
             "title": "Kissan silmät!",
             "description": "Matkallaan Solaceon Towniin sankarimme tapaavat nuoren etsivän, joka yrittää pärjätä vihaisen Luxraynsä kanssa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/p-x0ACVITRcrRNypNPZZzM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bx/iQ_aFY50zNTNlit02mTz29eK6hbiwSHDprgY_CEwo/pok_tv_s1107_2398-master-fi-e791e0e2de6d91ea36a4b374c2ad400b0e022ad5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bx/iQ_aFY50zNTNlit02mTz29eK6hbiwSHDprgY_CEwo/pok_tv_s1107_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6H/KAGycuJPwIW3k9t3i694I3RXvadge53PJpj861Sn8/pok_tv_s1107_2398-master-fi.mp4",
             "captions": "",
-            "size": 2637671413
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6H/KAGycuJPwIW3k9t3i694I3RXvadge53PJpj861Sn8/pok_tv_s1107_2398-master-fi.mp4"
         },
         {
             "id": "226df1e25df44b76ae356b9abf2f82fb",
@@ -147,16 +123,13 @@
             "title": "Symbolinen matka!",
             "description": "Saavuttuaan Solaceon Towniin, Dawnin tulevan Pokémon-kilpailun pitopaikkaan, sankarimme kohtaavat Galactic-tiimin varastamassa Unown-joukon vartioimaa arvokasta aarretta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Im3x4l30S3YrjVrmr8vgvs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hJ/gqRTV2EhVG0HDDWuBybjGjXwg2KzsLPZb8J68qO-s/pok_tv_s1108_2398-master-fi-f4db9bd244fdf39bb0fd88e44213fa883811d163.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hJ/gqRTV2EhVG0HDDWuBybjGjXwg2KzsLPZb8J68qO-s/pok_tv_s1108_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o7/oXFgR94R2_IQ0I7zUBsSi_Q1NmAhcrIEn2yQpSqM4/pok_tv_s1108_2398-master-fi.mp4",
             "captions": "",
-            "size": 2651120542
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o7/oXFgR94R2_IQ0I7zUBsSi_Q1NmAhcrIEn2yQpSqM4/pok_tv_s1108_2398-master-fi.mp4"
         },
         {
             "id": "40cd7bb3d3f245569d87b45409e512ee",
@@ -165,16 +138,13 @@
             "title": "Yllätyskisa",
             "description": "Solaceonin Pokémon-kilpailu on vihdoinkin alkanut! Pystyykö Dawn ja hänen vastakehittynyt Ambipominsa voittamaan hänen vanhan ystävänsä Kennyn sekä \"Jessilinan\"?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QM17s9PyRVYnYe0VAnlEu4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qY/hsxuSswHAhfXNGoebmSphvBujxTdfTgtkJHgx9MJA/pok_tv_s1109_2398-master-fi-1c7b6495bd0402d81fa3d8c712597140ea441d95.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qY/hsxuSswHAhfXNGoebmSphvBujxTdfTgtkJHgx9MJA/pok_tv_s1109_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/5m5UwZmjK9HQZ9H55zVdRZQmPjL_8_E39rirmcfF8/pok_tv_s1109_2398-master-fi.mp4",
             "captions": "",
-            "size": 2650552342
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/5m5UwZmjK9HQZ9H55zVdRZQmPjL_8_E39rirmcfF8/pok_tv_s1109_2398-master-fi.mp4"
         },
         {
             "id": "57872d96acc8478e987b4d32747386a6",
@@ -183,16 +153,13 @@
             "title": "Maidoissa on eroja!",
             "description": "Matkalla Veilstone Cityyn Ashin seuraavaan saliotteluun sankarimme pysähtyvät Maid-kahvilaan, jonka yksi omistajista on vaikeuksissa Miltankinsa kanssa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/V4ctlqzIR44mHtNMnRzhqY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g7/WUxIYEZdRQ2cV5KXuCzugltGdnANRpOPfSSg7mQ5E/pok_tv_s1110_2398-master-fi-695165dc046b20d471435df5d8c1c378dc4e658d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g7/WUxIYEZdRQ2cV5KXuCzugltGdnANRpOPfSSg7mQ5E/pok_tv_s1110_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iv/0JjK-gk7fu2mrVau4QhaMibmxoQBMORIThOMT6uYU/pok_tv_s1110_2398-master-fi.mp4",
             "captions": "",
-            "size": 2607170690
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iv/0JjK-gk7fu2mrVau4QhaMibmxoQBMORIThOMT6uYU/pok_tv_s1110_2398-master-fi.mp4"
         },
         {
             "id": "674d4078fb87465d89441cca7a5414ef",
@@ -201,16 +168,13 @@
             "title": "Tulikuuma lähde",
             "description": "Dawn esittelee sankareillemme vanhan ystävänsä Leonan, jonka perhe pitää kuuman lähteen ympärille rakennettua hotellia. Valitettavasti liiketoimet näyttävät kuivuvan kasaan...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Z01AePuHRl0iUQcynpUFO8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kl/EAcrvFo3xGPT6M0k0cJZa6MPDFlM3r8y_VfRC0CIU/pok_tv_s1111_2398-master-fi-404954f7117e25115ca4b375e47c579337ad9776.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kl/EAcrvFo3xGPT6M0k0cJZa6MPDFlM3r8y_VfRC0CIU/pok_tv_s1111_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3l/gIFDrJQAQ73FUebT6jaxPkN3cJjotL4A8fSfBz9xk/pok_tv_s1111_2398-master-fi.mp4",
             "captions": "",
-            "size": 2635927708
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3l/gIFDrJQAQ73FUebT6jaxPkN3cJjotL4A8fSfBz9xk/pok_tv_s1111_2398-master-fi.mp4"
         },
         {
             "id": "16a4b50dc9e946e8bea60c1f6c2057b2",
@@ -219,16 +183,13 @@
             "title": "Muutoksen tuulet puhaltavat!",
             "description": "Sankarimme löytävät itsensä kaupungista, joka on joutunut eksyneen Gligar-lauman ja niiden johtajan Gliscorin valtaan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FqS1DcnpRugvqYMH2wgV7I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eM/CGXGxYUvOnmewzitS1p1jLViW6biy4cVov_RguicY/pok_tv_s1112_2398-master-fi-8f4711f988df96e710c5910fbfaedd0517c6379d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eM/CGXGxYUvOnmewzitS1p1jLViW6biy4cVov_RguicY/pok_tv_s1112_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S5/suh_BFT_69jdVI9nsVydguuRxDaDIjn8FED5I2Z3E/pok_tv_s1112_2398-master-fi.mp4",
             "captions": "",
-            "size": 2662519366
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S5/suh_BFT_69jdVI9nsVydguuRxDaDIjn8FED5I2Z3E/pok_tv_s1112_2398-master-fi.mp4"
         },
         {
             "id": "7d819b711e8341258beeba763247026d",
@@ -237,16 +198,13 @@
             "title": "Pettävä hiekka",
             "description": "Matkallaan Veilstone Cityyn sankareittemme on ylitettävä aavikko, jossa he tapaavat jättimäisen Hippowdonin, heidän aiemmin pelastamansa Hippopotasin ystävän!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fYGbcR6DQSUi-66djJHAm0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5K/ctXLCDaJes3SKRe9RBmmErKX2BSCRwWiG4mlJl3og/pok_tv_s1113_2398-master-fi-71c92b1b568425f27dd1891f39b956834a084e6c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5K/ctXLCDaJes3SKRe9RBmmErKX2BSCRwWiG4mlJl3og/pok_tv_s1113_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4c/nh4Junz94wK5urEk4pntWooM_DnOEjtaI34wnLO7c/pok_tv_s1113_2398-master-fi.mp4",
             "captions": "",
-            "size": 2620471032
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4c/nh4Junz94wK5urEk4pntWooM_DnOEjtaI34wnLO7c/pok_tv_s1113_2398-master-fi.mp4"
         },
         {
             "id": "ba1c8b5c138e46e8abfe6ff8003b6d78",
@@ -255,16 +213,13 @@
             "title": "Johtajatason ratkaisu!",
             "description": "Saapuessaan Veilstone Cityyn sankarimme kohtaavat joukon tärkeitä haasteita, mutta Ashin kauan odotettu saliottelu ei ole yksi niistä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uhyLXBOORugq_5v-AA7bXg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bx/8B85rwLcSGKCcZO8NYeO4TwHmHdAy_W_vQ23aZFBI/pok_tv_s1114_2398-master-fi-935edc78846b72dc71be8fe5eb70a7183c3503b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bx/8B85rwLcSGKCcZO8NYeO4TwHmHdAy_W_vQ23aZFBI/pok_tv_s1114_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jW/ixoD-xW8lj6JMHKyONFuZ6ANvC3KXWlHgNcTOt9iw/pok_tv_s1114_2398-master-fi.mp4",
             "captions": "",
-            "size": 2626733363
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jW/ixoD-xW8lj6JMHKyONFuZ6ANvC3KXWlHgNcTOt9iw/pok_tv_s1114_2398-master-fi.mp4"
         },
         {
             "id": "00495fc5046746e9b306612f85c779cf",
@@ -273,16 +228,13 @@
             "title": "Uusia näköaloja",
             "description": "Auttaakseen salijohtaja Maylenen itseluottamusongelmassa Dawn heittää hänelle haasteen. Vuorossa on Dawnin ensimmäinen saliottelu!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AElfxQRnRukswZhL4XHec8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/re/7cZQ75e8IJL_6C_3FjhRM1yLDvhy7TU_nHc2KJHjY/pok_tv_s1115_2398-master-fi-ac8fbc38bd77bde21fa2f78634e91a0ff8ac1886.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/re/7cZQ75e8IJL_6C_3FjhRM1yLDvhy7TU_nHc2KJHjY/pok_tv_s1115_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0K/EMmMhjh04V6FwpEQXWN-XAX2LxZaSDNMGI8zhU59o/pok_tv_s1115_2398-master-fi.mp4",
             "captions": "",
-            "size": 2657126997
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0K/EMmMhjh04V6FwpEQXWN-XAX2LxZaSDNMGI8zhU59o/pok_tv_s1115_2398-master-fi.mp4"
         },
         {
             "id": "4bab877626b248e5818f57fe52130d78",
@@ -291,16 +243,13 @@
             "title": "Kolminkertainen Ottelu",
             "description": "Veilstonen salijohtaja Maylene on taas mukana toiminnassa, ja valmiina hyväksymään Ashin haasteen kolmannen Sinnoh-alueen salimerkkinsä voittamiseksi!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S6uHdiaySOUgY9X_lITDXg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bx/UuoM4qm_yazMr09WdSCdTZ3c0TtbO7JFekwSr8TXw/pok_tv_s1116_2398-master-fi-18ef55467fabfdda4a2845da1b3b959067321512.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bx/UuoM4qm_yazMr09WdSCdTZ3c0TtbO7JFekwSr8TXw/pok_tv_s1116_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kT/4LGvE23BAqRlN2Rwv7hyVh4f_EFZ_E7rykM_kIMrU/pok_tv_s1116_2398-master-fi.mp4",
             "captions": "",
-            "size": 2658509094
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kT/4LGvE23BAqRlN2Rwv7hyVh4f_EFZ_E7rykM_kIMrU/pok_tv_s1116_2398-master-fi.mp4"
         },
         {
             "id": "fa8c8a744b02476fbfbe19bc4668a5be",
@@ -309,16 +258,13 @@
             "title": "Uusi maailma!",
             "description": "Sankarimme ovat valmiita suuntaamaan kohti seuraavaa kohdettaan salaperäisen Galactic-tiimin ilmestyessä pahoine juonineen uuden maailmanjärjestyksen asettamiseksi!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-oyKdEsCR28v74ZvEZopb4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n4/5ThMUw5ljnryxFG3BR_s1KZIJ9ZtzxnXmKyFpG4bg/pok_tv_s1117_2398-master-fi-e01449b08cbed6b99ede40f653480645f8ea6918.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n4/5ThMUw5ljnryxFG3BR_s1KZIJ9ZtzxnXmKyFpG4bg/pok_tv_s1117_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8h/Y9ttww0fiLiaayvMW6OUEZb6l2nC4nPMuOqNtWMIU/pok_tv_s1117_2398-master-fi.mp4",
             "captions": "",
-            "size": 2653010291
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8h/Y9ttww0fiLiaayvMW6OUEZb6l2nC4nPMuOqNtWMIU/pok_tv_s1117_2398-master-fi.mp4"
         },
         {
             "id": "18a806f64ac04a80aff741e38ff120bf",
@@ -327,16 +273,13 @@
             "title": "Kulkuset, kulkuset!",
             "description": "Matkalla Pastoria Cityyn sankarimme kohtaavat Pokémon-taikurin, jolla on laulava Chingling-kolmikko, joka on joutunut Rakettiryhmän tähtäimeen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GKgG9krASoAr_dB44_xIL8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lB/4_TFJfLu5Eya-cMA7pag9SZtHXS_E0yGbULecBo7Y/pok_tv_s1118_2398-master-fi-4287fe297b233998c376ed5c8bd309a46e8ef69b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lB/4_TFJfLu5Eya-cMA7pag9SZtHXS_E0yGbULecBo7Y/pok_tv_s1118_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cz/NWfcQamJHsOQ18NXBW9xB3DkmNzPsgpqFXtJf4fKw/pok_tv_s1118_2398-master-fi.mp4",
             "captions": "",
-            "size": 2646876316
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cz/NWfcQamJHsOQ18NXBW9xB3DkmNzPsgpqFXtJf4fKw/pok_tv_s1118_2398-master-fi.mp4"
         },
         {
             "id": "1f04a24556614e8ab20edae1ce194d65",
@@ -345,16 +288,13 @@
             "title": "Tienristeyksiä",
             "description": "Rakettiryhmä on sankareittemme jäljillä, kun Jessien Dustox joutuu kohtaamiseen, jonka jäljiltä hänen on tehtävä raskas päätös!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HwSiRVZhToosg7a4c4ZTWU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vJ/IwL0nK5h_kRWirz8EhuxHi6Mujud7P4ybQktoUQYU/pok_tv_s1119_2398-master-fi-fb57fb7a669d4dd05694e00609de07bec849c149.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vJ/IwL0nK5h_kRWirz8EhuxHi6Mujud7P4ybQktoUQYU/pok_tv_s1119_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V_/kcahy0_EC_QLPQx011kkaozg7bt4sbadsU4gYSKXE/pok_tv_s1119_2398-master-fi.mp4",
             "captions": "",
-            "size": 2658482961
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V_/kcahy0_EC_QLPQx011kkaozg7bt4sbadsU4gYSKXE/pok_tv_s1119_2398-master-fi.mp4"
         },
         {
             "id": "a54a536fa6ed418c810c09b738ea2527",
@@ -363,16 +303,13 @@
             "title": "Pika ja Goljat!",
             "description": "Ash ja Pikachu tapaavat epätavallisen kouluttajan, joka haluaisi kovasti lisätä Pikachun omaan Pichu- ja Raichu-joukkoonsa!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pUpTb6btQYwgQwJtzjqJSc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sd/PvqNC9wdBLsvItYqHCsWzYe2U5_dKSGvEC5bo_yOc/pok_tv_s1120_2398-master-fi-08673e6439549545364a278c7c9530bcb93689fa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sd/PvqNC9wdBLsvItYqHCsWzYe2U5_dKSGvEC5bo_yOc/pok_tv_s1120_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CP/6KwtjzDL9fzqbHNmWSVWzDHOuoWrWEHcJ6NsWHYEk/pok_tv_s1120_2398-master-fi.mp4",
             "captions": "",
-            "size": 2641138144
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CP/6KwtjzDL9fzqbHNmWSVWzDHOuoWrWEHcJ6NsWHYEk/pok_tv_s1120_2398-master-fi.mp4"
         },
         {
             "id": "a45bbe1be16945399342a69c81ffb989",
@@ -381,16 +318,13 @@
             "title": "Kohti vesikisaa!",
             "description": "Sankarimme kuulevat Wallace Cupista, arvostetusta Pokémon-kilpailusta, jonka järjestää kisamestari Wallace - ja sitten Dawn sattumalta pääsee tapaamaan itseään mestaria!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pFu-G-FpRTkk0KmnIH_uYk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xt/siNHdCUaaQ9ZAm853_vMy2YiERHDxfbd8n3XM8KYk/pok_tv_s1121_2398-master-fi-fd361d3c0508c164f722768e5c87472fe589c938.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xt/siNHdCUaaQ9ZAm853_vMy2YiERHDxfbd8n3XM8KYk/pok_tv_s1121_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/mjdnMf0QSdI37KOD6C2oo7IUmeDFvZ4rGFr-75lxo/pok_tv_s1121_2398-master-fi.mp4",
             "captions": "",
-            "size": 2640244691
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/mjdnMf0QSdI37KOD6C2oo7IUmeDFvZ4rGFr-75lxo/pok_tv_s1121_2398-master-fi.mp4"
         },
         {
             "id": "a46995744a034e1fb6f3c8e68cf69868",
@@ -399,16 +333,13 @@
             "title": "Täysi ruokasota!",
             "description": "Valmistautuessaan Wallace Cupiin sankarimme tapaavat erään, joka valmistautuu ihan samaan kilpailuun: Ashin ja Brockin ystävän Mayn Hoenn-alueelta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pGmVdEoDTh8tvPI5oz2mGg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/8MzTAEYyX4jnqOYPvQjahTGIRzF2M9irDAQc39CaE/pok_tv_s1122_2398-master-fi-a6a94a8fda03aacea7d65cdefa40b56c13c2fd2e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/8MzTAEYyX4jnqOYPvQjahTGIRzF2M9irDAQc39CaE/pok_tv_s1122_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/36/cd8C9buUhz_qecHGga1L6gWCwFYVFgW8q8rLe9SnI/pok_tv_s1122_2398-master-fi.mp4",
             "captions": "",
-            "size": 2640668267
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/36/cd8C9buUhz_qecHGga1L6gWCwFYVFgW8q8rLe9SnI/pok_tv_s1122_2398-master-fi.mp4"
         },
         {
             "id": "d32b79d1f5fe46c8bb4323af754239c6",
@@ -417,16 +348,13 @@
             "title": "Sankarien vastaanotto!",
             "description": "On Wallace Cupin ensimmäinen kierros, ja Ash, May, Dawn ja Zoey osallistuvat kilpailuun! Pääsevätkö kaikki neljä seuraavalle kierrokselle?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0yt50fX-Rsgu0Mjr3VCOcY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pd/bYOc5AZWJdRJ--p4QpuArzv2_zqC0AF3F77tK3F4A/pok_tv_s1123_2398-master-fi-60a4cfcf5815f733f89eb9c18824df17563edfa0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pd/bYOc5AZWJdRJ--p4QpuArzv2_zqC0AF3F77tK3F4A/pok_tv_s1123_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z1/mBJT9gNWDtFY3Z7cJebar6MlXmNuJeaBDldVZGp8I/pok_tv_s1123_2398-master-fi.mp4",
             "captions": "",
-            "size": 2649452077
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z1/mBJT9gNWDtFY3Z7cJebar6MlXmNuJeaBDldVZGp8I/pok_tv_s1123_2398-master-fi.mp4"
         },
         {
             "id": "1440710cbcd74a6fbd357050e49e7b49",
@@ -435,16 +363,13 @@
             "title": "Kaverusten kahnaus!",
             "description": "Wallace Cupin toinen kierros alkaa, ja Dawn, Ash, May ja Zoey ovat kaikki metsästämässä voittoa!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FEBxDLzXSm8vTVwUOSee0k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cF/3_Sc1QIc-nrI61Bp61CklHgt5vv_6C25HmFdGMr4E/pok_tv_s1124_2398-master-fi-8a32fa5933faf108c92f34afeced67d7e41b2328.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cF/3_Sc1QIc-nrI61Bp61CklHgt5vv_6C25HmFdGMr4E/pok_tv_s1124_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rm/aYMnzXC_ndVh4jsUFHyAqnM35kDmqnAQCXZTKf7Po/pok_tv_s1124_2398-master-fi.mp4",
             "captions": "",
-            "size": 2642245063
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rm/aYMnzXC_ndVh4jsUFHyAqnM35kDmqnAQCXZTKf7Po/pok_tv_s1124_2398-master-fi.mp4"
         },
         {
             "id": "0558e1b9511b4883ac8d523b1ab31ea8",
@@ -453,16 +378,13 @@
             "title": "Hymy herkässä!",
             "description": "Dawn on mahdollisesti ottelemassa joko kilpakumppaninsa Zoeyn tai uuden ystävänsä Mayn kanssa arvostetun Wallace Cupin finaalissa!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/BVjhuVEbSIMrI1SOxqzHqg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7o/lb_r9YDVUFilKJBo9WplWlRPVC2mUaTIZEAk1AIwE/pok_tv_s1125_2398-master-fi-b702fd316a2ec509b0ece6a59ded30c3bdf1a844.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7o/lb_r9YDVUFilKJBo9WplWlRPVC2mUaTIZEAk1AIwE/pok_tv_s1125_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MQ/UGmZZFcgq_5tfny6DhUjV73WDkydSV3HxTttO-RNc/pok_tv_s1125_2398-master-fi.mp4",
             "captions": "",
-            "size": 2661988678
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MQ/UGmZZFcgq_5tfny6DhUjV73WDkydSV3HxTttO-RNc/pok_tv_s1125_2398-master-fi.mp4"
         },
         {
             "id": "daf67f2ac0aa4735997fd2b5fe68aba9",
@@ -471,16 +393,13 @@
             "title": "Kerran varas, aina varas!",
             "description": "Matkallaan Pastoria Cityyn sankarimme kohtaavat aloittevan kouluttajan, Tylerin, joka yrittää napata ensimmäistä villiä Pokémoniaan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2vZ_KsCqRzUmX_Stf5oq6k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SC/Yf56XgNprNl-bfwKMZp5ZL60IUluEh2qbVeR-cebI/pok_tv_s1126_2398-master-fi-a439533f6972c7ca20cebe5c33f2227ae5ecd48d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SC/Yf56XgNprNl-bfwKMZp5ZL60IUluEh2qbVeR-cebI/pok_tv_s1126_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jl/CqgLiEqmaZvB4FW1A4qkqi2fLffHG4lmTEQjiM-ls/pok_tv_s1126_2398-master-fi.mp4",
             "captions": "",
-            "size": 2651149706
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jl/CqgLiEqmaZvB4FW1A4qkqi2fLffHG4lmTEQjiM-ls/pok_tv_s1126_2398-master-fi.mp4"
         },
         {
             "id": "3103e493b39243f9aa066a739222d369",
@@ -489,16 +408,13 @@
             "title": "Kärähdys!",
             "description": "Sankareittemme kohdatessa Ashin kilpakumppanin, Paulin Pastoria Cityn ulkopuolella, Chimchar, joka liittyi Ashin joukkueeseen Paulin hylättyä sen, kärttää ottelua!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MQPkk7OSQ_kqgZqc5Ii02k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0k/qMlXyB_WpQWxw5OLmYNFC-DOpbuufyufY6TlapsoU/pok_tv_s1127_2398-master-fi-ad322eef165ef17342d674072ff4046aa2e0e7b2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0k/qMlXyB_WpQWxw5OLmYNFC-DOpbuufyufY6TlapsoU/pok_tv_s1127_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xZ/YcP5DF7yECS9blZgdSxQ-7Wh1wM1mpx0RNGd_oZyM/pok_tv_s1127_2398-master-fi.mp4",
             "captions": "",
-            "size": 2650387243
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xZ/YcP5DF7yECS9blZgdSxQ-7Wh1wM1mpx0RNGd_oZyM/pok_tv_s1127_2398-master-fi.mp4"
         },
         {
             "id": "6e359cfd059b4f2d876774f9adb6cb98",
@@ -507,16 +423,13 @@
             "title": "Croagunkeista parhain!",
             "description": "Sankarimme saapuvat Pastoria Cityyn ja tapaavat salijohtaja Crasher Waken, joka esittelee heille vuosittaisen Croagunk-festivaalin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bjWc_QWbTy0h2d0-a22y5g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cQ/n3Qm09sCvwq7hOZVuBzmxL0T79s2sf3-BegzOsDgU/pok_tv_s1128_2398-master-fi-824c0bff45737fc8e9e71002daf55ba1d542eda3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cQ/n3Qm09sCvwq7hOZVuBzmxL0T79s2sf3-BegzOsDgU/pok_tv_s1128_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tX/LojLur37lrBsWf2TpY3jsPYrhN0zyV5cepDr_odwc/pok_tv_s1128_2398-master-fi.mp4",
             "captions": "",
-            "size": 2645109661
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tX/LojLur37lrBsWf2TpY3jsPYrhN0zyV5cepDr_odwc/pok_tv_s1128_2398-master-fi.mp4"
         },
         {
             "id": "703618b83667407295a53141c4857a9a",
@@ -525,16 +438,13 @@
             "title": "Pokémon-ranger ja kaapattu Riolu! (Osa 1)",
             "description": "Sankarimme tapaavat Pokémon-ranger Kellyn, jonka tehtävä on auttaa erikoinen Riolu takaisin kotiinsa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cDYYuDZnQHIlaUxQcSFepo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tR/XE58G01qNSbikxWiD4VI-dDAOv3OPI_gfZsfOHVSs/pok_tv_s1129_2398-master-fi-e9332361ede51d4df6f09abe79309a17ffe93b8a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tR/XE58G01qNSbikxWiD4VI-dDAOv3OPI_gfZsfOHVSs/pok_tv_s1129_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cm/G_Aw96tcSKcV3OONaszGFp4WUgvNnrJgdrw8poi7I/pok_tv_s1129_2398-master-fi.mp4",
             "captions": "",
-            "size": 2658330326
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cm/G_Aw96tcSKcV3OONaszGFp4WUgvNnrJgdrw8poi7I/pok_tv_s1129_2398-master-fi.mp4"
         },
         {
             "id": "2509b6c765294f069384c0427f7942b6",
@@ -543,16 +453,13 @@
             "title": "\"Pokémon-ranger ja kaapattu Riolu! (Osa 2)\"",
             "description": "Varastettuaan Riolun viimeisimmälle asiakkaalleen Pokémon-metsästäjä J:n on kohdattava huippu-ranger Kelly ja sankarimme, kun he yrittävät palauttaa Riolun kotiinsa!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JQm2x2UpTwYk4TAQn95QrY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R1/9UyqiuRi3HNAEdvdJr8W1NjdpBuwlLpoXTuJzLc8k/pok_tv_s1130_2398-master-fi-e6eb2896d6b8c5e243626aa0e90859b28bb28889.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R1/9UyqiuRi3HNAEdvdJr8W1NjdpBuwlLpoXTuJzLc8k/pok_tv_s1130_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I5/FuHpeGsX4jMbLODJdIe8WNOtRgYSrroos5H3VnizY/pok_tv_s1130_2398-master-fi.mp4",
             "captions": "",
-            "size": 2661182530
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I5/FuHpeGsX4jMbLODJdIe8WNOtRgYSrroos5H3VnizY/pok_tv_s1130_2398-master-fi.mp4"
         },
         {
             "id": "c06f272d11e24b018ca373ce4e603314",
@@ -561,16 +468,13 @@
             "title": "Murskavoitto!",
             "description": "On Ashin vuoro haastaa Pastoria Cityn salijohtaja Crasher Wake, ja yrittää voittaa neljäs Sinnoh-alueen salimerkki!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wG8nLRHiSwEjKNzzk5gMxQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t1/79kwcGWB7ZEt7fORxkscj2FKghrJkcaaPm7Da8AtM/pok_tv_s1131_2398-master-fi-77d651b99c643bc8f7b94cda0cc6b3fe7e1658bf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t1/79kwcGWB7ZEt7fORxkscj2FKghrJkcaaPm7Da8AtM/pok_tv_s1131_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cK/ihc8FawSPmCUn-fvnkR1FM0mwPYPBaCF2wWpghtyM/pok_tv_s1131_2398-master-fi.mp4",
             "captions": "",
-            "size": 2659519589
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cK/ihc8FawSPmCUn-fvnkR1FM0mwPYPBaCF2wWpghtyM/pok_tv_s1131_2398-master-fi.mp4"
         },
         {
             "id": "456346077f8e4ba491ce8a109ba830ef",
@@ -579,16 +483,13 @@
             "title": "Hyvä ruoka, iloinen mieli!",
             "description": "Sankarimme suuntaavat takaisin Hearthome Cityyn, jotta Ash voisi haastaa salijohtajan, mutta he kohtaavatkin erittäin nälkäisen ja villin Swinubin, joka aiheuttaa ongelmia naapureilleen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RWNGB3-OS6Qkc6KEJuoMO8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sv/H9CadTmb4J5Zwv7Dfx8-4_gufY4jf5CfFRoZIG5p0/pok_tv_s1132_2398-master-fi-0954cdfb9f4753d933e9889230461792a2b9964a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sv/H9CadTmb4J5Zwv7Dfx8-4_gufY4jf5CfFRoZIG5p0/pok_tv_s1132_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hy/eh8d2sMUWAOAun9i--RI3KgvysOPTeqgAoNJev78o/pok_tv_s1132_2398-master-fi.mp4",
             "captions": "",
-            "size": 2628117646
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hy/eh8d2sMUWAOAun9i--RI3KgvysOPTeqgAoNJev78o/pok_tv_s1132_2398-master-fi.mp4"
         },
         {
             "id": "41fe9519222149789d160c3a26ea4da9",
@@ -597,16 +498,13 @@
             "title": "Pelolla pelkoa vastaan!",
             "description": "Hävittyään Paulille Ashin Gligar haluaa erikoisharjoituksia, ja siihen löytyykin avuksi odottamaton liittolainen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Qf6VGSIhSXgnRYMOibqTak/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/im/y0YVLp6H6NoLdaB1vdKeRPWTcmc32cQIukFri9SX8/pok_tv_s1133_2398-master-fi-98cc5fea79fded2cc5150c8326e2e15b69925622.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/im/y0YVLp6H6NoLdaB1vdKeRPWTcmc32cQIukFri9SX8/pok_tv_s1133_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y5/iY7-fQwEpZVksZa48BVZVbznz529ejrHjjM7ln-aI/pok_tv_s1133_2398-master-fi.mp4",
             "captions": "",
-            "size": 2650502512
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y5/iY7-fQwEpZVksZa48BVZVbznz529ejrHjjM7ln-aI/pok_tv_s1133_2398-master-fi.mp4"
         },
         {
             "id": "93b5a107ad344ca0b385aca1dddb629e",
@@ -615,16 +513,13 @@
             "title": "Saavutaan tyylillä!",
             "description": "Saatuaan selville, että Hearthome Cityn salijohtaja on vieläkin poissa, Ash ja Dawn keksivät toisenlaisen kilpailun pitääkseen itsensä kiireisenä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/k7WhB600TKAs4Wsod3bYp4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Us/J95ucY1o66Uy9FOPEZcgydteTr0NbrTraI51yRCWw/pok_tv_s1134_2398-master-fi-396ad5fe9925ff95a687d4a4e6fe660fbde8db9e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Us/J95ucY1o66Uy9FOPEZcgydteTr0NbrTraI51yRCWw/pok_tv_s1134_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nc/XLkvJl3iaD48Zt6HqEikoMXrNmnEB4PuTyjGFQaR4/pok_tv_s1134_2398-master-fi.mp4",
             "captions": "",
-            "size": 2651030240
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nc/XLkvJl3iaD48Zt6HqEikoMXrNmnEB4PuTyjGFQaR4/pok_tv_s1134_2398-master-fi.mp4"
         },
         {
             "id": "16e5325a270d41f4bfa83a0dc2e834ef",
@@ -633,16 +528,13 @@
             "title": "Kuin vesi Psyduckin selästä!",
             "description": "Kulkiessaan kapeaa rotkoa matkallaan Celestic Towniin sankarimme huomaavat joutuneensa kolmen päättäväisen ja voimakkaan Psyduckin pysäyttämiksi.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FuUyWicNQfQv6g6DcLoNO8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/PTV6s-WiWQZ3SMLQH0ZPtMPRKtMwN5KuZ0F8w7WtY/pok_tv_s1135_2398-master-fi-755c75a3ec82a3269d32b336a662aee705bc847d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/PTV6s-WiWQZ3SMLQH0ZPtMPRKtMwN5KuZ0F8w7WtY/pok_tv_s1135_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CK/JY1I9-bWS-HTM2_7G6UVyIJMWZd1kx0h7cbqPZjOM/pok_tv_s1135_2398-master-fi.mp4",
             "captions": "",
-            "size": 2656604255
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CK/JY1I9-bWS-HTM2_7G6UVyIJMWZd1kx0h7cbqPZjOM/pok_tv_s1135_2398-master-fi.mp4"
         },
         {
             "id": "6615a310f01441339eb8dd4292fb4921",
@@ -651,16 +543,13 @@
             "title": "Leirielämää!",
             "description": "Professori Rowan kutsuu sankarimme osallistumaan Pokémon-kesäleirille, jossa kouluttajille annetaan satunnainen Pokémon, jotta he voisivat oppia yhteistyötä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZhWjEPAUQTMnrjdQpL7SSE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jl/a-vrrGaultpE1evr8llEuXfqxOHyatIcF4L4AJtfY/pok_tv_s1136_2398-master-fi-72d41eccac2dae979b04f2f52243d5111b3680ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jl/a-vrrGaultpE1evr8llEuXfqxOHyatIcF4L4AJtfY/pok_tv_s1136_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/c_8atMNor_HQMN0lYV2oQCagF_ofrhlQbaOoZjHOI/pok_tv_s1136_2398-master-fi.mp4",
             "captions": "",
-            "size": 2645537890
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/c_8atMNor_HQMN0lYV2oQCagF_ofrhlQbaOoZjHOI/pok_tv_s1136_2398-master-fi.mp4"
         },
         {
             "id": "7efca0c634af4b958e366e951483201d",
@@ -669,16 +558,13 @@
             "title": "Kuin kalat vedessä!",
             "description": "Pokémon-kesäleirillä sankarimme kirjoittavat esitelmää läheisen järven Vesityypin Pokémoneista, kun he törmäävät mysteerin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fvygxjSvS5UjjZulRSDIB0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ps/PFIs559yafgTjT1e8wUTHN0MwHd8pi_Y6IdYibnRc/pok_tv_s1137_2398-master-fi-ec8da3ccb96a1e53191a695ee64d51b674c9dc9f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ps/PFIs559yafgTjT1e8wUTHN0MwHd8pi_Y6IdYibnRc/pok_tv_s1137_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/-orjF1nl_jzl9dFZkOLLocGbyAoEclMZCdAnHz1n8/pok_tv_s1137_2398-master-fi.mp4",
             "captions": "",
-            "size": 2654444381
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/-orjF1nl_jzl9dFZkOLLocGbyAoEclMZCdAnHz1n8/pok_tv_s1137_2398-master-fi.mp4"
         },
         {
             "id": "62164009820343f5b769f8c42fe40f31",
@@ -687,16 +573,13 @@
             "title": "Kouluyö!",
             "description": "Sankarimme jatkavat opintojaan Pokémon-kesäleirillä, jossa läheinen kohtaaminen Haamutyypin Pokémonin kanssa osoittautuu haastavaksi Ashille ja hänen uudelle kilpakumppanilleen Angielle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YhZACYIDQ_Ut2n4xC_kDzE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BS/bCfNuhwl6XhsWkwaDVTqoLSAN9WHa7jWtC5b8dYXQ/pok_tv_s1138_2398-master-fi-05153c5823c60b3a40c9018d3f0bc73b1ca6187e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BS/bCfNuhwl6XhsWkwaDVTqoLSAN9WHa7jWtC5b8dYXQ/pok_tv_s1138_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/X133A3a0rbHtRxdsVcVe4jA_exTPZbdZ5u19W_RSg/pok_tv_s1138_2398-master-fi.mp4",
             "captions": "",
-            "size": 2657828592
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/X133A3a0rbHtRxdsVcVe4jA_exTPZbdZ5u19W_RSg/pok_tv_s1138_2398-master-fi.mp4"
         },
         {
             "id": "a0c9096b147649ada7f02afbb2c0cc86",
@@ -705,16 +588,13 @@
             "title": "Yksi, kaksi, punaiset, siniset!",
             "description": "Pokémon-kesäleiri on loppumaisillaan, joten mukanaolijoiden on aika ottaa osaa Pokémon-triathloniin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/oMkJaxR2Sa0p_Aq-7LAzIY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EL/Iu-eats-EjKz1y_QWpc0O7_7m97_2liXM_wTftcZQ/pok_tv_s1139_2398-master-fi-17a2e1f7a7f28b9fce997c0948f8b9ec3a4d6361.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EL/Iu-eats-EjKz1y_QWpc0O7_7m97_2liXM_wTftcZQ/pok_tv_s1139_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7o/mZ6lZciYBcSXKow46bjAkb6OBqII4ljyfxdwG3Dyw/pok_tv_s1139_2398-master-fi.mp4",
             "captions": "",
-            "size": 2661047863
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7o/mZ6lZciYBcSXKow46bjAkb6OBqII4ljyfxdwG3Dyw/pok_tv_s1139_2398-master-fi.mp4"
         },
         {
             "id": "6981a953695f4873b45dc992f757d464",
@@ -723,16 +603,13 @@
             "title": "Vanha kunnon Rakettiryhmä!",
             "description": "Dawn ja Piplup ottavat harjoittelunsa tosissaan, ehkä hieman liiankin tosissaan. Sillä välin Rakettiryhmän kolmikko yrittää kohottaa kuntoaan helpon kesäleirityönsä jäljiltä...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aYGpU2lfSHMtF3JkvdX1GQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cz/r0R5jbU4ntAQ_VZ9ySjQc0_eF-9S97_yXRgucH3xk/pok_tv_s1140_2398-master-fi-395f3a32b7ffc39e8f4dfe03411ea03a78719d60.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cz/r0R5jbU4ntAQ_VZ9ySjQc0_eF-9S97_yXRgucH3xk/pok_tv_s1140_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XF/dSxjzuABkgHXJPPNf2kWDGilv3nGnifrOISFL8TJk/pok_tv_s1140_2398-master-fi.mp4",
             "captions": "",
-            "size": 2654305166
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XF/dSxjzuABkgHXJPPNf2kWDGilv3nGnifrOISFL8TJk/pok_tv_s1140_2398-master-fi.mp4"
         },
         {
             "id": "e3040b06475e43b29fd419d77e9dc9b2",
@@ -741,16 +618,13 @@
             "title": "Aina korkeammalle!",
             "description": "Matkalla Celestic Towniin sankarimme kohtaavat kaksi ihmistä, joita he eivät odottaneet näkevänsä: Dawnin kilpakumppanin Zoeyn ottelemassa vaikeasti tavoitettavan Hearthome Cityn salijohtajan, Fantinan kanssa!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4wQLBkdeQ7In9QZ136dybI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W8/eSfC-O6A9RX3JoQN8_PoZwF_BWBXtUUJnO8txuOk8/pok_tv_s1141_2398-master-fi-04ab8de468427fef280bdb091a38fb6648158c05.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W8/eSfC-O6A9RX3JoQN8_PoZwF_BWBXtUUJnO8txuOk8/pok_tv_s1141_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vy/4r7sKXWm5aYNAtqjbUOsF2jx5E863j6cypCENBJrU/pok_tv_s1141_2398-master-fi.mp4",
             "captions": "",
-            "size": 2645222083
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vy/4r7sKXWm5aYNAtqjbUOsF2jx5E863j6cypCENBJrU/pok_tv_s1141_2398-master-fi.mp4"
         },
         {
             "id": "c6c911d460c740d9afa97680d56adfe6",
@@ -759,16 +633,13 @@
             "title": "Lääkäri!",
             "description": "Kun Brock lähtee asioille, Ash ja Dawn huomaavat äkkiä joutuvansa huolehtimaan erittäin sairaasta Pachirisusta, juuri silloin kun heidän suosikkihoitajansa on poissa!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xskR1GDHQNkr6l2gNVq3-Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_J/r2nlLQ_E7N6wV5VegEnAYjobVjCTFH7HrCXH4Rvrg/pok_tv_s1142_2398-master-fi-8f661229cd1a8aa8846508c6dffbc4ea647ba271.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_J/r2nlLQ_E7N6wV5VegEnAYjobVjCTFH7HrCXH4Rvrg/pok_tv_s1142_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3M/5whagBMvz4TzgcpR_-zwsy_A18YvOsNnXTn2UwJoY/pok_tv_s1142_2398-master-fi.mp4",
             "captions": "",
-            "size": 2652175614
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3M/5whagBMvz4TzgcpR_-zwsy_A18YvOsNnXTn2UwJoY/pok_tv_s1142_2398-master-fi.mp4"
         },
         {
             "id": "73094bdcd4904d37b0b200d8a6c24ce1",
@@ -777,16 +648,13 @@
             "title": "Ottelua toisessa polvessa!",
             "description": "Kilpaillessaan Celestic Townin Pokémon-kilpailussa Dawn tapaa legendaarisen koordinaattorin, joka kerran voitti huippukoordinaattori Johannan, Dawnin äidin!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cwlL3NSQTTcsLIA2KbCTOE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xr/H5L8ZVnZoCEQRbMRb7YYFEddhOHaTPODVu6t41dsg/pok_tv_s1143_2398-master-fi-d8ae1305ba087ac71a14c0d1433d31ac9d8b06fd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xr/H5L8ZVnZoCEQRbMRb7YYFEddhOHaTPODVu6t41dsg/pok_tv_s1143_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9F/3791PHKIyu1VFcN9Crdru6KmdDsepmKuncPLYxoz0/pok_tv_s1143_2398-master-fi.mp4",
             "captions": "",
-            "size": 2646909856
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9F/3791PHKIyu1VFcN9Crdru6KmdDsepmKuncPLYxoz0/pok_tv_s1143_2398-master-fi.mp4"
         },
         {
             "id": "7569dae0b8b14897b9dae1ceb5a43097",
@@ -795,16 +663,13 @@
             "title": "Lustrous-kuulan ryöstö",
             "description": "Paha Galactic-tiimi iskee jälleen, tällä kertaa varastaakseen Adamant- ja hehkukuulan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dWna4LixSJcudrhzrWkMJc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/26/xv7ikKRfWM2n3IpvokWirNH5Boxi36yCIwqUDt7VU/pok_tv_s1144_2398-master-fi-6347c665f9a957548329de12c224c67a2ce7a686.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/26/xv7ikKRfWM2n3IpvokWirNH5Boxi36yCIwqUDt7VU/pok_tv_s1144_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yp/aDx30kl-MSayE_d3xGMazBe-y10BkpCm-MhgJCJvI/pok_tv_s1144_2398-master-fi.mp4",
             "captions": "",
-            "size": 2643931412
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yp/aDx30kl-MSayE_d3xGMazBe-y10BkpCm-MhgJCJvI/pok_tv_s1144_2398-master-fi.mp4"
         },
         {
             "id": "1d2ff5c959c0415d85269d460c7d8d87",
@@ -813,16 +678,13 @@
             "title": "Kuula hukassa",
             "description": "Galactic-tiimin jatkaessa pahaa juontaan hehkukuulan varastamiseksi, mestari Cynthia ja sankarimme huomaavat, että heidän on kohdattava sekä Galactic-tiimi että Rakettiryhmä suojellakseen sitä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HS_1yVnAQV0hSadRgx9jYc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vm/pFCXjNQjpgN5dy7t-wJikYlWBvKOGWJvS5zsVIog0/pok_tv_s1145_2398-master-fi-951ba748f463c20c61c8fed09283cf292f8e199c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vm/pFCXjNQjpgN5dy7t-wJikYlWBvKOGWJvS5zsVIog0/pok_tv_s1145_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SS/CmZsUBEWS7YWnYkQn_fxz8CbOV-cJqwt94Uh2azIc/pok_tv_s1145_2398-master-fi.mp4",
             "captions": "",
-            "size": 2656599863
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SS/CmZsUBEWS7YWnYkQn_fxz8CbOV-cJqwt94Uh2azIc/pok_tv_s1145_2398-master-fi.mp4"
         },
         {
             "id": "8d714d11bb93499e81b1f7547283252a",
@@ -831,16 +693,13 @@
             "title": "Huivinsa kullakin!",
             "description": "Käydessään ystävänsä Angien luona matkallaan Hearthome Cityyn, sankarimme tutkivat huivihirviön arvoitusta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jXFNEbuTSZ4gbH3VHKDJSo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fY/hQkkhi9TgH_yjEdvorOpxQRbAD105-fitoLkCHZNI/pok_tv_s1146_2398-master-fi-a5d5713ed4e7261157a9dc6026b57033b0e3ef40.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fY/hQkkhi9TgH_yjEdvorOpxQRbAD105-fitoLkCHZNI/pok_tv_s1146_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YC/bbin9OTR44YSYx2XchxVdUynxmO6dTagBhCTUGZKk/pok_tv_s1146_2398-master-fi.mp4",
             "captions": "",
-            "size": 2635163761
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YC/bbin9OTR44YSYx2XchxVdUynxmO6dTagBhCTUGZKk/pok_tv_s1146_2398-master-fi.mp4"
         },
         {
             "id": "1ab4cbac8b7743c594fdc68f3bf57940",
@@ -849,16 +708,13 @@
             "title": "Pokémon palaa kotiin!",
             "description": "Yllätyskohtaaminen Aaronin, Elite Fourin jäsenen kanssa antaa sankareillemme ainutlaatuisen mahdollisuuden todistaa tunteellista tapaamista Aaronin ja hänen ensimmäisen Pokémoninsa välillä.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GrTLrIt3Q8UlP3Gjzv1eUA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/vX1Ff8O4Gj2xUe3m1HEBMwOJ56VIHE3r7Etvb-fdI/pok_tv_s1147_2398-master-fi-8890f1e51548b39fb688828ae809e5a5df2fc88f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/vX1Ff8O4Gj2xUe3m1HEBMwOJ56VIHE3r7Etvb-fdI/pok_tv_s1147_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vy/B5KktIxZnyaij5dZ_zctRiNYZDdFssl2WuofKPpjs/pok_tv_s1147_2398-master-fi.mp4",
             "captions": "",
-            "size": 2623260035
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vy/B5KktIxZnyaij5dZ_zctRiNYZDdFssl2WuofKPpjs/pok_tv_s1147_2398-master-fi.mp4"
         },
         {
             "id": "672f4304755942cf8bf7c57bf0d330a4",
@@ -867,16 +723,13 @@
             "title": "Vihollisen apuna!",
             "description": "Ashin harjoitellessa Fantinan kanssa Hearthomen salilla käytävään uusintaotteluunsa, hänen kilpakumppaninsa Paul keskeyttää hänet ottelulla!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Zy9DBHVZQs8i_fFe_DTMKQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0h/xaLVwx6KOaCoHwww6-IEr-IMQrMMfWNsC1Zkoj2os/pok_tv_s1148_2398-master-fi-e0d7fa9bafa553f9831b6086bff764d5763f7d92.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SC/Bim3wdK09kWcYmLKhqJylA5KY-wwn-eh73EsGAzlA/pok_tv_s1148_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LZ/raHa7m7N-OpAFvR2_f1QbbPs1Q6VEQIc5j7Rk_Fzg/pok_tv_s1148_2398-master-fi.mp4",
             "captions": "",
-            "size": 2644811211
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LZ/raHa7m7N-OpAFvR2_f1QbbPs1Q6VEQIc5j7Rk_Fzg/pok_tv_s1148_2398-master-fi.mp4"
         },
         {
             "id": "62cf9f7279b2451094f33531e6818b9f",
@@ -885,16 +738,13 @@
             "title": "Barry ottaa koville",
             "description": "Ashin pitkään odotetun Fantinan kanssa Hearthomen salilla käytävän uusintaottelun aattona saapuu itsevarma, uusi kilpakumppani haastamaan sankarimme!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ys-fcnmyRRAlPM1MeaBi58/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pk/YiQg0coCr7hpj9rhy83l1IHSo1I3LZXnWCNw4MyZk/pok_tv_s1149_2398-master-fi-74ad716f581e5dd618260edfafbae67f98a35a7b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pk/YiQg0coCr7hpj9rhy83l1IHSo1I3LZXnWCNw4MyZk/pok_tv_s1149_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jC/FJmhmTTHTUUWJzRE_ABzUxOTrONazwsmG2_K6ZQiE/pok_tv_s1149_2398-master-fi.mp4",
             "captions": "",
-            "size": 2618680575
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jC/FJmhmTTHTUUWJzRE_ABzUxOTrONazwsmG2_K6ZQiE/pok_tv_s1149_2398-master-fi.mp4"
         },
         {
             "id": "3a1a8b7b4bc649aa92f27486734f99a1",
@@ -903,16 +753,13 @@
             "title": "Hyökkäys on paras puolustus!",
             "description": "Saavuttuaan kahden edellisen kerran tyhjälle salille, ja oteltuaan odottamattomasti matkalla, Ash vihdoin saa haastaa salijohtaja Fantinan Hearthome Cityssä!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OhqLe0vGSaokvJ0hnNPmaE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a0/d0eGonxtFglZ2rzNI3Phe2Mp1jkrifGWqPlnGqmr8/pok_tv_s1150_2398-master-fi-5a3e0cf3dea530e2306566b891c56c3d77e42f8f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a0/d0eGonxtFglZ2rzNI3Phe2Mp1jkrifGWqPlnGqmr8/pok_tv_s1150_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6f/h4N4yg15F2QCh3vYPjWZHL_b_OF6YkN5sH9gTe3gA/pok_tv_s1150_2398-master-fi.mp4",
             "captions": "",
-            "size": 2640168081
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6f/h4N4yg15F2QCh3vYPjWZHL_b_OF6YkN5sH9gTe3gA/pok_tv_s1150_2398-master-fi.mp4"
         },
         {
             "id": "c7decbc62b454097b5ef151ba663d673",
@@ -921,16 +768,13 @@
             "title": "Katso Meowth loikkaa!",
             "description": "Räjähdyksen erotettua kouluttajat Pokémoneista, Meowth pohtii Rakettiryhmästä eroamista ja liittymistä sankareittemme joukkoon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/x97LxitFQJcte8VG6Zj1nM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CE/GwPbtJBWAe8ECb4AY4OAp186PExiYq1WE1Vb9Tyt8/pok_tv_s1151_2398-master-fi-fdcc0891801d274acddeb82b0b2c55dabae0c256.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CE/GwPbtJBWAe8ECb4AY4OAp186PExiYq1WE1Vb9Tyt8/pok_tv_s1151_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oc/i885n-5ZWAIOuDp780EwUD8kibTnJ369eeej06QPg/pok_tv_s1151_2398-master-fi.mp4",
             "captions": "",
-            "size": 2631148141
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oc/i885n-5ZWAIOuDp780EwUD8kibTnJ369eeej06QPg/pok_tv_s1151_2398-master-fi.mp4"
         },
         {
             "id": "31a5b68e5c004ab389207c017a970ef9",
@@ -939,16 +783,13 @@
             "title": "Uneton Canalave Cityssä!",
             "description": "Matkatessaan Canalave Cityn läpi sankarimme tulevat saarelle, missä kaikki nukkuvat levottomasti ja näkevät loppumattomia painajaisia!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MaW2jlwASrMiSB8AXqXDvk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zd/coPuAW3tWvcFx42VA2VECwKBQxf9wRAapU7hrHDdw/pok_tv_s1152_2398-master-fi-4859ae2ca49e309adc7f03efe72f99a32fdd8fd2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zd/coPuAW3tWvcFx42VA2VECwKBQxf9wRAapU7hrHDdw/pok_tv_s1152_2398-master-fi.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o-/uNSL_PUOL4fkoThGz3fWF6aUmbtvfMpolVFslL7IE/pok_tv_s1152_2398-master-fi.mp4",
             "captions": "",
-            "size": 2651377208
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o-/uNSL_PUOL4fkoThGz3fWF6aUmbtvfMpolVFslL7IE/pok_tv_s1152_2398-master-fi.mp4"
         }
     ]
 }

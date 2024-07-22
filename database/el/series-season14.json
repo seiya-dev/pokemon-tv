@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-negro-y-blanco",
+    "channel_id": "season14",
     "channel_name": "Pokémon: Negro y Blanco",
     "channel_description": "Nuevos amigos, Pokémon y aventuras aguardan a Ash y Pikachu cuando llegan a Región Unova en la serie Negro y Blanco, ¡ahora disponible en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season14/season14-1125x1500-es.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season14/season14-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season14/season14-2732x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season14/season14-1660x940-es.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 171,
-    "channel_creation_date": 1588784360,
-    "channel_update_date": 1675441430,
+    "order": -14000,
     "media": [
         {
             "id": "3ad474b81c8f4a88a72dd7dc27d8e0c6",
@@ -21,16 +18,13 @@
             "title": "¡A la sombra de Zekrom!",
             "description": "Al llegar a Región Unova, Ash pronto deberá enfrentarse a la pérdida de movimientos tipo Eléctrico de Pikachu.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OtR0uByPSogpy3X3CfY4MY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eB/EfAhylhL78pcU28E3W-GbWhQlMAdzNjm1_xED38Pk/pok_tv_s1401_2997-master-las-3c1f59454b47f92d92149a1e1d2368c1e2f64841.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eB/EfAhylhL78pcU28E3W-GbWhQlMAdzNjm1_xED38Pk/pok_tv_s1401_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rh/XbCGo4EKvJl0vb69d-Vk-ndU__tKV286NX2jwOock/pok_tv_s1401_2997-master-las.mp4",
             "captions": "",
-            "size": 2666791179
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rh/XbCGo4EKvJl0vb69d-Vk-ndU__tKV286NX2jwOock/pok_tv_s1401_2997-master-las.mp4"
         },
         {
             "id": "7e309a1c82534dd494f8f983408c2687",
@@ -39,16 +33,13 @@
             "title": "¡Entran Iris y Axew!",
             "description": "Continuando su viaje en Región Unova, Ash y Pikachu encuentran nuevos amigos, así como algunos viejos rivales.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fjCaHIJTTdQlPj5g0CMJoc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/k5e4oeNTHJFUgn5JzicVxUmGvQqg4RTe1uEU0qAqw/pok_tv_s1402_2997-master-las-566334f08385f7586930fe4f7d5df3500b17733b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/k5e4oeNTHJFUgn5JzicVxUmGvQqg4RTe1uEU0qAqw/pok_tv_s1402_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/39/SleEnB1toJalpkmY-V-Ka8r5GIkw2LcQMf57-ehPk/pok_tv_s1402_2997-master-las.mp4",
             "captions": "",
-            "size": 2627746000
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/39/SleEnB1toJalpkmY-V-Ka8r5GIkw2LcQMf57-ehPk/pok_tv_s1402_2997-master-las.mp4"
         },
         {
             "id": "cc3c473bcd1a454da4defa90a1820535",
@@ -57,16 +48,13 @@
             "title": "¡El pozo de Sandile!",
             "description": "En camino a Ciudad Striaton y la primer Batalla, nuestros héroes conocen a una familia cuyo hotel necesita ayuda urgentemente.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zDxHO80aRU0pN76kKGCBTU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sk/eeXMiGOTwBtIRmmVfsjmL5XPdzRT-2nkNvIKgGGpE/pok_tv_s1403_2997-master-las-833830ea507dd12345be8cf21fb18e2cd9230967.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sk/eeXMiGOTwBtIRmmVfsjmL5XPdzRT-2nkNvIKgGGpE/pok_tv_s1403_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4c/GMXA6bfQwPKd040kncYwBkZz8ers-Amt6upWZekow/pok_tv_s1403_2997-master-las.mp4",
             "captions": "",
-            "size": 2682588439
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4c/GMXA6bfQwPKd040kncYwBkZz8ers-Amt6upWZekow/pok_tv_s1403_2997-master-las.mp4"
         },
         {
             "id": "93b94bf1742e445bb6cb0fecb5efc555",
@@ -75,16 +63,13 @@
             "title": "¡El Club de Batalla y la elección de Tepig!",
             "description": "En camino a Ciudad Striaton y la primera Batalla de Gimnasio de Ash de Región Unova, nuestro héroe descubre el Club de Batalla Pokémon, y también a un nuevo amigo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/k7lL8XQuRFstssP7LXvxVU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YK/SEr_lmgCO7oUY9UwedOLBfcusyoswq_SCXUa38tMw/pok_tv_s1404_2997-master-las-4df4499ad92a2dc679a2f3292456cae4cabcdc7c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YK/SEr_lmgCO7oUY9UwedOLBfcusyoswq_SCXUa38tMw/pok_tv_s1404_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dI/x8Uj3cSZjKkdmhoMyGN163WjO5WMKmEfsiPbcj2no/pok_tv_s1404_2997-master-las.mp4",
             "captions": "",
-            "size": 2638427375
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dI/x8Uj3cSZjKkdmhoMyGN163WjO5WMKmEfsiPbcj2no/pok_tv_s1404_2997-master-las.mp4"
         },
         {
             "id": "ca379e969fee460f8c7e3bd422cefa46",
@@ -93,16 +78,13 @@
             "title": "¡Líderes triples, amenazas en equipo!",
             "description": "Mientras Ash se enfrenta a un Líder de Gimnasio poco usual en el Gimnasio de Ciudad Striaton, el Equipo Rocket se prepara para embarcarse en la misión más importante de sus vidas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yjeelp_uRg8jH471CLO-kY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h-/Vb7S5nkvd-d1bk7QtSSkpHDm7TPdzV9Nv89XxfgIo/pok_tv_s1405_2997-master-las-3ff18d6bda2b36f8f2d372a5cc68a91d3b75ccd9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h-/Vb7S5nkvd-d1bk7QtSSkpHDm7TPdzV9Nv89XxfgIo/pok_tv_s1405_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ur/sME8nb5gZX03zLv8web4NMw9_dHCku6A6tz_DnSaI/pok_tv_s1405_2997-master-las.mp4",
             "captions": "",
-            "size": 2643526922
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ur/sME8nb5gZX03zLv8web4NMw9_dHCku6A6tz_DnSaI/pok_tv_s1405_2997-master-las.mp4"
         },
         {
             "id": "3a904971776443dcb08e6b79d87cda3e",
@@ -111,16 +93,13 @@
             "title": "¡Sueños en el jardín!",
             "description": "Mientras la primera Batalla de Gimnasio de Ash de Región Unova continúa, Ash descubre un alma gemela en Cilan, uno de los tres líderes del Gimnasio de Ciudad Striaton.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OpBJcXdkQ9wsI5redh82j4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z-/Zf-XSHjpm6VJf0kFTwsieEZLyBv64VijmxZ3pWMcg/pok_tv_s1406_2997-master-las-c6c8389287e5aa44c8c57c628a6a1d8bc25ec94a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z-/Zf-XSHjpm6VJf0kFTwsieEZLyBv64VijmxZ3pWMcg/pok_tv_s1406_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/si/vvBGREx3k85dROAN_4QCJowNCb7AJ20-17VtNGaQw/pok_tv_s1406_2997-master-las.mp4",
             "captions": "",
-            "size": 2654756354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/si/vvBGREx3k85dROAN_4QCJowNCb7AJ20-17VtNGaQw/pok_tv_s1406_2997-master-las.mp4"
         },
         {
             "id": "8a20eeb8f19d4f6e9eaf7d5311d0ef48",
@@ -129,16 +108,13 @@
             "title": "¡Snivy es difícil de atrapar!",
             "description": "Continuando hacia Ciudad Nacrene y su segunda Batalla de Gimnasio, Ash se encuentra con un increíble Snivy que resulta realmente difícil de atrapar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iiDuuPGdT24nq99UxHQ70g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6g/2oLtt4ULG4AeHh2vuGWCPD3eAPsGz6LPlSGyxwHR4/pok_tv_s1407_2997-master-las-d88ce3bb17aec7854b5fefe2124062368f4564d3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6g/2oLtt4ULG4AeHh2vuGWCPD3eAPsGz6LPlSGyxwHR4/pok_tv_s1407_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s3/V-1gD0NN-sgGnbT0nPlo8fpspl_rF9iTf3lLEzQxA/pok_tv_s1407_2997-master-las.mp4",
             "captions": "",
-            "size": 2656812514
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s3/V-1gD0NN-sgGnbT0nPlo8fpspl_rF9iTf3lLEzQxA/pok_tv_s1407_2997-master-las.mp4"
         },
         {
             "id": "3edd3a7b8ec74b07960db9e6f10305ee",
@@ -147,16 +123,13 @@
             "title": "¡Salvando a Darmanitan de la campana!",
             "description": "A medida que nuestros héroes se dirigen hacia Ciudad Nacrene y la siguiente Batalla de Gimnasio de Ash, se encuentran con un par de Darumaka comportándose de una manera muy peculiar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Pt06e47HSwclg255vEDBe4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g0/f9keTr2FtUwjyXyteJjdVi9HRckGU9wkyxak0Um64/pok_tv_s1408_2997-master-las-98661558517a6aad1d5a50aad9d23a4c85d82f01.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g0/f9keTr2FtUwjyXyteJjdVi9HRckGU9wkyxak0Um64/pok_tv_s1408_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/64/zX7m-C4WCXYugIohmiUiLX_eg_NpXaxMhvobu-MUg/pok_tv_s1408_2997-master-las.mp4",
             "captions": "",
-            "size": 2656647022
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/64/zX7m-C4WCXYugIohmiUiLX_eg_NpXaxMhvobu-MUg/pok_tv_s1408_2997-master-las.mp4"
         },
         {
             "id": "1018baff9cca460f9899f684056db4c4",
@@ -165,16 +138,13 @@
             "title": "¡La flor está en Axew!",
             "description": "Una batalla sorpresa entre Iris, Axew, Cilan y Pansage revela la historia de una promesa recientemente hecha.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EBi6_5zKRg8mJn2hAVttMQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FV/hHSZF_56ObuA_hZmz0rQgLFgsKoRk1Xf3Tl5RUKaI/pok_tv_s1409_2997-master-las-9afeee7e0a06d42ed86e19b1d1d754e312071b3c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FV/hHSZF_56ObuA_hZmz0rQgLFgsKoRk1Xf3Tl5RUKaI/pok_tv_s1409_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5c/QV-CskfKfuyeDq5kWygbzGUe9xwfzaJtlvZO6hGNw/pok_tv_s1409_2997-master-las.mp4",
             "captions": "",
-            "size": 2638068043
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5c/QV-CskfKfuyeDq5kWygbzGUe9xwfzaJtlvZO6hGNw/pok_tv_s1409_2997-master-las.mp4"
         },
         {
             "id": "5ab7b8bdf22c4e539182fc7cd709dfd7",
@@ -183,16 +153,13 @@
             "title": "¡Una batalla rival para el Campeón del Club!",
             "description": "Al detenerse en un Club de Batalla en su camino hacia el gimnasio de Ciudad Nacrene, Ash se sorprende al ver que su rival de Región Unova, Trip, está ahí también.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Wre4vfIsTlMkYL8fNcJ39c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3W/uBJ0yBAhk6zTWgstFIDmGz-NmvOJqNH-jb2Svz3l4/pok_tv_s1410_2997-master-las-7eae0e0fb8240c1bcbd1c97d9889485707f8e541.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3W/uBJ0yBAhk6zTWgstFIDmGz-NmvOJqNH-jb2Svz3l4/pok_tv_s1410_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sz/ErvWawtqwkiT49gFUMJOOIGSis4sW9ez_9ScLjQSE/pok_tv_s1410_2997-master-las.mp4",
             "captions": "",
-            "size": 2636016778
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sz/ErvWawtqwkiT49gFUMJOOIGSis4sW9ez_9ScLjQSE/pok_tv_s1410_2997-master-las.mp4"
         },
         {
             "id": "3cb3c5c55f0a4313bf9961e7716a974b",
@@ -201,16 +168,13 @@
             "title": "¡Un hogar para Dwebble!",
             "description": "En su camino hacia el Gimnasio de Ciudad Nacrene, nuestros héroes se topan con un Dwebble que tiene un inusual problema de vivienda.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/PLPFxV8KQxMv5lh53Fql0s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mz/Smje0evpqg7UKqWR7wz0Dc8aDxzH9ehH04XEYteNU/pok_tv_s1411_2997-master-las-de19b982ae51c0e76e6dababdb35fd0bfca7ce88.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mz/Smje0evpqg7UKqWR7wz0Dc8aDxzH9ehH04XEYteNU/pok_tv_s1411_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_X/pwkfnB1oLq943gAXGK8Q2TWdtR_2dshW0iBB4zx2w/pok_tv_s1411_2997-master-las.mp4",
             "captions": "",
-            "size": 2655235710
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_X/pwkfnB1oLq943gAXGK8Q2TWdtR_2dshW0iBB4zx2w/pok_tv_s1411_2997-master-las.mp4"
         },
         {
             "id": "d43c99873bb742d5ba3110f7bfd7894e",
@@ -219,16 +183,13 @@
             "title": "¡Aquí viene el escuadrón Trubbish!",
             "description": "Continuando hacia Ciudad Nacrene y la siguiente Batalla de Gimnasio de Ash, nuestros héroes conocen a unos bulliciosos alumnos de jardín de niños y su amado Trubbish, así como a su maestra que no comparte la misma opinión.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1DyZhzu3QtUujEQ97_XiU4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MK/oe3yQMW1NiKgTxJkJ5lgVg484ESzMtsm_rRGNlbgE/pok_tv_s1412_2997-master-las-62b579cc2157aa34b6f9a2ac579f3f15fcbd4917.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MK/oe3yQMW1NiKgTxJkJ5lgVg484ESzMtsm_rRGNlbgE/pok_tv_s1412_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gx/IdjhyDslrtC8zo3cPXVWU-k8s3EGFSJAI-pvcZmuc/pok_tv_s1412_2997-master-las.mp4",
             "captions": "",
-            "size": 2644241412
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gx/IdjhyDslrtC8zo3cPXVWU-k8s3EGFSJAI-pvcZmuc/pok_tv_s1412_2997-master-las.mp4"
         },
         {
             "id": "c9fc0e4a415845ddb7176b02510d7b5b",
@@ -237,16 +198,13 @@
             "title": "¡Minccino limpio y prolijo!",
             "description": "En su camino a Ciudad Nacrene, nuestros héroes se encuentran con Bianca, la asistente de la profesora Juniper, quien los sorprende continuamente.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yfwOSkFYRd0txdrAlENe1s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/zWtM2Zl0V3xEaQR1IEOkbfjKGoXsrFOiPfAraiICA/pok_tv_s1413_2997-master-las-7b6e4e85cb90867e93577f737239c41126cbf693.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/zWtM2Zl0V3xEaQR1IEOkbfjKGoXsrFOiPfAraiICA/pok_tv_s1413_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ym/tECOLLJz6hvh0rDqzLnkurpvbPQp_7pxeEQUFmhbo/pok_tv_s1413_2997-master-las.mp4",
             "captions": "",
-            "size": 2664423864
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ym/tECOLLJz6hvh0rDqzLnkurpvbPQp_7pxeEQUFmhbo/pok_tv_s1413_2997-master-las.mp4"
         },
         {
             "id": "76f2ba7f05a24ecd8b61b8caadc34776",
@@ -255,16 +213,13 @@
             "title": "¡Una noche en el Museo de Ciudad Nacrene!",
             "description": "Al llegar a Ciudad Nacrene, nuestros héroes descubren el Gimnasio en el lugar y situación más extraños.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dvK6fwWiTs0i2G4yq3DR3Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oC/9BAOEQOY2kXovhNfXwmGIMkT2cp4dfWilMRIRdyl4/pok_tv_s1414_2997-master-las-60ae2014cec620ed04a4b662a96923b50232d69f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oC/9BAOEQOY2kXovhNfXwmGIMkT2cp4dfWilMRIRdyl4/pok_tv_s1414_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ax/jtU6bDmdDt-SXylrE3pRXki3ljw8LtrQYHc6Nlp6o/pok_tv_s1414_2997-master-las.mp4",
             "captions": "",
-            "size": 2621960756
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ax/jtU6bDmdDt-SXylrE3pRXki3ljw8LtrQYHc6Nlp6o/pok_tv_s1414_2997-master-las.mp4"
         },
         {
             "id": "aeaf9058055c49d6a8e5b7c2f3c0fce0",
@@ -273,16 +228,13 @@
             "title": "¡La batalla según Lenora!",
             "description": "El día de la pelea de Ash en el Gimnasio de Ciudad Nacrene ha llegado, y Lenora no será un rival fácil para nuestro héroe.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rq-QWAVcSdYqOW3wvPA_OA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/cV_KqPyJ7Cv0h2Nk97VSpqhCBj7qj9iw_1V-3GQG8/pok_tv_s1415_2997-master-las-65628dad9ce1ad7391d5e2d1e74d374b1547ac1c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/cV_KqPyJ7Cv0h2Nk97VSpqhCBj7qj9iw_1V-3GQG8/pok_tv_s1415_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tU/pQH_3NPcVNwU2AtlesZboMRaRglwOqd_MR8noCXWY/pok_tv_s1415_2997-master-las.mp4",
             "captions": "",
-            "size": 2605672583
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tU/pQH_3NPcVNwU2AtlesZboMRaRglwOqd_MR8noCXWY/pok_tv_s1415_2997-master-las.mp4"
         },
         {
             "id": "a164c1f0148245c0b0eb5014d0ffec8d",
@@ -291,16 +243,13 @@
             "title": "¡Revancha en el Gimnasio Nacrene!",
             "description": "Con la revancha de Ash en el Gimnasio de Ciudad Nacrene acercándose, la primera orden del día es un entrenamiento especial en serio.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/oWTB8BSCRcAsOtQFND_7I0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bV/7Iw__loH30992YbuMX2rYTgfnvkQWBrvXalNTanO4/pok_tv_s1416_2997-master-las-82c1f8ed006070c02e25f456828e96789def9c1c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bV/7Iw__loH30992YbuMX2rYTgfnvkQWBrvXalNTanO4/pok_tv_s1416_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qD/kFNTAJ8DL4NB7xjg3G0qBrOfqLEYh_IyxvGPYE-hw/pok_tv_s1416_2997-master-las.mp4",
             "captions": "",
-            "size": 2667487532
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qD/kFNTAJ8DL4NB7xjg3G0qBrOfqLEYh_IyxvGPYE-hw/pok_tv_s1416_2997-master-las.mp4"
         },
         {
             "id": "d793eba362ef4784a9dcf6c14d1807d5",
@@ -309,16 +258,13 @@
             "title": "¡Scraggy, empollado para ser salvaje!",
             "description": "El huevo Pokémon de Ash está por incubar y esto lleva a nuestros héroes a sorprendentes aventuras.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/15Pro2LvR4Qqdz2wU0YB9U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/23/UN8chL6A9IlhErMcMXcy1knA42JyVwRTVvAz5fYkg/pok_tv_s1417_2997-master-las-809c29f15e0258272f3727aa0fae9f3fb632bddc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/23/UN8chL6A9IlhErMcMXcy1knA42JyVwRTVvAz5fYkg/pok_tv_s1417_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dw/VW6GOwqEv_5Z6Duk9eZR3GZAPkfGn63pSHHw2FD5g/pok_tv_s1417_2997-master-las.mp4",
             "captions": "",
-            "size": 2650384329
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dw/VW6GOwqEv_5Z6Duk9eZR3GZAPkfGn63pSHHw2FD5g/pok_tv_s1417_2997-master-las.mp4"
         },
         {
             "id": "1a7ebe3a8baa4322ba5e37cb3abbc9a2",
@@ -327,16 +273,13 @@
             "title": "¡Sewaddle y Burgh en Bosque Azulejo!",
             "description": "Después de que nuestros héroes se pierden en un bosque camino a Ciudad Castelia, lo que encuentran compensa el estar perdidos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Gn6-OouqQyIul43yzq7yaI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/t95_7El_dumjNT4FDAwqmvUXlcEDWSH8hC_K3Xnj0/pok_tv_s1418_2997-master-las-ec0fd1c0d5549dd4c075d8160e3d59653d9feb1d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/t95_7El_dumjNT4FDAwqmvUXlcEDWSH8hC_K3Xnj0/pok_tv_s1418_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IH/jLaNesgnnIvmHK6WIwg_r-gcuzZq6cWwNNaso6DVs/pok_tv_s1418_2997-master-las.mp4",
             "captions": "",
-            "size": 2673129338
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IH/jLaNesgnnIvmHK6WIwg_r-gcuzZq6cWwNNaso6DVs/pok_tv_s1418_2997-master-las.mp4"
         },
         {
             "id": "bd8fcb1b085745f79111175c512e6ccd",
@@ -345,16 +288,13 @@
             "title": "¡La revancha de la Conocedora!",
             "description": "Al descubrir una totalmente nueva Tienda Pokémon, nuestros héroes se cruzan con la más inusual Conocedora Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vY_LGwhXRfckREXXFEubM0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zZ/YqIlDxTCH08bZU7KkQDmNNX2q5FfLAoV-ZUkL8BdE/pok_tv_s1419_2997-master-las-0203d4bbf90e454a6b5afc630b0386d4c8ecdb27.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zZ/YqIlDxTCH08bZU7KkQDmNNX2q5FfLAoV-ZUkL8BdE/pok_tv_s1419_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lw/RKFsc4RWTKktcAIeOyuAHiJe5-zeZA-faHPA3rWp8/pok_tv_s1419_2997-master-las.mp4",
             "captions": "",
-            "size": 2651292636
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lw/RKFsc4RWTKktcAIeOyuAHiJe5-zeZA-faHPA3rWp8/pok_tv_s1419_2997-master-las.mp4"
         },
         {
             "id": "9a97cb96eed0476e90c17ffdc92928c9",
@@ -363,16 +303,13 @@
             "title": "¡Bailando con el trío de Ducklett!",
             "description": "En camino a Ciudad Castelia, nuestros héroes se encuentran con su viejo amigo Pokémon, Sandile, y tres traviesos Pokémon que son todo excepto amistosos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mpfLlu7QR24kMF__ckpKMk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d9/YKea-0euY1hPK1d5MNXJJZ3BQgNsbT1xcL_DnHe1g/pok_tv_s1420_2997-master-las-4ab36c5ef6cb5aac6dc052a26a64ce987272ffff.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d9/YKea-0euY1hPK1d5MNXJJZ3BQgNsbT1xcL_DnHe1g/pok_tv_s1420_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Q/lbaIXWUz8veN364QKnyIJWK9Kl7j3jPUeXJYUDHmA/pok_tv_s1420_2997-master-las.mp4",
             "captions": "",
-            "size": 2662164571
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Q/lbaIXWUz8veN364QKnyIJWK9Kl7j3jPUeXJYUDHmA/pok_tv_s1420_2997-master-las.mp4"
         },
         {
             "id": "2c1cb9eef91f43a3a089550b25c3f0c0",
@@ -381,16 +318,13 @@
             "title": "¡El mundo perdido de Gothitelle!",
             "description": "Al irse acercando nuesA medida que nuestros héroes se acercan a Ciudad Castelia, cruzar el Puente Flechacielo resulta más complicado de lo que pensaron.tros héroes a Ciudad Porcelana, cruzar el Puente Saeta resulta mucho más complicado de lo que habían pensado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LBy57vkfQ6MoIlVCyXD8MA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I_/g1w6SezCV8kwaCnGyZmVUKlfB89sLM0O8d6Zs9jBg/pok_tv_s1421_2997-master-las-60a1c34544f07e3daf53b4a0e5aa9437d02c712b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I_/g1w6SezCV8kwaCnGyZmVUKlfB89sLM0O8d6Zs9jBg/pok_tv_s1421_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ho/f0joXxUNh1rAiUIdp40MTLlDcAqFeU2siYgOw5cN8/pok_tv_s1421_2997-master-las.mp4",
             "captions": "",
-            "size": 2680472571
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ho/f0joXxUNh1rAiUIdp40MTLlDcAqFeU2siYgOw5cN8/pok_tv_s1421_2997-master-las.mp4"
         },
         {
             "id": "e3690ec49ec94fb2925b3295727b5830",
@@ -399,16 +333,13 @@
             "title": "¡Una estampida de Venipede!",
             "description": "Después de su llegada a Ciudad Castelia, nuestros héroes descubren una enorme colonia de Venipede amenazando a sus ciudadanos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/42kOxJ7JT7IklsylXJ7WDA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3v/CGiAomdZ0iPZIUT-dGRn3ikGtYFb9I9D6BB8sE-Aw/pok_tv_s1422_2997-master-las-de9613df80a57275dbb8968d0ebb02b6ae74880b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3v/CGiAomdZ0iPZIUT-dGRn3ikGtYFb9I9D6BB8sE-Aw/pok_tv_s1422_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ej/NtGt18PCDqIs3S0GMmBZVzqf1t8klWDqqPsicC4Cc/pok_tv_s1422_2997-master-las.mp4",
             "captions": "",
-            "size": 2573987538
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ej/NtGt18PCDqIs3S0GMmBZVzqf1t8klWDqqPsicC4Cc/pok_tv_s1422_2997-master-las.mp4"
         },
         {
             "id": "85d906ac45104a86b6a522365f4f37b0",
@@ -417,16 +348,13 @@
             "title": "¡Luchando por el amor de los tipo Insecto!",
             "description": "El emocionante momento de la Batalla de Gimnasio de Ash con Burgh, líder del Gimnasio de Castelia, finalmente ha llegado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hdkGrEUQSoYtqUiNl9PN7A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RD/yDl_4d8QNkW-08Z8qiUoMirUd25bdEBwTZpocUUsw/pok_tv_s1425_2997-master-las-dcb22fe9258771039ff753dc8316c4bb7149e3a0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RD/yDl_4d8QNkW-08Z8qiUoMirUd25bdEBwTZpocUUsw/pok_tv_s1425_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/OsgW_NznF1cXIXVJQXKAhzn1OMmeGYRNpJI6YiDwo/pok_tv_s1425_2997-master-las.mp4",
             "captions": "",
-            "size": 2674210965
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/OsgW_NznF1cXIXVJQXKAhzn1OMmeGYRNpJI6YiDwo/pok_tv_s1425_2997-master-las.mp4"
         },
         {
             "id": "b6ef6f7f83d44b90b75f1b54f89c3015",
@@ -435,16 +363,13 @@
             "title": "¡Emolga el irresistible!",
             "description": "Mientras nuestros héroes, junto con su vieja amiga Bianca, continúan hacia el gimnasio de Ciudad Nimbasa se cruzan con un Pokémon que Bianca tiene que atrapar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tu9vf4PUS5At18bVPicMBU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M7/KfPUL4SiZdSd-GEuSfDKX5w7bylpSxbYPTZYrr550/pok_tv_s1427_2997-master-las-4f4bfa9e4fd1af9605aee327a1556d0caca6a165.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M7/KfPUL4SiZdSd-GEuSfDKX5w7bylpSxbYPTZYrr550/pok_tv_s1427_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zq/fp30MTcFRQCsvXJ8w9KeHZ4BiCZbJ7eqXFhEb9OpY/pok_tv_s1427_2997-master-las.mp4",
             "captions": "",
-            "size": 2699127411
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zq/fp30MTcFRQCsvXJ8w9KeHZ4BiCZbJ7eqXFhEb9OpY/pok_tv_s1427_2997-master-las.mp4"
         },
         {
             "id": "94f81b4c8c714d1b813392e0fc63a01e",
@@ -453,16 +378,13 @@
             "title": "¡Emolga y el nuevo Cambiavoltaje!",
             "description": "A medida que nuestros héroes siguen su camino a Ciudad Nimbasa, Emolga, el nuevo amigo de Iris demuestra cuán sorprendente e impredecible puede ser un Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lPgbTIxxTRsgTOS4PxjoB4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aD/JyE3f1W3dF_X6txQeaoBUtIEmKv3-FJJ7Hd2twePI/pok_tv_s1428_2997-master-las-fd1c4ff7d124482946e73475680261228302b6ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aD/JyE3f1W3dF_X6txQeaoBUtIEmKv3-FJJ7Hd2twePI/pok_tv_s1428_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TR/KqUNEtQeRImzW062triBbz2hLH-F7i0cluva8GgW4/pok_tv_s1428_2997-master-las.mp4",
             "captions": "",
-            "size": 2644295101
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TR/KqUNEtQeRImzW062triBbz2hLH-F7i0cluva8GgW4/pok_tv_s1428_2997-master-las.mp4"
         },
         {
             "id": "cb56429bafaa4f83b5d8d5e2e4dd26f7",
@@ -471,16 +393,13 @@
             "title": "¡Terror en la Mansión Litwick!",
             "description": "Buscando refugio de una furiosa tormenta, nuestros héroes entran en lo que parece ser una mansión abandonada, pero resulta que es TODO menos una mansión abandonada.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/y1ZCm6-qT4MtdjV4uTdJvc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GH/RwOTWjTeq2ODP1YWXB8AJ0f9TBg8NKvtYqvwnoSyo/pok_tv_s1429_2997-master-las-aff3b53b4b6b6cc9e110a812c732e3984eac0f1a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GH/RwOTWjTeq2ODP1YWXB8AJ0f9TBg8NKvtYqvwnoSyo/pok_tv_s1429_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1H/E0HXq6CJo_ELZXd-rG3pD37or3MZzUu61ApJHG2bQ/pok_tv_s1429_2997-master-las.mp4",
             "captions": "",
-            "size": 2656583555
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1H/E0HXq6CJo_ELZXd-rG3pD37or3MZzUu61ApJHG2bQ/pok_tv_s1429_2997-master-las.mp4"
         },
         {
             "id": "9f7f32b6f69d442abbf2256aa434399c",
@@ -489,16 +408,13 @@
             "title": "¡El camino del maestro Dragón!",
             "description": "En su camino a Ciudad Nimbasa y a la cuarta Batalla de Gimnasio de Ash, nuestros héroes conocen a un entrenador novato que tiene que tomar una decisión importante.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/n38ytvadRCou_IlaqQ0OZw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9_/W0RtSSCzGMXIK9TGjZJa_tY0A1Rc436qOq799pa9k/pok_tv_s1430_2997-master-las-672b79d72d13b7145ca4d48c8bcf0f714f966daa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9_/W0RtSSCzGMXIK9TGjZJa_tY0A1Rc436qOq799pa9k/pok_tv_s1430_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W6/SUcCqC6x8sx_ISCFVRj0Gjlg8MixXG39vcD6iTlj8/pok_tv_s1430_2997-master-las.mp4",
             "captions": "",
-            "size": 2656975165
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W6/SUcCqC6x8sx_ISCFVRj0Gjlg8MixXG39vcD6iTlj8/pok_tv_s1430_2997-master-las.mp4"
         },
         {
             "id": "b0c84572d1ab461a95339ef501ef01fc",
@@ -507,16 +423,13 @@
             "title": "¡La Caparaconcha perdida de Oshawott!",
             "description": "En su camino a Ciudad Nimbasa, nuestros héroes se encuentran con un entrenador y su Blitzle quien pone a prueba a Oshawott en una batalla.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sMhFctGrRholTOe9QHvAfw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ae/xYi1PoIBq0gTfwmr5K-dCPTdPWxZ8rBn1L15YXCdY/pok_tv_s1431_2997-master-las-354a89e60cbc9b2611162c4022de7bdc723dfb79.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ae/xYi1PoIBq0gTfwmr5K-dCPTdPWxZ8rBn1L15YXCdY/pok_tv_s1431_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2c/j5XF_ZCIWp1o1ygBOx40ArR6JQS2zUpdmWi5n63Tw/pok_tv_s1431_2997-master-las.mp4",
             "captions": "",
-            "size": 2633080259
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2c/j5XF_ZCIWp1o1ygBOx40ArR6JQS2zUpdmWi5n63Tw/pok_tv_s1431_2997-master-las.mp4"
         },
         {
             "id": "edc9c32fd3c04a5bb411a2c2d858a5e4",
@@ -525,16 +438,13 @@
             "title": "¡Cottonee enamorado!",
             "description": "Mientras nuestros héroes continúan su viaje a Ciudad Nimbasa, encuentran un Cottonee enamorado con problemas de confianza.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7cnDL9PASlstBGiwthYpeQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QU/rVhExvjTo4VwwTZc4vlDdmLLael-jNjEnhxG3wC3k/pok_tv_s1432_2997-master-las-3d91a0b43480f8ecf94086a579134761cea97aa3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QU/rVhExvjTo4VwwTZc4vlDdmLLael-jNjEnhxG3wC3k/pok_tv_s1432_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ek/6DpffnofjeLHfhwpv9_F9oWHtLMa9tnrceBVWG0R8/pok_tv_s1432_2997-master-las.mp4",
             "captions": "",
-            "size": 2687428532
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ek/6DpffnofjeLHfhwpv9_F9oWHtLMa9tnrceBVWG0R8/pok_tv_s1432_2997-master-las.mp4"
         },
         {
             "id": "0b2b1d7b492044cdb94b09089ea8763f",
@@ -543,16 +453,13 @@
             "title": "¡Un ovni para Elgyem!",
             "description": "Continuando hacia Ciudad Nimbasa, nuestros héroes son testigos de unos misteriosos OVNI y Pokémon, con orígenes aún más misteriosos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Cysde0kgRM0uUsJCJ6odj8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fi/Sdz-vz3803MwcndG7s8MJRI3u5F2hPzyjX8YPZLvo/pok_tv_s1433_2997-master-las-34cbffb232e9eaa9f467125a1652c11124f9799d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fi/Sdz-vz3803MwcndG7s8MJRI3u5F2hPzyjX8YPZLvo/pok_tv_s1433_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y9/EoFSmqcr746-cidjh733V9aKyUKORfgZHKRD5M17c/pok_tv_s1433_2997-master-las.mp4",
             "captions": "",
-            "size": 2660357174
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y9/EoFSmqcr746-cidjh733V9aKyUKORfgZHKRD5M17c/pok_tv_s1433_2997-master-las.mp4"
         },
         {
             "id": "42f1632250e1440b80d06f608627650e",
@@ -561,16 +468,13 @@
             "title": "¡La tercera batalla de Ash y Trip!",
             "description": "En su camino a Ciudad Nimbasa, nuestros héroes se encuentran con Trip, el rival de Ash, conduciéndolos a la tercera batalla entre 2 muy determinados entrenadores.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/QvFjIlDhRAsgNBvYIYnZQ4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i4/Mo83FiLgZ23hVmYWcCtKo10uhidtBnSBYVslWWj8s/pok_tv_s1434_2997-master-las-0aba94344076a15066bc466db79c2a23c13f72a0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i4/Mo83FiLgZ23hVmYWcCtKo10uhidtBnSBYVslWWj8s/pok_tv_s1434_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qA/0xhlLwgr-rr0SvPZEqTp59X4eEULQee_0zMqc9odE/pok_tv_s1434_2997-master-las.mp4",
             "captions": "",
-            "size": 2656276196
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qA/0xhlLwgr-rr0SvPZEqTp59X4eEULQee_0zMqc9odE/pok_tv_s1434_2997-master-las.mp4"
         },
         {
             "id": "fde4e83cd8164ff58fed4ad4186c67eb",
@@ -579,16 +483,13 @@
             "title": "¡Enfrentando el bien con los ojos bien abiertos!",
             "description": "Muchos de los Pokémon de nuestros héroes han enfermado por las esporas de un grupo de Foongus, y Oshawott debe enfrentar su miedo para ayudar a conseguir la cura.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_eToPNgWT_Uj-1K1BhsZ-s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DG/kJxpaWw5XaRkTIMgiksrLbjNsaKDmW017doxKgrpI/pok_tv_s1435_2997-master-las-441e2fa2c94fb9734d255309f4caaabf174b4e9a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DG/kJxpaWw5XaRkTIMgiksrLbjNsaKDmW017doxKgrpI/pok_tv_s1435_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PD/ApdESrFUJWzhRyy5MIICVrXOb8ROvAox6FA0Uff7I/pok_tv_s1435_2997-master-las.mp4",
             "captions": "",
-            "size": 2680396905
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PD/ApdESrFUJWzhRyy5MIICVrXOb8ROvAox6FA0Uff7I/pok_tv_s1435_2997-master-las.mp4"
         },
         {
             "id": "f4d9d77ce924434d95c524c826b34be2",
@@ -597,16 +498,13 @@
             "title": "¡Iris y Excadrill contra la Cazadora de Dragones!",
             "description": "En su camino a Ciudad Nimbasa, nuestros héroes conocen a una Cazadora de Dragones de nombre Georgia, quien inesperadamente cambia la relación entre Iris y Excadrill para siempre.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9NnXfOkkQ00lcUkyCazS-I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_U/KT3_eKZC3aKEdeghxkblHAn5UH6VDG-s6lD9JCp1Y/pok_tv_s1436_2997-master-las-567ef23f85f11dc8c1b70b017d805d4d2eb6834f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_U/KT3_eKZC3aKEdeghxkblHAn5UH6VDG-s6lD9JCp1Y/pok_tv_s1436_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/98/M1xqHkxpviclJ6E9y7my1H2sDFIXsXmrwN5KDbTng/pok_tv_s1436_2997-master-las.mp4",
             "captions": "",
-            "size": 2649073620
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/98/M1xqHkxpviclJ6E9y7my1H2sDFIXsXmrwN5KDbTng/pok_tv_s1436_2997-master-las.mp4"
         },
         {
             "id": "231e7e4b6451452aaa8694584aba07ac",
@@ -615,16 +513,13 @@
             "title": "¡Debo atrapar un Roggenrola!",
             "description": "Mientras van en camino a Ciudad Nimbasa, el almuerzo de nuestros héroes es interrumpido por un Roggenrola, quien los lleva a frustrar otro siniestro plan del Equipo Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ix5-S2RRRSoqoaUWEq6B6w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zk/UYGJ-4o1Io_QwsLhIEOm4t9hUcMd2br15AUloAkFs/pok_tv_s1437_2997-master-las-a3530036eadd3bddafcc8f6f33a149730d99abac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zk/UYGJ-4o1Io_QwsLhIEOm4t9hUcMd2br15AUloAkFs/pok_tv_s1437_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/ziQ5mv-OStpBd8mZ2qYXF1dkR_rE6AjN-4Iv8aeyo/pok_tv_s1437_2997-master-las.mp4",
             "captions": "",
-            "size": 2662238253
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/ziQ5mv-OStpBd8mZ2qYXF1dkR_rE6AjN-4Iv8aeyo/pok_tv_s1437_2997-master-las.mp4"
         },
         {
             "id": "37667aacd79349f581d13c5518c194d0",
@@ -633,16 +528,13 @@
             "title": "¿Adónde fuiste, Audino?",
             "description": "En su camino a Ciudad Nimbasa, nuestros héroes se involucran en la investigación de un Audino desaparecido y conocen a una pareja de detectives principiantes.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/N2Z6rNeTSfUgdE8VRjBlNA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_a/DbyRrHQPrUCMuLjWHA1NGMmSQrugVEuLMo9AtlXkQ/pok_tv_s1438_2997-master-las-58006ef4e311ee386f792df36e8e87f5b9271c52.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_a/DbyRrHQPrUCMuLjWHA1NGMmSQrugVEuLMo9AtlXkQ/pok_tv_s1438_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cE/oHLpV1Z-jbdi9t0gC218l0tUlrQzwAEhuiOTrzLuc/pok_tv_s1438_2997-master-las.mp4",
             "captions": "",
-            "size": 2611908344
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cE/oHLpV1Z-jbdi9t0gC218l0tUlrQzwAEhuiOTrzLuc/pok_tv_s1438_2997-master-las.mp4"
         },
         {
             "id": "7051283e6828459eaffd98981da54fc8",
@@ -651,16 +543,13 @@
             "title": "¡Archeops en el mundo moderno!",
             "description": "Reuniéndose con sus viejos amigos, la Profesora Juniper y la Doctora Fennel, nuestros héroes presencian la restauración de una antigua Bóveda Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cFEoPmgoRZ4r_2YmB2lT8g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wi/sGj5jd74pVFr5w-k7vJ9mDq3cOSU83ux1KQIo4hbQ/pok_tv_s1439_2997-master-las-280aac8d7b35143fcbb8229adda5a663be244e3b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wi/sGj5jd74pVFr5w-k7vJ9mDq3cOSU83ux1KQIo4hbQ/pok_tv_s1439_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u1/kaONUjOfhzmxRTZ3j4_2U29zLIaI_DYcyGkB8bo4A/pok_tv_s1439_2997-master-las.mp4",
             "captions": "",
-            "size": 2662859555
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u1/kaONUjOfhzmxRTZ3j4_2U29zLIaI_DYcyGkB8bo4A/pok_tv_s1439_2997-master-las.mp4"
         },
         {
             "id": "1bfef4dfbac5428bab8c897927a8c8c9",
@@ -669,16 +558,13 @@
             "title": "¡Un Conocedor de peces en una competencia sospechosa!",
             "description": "En su camino a Ciudad Nimbasa y la próxima Batalla de Gimnasio de Ash, una competencia de pesca “atrae” a nuestros héroes a una siniestra conspiración del Equipo Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/G_7037rFQosq4yJeSeoyMk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/je/1_2fcfO6zgBetX2e180KjYBFUFiVWLx3QLeieJAYY/pok_tv_s1440_2997-master-las-76ca7b723bde002f8a6effc590e2b443094c9761.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/je/1_2fcfO6zgBetX2e180KjYBFUFiVWLx3QLeieJAYY/pok_tv_s1440_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kg/Rengn9wiV-Dp99kKES5E1R1-M7OLD8nwMEbr3hQEk/pok_tv_s1440_2997-master-las.mp4",
             "captions": "",
-            "size": 2656869973
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kg/Rengn9wiV-Dp99kKES5E1R1-M7OLD8nwMEbr3hQEk/pok_tv_s1440_2997-master-las.mp4"
         },
         {
             "id": "988630a6e3b248d68cf8bfbbde678b62",
@@ -687,16 +573,13 @@
             "title": "¡Una historia de película! ¡Zorua en \"La leyenda del caballero Pokémon\"!",
             "description": "En su camino a Ciudad Nimbasa, una discusión acerca de las películas y actores favoritos lleva a nuestros héroes a un memorable encuentro con un cineasta novato y su increíble compañero, Zorua.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mIYwpuOySNYjPi_u95ni2I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D9/6KdhONBvxT-NO_DfHXYi_wHajoYyC5j3Jre1noo7k/pok_tv_s1441_2997-master-las-b2b77235b30c0638d9c8c5576cd3c70a50e2bcf7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D9/6KdhONBvxT-NO_DfHXYi_wHajoYyC5j3Jre1noo7k/pok_tv_s1441_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AL/voEOX_TzgRgaaNycyBxD-zSqYMovpRBnAHI-JVano/pok_tv_s1441_2997-master-las.mp4",
             "captions": "",
-            "size": 2661598262
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AL/voEOX_TzgRgaaNycyBxD-zSqYMovpRBnAHI-JVano/pok_tv_s1441_2997-master-las.mp4"
         },
         {
             "id": "703848acd4c4408e849ad95637ee826f",
@@ -705,16 +588,13 @@
             "title": "¡Batallas de reunión en Nimbasa!",
             "description": "El día del Torneo Pokémon de Pueblo Nimbasa ha llegado para nuestros héroes y también es un encuentro con un montón de viejos amigos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cDhIrNTEQI4hJrZVjfugm8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jw/0u2Mj0ZTI-omDITW_RDa8erd2bVJyU1IWgBodaqA4/pok_tv_s1442_2997-master-las-c1fbd0b0810c48c540f17cfd7241372fb05934e7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jw/0u2Mj0ZTI-omDITW_RDa8erd2bVJyU1IWgBodaqA4/pok_tv_s1442_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fT/LuN9F2QwFMaSNcbA_cvg9Y-H_4EWM6OKqQR0RFSLs/pok_tv_s1442_2997-master-las.mp4",
             "captions": "",
-            "size": 2649243037
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fT/LuN9F2QwFMaSNcbA_cvg9Y-H_4EWM6OKqQR0RFSLs/pok_tv_s1442_2997-master-las.mp4"
         },
         {
             "id": "234c68fb9b1e43b7a75f816a9cc67ffb",
@@ -723,16 +603,13 @@
             "title": "¡Cilan contra Trip, y Ash contra Georgia!",
             "description": "Es Cilan contra Trip durante el round uno del Club de Batalla de Pueblo Nimbasa. Entonces, para el segundo round, es Ash contra Georgia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/I0xo-5seQ7cp1-BapzGf_s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ml/8_wEWzkEMjpMHzY4PKRGRtJWc99fzvTQMVWiaxe2Q/pok_tv_s1443_2997-master-las-50cf4073f7bab8c20cab93a3d4981e28c067cb33.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ml/8_wEWzkEMjpMHzY4PKRGRtJWc99fzvTQMVWiaxe2Q/pok_tv_s1443_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2X/HoDhVP6sDqhMvyKdqEVR_aHvZyKS9n_ld-vDtxiuo/pok_tv_s1443_2997-master-las.mp4",
             "captions": "",
-            "size": 2657384359
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2X/HoDhVP6sDqhMvyKdqEVR_aHvZyKS9n_ld-vDtxiuo/pok_tv_s1443_2997-master-las.mp4"
         },
         {
             "id": "b12245651b8849de86e675e7ae4be34a",
@@ -741,16 +618,13 @@
             "title": "La Batalla del Club de Corazones de Furia: ¡Emolga contra Sawk!",
             "description": "Los combates del segundo round del Club de Batalla se vuelven más rudos, culminando en una feroz batalla entre el ágil Emolga de Iris y el poderoso Sawk de Stephan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sSJFZRuISd4huZ1565L40o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IA/PLAZ4QPJknndmDTVjdOqQ9R1SDrYc5iuGj4JdgBjE/pok_tv_s1444_2997-master-las-6068a1b198919cb0685ce2466ed0beead2105202.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IA/PLAZ4QPJknndmDTVjdOqQ9R1SDrYc5iuGj4JdgBjE/pok_tv_s1444_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1-/kj09RnxswrDiv2tiiix1sgCEHVJUx2IkFYIg86arw/pok_tv_s1444_2997-master-las.mp4",
             "captions": "",
-            "size": 2638150921
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1-/kj09RnxswrDiv2tiiix1sgCEHVJUx2IkFYIg86arw/pok_tv_s1444_2997-master-las.mp4"
         },
         {
             "id": "65df7d6597ff41758d5528b3092d295b",
@@ -759,16 +633,13 @@
             "title": "¡Batalla de Club final! ¡El surgimiento de un héroe!",
             "description": "El momento del round final del Club de Batalla Pokémon de Nimbasa ha llegado, con dos buenos amigos peleando cara a cara.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Zd99ZZf_QXUjVUoswktKVs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9M/-QwYXH2utINuYI8OwGZd-1Az6NERjduU47YssYe08/pok_tv_s1445_2997-master-las-cb2bd5aa2c89d7bdee2b9b90f2ba43f2f647bc15.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9M/-QwYXH2utINuYI8OwGZd-1Az6NERjduU47YssYe08/pok_tv_s1445_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uM/6tStRF-FAOBPQjjqFxVnXi40fR-bWYXa6J8P49f2k/pok_tv_s1445_2997-master-las.mp4",
             "captions": "",
-            "size": 2626276934
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uM/6tStRF-FAOBPQjjqFxVnXi40fR-bWYXa6J8P49f2k/pok_tv_s1445_2997-master-las.mp4"
         },
         {
             "id": "d3208bf468d14729882b45a2d81728aa",
@@ -777,16 +648,13 @@
             "title": "¡Las astutas tácticas de Meowth!",
             "description": "Una sorpresiva aparición de nada menos que Meowth ha ayudado a nuestros héroes a resolver un problema tras otro.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0yCL9GjRRykiCtFotgXKKo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tF/Cv9QHGMxjrLUG79XXTxfCVIEkCWR0GWcvXbUDS1q4/pok_tv_s1446_2997-master-las-140019fe2bb0c03281bdba0772f3a9a083a11caa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tF/Cv9QHGMxjrLUG79XXTxfCVIEkCWR0GWcvXbUDS1q4/pok_tv_s1446_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FI/4_ahDVnS5MHaPo74jdjgZQm4c4AHeLfrsequ5Z0JQ/pok_tv_s1446_2997-master-las.mp4",
             "captions": "",
-            "size": 2653100719
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FI/4_ahDVnS5MHaPo74jdjgZQm4c4AHeLfrsequ5Z0JQ/pok_tv_s1446_2997-master-las.mp4"
         },
         {
             "id": "97f9fa3018244665a59c1858db8cdd8b",
@@ -795,16 +663,13 @@
             "title": "Purrloin: ¿Dulce o traicionero?",
             "description": "Continuando su viaje y todavía acompañados por Meowth, nuestros héroes se topan con un Purrloin en peligro, aunque no todo el mundo cree en sus llamados de auxilio.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/l_n6MBgkRmUpZwYWNuM3Ys/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m7/RtGk3wnDMXyvURMf2EccZKxrK8CmgLdSr-EQ4sLqw/pok_tv_s1447_2997-master-las-9c0e0a349a9a73d61f785140dbda939bc3a49b57.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m7/RtGk3wnDMXyvURMf2EccZKxrK8CmgLdSr-EQ4sLqw/pok_tv_s1447_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UN/kfbmt8rUb-iGCosQ6i4gpU6pOc89n3zw1wA2AlmDY/pok_tv_s1447_2997-master-las.mp4",
             "captions": "",
-            "size": 2653577790
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UN/kfbmt8rUb-iGCosQ6i4gpU6pOc89n3zw1wA2AlmDY/pok_tv_s1447_2997-master-las.mp4"
         },
         {
             "id": "0a48c4a252e54894b6b4ad2155b7827f",
@@ -813,16 +678,13 @@
             "title": "¡Beheeyem, Duosion y el Ladrón de Sueños!",
             "description": "En su camino a Ciudad Nimbasa, nuestros héroes, junto con Meowth, se encuentran en un sueño del que parecen no poder despertar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CkjEolLlSJQtrStIVW3gn8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gf/fwwJWlRWXurQbuFDdHKgx9glEhXTid6oRVt18txUg/pok_tv_s1448_2997-master-las-648f335ff7bbf6e251207239363565fca18d5a67.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gf/fwwJWlRWXurQbuFDdHKgx9glEhXTid6oRVt18txUg/pok_tv_s1448_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D5/6ngplqq5vrf7QHrFKE-r69j0AlNTqxoRNhdYl-SBY/pok_tv_s1448_2997-master-las.mp4",
             "captions": "",
-            "size": 2663335807
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D5/6ngplqq5vrf7QHrFKE-r69j0AlNTqxoRNhdYl-SBY/pok_tv_s1448_2997-master-las.mp4"
         },
         {
             "id": "addac4ce82c84cacac2b5d5115c61906",
@@ -831,16 +693,13 @@
             "title": "¡La pelea de la montaña de Beartic!",
             "description": "Mientras nuestros héroes viajan con Meowth, acercándose a Ciudad Nimbasa, descubren un Cubchoo perdido, el cual los guía a una peligrosa confrontación.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rdrEzoLITKwrCtdURXGGQY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/In/HSUZtZ7hbW4VbNlmsG2xvAzs5ESEpYVfKJWLnUmX4/pok_tv_s1449_2997-master-las-3d817f0d213432c10e09a4e2248c36326e723cab.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/In/HSUZtZ7hbW4VbNlmsG2xvAzs5ESEpYVfKJWLnUmX4/pok_tv_s1449_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xa/klb1M5wp85kEw3sARECN4FRgubC43Xp_cgaSXkeUk/pok_tv_s1449_2997-master-las.mp4",
             "captions": "",
-            "size": 2682854342
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xa/klb1M5wp85kEw3sARECN4FRgubC43Xp_cgaSXkeUk/pok_tv_s1449_2997-master-las.mp4"
         },
         {
             "id": "1669bfdb98d141b9a38c50d40ca0f2bc",
@@ -849,16 +708,13 @@
             "title": "¡Crisis en el subterráneo!",
             "description": "Nuestros héroes han llegado a Ciudad Nimbasa, sin saber que una crisis de grandes proporciones está a punto surgir.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Fmm_25jRQbko4xQ1Ayg8rw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EU/0-O4Kb4gqiBV7bSlqNnj8HGGSAhi9VatkbdOdBt7g/pok_tv_s1450_2997-master-las-883ae0744155d7e4be93b34b5cb068e611696e17.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EU/0-O4Kb4gqiBV7bSlqNnj8HGGSAhi9VatkbdOdBt7g/pok_tv_s1450_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kv/F0NkGSvVgEGAwMfpVT-BZfqR7MGg6Pe8bJS1eeVl0/pok_tv_s1450_2997-master-las.mp4",
             "captions": "",
-            "size": 2646543655
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kv/F0NkGSvVgEGAwMfpVT-BZfqR7MGg6Pe8bJS1eeVl0/pok_tv_s1450_2997-master-las.mp4"
         },
         {
             "id": "1f12b7ebdba34c6cad05113cbfec1a26",
@@ -867,16 +723,13 @@
             "title": "¡Batalla por el Subterráneo!",
             "description": "Mientras el Equipo Rocket continúa su intento por robar a los Pokémon del Centro Pokémon de Ciudad Nimbasa, nuestros héroes deben impedir a cualquier costo el escape del Equipo Rocket en el Tren Fantasma.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HxK369ujTGwrQURPL_sGiY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gh/Dez4FOT0MczP5d-grxQVgfEJbjywpLPm04U-XfGgs/pok_tv_s1451_2997-master-las-361bfd3fa7e269066e4beb526cc9b4ebdd39f349.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gh/Dez4FOT0MczP5d-grxQVgfEJbjywpLPm04U-XfGgs/pok_tv_s1451_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xZ/SJsCBN1YS9B3Ez97SloYgzwH-iOkH357gIlz393Cs/pok_tv_s1451_2997-master-las.mp4",
             "captions": "",
-            "size": 2680502354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xZ/SJsCBN1YS9B3Ez97SloYgzwH-iOkH357gIlz393Cs/pok_tv_s1451_2997-master-las.mp4"
         }
     ]
 }

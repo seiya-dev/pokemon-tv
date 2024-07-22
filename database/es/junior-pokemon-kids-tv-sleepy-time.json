@@ -1,18 +1,15 @@
 {
-    "channel_id": "hora-de-dormir",
+    "channel_id": "pokemon-kids-tv-sleepy-time",
     "channel_name": "Hora de dormir",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/sleepy-time/sleepy-time-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/sleepy-time/sleepy-time-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/sleepy-time/sleepy-time-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/pokemon-kids-tv/sleepy-time/sleepy-time-1660x940-es.png"
     },
+    "category_id": 5,
+    "category": "Junior",
     "media_type": "junior",
-    "order": 504,
-    "channel_creation_date": 1665755022,
-    "channel_update_date": 1704733764,
+    "order": -1665755022,
     "media": [
         {
             "id": "0a6f1a16cba8457e8e248f3c275905f0",
@@ -21,16 +18,13 @@
             "title": "Estrellita, brilla más",
             "description": "¡Ve a estas estrellas del mundo Pokémon brillando en el firmamento! ¡Canta y disfruta de momentos electrizantes!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/twinkle-twinkle-little-star-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/twinkle-twinkle-little-star-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/twinkle-twinkle-little-star-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Cm8aFsuoRX4jiSPPCdZBfA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4k/oBsANxICTHUcFGdzXG9SEbjjpLSkRGmi6u_WUEXR4/twinkle-twinkle-little-star-es-07e452bca32590961cc3d10cf56f32b5b1a283f0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J3/tbKsP4If0qwh4rCVdfkxd649ib-0OQC2hhbFGBtWs/twinkle-twinkle-little-star-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4N/543ET85oPe7p_WAaJ8QbvemW9CypCxvy-DZxU6ME8/twinkle-twinkle-little-star-es.mp4",
             "captions": "",
-            "size": 359300845
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4N/543ET85oPe7p_WAaJ8QbvemW9CypCxvy-DZxU6ME8/twinkle-twinkle-little-star-es.mp4"
         },
         {
             "id": "32176a379b754032baf2633017cd5141",
@@ -39,16 +33,13 @@
             "title": "Nana arrulladora de Pokémon",
             "description": "Descubre si la musiquita y la procesión de Pokémon te hipnotizan y adormecen. ¡Seguro que a estos pequeñines Pokémon les da sueño!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-lulling-lullaby-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-lulling-lullaby-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/pokemon-lulling-lullaby-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MhdqN5t1QDIuvJjMBfNUUE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fC/4qqYeuPSCog2wc5inChzCXAeHWqfiGHHUW0bFYbuU/poke--mon-lulling-lullaby-es-f140a1bdb6bd3deda09d4944e8afc70bd1097a18.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rv/2jXQIz9TZDbdK_AKC808ektPI3xKCCsMX4WnJ86Ps/poke--mon-lulling-lullaby-es.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vz/p4ccBdAxkXkN2EP3cNW5SjV8kGeA64-kFXhyhxgGs/poke--mon-lulling-lullaby-es.mp4",
             "captions": "",
-            "size": 866636221
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vz/p4ccBdAxkXkN2EP3cNW5SjV8kGeA64-kFXhyhxgGs/poke--mon-lulling-lullaby-es.mp4"
         },
         {
             "id": "d7ff8cf0651444468d7729761fccc010",
@@ -57,16 +48,13 @@
             "title": "ASMR: Bulbasaur en el bosque",
             "description": "ASMR es un sonido relajante y agradable de escuchar. Relájate con Bulbasaur mientras busca el lugar perfecto para descansar. (¡Recomendamos que uses auriculares!)",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-bulbasaur-in-the-woods-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-bulbasaur-in-the-woods-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-bulbasaur-in-the-woods-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1_-M8GUUREYjXcpdh_MwBA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K8/5i8y2dGPFU7HOWJDMLpDBTDyVg4HNMcwZ2IwjJRRU/all_languages_asmr_bulbasaur_in_the_woods-e87088c0bfa614a1cdc8b9873296f10a57ef1b8d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T2/e4aINVhvJqSZGSDsfbRSI3_8GQDWuI_d2Io_NxyXA/all_languages_asmr_bulbasaur_in_the_woods.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/mPiH9O4FRL1jdJZhwaP9H-zmSfvvCz7BCX_yEdXkw/all_languages_asmr_bulbasaur_in_the_woods.mp4",
             "captions": "",
-            "size": 13301131534
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/mPiH9O4FRL1jdJZhwaP9H-zmSfvvCz7BCX_yEdXkw/all_languages_asmr_bulbasaur_in_the_woods.mp4"
         },
         {
             "id": "6b6e5e293149413a83ec34e91c323929",
@@ -75,16 +63,13 @@
             "title": "ASMR: Charmander duerme al calor de la hoguera",
             "description": "ASMR es un sonido relajante y agradable de escuchar. Relájate con el dormilón de Charmander. (¡Recomendamos que uses auriculares!)",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-charmanders-fireside-slumber-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-charmanders-fireside-slumber-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-charmanders-fireside-slumber-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/a25eKTFJQTog-w06RwyOSk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tE/KvarofcMNgestErElCtSeBwOpwzGJONjwISrmJPcg/all_languages_asmr_charmanders_fireside_slumber-6829988e46203c13e2fa184abb5b3094fd304af6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FJ/1nVo6H6st66IrZ80i-ZjqE6wCjzdmhNQAw_XWCn_g/all_languages_asmr_charmanders_fireside_slumber.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yg/ZJZ0woccFcqIz3NXn1aeljv80ViMZUO0UxBejy3xM/all_languages_asmr_charmanders_fireside_slumber.mp4",
             "captions": "",
-            "size": 6658822620
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yg/ZJZ0woccFcqIz3NXn1aeljv80ViMZUO0UxBejy3xM/all_languages_asmr_charmanders_fireside_slumber.mp4"
         },
         {
             "id": "8a60a5a568e1427cb01dcbd12f747dd4",
@@ -93,16 +78,13 @@
             "title": "ASMR: Día de playa de Squirtle",
             "description": "ASMR es un sonido relajante y agradable de escuchar. ¡Disfruta de un apacible día de playa con Squirtle! (¡Recomendamos que uses auriculares!)",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-squirtles-day-at-the-beach-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-squirtles-day-at-the-beach-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/asmr-squirtles-day-at-the-beach-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/imClpWjhQnwsB3L0S90fdQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sg/1n1Q6-S4finCb_rButay00SDE_H_Q0NMVdfrWNgaM/all_languages_asmr_squirtles_day_at_the_beach-53e51948915b7fc215905dde970caff69d13172c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pW/2fgbiP7AhBmKcMjQAPcyvgsyRJg1x9Nvb8xqWT6mQ/all_languages_asmr_squirtles_day_at_the_beach.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1D/V7OyWMqU4bYtfIpf5TC3uZ8YNIF5eZJDXjQURC7oM/all_languages_asmr_squirtles_day_at_the_beach.mp4",
             "captions": "",
-            "size": 3350152467
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1D/V7OyWMqU4bYtfIpf5TC3uZ8YNIF5eZJDXjQURC7oM/all_languages_asmr_squirtles_day_at_the_beach.mp4"
         },
         {
             "id": "9dc96c8670d14b5d8c39254ab3c13799",
@@ -111,16 +93,13 @@
             "title": "Dulces Sueños, Rowlet (con Ditto)",
             "description": "Ditto se transforma en una roca y se echa una siesta. Cuando se despierta, ¡se sorprende al ver que tiene a Rowlet durmiendo encima! ¡Mira lo que hace Ditto a continuación!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/good-night-rowlet-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/good-night-rowlet-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/good-night-rowlet-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nclshnDRS10jDklSrPBN5k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hK/JHohxFdHBuSkEpwhWIc7vIhjtAZHr-0YfVm6ek-g0/good_night_rowlet_es_1080p-3eb6a5a7c36bdfaafcd31df4c30461bd3847740e.m3u8",
             "poketv_url": "*",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i0/uSrjVJqcihWsYU17O3VXHMe2C2JcuJSQETw0jeP6I/good_night_rowlet_es_1080p.mp4",
             "captions": "",
-            "size": 240909801
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i0/uSrjVJqcihWsYU17O3VXHMe2C2JcuJSQETw0jeP6I/good_night_rowlet_es_1080p.mp4"
         },
         {
             "id": "76621ec0f4e64ea68aa599a3446f33b9",
@@ -129,16 +108,13 @@
             "title": "¡A contar Wooloo!",
             "description": "Escucha la nana mientras Wooloo salta la valla.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/lets-count-wooloo-01-180x103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/lets-count-wooloo-01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/pokemon-kids-tv/lets-count-wooloo-01-360x206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dmIewPTmTqYiqWZo0RvM7k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tV/P1bgEfgY868wfaDhds5Gevy64MMcK1B0ix4Z2AY3E/lets_count_wooloo_es_1080p-0822e3378f188c0410df9424a5a3715acaafd069.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-H/rEqpFD0xY12wE7zG0_PqEvt_FyyrFPXzt1kUkRyRw/lets_count_wooloo_es_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/pWOrovzvg7WP56ZHUvCiyYKg604UzI5rrVGoeS7uM/lets_count_wooloo_es_1080p.mp4",
             "captions": "",
-            "size": 7370403841
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aR/pWOrovzvg7WP56ZHUvCiyYKg604UzI5rrVGoeS7uM/lets_count_wooloo_es_1080p.mp4"
         }
     ]
 }

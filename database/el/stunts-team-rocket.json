@@ -1,18 +1,15 @@
 {
-    "channel_id": "preparense-para-la-pasarela",
+    "channel_id": "team-rocket",
     "channel_name": "Prepárense para la pasarela",
     "channel_description": "Puede que el Equipo Rocket esté formado por un grupo de villanos, pero sus elegantes atuendos los convierte en héroes de la alta costura en esta selección de episodios.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/team-rocket/team-rocket-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/team-rocket/team-rocket-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/team-rocket/team-rocket-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/team-rocket/team-rocket-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1686316517,
-    "channel_update_date": 1686920876,
+    "order": -1686316517,
     "media": [
         {
             "id": "84c625b1b16b42c68b1e453b90033a6c",
@@ -21,16 +18,13 @@
             "title": "¡El duelo Pokémon ninja!",
             "description": "¡En su camino hacia el siguiente reto de Batalla de Gimnasio parece que se han perdido. ¡Ash y sus amigos llegan a una enorme mansión que parece ser la guarida oculta de un ninja! ¿Acaso será el Gimnasio Fucsia?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hMYlsbFrQsYix5FO5ADOmw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ki/1jqgSNdI2CgejxWZcqywglMowZMI0_aJau42tI_68/pok_tv_s0131_2398-master-las-297e039c5dd35cc6a68e5cf50ef0d167d9710e20.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ki/1jqgSNdI2CgejxWZcqywglMowZMI0_aJau42tI_68/pok_tv_s0131_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ec/4c7ftV2ov4oLXiSZy_PV5hi1aFvhKJSh_RXYMoPzE/pok_tv_s0131_2398-master-las.mp4",
             "captions": "",
-            "size": 2790189495
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ec/4c7ftV2ov4oLXiSZy_PV5hi1aFvhKJSh_RXYMoPzE/pok_tv_s0131_2398-master-las.mp4"
         },
         {
             "id": "81c9491f13ae484c85fde538e14e6a03",
@@ -39,16 +33,13 @@
             "title": "¡Misty la sirena!",
             "description": "El Horsea de Misty necesita ejercicio desesperadamente, y los chicos deciden llevarlo al Gimnasio de sus hermanas en Ciudad Celeste. Ahí, ella descubre que sus hermanas están planeando un emocionante ballet bajo el agua.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gclJHxOuSEwhf3lOOFOagM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eU/d_7I-3UDGiV_rS09rt0to1Wx_hWa3ILFCHfP0LE5w/pok_tv_s0206_2997-master-las-7930a1d5d6b61a3194ab8aee9b9296ee77f7a111.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eU/d_7I-3UDGiV_rS09rt0to1Wx_hWa3ILFCHfP0LE5w/pok_tv_s0206_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/lAoQGYHFxjk1Tkc_z9T94ixnlDFgJtrXAksTm3Wgc/pok_tv_s0206_2997-master-las.mp4",
             "captions": "",
-            "size": 2845754190
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/lAoQGYHFxjk1Tkc_z9T94ixnlDFgJtrXAksTm3Wgc/pok_tv_s0206_2997-master-las.mp4"
         },
         {
             "id": "27935c31393349e3aceec7ff81072e0b",
@@ -57,16 +48,13 @@
             "title": "Los cazadores de fortuna",
             "description": "Una repentina moda en la adivinación Pokémon resulta ser un plan para robar a los Pokémon de los Entrenadores locales. Pero esta vez Jessie, James y Meowth no son los responsables. ¿Quiénes son estos villanos?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J5NcMTkzSeMrO7H_4EHLgs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/zEjQhTJ2CCO4b_wKA1Os3O1YQ0X4DKrBV-tsvIUnE/pok_tv_s0352_2997-master-las-35a5c7798d8fbfaaffc5113e4cf596f834dc5ef5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/zEjQhTJ2CCO4b_wKA1Os3O1YQ0X4DKrBV-tsvIUnE/pok_tv_s0352_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wf/wNiOEdX2bgveg9iyaEJebA5OUh8IAAZll6n0qx7Dk/pok_tv_s0352_2997-master-las.mp4",
             "captions": "",
-            "size": 2851258031
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wf/wNiOEdX2bgveg9iyaEJebA5OUh8IAAZll6n0qx7Dk/pok_tv_s0352_2997-master-las.mp4"
         },
         {
             "id": "5b61488d459c40a591d8cb59704459a0",
@@ -75,16 +63,13 @@
             "title": "El concurso Saffron",
             "description": "Nuestros héroes están en Ciudad Azafrán para el primer Concurso Pokémon de May en la región Kanto, ¡y su sospechoso rival Harley también está compitiendo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/W2FIjUWcQKUkdjLWXBEWaA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r0/-hfjcod5tk8DOsunaRi_MvU7fXDMy6yfQBd_daJe0/pok_tv_s0850_2398-master-las-041185ac58767ac2b9072de149832d2b01f0c4d4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r0/-hfjcod5tk8DOsunaRi_MvU7fXDMy6yfQBd_daJe0/pok_tv_s0850_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uw/32OawzcBZ3WsvIWcoSk2y_W2DkYok6Ytegnl5wQuQ/pok_tv_s0850_2398-master-las.mp4",
             "captions": "",
-            "size": 2719555418
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uw/32OawzcBZ3WsvIWcoSk2y_W2DkYok6Ytegnl5wQuQ/pok_tv_s0850_2398-master-las.mp4"
         },
         {
             "id": "1ea0fd17ea534535acba1a8822507ee3",
@@ -93,16 +78,13 @@
             "title": "¡Los Farsantes!",
             "description": "Nuestros héroes se encuentran con un Gimnasio Pokémon falso dirigido por el Equipo Rocket disfrazado, que está planeando robar tantos Pokémon como pueda.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HqD9F-pTRTUrLoaiCJQfuM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zr/VGzEBJB40PF1swfLFHy02Xiw9yLkDM02UM0FFPMa0/pok_tv_s1008_2398-master-las-12f208a1359f8f21998ae41bbf2ce8c98d036afa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zr/VGzEBJB40PF1swfLFHy02Xiw9yLkDM02UM0FFPMa0/pok_tv_s1008_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Al/B3GTUTS6AGjNTqPXywXHW5t_3XfJU4elFqy0YaHNI/pok_tv_s1008_2398-master-las.mp4",
             "captions": "",
-            "size": 2638093352
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Al/B3GTUTS6AGjNTqPXywXHW5t_3XfJU4elFqy0YaHNI/pok_tv_s1008_2398-master-las.mp4"
         },
         {
             "id": "8df9dceb12ea42adb99c9ce0343abb67",
@@ -111,16 +93,13 @@
             "title": "¡Una PokéVisión de las cosas por venir!",
             "description": "Nuestros héroes se encuentran explorando el mundo de PokéVisión, que está plagado de épicas producciones y sorpresas cinematográficas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jfnc6xLqQq0uZyc4DQ6u2c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9_/VIHl8wUt_Kxs6rdQcSQDnyQdkQiCb11xRrkiOk3XI/pok_tv_s1721_2997-master-las-sdt_1080p-38391105caa2549e6c3ed22bfb316fabe6900e90.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9_/VIHl8wUt_Kxs6rdQcSQDnyQdkQiCb11xRrkiOk3XI/pok_tv_s1721_2997-master-las-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tB/HP1mgNg-mZqKtaqrVfJzL6oKKU28Qob6MermtCve8/pok_tv_s1721_2997-master-las-sdt_1080p.mp4",
             "captions": "",
-            "size": 2633306276
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tB/HP1mgNg-mZqKtaqrVfJzL6oKKU28Qob6MermtCve8/pok_tv_s1721_2997-master-las-sdt_1080p.mp4"
         },
         {
             "id": "2028d62438c14ae5bd38d01626676587",
@@ -129,16 +108,13 @@
             "title": "¡Mega revelaciones!",
             "description": "¡Un encuentro fortuito con Korrina y su compañero Lucario les presenta a nuestros héroes muchas más oportunidades de las que se hubieran imaginado!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ICjWJDjBSuUvTjQFiZnZYc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-M/enyqJCGWUe2wu1Pr-Urb1xYS9Xk2d10z3rZUosZgM/pok_tv_s1729_2997-master-las-sdt_1080p-c559f14e570a3ae5468b0d1d7fb3b2a9c861df14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-M/enyqJCGWUe2wu1Pr-Urb1xYS9Xk2d10z3rZUosZgM/pok_tv_s1729_2997-master-las-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yb/lZ7lhN6ySFcjkhfndejz7vZybqSa81ecxHOH5gV44/pok_tv_s1729_2997-master-las-sdt_1080p.mp4",
             "captions": "",
-            "size": 2620060224
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yb/lZ7lhN6ySFcjkhfndejz7vZybqSa81ecxHOH5gV44/pok_tv_s1729_2997-master-las-sdt_1080p.mp4"
         },
         {
             "id": "94d45c927b3a40209dba922d0468eaf3",
@@ -147,16 +123,13 @@
             "title": "¡Un intercambio en el festival! ¿Una despedida en el festival?",
             "description": "Durante una visita a un popular festival, nuestros héroes son víctimas de varios casos de confusión de identidad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lNRckns6QCAnbqSLQRo6vM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RI/zI3w-OBXhF6tU7pwCL2JZay1kq7hvbKc_6D5NNZY4/pok_tv_s1833_2997-master-las-sdt_1080p-ec723d4f56e2d9342a0efca085f3738bd4dccbcf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ot/QyrcW4Ej-ev1DesLBk4WAAA_dUlwZbTZgwq3gHn8M/pok_tv_s1833_2997-master-las-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gz/eB33t3DgyDtRmrFTF-gU2xNmHg1zaGVMd448-2Aos/pok_tv_s1833_2997-master-las-sdt_1080p.mp4",
             "captions": "",
-            "size": 2553373740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gz/eB33t3DgyDtRmrFTF-gU2xNmHg1zaGVMd448-2Aos/pok_tv_s1833_2997-master-las-sdt_1080p.mp4"
         },
         {
             "id": "46caa5e8e0274722b760854c411d337f",
@@ -165,16 +138,13 @@
             "title": "¡Danza de Evolución!",
             "description": "¡Un apasionante proyecto escolar en la Escuela Pokémon ha sacado a todos de sus asientos y los ha puesto a bailar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Rsql6OAnRyIt2CFTEEdM38/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/br/0kNdXC0JWKF4LdP451a8MsyR25K1iAaNQBTGquIak/pok_tv_s2138_2398-all-they-want-to-do-is-dance-dance-720p-2ch-mezz-las-localized-eb4a8e35a7683ea7358b865257e881b35176dbdb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/br/0kNdXC0JWKF4LdP451a8MsyR25K1iAaNQBTGquIak/pok_tv_s2138_2398-all-they-want-to-do-is-dance-dance-720p-2ch-mezz-las-localized.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9H/C4Rmc6RQi2dR-gV4azX1AMVz7aGyLNq4RnOKuDAOg/pok_tv_s2138_2398-all-they-want-to-do-is-dance-dance-720p-2ch-mezz-las-localized.mp4",
             "captions": "",
-            "size": 2596260427
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9H/C4Rmc6RQi2dR-gV4azX1AMVz7aGyLNq4RnOKuDAOg/pok_tv_s2138_2398-all-they-want-to-do-is-dance-dance-720p-2ch-mezz-las-localized.mp4"
         },
         {
             "id": "d03c12679b874964a3e0d9d2f71d4972",
@@ -183,16 +153,13 @@
             "title": "¡El momento de Magikarp!",
             "description": "¡Una aparición en una trivia televisiva lleva a nuestros héroes a una aventura que nunca imaginaron!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0DwSZ5uHSWQo-DZ0vcdSXI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a4/FaD9940GGSJhSCVfReLP92_dr2ZkVfxbOqo35py0Y/pokemon_season22_ep21_las-c02cc83113588525f7c870550e846922a85c6b8a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a4/FaD9940GGSJhSCVfReLP92_dr2ZkVfxbOqo35py0Y/pokemon_season22_ep21_las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/If/BBVZiEe5JQPNwZ65Ge_1dxToUaOMG0Br5K5mC3nLM/pokemon_season22_ep21_las.mp4",
             "captions": "",
-            "size": 2837635120
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/If/BBVZiEe5JQPNwZ65Ge_1dxToUaOMG0Br5K5mC3nLM/pokemon_season22_ep21_las.mp4"
         }
     ]
 }

@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-voyage-a-johto",
+    "channel_id": "season03",
     "channel_name": "Pokémon : Voyage à Johto",
     "channel_description": "Avec Sacha, surpassez-vous et améliorez-vous chaque jour en visitant la région de Johto dans Pokémon : Voyage à Johto, disponible sur TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1125x1500-fr.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-fr.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-fr.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-fr.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 281,
-    "channel_creation_date": 1601651519,
-    "channel_update_date": 1691153895,
+    "order": -3000,
     "media": [
         {
             "id": "94fd899add3b42a3ac12e071e5edcb7d",
@@ -21,16 +18,13 @@
             "title": "Le crime ne paie pas",
             "description": "Sacha entame son périple à Johto, une région peu explorée qui semble regorger de Pokémon que lui et ses amis ne connaissent pas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/lP2Jmt07QqMrBLgceXty30/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SC/2zxSXELcpHx_bwP-Bept92vS7t1Og7sz3iRnRjpZU/pokemon_season03_ep12_fre-44f64afab28b8184bb99cc840c53a2b06d7ab5f9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SC/2zxSXELcpHx_bwP-Bept92vS7t1Og7sz3iRnRjpZU/pokemon_season03_ep12_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F5/zMsUwE4Wdpa4m3A0XYV_O1VuMhRrL2K4aa-3x6W30/pokemon_season03_ep12_fre.mp4",
             "captions": "",
-            "size": 2802702255
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F5/zMsUwE4Wdpa4m3A0XYV_O1VuMhRrL2K4aa-3x6W30/pokemon_season03_ep12_fre.mp4"
         },
         {
             "id": "ce7ac7b7d51d4b158444275a8ddb8269",
@@ -39,16 +33,13 @@
             "title": "Leçon de base-ball",
             "description": "Lors d'un duel Pokémon, Sacha bat à plates coutures un jeune et ambitieux Dresseur qui s'enfuit, démoralisé.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/znrHt9UdSxUhEQnWo3bgmk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B7/BCpjaPQJNmEC0UUJKi1nRZozpxYJI3vjQi5WbNsgY/pokemon_season03_ep13_fre-4f0ea57e308a2ce2b9f5cac87f823101796ebb7b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B7/BCpjaPQJNmEC0UUJKi1nRZozpxYJI3vjQi5WbNsgY/pokemon_season03_ep13_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZU/zXaTqPlrXLmS_yv3XvEe7ZZ-PmEDgqC598uiFzw9I/pokemon_season03_ep13_fre.mp4",
             "captions": "",
-            "size": 2802649911
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZU/zXaTqPlrXLmS_yv3XvEe7ZZ-PmEDgqC598uiFzw9I/pokemon_season03_ep13_fre.mp4"
         },
         {
             "id": "900d683f2c174b36884fbf27397021f2",
@@ -57,16 +48,13 @@
             "title": "Une fin juteuse",
             "description": "Sacha et ses amis découvrent une forêt où des envahisseurs Scarabrute provoquent une déforestation massive.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/kA1oPywXSzYiE-_JzlwIfI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/EJb7MdYF3PqQYbukgwZUOO7D7c-6r6beBfAwDgwIg/pokemon_season03_ep14_fre-60a2bce345ae2401ce929e3f019d8b80cdeb5f94.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/EJb7MdYF3PqQYbukgwZUOO7D7c-6r6beBfAwDgwIg/pokemon_season03_ep14_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LM/suBqbnP6SnAWyuqWhYGxFOJDbMSVftvZeTBXLB1QA/pokemon_season03_ep14_fre.mp4",
             "captions": "",
-            "size": 2801075511
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LM/suBqbnP6SnAWyuqWhYGxFOJDbMSVftvZeTBXLB1QA/pokemon_season03_ep14_fre.mp4"
         },
         {
             "id": "45529e1c5ee04c758e60ce8388de1b49",
@@ -75,16 +63,13 @@
             "title": "Un gisement très convoité",
             "description": "Sacha et ses amis tombent sur une petite vallée où des Donphan sont utilisés pour recueillir des pierres précieuses.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RVKeHF7gTHUjmDOg4jeG0k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x6/yrcmioY6CGuWl8_6A349demh7uvnAa-309UnizfgY/pokemon_season03_ep15_fre-bc02e9e13b72a47fd04d5e94ce8b20799878f340.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x6/yrcmioY6CGuWl8_6A349demh7uvnAa-309UnizfgY/pokemon_season03_ep15_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h1/g1cm7Sj2owiX79uludmGjo8qXdEyQ-rCaG_R6cHIs/pokemon_season03_ep15_fre.mp4",
             "captions": "",
-            "size": 2821786423
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h1/g1cm7Sj2owiX79uludmGjo8qXdEyQ-rCaG_R6cHIs/pokemon_season03_ep15_fre.mp4"
         },
         {
             "id": "bd09a6cc57f845b4a87a3a49943fb2c7",
@@ -93,16 +78,13 @@
             "title": "Des illusions et des confusions",
             "description": "Qui serait assez fou pour oser s'enfoncer dans une forêt dense en pleine nuit, sans l'aide d'un guide Hoothoot ? Certainement pas Sacha...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vQmmzFf4RbQqHo6SZQ_ssc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3n/y3E6Q3erskq_fvXJMz3sCu_FHBBFiLnyVeyLsG9Pc/pokemon_season03_ep16_fre-c13b09b2d18c6d74629e6ec89ec88823392de7d2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3n/y3E6Q3erskq_fvXJMz3sCu_FHBBFiLnyVeyLsG9Pc/pokemon_season03_ep16_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z_/rnOWYqb55RvHGRIaD7nJo9a62x7NHqtGThKMAvunk/pokemon_season03_ep16_fre.mp4",
             "captions": "",
-            "size": 2785901859
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z_/rnOWYqb55RvHGRIaD7nJo9a62x7NHqtGThKMAvunk/pokemon_season03_ep16_fre.mp4"
         },
         {
             "id": "1c8c6cd03d124233809dbfdb08373760",
@@ -111,16 +93,13 @@
             "title": "Le pouvoir des fleurs",
             "description": "Nos héros doivent aider les Joliflor anxieux d'une troupe de danse à se préparer pour leur prochain spectacle.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HIxs0D0SQjMgJ2_2wg3N2A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PA/VQOCGeXkNt0FhtIPxtXnnndgzcmfOKIIUtxGd1n7U/pokemon_season03_ep17_fre-96c09d552560bd461f2c92a9319ee3f47cb0e8df.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PA/VQOCGeXkNt0FhtIPxtXnnndgzcmfOKIIUtxGd1n7U/pokemon_season03_ep17_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/li/OW6fV_PzZAHRhy5bpKFu_OCABj5eLRP-b7l7_fFns/pokemon_season03_ep17_fre.mp4",
             "captions": "",
-            "size": 2792170088
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/li/OW6fV_PzZAHRhy5bpKFu_OCABj5eLRP-b7l7_fFns/pokemon_season03_ep17_fre.mp4"
         },
         {
             "id": "2fdfc578635e4503966610ca19195950",
@@ -129,16 +108,13 @@
             "title": "Les filets de la justice",
             "description": "Sacha et ses amis arrivent dans une nouvelle ville et entendent parler de trois mystérieux bandits qui semblent reproduire les crimes d'un légendaire maître voleur.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/L9_FeGNeRQMlmYQyhkZWVA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/49/_j5twmUCdL7IQ-qlmpvCXh2L20X6vTEPfRA0NFHck/pokemon_season03_ep18_fre-df5e5957c142754b4b666b7528b8551464f924cb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/49/_j5twmUCdL7IQ-qlmpvCXh2L20X6vTEPfRA0NFHck/pokemon_season03_ep18_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H1/gdGxnld6MybaBivG9q0KdSSgIHE7TW0Z3aoOP4r0Y/pokemon_season03_ep18_fre.mp4",
             "captions": "",
-            "size": 2589684021
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H1/gdGxnld6MybaBivG9q0KdSSgIHE7TW0Z3aoOP4r0Y/pokemon_season03_ep18_fre.mp4"
         },
         {
             "id": "b50223ed6d704461950b2a562a27e159",
@@ -147,16 +123,13 @@
             "title": "L'argent ne fait pas le bonheur",
             "description": "Avec de la nourriture pour animaux préparée par un cuisinier français, des salles d'exercice équipées de matériel haut de gamme et des placards remplis de vêtements Pokémon à la dernière mode, la vie d'un Snubbull à Palmiéra semble paradisiaque.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/tQIj7W1wRGElQsqVion4Vk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DT/7EyvSass3-LqbYE0MRU5Jo5pPhvhj6EvfdLGlNPNs/pokemon_season03_ep19_fre-4be0b7881b5662ad0a82609efcfd6c8041824c15.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DT/7EyvSass3-LqbYE0MRU5Jo5pPhvhj6EvfdLGlNPNs/pokemon_season03_ep19_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n1/nMTdOFKNtzUSIrJovO-krMTnRTjOzb-KPIAkWdVPM/pokemon_season03_ep19_fre.mp4",
             "captions": "",
-            "size": 2799077034
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n1/nMTdOFKNtzUSIrJovO-krMTnRTjOzb-KPIAkWdVPM/pokemon_season03_ep19_fre.mp4"
         },
         {
             "id": "58be34ee96d847b18bf4093476d04022",
@@ -165,16 +138,13 @@
             "title": "Le tout petit des grands bois",
             "description": "Pierre sauve un faon Cerfrousse perdu et apeuré, et le soigne avec attention avant de le relâcher.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/WL407pbYR7Ei_QJNHbQQCI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yQ/OWQaXXDOcymsYQDV69wDn-OHhItc-DGa5lvHpkOek/pokemon_season03_ep20_fre-e86018679b25a74bfd1df11a5261f7b64e6bb2ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yQ/OWQaXXDOcymsYQDV69wDn-OHhItc-DGa5lvHpkOek/pokemon_season03_ep20_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rK/de-Fny1YxspZsS3eu2vLIyN8R5_61p35pfc7UcTjQ/pokemon_season03_ep20_fre.mp4",
             "captions": "",
-            "size": 2783493770
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rK/de-Fny1YxspZsS3eu2vLIyN8R5_61p35pfc7UcTjQ/pokemon_season03_ep20_fre.mp4"
         },
         {
             "id": "79a949d7673a46979633a9feb4fbffa9",
@@ -183,16 +153,13 @@
             "title": "Une nouvelle amitié",
             "description": "Sacha rencontre un Germignon sauvage et décide de l'affronter pour l'ajouter à son équipe.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ealJ12c6RpcljOp_rT7_6k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ev/DOwljbqtAiVnt7ni3cR0lxmG-BRZvhDnq6FA7xZ5E/pokemon_season03_ep21_fre-79c6bd5c7e66a34de6c3feebbbade2dd1bbf51d5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ev/DOwljbqtAiVnt7ni3cR0lxmG-BRZvhDnq6FA7xZ5E/pokemon_season03_ep21_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eh/R1PfCJ692FeyQpAjufyEoxO_H3cFunuUD5mJflKyM/pokemon_season03_ep21_fre.mp4",
             "captions": "",
-            "size": 2759433187
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eh/R1PfCJ692FeyQpAjufyEoxO_H3cFunuUD5mJflKyM/pokemon_season03_ep21_fre.mp4"
         },
         {
             "id": "d7d48da4bc934ba3b7bee71b07212ea5",
@@ -201,16 +168,13 @@
             "title": "Rituel annuel",
             "description": "La mission du Professeur Chen, qui consistait à remettre la mystérieuse GS Ball à un expert en Poké Balls, est compromise lorsqu'un Maraistre ayant un penchant pour les objets sphériques vole la GS Ball pour l'utiliser pendant un rituel nocturne.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/19SNpLyTS6Mt77nGwchLqU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-J/DcCpAstMmnTmEYR2PUdDqEhzjd9aeD8aFepWBB7qM/pokemon_season03_ep22_fre-c73465840421da137cc595ba21526a99776933a6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-J/DcCpAstMmnTmEYR2PUdDqEhzjd9aeD8aFepWBB7qM/pokemon_season03_ep22_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GQ/sD7ckHDoM3sm-k2k6sNwAkfBsdNHfwh56vrfmJE2U/pokemon_season03_ep22_fre.mp4",
             "captions": "",
-            "size": 2798503053
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GQ/sD7ckHDoM3sm-k2k6sNwAkfBsdNHfwh56vrfmJE2U/pokemon_season03_ep22_fre.mp4"
         },
         {
             "id": "27b201e919cb4a95a8904ca8fc33c423",
@@ -219,16 +183,13 @@
             "title": "Le coup de sifflet",
             "description": "Lorsque la Team Rocket attaque Sacha et ses amis, une jeune Dresseuse courageuse et sa nuée de Coxy viennent à leur rescousse.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/J7IB6RnLSpUqJBMqPwzxCM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KS/RebPI3U4vcTmHJmm_uMqMnUmcVALPezN7B5PJfcFc/pokemon_season03_ep23_fre-e5cf7e930f026526ac505ac192e9d9424b72100e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KS/RebPI3U4vcTmHJmm_uMqMnUmcVALPezN7B5PJfcFc/pokemon_season03_ep23_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oD/_1w92aPW8eS9efV-hBcr6kliN-rgQAjsqjFaoYvHg/pokemon_season03_ep23_fre.mp4",
             "captions": "",
-            "size": 2750952866
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oD/_1w92aPW8eS9efV-hBcr6kliN-rgQAjsqjFaoYvHg/pokemon_season03_ep23_fre.mp4"
         },
         {
             "id": "2f17a53043474ab29371f1bc1e0b1474",
@@ -237,16 +198,13 @@
             "title": "Une amitié indestructible",
             "description": "Les membres de la Team Rocket n'en reviennent pas lorsqu'un Leuphorie leur remet gentiment tout le stock de nourriture du Centre Pokémon où il est employé.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/LxelMENHSrIk3HxvB4LFHQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tk/1IOH8gjtMKlssa3aLarh8KaML4oaURViusZb9apYo/pokemon_season03_ep24_fre-3863f450090ac0db9f7262e6f412b412f42840ca.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tk/1IOH8gjtMKlssa3aLarh8KaML4oaURViusZb9apYo/pokemon_season03_ep24_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CF/ofwHafWfac2tov76utGbfqD4zxLdvQwKT1d6nsDuM/pokemon_season03_ep24_fre.mp4",
             "captions": "",
-            "size": 2808007779
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CF/ofwHafWfac2tov76utGbfqD4zxLdvQwKT1d6nsDuM/pokemon_season03_ep24_fre.mp4"
         },
         {
             "id": "7d07c8def8894f0fa92284eeeedba8df",
@@ -255,16 +213,13 @@
             "title": "Une jeune pousse à la rescousse",
             "description": "Nos héros sont recrutés comme professeurs honoraires dans une Pokémon Académie pour enfants.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/fQfI3viJTw8qSKE7u7bqN8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iq/-baCFEBv0can-GxR3oKtlhXPGHxaGdhyiTsFmM3Vg/pokemon_season03_ep25_fre-8671db993228cd202825024175c413bb29bb8f03.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iq/-baCFEBv0can-GxR3oKtlhXPGHxaGdhyiTsFmM3Vg/pokemon_season03_ep25_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/LbdLTd8eNm80d66sOQD8mDDiaT9C1QBARbfO_nkBs/pokemon_season03_ep25_fre.mp4",
             "captions": "",
-            "size": 2812621887
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/LbdLTd8eNm80d66sOQD8mDDiaT9C1QBARbfO_nkBs/pokemon_season03_ep25_fre.mp4"
         },
         {
             "id": "543398e662324031815ec8d9843b1a87",
@@ -273,16 +228,13 @@
             "title": "L'air contre le feu",
             "description": "Avec l'aide de Pikachu, Sacha espère remporter facilement le Badge Zéphyr.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/VDOY5mIyQDEgV7I2YQ7Goc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6T/eYKRPvls_XhqN_Bj9A71HU6Ebqun8PiYQNEVs8ZVU/pokemon_season03_ep26_fre-f8116639afcac2d01c839b2fa77aac3ece37ff56.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6T/eYKRPvls_XhqN_Bj9A71HU6Ebqun8PiYQNEVs8ZVU/pokemon_season03_ep26_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nd/mIdTLZwvdCmmetHDepL60QZDs5sUpZ_3RqF0J7Rmg/pokemon_season03_ep26_fre.mp4",
             "captions": "",
-            "size": 2809259604
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nd/mIdTLZwvdCmmetHDepL60QZDs5sUpZ_3RqF0J7Rmg/pokemon_season03_ep26_fre.mp4"
         },
         {
             "id": "3fcb6ea61283461c92bee1f177392b5a",
@@ -291,16 +243,13 @@
             "title": "Mélodrame à chaudes larmes",
             "description": "Ondine a beau aimer les Pokémon mignons et câlins, un Marill qui braille tout le temps devient vite agaçant.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/P8tuphKDRhwkr7h8Xc5K1o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NI/fvTcp2GFvoYI8W4aj_t3jbGqrPGq8UvZUI5mD2CHo/pokemon_season03_ep27_fre-4a6ebc0047f9e6c585ed26921c9eb6152e1cad14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NI/fvTcp2GFvoYI8W4aj_t3jbGqrPGq8UvZUI5mD2CHo/pokemon_season03_ep27_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G1/5XwodCv0KffmgIi75NWHrc_eI7oLdQ4Eu6Ybz7Pzk/pokemon_season03_ep27_fre.mp4",
             "captions": "",
-            "size": 2806542281
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G1/5XwodCv0KffmgIi75NWHrc_eI7oLdQ4Eu6Ybz7Pzk/pokemon_season03_ep27_fre.mp4"
         },
         {
             "id": "c1ea2c877e804095b616661a3a969d46",
@@ -309,16 +258,13 @@
             "title": "Destruction en tout genre",
             "description": "La Team Rocket compte utiliser son dernier super véhicule, le Charbok, pour dominer le monde.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/weosh36AQJUthZmGjqWnUY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ks/DWfc9fZhBqYuyW8jduT7dkUHM3jfnoqDbmkHd-aDA/pokemon_season03_ep28_fre-a78c95d3cdcff0b4b580ae659dca7a5d33c3c350.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ks/DWfc9fZhBqYuyW8jduT7dkUHM3jfnoqDbmkHd-aDA/pokemon_season03_ep28_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KG/yRkPlln4bVH_4PPxuAxoolRWKkr1z4cIWSLRSVdZ8/pokemon_season03_ep28_fre.mp4",
             "captions": "",
-            "size": 2761850944
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KG/yRkPlln4bVH_4PPxuAxoolRWKkr1z4cIWSLRSVdZ8/pokemon_season03_ep28_fre.mp4"
         },
         {
             "id": "0c339d6bbfbc4d968cd573293dc8749f",
@@ -327,16 +273,13 @@
             "title": "La séparation",
             "description": "Lorsque Sacha entend parler de la Vallée Dracaurifique, il décide d'aller y faire un tour pour remotiver son Dracaufeu démoralisé.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DDOda7-8TZYjNVzKT3IdJ8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hu/pKQxyxCRuG7UdprGp2KD0XGLYKfjKbyHYOo_p1GXU/pokemon_season03_ep29_fre-9db3f81c17785e341d9863cebdef5e5cf8c1098d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hu/pKQxyxCRuG7UdprGp2KD0XGLYKfjKbyHYOo_p1GXU/pokemon_season03_ep29_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AB/uoRJQr0Q3oLbn9X0c0fgwMcEX4N6kbJtWjnUKQQoI/pokemon_season03_ep29_fre.mp4",
             "captions": "",
-            "size": 2741940035
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AB/uoRJQr0Q3oLbn9X0c0fgwMcEX4N6kbJtWjnUKQQoI/pokemon_season03_ep29_fre.mp4"
         },
         {
             "id": "faa523be4fdc4c7f86370a8bbccd48b5",
@@ -345,16 +288,13 @@
             "title": "Sourira bien qui sourira le dernier",
             "description": "Il ne reste plus qu'un jour avant le début du concours annuel de Héliatronc, mais la nouvelle amie de notre héros (une Dresseuse de Héliatronc) n'arrive pas à convaincre son Pokémon vedette d'y participer.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-qUjvk_cTH8hjcKi7zNSLU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aB/iJI0hBPGQQXT75GWWB8ZTMSgh-AlozEHtP83EG9Ug/pokemon_season03_ep30_fre-7c58f8b21b55f925727191db3f0055b1cbc74ada.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aB/iJI0hBPGQQXT75GWWB8ZTMSgh-AlozEHtP83EG9Ug/pokemon_season03_ep30_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8t/3m9ZyxThcPUm9N9b8eoY0gwXRnHfW5EOrSlrR9FsY/pokemon_season03_ep30_fre.mp4",
             "captions": "",
-            "size": 2791800618
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8t/3m9ZyxThcPUm9N9b8eoY0gwXRnHfW5EOrSlrR9FsY/pokemon_season03_ep30_fre.mp4"
         },
         {
             "id": "017ae464fe264cb68927f5fa17471d0a",
@@ -363,16 +303,13 @@
             "title": "Le Pokémon blues",
             "description": "À la suite d'un sérieux problème de rivalité entre Pikachu et Germignon, Sacha demande l'aide de l'infirmière Joëlle pour organiser des séances de thérapie.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/AXrkZP4mTLYiSf1-hdHHQo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qm/hFz1Q2ftRhIP2_gQO1jpmr3RSM9T5gG_bWJWhoJVU/pokemon_season03_ep31_fre-75bab08c7cc870d97d3421759429118be2b4159c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qm/hFz1Q2ftRhIP2_gQO1jpmr3RSM9T5gG_bWJWhoJVU/pokemon_season03_ep31_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zH/Gv46LxwLHnLFbA_w2peVx1EwcNScD5483A83Fmyz0/pokemon_season03_ep31_fre.mp4",
             "captions": "",
-            "size": 2784971426
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zH/Gv46LxwLHnLFbA_w2peVx1EwcNScD5483A83Fmyz0/pokemon_season03_ep31_fre.mp4"
         },
         {
             "id": "a190849f645a4b55b9f50789cc61a185",
@@ -381,16 +318,13 @@
             "title": "Vivre de l'air du temps",
             "description": "Nos héros tombent par hasard sur un Granivol, le duveteux Pokémon « Pissenlit », qui est capable de voyager sur plusieurs kilomètres au gré du vent.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/oZCEn2RaS1UufUHicxhoYU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z5/T9dYcQBvowbhGmJUMiX81hDtMLwph9qtV58VlRfNY/pokemon_season03_ep32_fre-3cccea6b64430bb0f120d38c9ad27c50ee42057f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z5/T9dYcQBvowbhGmJUMiX81hDtMLwph9qtV58VlRfNY/pokemon_season03_ep32_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DF/OH5QidJd6CAWqH6OTvw38d9nAJlMLV9ZDJJjxkv4E/pokemon_season03_ep32_fre.mp4",
             "captions": "",
-            "size": 2781057376
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DF/OH5QidJd6CAWqH6OTvw38d9nAJlMLV9ZDJJjxkv4E/pokemon_season03_ep32_fre.mp4"
         },
         {
             "id": "ead519c01c22489189c6e9af22e5efd3",
@@ -399,16 +333,13 @@
             "title": "Un super héros super secret",
             "description": "Alors que Sacha et ses amis déambulent en ville, ils sont suivis de près par un danger qui les menace tout autant que Super-Scorplane : la Team Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6tUZwBwiSJEicbpryLl79M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_5/_8G7na0Gj6KuzjD8LqJMlEC1y-Jwv0KuVtgkS-PWQ/pokemon_season03_ep33_fre-e95db010da906fa4a1d3236a189d2d144c25f0d4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_5/_8G7na0Gj6KuzjD8LqJMlEC1y-Jwv0KuVtgkS-PWQ/pokemon_season03_ep33_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jl/2OPh2AY5SZeHo6TpdbDpstWOg6ecHR8dqTK-uPPio/pokemon_season03_ep33_fre.mp4",
             "captions": "",
-            "size": 2587552877
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jl/2OPh2AY5SZeHo6TpdbDpstWOg6ecHR8dqTK-uPPio/pokemon_season03_ep33_fre.mp4"
         },
         {
             "id": "7939946b7ce1463ab60effe9c6cb08c0",
@@ -417,16 +348,13 @@
             "title": "De l'électricité dans l'air",
             "description": "La Team Rocket arrive à pas de loups pour dérober le troupeau de Wattouat d'une gentille Poké-bergère.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/eTmUa3zhRjotg7_6cbLCMA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3D/_c1oB2CLK1AzvaVZ6sSv5vQNvep8X41SB4JV4_yPc/pokemon_season03_ep34_fre-aa7e415be661f5021b3c1c0ce3312de7c30b27f4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3D/_c1oB2CLK1AzvaVZ6sSv5vQNvep8X41SB4JV4_yPc/pokemon_season03_ep34_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OS/9jbI0vFZNb0yf1rQ8Zs0B4TdI4iBdLxABstxxihLE/pokemon_season03_ep34_fre.mp4",
             "captions": "",
-            "size": 2771844434
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OS/9jbI0vFZNb0yf1rQ8Zs0B4TdI4iBdLxABstxxihLE/pokemon_season03_ep34_fre.mp4"
         },
         {
             "id": "42cc6de72c544114ab2044cce058e65d",
@@ -435,16 +363,13 @@
             "title": "Engagé pour combattre",
             "description": "Quand le meilleur disciple d'un dojo Pokémon refuse de combattre, Sacha et ses amis sont là pour le convaincre que les duels ne sont pas qu'une simple affaire de probabilité.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Qsxt5yxUQRQqyBEzOBY5l0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wr/dS2K7D7j5UVSg3eydrmWW2QBXFKyzhRiXNxCNy3dU/pokemon_season03_ep35_fre-41d4ff25e2288d93eabb75c9cc60c915363f0ddd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wr/dS2K7D7j5UVSg3eydrmWW2QBXFKyzhRiXNxCNy3dU/pokemon_season03_ep35_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9E/n9tgC4O19T-mkn5cbh_0Pv1Rvdj6L0cTmELJHbHtE/pokemon_season03_ep35_fre.mp4",
             "captions": "",
-            "size": 2828578663
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9E/n9tgC4O19T-mkn5cbh_0Pv1Rvdj6L0cTmELJHbHtE/pokemon_season03_ep35_fre.mp4"
         },
         {
             "id": "264a7349ded048fcbbca5bb52296f0ea",
@@ -453,16 +378,13 @@
             "title": "Tout feu tout flamme",
             "description": "Dracaufeu étant parti, Sacha se retrouve sans Pokémon Feu. Il est donc très heureux de tomber sur un Héricendre dans la nature.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/JkpzSd7QSPwu8pbtSKW8Oo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H_/YhbBVnzF8Uj2EIEL_dfNULXUTll-hxM30Kgi2X_B0/pokemon_season03_ep36_fre-708483f826560a0cb83fa6cdffd2b08ac277fbce.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H_/YhbBVnzF8Uj2EIEL_dfNULXUTll-hxM30Kgi2X_B0/pokemon_season03_ep36_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gl/vs3fsZif95Ty_qSpBmY1mk9X-amawyiVRQe6VAYSg/pokemon_season03_ep36_fre.mp4",
             "captions": "",
-            "size": 2807785535
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gl/vs3fsZif95Ty_qSpBmY1mk9X-amawyiVRQe6VAYSg/pokemon_season03_ep36_fre.mp4"
         },
         {
             "id": "752dec3b388f4c3f9b7da562f7b9aa36",
@@ -471,16 +393,13 @@
             "title": "État de sécheresse",
             "description": "Sacha se met à dos les habitants d'une ville qui vouent un culte aux Ramoloss.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/dS3sOziPTD8m32lYve5qjY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yI/WP6AiG0QsqPrktIsabww6haqWEo-r39YzS3d5e8GY/pokemon_season03_ep37_fre-307e8d7ade026335acf9833c9db4d9395aacc82d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yI/WP6AiG0QsqPrktIsabww6haqWEo-r39YzS3d5e8GY/pokemon_season03_ep37_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IY/uxgfBbnGt_AMARWGGcpat9IArkH6MKBqUQ8Zlvjyg/pokemon_season03_ep37_fre.mp4",
             "captions": "",
-            "size": 2781348693
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IY/uxgfBbnGt_AMARWGGcpat9IArkH6MKBqUQ8Zlvjyg/pokemon_season03_ep37_fre.mp4"
         },
         {
             "id": "8d55a5efb7f440558a66dc72ce03ce82",
@@ -489,16 +408,13 @@
             "title": "Suspense en suspens",
             "description": "Sacha remet la mystérieuse GS Ball à un célèbre expert Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jVWl77f0QFUimbccs4DzoI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/uDNQEVHztaZcgyxIBzVgOCGp-Lw8PpXGwm1RX9az4/pokemon_season03_ep38_fre-6b905b140d2947920edbbcf1bb17a5e4e931ee8c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/uDNQEVHztaZcgyxIBzVgOCGp-Lw8PpXGwm1RX9az4/pokemon_season03_ep38_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VH/SKBFHq1rQCnDRNxOIjNH_1XkyfVbyaVs8T3Y2E3l8/pokemon_season03_ep38_fre.mp4",
             "captions": "",
-            "size": 2762102235
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VH/SKBFHq1rQCnDRNxOIjNH_1XkyfVbyaVs8T3Y2E3l8/pokemon_season03_ep38_fre.mp4"
         },
         {
             "id": "02a76bf551f64068b3c30ee3842098a2",
@@ -507,16 +423,13 @@
             "title": "Dans le feu de l'action",
             "description": "Lorsque Sacha arrive à l'Arène d'Écorcia, il a juste le Pokémon qu'il faut pour défier les Pokémon Insecte du Champion.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Aqdr9VH2QGgs8MO44QgmKI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gI/kDEf5nYiq97uehjt30PiRRonzd3uZdlAJDVFr0RTQ/pokemon_season03_ep39_fre-e96bf6647d7222dd65de9969b44833cf19d9555b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gI/kDEf5nYiq97uehjt30PiRRonzd3uZdlAJDVFr0RTQ/pokemon_season03_ep39_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/xWPYgw6DK3h7YQD5rFLuGHDrrPhWTMTOF48uem0h4/pokemon_season03_ep39_fre.mp4",
             "captions": "",
-            "size": 2779900101
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/xWPYgw6DK3h7YQD5rFLuGHDrrPhWTMTOF48uem0h4/pokemon_season03_ep39_fre.mp4"
         },
         {
             "id": "67441c51593f4381b63be9da2194fb82",
@@ -525,16 +438,13 @@
             "title": "Apprentissage du dressage",
             "description": "Un jeune Dresseur inexpérimenté effraie par erreur son propre Canarticho.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Z0QcUVk_Q4Etjvp2iGU-4I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jv/Hpgkw0Tpslrrd14jhqy0UHbvYOIz_1Uu_Yq2NVPbY/pokemon_season03_ep40_fre-307d101e6db009b92401c5533f7dc2ec667de027.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jv/Hpgkw0Tpslrrd14jhqy0UHbvYOIz_1Uu_Yq2NVPbY/pokemon_season03_ep40_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ux/JuuKNS6nky0NknRInUlCUYN3DgBlU-prOPUUd_UwQ/pokemon_season03_ep40_fre.mp4",
             "captions": "",
-            "size": 2819592060
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ux/JuuKNS6nky0NknRInUlCUYN3DgBlU-prOPUUd_UwQ/pokemon_season03_ep40_fre.mp4"
         },
         {
             "id": "f81ad0ee07da407baa4b00712cda3e08",
@@ -543,16 +453,13 @@
             "title": "Échanges et mélanges",
             "description": "À la Bourse d'échange Pokémon, nos héros se lient d'amitié avec un jeune Dresseur Pokémon qui a du mal à trouver quelqu'un intéressé à échanger son Qulbutoké.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-BrQ7gfaQHsqksAcSzaPgg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/OUYMHl-n_gZYp38gaqj7fVj7Hc3nJc7dW5Oe6fWW4/pokemon_season03_ep41_fre-a9b0337e8c99ee185f72e13e9547e83e2410ae9d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/OUYMHl-n_gZYp38gaqj7fVj7Hc3nJc7dW5Oe6fWW4/pokemon_season03_ep41_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hN/y91n3cobbxd06zs8o4EJaMxDOzp3h6-syOw4CzgK0/pokemon_season03_ep41_fre.mp4",
             "captions": "",
-            "size": 2714438233
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hN/y91n3cobbxd06zs8o4EJaMxDOzp3h6-syOw4CzgK0/pokemon_season03_ep41_fre.mp4"
         },
         {
             "id": "6cb9a1dded614e29b9f808f23278810f",
@@ -561,16 +468,13 @@
             "title": "Une escouade qui a le feu sacré",
             "description": "La Team Rocket essaye de voler tous les Pokémon Eau du Grand Prix Feu et Secourisme annuel.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bLmh3e1hTikufgI8jJ4gQ8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/bojhqdbEHbGp6nTNlKiLnJgEciN96MrsUC0fE3E-4/pokemon_season03_ep42_fre-04ed02413d60156563ac9c252d0bcf9756547744.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/bojhqdbEHbGp6nTNlKiLnJgEciN96MrsUC0fE3E-4/pokemon_season03_ep42_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9a/b05NuCZzSCmuecvXPC-Y2Qfh06-MDFKAijllfXhm0/pokemon_season03_ep42_fre.mp4",
             "captions": "",
-            "size": 2755652079
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9a/b05NuCZzSCmuecvXPC-Y2Qfh06-MDFKAijllfXhm0/pokemon_season03_ep42_fre.mp4"
         },
         {
             "id": "26043b9c2119441595596cbecc426e45",
@@ -579,16 +483,13 @@
             "title": "Fugueur à faire peur",
             "description": "Sacha et ses amis acceptent avec joie de surveiller les Axoloto d'une Dresseuse qui a un souci à régler.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/JgQ7nCEZRBUlVlsvsxCbkU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2w/jEy-d3KnNuMcn_YKWSEM3_SsdjU2TU96cuId1ZWlE/pokemon_season03_ep43_fre-d3b3580ad188dcd4b6d2839bbbe8eac92372129c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2w/jEy-d3KnNuMcn_YKWSEM3_SsdjU2TU96cuId1ZWlE/pokemon_season03_ep43_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vh/uiBHExuFAEWj9Efm6LmYXAhXd1BpjARmCN9-NbxEE/pokemon_season03_ep43_fre.mp4",
             "captions": "",
-            "size": 2816402745
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vh/uiBHExuFAEWj9Efm6LmYXAhXd1BpjARmCN9-NbxEE/pokemon_season03_ep43_fre.mp4"
         },
         {
             "id": "8b8da674d4ba43428aeebf95076d3ec3",
@@ -597,16 +498,13 @@
             "title": "Le bout du tunnel",
             "description": "Tandis que Sacha et ses amis cherchent le moyen de traverser un tunnel rempli d'Onix, deux Pokémon errants font leur apparition.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/i42mdNS6Q0Iiu6_lQdtPsM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0P/J6FfGdBjWLE9j-LBrt9QPHtuXDu844PvQNbhyUVn0/pokemon_season03_ep44_fre-f8edf6f8d4a6991d8634c593748fc2d1a6596dbd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0P/J6FfGdBjWLE9j-LBrt9QPHtuXDu844PvQNbhyUVn0/pokemon_season03_ep44_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uv/wLPiWVStpQLeRJLqc2KJlY72gTqle5J6ZAUXdIWyU/pokemon_season03_ep44_fre.mp4",
             "captions": "",
-            "size": 2819412478
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uv/wLPiWVStpQLeRJLqc2KJlY72gTqle5J6ZAUXdIWyU/pokemon_season03_ep44_fre.mp4"
         },
         {
             "id": "166f8635e9ab4be48805b505c0dac854",
@@ -615,16 +513,13 @@
             "title": "Le voleur mystérieux",
             "description": "Alors qu'ils enquêtent sur une série de vols mystérieux, nos héros découvrent une meute de Malosse qui lutte pour survivre dans la nature.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Fm-GNemrS-QiAW1BcDayFQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XI/VbELnj0Mjgvh4x_g5rs7lfWOVnlZslCC2nx0rRU6s/pokemon_season03_ep45_fr-da1264881b090160ee95fded0a21fb28083ce93a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XI/VbELnj0Mjgvh4x_g5rs7lfWOVnlZslCC2nx0rRU6s/pokemon_season03_ep45_fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5X/uqELWewHSFP8t3FFdg3Vv1T8_PFKWOBgN1nJju0z4/pokemon_season03_ep45_fr.mp4",
             "captions": "",
-            "size": 2748215729
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5X/uqELWewHSFP8t3FFdg3Vv1T8_PFKWOBgN1nJju0z4/pokemon_season03_ep45_fr.mp4"
         },
         {
             "id": "1b164072414c4ec19bf106babec714d2",
@@ -633,16 +528,13 @@
             "title": "Duel pour un Pokémon",
             "description": "La rivalité amicale entre Sacha et Ondine est mise à l'épreuve lorsqu'ils essayent de capturer tous les deux le même Kaiminus.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GxZAckFMTsEm_EGur7HFNI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ac/mhNpT6JhXGK0RdFqFyZ9QBan4B0KBLN5WRVfZVYGc/pokemon_season03_ep46_fre-3cd13731ebc243d0c9f35db55bedaff09da75791.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ac/mhNpT6JhXGK0RdFqFyZ9QBan4B0KBLN5WRVfZVYGc/pokemon_season03_ep46_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/-TUcsK8nfURalvd_pnPhvMKYqxQFPxEK0q09uphMI/pokemon_season03_ep46_fre.mp4",
             "captions": "",
-            "size": 2809297217
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/-TUcsK8nfURalvd_pnPhvMKYqxQFPxEK0q09uphMI/pokemon_season03_ep46_fre.mp4"
         },
         {
             "id": "7a6f73076261471cba1657d190fd4ad8",
@@ -651,16 +543,13 @@
             "title": "Chaud devant !",
             "description": "Lorsque Sacha et ses amis entendent parler d'une Dresseuse théoriquement imbattable dans les environs, ils partent à sa recherche.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/em9zB2JhRxwuhZX0ZD9Stg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pk/f67nmnyGEQpIqXXYE1YvTlGbx4lcsbeocgsWUJHuw/pokemon_season03_ep47_fre-0411feba7e2e099fda39191c6170ea4554a0a229.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pk/f67nmnyGEQpIqXXYE1YvTlGbx4lcsbeocgsWUJHuw/pokemon_season03_ep47_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zV/xZ7VcaT4PHNZjbASSrF6vS_c05rBKNogXxYAvn-C8/pokemon_season03_ep47_fre.mp4",
             "captions": "",
-            "size": 2752342546
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zV/xZ7VcaT4PHNZjbASSrF6vS_c05rBKNogXxYAvn-C8/pokemon_season03_ep47_fre.mp4"
         },
         {
             "id": "978f6dcc08ef46f281f7d8374bf55876",
@@ -669,16 +558,13 @@
             "title": "Un amour débordant",
             "description": "Le Kaiminus de Sacha tombe fou amoureux d'une Azumarill qu'il aperçoit, mais il ne parvient pas à la conquérir, car la Team Rocket la kidnappe sous ses yeux.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/l49tzAjvRvIgffYN0v1WHY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EY/yRVTyYztM8Za0IiXpX3mKqcrvWVRqdi6k9PAXHa8g/pokemon_season03_ep48_fre-3414035b4801eb460fd025bfc4111369ad4f499d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EY/yRVTyYztM8Za0IiXpX3mKqcrvWVRqdi6k9PAXHa8g/pokemon_season03_ep48_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VO/1XvIdrFDaDTxEYldckNa82Q4c5HRHIVn0RDeQmdCs/pokemon_season03_ep48_fre.mp4",
             "captions": "",
-            "size": 2763166306
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VO/1XvIdrFDaDTxEYldckNa82Q4c5HRHIVn0RDeQmdCs/pokemon_season03_ep48_fre.mp4"
         },
         {
             "id": "cc6cc01a55134c15a04f8b95afb17378",
@@ -687,16 +573,13 @@
             "title": "Prise de bec",
             "description": "Sacha a jeté son dévolu sur un rare Noarfang aux couleurs vives.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/zGzAGlUTTBUoE-Lla-xc3g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sh/qSiuiTF-TjwGSJvEElrgNRpey1vVHeQe6z2ORpv-o/pokemon_season03_ep49_fre-1ca2f6532f712b4b6431b61df7055a58a5b0788e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sh/qSiuiTF-TjwGSJvEElrgNRpey1vVHeQe6z2ORpv-o/pokemon_season03_ep49_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6s/vn5OQbup_1ShUd2ZnA_PvF5jJfoKv5lgdzLka3SpM/pokemon_season03_ep49_fre.mp4",
             "captions": "",
-            "size": 2790026148
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6s/vn5OQbup_1ShUd2ZnA_PvF5jJfoKv5lgdzLka3SpM/pokemon_season03_ep49_fre.mp4"
         },
         {
             "id": "979e692fa34d4a8c9d87654d193bd714",
@@ -705,16 +588,13 @@
             "title": "Meilleurs ennemis",
             "description": "Lorsqu'une attaque d'Ursaring place la Team Rocket et nos héros dans une situation dangereuse, l'heure est au compromis : les membres de chaque équipe doivent s'allier à leurs ennemis.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/l55pL6NNSownYdlTRk71xQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gm/waTS-kwlrPNbjusryYq9ciKk73irliHzLRk9ofbFk/pokemon_season03_ep50_fre-36cf26a91ae576b95d5660dbf7822b5c3eeaa2dc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gm/waTS-kwlrPNbjusryYq9ciKk73irliHzLRk9ofbFk/pokemon_season03_ep50_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wp/9hx_4j3na-qmNuI-yX19LDxtsCZnJrDiLN3wtrlng/pokemon_season03_ep50_fre.mp4",
             "captions": "",
-            "size": 2709527445
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wp/9hx_4j3na-qmNuI-yX19LDxtsCZnJrDiLN3wtrlng/pokemon_season03_ep50_fre.mp4"
         },
         {
             "id": "b397ad1dafdc40dbb4c63c21522f92bd",
@@ -723,16 +603,13 @@
             "title": "Psychiquement vôtre",
             "description": "Nos héros arrivent dans une ville où tous les habitants élèvent des Pokémon Psy pour repousser les Pokémon Spectre qui rôdent dans les environs.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/s5etHa_cQNstMY8IVIvkr0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cE/i3M-uOyn329rzcePX8PVCePGL78sGFYNui3p9Ymjo/pokemon_season03_ep51_fre-3e2108117e8808436286b133d5eaad864016c73e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cE/i3M-uOyn329rzcePX8PVCePGL78sGFYNui3p9Ymjo/pokemon_season03_ep51_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_M/9CD0mERMiu1Soa6z32mBxI7mGoHVBZdmpciFAeDw4/pokemon_season03_ep51_fre.mp4",
             "captions": "",
-            "size": 2797120051
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_M/9CD0mERMiu1Soa6z32mBxI7mGoHVBZdmpciFAeDw4/pokemon_season03_ep51_fre.mp4"
         },
         {
             "id": "4ac09bb406d44bf5aa0ef489200b4252",
@@ -741,16 +618,13 @@
             "title": "La chasse au trésor",
             "description": "La mode des horoscopes Pokémon dissimule en fait un complot de la Team Rocket visant à voler les Pokémon des Dresseurs locaux.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/SsCbtAbUS_Uqg70iSALQlI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gZ/ZuQue9LCDJzW_tSouo09BrQXXzYfQo0xWEn5upL6c/pokemon_season03_ep52_fre-9f6d67c12bb434a63ef2ed1d1a1b9bdeb8011fa9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gZ/ZuQue9LCDJzW_tSouo09BrQXXzYfQo0xWEn5upL6c/pokemon_season03_ep52_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ru/gy0ZiSY2Dhs1EUCPsSTOCaHnS0Wwk3t4jIfFCcle8/pokemon_season03_ep52_fre.mp4",
             "captions": "",
-            "size": 2754912273
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ru/gy0ZiSY2Dhs1EUCPsSTOCaHnS0Wwk3t4jIfFCcle8/pokemon_season03_ep52_fre.mp4"
         }
     ]
 }

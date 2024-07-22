@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-master-quest",
+    "channel_id": "season05",
     "channel_name": "Pokémon: Master Quest",
     "channel_description": "Ashs Johto-Reise findet ihren Abschluss bei der Johto-Liga-Silber-Konferenz in Pokémon: Master Quest – jetzt auf Pokémon-TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1125x1500-de.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 261,
-    "channel_creation_date": 1607098206,
-    "channel_update_date": 1696597584,
+    "order": -5000,
     "media": [
         {
             "id": "37871b0c892f4f4084c5b6c4305b5e21",
@@ -21,16 +18,13 @@
             "title": "Mitten im Strudel!",
             "description": "Während einer Rangelei mit Team Rocket stürzen Ash und seine Freunde von dem Schiff, auf dem sie zu den Strudelinseln unterwegs waren.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/N4cbDIkvT0AhMW2xDBbXiE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ru/kFpeLUMnYNCDZHa5lS5lwaXts9Uknl5UiTy1b9M2I/pokemon_season05_ep01_ger-bb8dd037088e5f739f7d961cfffc0ebf0228cf69.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ru/kFpeLUMnYNCDZHa5lS5lwaXts9Uknl5UiTy1b9M2I/pokemon_season05_ep01_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MM/0BucobgJoJ1E127v23wyiFkW5Qk1iiUd5NjnpxThM/pokemon_season05_ep01_ger.mp4",
             "captions": "",
-            "size": 2632923751
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MM/0BucobgJoJ1E127v23wyiFkW5Qk1iiUd5NjnpxThM/pokemon_season05_ep01_ger.mp4"
         },
         {
             "id": "5dd52aeabf874ac883d52fbb8cfad963",
@@ -39,16 +33,13 @@
             "title": "Hoch hinaus!",
             "description": "Unsere Helden entdecken eine Insel, auf der die Taubsis aufgrund von Schutzbestimmungen und fehlenden Raubtieren gut gediehen sind. Daher leben dort jede Menge dieser Pokémon, die keine Lust mehr haben, zu fliegen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/XdUq6r-HSsgg9Uvu4z62WM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bP/Q8hDdSzlbjw3UF8MLVbfPHEgz8Wm9L-uK9kaQh5O0/pokemon_season05_ep02_ger-209012a88b9a32931dd9de747fc2362221c55f8b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bP/Q8hDdSzlbjw3UF8MLVbfPHEgz8Wm9L-uK9kaQh5O0/pokemon_season05_ep02_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zw/a8a_Sfp3QBDKnwTzGNUzCjXU5gZcR5wvdLHehujLQ/pokemon_season05_ep02_ger.mp4",
             "captions": "",
-            "size": 2516706808
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zw/a8a_Sfp3QBDKnwTzGNUzCjXU5gZcR5wvdLHehujLQ/pokemon_season05_ep02_ger.mp4"
         },
         {
             "id": "736b04a9a9cb4729a79c86f7d0dd370e",
@@ -57,16 +48,13 @@
             "title": "Die große Lampi-Parade",
             "description": "Auf dem Weg zum Strudel-Cup kommen Ash und seine Freunde glücklicherweise genau während der jährlichen Lampi-Wanderung an einem kleinen Bergdorf vorbei.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/c2sEqanLRykp5yG99DdNw4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3x/9vc6x1e_EQIUc_ExJufBMxEj9DRp_kIJCjz3X6tFQ/pokemon_season05_ep03_ger-799a7841a846f7318097f6a3d9ee4c8e478518a3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3x/9vc6x1e_EQIUc_ExJufBMxEj9DRp_kIJCjz3X6tFQ/pokemon_season05_ep03_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pe/VYX9GgT5u5z38X7tiM_DWVp6Mjxu6Mbw07mMekai4/pokemon_season05_ep03_ger.mp4",
             "captions": "",
-            "size": 2554807865
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pe/VYX9GgT5u5z38X7tiM_DWVp6Mjxu6Mbw07mMekai4/pokemon_season05_ep03_ger.mp4"
         },
         {
             "id": "4bd103d68b3b43eba5d5da1b9f3bd5ba",
@@ -75,16 +63,13 @@
             "title": "Corasonn Schabernack!",
             "description": "Ash und die Freunde kommen auf einer neuen Insel an, als sie Hilfeschreie hören.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S9ED1os7Q-spdXaG5871bo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q7/EmYBL7fWmxLsLoZyo4VAkmgs7z7J29yJaj8QxVvEM/pokemon_season05_ep04_ger-bc73b77fb30737a2621e351bdc93e3f4b76821bb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q7/EmYBL7fWmxLsLoZyo4VAkmgs7z7J29yJaj8QxVvEM/pokemon_season05_ep04_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/95/z9WvQwJlBkuHEwrS6-FqC5IehxZSpW1t7KumwD6dY/pokemon_season05_ep04_ger.mp4",
             "captions": "",
-            "size": 2622450403
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/95/z9WvQwJlBkuHEwrS6-FqC5IehxZSpW1t7KumwD6dY/pokemon_season05_ep04_ger.mp4"
         },
         {
             "id": "a4a2bf1b061e4c2c91ffc164f40fafd3",
@@ -93,16 +78,13 @@
             "title": "Auf der Suche nach dem Silberflügel",
             "description": "Unsere Abenteurer verpassen die Fähre zur roten Insel, treffen aber eine Pokémon-Forscherin und Tiefseetaucherin, die sie in ihrem Boot übersetzt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pKK_GwYeTCwkf_BZPQPr9M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dR/1gLDO5TQWg99UU9Yy1_jXCqUw7dB96ekxtBcKStVE/pokemon_season05_ep05_ger-0bd72c073f4344971433442fa6b55aecbc75f093.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dR/1gLDO5TQWg99UU9Yy1_jXCqUw7dB96ekxtBcKStVE/pokemon_season05_ep05_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c6/b2EV39MYuOpa-gCOmz80ZKPvXVgwZfadhASwF3xQo/pokemon_season05_ep05_ger.mp4",
             "captions": "",
-            "size": 2629565581
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c6/b2EV39MYuOpa-gCOmz80ZKPvXVgwZfadhASwF3xQo/pokemon_season05_ep05_ger.mp4"
         },
         {
             "id": "843375c9dd88430fb343492758bbae22",
@@ -111,16 +93,13 @@
             "title": "Octillery im Abseits",
             "description": "Nachdem sie den Austragungsort der Vorrunde des Strudel-Cups erreicht haben, tragen Ash und Misty sich in die Wettkampfliste ein. Beide schaffen es mit zwei Siegen, sich für die Finalrunden zu qualifizieren.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/hDN1yd2IQw8s0NJJ1i7riI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yw/6EZpPx5aGdiN3d4h5IypQFf16lkzBsQvnX4GVHBAA/pokemon_season5_ep06_ger-5e7184065afd0a7c4ae39f14bc8c445e65e1aefe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yw/6EZpPx5aGdiN3d4h5IypQFf16lkzBsQvnX4GVHBAA/pokemon_season5_ep06_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zd/ufWFjULBrG5IX0yR_G6-NlxZtzZ3VG60KpDXY1KZU/pokemon_season5_ep06_ger.mp4",
             "captions": "",
-            "size": 2608020697
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zd/ufWFjULBrG5IX0yR_G6-NlxZtzZ3VG60KpDXY1KZU/pokemon_season5_ep06_ger.mp4"
         },
         {
             "id": "2ce6f0ff12194afaa5f40ecfd32ff83e",
@@ -129,16 +108,13 @@
             "title": "Duell der Helden!",
             "description": "Zu Beginn des Strudel-Cup-Finales müssen Ash und Misty sich beachtlichen Gegnern stellen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/LObw_xIZSvopfQOz9Mv-D4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lc/V6Lg3ZQMnk5EywZjBnx8cJv9Tssy-EiOiqlxzb3T0/pokemon_season05_ep07_ger-d110b9e4bbad46ecade83ed0c88c3765c8219aa8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lc/V6Lg3ZQMnk5EywZjBnx8cJv9Tssy-EiOiqlxzb3T0/pokemon_season05_ep07_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vo/0j01FetPCxlFRQKBAq5QPA0NwZ_PZWtw2UGpqBHXY/pokemon_season05_ep07_ger.mp4",
             "captions": "",
-            "size": 2571985708
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vo/0j01FetPCxlFRQKBAq5QPA0NwZ_PZWtw2UGpqBHXY/pokemon_season05_ep07_ger.mp4"
         },
         {
             "id": "3e1f7d8b146944b7b7a84599d167f672",
@@ -147,16 +123,13 @@
             "title": "Gute Freunde – heiße Rivalen!",
             "description": "Ash und Misty gehen siegreich aus ihren Kämpfen hervor, und stehen sich in der nächsten Runde plötzlich als Gegner gegenüber.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep8_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep8_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ph99ixRpRLct6hFmdFn9nI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pn/hlI4ZMYNrPftd2iij0ebxF7FTohFEDzv2iGmuQBmE/pokemon_season05_ep08_ger-0f6c971f91c0de0daa31346c69d84700c5618df3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pn/hlI4ZMYNrPftd2iij0ebxF7FTohFEDzv2iGmuQBmE/pokemon_season05_ep08_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gb/e0PGziec3TTMbKmG91sQr99kmrNVXQ3ooJtQSeXSg/pokemon_season05_ep08_ger.mp4",
             "captions": "",
-            "size": 2651718354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gb/e0PGziec3TTMbKmG91sQr99kmrNVXQ3ooJtQSeXSg/pokemon_season05_ep08_ger.mp4"
         },
         {
             "id": "29cac9da22d148169c0bcad6ad9865a7",
@@ -165,16 +138,13 @@
             "title": "Die Digda-Dieb-Division",
             "description": "Ein Dorf mit netten, älteren Menschen bereitet für Ash und seine Freunde ein großes Essen vor, damit die Pokémon-Trainer ihnen helfen, das Dorf gegen die böse Digda-Dieb-Division zu verteidigen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep9_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep9_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/KcrJ2iLRSBYnAvK1q2YZac/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CK/G4n-HZpc8tV-jmhj8_ajgReQ482iwqvpmxv4CIb1s/pokemon_season05_ep09_ger-661608ae500b114ea3b3381db85e3649b530662f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CK/G4n-HZpc8tV-jmhj8_ajgReQ482iwqvpmxv4CIb1s/pokemon_season05_ep09_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/au/ZX0cAvF9V3fxCczWC_eX-6KiZuCMWQMZqr8YTnav8/pokemon_season05_ep09_ger.mp4",
             "captions": "",
-            "size": 2619221538
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/au/ZX0cAvF9V3fxCczWC_eX-6KiZuCMWQMZqr8YTnav8/pokemon_season05_ep09_ger.mp4"
         },
         {
             "id": "79e8744b5d6946bea0168e6512679d32",
@@ -183,16 +153,13 @@
             "title": "Silber zu uns!",
             "description": "Ash, Misty und Rocko treffen eine Ladenbesitzerin, die ihnen einen Freund vorstellt; ein Juwelier, der die Legende der vierten Strudel-Insel erzählt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/eeh0S11pRr4oBaOZRJnnTI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/md/a__430Aeiw6h7kpnx8Dql_NCStcd_GqHiMLxQqONs/pokemon_season05_ep10_ger-e68bd4229278c02f835d3f7fb2d3602e72b9da76.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/md/a__430Aeiw6h7kpnx8Dql_NCStcd_GqHiMLxQqONs/pokemon_season05_ep10_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/ifMpa__4HkMcrx4B2LuNt6yAvMZaaV_IMqzq7InyA/pokemon_season05_ep10_ger.mp4",
             "captions": "",
-            "size": 2614833123
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/ifMpa__4HkMcrx4B2LuNt6yAvMZaaV_IMqzq7InyA/pokemon_season05_ep10_ger.mp4"
         },
         {
             "id": "c6ea7dc6a98549a390185ec247903cc1",
@@ -201,16 +168,13 @@
             "title": "Das Comeback von Butch und Cassidy",
             "description": "Auf der Suche nach einem geheimnisvollen Pokémon treffen Ash, Misty und Rocko auf ihren alten Freund Richie und sein Pikachu Sparky.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/xup9xqmFSaMkBhewkeQPME/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sb/KKWUeDm1pLVys6Olfw9_nYqreojwX3eVNik9OA8js/pokemon_season05_ep11_ger-8e77c6519e24dee14a31bf7c13813f18653f0e48.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sb/KKWUeDm1pLVys6Olfw9_nYqreojwX3eVNik9OA8js/pokemon_season05_ep11_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-R/rHMPOrUnLT418DOTDfPaPtU42FZzWqla7yGsNBWGA/pokemon_season05_ep11_ger.mp4",
             "captions": "",
-            "size": 2555952718
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-R/rHMPOrUnLT418DOTDfPaPtU42FZzWqla7yGsNBWGA/pokemon_season05_ep11_ger.mp4"
         },
         {
             "id": "784d525271674cda931e5dabbc018a8f",
@@ -219,16 +183,13 @@
             "title": "Lugia in der Falle",
             "description": "Das kleine Lugia wurde von Butch und Cassidy gefangen. Ash und seine Freunde wollen es retten und versuchen gleichzeitig, das Muttertier zu beruhigen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/eE1SUnFnTNokx5dq7wBio8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/qnv73T2Ha8latE0ClB5zwOdPEZHlXPhlp8RHMCvPI/pokemon_season05_ep12_ger-4159f056f55b48ae0bc5c6bdbffb8e4ab00f1917.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Az/qnv73T2Ha8latE0ClB5zwOdPEZHlXPhlp8RHMCvPI/pokemon_season05_ep12_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wm/EjkZJzrECeShVD3sM-BCxXwT2z8z2ZkBf4-jUUvkw/pokemon_season05_ep12_ger.mp4",
             "captions": "",
-            "size": 2494384565
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wm/EjkZJzrECeShVD3sM-BCxXwT2z8z2ZkBf4-jUUvkw/pokemon_season05_ep12_ger.mp4"
         },
         {
             "id": "48fb7897813443f3a716c1cdac6ffa80",
@@ -237,16 +198,13 @@
             "title": "Versprochen ist versprochen!",
             "description": "Ash und die Freunde geben ihr Bestes, um das von Team Rocket gefangene Lugia zu befreien.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/SPt4l4E0Q_MpxbBzaxv-oA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0J/LHO3NhOFH-sod5NRYlsxB2W0LRf8_7wIg4GpNKgJ8/pokemon_season05_ep13_ger-d4025d147cf73c289487ab07910b74d07f549fcc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0J/LHO3NhOFH-sod5NRYlsxB2W0LRf8_7wIg4GpNKgJ8/pokemon_season05_ep13_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6y/Xk_yOYdHla7bJ08gkkA5qtcEI5PQq85JeAsJANvUY/pokemon_season05_ep13_ger.mp4",
             "captions": "",
-            "size": 2531590495
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6y/Xk_yOYdHla7bJ08gkkA5qtcEI5PQq85JeAsJANvUY/pokemon_season05_ep13_ger.mp4"
         },
         {
             "id": "f00f21b225b148aa9c30f849c0573791",
@@ -255,16 +213,13 @@
             "title": "Der Hoothoot-Express",
             "description": "In Transit City bereiten Ash, Rocko und Misty alles für den Arenakampf in Oliviana City vor. Sie müssen jedoch schnell feststellen, dass sich der Weg dorthin nicht einfach gestalten wird.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8A8hsiWxSKonDD4ScBXN5E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hf/J1iIQKRU7E4NLmuYSfhMxS_NBcrxj2pcH2bM7NHnk/pokemon_season05_ep14_ger-d63e93e3eacf7b254afe51d7866ff3766f842ce4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hf/J1iIQKRU7E4NLmuYSfhMxS_NBcrxj2pcH2bM7NHnk/pokemon_season05_ep14_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J7/_5-ULcyH1DxSdKBgaZaXFqfQCFIbjOk0kZyIVKrGI/pokemon_season05_ep14_ger.mp4",
             "captions": "",
-            "size": 2601226452
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J7/_5-ULcyH1DxSdKBgaZaXFqfQCFIbjOk0kZyIVKrGI/pokemon_season05_ep14_ger.mp4"
         },
         {
             "id": "036735fb82554473a189092a10eac7c4",
@@ -273,16 +228,13 @@
             "title": "Nerven aus Stahl!",
             "description": "In Oliviana City Ash bereitet sich Ash auf seinen Arenakampf vor. Nach einem Training mit Hindernissen kommt es endlich zum langersehnten Aufeinandertreffen mit Jasmin.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/A2c1-4JVRHMoYkJKhDqx8Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/us/oG3ZXEyLmpVzIQbMrRpGut1U-z9nrTpfwo54NRAv0/pokemon_season05_ep15_ger-3ffd9cd6af7788a6297a1319564fc4e3c86e414b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/us/oG3ZXEyLmpVzIQbMrRpGut1U-z9nrTpfwo54NRAv0/pokemon_season05_ep15_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aa/uPRu_HZk4k0t256FDpuYXddnJuYQJoPg1hw4WSz6Y/pokemon_season05_ep15_ger.mp4",
             "captions": "",
-            "size": 2631958451
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aa/uPRu_HZk4k0t256FDpuYXddnJuYQJoPg1hw4WSz6Y/pokemon_season05_ep15_ger.mp4"
         },
         {
             "id": "9d1e20fe0fe9446a8a412c77fc58adb5",
@@ -291,16 +243,13 @@
             "title": "Bisasam im Diplomatendienst!",
             "description": "Ash erhält eine überraschende Nachricht von Professor Eich: Die Pokémon im Labor des Professors bekämpfen einander und der Professor kann sie nicht beruhigen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nR4g_g_pRGoikEsd_xYrbU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6S/VLFvvzAz-_yeBk6q6y2AtBCoeupTTBgQ0Jdy2foyY/pokemon_season05_ep16_ger-713dc3f44f603cb058648e53883b8f94c4113178.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6S/VLFvvzAz-_yeBk6q6y2AtBCoeupTTBgQ0Jdy2foyY/pokemon_season05_ep16_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F1/2x8QC_1dP7abgzRYe4seR3qwvAKpE3DOOnI_Z0Ygk/pokemon_season05_ep16_ger.mp4",
             "captions": "",
-            "size": 2535513850
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F1/2x8QC_1dP7abgzRYe4seR3qwvAKpE3DOOnI_Z0Ygk/pokemon_season05_ep16_ger.mp4"
         },
         {
             "id": "fd65902a6619468da30d976b3953ce46",
@@ -309,16 +258,13 @@
             "title": "Vier sind eins zu wenig!",
             "description": "Unsere Helden treffen ihre alte Freundin Sakura und ihr Pokémon, ein Psiana, das sich aus ihrem Evoli entwickelt hat.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_WWQKmYZRo0ow2XazlTzkY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LA/ffVzwvJVQM7abqyfK9JDEPTop1uY0fcNNWKsW-Ams/pokemon_season5_ep17_ger-bdcce8688ca58bfd9a89b8d0fd21970af9d94d3a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LA/ffVzwvJVQM7abqyfK9JDEPTop1uY0fcNNWKsW-Ams/pokemon_season5_ep17_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n0/9hguiqDXU9OlZcWLMm1e_xSgprsPruTDp-1kQlvNQ/pokemon_season5_ep17_ger.mp4",
             "captions": "",
-            "size": 2634294005
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n0/9hguiqDXU9OlZcWLMm1e_xSgprsPruTDp-1kQlvNQ/pokemon_season5_ep17_ger.mp4"
         },
         {
             "id": "bbf03229b28f492ba1c6e120d7cb3015",
@@ -327,16 +273,13 @@
             "title": "Aufstand der Pokémon",
             "description": "Als Ash, Misty und Rocko ein geheimnisvolles, plötzlich abreißendes Glockengeläut untersuchen wollen, treffen sie zufällig Jens und einen Pokémon-Forscher.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/u_AyKbKPSSsocbhINfLMBU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h4/A30IcZOl6Pw2g5NW3RzOnkNEk77FfZRPHxtqe6zVg/pokemon_season05_ep18_ger-320e308f1acb3783593cd90241aa5c6cb1950005.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h4/A30IcZOl6Pw2g5NW3RzOnkNEk77FfZRPHxtqe6zVg/pokemon_season05_ep18_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xs/4VA8B2EfCrWHCtJK4dp4rNeusaqIRQdhpeSE2Rv8Y/pokemon_season05_ep18_ger.mp4",
             "captions": "",
-            "size": 2613477735
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xs/4VA8B2EfCrWHCtJK4dp4rNeusaqIRQdhpeSE2Rv8Y/pokemon_season05_ep18_ger.mp4"
         },
         {
             "id": "9790598e6fe74f0ab16569dd74e5bb5b",
@@ -345,16 +288,13 @@
             "title": "Extreme-Pokémon in Eiskirchen",
             "description": "Auf dem Weg nach Mahagonia City begegnen Ash, Misty und Rocko zufällig Gary und seinem Arkani, die sich auf ein Treffen vorbereiten.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/l5BZjm_nTwosWVp3XTlu1s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_Q/ivlRkUt6YN3wyVu0AKyEPy-ywp-jSDd0XkjnNgJTU/pokemon_season05_ep19_ger-39ec14ce18abfe2204ed1529505d0476f7e777c6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_Q/ivlRkUt6YN3wyVu0AKyEPy-ywp-jSDd0XkjnNgJTU/pokemon_season05_ep19_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hx/kuQWawMB62ZqJcZcsonw9KY1xsxoE1_slamSLLfeo/pokemon_season05_ep19_ger.mp4",
             "captions": "",
-            "size": 1803612067
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hx/kuQWawMB62ZqJcZcsonw9KY1xsxoE1_slamSLLfeo/pokemon_season05_ep19_ger.mp4"
         },
         {
             "id": "393495ac164e442da7eccc7124d99fa7",
@@ -363,16 +303,13 @@
             "title": "Das Ei ist weg!",
             "description": "Das Ei, das Ash von einem dankbaren Pokémon-Züchter erhalten hat, ist weg.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/OTSVrBZORC0p-zMcSTZn6c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eq/If7xjNw0cXA1SFpRj6mCoeQ_tgUOJoVA201G9buO4/pokemon_season05_ep20_ger-f54070422ee6a7f35e6bc6f5879b6eb3afb49b95.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eq/If7xjNw0cXA1SFpRj6mCoeQ_tgUOJoVA201G9buO4/pokemon_season05_ep20_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/00/7kn-NH6Q-DKeUGSkOxobLNUziZiXXjRfgB-5QH03Q/pokemon_season05_ep20_ger.mp4",
             "captions": "",
-            "size": 2618957201
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/00/7kn-NH6Q-DKeUGSkOxobLNUziZiXXjRfgB-5QH03Q/pokemon_season05_ep20_ger.mp4"
         },
         {
             "id": "f647b950092447748d6423ddce9aca28",
@@ -381,16 +318,13 @@
             "title": "Phanpys wahre Freunde!",
             "description": "Endlich schlüpft ein Pokémon aus dem Ei von Ash – es ist ein Phanpy! Unsere Helden sind außer sich vor Freude, ebenso Jessie und James vom Team Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/9ke5UAkkR3QjWQj3c6ayig/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V0/rI8c1FJNNHHlnwbZ8RtTKNVHnC5FX87Mak6cYKszE/pokemon_season05_ep21_ger-0d453c034689c96ccd5606f91621b7de32a09610.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V0/rI8c1FJNNHHlnwbZ8RtTKNVHnC5FX87Mak6cYKszE/pokemon_season05_ep21_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vj/WWNXcG37yBhCydaZVthSNbl0wr3yOy_qxPUZrAs0E/pokemon_season05_ep21_ger.mp4",
             "captions": "",
-            "size": 2546001002
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vj/WWNXcG37yBhCydaZVthSNbl0wr3yOy_qxPUZrAs0E/pokemon_season05_ep21_ger.mp4"
         },
         {
             "id": "612986a02abd45e8bdc6ea2607891047",
@@ -399,16 +333,13 @@
             "title": "Zurück ins Team!",
             "description": "Jessie, James und Mauzi verfolgen die Gruppe um Ash, während sie ihre bisherigen Fehlschläge beklagen und überlegen, wie unfair es ist, dass sie gegen so junge Trainer mit derart überlegenen Pokémon antreten müssen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/YSmGoCq9RegvcbqJgeJEEc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GE/hzI3W-dAPxEW0viEu9paVN11D0vOEU7bIwzpEog4Q/pokemon_season05_ep22_ger-fbf4dbab345ad2012684cb9f382a508f97027101.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GE/hzI3W-dAPxEW0viEu9paVN11D0vOEU7bIwzpEog4Q/pokemon_season05_ep22_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8A/_6Z7t7Z4L9cX1g1mJjBsIjt5Jb01xV8rPuiAMdK6o/pokemon_season05_ep22_ger.mp4",
             "captions": "",
-            "size": 2655732719
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8A/_6Z7t7Z4L9cX1g1mJjBsIjt5Jb01xV8rPuiAMdK6o/pokemon_season05_ep22_ger.mp4"
         },
         {
             "id": "5255c5690c39489481ff24efe2b7d5bc",
@@ -417,16 +348,13 @@
             "title": "Vulnona im Nebel",
             "description": "Unsere Helden überqueren einen Berg, als ein Wetterumschwung sie zwingt, Unterschlupf zu suchen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UlXFaQw5SJQgf8k7-K31bw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tY/RvGLPLFyYqfBUeI2k4An8faWUVfiXvvneUbUPXUHU/pokemon_season05_ep23_ger-090d9762c5de555dca709ad4ce2cf8b4bdacba94.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tY/RvGLPLFyYqfBUeI2k4An8faWUVfiXvvneUbUPXUHU/pokemon_season05_ep23_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/VqvygZUPAwC5BJHWBQmpnHdD4yGOhtExToYe9sX8U/pokemon_season05_ep23_ger.mp4",
             "captions": "",
-            "size": 2546323850
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/VqvygZUPAwC5BJHWBQmpnHdD4yGOhtExToYe9sX8U/pokemon_season05_ep23_ger.mp4"
         },
         {
             "id": "610abf1b1acb45de88c2b4959654cb82",
@@ -435,16 +363,13 @@
             "title": "Rabauz macht Rabatz!",
             "description": "Ash und seine Freunde finden ein Rabauz, das versucht, ihnen alle Pokémon-Nahrungsmittel zu stehlen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YQq_GxrLRd4iMK0lZZUy4I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8s/zrESk2DQoPVySYDx8oz0O8eTqs8hwfzJfTuAhCHCU/pokemon_season5_ep24_ger-5a566d96123372d3c03ab3e0d6856b7330a7b0c3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8s/zrESk2DQoPVySYDx8oz0O8eTqs8hwfzJfTuAhCHCU/pokemon_season5_ep24_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ib/cbyMKMDdzgzKVz9Ai1HwfxYdP0SHcLdOcq_KHn58k/pokemon_season5_ep24_ger.mp4",
             "captions": "",
-            "size": 2448939191
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ib/cbyMKMDdzgzKVz9Ai1HwfxYdP0SHcLdOcq_KHn58k/pokemon_season5_ep24_ger.mp4"
         },
         {
             "id": "6bf2013dce2d4ff78ce773f3c0a0f970",
@@ -453,16 +378,13 @@
             "title": "Die Xatu und die Zukunft",
             "description": "Ash und die Freunde treffen ein Xatu. Dieses Pokémon kann angeblich in die Zukunft sehen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/a_IBPc4tT_cjOdz88Cg-XA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/rFQ7-tSufvvwU7NqfPMLpVbQ9wKhFazBrVUDVSjZw/pokemon_season05_ep25_ger-2d270b058477774b1066807dddbcb3f141c02b51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/rFQ7-tSufvvwU7NqfPMLpVbQ9wKhFazBrVUDVSjZw/pokemon_season05_ep25_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hj/kiKnUQ4JT4RMTBDkvIufVoA2KgoEF8tEgWDmvBPvs/pokemon_season05_ep25_ger.mp4",
             "captions": "",
-            "size": 2670051942
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hj/kiKnUQ4JT4RMTBDkvIufVoA2KgoEF8tEgWDmvBPvs/pokemon_season05_ep25_ger.mp4"
         },
         {
             "id": "51b858f586344a0193287f1a87fd0a4b",
@@ -471,16 +393,13 @@
             "title": "Gefährliche Radiowellen",
             "description": "Ash und seine Freunde entdecken ein rotes Garados. Durch Zufall decken sie einen Plan von Team Rocket auf, die mit üblen Mitteln in die Geheimnisse der Pokémon-Entwicklung eingreifen wollen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UbhY9YY0SgEkyh_Gof9Cks/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/YoGBHs3T9x1EXiFA4CGRL1xlrkHHgxAzgWWiX42Hg/pokemon_season05_ep26_ger-b51b77e4cf0f867f06a2d8e83ccf9712677fdfde.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/YoGBHs3T9x1EXiFA4CGRL1xlrkHHgxAzgWWiX42Hg/pokemon_season05_ep26_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JB/14LR5g2EnP_GfXQLPcC5BQmDLEPSTAG7NH7IYFKbU/pokemon_season05_ep26_ger.mp4",
             "captions": "",
-            "size": 2645879086
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JB/14LR5g2EnP_GfXQLPcC5BQmDLEPSTAG7NH7IYFKbU/pokemon_season05_ep26_ger.mp4"
         },
         {
             "id": "f30150df171946e7ab1a4d9d1a218ecc",
@@ -489,16 +408,13 @@
             "title": "Armes Garados!",
             "description": "Bevor sie Team Rockets Plan zum Erringen der Herrschaft über alle Pokémon auf der Welt verhindern können, müssen Ash und seine Freunde aus der Gefangenschaft entkommen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8wFQ3xcZRucqxpNnRohjsw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wl/lF6rrFygklysY_vwXViDEfzoRTT_-nnwHI0gq8U24/pokemon_season05_ep27_ger-897c6a81878563f39f62555a9527dc8fb952c12d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wl/lF6rrFygklysY_vwXViDEfzoRTT_-nnwHI0gq8U24/pokemon_season05_ep27_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0T/zy2CGOFMM6YZ281m6vB4K7zWxcmMplkY_cRhDlzok/pokemon_season05_ep27_ger.mp4",
             "captions": "",
-            "size": 2609203257
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0T/zy2CGOFMM6YZ281m6vB4K7zWxcmMplkY_cRhDlzok/pokemon_season05_ep27_ger.mp4"
         },
         {
             "id": "8ac908a7c07846c992e862c5da6f9bfe",
@@ -507,16 +423,13 @@
             "title": "Der eiskalte Norbert",
             "description": "Als Ash endlich in Mahagonia City ankommt, will er gleich um seinen nächsten Orden kämpfen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/iskIp8B4Rskkuhixdpvm_4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KQ/auHb5agODJycnky8g4xkMsXEhWWH232CmhKiczm6w/pokemon_season05_ep28_ger-c6a242ca483e79813e2a8e81b275fcc74d2a2408.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KQ/auHb5agODJycnky8g4xkMsXEhWWH232CmhKiczm6w/pokemon_season05_ep28_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/d1E-A1v8AJWHlzZI7El7m_JooYynyHNKGLFnczCow/pokemon_season05_ep28_ger.mp4",
             "captions": "",
-            "size": 2537190696
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/d1E-A1v8AJWHlzZI7El7m_JooYynyHNKGLFnczCow/pokemon_season05_ep28_ger.mp4"
         },
         {
             "id": "8c6ecb8ec94d4128adf9459b6c743c51",
@@ -525,16 +438,13 @@
             "title": "Der Eis-Preis",
             "description": "Nachdem Ash sich Norberts Respekt und die Erlaubnis für einen Arenakampf verdient hat, entscheidet er sich entgegen aller Vernunft dazu, das Feuer-Pokémon Feurigel in einer Eisarena einzusetzen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jG7LjslNQSgrflFm2x0PFE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d4/vQViZMniGb5D3c-i4kPwDl0MJHG6lJe3oYSwq4prM/pokemon_season05_ep29_ger-c7111c46217d0e4d4b28b7eb8bc26ce9242be84e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d4/vQViZMniGb5D3c-i4kPwDl0MJHG6lJe3oYSwq4prM/pokemon_season05_ep29_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UL/-vAGnZbxI9ujAdXDMZf81dMr1sQ9EoGJe8wcslEwQ/pokemon_season05_ep29_ger.mp4",
             "captions": "",
-            "size": 2593051600
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UL/-vAGnZbxI9ujAdXDMZf81dMr1sQ9EoGJe8wcslEwQ/pokemon_season05_ep29_ger.mp4"
         },
         {
             "id": "eead8a348e944bdead4b475d64c2e7ef",
@@ -543,16 +453,13 @@
             "title": "Von wo der Wind weht",
             "description": "Ash nimmt sich keine Zeit, seinen Sieg richtig zu feiern. Stattdessen steuert er gleich die nächste Arena in Ebenholz City an.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7q2KNI6US94rUtHXWTC5-8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HA/_lTun7HvaKxeK9Vx2zKgwyY7-rPA-lemyopPNAyWA/pokemon_season05_ep30_ger-022f0c4844058a3a5cd0e3a6c5f45feddd66e029.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HA/_lTun7HvaKxeK9Vx2zKgwyY7-rPA-lemyopPNAyWA/pokemon_season05_ep30_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gd/h_394jHlE55fWSzpGMHG1iVPJzQxYvk6C71vlr2-s/pokemon_season05_ep30_ger.mp4",
             "captions": "",
-            "size": 2662319726
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gd/h_394jHlE55fWSzpGMHG1iVPJzQxYvk6C71vlr2-s/pokemon_season05_ep30_ger.mp4"
         },
         {
             "id": "1c733b44334e4e32b6107b783e9ebd6f",
@@ -561,16 +468,13 @@
             "title": "Manche mögen's heiß!",
             "description": "Ash, Misty und Rocko müssen auf dem Weg zum Erfolg jede Menge Hindernisse überwinden – sowohl im übertragenden, als auch im herkömmlichen Sinne. Dazu gehört auch ein riesiges Magcargo, das die Reisegruppe nicht passieren lassen will.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HHM7RDNOTjIthB7eD6evW8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t_/qE31vB2A9Vjui3j39oiioGBDyLrFirUVRQxjEUx8g/pokemon_season05_ep31_ger-e93903b7aaea2c3820cf1a7ae6bf12a02c70318b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t_/qE31vB2A9Vjui3j39oiioGBDyLrFirUVRQxjEUx8g/pokemon_season05_ep31_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/04/3Xn2uabp1_-qwjMzWLD0lrUbuIYWMpPVnDSrjCzTk/pokemon_season05_ep31_ger.mp4",
             "captions": "",
-            "size": 2619563549
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/04/3Xn2uabp1_-qwjMzWLD0lrUbuIYWMpPVnDSrjCzTk/pokemon_season05_ep31_ger.mp4"
         },
         {
             "id": "79b68579b71347e3b45cd9cc77f75c45",
@@ -579,16 +483,13 @@
             "title": "Hokus Pokémon!",
             "description": "Rocko trifft nur selten ein Mädchen, das ihn nicht verzaubert. Aber bei dieser besonderen jungen Dame können auch Ash und Misty eine gewisse Magie nicht leugnen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ebaFebcTR-MtFzZzHf3XEU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3w/0tMCJM8kpqiS7h3n0CPrtBtVBVJxOXFh0ZR6ffAeg/pokemon_season05_ep32_ger-0bd1187df5825180d032b8658b66ea0dfc697e99.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3w/0tMCJM8kpqiS7h3n0CPrtBtVBVJxOXFh0ZR6ffAeg/pokemon_season05_ep32_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a2/D69JWSunA4UbFNpEJ55jZ3UjZU7j7MFyTH26A67vA/pokemon_season05_ep32_ger.mp4",
             "captions": "",
-            "size": 2621016123
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a2/D69JWSunA4UbFNpEJ55jZ3UjZU7j7MFyTH26A67vA/pokemon_season05_ep32_ger.mp4"
         },
         {
             "id": "85a53dbdb721483ebb1176e2dd4c7829",
@@ -597,16 +498,13 @@
             "title": "Kristallklare Sache",
             "description": "Nach einem Kampf gegen Team Rocket ist Pikachu schrecklich erschöpft. Jemand bietet an, Pikachus Energie aufzufrischen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/haU9vbchSD4uxF24t1MeCk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i8/KoUXvEJCW6Mraw9sS3AmPvb1U3CM7RTe3-EGx6eG4/pokemon_season05_ep33_ger-b5442329b406c59a03a52a259d09c3bf5c083655.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i8/KoUXvEJCW6Mraw9sS3AmPvb1U3CM7RTe3-EGx6eG4/pokemon_season05_ep33_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6K/TQeQU1Y1tRs_YGN7C5ty4Oh4zUKWZdtvLMAanLmfM/pokemon_season05_ep33_ger.mp4",
             "captions": "",
-            "size": 2638685294
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6K/TQeQU1Y1tRs_YGN7C5ty4Oh4zUKWZdtvLMAanLmfM/pokemon_season05_ep33_ger.mp4"
         },
         {
             "id": "4b59ac3034044b5a91786bcd5d8cd713",
@@ -615,16 +513,13 @@
             "title": "Das alte Lied…",
             "description": "Während der Reise treffen Ash und die Freunde ein junges Mädchen, das mit seinen beiden Fluffeluffs ein musikalisches TV-Programm veranstaltet.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S1msMDQES1okXhrzV2M1xM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fw/97D_morfECOpJv70BH4MaAtdQYH2fgXi6Y_4A9N6Y/pokemon_season05_ep34_ger-0e01c032b376d8fd7593d9a569e23c6b86b167b3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fw/97D_morfECOpJv70BH4MaAtdQYH2fgXi6Y_4A9N6Y/pokemon_season05_ep34_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QL/TU1efhNStF4vzlTM8B6yRepTZBQqorb4jjBJufSvo/pokemon_season05_ep34_ger.mp4",
             "captions": "",
-            "size": 2645719791
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QL/TU1efhNStF4vzlTM8B6yRepTZBQqorb4jjBJufSvo/pokemon_season05_ep34_ger.mp4"
         },
         {
             "id": "983c2506216345129db38fad40994a30",
@@ -633,16 +528,13 @@
             "title": "Erleuchtung für alle!",
             "description": "Als Ash und seine Freunde sich dem Ort für den achten Orden nähern, fallen sie einer Falle von Team Rocket zum Opfer.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/mDwlBiFjRRInbOPrUCZSjA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q0/bUmeVBZjUVeENa-D0ED79MMcDlNtKs_qTie4Ebsxw/pokemon_season05_ep35_ger-7f1444875c894be5323caeea1ef9cc55264963f1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q0/bUmeVBZjUVeENa-D0ED79MMcDlNtKs_qTie4Ebsxw/pokemon_season05_ep35_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6q/xDXto1H6dh3jw7c2PLd8GE0_0oF2nd-AJDEV1wQcE/pokemon_season05_ep35_ger.mp4",
             "captions": "",
-            "size": 2570191513
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6q/xDXto1H6dh3jw7c2PLd8GE0_0oF2nd-AJDEV1wQcE/pokemon_season05_ep35_ger.mp4"
         },
         {
             "id": "11c65e853ad2424d98e742737c86efbd",
@@ -651,16 +543,13 @@
             "title": "Der Poké-Reim-Battle",
             "description": "Als Jessie und James vom Team Rocket von einem vornehmen Empfang für Gastgeber und Gast einer Radiosendung mit Livepublikum erfahren, geben sie sich als die angekündigten Berühmtheiten aus.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/EcZehTrSQk0mOdCc3yG770/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wa/Q361UBJ4lIPyVM3FsWhEJuVgirJBesLXIfwWw1YaQ/pokemon_season05_ep36_ger-aea72f0157cafbab130d7701fb23211441ffae80.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wa/Q361UBJ4lIPyVM3FsWhEJuVgirJBesLXIfwWw1YaQ/pokemon_season05_ep36_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c7/gC6r7cw6wlu39FPGTzeGMWKpbOIljMJE2AX29d6M0/pokemon_season05_ep36_ger.mp4",
             "captions": "",
-            "size": 2575261470
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c7/gC6r7cw6wlu39FPGTzeGMWKpbOIljMJE2AX29d6M0/pokemon_season05_ep36_ger.mp4"
         },
         {
             "id": "6a7241ef938e407587dcbb0cd0d9e7bc",
@@ -669,16 +558,13 @@
             "title": "Vom Himmel gefallen",
             "description": "Ash, Misty und Rocko sind allein auf Reisen, als sie einen seltsamen Stern vom Himmel fallen sehen. Als sie sich auf den Weg dorthin machen, stellen sie fest, dass es noch andere Augenzeugen gibt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/anJB75OOQHUh9y7DNDZ57w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m7/ZzhKl4Fx_pp6atsLlJC2gnAL5vs-8fRIduuqhRV-4/pokemon_season05_ep37_ger-48ad4c1741f214f4bbb6a8dcde7f91ecea2636e8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m7/ZzhKl4Fx_pp6atsLlJC2gnAL5vs-8fRIduuqhRV-4/pokemon_season05_ep37_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iv/eEw_ZSn_Gxcledhu9R1Al_9PsALJ7jrxAMKpRPzQ8/pokemon_season05_ep37_ger.mp4",
             "captions": "",
-            "size": 2579071688
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iv/eEw_ZSn_Gxcledhu9R1Al_9PsALJ7jrxAMKpRPzQ8/pokemon_season05_ep37_ger.mp4"
         },
         {
             "id": "657926a3db394e1d8ee61f6c3a826e68",
@@ -687,16 +573,13 @@
             "title": "Böse Zukunft",
             "description": "Ein stolzer Pokémon-Trainer fordert alle Ankömmlinge heraus, gegen sein Quappo anzutreten. Misty und Ash nehmen die Herausforderung nur zu gerne an.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ZXkmo9s5Th0juYfbDqCbmg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/15/l94XbEgKPpeSHAgd_i_pumCB__Cdn1xQDvtvWa7zw/pokemon_season05_ep38_ger-4ff82abc61621508a13bd633aea0d9aa90f34fc2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/15/l94XbEgKPpeSHAgd_i_pumCB__Cdn1xQDvtvWa7zw/pokemon_season05_ep38_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/az/6o-96bdqZYfgJdFY3El3PiJ_aVy7YprLndjo4NvX4/pokemon_season05_ep38_ger.mp4",
             "captions": "",
-            "size": 2639831036
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/az/6o-96bdqZYfgJdFY3El3PiJ_aVy7YprLndjo4NvX4/pokemon_season05_ep38_ger.mp4"
         },
         {
             "id": "34aae405f64c4279bce08e8eede15aec",
@@ -705,16 +588,13 @@
             "title": "Abenteuer im Park!",
             "description": "Eine Trainerin, die gegen Ash verliert, empfiehlt ihm wegen seiner Kampfbegeisterung einen Besuch im örtlichen Pokémon-Trainingspark.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/NKrkBfZMQnkvOCOju3hWuw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MP/y4-X4Cq0npmQh7RhC0dtmOoXwnWYz2BAHfAl-5KvA/pokemon_season05_ep39_ger-3ceaa67c22adcd30977e6d4f977801c1a4329d6d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MP/y4-X4Cq0npmQh7RhC0dtmOoXwnWYz2BAHfAl-5KvA/pokemon_season05_ep39_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dc/BSn2I0PwrXoaNGwl20iPUJkYfvTZjwxMaJxrldv74/pokemon_season05_ep39_ger.mp4",
             "captions": "",
-            "size": 2561213738
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dc/BSn2I0PwrXoaNGwl20iPUJkYfvTZjwxMaJxrldv74/pokemon_season05_ep39_ger.mp4"
         },
         {
             "id": "ff0c6c4935d8492ab9590c7d73b91827",
@@ -723,16 +603,13 @@
             "title": "Folgenschwere Verwechslung",
             "description": "Als Ash, Misty und Rocko kurz Rast machen, läuft Quaxo herum und wird versehentlich von einer anderen Trainerin mitgenommen. Der Grund für die Verwechslung: Sie besitzt ebenfalls ein Quaxo als Taktgeber in ihrem Pokémon-Cheerleader-Team.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/_wxsSTXYSSouVkMfXO5GCc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uC/i9kqYTyru-6I-qtj-2_RbRHww6ShPpTPWXo6mcH9o/pokemon_season05_ep40_ger-7c9e8056e2397877c5b1303e6e73eca580d7c0eb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uC/i9kqYTyru-6I-qtj-2_RbRHww6ShPpTPWXo6mcH9o/pokemon_season05_ep40_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ae/miX9HwsPp8Qjmxd5IIedrls13Tz_GBHBoN8n9qVXw/pokemon_season05_ep40_ger.mp4",
             "captions": "",
-            "size": 2613376875
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ae/miX9HwsPp8Qjmxd5IIedrls13Tz_GBHBoN8n9qVXw/pokemon_season05_ep40_ger.mp4"
         },
         {
             "id": "3ab9d4a1ae414f219171b319ad0ceee1",
@@ -741,16 +618,13 @@
             "title": "Porentief rein",
             "description": "Frisch am Rand von Ebenholz City angekommen, will Ash gleich weiter in Richtung Arena laufen, um seinen letzten Johto-Orden zu erringen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/OrnUoa5BTyEkXGzGa0M7uE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G4/BIyfinwOJp47S2h6m9puaReRsTPZCoqtPFKlM1DJM/pokemon_season05_ep41_ger-d410a523600e964222fccac1cc3356e077b5638a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G4/BIyfinwOJp47S2h6m9puaReRsTPZCoqtPFKlM1DJM/pokemon_season05_ep41_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LK/O2v9Dq-l7t8cMO04xX6XBpVkEuBbJWFPHqyRuRSxU/pokemon_season05_ep41_ger.mp4",
             "captions": "",
-            "size": 2629400232
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LK/O2v9Dq-l7t8cMO04xX6XBpVkEuBbJWFPHqyRuRSxU/pokemon_season05_ep41_ger.mp4"
         },
         {
             "id": "467b195b4d0248aebc59cf4c2dbb9357",
@@ -759,16 +633,13 @@
             "title": "Der Drachenzahn von Ebenholz",
             "description": "Kaum hat Ash seinen vermeintlich letzten Arenakampf in der Johto-Liga gewonnen, durchkreuzt Team Rocket wieder einmal seine Pläne und klaut den Drachenzahn.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RnsZW00CSK4vFnPTC27k1c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hX/VrQqcqUSOmmQ3lh_kM3FRc254z9R-zSrZCyZWEO3I/pokemon_season05_ep42_ger-0f0edb2e311427cd66c396530096c6aa401614fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hX/VrQqcqUSOmmQ3lh_kM3FRc254z9R-zSrZCyZWEO3I/pokemon_season05_ep42_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A3/t4BCtdiapiPVkYITzO-guFrPexIUM3zR0C2QzfPIY/pokemon_season05_ep42_ger.mp4",
             "captions": "",
-            "size": 2618380597
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A3/t4BCtdiapiPVkYITzO-guFrPexIUM3zR0C2QzfPIY/pokemon_season05_ep42_ger.mp4"
         },
         {
             "id": "1212d04380424279a72d0132790bb748",
@@ -777,16 +648,13 @@
             "title": "Das rasende Dragoran",
             "description": "Direkt nach Betreten eines Gebiets, das von den dort lebenden Drachen-Pokémon als heilig angesehenen wird, setzt Team Rocket eine Reihe von Ereignissen in Gang, die den Dragoran-Wächter dort erzürnen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/EhLQQ4BCQnkpy0BMnkLt0g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/__/euunpRVHUNZd4jiizxJSY-lrWhixqS8EMoi3c3A_Y/pokemon_season05_ep43_ger-7a54d86caf5c9e778d815d672a87554e0d88a930.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/__/euunpRVHUNZd4jiizxJSY-lrWhixqS8EMoi3c3A_Y/pokemon_season05_ep43_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aA/l-ltdtp-8StfEm3quTw7lwOBIo_a9Z2z6PViFauE8/pokemon_season05_ep43_ger.mp4",
             "captions": "",
-            "size": 2628055336
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aA/l-ltdtp-8StfEm3quTw7lwOBIo_a9Z2z6PViFauE8/pokemon_season05_ep43_ger.mp4"
         },
         {
             "id": "b2b802851da944acaf7e0d3d75c9186a",
@@ -795,16 +663,13 @@
             "title": "Orden Nummer 8!",
             "description": "Nachdem wieder Ruhe in der Ebenholz-Arena eingekehrt ist, stehen Ash und Sandra einander im Kampf gegenüber.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/srgChR2pRKwr34NPXXJGGo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N_/GzHziYzWoi8qfqSqTBZjeuPdhFp5--Rk9Bi1LHQxI/pokemon_season05_ep44_ger-84f2655718448a1637cc365f47e83998151d05d8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N_/GzHziYzWoi8qfqSqTBZjeuPdhFp5--Rk9Bi1LHQxI/pokemon_season05_ep44_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/go/0D8CFbhd9uTbA2aD9VCCFMqrwOIFaQWeF1BjdmTds/pokemon_season05_ep44_ger.mp4",
             "captions": "",
-            "size": 2554602743
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/go/0D8CFbhd9uTbA2aD9VCCFMqrwOIFaQWeF1BjdmTds/pokemon_season05_ep44_ger.mp4"
         },
         {
             "id": "a2af3ca2bf084ae7a31b5f5b31d2277a",
@@ -813,16 +678,13 @@
             "title": "Die Orden sind weg!",
             "description": "Nachdem er Sandra besiegt und seinen achten Arenaorden erhalten hat, muss Ash sich auf den Weg zur Meisterschaft der Johto-Liga machen, die in drei Monaten am Silberberg stattfindet.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/oq88or8ISucoxtfWzHSJ3o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vc/PYKKO4_e0XpucG-McA4WQxsz4-SSrdB2JdNaJ6xJs/pokemon_season05_ep45_ger-6a91f13cbbf82eb63ae76143b68ddb8ebc0b3b7c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vc/PYKKO4_e0XpucG-McA4WQxsz4-SSrdB2JdNaJ6xJs/pokemon_season05_ep45_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zB/_j5O7cQjYMgDaWbCkdmSNceJoKWuR7tzB8-4vbV5M/pokemon_season05_ep45_ger.mp4",
             "captions": "",
-            "size": 2629165142
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zB/_j5O7cQjYMgDaWbCkdmSNceJoKWuR7tzB8-4vbV5M/pokemon_season05_ep45_ger.mp4"
         },
         {
             "id": "dcf007e76ca4439db50ae8b22e44afd0",
@@ -831,16 +693,13 @@
             "title": "Pure Enton-Power",
             "description": "Auf dem Rückweg nach Neuborkia machen Ash und seine Freunde Rast am Meer. Dort entdecken sie ein Hinweisschild für ein Pokémon-Synchronschwimmen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/3PAH52ykQ50tQrosi5Er9A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rp/B_3rJqJw7hlKsj-ji3ddsgShvtMDz1hCAt8qgU0Y4/pokemon_season05_ep46_ger-d5f30236f88cbb2877e5c315dc9fcdd5ce398f56.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rp/B_3rJqJw7hlKsj-ji3ddsgShvtMDz1hCAt8qgU0Y4/pokemon_season05_ep46_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-F/QslZqblBUPUv9sbANEe3GcimttII8e_bfay7bai7E/pokemon_season05_ep46_ger.mp4",
             "captions": "",
-            "size": 2661715697
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-F/QslZqblBUPUv9sbANEe3GcimttII8e_bfay7bai7E/pokemon_season05_ep46_ger.mp4"
         },
         {
             "id": "ca05b6851f7240848a63eee50c60194e",
@@ -849,16 +708,13 @@
             "title": "Wiedersehen mit Ärger",
             "description": "Ash und seine Freunde kehren nach Neuborkia zurück, wo Professor Lind sie bittet, ein Pokémon-Ei im nahegelegenen Pokémon-Meeresforschungszentrum abzuholen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ygW2hR9yQIQimPu5QxgGU4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pu/q0BW6N1h_G99tEwYshNWvIVEooA-PYNPYYzAHMINg/pokemon_season05_ep47_ger-7fa0ca4913c5e762b0c94624eb1b1ecaa38f896f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pu/q0BW6N1h_G99tEwYshNWvIVEooA-PYNPYYzAHMINg/pokemon_season05_ep47_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/CAD-RGmuUN64BZtSNr_H90vlTk8rya2Ms8FUfSe5Y/pokemon_season05_ep47_ger.mp4",
             "captions": "",
-            "size": 2592305911
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/CAD-RGmuUN64BZtSNr_H90vlTk8rya2Ms8FUfSe5Y/pokemon_season05_ep47_ger.mp4"
         },
         {
             "id": "e32a16ffeede4852b0c76de340cdf419",
@@ -867,16 +723,13 @@
             "title": "Fang das Larvitar",
             "description": "Die Frage, welches Pokémon sich in dem Ei verbirgt, das Ash und die Freunde für Professor Lind geholt haben, wird beim Schlüpfen eines Larvitar beantwortet.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/4yoW_-7eSFIsMdt40DN9Bk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wo/8vmyDQ7LYTcwFfh3JH-v52YNd3ErOfxGJkWfQNZ14/pokemon_season05_ep48_ger-b811345dda901c9aa0a879e1aa23a85fe23b21e6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wo/8vmyDQ7LYTcwFfh3JH-v52YNd3ErOfxGJkWfQNZ14/pokemon_season05_ep48_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V4/FgygTyO59hZ_mjYliu7Flmnot1KHJPuHuYaYnhqTY/pokemon_season05_ep48_ger.mp4",
             "captions": "",
-            "size": 2593169644
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V4/FgygTyO59hZ_mjYliu7Flmnot1KHJPuHuYaYnhqTY/pokemon_season05_ep48_ger.mp4"
         },
         {
             "id": "de46dcc8d28b419fa1b1b00875785541",
@@ -885,16 +738,13 @@
             "title": "Das legendäre Entei",
             "description": "Ash und seine Freunde sind weiter mit ihrem Larvitar unterwegs. Es bleibt weiterhin scheu gegenüber anderen Pokémon und Menschen – vor allem Misty traut es nicht.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/3kbcyNKLQZ8obGwCHV4VUE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DC/XbMgUw1HeVpYyrAGoDNCofucIwCmnW_z6sL5RWyPA/pokemon_season05_ep49_ger-b0c92d5686b77785d4f61cd5192370d87e324704.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DC/XbMgUw1HeVpYyrAGoDNCofucIwCmnW_z6sL5RWyPA/pokemon_season05_ep49_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aQ/SetlGvjpJrGe6f7FWLQkUQ_RFRS6a8pMEOnlPwRrs/pokemon_season05_ep49_ger.mp4",
             "captions": "",
-            "size": 2637991813
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aQ/SetlGvjpJrGe6f7FWLQkUQ_RFRS6a8pMEOnlPwRrs/pokemon_season05_ep49_ger.mp4"
         },
         {
             "id": "ce48d6bcae8b4ea4abbc003632cdabcf",
@@ -903,16 +753,13 @@
             "title": "Auf der Suche nach dem Paradies",
             "description": "Rocko führt Ash und Misty zu einem schönen See, über den er in seinem Reiseführer etwas gelesen hat. Doch wo der See sein sollte, ist nur ein ausgetrockneter Fluss zu sehen, um den einige durstige Flegmons versammelt sind.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/zkjWvK6LTqQq7wANjLNq88/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ix/zFM6WXDeyW7wiQeSLAN3iPObPZ4SoeQ7ziILFtGLk/pokemon_season05_ep50_ger-40c313ee6dea07b29586ddcada53bfa3e987eee7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ix/zFM6WXDeyW7wiQeSLAN3iPObPZ4SoeQ7ziILFtGLk/pokemon_season05_ep50_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BR/cqcBqtEdCixeHk4NLS2EP6EPzWXIK4Vev4Amne39k/pokemon_season05_ep50_ger.mp4",
             "captions": "",
-            "size": 2636445496
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BR/cqcBqtEdCixeHk4NLS2EP6EPzWXIK4Vev4Amne39k/pokemon_season05_ep50_ger.mp4"
         },
         {
             "id": "8e802696d37649c2904bc35f0265ef3b",
@@ -921,16 +768,13 @@
             "title": "Elekid ist weg!",
             "description": "Ein Elekid quält gerade ein hilfloses Larvitar, als Team Rocket kommt und die beiden seltenen Pokémon in einem Stahlnetz fängt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/joAmltN2ScIkEvDXwJl7zs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7T/r5ZQVVvG2SuJERqz7Ab239TnJoCw_124JRA_Q9IGA/pokemon_season05_ep51_ger-b23be3976c619b50b5396e9597bf617f4b368db9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7T/r5ZQVVvG2SuJERqz7Ab239TnJoCw_124JRA_Q9IGA/pokemon_season05_ep51_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F0/u6oSs-SlxiFvr7Dr87rJdQXVKUh_pLv2AvJJ5hoXM/pokemon_season05_ep51_ger.mp4",
             "captions": "",
-            "size": 2562365318
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F0/u6oSs-SlxiFvr7Dr87rJdQXVKUh_pLv2AvJJ5hoXM/pokemon_season05_ep51_ger.mp4"
         },
         {
             "id": "8bec551b7d3d43089757416e9c2bc0dc",
@@ -939,16 +783,13 @@
             "title": "Larvitar – Superstar!",
             "description": "Ash und seine Freunde melden sich bei Professor Lind, als sie den Fuß des Silberbergs erreichen. Dort möchten sie das Larvitar wieder an seinen Geburtsort bringen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/i-xVG309Qwgl1dBbpwrwNw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4z/TvAFv0F879rQx3MoStoltXOlr0MGMU5ODVsEQpeJk/pokemon_season05_ep52_ger-bc291a08ac288b71e6775359af5306f302a42e22.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4z/TvAFv0F879rQx3MoStoltXOlr0MGMU5ODVsEQpeJk/pokemon_season05_ep52_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N1/3xcrBkJCtAKcNwE9tNmXv0VgQUJ3wkm9h7GePMxIc/pokemon_season05_ep52_ger.mp4",
             "captions": "",
-            "size": 2629074471
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N1/3xcrBkJCtAKcNwE9tNmXv0VgQUJ3wkm9h7GePMxIc/pokemon_season05_ep52_ger.mp4"
         },
         {
             "id": "50db142f68094ae9a848c6ded49d9173",
@@ -957,16 +798,13 @@
             "title": "Geheimnisvolles Icognito",
             "description": "Ein verirrtes Icognito knüpft mit Lavitar Freundschaft. Als unsere Freunde aus Sicherheitsgründen von Icognito in eine andere Dimension teleportiert werden, schaffen sie es, Lavitar von seinen Ängsten zu befreien.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UNsUL2gJSukqEjG3tSdkXM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kd/tpxrOfRfiWkl4xVMqIkBDmvgvWueJqpw3MpkQY_OY/pokemon_season06_ep01_ger-15377d351e9255cec8fe588aae26ad76bc327ab0.m3u8",
             "poketv_url": "*",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/d5gcf5HXRssF2yB75BTr4tiJi45M4YjWfEH-5l29w/pokemon_season06_ep01_ger.mp4",
             "captions": "",
-            "size": 1132378736
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/d5gcf5HXRssF2yB75BTr4tiJi45M4YjWfEH-5l29w/pokemon_season06_ep01_ger.mp4"
         },
         {
             "id": "1574c8ce7fc443ff9bf45b68d6247aab",
@@ -975,16 +813,13 @@
             "title": "Glücklich vereint",
             "description": "Im Nationalpark treffen Ash, Misty und Rocko zusammen mit Lavitar auf ein Despotar. Die Situation ist sehr gefährlich, aber letztendlich erkennt Despotar, dass es sich bei Lavitar um ihr Junges handelt. Unsere Freunde haben sich kaum vom ersten Schock erholt, als sie plötzlich von den Pokémon-Wilderern bedroht werden. Schließlich gesellt sich auch noch Team Rocket dazu und es entwickelt sich ein Kampf um die Vorherrschaft im Nationalpark!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/FXTIzn_EQ_8m_RbaNYkeqs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xN/sK7Jd8shXoD4JZCx5qN1HQWuik748j6BeudS0xkUU/pokemon_season06_ep02_ger-f05942ea90a55206184c0a937e9ccb0632e21ffa.m3u8",
             "poketv_url": "*",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XU/B7z9rLA6qi3OjEi15oAOWc-aFNxMntrFx9yvQJWF8/pokemon_season06_ep02_ger.mp4",
             "captions": "",
-            "size": 1362045756
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XU/B7z9rLA6qi3OjEi15oAOWc-aFNxMntrFx9yvQJWF8/pokemon_season06_ep02_ger.mp4"
         },
         {
             "id": "27fbe48b19314c509351b881d3833e56",
@@ -993,16 +828,13 @@
             "title": "Ein Sniebel geht um",
             "description": "Auf dem Weg nach Silber City zur Silberkonferenz machen unsere Freunde am Ho-Oh-Schrein halt. Sie erfahren, dass die Fackel, die zur Konferenz gebracht werden soll, nicht entzündet werden kann, da die dazu benötigte Flamme von einem wilden Sniebel bewacht wird. Zwischen unseren Helden und Team Rocket entbrennt ein heftiger Kampf. Welche Strategie wird den Weg zum Schrein frei machen?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/J_vkixkxTFAk1G4gdODPlY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pk/oypA-8cHjEW21dJIIBIlvtl8p6pQpVuqWOvnsAFs8/pokemon_season06_ep03_ger-ec44293c58f906ccb7aafb29a7173bf38c458c55.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iP/7afK2SFEHyRRGfiiJqj17Bb841Da2hkpJ9HWchjM0/pokemon_season06_ep03_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LC/aTijA2Huoz4RHg_VYL47vhCK7yntLE0IfO5O8rrRw/pokemon_season06_ep03_ger.mp4",
             "captions": "",
-            "size": 2609930449
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LC/aTijA2Huoz4RHg_VYL47vhCK7yntLE0IfO5O8rrRw/pokemon_season06_ep03_ger.mp4"
         },
         {
             "id": "a56acb7e797b40d496968f6a335d124a",
@@ -1011,16 +843,13 @@
             "title": "Die Flamme des Ho-Oh",
             "description": "In Silber City trifft Ash auf seinen Erzrivalen und Freund Gary. Beide nehmen an den Sichtungskämpfen teil, um sich für das Siegerturnier zu qualifizieren. Sie schaffen es beide bis ins Halbfinale. Bevor es am nächsten Tag weitergeht, unterhalten sich die alten Freunde über ihre gemeinsame Zeit in Alabastia. Als die Zuschauer auf die Ankunft der Fackel und den Beginn der Silberkonferenz warten, kommt es durch Team Rocket, die wieder mal ihr Unwesen treiben, fast zu einem großen Unglück.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pWrLfnl7QNQlpaPajNdEko/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gh/yc1zLL0JuxYVc-__59a5UO4uEE-cwsbFIoskXmjhE/pokemon_season06_ep04_ger-9d1452314b9f5023333f8ca1af605903fb3e5356.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EG/490Hwxl-M3RZm4tt-i5JgMXk6Gai9GH5cywhMLp3k/pokemon_season06_ep04_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kb/WCZHc64mBTscCpQrTOSUN-aR-S4Yp7_r9eRqZQaTU/pokemon_season06_ep04_ger.mp4",
             "captions": "",
-            "size": 2609699519
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kb/WCZHc64mBTscCpQrTOSUN-aR-S4Yp7_r9eRqZQaTU/pokemon_season06_ep04_ger.mp4"
         },
         {
             "id": "d2646b4907704e27af1a5028b8d8edb1",
@@ -1029,16 +858,13 @@
             "title": "Schiggy für Ash!",
             "description": "Nach einigen Zwischenfällen kann sich Ash endlich auf seine Kämpfe in der Gruppe H des Silberkonferenz-Turniers konzentrieren. Zufälligerweise lernt er schon vorher seine erste Gegnerin Macy kennen, die sich, obwohl sie Konkurrenten sind, in Ash verguckt. Als es dann endlich zwischen den beiden zum Kampf kommt, werden die Zuschauer Zeugen eines unglaublichen Strategiespiels.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0mRrSQdwTicrxpQKLjY7bE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rG/VpGIWhXcHRSv2Kz6OM6jEr52OhKcC6C1mP1sVBIw0/pokemon_season06_ep05_ger-1e8e43fbac93a9ab613445f6c1ab17ec0db0e7c0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cx/fap1zuQhF6YDpemAppiE8qqA9mO9MwmclEH4bvrug/pokemon_season06_ep05_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8D/IXv1qKfB6HEXUNGMqFYGVjip--0TH2-uw8H7qy7VM/pokemon_season06_ep05_ger.mp4",
             "captions": "",
-            "size": 2620796045
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8D/IXv1qKfB6HEXUNGMqFYGVjip--0TH2-uw8H7qy7VM/pokemon_season06_ep05_ger.mp4"
         },
         {
             "id": "031f358cb36c41c0b33ccb6dd3c6bcf3",
@@ -1047,16 +873,13 @@
             "title": "Ein entschiedenes Unentschieden",
             "description": "Als die Johto-Liga-Silberkonferenz beginnt, tritt Ash gegen Jackson aus Neuborkia an. Ash freut sich auf den Kampf – sein Bisasam freut sich noch viel mehr.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ax81jLNsQcAszzLbdPGvPM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2y/EwrueqWkl2RshTqRBtiEEG_0jQiAGHndfa7Lx4bCU/pokemon_season06_ep06_ger-575d015b7e009c65f68aa0e821c6c438397f345b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/in/HS5nRt3DN9_KRaRPypxE1JTmox7tQ51cGSvMy3nMU/pokemon_season06_ep06_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tI/fiABa6_wp2Itd5rnkDx9Bspyd_8DCMB_xC7WrQfM4/pokemon_season06_ep06_ger.mp4",
             "captions": "",
-            "size": 2620833145
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tI/fiABa6_wp2Itd5rnkDx9Bspyd_8DCMB_xC7WrQfM4/pokemon_season06_ep06_ger.mp4"
         },
         {
             "id": "ba6c7871ea7345d787fb9a075996500c",
@@ -1065,16 +888,13 @@
             "title": "Alte Rivalen",
             "description": "Ash steht im Rahmen der Johto-Liga-Silberkonferenz kurz vor dem Kampf gegen seinen alten Rivalen Gary. Er ist entschlossen, sich den Sieg zu holen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/umx4cepzRdch_uaB1mWUAw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HU/FUsU1RGNIBqwH7vvIjDoDvzHwboY50RufD5zyWC78/pokemon_season06_ep07_ger-1c14d812fe5b754487026782ee893b5005418439.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kz/HYWBSo4UL1ffluRwL4Bs7AyEmOT4L4eXtoo8Wg2Z8/pokemon_season06_ep07_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sn/C0Xeq3ELFF6dhIbDPL2_peiPSn6xxghKuMcZn_KpU/pokemon_season06_ep07_ger.mp4",
             "captions": "",
-            "size": 2632666328
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sn/C0Xeq3ELFF6dhIbDPL2_peiPSn6xxghKuMcZn_KpU/pokemon_season06_ep07_ger.mp4"
         },
         {
             "id": "dbe838c2870d47f584321ed343e183f7",
@@ -1083,16 +903,13 @@
             "title": "In der Hitze des Gefechts",
             "description": "Unser Held befindet sich mitten im ersten Kampf des Meisterschaftsturniers der Johto-Liga-Silberkonferenz. Sein Gegner ist kein geringerer als sein alter Rivale Gary.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/2-g4wocNR_UhDIe00Phg_c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i2/LJjYL_cJXBr2rk3EaxFyOS72MYHnacFkmmgE_hNIc/pokemon_season06_ep08_ger-28c6c424c188aec73dae37de37c7990b871c5c6b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t1/Pm0I528vwgdresgDv2180bWJDKs0Br0Hxwt1Z_BKA/pokemon_season06_ep08_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/VscTeWa5vIRF5CNK1HXQQKeS0GFfBZgzC8EyveNHc/pokemon_season06_ep08_ger.mp4",
             "captions": "",
-            "size": 2615284721
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/VscTeWa5vIRF5CNK1HXQQKeS0GFfBZgzC8EyveNHc/pokemon_season06_ep08_ger.mp4"
         },
         {
             "id": "0c4aef9c3fee40cfa02a12072e49866a",
@@ -1101,16 +918,13 @@
             "title": "Spiel mit dem Feuer!",
             "description": "Ash kämpft in der Johto-Liga-Silberkonferenz gegen Harrison aus Hoenn. Der Kampf ist ziemlich ausgewogen, doch dann schaltet Harrison nacheinander Karnimani, Relaxo und Noctuh aus.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DErvnD_uQM8oCoSBy5Jhmo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qi/ObML5sI-MIINO1eBqCe0LWyrvYVxRqgkhpmKfSJdE/pokemon_season06_ep09_ger-61947bd98a46a7815909f675cfff42c268b6e1ca.m3u8",
             "poketv_url": "*",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b0/LAGUQ_9UFtWujGvJIlmwbef9gUde2Ss8027KT2gzk/pokemon_season06_ep09_ger.mp4",
             "captions": "",
-            "size": 1599157750
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b0/LAGUQ_9UFtWujGvJIlmwbef9gUde2Ss8027KT2gzk/pokemon_season06_ep09_ger.mp4"
         },
         {
             "id": "4b9aedbe2bb046e7bb59519425fc9824",
@@ -1119,16 +933,13 @@
             "title": "Zeit des Abschieds",
             "description": "Unser Held nähert sich dem Ende eines schweren Kampfes gegen Harrison während der Johto-Liga-Silberkonferenz. Der Sieger dieser Auseinandersetzung kommt ins Halbfinale.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S5rtviuwRucu1lRlCX8mCQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vw/iYiVMy1FWaPlFqV1NGkyQeE2czJqHcNpJt_ZNN9fQ/pokemon_season06_ep10_ger-bfaf8385a09fb5b918c78de59997268bd0bbe486.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K1/3i0LC0RqTTwIyE-yR_Rs-0rMt5F9EXrg6H3U3GRe0/pokemon_season06_ep10_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/BYTJXQferLPiL6aABK2dxRwnbYXwPB7ISQ4Z0071I/pokemon_season06_ep10_ger.mp4",
             "captions": "",
-            "size": 2604784314
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/BYTJXQferLPiL6aABK2dxRwnbYXwPB7ISQ4Z0071I/pokemon_season06_ep10_ger.mp4"
         },
         {
             "id": "f9920cbbbe1847a2a3f9abfa509b9d45",
@@ -1137,16 +948,13 @@
             "title": "Auf Wiedersehen, Freunde!",
             "description": "Nach Abschluss der Johto-Liga-Silberkonferenz reisen Ash, Rocko und Misty zurück nach Vertania City, wo sie sich ausruhen wollen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-ZIMu74YR6Io_mr-lCbnUU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Be/j1bxCEp4tmuBwo3vh76lIrYdZAFzcDeOyzeRBTF0U/pokemon_season06_ep11_ger-4792846b9f3aa5fb5201a8f6d22566f439eafe9f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VR/qI2YBUYc9hph_XJGmVNXWD8yo4cTQFJU9A7RyB62s/pokemon_season06_ep11_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/dAUVoodjcEKyy0Z1CYqNwAut8Drp0F0tc1l6z3vME/pokemon_season06_ep11_ger.mp4",
             "captions": "",
-            "size": 2596106059
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/dAUVoodjcEKyy0Z1CYqNwAut8Drp0F0tc1l6z3vME/pokemon_season06_ep11_ger.mp4"
         },
         {
             "id": "4b7c15103cb94c08a85d1175b13bd40d",
@@ -1155,16 +963,13 @@
             "title": "Endlich in der Hoenn-Region!",
             "description": "Ash hat all seine Pokémon bis auf Pikachu in Alabastia gelassen, und befindet sich nun an Bord eines Schiffes nach Wurzelheim in Hoenn. Leider ist auch Team Rocket an Bord.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S3wVEDy5TAgqF0RdbE71A0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6Y/TABhmG86Qep49PAWkGX26ll22XYeLE4IEIeDt0FP8/pokemon_season06_ep12_ger-48676bf3aab0e4cbe4542f64a693de5a490ba578.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/3i18v2eByWN9izjxVX6tZysJpsEtROihVdqJfoDBY/pokemon_season06_ep12_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vA/wHHzzhjPi_unval4sOe6bYPPp-SPFcK01cIugSBqs/pokemon_season06_ep12_ger.mp4",
             "captions": "",
-            "size": 2644592277
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vA/wHHzzhjPi_unval4sOe6bYPPp-SPFcK01cIugSBqs/pokemon_season06_ep12_ger.mp4"
         }
     ]
 }

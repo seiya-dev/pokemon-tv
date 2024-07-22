@@ -1,18 +1,15 @@
 {
-    "channel_id": "hoopa-e-lo-scontro-epocale",
+    "channel_id": "movie18",
     "channel_name": "Hoopa e lo scontro epocale",
     "channel_description": "Soltanto Ash e i suoi amici possono scongiurare un’antica minaccia che rischia di abbattersi nuovamente sul mondo nel film Pokémon Hoopa e lo scontro epocale.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1125x1500-it.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-it.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-it.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-it.jpg"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 3,
-    "channel_creation_date": 1484938949,
-    "channel_update_date": 1671212382,
+    "order": -18000,
     "media": [
         {
             "id": "225a97160d3b4ed5baef9df05ecf507a",
@@ -21,16 +18,13 @@
             "title": "Hoopa e lo scontro epocale",
             "description": "Ash e i suoi amici vengono a conoscenza di una minaccia sopita da anni e che ora rischia di abbattersi nuovamente sul mondo. Qual è il nesso tra questo potere oscuro e il Pokémon misterioso Hoopa?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/movies/movie18/movie18_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/movies/movie18/movie18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/movies/movie18/movie18_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/IlqXFg07TtUuu-d8F7PUHo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mR/06P4i5faWNZ-xbLIOU_NLgz1Jjir0mKTXNmr-FGxk/pokemon_movie18_ita-8a9a7e75e20be6f32a28e9258af6af6cbce38f87.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mR/06P4i5faWNZ-xbLIOU_NLgz1Jjir0mKTXNmr-FGxk/pokemon_movie18_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/b6_ylrvUFrGn0B4Hqr11nDz1ZP-WJtaY6buh3FHDo/pokemon_movie18_ita.mp4",
             "captions": "",
-            "size": 9866506239
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/b6_ylrvUFrGn0B4Hqr11nDz1ZP-WJtaY6buh3FHDo/pokemon_movie18_ita.mp4"
         }
     ]
 }

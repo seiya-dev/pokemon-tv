@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-bw-pa-eventyr-i-unova-og-andre-steder",
+    "channel_id": "season16",
     "channel_name": "Pokémon: BW På eventyr i Unova og andre steder",
     "channel_description": "Ash udfordrer Unova League, møder N, kæmper mod Team Plasma og meget mere i Pokémon: BW På eventyr i Unova og andre steder, nu på Pokémon TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season16/season16-1125x1500-dk.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season16/season16-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season16/season16-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-da-dk/img/watch-pokemon-tv/pokemon-tv-app/season16/season16-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 151,
-    "channel_creation_date": 1591368362,
-    "channel_update_date": 1680909398,
+    "order": -16000,
     "media": [
         {
             "id": "10a1b93924454362a047259a3123f8cf",
@@ -21,16 +18,13 @@
             "title": "Skønheder i kamp for pragt og prestige!",
             "description": "På vej til stedet, hvor den kommende Unova-liga skal foregå, tager vore helte mod en uforudsigeligt rodet udfordring til kamp!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EKG5OSRFQ2IoEclmjEj-M8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xZ/L2oVnApbOHGIyh2Qu2AhIse-lLQSnifEEoHfoBOMU/pok_tv_s1601_2997-master-dk-oz-fixed_1080p-ec94d5cd4e5923ddd12e5ec80f7b17893c0ae03f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xZ/L2oVnApbOHGIyh2Qu2AhIse-lLQSnifEEoHfoBOMU/pok_tv_s1601_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/0PUgzmN3-ScZedKNbfIY2YLpBhlskv4i8JXD2RJ1w/pok_tv_s1601_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2585176997
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/0PUgzmN3-ScZedKNbfIY2YLpBhlskv4i8JXD2RJ1w/pok_tv_s1601_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "57948e8724d246018fe0563a833f9111",
@@ -39,16 +33,13 @@
             "title": "En jord-til-luft dobbeltkamp!",
             "description": "Under vore heltes fortsatte færd mod Vertress City og Unova-ligaen bliver de udfordret til en Dobbelt-kamp, hvis lige de aldrig nogensinde har oplevet!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/V5SOhyTSRgEj-BWOoM_kRE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cx/mNfxycnRmyaDbumKgED08p2o0PwZz-tv-XTn_CNOE/pok_tv_s1602_2997-master-dk-oz-fixed_1080p-ef89d1ae8b755b488b72c17d8c51c3f613662725.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cx/mNfxycnRmyaDbumKgED08p2o0PwZz-tv-XTn_CNOE/pok_tv_s1602_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/a6uxH0CStszAmmOj-qvwuNslMIZq7xvWlos5eR-zc/pok_tv_s1602_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2680901500
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/a6uxH0CStszAmmOj-qvwuNslMIZq7xvWlos5eR-zc/pok_tv_s1602_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "0e0b860c07b84552b7ca3a1293a3905a",
@@ -57,16 +48,13 @@
             "title": "Hjem til landsbyen!",
             "description": "Vore helte besøger Dragernes By på vej mod Vertress Cityy. Her konfronteres Iris med adskillige livsforandrende udfordringer!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DguGDAe4RVIt8o6EpOjkFo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gA/ks0TrQ67BmCdL8uWwlWdIzCLasQWzfwQ-Ksb5B6k0/pok_tv_s1603_2997-master-dk-oz-fixed_1080p-d69e468b742418eca71c60558a20a84c0d66c7ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gA/ks0TrQ67BmCdL8uWwlWdIzCLasQWzfwQ-Ksb5B6k0/pok_tv_s1603_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z7/Vzq4FbJFq8MRRPbpKeNQvDg1zCPVftUL7lb47tadk/pok_tv_s1603_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2529402841
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z7/Vzq4FbJFq8MRRPbpKeNQvDg1zCPVftUL7lb47tadk/pok_tv_s1603_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "90db48c4c9224dea8ec9892568a8764e",
@@ -75,16 +63,13 @@
             "title": "Drayden mod Iris: Fortid, nutid og fremtid!",
             "description": "Da Iris tager mod den udfordring, som hun har fået af Opelucid Citys Sal-leder Drayden, ved hun kun lidt om, hvad der egentlig venter hende!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kNtIxMkiTeojsmJJWiodk4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/eRnJiyoMzDp83aWskWQVVS8HWZEHUweX8626MFnRY/pok_tv_s1604_2997-master-dk-oz-fixed_1080p-008d9f33fffe663fd511b7762331015826fef98d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/eRnJiyoMzDp83aWskWQVVS8HWZEHUweX8626MFnRY/pok_tv_s1604_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IN/ZfL-59eAqsZkkR4PHJkDZG-hsuq1vwttYkpcYI8io/pok_tv_s1604_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2552132829
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IN/ZfL-59eAqsZkkR4PHJkDZG-hsuq1vwttYkpcYI8io/pok_tv_s1604_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "326647c2f46348bb99c21e44465e2e11",
@@ -93,16 +78,13 @@
             "title": "Team Eevee og Pokémon-redningsholdet!",
             "description": "På deres rejse mod Vertress City og Unova-ligaen præsenteres vore helte for en modig familie, der har en mission!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MmZHwvRjSLsmcIeREZeLhE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vc/IhlB7He-O5hoQs9Ij6PjKJN3DCP4r_zYyE4WR3RhA/pok_tv_s1605_2997-master-dk-oz-fixed_1080p-543ce3d1cb777013811d87b05d43a45845829efd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vc/IhlB7He-O5hoQs9Ij6PjKJN3DCP4r_zYyE4WR3RhA/pok_tv_s1605_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e0/pdN9KJXNh3XkWRP0rIGc03BOtKcMR7Zfsv_2dqtiU/pok_tv_s1605_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2542262236
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e0/pdN9KJXNh3XkWRP0rIGc03BOtKcMR7Zfsv_2dqtiU/pok_tv_s1605_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "5cc93d05a2334ba095d6b5ffd63dcdd1",
@@ -111,16 +93,13 @@
             "title": "Så går starten på Unova-ligaen!",
             "description": "Startskuddet til Unova-ligaen har lydt, gamle venner og rivaler er genforenede, og kampspændingen er nådesløs!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XMk9BaIzS6Alda1_9Y9zdE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wo/gL9ObDB0rMJBP_pgKEtfBLgK94pDUAplq3nW8mHJs/pok_tv_s1606_2997-master-dk-oz-fixed_1080p-e89decd093e890b2e4e914b174dcf2e2dd75da91.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wo/gL9ObDB0rMJBP_pgKEtfBLgK94pDUAplq3nW8mHJs/pok_tv_s1606_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rO/kIwXxv95MiOv7aiERk_9fcF8G8dqC6IZ6u3_0Icqo/pok_tv_s1606_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2585299154
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rO/kIwXxv95MiOv7aiERk_9fcF8G8dqC6IZ6u3_0Icqo/pok_tv_s1606_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "9ddc3819ad1d4dacb58225e113c3a0ef",
@@ -129,16 +108,13 @@
             "title": "Slå din modstander!",
             "description": "Mens spændingen i Vertress City når feberhede højder, sætter Unova-ligaen venner og rivaler sammen, gamle som nye!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ndw4Ga0dTawtYIl4RPDoO8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9H/USYbehJDuZQ66o7bXXHkN5SRQuiKrjeIGBJo8fNLY/pok_tv_s1607_2997-master-dk-oz-fixed_1080p-46d0001cd15796388202d21bb77ba3338a213e13.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9H/USYbehJDuZQ66o7bXXHkN5SRQuiKrjeIGBJo8fNLY/pok_tv_s1607_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TR/j9DA4NA26k_3GhEZ05Ma1s_Mduqt8zYM507hC9VDc/pok_tv_s1607_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2727579836
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TR/j9DA4NA26k_3GhEZ05Ma1s_Mduqt8zYM507hC9VDc/pok_tv_s1607_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "b87aeb93e25c4044a9f6713408b6eb60",
@@ -147,16 +123,13 @@
             "title": "En afstikker fra ligaen!",
             "description": "Mens Unova-ligaen gør sig klar til sin tredje runde, bliver vore helte konfronteret med en eftersøgning!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uHrrk-JcQEQqfZxNAi262A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pk/sjDSSvMDiLkwg1Km_pnY5ST6p1rtJekmvvDTFGGc8/pok_tv_s1608_2997-master-dk-oz-fixed_1080p-49b2daa219b9de0f76d4cb3ff43737215f3d7b77.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pk/sjDSSvMDiLkwg1Km_pnY5ST6p1rtJekmvvDTFGGc8/pok_tv_s1608_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TD/UJ69zKWG36dCyszxjHBELTjBchNQ2Pjfz8LZwEITQ/pok_tv_s1608_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2618626834
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TD/UJ69zKWG36dCyszxjHBELTjBchNQ2Pjfz8LZwEITQ/pok_tv_s1608_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "d2f36ff9f6b447e89533e27aa54c891f",
@@ -165,16 +138,13 @@
             "title": "Et show spækket med stærk strategi!",
             "description": "Når Unova-ligaen er midt i sin tredje runde og farer mod kvarfinalen, er det strategi og venskab, der viser vejen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0vNv-fa0R-glTPieqVMiR8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/C8saKL5ifcJsDp7UnmUNA5bSb3Etrxt5tUBgMlUG8/pok_tv_s1609_2997-master-dk-oz-fixed_1080p-ba47767b2fc514cafb9d8a95a75bc5b99174d08b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/C8saKL5ifcJsDp7UnmUNA5bSb3Etrxt5tUBgMlUG8/pok_tv_s1609_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lg/OpZd-wWfulsN2QTfMoTJn2Fqoz12tKNkOiJx8wULc/pok_tv_s1609_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2657112775
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lg/OpZd-wWfulsN2QTfMoTJn2Fqoz12tKNkOiJx8wULc/pok_tv_s1609_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "25b2c930197b46c7a20cc0e4d4b153a9",
@@ -183,16 +153,13 @@
             "title": "Camerons hemmelige våben!",
             "description": "Unova-ligaen er nu på sin fjerde runde, og Camerons ”hemmelige våben” viser sig at være mere, end nogen skulle have troet, også for Cameron!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JbLJMBl7RscogzA5NSxU6k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tb/ENQeoVACnkWjL0BYK6uPnycvwQX4NPvwmowjxS1UM/pok_tv_s1610_2997-master-dk-oz-fixed_1080p-c5fbc9845f828f81a3a1b9b6f4a0d80971b4c9fa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tb/ENQeoVACnkWjL0BYK6uPnycvwQX4NPvwmowjxS1UM/pok_tv_s1610_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yp/GiXBCyl7oT26Q2FqzSCcGTHRUuGO1r0WKiwdYtPWs/pok_tv_s1610_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2815676875
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yp/GiXBCyl7oT26Q2FqzSCcGTHRUuGO1r0WKiwdYtPWs/pok_tv_s1610_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "96b566c6bb684e588b4259e88b753836",
@@ -201,16 +168,13 @@
             "title": "En udvikling i Unova-ligaen!",
             "description": "Efterhånden som Unova-ligaen buldrer mod finalekampen, bliver konkurrencen hårdere, og styrke og færdigheder mere og mere utrolige!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lrVmxrtoTlgi0JZ6It1ODY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UP/Vd9WwoX5YujJb0brFxiQC3ZEsaZZ22c3MmuRA5pgA/pok_tv_s1611_2997-master-dk-oz-fixed_1080p-3b5759a0849182c5cc55486543cfd4a1ac4e3c0a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UP/Vd9WwoX5YujJb0brFxiQC3ZEsaZZ22c3MmuRA5pgA/pok_tv_s1611_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gs/W_QHb7Wc_JnXjFU_nLuEMJ_oR6VyYMzPrT_hCefk4/pok_tv_s1611_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2706030477
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gs/W_QHb7Wc_JnXjFU_nLuEMJ_oR6VyYMzPrT_hCefk4/pok_tv_s1611_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "61bbef1a60234868a1d8fb5df669af8b",
@@ -219,16 +183,13 @@
             "title": "Nye steder... kendte ansigter!",
             "description": "Nu hvor Unova-ligaen er forbi, tænker vore helte over, hvad fremtiden bringer. Samtidig hjælper en ny ven dem med at håndtere gamle kendinge!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YbvvGmAjSGgodj7XfZpr4s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/KeBYRh3iYhin5Vd3Jc1ocuV9M32yP5RJ2asyTvLdM/pok_tv_s1612_2997-master-dk-oz-fixed_1080p-97051847d0fbdb747f45d25f290f36ed0ceab461.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/KeBYRh3iYhin5Vd3Jc1ocuV9M32yP5RJ2asyTvLdM/pok_tv_s1612_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bQ/V2pAuA_matxZWmApetrJHPmWNVyygBl_D6L0amp78/pok_tv_s1612_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2636109683
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bQ/V2pAuA_matxZWmApetrJHPmWNVyygBl_D6L0amp78/pok_tv_s1612_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "1902bd6c259e4e91abc3d97b52960d2a",
@@ -237,16 +198,13 @@
             "title": "Navnet er N!",
             "description": "Vore helte er med skib på vej til et møde med professor Cedric Juniper på De Hvide Ruiner. Her møder de en ung mand med et usædvanligt talent og lige så udsædvanlige holdninger!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GQK9bCWeTpEq8PZe1KWDSo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lb/esa3k2ZipYoO1U_HhPy-XVqFYGZ2XVjZBuZDFPS30/pok_tv_s1613_2997-master-dk-oz-fixed_1080p-84296b128c830d713409fa8be2dd039bd7705c3d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lb/esa3k2ZipYoO1U_HhPy-XVqFYGZ2XVjZBuZDFPS30/pok_tv_s1613_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cJ/QqrwLuY5FKKC5IUqJtvbo0fe3HIXOPUsK01e-sWyA/pok_tv_s1613_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2572368070
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cJ/QqrwLuY5FKKC5IUqJtvbo0fe3HIXOPUsK01e-sWyA/pok_tv_s1613_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "c81b4795459445f88e70764d5101d373",
@@ -255,16 +213,13 @@
             "title": "Der er en ny Sal-leder i byen!",
             "description": "På professor Junipers opfordring er vore helte nu ankommet til Aspertia city, hvor de besøger en af de mest usædvanlige Sale, de nogensinde har set!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yBtHlUWURfgjnB2TVEB03M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kY/9_JjyV10Z-PRc8kVKiUoi9wLX6-4PChkCoXWVxAbU/pok_tv_s1614_2997-master-dk-oz-fixed_1080p-21614e0fb0eccc140fc7598357ad68cdc52061ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kY/9_JjyV10Z-PRc8kVKiUoi9wLX6-4PChkCoXWVxAbU/pok_tv_s1614_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Y/hGBHTfj1nwdga0JqLpXHovVlr2vmi4X8_wHGLiM10/pok_tv_s1614_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2557934088
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Y/hGBHTfj1nwdga0JqLpXHovVlr2vmi4X8_wHGLiM10/pok_tv_s1614_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "856fc049f7734f288f2c169bbf115397",
@@ -273,16 +228,13 @@
             "title": "Team Plasmas Pokémon-komplot!",
             "description": "På deres fortsatte rejse mod De Hvide Ruiner støder vore helte på en mystisk organisation med en skummel plan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hW_ASfdzTygjywWm78RU5c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/mPuziXrbgxLN9WEvJc9-3j5oXEa-9IpbzrKUSBPKE/pok_tv_s1615_2997-master-dk-oz-fixed_1080p-047d45f78400e64935d108acd0d4b82c650d2f62.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/mPuziXrbgxLN9WEvJc9-3j5oXEa-9IpbzrKUSBPKE/pok_tv_s1615_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EJ/J5xj_BiuY-aV97bIKWg8Qm4OeFjtE8z7MevKDx-3k/pok_tv_s1615_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2613938953
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EJ/J5xj_BiuY-aV97bIKWg8Qm4OeFjtE8z7MevKDx-3k/pok_tv_s1615_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "65148e84e5c2444494e8b205c856f7ca",
@@ -291,16 +243,13 @@
             "title": "Lyset på Floccesy Ranch!",
             "description": "På vore heltes fortsatte færd mod De Hvide Ruiner kommer de forbi en Mareep ranch, der både har problemer med tåge og lederskab!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZRSOhOXCREQlOiyBchW98o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gv/PjCWsLBqwAPs_QtT-QI2NsPovdc5g9zU3MFEVrUK4/pok_tv_s1616_2997-master-dk-oz-fixed_1080p-94348c8c037d93c1317ac088e5d36d39b81dbb30.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gv/PjCWsLBqwAPs_QtT-QI2NsPovdc5g9zU3MFEVrUK4/pok_tv_s1616_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L9/ngmvcDP45WeaFF9Xi-kkdA2TXVTKByKGMLYiKqz8s/pok_tv_s1616_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2616504072
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L9/ngmvcDP45WeaFF9Xi-kkdA2TXVTKByKGMLYiKqz8s/pok_tv_s1616_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "a5b556baca094b399930a51461abe03b",
@@ -309,16 +258,13 @@
             "title": "Red Braviary!",
             "description": "Team Plasma er på dupperne, men det er N også!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pbVWusoJSzkmTClFGGr4Ds/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gf/DJfVjgbOEsxCbYGI8c4t2vyjm9UevAdZJnqsug4XU/pok_tv_s1617_2997-master-dk-oz-fixed_1080p-82e205257323b98e5738449918dcf9d6285bb19c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gf/DJfVjgbOEsxCbYGI8c4t2vyjm9UevAdZJnqsug4XU/pok_tv_s1617_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vn/dw3pwI2AxPKapMa7eTmJcOf6muJmJO5HnbfUizvIY/pok_tv_s1617_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2413841337
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vn/dw3pwI2AxPKapMa7eTmJcOf6muJmJO5HnbfUizvIY/pok_tv_s1617_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "5bdf13a1c3bd4841b1c3929fcef5ea00",
@@ -327,16 +273,13 @@
             "title": "Pokémon Havnepatruljen!",
             "description": "Ved ankomsten til Virbank City støder vore helte og N på en anden heltemodig gruppe, og det får overraskende resultater!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/W98TocO9SEEscOSn8716gA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o2/46JD2piLM0tJDti8zAgQ-aNgRpOXAQKHKqtIVh9II/pok_tv_s1618_2997-master-dk-oz-fixed_1080p-7cb2f26963ee97c77dae0118b8bf489be5766be0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o2/46JD2piLM0tJDti8zAgQ-aNgRpOXAQKHKqtIVh9II/pok_tv_s1618_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C1/5mvMrrc-uRbvFk52cjzS0saUF1H7sl5iDGnJJKR44/pok_tv_s1618_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2591474004
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C1/5mvMrrc-uRbvFk52cjzS0saUF1H7sl5iDGnJJKR44/pok_tv_s1618_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "54c7dc48bdfe4f448f9c7275d44b17eb",
@@ -345,16 +288,13 @@
             "title": "En rødglødende genforening!",
             "description": "Ash opdager en festival til ære for Kanto-regionens kultur og produkter og genforenes med en gammel ven, der viser, hvad ægte udholdenhed handler om!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VMfcSL3-T0Qj5xyddRLF-s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/59/ZlgFcVB6FuyLB6x6OZYd_fT-DuLhUnuw1zj3cketE/pok_tv_s1619_2997-master-dk-oz-fixed_1080p-af1b60b4c87fafacc32157c5083aab25ff51abea.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/59/ZlgFcVB6FuyLB6x6OZYd_fT-DuLhUnuw1zj3cketE/pok_tv_s1619_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iG/ImSuwTki7K8nY4PsONLvVBNH_KyHG6bE0HoPJh-JE/pok_tv_s1619_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2627032512
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iG/ImSuwTki7K8nY4PsONLvVBNH_KyHG6bE0HoPJh-JE/pok_tv_s1619_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "ec4538b09ae745ac85b90c943138bbc0",
@@ -363,16 +303,13 @@
             "title": "Team Plasmas Pokémon-manipulation!",
             "description": "Team Plasma er opsatte på at fuldføre deres onde planer, men sammen med N har vore helte andre tanker!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7EU4sJrnRawhbkMlDE4u8A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8q/yLgpdpbDfjPt-CSz8PyR3xgkQtvIu_F3AiOw-my-o/pok_tv_s1620_2997-master-dk-oz-fixed_1080p-4564f54fb10fa6f1aea5668f698050ce149e6df4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8q/yLgpdpbDfjPt-CSz8PyR3xgkQtvIu_F3AiOw-my-o/pok_tv_s1620_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gt/q918_OhycTGenQbeO4DnP1ouxVgIG5FU7Wn-8-6Ek/pok_tv_s1620_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2569525940
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gt/q918_OhycTGenQbeO4DnP1ouxVgIG5FU7Wn-8-6Ek/pok_tv_s1620_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "a8b880c1f2a34735ab02deae6496e96c",
@@ -381,16 +318,13 @@
             "title": "Tågens hemmeligheder!",
             "description": "Mens vore helte fortsætter deres rejse mod De Hvide Ruiner opdager de chokerende hemmeligheder om N og Team Plasma!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qLiAwfKjRzUqwLermSW6Ww/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/LUSE96H_qxVsaDAov7MxnVwg3Bus6bPR7rnfoG8Y8/pok_tv_s1621_2997-master-dk-oz-fixed_1080p-314ca014812b94ea3bd3096266bb0d75b1193a6a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/LUSE96H_qxVsaDAov7MxnVwg3Bus6bPR7rnfoG8Y8/pok_tv_s1621_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jt/USUm5Z_udP7tYGQk1za77LfFMVACjMX23RxMkqn2o/pok_tv_s1621_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2646579413
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jt/USUm5Z_udP7tYGQk1za77LfFMVACjMX23RxMkqn2o/pok_tv_s1621_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "549d828b37194b518113f92a58f460ec",
@@ -399,16 +333,13 @@
             "title": "Meowth, Colress og Team Rivalisering!",
             "description": "Mens Team Plasmas planer om at kontrollere Pokémon fortsætter, retter Team Rockets planer sig mod Team Plasma!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VJ2CizcZS1EgRP5Klj0YOw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4a/tdIS1Z9M4T3mVVKFbtzKqrSTIYxa6dDODPTPZXiS4/pok_tv_s1622_2997-master-dk-oz-fixed_1080p-69b009ef8d0c2ae41849dad1d5979021040a69a4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4a/tdIS1Z9M4T3mVVKFbtzKqrSTIYxa6dDODPTPZXiS4/pok_tv_s1622_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lV/RttTLyeJk8-OWN5Z7V4q99nquY98ClEt8yQENbT3E/pok_tv_s1622_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2590229410
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lV/RttTLyeJk8-OWN5Z7V4q99nquY98ClEt8yQENbT3E/pok_tv_s1622_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "3e8f3965630b4d519f799fd2ea3f7de1",
@@ -417,16 +348,13 @@
             "title": "Ash, N og idealernes sammenstød!",
             "description": "Da vore helte mødes med professor Cedric Juniper ved De Hvide Ruiner, viser det sig snart, at de ikke er de eneste, der er interesserede i viden om Reshiram!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Po85ZWMLTVEn3mf0uo_feE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J4/nHby8SNLP5-9bcGqEWMuMhdmRI5mHl4sC4ijUzgCw/pok_tv_s1623_2997-master-dk-oz-fixed_1080p-81117a57cf7f9a0165e670317723f71228d15aad.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J4/nHby8SNLP5-9bcGqEWMuMhdmRI5mHl4sC4ijUzgCw/pok_tv_s1623_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_N/54QLxD4r6ye7NBFV3wwtSr4_ucom6eJZxCAphE7mQ/pok_tv_s1623_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2577559595
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_N/54QLxD4r6ye7NBFV3wwtSr4_ucom6eJZxCAphE7mQ/pok_tv_s1623_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "537950d44dce423cb8eefae9420a48bc",
@@ -435,16 +363,13 @@
             "title": "Team Plasma og Opvågningsceremonien!",
             "description": "Mens Team Plasmas plan for at stjæle Lysstenen skrider frem, gør vore helte og deres venner alt, hvad de kan, for at stoppe det!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U3lQ1E3OQjwuO766UIKSLw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J1/yCYhWXbp-bYA_SjtAXY5C1u6D8cs3xpVDYz0mVK6E/pok_tv_s1624_2997-master-dk-oz-fixed_1080p-310be9a2792c9fcf40b2e7bc0ba8c53c30a0f829.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J1/yCYhWXbp-bYA_SjtAXY5C1u6D8cs3xpVDYz0mVK6E/pok_tv_s1624_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FV/W0nTPZH1ZTf8T-jRRFuwrxRcf_Ia_9ds_IVq8imjY/pok_tv_s1624_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2717693040
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FV/W0nTPZH1ZTf8T-jRRFuwrxRcf_Ia_9ds_IVq8imjY/pok_tv_s1624_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "ccd6ea0e1e344e4a9598c6b46d31aa6f",
@@ -453,16 +378,13 @@
             "title": "Bag sandhed og idealer!",
             "description": "Mens de onde planer om at kontrollere Reshiram føres ud i livet, afhænger verdens overlevelse af Team Plasmas nederlag. Men kan de overvindes?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zNbqDh40TkolZjGtG0xqm8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9K/kSy66Srr-tGkCJwZoLmOIH8tAxGoRnAiULu3V7QQs/pok_tv_s1625_2997-master-dk-oz-fixed_1080p-92886327cfe048d980bdcdbbc4d47d23642a889d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9K/kSy66Srr-tGkCJwZoLmOIH8tAxGoRnAiULu3V7QQs/pok_tv_s1625_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v3/Aj_6COXuMYJeBsPYofVzqcngmyS2ujZ5GoyWhiSbQ/pok_tv_s1625_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2713320405
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v3/Aj_6COXuMYJeBsPYofVzqcngmyS2ujZ5GoyWhiSbQ/pok_tv_s1625_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "1d971e2e85d64bbd92abaac247b77676",
@@ -471,16 +393,13 @@
             "title": "Farvel, Unova! Med kurs mod nye eventyr!",
             "description": "Mens vore helte glade forbereder sig til næste kapitel af deres spændende eventyr, er der andre, der har helt andre planer!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HZceLoXWS70kquqwke3dnY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/pwopcVLEBvZOEHZzh-vBS4UwoowrxniT66EYs1B3I/pok_tv_s1626_2997-master-dk-oz-fixed_1080p-646c9a8309a6e547470afd03b29bbf3416241a43.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/pwopcVLEBvZOEHZzh-vBS4UwoowrxniT66EYs1B3I/pok_tv_s1626_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zf/5tA_EH6kunPPZWXHz2fjtr_0f3n9eS1UUAD4l0XuQ/pok_tv_s1626_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2498052650
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zf/5tA_EH6kunPPZWXHz2fjtr_0f3n9eS1UUAD4l0XuQ/pok_tv_s1626_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "e484410d87b24f79a19b4ec17e0eecdc",
@@ -489,16 +408,13 @@
             "title": "Fare, sød som honning!",
             "description": "Da vore helte går på opdagelse på Decolore-øerne, viser deres første stop sig at blive en ikke særligt sød oplevelse!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5IRBDYeyT3koZtOwX4O7Nw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vh/v26RpBrpzu785SIUMyk7OdMZCICZth1lI2Uw96P2I/pok_tv_s1627_2997-master-dk-oz-fixed_1080p-7048eac084db615f8e2f35c572d5cf51519cbcb2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vh/v26RpBrpzu785SIUMyk7OdMZCICZth1lI2Uw96P2I/pok_tv_s1627_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yF/pTVpBluMF957OCZqmum8WrtID1qgTO7SAVikp6x0M/pok_tv_s1627_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2693421719
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yF/pTVpBluMF957OCZqmum8WrtID1qgTO7SAVikp6x0M/pok_tv_s1627_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "27fa6f58010e4645878fb8cb9819c925",
@@ -507,16 +423,13 @@
             "title": "Cilan og sagen om Purrloin-vidnet!",
             "description": "Mens vore helte fortsætter deres krydstogt mellem Decolore-øerne, kræver et tyveri om bord på skibet en Kenders superdetektivarbejde!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J_pvWAEORkUh4-4y5gZySU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/Pokr-98tOOHFKPDFbVi2Zm1-6kCqeYT9IQd62QyrU/pok_tv_s1628_2997-master-dk-oz-fixed_1080p-6b6dfbf6d5035665f6b8efb83876841edd5e3455.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mo/Pokr-98tOOHFKPDFbVi2Zm1-6kCqeYT9IQd62QyrU/pok_tv_s1628_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/StYC_J8ua7nDpY2Q8AwIJa6FX0rdeQSd_1R4Cel_8/pok_tv_s1628_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2457745342
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/StYC_J8ua7nDpY2Q8AwIJa6FX0rdeQSd_1R4Cel_8/pok_tv_s1628_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "69fb1813125c4c69808b35aa209cd4cc",
@@ -525,16 +438,13 @@
             "title": "Kroningen af Muslingeskalkongen!",
             "description": "Ved ankomsten til Muslingeskaløen beslutter vore helte sig for at deltage i en usædvanlig konkurrence!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/afsYExJcTGkgIs1qiCc1Mw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sE/NdYm4KftjKXwWfzsKFvBHOG9Rio6_9X1SjY7xY69A/pok_tv_s1629_2997-master-dk-oz-fixed_1080p-2e601529e2b7587ce2cfa15c386a17ac2f315175.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sE/NdYm4KftjKXwWfzsKFvBHOG9Rio6_9X1SjY7xY69A/pok_tv_s1629_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/8pHGK6RhPFlpKbVsQwZseyyrPlU0gvKuarCoxCLaQ/pok_tv_s1629_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2596264258
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/8pHGK6RhPFlpKbVsQwZseyyrPlU0gvKuarCoxCLaQ/pok_tv_s1629_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "651671b7ca554f09b25557f40d2ece4f",
@@ -543,16 +453,13 @@
             "title": "Illusionernes ø!",
             "description": "På en øde ø får vore helte lov til at bevidne, hvad ægte venskab virkelig handler om!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZRZxt8pVTwkslVX9A0uzk8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6U/0_YaTgC_3UEoCxsVNFdTUQplVlMnAv5Imbsq-f01g/pok_tv_s1630_2997-master-dk-oz-fixed_1080p-b09eeada7157c5b18b8f002feab33a69dbc5e58b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6U/0_YaTgC_3UEoCxsVNFdTUQplVlMnAv5Imbsq-f01g/pok_tv_s1630_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NU/eq85C5my2XRBW1G_yzGe5oCezdQszfV76HqpvBXVo/pok_tv_s1630_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2527770783
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NU/eq85C5my2XRBW1G_yzGe5oCezdQszfV76HqpvBXVo/pok_tv_s1630_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "5e3be6b007fc402ab9352e56463c6185",
@@ -561,16 +468,13 @@
             "title": "Sådan fanger man en Rotom!",
             "description": "Ved ankomsten til Torom-øen mødes vore helte med en gammel ven, som er på en vigtig forskningsekspedition!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XjvmsAf8QCouTUuVkY8YYU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rY/bqbhLvTt0bLshHP6IA3B8KixfIHhQUXVd6CmvDVoA/pok_tv_s1631_2997-master-dk-oz-fixed_1080p-1fec8ef5cc3023a3c8d3dd284a368a689b6de161.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rY/bqbhLvTt0bLshHP6IA3B8KixfIHhQUXVd6CmvDVoA/pok_tv_s1631_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s8/RqNzXaW7ar8E0WyOQ4zxT6ugRWyyzrWSxE7JWbuGc/pok_tv_s1631_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2584893906
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s8/RqNzXaW7ar8E0WyOQ4zxT6ugRWyyzrWSxE7JWbuGc/pok_tv_s1631_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "610a1cf4b66b4d43b323a8b07adf97da",
@@ -579,16 +483,13 @@
             "title": "Decolores pirater!",
             "description": "Vore helte er stadig på krydstogt ved Decolore-øerne, men et uventet besøg af en bande ikke helt almindelige pirater slår alle ud af kurs!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YQoc9LZrTUMsyOosHrfl9o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/lpQzWdWbs-OETpEsjLv-U_w4mG5ZbKpWlxA64kiu8/pok_tv_s1632_2997-master-dk-oz-fixed_1080p-31e597e4d2d8a22f04a07e8333d311846538483a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/lpQzWdWbs-OETpEsjLv-U_w4mG5ZbKpWlxA64kiu8/pok_tv_s1632_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0j/tHoHUxE_ztgdPeH-zJr9jnDWd9OXSNmqvGKwjKMOU/pok_tv_s1632_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2560905221
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0j/tHoHUxE_ztgdPeH-zJr9jnDWd9OXSNmqvGKwjKMOU/pok_tv_s1632_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "1e30f65bf0224fcc9b8547698f8fdf77",
@@ -597,16 +498,13 @@
             "title": "Butterfree og mig!",
             "description": "På vore heltes fortsatte krydstogt ved Decolore-øerne er der især én ø, der giver dem chancen for at ændre livet til det bedre – for evigt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HjD2W_AiT8wm4VHaY-P33c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ku/oj-R-pqE2BEAxXXxW4bXnsAKToUSW1GqpKb-u5xOA/pok_tv_s1633_2997-master-dk-oz-fixed_1080p-163a1a8a923cd7cb825d1316c86763fa45cc3de3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ku/oj-R-pqE2BEAxXXxW4bXnsAKToUSW1GqpKb-u5xOA/pok_tv_s1633_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ts/oeIYfkhGfAK2zgs8_RjRP7X_fxnQ4aJw3dqY3rvzo/pok_tv_s1633_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2728698285
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ts/oeIYfkhGfAK2zgs8_RjRP7X_fxnQ4aJw3dqY3rvzo/pok_tv_s1633_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "76302a90360941fca629862be909f8b5",
@@ -615,16 +513,13 @@
             "title": "Vejen der fører til afsked!",
             "description": "Under deres udforskning af Capacia-øen på vej til Kanto-regionen er vore helte intetanende om, at den vej, de har valgt, fører til et sted, som de aldrig havde forestillet sig!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/djAqkDYJQfwpimGK-kJ-LU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dL/jjHjjMOJAeSMm0b4cVcWxm3v38Z_RU5qY63tB1JbQ/pok_tv_s1634_2997-master-dk-oz-fixed_1080p-e8927bee7730f8c99c46eaca474951ca51f9053a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dL/jjHjjMOJAeSMm0b4cVcWxm3v38Z_RU5qY63tB1JbQ/pok_tv_s1634_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QF/ug3tpVU8sg9eFfX3qb4M0zXi5GoKVfrqwkD4e9QqA/pok_tv_s1634_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2673107470
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QF/ug3tpVU8sg9eFfX3qb4M0zXi5GoKVfrqwkD4e9QqA/pok_tv_s1634_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "8598fc2896de4f41b943b9b89da24be2",
@@ -633,16 +528,13 @@
             "title": "På jagt efter et ønske!",
             "description": "På en tilsyneladende ufrugtbar del af Capacia-øen støder vore helte på en livgivende løsning på stedets problem!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hZj8KJbeT0EuUO5uJ2iS-I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qp/9hcGEP9LRGT_b0kuHpGs6v7kGVo_j88k3MtYX4hNc/pok_tv_s1635_2997-master-dk-oz-fixed_1080p-569e1e254176b44d280ea33a927ee0ab274cc30b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qp/9hcGEP9LRGT_b0kuHpGs6v7kGVo_j88k3MtYX4hNc/pok_tv_s1635_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bs/zsYxM-GpBueInJaaM1OJJPbRkMVzq7_2n2FdQjCB4/pok_tv_s1635_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2552596337
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bs/zsYxM-GpBueInJaaM1OJJPbRkMVzq7_2n2FdQjCB4/pok_tv_s1635_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "c24c3378cf6041fc8e1810787f1ea0e8",
@@ -651,16 +543,13 @@
             "title": "Ufoen fra Capacia-øen!",
             "description": "På en tilsyneladende ufrugtbar del af Capacia-øen støder vore helte på en livgivende løsning på stedets problem!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wkwzeM9gQfwjhgQeH8eoOg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/8NFAjHob1QATvfD0hQuK6orRvmwgGT9H80YSAX0sM/pok_tv_s1636_2997-master-dk-oz-fixed_1080p-7eb3b32303831eb4accf48b892df77f51381bb94.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3B/8NFAjHob1QATvfD0hQuK6orRvmwgGT9H80YSAX0sM/pok_tv_s1636_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fD/_YooYVwueXdWuOJG6lO1gtxhbxL37wLs6asBmSOHQ/pok_tv_s1636_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2495547224
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fD/_YooYVwueXdWuOJG6lO1gtxhbxL37wLs6asBmSOHQ/pok_tv_s1636_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "86542d4a2f3b452691e6c9fd8a96f774",
@@ -669,16 +558,13 @@
             "title": "Journalisten fra en anden region!",
             "description": "Et kraftigt lysglimt på nattehimlen giver vore helte et besynderligt temposkift... og et ansigtslift!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hlQtSi87RSYkebJ_YqW93Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/q2-DJVCto49EbKWYJdwOIXFgX3Gsle5Im7R86amZg/pok_tv_s1637_2997-master-dk-oz-fixed_1080p-62e763c734e7f114abb8cc1cda5a24a85205f9ca.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/q2-DJVCto49EbKWYJdwOIXFgX3Gsle5Im7R86amZg/pok_tv_s1637_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a4/4Kk_TXf9V7EVhKvFc4Ekc7nQwBIG6L6L6tYVMylug/pok_tv_s1637_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2618928577
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a4/4Kk_TXf9V7EVhKvFc4Ekc7nQwBIG6L6L6tYVMylug/pok_tv_s1637_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "dcb9a2e5ee07494e8204e170f5dc1fbf",
@@ -687,16 +573,13 @@
             "title": "Mysteriet på Den Øde Ø!",
             "description": "Under vore heltes rundrejse til Decolore-øerne fører tilfældet dem mod lækre bær og uventede, nye venner!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3Lmi5e4HSU4ggThcPXcH78/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JP/Eeml_w9X15UJ3kA1hXA1zi0vYLHwUBEe7zgJX9HEY/pok_tv_s1638_2997-master-dk-oz-fixed_1080p-665b8a8a66108e7c7c5e1bfca8d5f43aa8358cd7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JP/Eeml_w9X15UJ3kA1hXA1zi0vYLHwUBEe7zgJX9HEY/pok_tv_s1638_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X2/yasQDL-DcCcwK1Y-JtpgT7JuVdgY_sgk0nZlA29Mk/pok_tv_s1638_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2595937852
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X2/yasQDL-DcCcwK1Y-JtpgT7JuVdgY_sgk0nZlA29Mk/pok_tv_s1638_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "6dbcdaac1fad4f4697570e57594a71d1",
@@ -705,16 +588,13 @@
             "title": "En Pokémon af en anden farve!",
             "description": "Da vore helte tager på skattejagt på en øde ø, finder de noget, der er meget mere værdifuldt, end de havde forventet!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bbzarB-tT0Yl1cOV1lKcdE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NO/xGJbTkUWBebDn8oBk3jyOWnmp3hLcIUcv6-znL9u4/pok_tv_s1639_2997-master-dk-oz-fixed_1080p-e0d5cf27d05983afbd9534858e2d40ef444ec55c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NO/xGJbTkUWBebDn8oBk3jyOWnmp3hLcIUcv6-znL9u4/pok_tv_s1639_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ww/qwPPGQt5akmhgy8bVY2Ylggy87HaVAi43fvZyenDU/pok_tv_s1639_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2595683262
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ww/qwPPGQt5akmhgy8bVY2Ylggy87HaVAi43fvZyenDU/pok_tv_s1639_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "9de96a8b2d4a4ece9f5fe9a486577be6",
@@ -723,16 +603,13 @@
             "title": "En fest for en heltekomet!",
             "description": "På vore heltes krydstogt til Decolore-øerne sætter et forestående himmelfænomen scenen for himmelske intriger og fornøjelse!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nelqiy1KTs4n1_ppIZXe-Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nb/KGgTA-_CkfTeYZM-OzdKB0yqi0pJQAFfghjlSscVs/pok_tv_s1640_2997-master-dk-oz-fixed_1080p-063738dccb6d874ba9ab3fd92c8f66b6d4d25d53.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nb/KGgTA-_CkfTeYZM-OzdKB0yqi0pJQAFfghjlSscVs/pok_tv_s1640_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/lBLlL3jQzG59mGoVgaqGs_zdMu3_xWdvGmW8zAv9U/pok_tv_s1640_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2583244277
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/lBLlL3jQzG59mGoVgaqGs_zdMu3_xWdvGmW8zAv9U/pok_tv_s1640_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "619dd33bd64c4beea077f17eaf2bfdb2",
@@ -741,16 +618,13 @@
             "title": "Giv den gas, Gogoat!",
             "description": "Under et besøg i et Pokémon-center på deres krydstogt i Decolore-øerne kommer vore helte på en uventet afstikker, da de bliver udfordret til at hjælpe nye venner i nød!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YZ3TO9ZMS-4oHfxfq8r_bI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h2/eNmOV9xunrvcoFqrrZcHi4ei2zNskJogyZJ7Onozc/pok_tv_s1641_2997-master-dk-oz-fixed_1080p-54859d11df9f2ef2cbf9268a1791584f4c291ac0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h2/eNmOV9xunrvcoFqrrZcHi4ei2zNskJogyZJ7Onozc/pok_tv_s1641_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gm/RMWodIlIQHcWB2IFlFHAyMbCOYj8UkwBJtRBC-kxk/pok_tv_s1641_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2461073023
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gm/RMWodIlIQHcWB2IFlFHAyMbCOYj8UkwBJtRBC-kxk/pok_tv_s1641_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "789e9126189a4204a99d8ecf32b4a894",
@@ -759,16 +633,13 @@
             "title": "Team Rockets chokerende rekruttering!",
             "description": "En stille eftermiddag med leg og hygge udvikler sig til en stor misforståelse, og vore helte står snart over for en stor udfordring!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eJ6RJhiaQgQqZ2OzzK0qJQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MB/HMJuyrxq7FfYWA50hKOg3F8vw4GnwSONQt30EWawk/pok_tv_s1642_2997-master-dk-oz-fixed_1080p-c40e7fdd7658b81e5ede618393851f10a86dde8e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MB/HMJuyrxq7FfYWA50hKOg3F8vw4GnwSONQt30EWawk/pok_tv_s1642_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i9/MbiGLYLyU0sIkqKN82eD-CMq5C2X9T1QM36jrAlT4/pok_tv_s1642_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2710461336
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i9/MbiGLYLyU0sIkqKN82eD-CMq5C2X9T1QM36jrAlT4/pok_tv_s1642_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "2825cfb2485445cb8810f6d150c57b2e",
@@ -777,16 +648,13 @@
             "title": "Striaton-Salens overlevelse!",
             "description": "Cilans brødre kommer forbi på et uanmeldt besøg, og med dem følger hans livs udfordring!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KCXPskhURcsiBD20VDFey4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dk/wmCcLBblk_fH8uMk_awV3HnTH6t1KH2dWxwFLV1_0/pok_tv_s1643_2997-master-dk-oz-fixed_1080p-f349f2b81801670fd760dbcaa727324d908c5060.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dk/wmCcLBblk_fH8uMk_awV3HnTH6t1KH2dWxwFLV1_0/pok_tv_s1643_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pm/mgWETAWWGeA79vYaydsTGL1k0WvhAOYEBnb0k5Uk8/pok_tv_s1643_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2512372207
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pm/mgWETAWWGeA79vYaydsTGL1k0WvhAOYEBnb0k5Uk8/pok_tv_s1643_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "1d99fb40e3ea44c6beb180addbf1e0cc",
@@ -795,16 +663,13 @@
             "title": "Held og lykke til vi mødes igen!",
             "description": "Da vore helte nærmer sig Vermilion City og dermed enden på deres krydstogteventyr, tvinger en gammelkendt udfordring dem til at skride til handling!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HZn7QOPqRMYvrGArdvx4Mw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jm/gmzmZGOdADt2MWxEtLOqCIZR2nf3qkwBqn_qFE7es/pok_tv_s1644_2997-master-dk-oz-fixed_1080p-fc4d3900f62cc2d834a0ae88253cc145905b1da7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jm/gmzmZGOdADt2MWxEtLOqCIZR2nf3qkwBqn_qFE7es/pok_tv_s1644_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f6/mNd30XQ8FLm7ghfw0ckGCokFlUfJsJKTf9lK4wqI0/pok_tv_s1644_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2570365275
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f6/mNd30XQ8FLm7ghfw0ckGCokFlUfJsJKTf9lK4wqI0/pok_tv_s1644_2997-master-dk-oz-fixed_1080p.mp4"
         },
         {
             "id": "a2587016270a48a685dfd616b78fb32a",
@@ -813,16 +678,13 @@
             "title": "Drømmen fortsætter!",
             "description": "Et besøg i Pallet Town for at besøge familie og venner viser med al tydelighed, hvor stærke Ash’ drømme egentlig er!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/olhwFicKSKYhd_WFrePsyo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vw/mC_PqEyxXob_JiBJx04So3zop9ShIEuq_QhG2wdL0/pok_tv_s1645_2997-master-dk-oz-fixed_1080p-ad73fce904669b0effe47c9d2739824af2c51857.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vw/mC_PqEyxXob_JiBJx04So3zop9ShIEuq_QhG2wdL0/pok_tv_s1645_2997-master-dk-oz-fixed_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M8/kJh6jz4z4hSyBMD8oggatD9ru-Wj9Nnh0l9HKZ21Y/pok_tv_s1645_2997-master-dk-oz-fixed_1080p.mp4",
             "captions": "",
-            "size": 2445067604
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M8/kJh6jz4z4hSyBMD8oggatD9ru-Wj9Nnh0l9HKZ21Y/pok_tv_s1645_2997-master-dk-oz-fixed_1080p.mp4"
         }
     ]
 }

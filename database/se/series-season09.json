@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-battle-frontier",
+    "channel_id": "season09",
     "channel_name": "Pokémon: Battle Frontier",
     "channel_description": "Ash och Pikachu återvänder till Kanto-regionen för att ta sig an Stridsfronten i den nionde säsongen av Pokémon the Series. Nu på fredag på Pokémon TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-sv-se/img/watch-pokemon-tv/pokemon-tv-app/season09/season09-1125x1500-se.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-sv-se/img/watch-pokemon-tv/pokemon-tv-app/season09/season09-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-sv-se/img/watch-pokemon-tv/pokemon-tv-app/season09/season09-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-sv-se/img/watch-pokemon-tv/pokemon-tv-app/season09/season09-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 221,
-    "channel_creation_date": 1617376269,
-    "channel_update_date": 1662136547,
+    "order": -9000,
     "media": [
         {
             "id": "7f444c3373c14d32a26dfa18ec4e16c3",
@@ -21,16 +18,13 @@
             "title": "Spökstök!",
             "description": "Ash och hans vänner vandrar in i en spökstad, där de hjälper till att lösa en dispyt mellan en grupp Spök-typ Pokémon och en grupp Psykisk-typ Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/f0RMM3PBTTIom36GOxOFsM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qX/dyEx1GvWoSaqDL1PgEy5_wer8vu1rdJRMB8-vllFY/pokemon_season09_ep01_swe-31ce6ffd3df432f171f619d364de845ce133a348.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qX/dyEx1GvWoSaqDL1PgEy5_wer8vu1rdJRMB8-vllFY/pokemon_season09_ep01_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ow/DTKUHN4KXEdz5w02PUsDTy04GhYDR-ez1_DDgbtHo/pokemon_season09_ep01_swe.mp4",
             "captions": "",
-            "size": 2551577295
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ow/DTKUHN4KXEdz5w02PUsDTy04GhYDR-ez1_DDgbtHo/pokemon_season09_ep01_swe.mp4"
         },
         {
             "id": "74fc873eb8f346fe94ce9b9e2e9565e3",
@@ -39,16 +33,13 @@
             "title": "Söte lille James!",
             "description": "När Mays Munchlax blir sjuk, söker Ash och hans vänner hjälp hos ett vänligt äldre par som specialiserat sig på att bota sjuka Pokémon… och som händelsevis råkar vara James Mamsen och Pappsen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/dPyHPrjzRv4lM6bni6VZeM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XV/lQxcJvXLk-i_XYYmT-Oo3IRo5DmLj2yuzHYjapZYA/pokemon_season09_ep02_swe-39fe1f9f6e04827105ce8fc2441926c1cc8e5dd1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XV/lQxcJvXLk-i_XYYmT-Oo3IRo5DmLj2yuzHYjapZYA/pokemon_season09_ep02_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rG/LqAaeIdHlbe520QIJjCrmjH6Xm5sH9W-av0xHfFnQ/pokemon_season09_ep02_swe.mp4",
             "captions": "",
-            "size": 2467001245
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rG/LqAaeIdHlbe520QIJjCrmjH6Xm5sH9W-av0xHfFnQ/pokemon_season09_ep02_swe.mp4"
         },
         {
             "id": "fba2e0de525146909c2e8c72f48bfde9",
@@ -57,16 +48,13 @@
             "title": "Pokémonapoteket!",
             "description": "Efter att Brocks Mudkip utvecklats till en Marshtomp och ställt till en del problem, blir Ash och hans vänner bekanta med en äldre medicinmakare och hjälper hennes medhjälpare att stoppa Team Rockets tjuvaktiga framstötar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-6Lg3lJRRpAnC6McvSL_ek/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d3/kgqj1GbZTJ8-t4jUIp3vuR5S0B38ikFZDdXkQaX-E/pokemon_season09_ep03_swe-1f3a9c9310d53e821c0469fe7ff287b7537846f8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d3/kgqj1GbZTJ8-t4jUIp3vuR5S0B38ikFZDdXkQaX-E/pokemon_season09_ep03_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fw/0Sk4lYaYaUk5Zu6rK_ofleOmfLNpA5UsmqmPKjvxk/pokemon_season09_ep03_swe.mp4",
             "captions": "",
-            "size": 2504670716
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fw/0Sk4lYaYaUk5Zu6rK_ofleOmfLNpA5UsmqmPKjvxk/pokemon_season09_ep03_swe.mp4"
         },
         {
             "id": "a6f81adc1c074f4db088284a79d02474",
@@ -75,16 +63,13 @@
             "title": "Det andra slaget!",
             "description": "På Slagfältsarenan strider Ash mot Gränslands-hjärnan Greta för att få sin andra Gränslands-symbol!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pvga3BwHT00sIgoSnnQJHQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C4/wCdvy71oCSk6cxCs4ZdpO3AYK8mCunj4FD11Oo3iI/pokemon_season09_ep04_swe-0b76887e02827d71a287b1e760056a50980eb9fc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C4/wCdvy71oCSk6cxCs4ZdpO3AYK8mCunj4FD11Oo3iI/pokemon_season09_ep04_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GU/bhFYCYI1tpsWAmECtZM3MM2RLkPNG63OWkDu1PkXw/pokemon_season09_ep04_swe.mp4",
             "captions": "",
-            "size": 2540059666
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GU/bhFYCYI1tpsWAmECtZM3MM2RLkPNG63OWkDu1PkXw/pokemon_season09_ep04_swe.mp4"
         },
         {
             "id": "62039a0701654604974a09e347631a16",
@@ -93,16 +78,13 @@
             "title": "Mays äggande upplevelse!",
             "description": "May hjälper dottern från en familj som driver en Pokémon-äggfarm att börja sin egen Pokémon-tävlings-resa, och får ett Pokémon-ägg som tackgåva!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/YgOaBwFlRgQl0oJ40djGhY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ja/Re-Z05sxA7y5few1yOxd2KqC5m5ASrlb3VR65O5B8/pokemon_season09_ep05_swe-fa60cf45e98a088a0a382e993b62a1bb5f9a1fd8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ja/Re-Z05sxA7y5few1yOxd2KqC5m5ASrlb3VR65O5B8/pokemon_season09_ep05_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KK/hMlYkXrwJAh1nUT97JQY9VJM37EOx0M8pPyP5DlrM/pokemon_season09_ep05_swe.mp4",
             "captions": "",
-            "size": 2479451485
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KK/hMlYkXrwJAh1nUT97JQY9VJM37EOx0M8pPyP5DlrM/pokemon_season09_ep05_swe.mp4"
         },
         {
             "id": "d9108948d5eb406fb3d34b6a8aeeb779",
@@ -111,16 +93,13 @@
             "title": "Fritidskrigare!",
             "description": "May tävlar mot en före detta rock'n roll-gitarrist och bandledare i Silver Towns Pokémon-tävling för att vinna sin andra Kanto-tävling!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/2RCJSNXrQG8s9NLaorut3k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a1/d74lL9HnGneDNvY80Y8nG-3zXoFP_ts8ikeMjbMYQ/pokemon_season09_ep06_swe-d7e85fb921829422cc369cddd98891dd4ccec647.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a1/d74lL9HnGneDNvY80Y8nG-3zXoFP_ts8ikeMjbMYQ/pokemon_season09_ep06_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0Q/rUdcCJrj5RTLMUIDPwxHBpgGOMe8wRvMvWsl7wlyw/pokemon_season09_ep06_swe.mp4",
             "captions": "",
-            "size": 2437457579
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0Q/rUdcCJrj5RTLMUIDPwxHBpgGOMe8wRvMvWsl7wlyw/pokemon_season09_ep06_swe.mp4"
         },
         {
             "id": "5d44910d5b1a49e4b05b0e4b3841e697",
@@ -129,16 +108,13 @@
             "title": "En mystisk själ!",
             "description": "Under tiden som de tar en paus från Ash träningsregemente för att fiska lite, hjälper våra hjältar en ung kvinna att behålla ägarskapet till familjens sjö mot en markuppköpare.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/XUSRDVsaSeQsFsOSzhB5pc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sk/0M9H07u9uWYUzZBK9dzlSsVNdX5YkgBmhHbi2pWO4/pokemon_season09_ep07_swe-a01ef1ffed202936c2293e56356642224424a448.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sk/0M9H07u9uWYUzZBK9dzlSsVNdX5YkgBmhHbi2pWO4/pokemon_season09_ep07_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Z/swczGrN0CddKqZPFXIqmj12c1bF3H--OD76sMYjPU/pokemon_season09_ep07_swe.mp4",
             "captions": "",
-            "size": 2515090127
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Z/swczGrN0CddKqZPFXIqmj12c1bF3H--OD76sMYjPU/pokemon_season09_ep07_swe.mp4"
         },
         {
             "id": "6e04e59c7a1c4666b47f4d13c64fba83",
@@ -147,16 +123,13 @@
             "title": "Taktik som musik!",
             "description": "Ash utmanar Gränslands-hjärnan Tucker, en mästare i både stridstaktik och showbiz-kunnande, för att få sin tredje Gränslands-symbol.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bgTlnHocRmYtH9NE8ZPuoM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uj/-gktNyM1ELynGAs4rL-J0IwlUixdNHxJ_xlpkI_1c/pokemon_season09_ep08_swe-4235118174822bb422f720809491c09a0226869c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uj/-gktNyM1ELynGAs4rL-J0IwlUixdNHxJ_xlpkI_1c/pokemon_season09_ep08_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aY/n7WQdqgTipCnpOd0JQ_iIn2HDFXy7gD52qPiXfUg8/pokemon_season09_ep08_swe.mp4",
             "captions": "",
-            "size": 2516612661
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aY/n7WQdqgTipCnpOd0JQ_iIn2HDFXy7gD52qPiXfUg8/pokemon_season09_ep08_swe.mp4"
         },
         {
             "id": "1d7cdf54456740539e10a9663ed0ecf7",
@@ -165,16 +138,13 @@
             "title": "En rejäl urladdning!",
             "description": "På vägen mot nästa strid möter Ash och hans vänner en supperladdad Elekid som löper amok, och den attackerar allt den ser; inklusive Max!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HXzfVEVnQFMnhCpZj7Q7Pc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xb/-DSkrgc_RQaEPvpfkkhJ1g4_FTHXSAUl1ZgM6jAes/pokemon_season09_ep09_swe-8de7394abe88276197e8472fe7b23b83a842e195.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xb/-DSkrgc_RQaEPvpfkkhJ1g4_FTHXSAUl1ZgM6jAes/pokemon_season09_ep09_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/inZnxjPgYDfoO1J18J22ydEAaUisdErTYF49m_6JQ/pokemon_season09_ep09_swe.mp4",
             "captions": "",
-            "size": 2503014916
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/inZnxjPgYDfoO1J18J22ydEAaUisdErTYF49m_6JQ/pokemon_season09_ep09_swe.mp4"
         },
         {
             "id": "a6f59f057f844cba863553e224d32305",
@@ -183,16 +153,13 @@
             "title": "Skogens väktare!",
             "description": "Celebi, som är en Mytisk Pokémon, har blivit skadad i skogen, och Ash och hans vänner, tillsammans med en Pokémon Ranger, vårdar Celebi tills den blir frisk.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pvWfBX-ETLohjVT4iTTIwU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/he/b8pgu4yB3mZ2r-yJCVkafQRAlXUmexmaD1x_VRvAs/pokemon_season09_ep10_swe-e3e915ddad90042cfd78472fe1a828873e675243.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/he/b8pgu4yB3mZ2r-yJCVkafQRAlXUmexmaD1x_VRvAs/pokemon_season09_ep10_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/dH8ZVhOkiAcSR8Uf6gXRqpcE6SoHXzjWs3OvV6IYw/pokemon_season09_ep10_swe.mp4",
             "captions": "",
-            "size": 2518046212
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/dH8ZVhOkiAcSR8Uf6gXRqpcE6SoHXzjWs3OvV6IYw/pokemon_season09_ep10_swe.mp4"
         },
         {
             "id": "b635e9bcd72f426d98fad0d6296641f8",
@@ -201,16 +168,13 @@
             "title": "Från vaggan till Brock!",
             "description": "På sin fortsatta väg till nästa strid, kommer våra hjältar förbi en Pokémon-ninjaskola, där de hjälper eleverna att rädda sina Pokémon ur Team Rockets klor!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/tjXpvNcvQm0mPrQ1ilmQfg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ui/ShQdYFcWs3EdW_0g4VaCgYWcpeRH55P4nawWZUFBo/pokemon_season09_ep11_swe-2d7dde3064cd1e6d1b6ad8c7b3869b2f384ff4cd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ui/ShQdYFcWs3EdW_0g4VaCgYWcpeRH55P4nawWZUFBo/pokemon_season09_ep11_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UF/HdZbrZQRi9Y0IhLRq_sjIg7gprPIoYFqtNycGIiL8/pokemon_season09_ep11_swe.mp4",
             "captions": "",
-            "size": 2499078694
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UF/HdZbrZQRi9Y0IhLRq_sjIg7gprPIoYFqtNycGIiL8/pokemon_season09_ep11_swe.mp4"
         },
         {
             "id": "1c689b6a30aa48feb62eb76dab3b382c",
@@ -219,16 +183,13 @@
             "title": "Resor i tiden läker alla sår!",
             "description": "På en övergiven station möter May en kvinna som förlorade sitt livs kärlek på grund av en sorglig, nyckfull slump.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HGibajCqSP4ti63bas7OCw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M-/bB9xEvQUT9I3E47wwtXwzgnQiI90hA3198Ak52skM/pokemon_season09_ep12_swe-c21fa7843f5d196d8621522270625be5a1eaf0ca.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M-/bB9xEvQUT9I3E47wwtXwzgnQiI90hA3198Ak52skM/pokemon_season09_ep12_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ku/PmQtbBli8-ShRb4T_yAhT0fIvl0e4r2MyHBb-AL98/pokemon_season09_ep12_swe.mp4",
             "captions": "",
-            "size": 2480931635
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ku/PmQtbBli8-ShRb4T_yAhT0fIvl0e4r2MyHBb-AL98/pokemon_season09_ep12_swe.mp4"
         },
         {
             "id": "f9694ce4e5b0488d9d56948800cfa341",
@@ -237,16 +198,13 @@
             "title": "Drottning Lucy!",
             "description": "När striden dragit igång måste Ash ytterligare vässa sin skicklighet i \"att agera på stället-taktik\", för att kunna besegra en tystlåten, hårdför Gränslands-hjärna, och vinna sin fjärde Gränslands-symbol.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-WlM5OWwSI0nVaUiADPo0E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V4/2fKgtgrhSPJY883NZTgCQxJHpmeX5GrZxLEXrk71I/pokemon_season09_ep13_swe-7355dd7197028cd07373870720d18aad31bce438.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V4/2fKgtgrhSPJY883NZTgCQxJHpmeX5GrZxLEXrk71I/pokemon_season09_ep13_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y1/8RpZEGXnv7VzkKj1WBnn3uN2s2NdnkUbAtMt3Gduc/pokemon_season09_ep13_swe.mp4",
             "captions": "",
-            "size": 2455891104
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y1/8RpZEGXnv7VzkKj1WBnn3uN2s2NdnkUbAtMt3Gduc/pokemon_season09_ep13_swe.mp4"
         },
         {
             "id": "ca06060a00c947c2b570d676af64a935",
@@ -255,16 +213,13 @@
             "title": "Ett avbrott i rutinerna!",
             "description": "Efter att de anlänt till en ö upptäcker våra hjältar att en tävling i Pokémon-orientering just ska börja och de bestämmer sig för att delta, eftersom de gärna vill kämpa om medaljen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ygYGCgDJR8ItXDWdq9kqTU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u9/2S1I4BD0aj0XIFNBYr8Ze7_wOQC4AhqERgZF9WB30/pokemon_season09_ep14_swe-7b7eb59dae0231caf85eaa7dc85edc5c1b735b66.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u9/2S1I4BD0aj0XIFNBYr8Ze7_wOQC4AhqERgZF9WB30/pokemon_season09_ep14_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vW/e_MPFe8H67pdWh-WJ9puLI6xYOMg8-f2N9DGtnRQ4/pokemon_season09_ep14_swe.mp4",
             "captions": "",
-            "size": 2507083637
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vW/e_MPFe8H67pdWh-WJ9puLI6xYOMg8-f2N9DGtnRQ4/pokemon_season09_ep14_swe.mp4"
         },
         {
             "id": "9e1600339f5947a487204a082d08eecf",
@@ -273,16 +228,13 @@
             "title": "Harley upp i sadeln igen!",
             "description": "I Wisteria Towns Pokémon-tävling, upptäcker May att hon ska tävla mot sin gamla rival Harley.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nhYAM59ZR6QhyBKCC0I7s8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nw/JCwJUtKIK4397AJjD14iOiOMZ1nDjiqpYTQEFEscY/pokemon_season09_ep15_swe-1cd966452d0dc1f2a5cc0e9b04d5a2ebec3fbf65.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nw/JCwJUtKIK4397AJjD14iOiOMZ1nDjiqpYTQEFEscY/pokemon_season09_ep15_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ri/BqhrZ8WRjjU-ZYloHXRXcbo6zEOTzuI_jR6nSJqyI/pokemon_season09_ep15_swe.mp4",
             "captions": "",
-            "size": 2471155356
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ri/BqhrZ8WRjjU-ZYloHXRXcbo6zEOTzuI_jR6nSJqyI/pokemon_season09_ep15_swe.mp4"
         },
         {
             "id": "3dcc17937e2342daa8491314e548c90a",
@@ -291,16 +243,13 @@
             "title": "Fnurra på kärlekstråden!",
             "description": "När våra hjältar fortsätter mot Mays nästkommande Pokémon-tävling, upptäcker Ashs Grovyle att den är kär i Syster Joys Meganium!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/PcwXk34jQtoqEkTFOVIyQo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KA/5aS8H0hCPtAMx4ok25cwM7uxGO7AWu4FwVRkquos0/pokemon_season09_ep16_swe-2aaef0df3fe2d0b64e5c033c50a72849924cb216.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KA/5aS8H0hCPtAMx4ok25cwM7uxGO7AWu4FwVRkquos0/pokemon_season09_ep16_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2T/R-BpRvWHVWEEdtLoM5o8F6EY7gqFsd6gh-U-u8If0/pokemon_season09_ep16_swe.mp4",
             "captions": "",
-            "size": 2516161040
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2T/R-BpRvWHVWEEdtLoM5o8F6EY7gqFsd6gh-U-u8If0/pokemon_season09_ep16_swe.mp4"
         },
         {
             "id": "b024f6a5ea3c4c328ae6f6d99e32a04a",
@@ -309,16 +258,13 @@
             "title": "Den första kärleken!",
             "description": "Efter att ha träffat en ny bekant som heter Brianna och som är en stor fan av May och ett ännu större fan av Drew, upptäcker May att hon måste strida mot henne för att vinna sin tredje Pokémon-tävling i Kanto.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/sCT2peo8TDIiub22Z4yoEo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VR/reXQsOPAIC1GCor_yzEPvne75lJZXSeuJgb3XoU5E/pokemon_season09_ep17_swe-63e34eb88db78d4697109c02637b2e913f0ae740.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VR/reXQsOPAIC1GCor_yzEPvne75lJZXSeuJgb3XoU5E/pokemon_season09_ep17_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a1/eJmC9odVIOxuPRL-z70P-pAL9VMx9sOLDsw5l4TWg/pokemon_season09_ep17_swe.mp4",
             "captions": "",
-            "size": 2419469545
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a1/eJmC9odVIOxuPRL-z70P-pAL9VMx9sOLDsw5l4TWg/pokemon_season09_ep17_swe.mp4"
         },
         {
             "id": "4340ed77a14f45b49e1dcb63ef4c5bab",
@@ -327,16 +273,13 @@
             "title": "Att vara ett med Moder Natur!",
             "description": "Efter att en upprörd Sceptile har rusat in i skogen följer Ash och Pikachu efter den, och springer rakt in i en ilsken svärm Beedrill; och nästa Gränslands-hjärna!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Q0Dtd6FPRbQnh3LY-9MW6s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yK/h6GC2Yb99-jO7lbex7kqZxGhcR2SY42DTVBh6H0f8/pokemon_season09_ep18_swe-8e33d8b423e2d15e5f3b417e666ee96b72e5f7c2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yK/h6GC2Yb99-jO7lbex7kqZxGhcR2SY42DTVBh6H0f8/pokemon_season09_ep18_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BD/-j-zBq4tmNsUOcY-WueIWdZPER0le-L2rIPcV079I/pokemon_season09_ep18_swe.mp4",
             "captions": "",
-            "size": 2526536159
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BD/-j-zBq4tmNsUOcY-WueIWdZPER0le-L2rIPcV079I/pokemon_season09_ep18_swe.mp4"
         },
         {
             "id": "2ad1915eb97d4eb79881ebc91157a522",
@@ -345,16 +288,13 @@
             "title": "Ett med Naturen!",
             "description": "Det är dags för Ashs nästa Batalj Gränslands-utmaning; en strid i en imponerande utomhusarena, mot Gränslands-hjärnan Spenser!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/KtGRXrl9TrcmIHryRFXpSI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v-/-GiVQlJj3cvzHNgN6x1gVgO4Ug2Z_5d9bFqCfYRM8/pokemon_season09_ep19_swe-9f8b338a2710bc8e05d355898c54d05c2e74493d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v-/-GiVQlJj3cvzHNgN6x1gVgO4Ug2Z_5d9bFqCfYRM8/pokemon_season09_ep19_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/nfhURpuHHymYWexuMiDJWs87RP30nYUg6Ls-87DjY/pokemon_season09_ep19_swe.mp4",
             "captions": "",
-            "size": 2544956983
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nT/nfhURpuHHymYWexuMiDJWs87RP30nYUg6Ls-87DjY/pokemon_season09_ep19_swe.mp4"
         },
         {
             "id": "f4b9f7115b474fc5b250f6a4e6705502",
@@ -363,16 +303,13 @@
             "title": "Kung och drottning för en dag!",
             "description": "På väg mot Ashs nästa Batalj Gränslands-utmaning, träffar våra vänner på några Pokémon-TV-stjärnor som inte mår riktigt bra, så Brocks Bonsly och James Mr. Mime Jr får rycka in som stand-ins!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/9Ln3EVtHT8UslD2pOZwVQI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R1/SNdIMNN3bYUhaxdh0MJwDGmAMg0FWuOZuiYQ1JNOk/pokemon_season09_ep20_swe-fad4997af64d63ed7046c0454d9e860bc7ca4456.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R1/SNdIMNN3bYUhaxdh0MJwDGmAMg0FWuOZuiYQ1JNOk/pokemon_season09_ep20_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/Jn4uY-J_0ufXoLH7AdBIexKeIvP_pwmLff_fXciXg/pokemon_season09_ep20_swe.mp4",
             "captions": "",
-            "size": 2505924014
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/Jn4uY-J_0ufXoLH7AdBIexKeIvP_pwmLff_fXciXg/pokemon_season09_ep20_swe.mp4"
         },
         {
             "id": "4b44473aad8f49bc9f9772c091042e49",
@@ -381,16 +318,13 @@
             "title": "Röda blixten!",
             "description": "Efter att ha hört berättelser om hur flera Tränare och Pokémon har blivit besegrade och hånade av en mystisk talande Pokémon, känd som den Röda Blixten, bestämmer sig våra hjältar för att ta reda på vad som egentligen pågår!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S0RHOq2PSbwn5dywJEELkk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JT/BTOwH3ubblpqgraQxQmfw63XhPChmg05ueMCEx-rk/pokemon_season09_ep21_swe-a879de2819694138146f575af2da27d4f2b90b7c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JT/BTOwH3ubblpqgraQxQmfw63XhPChmg05ueMCEx-rk/pokemon_season09_ep21_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lD/ryaGem0rUkoT4jel4ECcmo9rvYJPfM2PlSMNdrT3Q/pokemon_season09_ep21_swe.mp4",
             "captions": "",
-            "size": 2460969682
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lD/ryaGem0rUkoT4jel4ECcmo9rvYJPfM2PlSMNdrT3Q/pokemon_season09_ep21_swe.mp4"
         },
         {
             "id": "50e11acfca7244c9b66715877ea672e1",
@@ -399,16 +333,13 @@
             "title": "Vad gör man inte för kärlek?!",
             "description": "När Brock träffar en förtjusande Pokémon-uppfödare som förut deltog i Pokémon-tävlingar, övertalar hon honom att tävla mot May i Gardenia Pokémon-tävlingen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UOEaz8pyRMktmcVh36mcuE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gx/gDzN9CyBUTIPM8TzHGSkTb9NqKdqelXD11JXYcVs8/pokemon_season09_ep22_swe-71fba5968fde6f173c0ff747a0528204a1420773.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gx/gDzN9CyBUTIPM8TzHGSkTb9NqKdqelXD11JXYcVs8/pokemon_season09_ep22_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VI/FzxDjC4C5C8__JHKy2GYn3vI6YA0SMMqIgo9UPgko/pokemon_season09_ep22_swe.mp4",
             "captions": "",
-            "size": 2469550277
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VI/FzxDjC4C5C8__JHKy2GYn3vI6YA0SMMqIgo9UPgko/pokemon_season09_ep22_swe.mp4"
         },
         {
             "id": "bd1b5469717a440997d3b627673bec17",
@@ -417,16 +348,13 @@
             "title": "Tre Jynx och en bebis!",
             "description": "På vägen mot Ashs nästa utmaning, träffar våra hjältar på en söt liten Smoochum som är hårt bevakad av tre Jynx, och Ash måste övertyga dem om att han är på deras sida!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vRtUaXF6RAkl9O2J2c77Bc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N6/9QcU7LTKG8LRC8KDzCJJcQWNtrbevCQ0_eC8rAU2A/pokemon_season09_ep23_swe-58931bfbdcaf1c6896187aa5e56eb4bb53e9a5b0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N6/9QcU7LTKG8LRC8KDzCJJcQWNtrbevCQ0_eC8rAU2A/pokemon_season09_ep23_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-d/V_q3_lvQwLqw_TNgnuWEyaC7TYcjyx8gzhJpmoWhc/pokemon_season09_ep23_swe.mp4",
             "captions": "",
-            "size": 2530759444
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-d/V_q3_lvQwLqw_TNgnuWEyaC7TYcjyx8gzhJpmoWhc/pokemon_season09_ep23_swe.mp4"
         },
         {
             "id": "69a1508775324c37adc3738e2b2d17f8",
@@ -435,16 +363,13 @@
             "title": "Snack utan ord!",
             "description": "På vägen mot nästa strid möter våra hjältar en fantastisk person som kan kommunicera med Pokémon genom att uppfatta deras känslor… och fler överraskningar väntar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/aaFQh3UyTDcrcNzjistF_g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zn/tBqlpdjQZZpEt6kFAacLAsfdu5gLaXrFsXwwUTuFc/pokemon_season09_ep24_swe-765cecd94f6367910820d830b472022fffe9c7e5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zn/tBqlpdjQZZpEt6kFAacLAsfdu5gLaXrFsXwwUTuFc/pokemon_season09_ep24_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/LpKdCqW6skq_bDVONkHn5KLWh8nRU6twyH4Y_SAvg/pokemon_season09_ep24_swe.mp4",
             "captions": "",
-            "size": 2486656986
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4b/LpKdCqW6skq_bDVONkHn5KLWh8nRU6twyH4Y_SAvg/pokemon_season09_ep24_swe.mp4"
         },
         {
             "id": "83313227a44a48859ee3ece4194f264e",
@@ -453,16 +378,13 @@
             "title": "Andra gången gillt!",
             "description": "Efter att ha förlorat mot Gränslands-hjärnan Anabel, anstränger sig Ash till det yttersta och genomför en del ovanlig special-träning; och Anabel är med honom! Kommer han att kunna besegra henne i revansch-matchen?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/gzEyJ6RKSIUnuPs5BlPJk4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B2/2kAvt5yRGXV1yEBrqjReOHF2DtkUd6TQzGowFl0H8/pokemon_season09_ep25_swe-bedc47bce8bb9446f88d397eaa9bd67aef1f41a0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B2/2kAvt5yRGXV1yEBrqjReOHF2DtkUd6TQzGowFl0H8/pokemon_season09_ep25_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E2/t1j5wewDN6p3ecNSuo1Y0yxi5A1UgPOY0NV_ylox0/pokemon_season09_ep25_swe.mp4",
             "captions": "",
-            "size": 2532054192
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E2/t1j5wewDN6p3ecNSuo1Y0yxi5A1UgPOY0NV_ylox0/pokemon_season09_ep25_swe.mp4"
         },
         {
             "id": "0dbe8d0a7be445d2a03981b6ebe20bcf",
@@ -471,16 +393,13 @@
             "title": "Pokémonskogvaktare! Deoxys kris del ett!",
             "description": "Efter att ha bevittnat underliga beteenden från flera olika Pokémon på vägen mot Pewter City, upptäcker våra hjältar och Pokémon Rancher Solana en elektromagnetisk störning, vilket leder dem till en Deoxys med problem!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Db6NCnvkRdIoDmBtuviC88/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kV/NCsjf7mcw6ihU2rmWTjrAGK0_kJZL5PWq9alv1gFc/pokemon_season09_ep26_swe-5f045e05c0ff9a8e089f21c3c45fc7372f83b3ad.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kV/NCsjf7mcw6ihU2rmWTjrAGK0_kJZL5PWq9alv1gFc/pokemon_season09_ep26_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/Rb-tK4ebJ-BBw89r7qtFmQLCR7xd8D81zM21HijI8/pokemon_season09_ep26_swe.mp4",
             "captions": "",
-            "size": 2497510431
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/Rb-tK4ebJ-BBw89r7qtFmQLCR7xd8D81zM21HijI8/pokemon_season09_ep26_swe.mp4"
         },
         {
             "id": "7917f06e1d3e461b8b1f55039adfcd4a",
@@ -489,16 +408,13 @@
             "title": "Pokémonskogvaktare! Deoxys kris del två!",
             "description": "Efter att Deoxys flugit iväg med Max och Meowth, beger sig våra hjältar av för att rädda dem och för att försöka ta reda på vad det är som är fel med den Mytiska Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/eRfwbh0-Rhsix9VA5rfzUo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-f/29tuCu12UfOrN6WwaYZ36OwfOmLr4bOdZxL_NcaZo/pokemon_season09_ep27_swe-eaedf123a720ec607777b046d3580f033bdf41ef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-f/29tuCu12UfOrN6WwaYZ36OwfOmLr4bOdZxL_NcaZo/pokemon_season09_ep27_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5a/qGOJ6f5nW050lz-aOSXxXdzU9xJMOP0J3rRu2gmE8/pokemon_season09_ep27_swe.mp4",
             "captions": "",
-            "size": 2486199926
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5a/qGOJ6f5nW050lz-aOSXxXdzU9xJMOP0J3rRu2gmE8/pokemon_season09_ep27_swe.mp4"
         },
         {
             "id": "a0f3401c04894f1a9de1a4a8661ca0c4",
@@ -507,16 +423,13 @@
             "title": "Allt är inte guld som glittrar!",
             "description": "På vägen mot Ashs sista Batalj Gränslands-strid och Brocks hemstad Pewter City, upptäcker våra hjältar en vandrande gyllene Sudowoodo och den frånvarande Tränaren som har orsakat dess ovanliga färg.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/oPNAHASJTxoneGkqGYcoMQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/31/JubQFuIIsHtpOA4tQKEzpmydezqvpQDxWfYuROU8A/pokemon_season09_ep28_swe-1a60ed2e1f9867b402374ad381b355833705344c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/31/JubQFuIIsHtpOA4tQKEzpmydezqvpQDxWfYuROU8A/pokemon_season09_ep28_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2J/sryA6Vs3cfkwLRiZxNSqHY-gf-iA6it-IDRFpzt0U/pokemon_season09_ep28_swe.mp4",
             "captions": "",
-            "size": 2515464432
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2J/sryA6Vs3cfkwLRiZxNSqHY-gf-iA6it-IDRFpzt0U/pokemon_season09_ep28_swe.mp4"
         },
         {
             "id": "f298f866d4f64917b1075561d96c61a3",
@@ -525,16 +438,13 @@
             "title": "Fula ränker, som de tänker!",
             "description": "May ska försöka vinna sin femte Tävling för att kvalificera sig till Grand Festival, men när hennes skumma rival Harley slår sig ihop med Team Rocket, ser det illa ut!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8pj4ZtT2SRcsQdVYdlsYaM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dp/tnzM9k3L8lXpzPYvl_bVxoH4-BeAk4oxWWRS-9pAA/pokemon_season09_ep29_swe-6dbe920b82bab4aae211b6ae910c4d5ece449990.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dp/tnzM9k3L8lXpzPYvl_bVxoH4-BeAk4oxWWRS-9pAA/pokemon_season09_ep29_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/xZUL4Uo5twejpKmSeuaHadR0pfs-An5Up0oa_BNeM/pokemon_season09_ep29_swe.mp4",
             "captions": "",
-            "size": 2430784268
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xy/xZUL4Uo5twejpKmSeuaHadR0pfs-An5Up0oa_BNeM/pokemon_season09_ep29_swe.mp4"
         },
         {
             "id": "6fd8c38fca59407b8222ef9ce0a7bb55",
@@ -543,16 +453,13 @@
             "title": "Elakt spel!",
             "description": "Efter en skakig start i Mulberry Pokémon-tävlingen, tar sig May vidare till finalen, där hon möter \"Jessebelle\", Team Rockets Jessie i förklädnad!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/b9jDj8pZQHsgiLvnOCnu1U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3e/RY5e9MdaguD47nKAu1k5DP6dYEvN4pna_-uu3KCik/pokemon_season09_ep30_swe-dacd7ec1ea7fdaba22ab84d66d426b69b96494dd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3e/RY5e9MdaguD47nKAu1k5DP6dYEvN4pna_-uu3KCik/pokemon_season09_ep30_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uc/aiX-QigCDapxFb936yWEA-D7viYw6OHg1rycqSKFg/pokemon_season09_ep30_swe.mp4",
             "captions": "",
-            "size": 2497772101
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uc/aiX-QigCDapxFb936yWEA-D7viYw6OHg1rycqSKFg/pokemon_season09_ep30_swe.mp4"
         },
         {
             "id": "2542675d49eb44758f65ff11acd51c7d",
@@ -561,16 +468,13 @@
             "title": "Ut med språket!",
             "description": "Efter att ett mindre bråk orsakat att Jessie och James har gått skilda vägar, slår de sig ihop med Team Rocket-agenterna Butch och Cassidy  i en Poké Ball-snappande plan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/JUJnXUnrRHUj2X_EazVHH0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G2/t4VVHN0z5qcUpH6pZEIen8YqSGtEm0vZtbk-oB5ss/pokemon_season09_ep31_swe-54f60e10341ec8334a1b56d050642616f08b9bc0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G2/t4VVHN0z5qcUpH6pZEIen8YqSGtEm0vZtbk-oB5ss/pokemon_season09_ep31_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C-/5B9Oufw4G8X_8izf8VNe6PG8fcVDMKKN87TInRmrg/pokemon_season09_ep31_swe.mp4",
             "captions": "",
-            "size": 2463469444
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C-/5B9Oufw4G8X_8izf8VNe6PG8fcVDMKKN87TInRmrg/pokemon_season09_ep31_swe.mp4"
         },
         {
             "id": "3a3bcd7efcd646d38b33fa3519222ce7",
@@ -579,16 +483,13 @@
             "title": "Gymarkitekterna!",
             "description": "När de kommer till Pewter City får våra hjältar veta att Brocks gamla Gym håller på att göras om av ingen mindre än Team Rocket i förklädnad, och Brock och Ash måste strida mot dem för att sätta stopp för det!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/OjvNfvzWRtMizP6NRkiLOc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/AShezrezgqh4S7UY_rseUw0iD-SAhKybjX-GkgDJQ/pokemon_season09_ep32_swe-491693f8b009970c4f523a13beca9b6a2ea96279.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/AShezrezgqh4S7UY_rseUw0iD-SAhKybjX-GkgDJQ/pokemon_season09_ep32_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/te/PR24qJkP1_PU7m2juByU9RTRgM26v_a7-ghiHkxqI/pokemon_season09_ep32_swe.mp4",
             "captions": "",
-            "size": 2490520266
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/te/PR24qJkP1_PU7m2juByU9RTRgM26v_a7-ghiHkxqI/pokemon_season09_ep32_swe.mp4"
         },
         {
             "id": "50027b17086f4f9596819b19b32487b1",
@@ -597,16 +498,13 @@
             "title": "Besegra sin inre fiende!",
             "description": "Bland några uråldriga ruiner blir Ash på något mystiskt vis besatt av anden till en urgammal och ondskefull kung, som utmanar Gränslands-hjärnan Brandon på en strid om alla hans Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UAJ7FwhvT5UloGbGbMkh7E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tg/Pp6sikU7i4I6GBOWUGFnRraFlbWdXl4puuNj-Cjaw/pokemon_season09_ep33_swe-fff633a5412d8ef83dbd95d79767c546fd8e1e31.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tg/Pp6sikU7i4I6GBOWUGFnRraFlbWdXl4puuNj-Cjaw/pokemon_season09_ep33_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ai/QBu7Sb7tVhJfchBFuDzjBoEFLm2V9WeDOzux3_GwE/pokemon_season09_ep33_swe.mp4",
             "captions": "",
-            "size": 2420114765
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ai/QBu7Sb7tVhJfchBFuDzjBoEFLm2V9WeDOzux3_GwE/pokemon_season09_ep33_swe.mp4"
         },
         {
             "id": "ff6f59a0a42a402b8ae13b7e8647cab9",
@@ -615,16 +513,13 @@
             "title": "Slaking Kong!",
             "description": "På väg mot Grand Festival hjälper våra hjältar en Bärmästare att återfå sin stulna skörd.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/_29ZoKQqQCsiuE7foZHyrk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J9/6q-lFc5yJb_zre3vc5O6Cq2Mp-bWE9BtIZTGvdSvU/pokemon_season09_ep34_swe-a7e4e581fe3b86a604dbb74c299c693972ebfa38.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J9/6q-lFc5yJb_zre3vc5O6Cq2Mp-bWE9BtIZTGvdSvU/pokemon_season09_ep34_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dq/0zYV5F6VT1GVngQzsqpZhPRZya0Nzg7EoN8qw79xk/pokemon_season09_ep34_swe.mp4",
             "captions": "",
-            "size": 2506623486
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dq/0zYV5F6VT1GVngQzsqpZhPRZya0Nzg7EoN8qw79xk/pokemon_season09_ep34_swe.mp4"
         },
         {
             "id": "88bb64af253c4427b4f5f885be49b656",
@@ -633,16 +528,13 @@
             "title": "May, vi har lite problem!",
             "description": "När Grand Festival sätter igång på Indigo Plateau, har May fullt upp med att försöka konkurrera med de bästa i världen, inklusive Harley, Drew, och hennes nya vän Solidad!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/iLtkryU8RCctPX4hb5JtlY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U1/KjZwt33aLca9jtQ8pVHdqqZTKbRhoZAx5gkyZoLJc/pokemon_season09_ep35_swe-4b9541242c08a71c6077dfb4690a3913e461257a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U1/KjZwt33aLca9jtQ8pVHdqqZTKbRhoZAx5gkyZoLJc/pokemon_season09_ep35_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sY/hlWpgMVbbRr_yLMwJrRkSgo3JKpHJw0Z5yQ2W2ya4/pokemon_season09_ep35_swe.mp4",
             "captions": "",
-            "size": 2504567007
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sY/hlWpgMVbbRr_yLMwJrRkSgo3JKpHJw0Z5yQ2W2ya4/pokemon_season09_ep35_swe.mp4"
         },
         {
             "id": "e104998378e4480fb80ccea5274aec36",
@@ -651,16 +543,13 @@
             "title": "Desperat gnat!",
             "description": "Grand Festival fortsätter framgångsrikt medan May möter och besegrar den ena imponerande medtävlaren efter den andra!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/4QSZg3jkSA8uAzOpSdK7DY/skim/",
             "stream_url": "https://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/e104998378e4480fb80ccea5274aec36/pokemon_season09_ep36_swe-84cf798e961b840958498ddc999e8c7f1c410d6e.m3u8",
             "poketv_url": "https://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/e104998378e4480fb80ccea5274aec36/pokemon_season09_ep36_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9v/ZPpRYyDDOJzsWCqwxOXiMSGXslObQCg3ykSwrKxRs/pokemon_season09_ep36_swe.mp4",
             "captions": "",
-            "size": 2528035598
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9v/ZPpRYyDDOJzsWCqwxOXiMSGXslObQCg3ykSwrKxRs/pokemon_season09_ep36_swe.mp4"
         },
         {
             "id": "f0fd75be9f74418b8e04fdfbda5debcf",
@@ -669,16 +558,13 @@
             "title": "Ratta in stridsfrekvensen!",
             "description": "May möter Drew i kvartsfinalen i Grand Festival, och de båda verkar vara väldigt jämbördiga konkurrenter! Kommer May att kunna ta hem spelet?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8P11vp90QYsjgT9-9pd688/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u7/Dj69ats81JDyO9zlWpYytvenYcxULSlartsANwZ_8/pokemon_season09_ep37_swe-7d94399e5f2c5f6c93386be257ed005898f8e279.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u7/Dj69ats81JDyO9zlWpYytvenYcxULSlartsANwZ_8/pokemon_season09_ep37_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wK/Ha_gVPvoR_83klrD1KG3dYXqleAxA6tyJLyM_0Zf4/pokemon_season09_ep37_swe.mp4",
             "captions": "",
-            "size": 2548654957
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wK/Ha_gVPvoR_83klrD1KG3dYXqleAxA6tyJLyM_0Zf4/pokemon_season09_ep37_swe.mp4"
         },
         {
             "id": "0cf125e6d6034325be7b902996923817",
@@ -687,16 +573,13 @@
             "title": "Aimpompa och ståt!",
             "description": "På vägen till Ashs revansch-match mot Brandon, kommer våra hjältar förbi en by som deltar i en årlig ritual som går ut på att välja en kung, och Ashs Aipom blir en högst ovillig kandidat!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DPEl5tYDQyUvnuQKZaSOBc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cS/EgVZgKtEtRCRav44-w1ICFrk6UAepkhoIX4vWA8Ns/pokemon_season09_ep38_swe-e18a86582d1e9758aee11a5e26c7e57928685cf5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cS/EgVZgKtEtRCRav44-w1ICFrk6UAepkhoIX4vWA8Ns/pokemon_season09_ep38_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rE/kaq6s6b1VipkaeAGZ23de-ceqwRxiwhtn5gXPOyng/pokemon_season09_ep38_swe.mp4",
             "captions": "",
-            "size": 2517050569
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rE/kaq6s6b1VipkaeAGZ23de-ceqwRxiwhtn5gXPOyng/pokemon_season09_ep38_swe.mp4"
         },
         {
             "id": "87a8449c45354056a613967e784ca3f2",
@@ -705,16 +588,13 @@
             "title": "Imorgon strid, idag komedi!",
             "description": "Våra hjältar träffar en blivande komiker som heter Audrey och hennes showbiz sidekick och Pokémon-partner, Chatot.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/h6hEnEU1QFYphOWfnhMo_I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jz/_A8s-Kwgy-dhlsb5T9QVHJ1KFfhWX9s30cdh6wSfA/pokemon_season09_ep39_swe-6964ae5fd8f67bff1f9ca13cb3a891dca61d42ac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jz/_A8s-Kwgy-dhlsb5T9QVHJ1KFfhWX9s30cdh6wSfA/pokemon_season09_ep39_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uV/oDNqbJLPK1urhwJbln-ZEbIKaSwvekIyYnT6LEKF4/pokemon_season09_ep39_swe.mp4",
             "captions": "",
-            "size": 2515013644
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uV/oDNqbJLPK1urhwJbln-ZEbIKaSwvekIyYnT6LEKF4/pokemon_season09_ep39_swe.mp4"
         },
         {
             "id": "f0d7b1022fb04c95a681f1b5af066595",
@@ -723,16 +603,13 @@
             "title": "Duell i den djupaste skogen!",
             "description": "Våra hjältar befinner sig plötsigt indragna i Pokémonpolitiken, när två Weavile drabbar samman om ledarskapet över en grupp Sneasel!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8NexAi-wTJUpoHxta8GZZU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xl/zwGmkqyjRqJOzAGNOKvn_Zo5uQ1PcK8nk2qLAEa30/pokemon_season09_ep40_swe-378243540ca7345ad97cefa21057bd04614716a3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xl/zwGmkqyjRqJOzAGNOKvn_Zo5uQ1PcK8nk2qLAEa30/pokemon_season09_ep40_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fs/D8ZQd8yTaFGZAW5VC7HCDKBm7KC-rLvbOInafMWhs/pokemon_season09_ep40_swe.mp4",
             "captions": "",
-            "size": 2513918194
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fs/D8ZQd8yTaFGZAW5VC7HCDKBm7KC-rLvbOInafMWhs/pokemon_season09_ep40_swe.mp4"
         },
         {
             "id": "ef9cf5e4a3db488f91269ee123aceb05",
@@ -741,16 +618,13 @@
             "title": "Sans och balans!",
             "description": "När våra hjältar är framme för Ashs strid mot Brandon, upptäcker de att syster Joy som är en stor fan av Ash och May!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/75z15KPbSI8kSae4SOs6wU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8F/2kYjL8oKEYypMGOOROd7u2_pzU-752bLgDdjfUkVw/pokemon_season09_ep41_swe-ebc3bb73519327e0a5a62795c25c058e5b1cdb84.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8F/2kYjL8oKEYypMGOOROd7u2_pzU-752bLgDdjfUkVw/pokemon_season09_ep41_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rs/IbnDIWJed6zCGt6PhVabPgv03VwEMEFlH0hN6_HOg/pokemon_season09_ep41_swe.mp4",
             "captions": "",
-            "size": 2476660655
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rs/IbnDIWJed6zCGt6PhVabPgv03VwEMEFlH0hN6_HOg/pokemon_season09_ep41_swe.mp4"
         },
         {
             "id": "a9f0226c950e4b13ac86a78222a5ae8d",
@@ -759,16 +633,13 @@
             "title": "Insiktets ovärdeliga ljus!",
             "description": "Efter Ashs och Mays senaste förluster i några viktiga matcher och vid Grand Festival, känner de sig lite nere, tills dess att de träffar flera gamla vänner som stöttar dem.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/qfAibJUOSxMrIangiKlro0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N6/_dBGPY-KPwZQTYWIXVgKwzVSNaZ9JLO4KaJqQKYRU/pokemon_season09_ep42_swe-0f0e379b95552777bf57d67d637e37fb23fd8d68.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N6/_dBGPY-KPwZQTYWIXVgKwzVSNaZ9JLO4KaJqQKYRU/pokemon_season09_ep42_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yb/P4WzK7jToXx0DYizZ2kTvBYmkG1l0Al6WiNsHL2_w/pokemon_season09_ep42_swe.mp4",
             "captions": "",
-            "size": 2456463638
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yb/P4WzK7jToXx0DYizZ2kTvBYmkG1l0Al6WiNsHL2_w/pokemon_season09_ep42_swe.mp4"
         },
         {
             "id": "a12d8ac6475c40c99adabf28445db25b",
@@ -777,16 +648,13 @@
             "title": "Doktor Brock!",
             "description": "När syster Joy blir för sjuk för att kunna ta hand om Pokémon-center, hoppar våra hjältar in, och hjälper en Poké-barnvakt och hans skyddslingar efter en bussolycka.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/oS2KxkdcQMkmtq_KERdsls/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mR/aghakNcpFdqEw2jEdDn_4LaXiuYQnY8MJmyIhkJvc/pokemon_season09_ep43_swe-ad31ab455b05eeb69a36edf90f1de4ca9a8a0a8d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mR/aghakNcpFdqEw2jEdDn_4LaXiuYQnY8MJmyIhkJvc/pokemon_season09_ep43_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mX/njgQzhlKAwtyqc-gpcgRVFTEkl-_gHKbG6hNr4h4U/pokemon_season09_ep43_swe.mp4",
             "captions": "",
-            "size": 2505139582
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mX/njgQzhlKAwtyqc-gpcgRVFTEkl-_gHKbG6hNr4h4U/pokemon_season09_ep43_swe.mp4"
         },
         {
             "id": "c6c80ec3430a4787ade8594017fc430e",
@@ -795,16 +663,13 @@
             "title": "De fyras gäng!",
             "description": "Ash förbereder sig inför sin sista revansch-match mot Brandon genom att samla de Pokémon han varit tillsammans med längst, genom att prata med dem om gamla minnen och genom att träna intensivt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/xsgOw0MKR4crehZQBf8Qw4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jr/no-GSey9le_QCCtgAknnOnpUeSTYIdkT42Etr8pXs/pokemon_season09_ep44_swe-830dfd76372f3102e20563cdcb4fcfc17a2d44d8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jr/no-GSey9le_QCCtgAknnOnpUeSTYIdkT42Etr8pXs/pokemon_season09_ep44_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7V/VFb5TL-4tMb6Tgf0tMuk5rYxAOeN6uZ8GspR2rMRk/pokemon_season09_ep44_swe.mp4",
             "captions": "",
-            "size": 2507485263
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7V/VFb5TL-4tMb6Tgf0tMuk5rYxAOeN6uZ8GspR2rMRk/pokemon_season09_ep44_swe.mp4"
         },
         {
             "id": "a85e2778410e415e90985a85c81ff65e",
@@ -813,16 +678,13 @@
             "title": "Det avgörande slaget!",
             "description": "Ash har förlorat mot Brandon två gånger, och nu har hans Charizard blivit besegrad! Kommer han att kunna slå tillbaka och därmed vinna sin sista Gränslands-symbol?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/qF4neEEOQV4kJhahcgf9l4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yk/eFGJjRPi21la3TcqRz1owVTzYcrtvBGtJxOU9V1Oc/pokemon_season09_ep45_swe-7563023fcc0174e37d14754397d8cc5c2e9eb7f3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yk/eFGJjRPi21la3TcqRz1owVTzYcrtvBGtJxOU9V1Oc/pokemon_season09_ep45_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h7/3Yj1gr8vrEpZZaTRnf_F46JQVgdsxOWmOEBkFMKnU/pokemon_season09_ep45_swe.mp4",
             "captions": "",
-            "size": 2542714916
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h7/3Yj1gr8vrEpZZaTRnf_F46JQVgdsxOWmOEBkFMKnU/pokemon_season09_ep45_swe.mp4"
         },
         {
             "id": "cf7817063f994dbba1a5b3309571ddf6",
@@ -831,16 +693,13 @@
             "title": "Vem har vunnit?!",
             "description": "Ash har besegrat Batalj Gränsland, men hans tävlingsinriktade personlighet gör att han inte kan vila länge, och både han och May anmäler sig till en inofficiell Pokémon-tävling i Terracotta Town!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms/img/animation/episodeimages/season09/season9_ep46_ss1.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/z3gXBj-ZTbsoaWzMJVx3fY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i7/7e1xERT5LbOzObpDAEQEdY3KOug0waPZD88GpylTE/pokemon_season09_ep46_swe-60da32ef30f98561445077da4a195a777fff18c1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i7/7e1xERT5LbOzObpDAEQEdY3KOug0waPZD88GpylTE/pokemon_season09_ep46_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N8/shZkghnwC-0yCbbxhZXNL2gtcmz748yAbAhfSBoXk/pokemon_season09_ep46_swe.mp4",
             "captions": "",
-            "size": 2538481640
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N8/shZkghnwC-0yCbbxhZXNL2gtcmz748yAbAhfSBoXk/pokemon_season09_ep46_swe.mp4"
         },
         {
             "id": "a56d51756bf445089475745135ba89d6",
@@ -849,16 +708,13 @@
             "title": "Slutet är början på något nytt!",
             "description": "Efter en sista Tävlings-strid mellan Ash och May går våra hjältar skilda vägar, och Ash upptäcker det som ska bli hans nästa äventyr!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pW1RdWv0RQglHV0UTW6idY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8e/K8KY6ktZOWd73wnMkZBBv6AeVsF1yjF0fqh_gzeCs/pokemon_season09_ep47_swe-67cfbd03eba801cf8dcdb3e95712384afdd0b921.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8e/K8KY6ktZOWd73wnMkZBBv6AeVsF1yjF0fqh_gzeCs/pokemon_season09_ep47_swe.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aZ/_biM3PqCZADt0uZif8aOOPJUgljqy67aFsuf7knLI/pokemon_season09_ep47_swe.mp4",
             "captions": "",
-            "size": 2460296780
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aZ/_biM3PqCZADt0uZif8aOOPJUgljqy67aFsuf7knLI/pokemon_season09_ep47_swe.mp4"
         }
     ]
 }

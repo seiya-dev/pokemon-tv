@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-evolucoes",
+    "channel_id": "evolutions",
     "channel_name": "Pokémon Evoluções",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1125x1500-br.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1660x940-br.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1660x940-br.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1660x940-br.png"
     },
+    "category_id": 4,
+    "category": "Specials",
     "media_type": "original",
-    "order": 53,
-    "channel_creation_date": 1631197973,
-    "channel_update_date": 1704734389,
+    "order": -1631197973,
     "media": [
         {
             "id": "62672f93eb8b45fda9e94fa72203011c",
@@ -21,16 +18,13 @@
             "title": "Episódio 1: O campeão",
             "description": "O que passa pela mente de um Campeão Pokémon ao se preparar para enfrentar o maior dos desafios? Dúvidas? Arrependimentos? Determinação? Tudo ao mesmo tempo?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ymcvk-uLRf0qelPpyIDARw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fA/7nhMbhvNmYHaQl1pDc3mS6KJjmgTfBNIQVFXdJ8IQ/pokemonevolutions_season01_ep01_bpo-d66b08093377dc88fbd1940660dbba18a58cb816.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kp/UH_4s4dMt6X5L6MlFEEB3WMpx5PxZNTCNs9EbcLTE/pokemonevolutions_season01_ep01_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kd/p_Rrq5VElbofO9GCs2QRSkkzUmw3zwYFtx80zRZeI/pokemonevolutions_season01_ep01_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fA/7nhMbhvNmYHaQl1pDc3mS6KJjmgTfBNIQVFXdJ8IQ/vtt/3/pt-BR.vtt",
-            "size": 1081622404
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kd/p_Rrq5VElbofO9GCs2QRSkkzUmw3zwYFtx80zRZeI/pokemonevolutions_season01_ep01_bpo.mp4"
         },
         {
             "id": "6bf0d569b01749fc820fddc2ee866442",
@@ -39,16 +33,13 @@
             "title": "Episódio 2: O eclipse",
             "description": "Enquanto o sol se põe e traz à tona memórias dolorosas, Lílian faz uma promessa de resgatar sua mãe e seu amigo, Nebulino. Porém, na hora do seu triunfo, uma presença sinistra lança uma sombra sobre esse reencontro enluarado.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep02_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep02_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep02_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/a_DVabAXSfwgg_dwu6GZEI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/lR0zI6-U8bQ-n8yGJTE5M2h9MA6ZO5VC4GeaaIfTw/pokemonevolutions_season01_ep02_bpo-cf50fac7619803a5a2c19102e7a8ddd28539ef4e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/19/CquV6CdjIKHKh-dPuZeGStHHpNaHoeTxlF6fZ2TmQ/pokemonevolutions_season01_ep02_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VK/ZiEZMjznGkWwk2scSWnvxgAonponLngT2k-OsLhxE/pokemonevolutions_season01_ep02_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/lR0zI6-U8bQ-n8yGJTE5M2h9MA6ZO5VC4GeaaIfTw/vtt/1/pt-BR.vtt",
-            "size": 1139996733
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VK/ZiEZMjznGkWwk2scSWnvxgAonponLngT2k-OsLhxE/pokemonevolutions_season01_ep02_bpo.mp4"
         },
         {
             "id": "4d61b32899a54107931efec2734866db",
@@ -57,16 +48,13 @@
             "title": "Episódio 3: O visionário",
             "description": "O que fazer quando alguém diz que a sua forma de pensar está errada? Você dá ouvidos? Ou segue sua intuição a qualquer custo, mesmo que isso coloque em risco as pessoas e os Pokémon de Kalos?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep03_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep03_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep03_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TWGzKJmlQQckx7-wnNIZts/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eb/04Vda7ljardZuKNOI21sQm0DJ9OWIBWSa2pNJOghE/pokemonevolutions_season01_ep03_bpo-cabf995d62af74991038d53848e4ffe037aa0e34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W4/byv0RYPJkfBRhOrFfU1nR-7lEJ-cmbNIvRoQcJDpY/pokemonevolutions_season01_ep03_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1N/Xn0w_dLi9-_q8cy510olJS-LLLN-uOJZ_g--hxaWI/pokemonevolutions_season01_ep03_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Eb/04Vda7ljardZuKNOI21sQm0DJ9OWIBWSa2pNJOghE/vtt/2/pt-BR.vtt",
-            "size": 904108308
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1N/Xn0w_dLi9-_q8cy510olJS-LLLN-uOJZ_g--hxaWI/pokemonevolutions_season01_ep03_bpo.mp4"
         },
         {
             "id": "6868b92899ae44a7922d8fef58857084",
@@ -75,16 +63,13 @@
             "title": "Episódio 4: O plano",
             "description": "Ele pensou em tudo ao tramar seus esquemas sorrateiramente: manipulando pessoas e Pokémon para que cada parte de seu plano para Unova funcionasse exatamente da maneira que planejou.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep04_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep04_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep04_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aGi5KJmuRKcki2P71iFcIQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FF/EOxRejB4sduyS19OShcaDx16nvdf0iQOp098mU1kM/pokemonevolutions_season01_ep04_bpo-bb43208ae50fadbe3cf36e734bc604da73ba83b5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1v/w1u6_gFy_dV4lmcYbLNXcstVo9bPQYeBH1XQUJxV8/pokemonevolutions_season01_ep04_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2p/uzTZZxVFMHn34TwQLmKvN6nAJl9ugB8rGueUHrmuc/pokemonevolutions_season01_ep04_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FF/EOxRejB4sduyS19OShcaDx16nvdf0iQOp098mU1kM/vtt/1/pt-BR.vtt",
-            "size": 1234067191
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2p/uzTZZxVFMHn34TwQLmKvN6nAJl9ugB8rGueUHrmuc/pokemonevolutions_season01_ep04_bpo.mp4"
         },
         {
             "id": "cd3b68552a7f4eb5add6913d9507cb13",
@@ -93,16 +78,13 @@
             "title": "Episódio 5: O rival",
             "description": "Rivais. Não importa o quão rápido você consiga correr por Sinnoh, eles estão sempre um passo à sua frente, motivando-o a dar o seu melhor. Mas, a um dado momento, você deve parar para enfrentar eles e seus Pokémon, não importa quem sejam.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep05_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep05_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep05_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zTtoVSp_TrUrdaRPZUHyxM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mL/p0-YLAXr8Y9LhZTZaHUHzpLcjhxEWFt2vFVLU9vcY/pokemonevolutions_season01_ep05_bpo-1603b98f37143fb04b182affcf82c4f5ca057cec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/36/M6itPv1oX3srPnmBtwKR8nhBZFT_HELn7mTq_Veb0/pokemonevolutions_season01_ep05_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IS/mtr2RuLYoTGFeZVtaFsW7Y9qgeMcCeufPiMuQz9-0/pokemonevolutions_season01_ep05_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mL/p0-YLAXr8Y9LhZTZaHUHzpLcjhxEWFt2vFVLU9vcY/vtt/1/pt-BR.vtt",
-            "size": 919908216
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IS/mtr2RuLYoTGFeZVtaFsW7Y9qgeMcCeufPiMuQz9-0/pokemonevolutions_season01_ep05_bpo.mp4"
         },
         {
             "id": "ee36d2e60c0c43959925884514c21c3b",
@@ -111,16 +93,13 @@
             "title": "Episódio 6: O desejo",
             "description": "Por toda a sua vida, ela ouviu histórias sobre seu povo. Ouviu que era preciso colocar os desejos alheios acima dos seus. Ouviu que não era possível escapar do seu dever em Hoenn.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep06_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7jbS5gwMQ5UmSWIRRTCHDs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qp/M_5qrq3XpcIQ_H1bZkdbEq0JY98QyZnj_H6BkG-74/pokemonevolutions_season01_ep06_bpo-d5aaffe88064abc38c75e67c2982bd3d541b951a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A9/TXPVTq9o6Z9kj3hxfWAaGjaZQcipJ8b0kwEjimaLs/pokemonevolutions_season01_ep06_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bb/j44f_rp25Y-MWbqhrqGUQgEUsPsyI8b-TxtPz_Z2w/pokemonevolutions_season01_ep06_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qp/M_5qrq3XpcIQ_H1bZkdbEq0JY98QyZnj_H6BkG-74/vtt/4/pt-BR.vtt",
-            "size": 1474292263
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bb/j44f_rp25Y-MWbqhrqGUQgEUsPsyI8b-TxtPz_Z2w/pokemonevolutions_season01_ep06_bpo.mp4"
         },
         {
             "id": "1beee4fe5d4643dc8abc6b7f0ed57956",
@@ -129,16 +108,13 @@
             "title": "Episódio 7: O show",
             "description": "Levantamos as cortinas para mostrar as Garotas Kimono narrando a história dos Pokémon Lendários de Johto em uma experiência mágica que você jamais esquecerá!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep07_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/G-7k_l1GQ9wirxrfw7VeVY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p_/oxztqJDGujtIxxmaC-1mas5tR8-HLfaynBnVvigdE/pokemonevolutions_season01_ep07_bpo-e2f69b5e147c1d913586a666f91ebcd7d7a05e2d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nx/jR57ZTkUGd2SoxTuOIi9PqYW7K2PbFjK-s_bqwEbM/pokemonevolutions_season01_ep07_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lL/zZSBqSXKlkStYyFtVwH7Etm4_kHDdu3h-EVpmEmxA/pokemonevolutions_season01_ep07_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p_/oxztqJDGujtIxxmaC-1mas5tR8-HLfaynBnVvigdE/vtt/1/pt-BR.vtt",
-            "size": 979170222
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lL/zZSBqSXKlkStYyFtVwH7Etm4_kHDdu3h-EVpmEmxA/pokemonevolutions_season01_ep07_bpo.mp4"
         },
         {
             "id": "f5f6890bc06048928f1b5e05fe1aefa1",
@@ -147,16 +123,13 @@
             "title": "Episódio 8: A descoberta",
             "description": "Tudo começou como um sussurro, que se tornou um rumor. E agora todo mundo está falando sobre isso. O Pokémon mais poderoso de todos foi descoberto em Kanto! E Green, a Treinadora de Pokémon extraordinária, está na corrida para pegá-lo. Mas ela não é a única...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9faJC8BgSJIjxteBf4a76E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KU/tkLNWZ7Wd0692b6rVfAbVX5SmRTg9ew8TkSeAZ8Ww/pokemonevolutions_season01_ep08_bpo-d05d5470be0bc5f9eda435149f92cc96d65ade34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bm/CB85HBXwV2kxRHAm2rJaf375HFEyzl9vNX355DDCQ/pokemonevolutions_season01_ep08_bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/59/rbuB4FjnH8kuH-gs1RTW9tolvx-29tTqnug7KcYDs/pokemonevolutions_season01_ep08_bpo.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KU/tkLNWZ7Wd0692b6rVfAbVX5SmRTg9ew8TkSeAZ8Ww/vtt/1/pt-BR.vtt",
-            "size": 1298523825
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/59/rbuB4FjnH8kuH-gs1RTW9tolvx-29tTqnug7KcYDs/pokemonevolutions_season01_ep08_bpo.mp4"
         }
     ]
 }

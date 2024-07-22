@@ -2,35 +2,21 @@
 import fs from 'fs';
 import path from 'path';
 
-// dependencies
-import gm from 'got';
-
 // helpers
 const __dirname = path.resolve();
 const jsonLoad = (file) => {
     return JSON.parse(fs.readFileSync(file));
 };
-
-// got config
-const gotCfg = {
-    headers: { 
-        'user-agent': [
-            'Mozilla/5.0',
-            '(Windows NT 10.0; Win64; x64; rv:70.0)',
-            'Gecko/20100101 Firefox/70.0',
-        ].join(' '),
-    },
-};
-
-// set req module cfg
-const got = gm.extend(gotCfg);
+function saveJson(path, data, min){
+    const jsonStr = JSON.stringify(data, null, (min? '' : '    ')).replace(/\r/g, '') + '\n';
+    fs.writeFileSync(path, jsonStr);
+}
 
 // program
 const packageJson = jsonLoad(path.join(__dirname, 'package.json'));
 console.log(`\n=== ${packageJson.programName} ${packageJson.version} ===\n`);
 const dbfolder = path.join(__dirname, '/database/');
-const urlsDbFile = path.join(__dirname, '/database/urls.csv');
-const dbfolderBk = path.join(__dirname, '/old_backups/');
+const wdbfolder = path.join(__dirname, '/watch/data/');
 
 // regions
 const tvRegion = {
@@ -50,134 +36,63 @@ const tvRegion = {
     'se': 'Sverige',
 };
 
-// set tvs
-const selTvRegions = Object.keys(tvRegion);
-
 // run app
 (async () => {
+    await cleanupDb();
     await indexDb();
 })();
 
-async function getChannelId(c, skipCatName){
-    const chImg = c.channel_images.dashboard_image_1125_1500;
-    const chId = chImgClean(chImg).split('/').slice(0, -1);
-    const cat = findCat(c, chImg);
-    
-    if(chId.length == 1 && chImg.match(/\/movie14w/)){
-        chId[0] = 'movie14w';
-    }
-    
-    if(chId.length == 1 && chImg.match(/\/movie14b/)){
-        chId[0] = 'movie14b';
-    }
-    
-    if(cat.name != '' && !skipCatName){
-        chId.unshift(cat.name);
-    }
-    
-    if(skipCatName && chId.length > 1){
-        chId.shift();
-    }
-    
-    return chId.join('-');
-}
-
-function chImgClean(img){
-    return img.split('/').slice(8).join('/');
-}
-
-// fix media
-function editMediaArr(m){
-    for (let v in m){
-        delete m[v].count;
-        delete m[v].rating;
-        m[v].images = fixImgObj(m[v].images);
-        m[v].stream_url  = fixUrl(m[v].stream_url);
-        m[v].captions    = fixUrl(m[v].captions);
-        m[v].offline_url = fixUrl(m[v].offline_url);
-        if(m[v].skimming_thumbnail_url_base){
-            m[v].skimming_thumbnail_url_base = fixUrl(m[v].skimming_thumbnail_url_base);
-        }
-    }
-    return m;
-}
-
-function fixImgObj(obj){
-    for(let k of Object.keys(obj)){
-        obj[k] = fixUrl(obj[k]);
-    }
-    return obj;
-}
-
-function fixUrl(url){
-    if(url.match('web.archive.org')){
-        url = url.replace(/https?:\/\/web\.archive\.org\/web\/\d+\//, '');
-    }
-    return url;
-}
-
-// make dir path
+// route path
 function dirPath(cc){
     return dbfolder + cc + '/';
 }
 
-function saveData(path, data){
-    const jsonStr = JSON.stringify(data, null, '    ').replace(/\r/g, '') + '\n';
-    fs.writeFileSync(path, jsonStr);
-}
-
-async function indexDb(){
-    const dbData = {};
-    for(let cc of selTvRegions){
-        console.log(`# ${cc} Indexing ${tvRegion[cc]} channel data...`);
+// cleanup db before index
+async function cleanupDb(){
+    for(let cc of Object.keys(tvRegion)){
+        console.log(`# ${cc} Cleaning ${tvRegion[cc]} channel data...`);
         const ccfolder = fs.readdirSync(dirPath(cc));
-        dbData[cc] = [];
+        
         for(let f of ccfolder){
-            const data = jsonLoad(dirPath(cc) + f);
-            const chImg = data.channel_images.dashboard_image_1125_1500;
-            const cat = findCat(data, chImg);
-            Object.assign(data, cat);
-            data.order = data.channel_creation_date * -1;
+            const vdata = jsonLoad(dirPath(cc) + f);
+            const cdata = {};
             
-            if(data.category_id == 1){
-                const ssNum = chImg.match(/\/season(\d+)\//);
-                if(ssNum){
-                    let idxNum = parseInt(ssNum[1]) * -1000;
-                    data.order = idxNum;
-                }
-                else{
-                    console.log('[WARN] Cant find season num:', chImg);
-                }
-            }
-            if(data.category_id == 3){
-                const movNum = chImg.match(/\/movie(\d+)\//);
-                if(movNum){
-                    let idxNum = parseInt(movNum[1]) * -1000;
-                    data.order = idxNum;
-                    if(chImg.match(/\/movie14w-/)){
-                        data.order = idxNum - 1;
-                    }
-                }
-                else{
-                    console.log('[WARN] Cant find movie num:', chImg);
-                }
+            const mTypeCat = f.replace(/\.json$/,'').split('-')[0];
+            const channelId = f.replace(/\.json$/,'').split('-').slice(1).join('-');
+            
+            cdata.channel_id = channelId;
+            cdata.channel_name = vdata.channel_name;
+            cdata.channel_description = vdata.channel_description;
+            
+            cdata.channel_images = vdata.channel_images;
+            
+            if(!cdata.channel_images.spotlight_image_1660_940){
+                console.warn('-> WARN: Missing spotlight image 1660x940:', cdata.channel_id);
             }
             
-            const chData = {
-                channel_id: await getChannelId(data, true),
-                channel_id_ext: data.channel_id,
-                channel_name: data.channel_name,
-                channel_description: data.channel_description,
-                channel_images: data.channel_images,
-                category_id: data.category_id,
-                category: data.category,
-                order: data.order,
-                channel_creation_date: data.channel_creation_date,
-                channel_update_date: data.channel_update_date,
-                media: [],
-            };
+            Object.assign(cdata, findCat(mTypeCat));
+            cdata.order = vdata.order;
             
-            for(let m of data.media){
+            if(vdata.channel_creation_date){
+                cdata.order = vdata.channel_creation_date * -1;
+            }
+            if(cdata.category_id == 1){
+                const seriesNum = cdata.channel_id.match(/^season(?<num>\d+)$/);
+                const seriesNumInt = parseInt(seriesNum.groups.num);
+                cdata.order = seriesNumInt * -1000;
+            }
+            if(cdata.category_id == 3){
+                const movieNum = cdata.channel_id.match(/^movie(?<num>\d+)(?<sub>\w)?$/);
+                const movieNumInt = parseInt(movieNum.groups.num);
+                cdata.order = movieNumInt * -1000;
+                if(movieNumInt == 14 && movieNum.groups.sub == 'w'){
+                    cdata.order -= 1;
+                }
+            }
+            
+            cdata.media = [];
+            for(const m of vdata.media){
+                delete m.images.small;
                 const mediaData = {
                     id: m.id,
                     season: m.season,
@@ -186,52 +101,68 @@ async function indexDb(){
                     description: m.description,
                     images: m.images,
                     stream_url: m.stream_url,
-                    poketv_url: m.poketv_url ? m.poketv_url : '',
+                    poketv_url: m.poketv_url,
                     captions: m.captions,
                     offline_url: m.offline_url,
-                    size: m.size,
                 };
-                chData.media.push(mediaData);
+                if(m.id.match(/^[-0-9a-f]{32}$/) && m.poketv_url == ''){
+                    console.warn('-> WARN: Missing poketv_url:', m.id, cdata.channel_id, m.season, m.episode);
+                }
+                cdata.media.push(mediaData);
             }
             
-            dbData[cc].push(chData);
+            saveJson(dirPath(cc) + f, cdata);
         }
-        dbData[cc].sort(sortItems);
-        saveData('watch/data/' + cc + '.json', dbData[cc]);
     }
 }
 
-function findCat(data, chImg){
+// do index
+async function indexDb(){
+    for(let cc of Object.keys(tvRegion)){
+        console.log(`# ${cc} Indexing ${tvRegion[cc]} channel data...`);
+        const ccfolder = fs.readdirSync(dirPath(cc));
+        const dbData = [];
+        for(let f of ccfolder){
+            const chData = jsonLoad(dirPath(cc) + f);
+            dbData.push(chData);
+        }
+        dbData.sort(sortItems);
+        saveJson(wdbfolder + '/' + cc + '.json', dbData, true);
+    }
+}
+
+function findCat(mTypeCat){
     const cat = {};
-    if(data.media_type == 'episode' && !chImg.match(/\/stunts\//)){
-        cat.category_id = 1;
-        cat.category = 'Series';
-        cat.name = 'series';
-    }
-    else if(chImg.match(/\/stunts\//)){
-        cat.category_id = 2;
-        cat.category = 'Stuns';
-        cat.name = '';
-    }
-    else if(data.media_type == 'movie'){
-        cat.category_id = 3;
-        cat.category = 'Movies';
-        cat.name = 'movies';
-    }
-    else if(data.media_type == 'original'){
-        cat.category_id = 4;
-        cat.category = 'Specials';
-        cat.name = 'original';
-    }
-    else if(data.media_type == 'junior'){
-        cat.category_id = 5;
-        cat.category = 'Junior';
-        cat.name = 'junior';
-    }
-    else{
-        cat.category_id = 9;
-        cat.category = 'Unsorted';
-        cat.name = 'unsorted';
+    switch(mTypeCat){
+        case 'series':
+            cat.category_id = 1;
+            cat.category = 'Series';
+            cat.media_type = 'episode';
+            break;
+        case 'stunts':
+            cat.category_id = 2;
+            cat.category = 'Stuns';
+            cat.media_type = 'episode';
+            break;
+        case 'movies':
+            cat.category_id = 3;
+            cat.category = 'Movies';
+            cat.media_type = 'movie';
+            break;
+        case 'original':
+            cat.category_id = 4;
+            cat.category = 'Specials';
+            cat.media_type = 'original';
+            break;
+        case 'junior':
+            cat.category_id = 5;
+            cat.category = 'Junior';
+            cat.media_type = 'junior';
+            break;
+        default:
+            cat.category_id = 9;
+            cat.category = 'Unsorted';
+            cat.media_type = 'unsorted';
     }
     return cat;
 }

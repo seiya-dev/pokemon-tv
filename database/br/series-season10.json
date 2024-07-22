@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-diamante-e-perola",
+    "channel_id": "season10",
     "channel_name": "Pokémon: Diamante e Pérola",
     "channel_description": "Viaje para a região de Sinnoh com Ash e Pikachu em Pokémon: Diamante e Pérola, que acabou de chegar à TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season10/season10-1125x1500-br.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season10/season10-1660x940-br.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season10/season10-1660x940-br.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season10/season10-1660x940-br.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 211,
-    "channel_creation_date": 1587763580,
-    "channel_update_date": 1665590217,
+    "order": -10000,
     "media": [
         {
             "id": "7522eae93eaa4410a1bdf42a307296bb",
@@ -21,16 +18,13 @@
             "title": "Seguindo na Viagem de Estréia!",
             "description": "Enquanto Ash, Pikachu e Aipom seguem para a Região de Sinnoh, onde novas aventuras os esperam, uma jovem treinadora chamada Dawn acabou de começar sua própria jornada.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dSLq6T6qRBAob30KjBylrs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Y/qQMkgCs11nw8GLHRDsbrdRRvNDbFYZBml6zOFOuLo/pok_tv_s1001_2398-master-bpo-7ce913ebc9bd2eb48d10645d693edab40ab6e429.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Y/qQMkgCs11nw8GLHRDsbrdRRvNDbFYZBml6zOFOuLo/pok_tv_s1001_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3J/9WY9QxKsGtqV0WDvdDDwdmHKpmCJyb8MRfOTTwIAg/pok_tv_s1001_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2764828378
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3J/9WY9QxKsGtqV0WDvdDDwdmHKpmCJyb8MRfOTTwIAg/pok_tv_s1001_2398-master-bpo.mp4"
         },
         {
             "id": "b3fa81666a724d8abb228f42d69110ec",
@@ -39,16 +33,13 @@
             "title": "Dois Graus de Seaparação!",
             "description": "Enquanto Dawn parte para encontrar um treinador de Pikachu ferido, Ash ouve a história do Professor Rowan e parte para encontrar Dawn – e se reúne com Brock no caminho!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/s_qBZmpyTYouyKPQtaREOw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nq/SN3n5iRdVV6YkXjxiz-9eUN98PObqiXtrDvtTgVmM/pok_tv_s1002_2398-master-bpo-80404131dc3229a8f9ff29f1beee66ac0be8e51b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nq/SN3n5iRdVV6YkXjxiz-9eUN98PObqiXtrDvtTgVmM/pok_tv_s1002_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_C/sopvsP6KH1n2wJmRke5SZnFR8ZXMYWVPv-hwtY_Q8/pok_tv_s1002_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2631277661
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_C/sopvsP6KH1n2wJmRke5SZnFR8ZXMYWVPv-hwtY_Q8/pok_tv_s1002_2398-master-bpo.mp4"
         },
         {
             "id": "f90811b43f354f37a4c3e5bd700f4663",
@@ -57,16 +48,13 @@
             "title": "Quando os Mundos Pokémon Colidem!",
             "description": "Quando Ash e Brock finalmente se encontram com Dawn e se reúnem com pikachu, um Treinador chamado Paul desafia Ash para uma batalha.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-QgRtD81TzcpMPlvXAPRmM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/9XS7_1kIM8aN-UE4YgSkLzwCGs-5zQ9twjuBRUKt8/pok_tv_s1003_2398-master-bpo-058ee34d36de2fb4f5569052b5571fc5e107acde.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/9XS7_1kIM8aN-UE4YgSkLzwCGs-5zQ9twjuBRUKt8/pok_tv_s1003_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tE/L_IXQy3MkFqLecA70dlz0SHsNQXWK4Zd6h3RNTjJA/pok_tv_s1003_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2651635854
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tE/L_IXQy3MkFqLecA70dlz0SHsNQXWK4Zd6h3RNTjJA/pok_tv_s1003_2398-master-bpo.mp4"
         },
         {
             "id": "2cb39744402d4966ab9b30f0cd02b8cf",
@@ -75,16 +63,13 @@
             "title": "O Amanhecer de Uma Nova Era!",
             "description": "Dawn tem sua primeira batalha com Nando, um bardo Pokémon dividido entre dois possíveis caminhos em sua jornada.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LLOXREAtSWYq5sw8M0CuM8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ME/MwlxN6Bejit5QW-FCwFMRPpc5YH_ONEX0M2hyMNiQ/pok_tv_s1004_2398-master-bpo-7257c45b6de9cdf3a62b2bae7a96244c605e6a46.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ME/MwlxN6Bejit5QW-FCwFMRPpc5YH_ONEX0M2hyMNiQ/pok_tv_s1004_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AH/2JcYpWlCl_BvqciJPiA9pL_Hi_ldnG0YBxreh15A8/pok_tv_s1004_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2641114645
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AH/2JcYpWlCl_BvqciJPiA9pL_Hi_ldnG0YBxreh15A8/pok_tv_s1004_2398-master-bpo.mp4"
         },
         {
             "id": "c721576b179b4bda9f4046a514d2c2b9",
@@ -93,16 +78,13 @@
             "title": "Engalhado em Confusões!",
             "description": "Após a Equipe Rocket se mandar com o Pikachu de Ash de novo, um Turtwig brigão aparece para resgatar Pikachu e depois tira um tempo para se aproximar de nossos heróis.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xyFXaxebS9on0BGpRTSwrk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QM/mt9l5lhgdqkbS97EZXNXaFwbZxGFN3FOYIdmdMgUU/pok_tv_s1005_2398-master-bpo-5ca4159cbab58c6b337293531085060b96f01393.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QM/mt9l5lhgdqkbS97EZXNXaFwbZxGFN3FOYIdmdMgUU/pok_tv_s1005_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2O/JrN7JHvbIfpBdiHqFhaogbSX7v-YIZB3-uZH6z1EM/pok_tv_s1005_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2637317123
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2O/JrN7JHvbIfpBdiHqFhaogbSX7v-YIZB3-uZH6z1EM/pok_tv_s1005_2398-master-bpo.mp4"
         },
         {
             "id": "7f979e28cde5493ca47a6e3310769edd",
@@ -111,16 +93,13 @@
             "title": "Duas Ações, Duas Reações!",
             "description": "Depois de aparecer de novo do nada, Paul enfrenta Ash numa série de batalhas que reflete o quanto eles são diferentes como treinadores e como pessoas.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/f5eeKM3lSTwpHpuMxB2nt0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5z/PEITudA_aPjIBaURcclv7w-1Q8X7uZen44aYLjmNk/pok_tv_s1006_2398-master-bpo-4a625d1f561199a7c645354f25113ac6d4dadd29.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5z/PEITudA_aPjIBaURcclv7w-1Q8X7uZen44aYLjmNk/pok_tv_s1006_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nf/b5HRFanAGGpFCoRAyu5ORhu26Pv9cSNOXDdMYv8lw/pok_tv_s1006_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2653976783
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nf/b5HRFanAGGpFCoRAyu5ORhu26Pv9cSNOXDdMYv8lw/pok_tv_s1006_2398-master-bpo.mp4"
         },
         {
             "id": "fc4bae15fa0749389c6bdf9dd1d4ecae",
@@ -129,16 +108,13 @@
             "title": "A Grande Virada de Piplup!",
             "description": "A caminho da Cidade de Jubilife e o primeiro Torneio Pokémon de Dawn, Piplup decide ajudar um grupo de Pokémon necessitados.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_EuuFfoHSTgnGvfndHU7K4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mB/OqyAgl5vXKePUieZG4KiheSgMlfXLxlGSZLGawDj4/pok_tv_s1007_2398-master-bpo-94af4784a5f593aac54bcb7b57919558fd5c03ec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mB/OqyAgl5vXKePUieZG4KiheSgMlfXLxlGSZLGawDj4/pok_tv_s1007_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2D/5yTt_9Z_T0QrTXro_yOU6nJT6xO7oyqtqWHmEXRrk/pok_tv_s1007_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2645911448
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2D/5yTt_9Z_T0QrTXro_yOU6nJT6xO7oyqtqWHmEXRrk/pok_tv_s1007_2398-master-bpo.mp4"
         },
         {
             "id": "109f9531c4ab4b268907cd4853fa1739",
@@ -147,16 +123,13 @@
             "title": "O Ginásio de Perna Curta!",
             "description": "Nossos heróis encontram um Ginásio Pokémon fajuto gerenciado pela Equipe Rocket disfarçada que planeja roubar o máximo de Pokémon que puder!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EJ-VMcSrSyYiQfNSFP6Fzk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EU/pJ5SHkklLxZ4K60LGkRyL7zNuK2-OR7GQkhry85bg/pok_tv_s1008_2398-master-bpo-a4946030cb0c1e52893818c0d906348d748a029d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EU/pJ5SHkklLxZ4K60LGkRyL7zNuK2-OR7GQkhry85bg/pok_tv_s1008_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MY/OGw1BdKSykIfD-Cl_fbm7yok9MFpkEu8GCk16eavg/pok_tv_s1008_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2628042724
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MY/OGw1BdKSykIfD-Cl_fbm7yok9MFpkEu8GCk16eavg/pok_tv_s1008_2398-master-bpo.mp4"
         },
         {
             "id": "77f08ed8eb1b4d8a9a26116e76791a5a",
@@ -165,16 +138,13 @@
             "title": "Meu Mundo por Uma Buneary!",
             "description": "Nossos heróis descobrem um Buneary na floresta a caminho da Cidade de Jubilife e Dawn decide que ela precisa capturá-lo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/d_CO2OsbTYomiYRbnZ5Glo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2K/Ff2CNgiUkpbJbFGsw3Mdx4uDJ3PHun73Z8Kdmf2mo/pok_tv_s1009_2398-master-bpo-31dc647c8a2bb7299afd8aea00f456f9b33961d6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2K/Ff2CNgiUkpbJbFGsw3Mdx4uDJ3PHun73Z8Kdmf2mo/pok_tv_s1009_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pD/ejvLrcqMNYmB6weurdhQMLAFudkwwsk4UdRGj2CcI/pok_tv_s1009_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2620419833
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pD/ejvLrcqMNYmB6weurdhQMLAFudkwwsk4UdRGj2CcI/pok_tv_s1009_2398-master-bpo.mp4"
         },
         {
             "id": "489787f7854d4d5b896d7d761080b9da",
@@ -183,16 +153,13 @@
             "title": "Na Moda do Pokélógio!",
             "description": "Quando nossos heróis chegam na Cidade de Jubilife para o primeiro Torneio Pokémon de Dawn, eles encontram alguns vendedores Pokémon com segundas intenções!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SJeH94VNTVsiW19dhCAudo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wt/MdevqJi7F2WznmsulYmy3RoRb-9lUBSclbXo7Utg0/pok_tv_s1010_2398-master-bpo-268b45edacfee77652eecf1af092c13b6e8ea5cc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wt/MdevqJi7F2WznmsulYmy3RoRb-9lUBSclbXo7Utg0/pok_tv_s1010_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/UYI09aWp0NbqBccAG_nRV7NMsr2VuT4iTOelrZjhE/pok_tv_s1010_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2652114856
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/UYI09aWp0NbqBccAG_nRV7NMsr2VuT4iTOelrZjhE/pok_tv_s1010_2398-master-bpo.mp4"
         },
         {
             "id": "d743048327c34416bc37700e1f2f82c0",
@@ -201,16 +168,13 @@
             "title": "Montando um Ataque de Coordenadora!",
             "description": "Ash decide se unir a Dawn em seu primeiro Torneio Pokémon e Dawn encontra uma nova amiga e rival numa colega Coordenadora chamada Zoey!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/10MEgyfDRBYvDdwDh8vgsA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZA/g4ZY4N8rUDLfRaHrbsRA_aQUlg37UQDv_wgOKsPcc/pok_tv_s1011_2398-master-bpo-0b7aaa24d54970d7b59f3be54e1249085c4bf107.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZA/g4ZY4N8rUDLfRaHrbsRA_aQUlg37UQDv_wgOKsPcc/pok_tv_s1011_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yl/2Dj5m6ASxylG6z-oXvBNCNojxY27xVn9vNng0nTdU/pok_tv_s1011_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2633377802
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yl/2Dj5m6ASxylG6z-oXvBNCNojxY27xVn9vNng0nTdU/pok_tv_s1011_2398-master-bpo.mp4"
         },
         {
             "id": "ad51dfc293c8481f8dc078c4a7dff10b",
@@ -219,16 +183,13 @@
             "title": "A Chegada de Um Rival!",
             "description": "O Torneio Pokémon da Cidade de Jubilife está a todo vapor! Poderão Ash e Dawn chegar à final? E o que vai acontecer se eles se enfrentarem?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rVHfwpPISB8jcB4xKff8Qs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x_/IJbInlBIEsOI_3HmsNlgNmvXO2ZAUryONPbMdj9UI/pok_tv_s1012_2398-master-bpo-b959f99c27641234e675b6410acb4805054b6903.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x_/IJbInlBIEsOI_3HmsNlgNmvXO2ZAUryONPbMdj9UI/pok_tv_s1012_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iJ/S-t95Ke4oI5_3PQxsz0H229JP-8-rWHyet2NOfVvo/pok_tv_s1012_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2649996769
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iJ/S-t95Ke4oI5_3PQxsz0H229JP-8-rWHyet2NOfVvo/pok_tv_s1012_2398-master-bpo.mp4"
         },
         {
             "id": "e5942052328b4d25bcfd5c623324e1b1",
@@ -237,16 +198,13 @@
             "title": "Nasce um Staravia!",
             "description": "A caminho da cidade de Oreburgh, nossos heróis descobrem que tem alguma coisa acontecendo com os Pokémon voadores que vivem na floresta e decidem investigar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5ZQgUjKLTSUvP1cYjMk4bE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8I/RfX1DYfXHA1NyMxupxsJj2oRI19LVid4j24VY6QRU/pok_tv_s1013_2398-master-bpo-2d33d3de7f91d73f8d41bc61c84be388cb36be15.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8I/RfX1DYfXHA1NyMxupxsJj2oRI19LVid4j24VY6QRU/pok_tv_s1013_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2-/aS8nNpeSwucEpnzROLEPTHbC8l6ftc0PPYdGA9ZcY/pok_tv_s1013_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2621965944
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2-/aS8nNpeSwucEpnzROLEPTHbC8l6ftc0PPYdGA9ZcY/pok_tv_s1013_2398-master-bpo.mp4"
         },
         {
             "id": "3085953d7b5a469b8ab2157ed389c3a0",
@@ -255,16 +213,13 @@
             "title": "Deixa com o Brock!",
             "description": "Quando nossos heróis ajudam um Nuzleaf ferido, a Equipe Rocket tenta roubá-lo – mas acabam roubando Brock no processo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MIWVPXtaRpsirIVftOJw6A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/xb3xqvwBQVht-2ixSRHUyWevSVctLfubUKoUSHiw0/pok_tv_s1014_2398-master-bpo-b8c417bc4e7ae7164721e864ec9200d0f2680534.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/xb3xqvwBQVht-2ixSRHUyWevSVctLfubUKoUSHiw0/pok_tv_s1014_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fl/Km5prrI_QQpeaSdZuHdxW1ULNK5hf31asH30sCHFc/pok_tv_s1014_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2634758264
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fl/Km5prrI_QQpeaSdZuHdxW1ULNK5hf31asH30sCHFc/pok_tv_s1014_2398-master-bpo.mp4"
         },
         {
             "id": "b00452691f3248fea1201e05049b6dc5",
@@ -273,16 +228,13 @@
             "title": "As Coisas Como São!",
             "description": "Quando Ash chega no Ginásio de Oreburgh para sua primeira Batalha de Ginásio na Região de Sinnoh, ele descobre que seu rival Paul chegou primeiro para o desafio!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sARSaR8ySP4oSAeBQSbbcU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QH/wjkp756QZ_mJNF2gVOiULRyLs-CoPJuIr7XH2yWe0/pok_tv_s1015_2398-master-bpo-fa63f9e54bb94de9a8ffead5b33c95216577886a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QH/wjkp756QZ_mJNF2gVOiULRyLs-CoPJuIr7XH2yWe0/pok_tv_s1015_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b3/l5XDyQDERmeCv7JP53gFyCFR3LLkGIjQphfDDMCmo/pok_tv_s1015_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2645141830
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b3/l5XDyQDERmeCv7JP53gFyCFR3LLkGIjQphfDDMCmo/pok_tv_s1015_2398-master-bpo.mp4"
         },
         {
             "id": "8796cc2d10a942dcbe2230c0df7d8efd",
@@ -291,16 +243,13 @@
             "title": "Enfrentando um Grande Desafio!",
             "description": "Após a vitória de Paul no Ginásio de Oreburgh, chega a vez de Ash enfrentar o Líder de Ginásio Roark e seus poderosos Pokémon tipo-pedra.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h5bMLRCpQtwviIwwN99jv0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ye/aKRlWT71B0nc4BvnAsFEq6wu6QK7hud5G4muw-yDE/pok_tv_s1016_2398-master-bpo-44489a4968b191e471d58e3e399af22bf81d6dd0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ye/aKRlWT71B0nc4BvnAsFEq6wu6QK7hud5G4muw-yDE/pok_tv_s1016_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/tlqu2DDZv18Byi3LimRhHI4j8BIkE4fcwJK4-RDvQ/pok_tv_s1016_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2645335946
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/tlqu2DDZv18Byi3LimRhHI4j8BIkE4fcwJK4-RDvQ/pok_tv_s1016_2398-master-bpo.mp4"
         },
         {
             "id": "7ce3ffdcf4f24e19be676e533dbd759a",
@@ -309,16 +258,13 @@
             "title": "Selvagens Nas Ruas!",
             "description": "Quando um plano da Equipe Rocket liberta antigos Pokémon sobre a Cidade de Oreburgh, nossos heróis precisam dar um jeito de contê-los!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fOP_3PTyThkvmduUz29dZo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/RTrDa1sy-WNOA4ZxrXov9FFvKf3KCGXUDNKk8nYmU/pok_tv_s1017_2398-master-bpo-9a5a9db60d8d3710598d31de1f620b2a7a21e4c5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/RTrDa1sy-WNOA4ZxrXov9FFvKf3KCGXUDNKk8nYmU/pok_tv_s1017_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CH/PkQjlKZSwFV9qvGJQp93L-emCkXYXNMPiXjotQZTo/pok_tv_s1017_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2641676581
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CH/PkQjlKZSwFV9qvGJQp93L-emCkXYXNMPiXjotQZTo/pok_tv_s1017_2398-master-bpo.mp4"
         },
         {
             "id": "98c4ee190280427991935955450244ca",
@@ -327,16 +273,13 @@
             "title": "O Rampardos Que Nós Assistimos!",
             "description": "Ash volta ao Ginásio de Oreburgh para uma revanche contra Roark – que tem um novo Rampardos recém-evoluído na equipe! Poderá nosso herói ganhar sua primeira insígnia de Ginásio de Sinnoh?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mMTuGQKAQnkkZNZVUUCRMo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-t/FdJjtkwu0vfKD00v9hIKG2WJy5Z5bWaxuTD8agmmQ/pok_tv_s1018_2398-master-bpo-3f4cd94bfba958176fdeb0572cdaf56bcbcb26b9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-t/FdJjtkwu0vfKD00v9hIKG2WJy5Z5bWaxuTD8agmmQ/pok_tv_s1018_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A0/cZpbRLG5ymNri8t_-giEHnGOVA11Hik4b5nFx_N9c/pok_tv_s1018_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2659586956
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A0/cZpbRLG5ymNri8t_-giEHnGOVA11Hik4b5nFx_N9c/pok_tv_s1018_2398-master-bpo.mp4"
         },
         {
             "id": "4c61b1d87da04a1bb093029d180704c2",
@@ -345,16 +288,13 @@
             "title": "Pegue-me Se Puder!",
             "description": "Enquanto nossos heróis rumam para o próximo Torneio Pokémon de Dawn na cidade de Floaroma, ela captura um adorável Pachirisu – que pode se mostrar mais do que ela consegue lidar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TGGx2H2gShssJMCnRgHBMI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ac/_XQGjPa6xOZdOAKePiIna7vONDB8FREZj_SB-gCN0/pok_tv_s1019_2398-master-bpo-4309f117d2984ccc6fb31ee725c59f8b63cb0a9a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ac/_XQGjPa6xOZdOAKePiIna7vONDB8FREZj_SB-gCN0/pok_tv_s1019_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NB/FZqninll89zVcVAKMJEhImf3qjC4ceYkO9SKfBUK4/pok_tv_s1019_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2647075295
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NB/FZqninll89zVcVAKMJEhImf3qjC4ceYkO9SKfBUK4/pok_tv_s1019_2398-master-bpo.mp4"
         },
         {
             "id": "49c7124eab3440a6afdeeaadba303af7",
@@ -363,16 +303,13 @@
             "title": "Caçadora de Encrencas!",
             "description": "Quando nossos heróis encontram a implacável Caçadora Pokémon J, eles acabam fazendo uma aliança improvável para lidar com a ameaça!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SccSTqs0QKYr97qrbowOvc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rb/4BVC-6w5WGsZi00WTbnr52WUSbuVl7RNz6JtyIS_U/pok_tv_s1020_2398-master-bpo-d2ff0dda0e436d14dbddf1053a489c3c2aa2b3d0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rb/4BVC-6w5WGsZi00WTbnr52WUSbuVl7RNz6JtyIS_U/pok_tv_s1020_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yq/HptR6antfKUBL8_B9c6CzakaTbADEy8GpSqEpcD-c/pok_tv_s1020_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2654899354
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yq/HptR6antfKUBL8_B9c6CzakaTbADEy8GpSqEpcD-c/pok_tv_s1020_2398-master-bpo.mp4"
         },
         {
             "id": "cd57cf331714416ca6462d6025f11470",
@@ -381,16 +318,13 @@
             "title": "Queremos uma Evolução!",
             "description": "Nossos heróis encontram dois treinadores dedicados a seus Pokémon não-evoluídos – e precisam protegê-los quando a Equipe Rocket decide roubar esses Pokémon para forçá-los a evoluir!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zVfPMxcUQWwpkYtYCXxFHA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/aYuqTOpE_J0BOSOkw8-1bU287FChaVuD3mGiKUNWk/pok_tv_s1021_2398-master-bpo-5ff80e9f5cc9ef42c1c7ae016e33b1d27a439271.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7h/aYuqTOpE_J0BOSOkw8-1bU287FChaVuD3mGiKUNWk/pok_tv_s1021_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oH/ymcYyk8BAzdgirJn8plCWMzk2JlHcmgVTVpPl2Vy0/pok_tv_s1021_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2622481615
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oH/ymcYyk8BAzdgirJn8plCWMzk2JlHcmgVTVpPl2Vy0/pok_tv_s1021_2398-master-bpo.mp4"
         },
         {
             "id": "f166d94186fc44a394dea64974f54d81",
@@ -399,16 +333,13 @@
             "title": "Emprestando aos Maus!",
             "description": "Nossos heróis encontram um Torneio Pokémon diferente numa pequena vila – e depois de um feito incomum, Jessie decide que quer o Aipom de Ash emprestado para competir!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8WbZQYb8RKMlN6mSXT1TYE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/-WBoQl5BBdy1_xK7zA9yEmyHBCQCNf7dU5JGQbQmQ/pok_tv_s1022_2398-master-bpo-866e4e79c18ebc8188fe9e2864c80dc242041d72.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/-WBoQl5BBdy1_xK7zA9yEmyHBCQCNf7dU5JGQbQmQ/pok_tv_s1022_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/il/RKknYn0PTuoGTIvt37YEVutKSmhZzM7UuOQc2n8Ww/pok_tv_s1022_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2624362692
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/il/RKknYn0PTuoGTIvt37YEVutKSmhZzM7UuOQc2n8Ww/pok_tv_s1022_2398-master-bpo.mp4"
         },
         {
             "id": "380075d8b5054791a87f0cb28272dd30",
@@ -417,16 +348,13 @@
             "title": "Enfrentando o Cabeça-Dura do Steelix!",
             "description": "A caminho do próximo Torneio Pokémon de Dawn na Cidade de Floaroma, nossos heróis encontram uma vila de Bidoof cuja segurança se encontra ameaçada por um Steelix furioso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OAB12LUFR5EqH8MsoJy3TA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NX/0NNQJzYuoq1gI3ayQo6rvihX6FQah--clCyrzV4C8/pok_tv_s1023_2398-master-bpo-f20980a1340dd401a893ed5838be55ca02e5e1d9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NX/0NNQJzYuoq1gI3ayQo6rvihX6FQah--clCyrzV4C8/pok_tv_s1023_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u6/2Di_VgXZvvnkBFjOKDDXPcXnehfSvUhdLpa2PbYLM/pok_tv_s1023_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2639648733
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u6/2Di_VgXZvvnkBFjOKDDXPcXnehfSvUhdLpa2PbYLM/pok_tv_s1023_2398-master-bpo.mp4"
         },
         {
             "id": "e4ca58c4fd8245c9b985306d77dc2e26",
@@ -435,16 +363,13 @@
             "title": "Preparando Uma Doce História!",
             "description": "Quando o Pokémon da senhora Abigail desaparece, o Pikachu de Ash relutantemente concorda em substituí-lo até a sobrinha de Abigail encontrar o Pokémon desaparecido.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5MpYxP2CRckuYUwbXfcLiY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uu/yW6aLr0xg2G2HSnNw3jt1mdpfZ6pH5BKHJsse2_4w/pok_tv_s1024_2398-master-bpo-8b6c46d39a17f5b83bc46a35616f4348a2c5c4b0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uu/yW6aLr0xg2G2HSnNw3jt1mdpfZ6pH5BKHJsse2_4w/pok_tv_s1024_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yB/D6D8Mc2qDN-SQd7_n0iSW6dVGxfK1jbZ8pSEnwu3g/pok_tv_s1024_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2639137447
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yB/D6D8Mc2qDN-SQd7_n0iSW6dVGxfK1jbZ8pSEnwu3g/pok_tv_s1024_2398-master-bpo.mp4"
         },
         {
             "id": "de90d2d3033b44deacee65f97200df96",
@@ -453,16 +378,13 @@
             "title": "Ah, Você Sabe Fazer Poffins!",
             "description": "Dawn convence Ash e Brock a entrar na aula de culinária com ela, onde eles aprendem a fazer doces Pokémon chamados Poffins – e conhecem o fascinante Pokémon Roserade!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3pDS0wM7RN4rO5l-XIA35Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Np/qQRuJXkdbRw3Zj4C3DTWCSNiLTW2lJ9ci4ZDrU5Rw/pok_tv_s1025_2398-master-bpo-e4c6b4b6bbf09aa86d199dab8c770cc9c4cb3ade.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Np/qQRuJXkdbRw3Zj4C3DTWCSNiLTW2lJ9ci4ZDrU5Rw/pok_tv_s1025_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EA/LfJ2tbuw7_TiysQdVBYAez1SfWb1qBTAQHeZQZZBs/pok_tv_s1025_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2624604190
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EA/LfJ2tbuw7_TiysQdVBYAez1SfWb1qBTAQHeZQZZBs/pok_tv_s1025_2398-master-bpo.mp4"
         },
         {
             "id": "8dd9b0923a9840fca5a6155136b74c58",
@@ -471,16 +393,13 @@
             "title": "Nervosismo de Pré- Torneio!",
             "description": "Enquanto se prepara para o Torneio Pokémon da Cidade de Floaroma, Dawn é surpreendida pela visita de seu amigo de infância Kenny!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jdmwkjqYQPwpaYVUTa3TFg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qe/q25mSabCFjzB7rg9zDVEtQMn6PQ9JaCxiUTzlgC1c/pok_tv_s1026_2398-master-bpo-17e2e346f8405d3863444829f075515852d2cea4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qe/q25mSabCFjzB7rg9zDVEtQMn6PQ9JaCxiUTzlgC1c/pok_tv_s1026_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/PDyKsqhGpvN50HUOS3AIimVSao-IaAus0Ojh3qlw8/pok_tv_s1026_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2640519803
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/PDyKsqhGpvN50HUOS3AIimVSao-IaAus0Ojh3qlw8/pok_tv_s1026_2398-master-bpo.mp4"
         },
         {
             "id": "e54b0e4dd4cc45ae8070c505d278dacb",
@@ -489,16 +408,13 @@
             "title": "Definindo Um Placar de Velhos Amigos!",
             "description": "No Torneio Pokémon da Cidade de Floaroma, Dawn se encontra enfrentando não apenas “Jessilina” (Jessie da Equipe Rocket disfarçada), mas também seu velho amigo Kenny!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5UsOTdTMRa4gHDFBdJ42ss/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uq/HAOnJTp8lO3WM2DxXTIywHIRyBVkPdw8evxH_6aHc/pok_tv_s1027_2398-master-bpo-dadb096a8f27806d08f54de70b6315918f803ff0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uq/HAOnJTp8lO3WM2DxXTIywHIRyBVkPdw8evxH_6aHc/pok_tv_s1027_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pB/YizO9FN0P7YsOfymYmNOXNjWberxl8ZNWI8GxBULI/pok_tv_s1027_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2655146542
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pB/YizO9FN0P7YsOfymYmNOXNjWberxl8ZNWI8GxBULI/pok_tv_s1027_2398-master-bpo.mp4"
         },
         {
             "id": "f71e15ebd9ae41f6b8b976942af44cfd",
@@ -507,16 +423,13 @@
             "title": "Drifloon ao Vento!",
             "description": "A caminho da Cidade de Eterna, nossos heróis conhecem uma Enfermeira Joy incomum que tem uma família: Duas menininhas que querem ser iguais à mãe!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9x4V69muQfYuLl2lCr0TP0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0K/u_lIy6joi9ZIgdm8AxPJIpgGc1MbkXYXRi-an8Owo/pok_tv_s1028_2398-master-bpo-7c23ff34ab5f5b831ed2273ffabb24cc860db7e4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0K/u_lIy6joi9ZIgdm8AxPJIpgGc1MbkXYXRi-an8Owo/pok_tv_s1028_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kw/so9r20_lq5S06XUiDWkOh4RlP7pzBacUBzx7JTRko/pok_tv_s1028_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2658668035
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kw/so9r20_lq5S06XUiDWkOh4RlP7pzBacUBzx7JTRko/pok_tv_s1028_2398-master-bpo.mp4"
         },
         {
             "id": "e742f5c09afa45aca4f5afcf5a591329",
@@ -525,16 +438,13 @@
             "title": "Os Gêmeos Campeões!",
             "description": "Nossos heróis conhecem treinadores gêmeos que venceram 15 batalhas em dupla seguidas – e os rapazes desafiam Ash e Dawn para a 16ª batalha!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/50L1wJr6RawpPWvz1pZEyk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZC/aXrHWqrj9Wb6t-brM_gkroAMgO7y_PgNPYZody9n4/pok_tv_s1029_2398-master-bpo-be59aeb47ccd3bef8c5fcd386e052239cd5b5c91.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZC/aXrHWqrj9Wb6t-brM_gkroAMgO7y_PgNPYZody9n4/pok_tv_s1029_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xk/hyUdKx7fktYLeA5zyDxGqgWub-NCqownv__duGWY0/pok_tv_s1029_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2624018390
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xk/hyUdKx7fktYLeA5zyDxGqgWub-NCqownv__duGWY0/pok_tv_s1029_2398-master-bpo.mp4"
         },
         {
             "id": "b0bb7670df024f0e90716cb202154b49",
@@ -543,16 +453,13 @@
             "title": "Doces Encantamentos!",
             "description": "Na Floresta de Eterna, nossos heróis encontram uma caçadora de tesouros chamada Cheryl que está em missão para encontrar o Castelo Âmbar, onde fica um Mel Encantado Especial!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sLt2cN8CTw4kHFssgIVS0k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qA/mdeqOKLxlfhLzWWg5guZwjE0I7gNiOkSHKE3Bzqp4/pok_tv_s1030_2398-master-bpo-35a072cc18b9996988717e7de361b9de2fff6c84.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qA/mdeqOKLxlfhLzWWg5guZwjE0I7gNiOkSHKE3Bzqp4/pok_tv_s1030_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ng/j9JOlby0SatPS7bC5RkWbuse7wwtM2zfy9N6pi6xQ/pok_tv_s1030_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2566091088
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ng/j9JOlby0SatPS7bC5RkWbuse7wwtM2zfy9N6pi6xQ/pok_tv_s1030_2398-master-bpo.mp4"
         },
         {
             "id": "91b404caa373414bb7c91bab0e81de47",
@@ -561,16 +468,13 @@
             "title": "O Tipo Grama é Sempre Mais Verde!",
             "description": "Enquanto ajudam a caçadora de tesouros Cheryl em sua busca pelo Mel Encantado, nossos heróis conhecem uma Treinadora chamada Gardenia que adora Pokémon tipo-planta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kbQEyqNzQUst8kbqw6B3kc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ih/y_-VGK28lPZlJpp3vnRfhH7w1gab8ESsD8CWbzquo/pok_tv_s1031_2398-master-bpo-559e16700b91d39518fc768c6e244f2e319dddc9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ih/y_-VGK28lPZlJpp3vnRfhH7w1gab8ESsD8CWbzquo/pok_tv_s1031_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OQ/dkmdaNlbe124dHsuHit8omvcKVlFBCwqYaRmggSEw/pok_tv_s1031_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2644833447
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OQ/dkmdaNlbe124dHsuHit8omvcKVlFBCwqYaRmggSEw/pok_tv_s1031_2398-master-bpo.mp4"
         },
         {
             "id": "d9fc0374da8a402188d2d7fde253d0a8",
@@ -579,16 +483,13 @@
             "title": "Uma Combinação Nervosa!",
             "description": "Nossos heróis e a Caçadora de Tesouros Cheryl descobrem uma misteriosa caverna que pode conter as respostas para o Mel Encantado que eles estão procurando!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2fwDdNqKQCEiNLX_eJT0Kg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hb/RElB-9PxlqtjYCWl1djb1oVrIurD7hnJI5faZILLE/pok_tv_s1032_2398-master-bpo-655f46fdc5dab44f1fc02e9d665122b3bc4dde97.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hb/RElB-9PxlqtjYCWl1djb1oVrIurD7hnJI5faZILLE/pok_tv_s1032_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bz/i12Nyxi6CrbEXj4TPlMHlaiqxNmNydOXsqDrd0VJo/pok_tv_s1032_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2645015416
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bz/i12Nyxi6CrbEXj4TPlMHlaiqxNmNydOXsqDrd0VJo/pok_tv_s1032_2398-master-bpo.mp4"
         },
         {
             "id": "b6607a89b6c748688f5b7a1af3b89de7",
@@ -597,16 +498,13 @@
             "title": "Vestido Para a Vitória!",
             "description": "Nossos heróis descobrem um Torneio de Imitações Pokémon, um evento único onde Pokémon competem se disfarçando como outros tipos de Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tmB6ibbHSGgj1t6GvO4nec/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MQ/MvmTKiuS_J02ZpakB2X48JJeAGagHex392KL3Tw9s/pok_tv_s1033_2398-master-bpo-e181d90978e773da43085433c11cccd4fec2382e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MQ/MvmTKiuS_J02ZpakB2X48JJeAGagHex392KL3Tw9s/pok_tv_s1033_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qo/Ea87N1ozCWo4v32FU-A5CaGVPpO2uDuX9nXgXt7Zo/pok_tv_s1033_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2616786347
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qo/Ea87N1ozCWo4v32FU-A5CaGVPpO2uDuX9nXgXt7Zo/pok_tv_s1033_2398-master-bpo.mp4"
         },
         {
             "id": "ce962121d250465b8a4d5343ddf44635",
@@ -615,16 +513,13 @@
             "title": "Todos Contra Buizel!",
             "description": "A caminho da Cidade de Eterna, nossos heróis encontram a amiga e rival de Torneio de Dawn, Zoey – além de um impressionante Buizel que Dawn adoraria capturar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zpYhIdJQRlsik1TQ930RjU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cO/jaX1v3P73idPBUA5vF7NxIFU4ydJmCl0ea6VAxAYk/pok_tv_s1034_2398-master-bpo-edfe15adc63940d3b4c3788ad1cceb585fef1716.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cO/jaX1v3P73idPBUA5vF7NxIFU4ydJmCl0ea6VAxAYk/pok_tv_s1034_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fJ/rMrxx4VzYdEBPPnTVaKpFUIVlsgtqg5uJ358eSdwc/pok_tv_s1034_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2645814858
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fJ/rMrxx4VzYdEBPPnTVaKpFUIVlsgtqg5uJ358eSdwc/pok_tv_s1034_2398-master-bpo.mp4"
         },
         {
             "id": "e72e6b58a36d42fa9362dcf757ce94a0",
@@ -633,16 +528,13 @@
             "title": "A Tropa de Elite!",
             "description": "Nossos heróis encontram Lucian, um membro da Elite dos Quatro da Região de Sinnoh, que concorda em ajudar Dawn a treinar seu novo amigo Buizel.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5y5rWKNtQvok2Lc91fOlKA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1r/AnnyUmMnwcaxQBG3xvfpfea6kegR7YKtqz9GHO0rE/pok_tv_s1035_2398-master-bpo-814958063e8da2f76bdbc9ffa4eaecfbd82a9cc3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1r/AnnyUmMnwcaxQBG3xvfpfea6kegR7YKtqz9GHO0rE/pok_tv_s1035_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L4/cSmY5EnFXpqIALSWi7-aTNwKPsDi3zWuPmxF8YFrY/pok_tv_s1035_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2636357276
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L4/cSmY5EnFXpqIALSWi7-aTNwKPsDi3zWuPmxF8YFrY/pok_tv_s1035_2398-master-bpo.mp4"
         },
         {
             "id": "e4bb557b6be74974a0ac66b324f596ef",
@@ -651,16 +543,13 @@
             "title": "Uma Esfera Secreta de Influência!",
             "description": "Ao chegar na Cidade de Eterna para a próxima Batalha de Ginásio de Ash, nossos heróis testemunham os resultados de um grande roubo do museu de história local!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5LtVe2vnSXQoKxmsyT1lu8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rE/Z0LdiZ3pSdGspt76uk4s-qCtiB7-chqdWGYryg0o8/pok_tv_s1036_2398-master-bpo-745949571f07e7ffd454414d54357e9cc0dd1ebc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rE/Z0LdiZ3pSdGspt76uk4s-qCtiB7-chqdWGYryg0o8/pok_tv_s1036_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n8/c4bwSo-btuALTnNzoBBWlZOVkvS1H2Zgn3EmWuG4k/pok_tv_s1036_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2634665603
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n8/c4bwSo-btuALTnNzoBBWlZOVkvS1H2Zgn3EmWuG4k/pok_tv_s1036_2398-master-bpo.mp4"
         },
         {
             "id": "438f01e5e1ca408dae8a387d58e49c89",
@@ -669,16 +558,13 @@
             "title": "O Doce Perfume de Gardênia!",
             "description": "Ash desafia a Líder de Ginásio Gardenia, uma perita em tipos-planta que o derrotou numa batalha quando eles se encontraram pela primeira vez na Floresta de Eterna! Será que Ash vencerá dessa vez?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Q48B5eHKQI0roo4fVjknIk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LU/UJgHXZFxf6SDqgzxh_5Hv8C1DuKIv11PicMv36PpQ/pok_tv_s1037_2398-master-bpo-9e4fa92b2e21e5d2732e86e690eedfed26834e6d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LU/UJgHXZFxf6SDqgzxh_5Hv8C1DuKIv11PicMv36PpQ/pok_tv_s1037_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ax/SM6xm1TLFu_ag97OvirJFrAMuzDA3yFFpowixM4Gs/pok_tv_s1037_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2637802018
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ax/SM6xm1TLFu_ag97OvirJFrAMuzDA3yFFpowixM4Gs/pok_tv_s1037_2398-master-bpo.mp4"
         },
         {
             "id": "ad4d8fa75deb41fda9a71074d7a430d8",
@@ -687,16 +573,13 @@
             "title": "Com Uma Happiny Somos Uma Família Feliz!",
             "description": "Quando o ovo Pokémon de Brock começa a chocar, nossos heróis fazem uma parada num Centro Pokémon na Estrada do Ciclismo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rU2Pp13rQf0qacQdNekMNg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7K/gnLQrF093wjBOyEGoZ4FwINMJH9PbOFIyj5wx_ASE/pok_tv_s1038_2398-master-bpo-08867bed8fff05bee4cab9561e3eb943fc98e095.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7K/gnLQrF093wjBOyEGoZ4FwINMJH9PbOFIyj5wx_ASE/pok_tv_s1038_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Z/2TcAtP7MLiY_wL_bGliilMzYkQ6huzllq0ht7PZPI/pok_tv_s1038_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2620114838
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Z/2TcAtP7MLiY_wL_bGliilMzYkQ6huzllq0ht7PZPI/pok_tv_s1038_2398-master-bpo.mp4"
         },
         {
             "id": "75dd10f200a84e39b59aefc0728fc64f",
@@ -705,16 +588,13 @@
             "title": "Duas Babás Quase Perfeitas!",
             "description": "Nossos heróis embarcam num barco a vapor destinado à Cidade de Hearthome – mas quando eles precisam voltar para a cidade, o barco acidentalmente parte com seus Pokémon!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dd0Q8gCoTjktZrvwHKPxk8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oC/MiYkkOfksWVVUre0vsY7gpApM9CyTudqI4qxAqb1s/pok_tv_s1039_2398-master-bpo-7f90cd4b5e2ad64ec2d445bae1979e4872e5e147.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oC/MiYkkOfksWVVUre0vsY7gpApM9CyTudqI4qxAqb1s/pok_tv_s1039_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/91/fKdf6WSWNOMlsBQKgXg3Y0P3bHtlBIHEkAuK06C6k/pok_tv_s1039_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2652134740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/91/fKdf6WSWNOMlsBQKgXg3Y0P3bHtlBIHEkAuK06C6k/pok_tv_s1039_2398-master-bpo.mp4"
         },
         {
             "id": "bc8c6f26a9da41b4bb16cbdf20020f9e",
@@ -723,16 +603,13 @@
             "title": "Um Desafio de Elite!",
             "description": "A caminho da Cidade de Hearthome, nossos heróis encontram Cynthia, a Campeã da Liga de Sinnoh que está batalhando o rival de Ash, Paul!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vIxvJqnaQbQuxbL3yACD54/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x7/nlNls47-3SmbAoFtV70yDjz-U06b5sEwIuYPGGxbE/pok_tv_s1040_2398-master-bpo-3a0e960ea3f3ac39079b1f58b25d611f8228f540.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x7/nlNls47-3SmbAoFtV70yDjz-U06b5sEwIuYPGGxbE/pok_tv_s1040_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5J/WCQ9sELnbeApflYyHcumtTjY1rRl6tr1VLZaDxmKA/pok_tv_s1040_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2641260131
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5J/WCQ9sELnbeApflYyHcumtTjY1rRl6tr1VLZaDxmKA/pok_tv_s1040_2398-master-bpo.mp4"
         },
         {
             "id": "121cb0e819944a9b836232f5c296aff5",
@@ -741,16 +618,13 @@
             "title": "O Melhor Treinamento de Duplas!",
             "description": "Quando Dawn encontra Zoey machucada a caminho da Cidade de Hearthome, ela descobre todo um novo estilo de Torneio que usa dois Pokémon de uma vez!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ehyw6BmUSpsg2Iy9cKWr_U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kk/wQRzzZQ7LHln6-cuoIEt-zSkA7n3S5YbnmIWcZois/pok_tv_s1041_2398-master-bpo-32fdef4bd067804d6831d55dc69ffa7258aac415.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kk/wQRzzZQ7LHln6-cuoIEt-zSkA7n3S5YbnmIWcZois/pok_tv_s1041_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rp/S7Txh3F7VU_6rPyZ6ovP4rzdUS5iL2LlA5EC35puo/pok_tv_s1041_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2643365701
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rp/S7Txh3F7VU_6rPyZ6ovP4rzdUS5iL2LlA5EC35puo/pok_tv_s1041_2398-master-bpo.mp4"
         },
         {
             "id": "538055658c704d86ab4f1d4e914b4035",
@@ -759,16 +633,13 @@
             "title": "A Companhia Electrike!",
             "description": "Num Centro de Treinamento Pokémon, nossos heróis conhecem um Criador Pokémon com dificuldades em lidar com seu poderoso, porém, indisciplinado Electrike.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/U4BVZYxwTYYq08dTpFLQDU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ne/pSXZ1DOtuh836Ij-f5YwyKKZf-2qemI44P5ZUoY2Q/pok_tv_s1042_2398-master-bpo-009f9da146f650feb4d2affd8b71c777e8c4bbbc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ne/pSXZ1DOtuh836Ij-f5YwyKKZf-2qemI44P5ZUoY2Q/pok_tv_s1042_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vh/Yleor-k6eViAyM8bdqTjC6AB7DT_AExZcJKjITbXI/pok_tv_s1042_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2643530920
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vh/Yleor-k6eViAyM8bdqTjC6AB7DT_AExZcJKjITbXI/pok_tv_s1042_2398-master-bpo.mp4"
         },
         {
             "id": "612830d5f7b34b8abe1fba124b057838",
@@ -777,16 +648,13 @@
             "title": "Mismagius no País das Maravilhas!",
             "description": "Nossos heróis passam por um misterioso portal e são enviados para um lugar estranho onde todos os seus sonhos parecem se realizar – cortesia de um arteiro Mismagius!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YSgw1fezS4ovh-6EksFeDg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TA/F88j4PCHM4l43WmdHU-3N7qTxzx7FJrmRNu44DRDE/pok_tv_s1043_2398-master-bpo-f5ac55d1dc268b3d8fb68dc79b5810284379da71.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TA/F88j4PCHM4l43WmdHU-3N7qTxzx7FJrmRNu44DRDE/pok_tv_s1043_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/fXo5Xn-kYHU3TOVnQ8KnoIRQAwy7eQz-vsMIKhfjI/pok_tv_s1043_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2628319235
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/su/fXo5Xn-kYHU3TOVnQ8KnoIRQAwy7eQz-vsMIKhfjI/pok_tv_s1043_2398-master-bpo.mp4"
         },
         {
             "id": "28f89bdfd6ac443aa8a8a9af8e53519a",
@@ -795,16 +663,13 @@
             "title": "Hipótese Hipnótica!",
             "description": "Nossos heróis resgatam um Hippopotas apavorado que ficou preso numa elevação e eles decidem devolver seu novo amigo ao seu bando.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KPib39asRDoqKipr45TUZo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Om/hyqx2n71Zqq5PARcUsm6NefZqQln7r_hyeaUfI1Pc/pok_tv_s1044_2398-master-bpo-af5ba2f1ce3aab89af807ccbc39aab2ae0f35046.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Om/hyqx2n71Zqq5PARcUsm6NefZqQln7r_hyeaUfI1Pc/pok_tv_s1044_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x-/Q982DXGoXQSL8iS1d3yta7fjNFLl9b-4qEg5YMkLs/pok_tv_s1044_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2632527469
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x-/Q982DXGoXQSL8iS1d3yta7fjNFLl9b-4qEg5YMkLs/pok_tv_s1044_2398-master-bpo.mp4"
         },
         {
             "id": "21965f8a8301431ab9c9ad93eba3ef1a",
@@ -813,16 +678,13 @@
             "title": "O Dia Da Caça!",
             "description": "Ash sem querer encontra Gary Carvalho, seu velho rival de Kanto, e os dois Treinadores se unem para proteger um raro Shieldon da Caçadora Pokémon J!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/IZZfioMBQxoucmtk-uj7xo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c4/6i7Q7eYuv-Ik7GubxNvo2Q76aWpWHzC0QVF3OjHwA/pok_tv_s1045_2398-master-bpo-06c46c59aba586561c882b7a4f950404f7ff0a08.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c4/6i7Q7eYuv-Ik7GubxNvo2Q76aWpWHzC0QVF3OjHwA/pok_tv_s1045_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GE/0pJ_nYhCcg-_Yr7rs7m35d3c4hfkfHkM8p2FOwiQE/pok_tv_s1045_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2646867408
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GE/0pJ_nYhCcg-_Yr7rs7m35d3c4hfkfHkM8p2FOwiQE/pok_tv_s1045_2398-master-bpo.mp4"
         },
         {
             "id": "d1abd937dfcc47088de838c33d92c6f4",
@@ -831,16 +693,13 @@
             "title": "A Corrida Labirintonária!",
             "description": "Quando Dawn decide fazer um desvio para aprimorar seus equipamentos, nossos heróis se encontram num labirinto feito pela Equipe Rocket!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/0avZN9_MRwgjeg4wz2SxvQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2G/xo1KES0fgQ0oRyPMcG_XQo0wu0E6eiqe0myTdUp40/pok_tv_s1046_2398-master-bpo-4cd546bc0e42b851e73a0c51b162e631baba7839.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2G/xo1KES0fgQ0oRyPMcG_XQo0wu0E6eiqe0myTdUp40/pok_tv_s1046_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BX/WJ5uU2QgRaSu7NXUNsLEAFiTeNpxR6xZPPs1Un_fY/pok_tv_s1046_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2649866540
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BX/WJ5uU2QgRaSu7NXUNsLEAFiTeNpxR6xZPPs1Un_fY/pok_tv_s1046_2398-master-bpo.mp4"
         },
         {
             "id": "19080af4f7414223b4e363e85d0d8e5e",
@@ -849,16 +708,13 @@
             "title": "Sandshrew Na Mira!",
             "description": "Uma Treinadora chamada Mira se oferece para mandar nossos heróis direto para a Cidade de Hearthome usando o movimento de teleporte de seu Abra, mas primeiro ela precisa de um favor deles...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GQgK9PdBQiMtONj6F0Njl4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V9/ZXlt9WdsE0_uypvMhx7LVmQPrr5DK5K--LlwM3RhQ/pok_tv_s1047_2398-master-bpo-99b3da4d873ab229552784cea21d02e05e4e226f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V9/ZXlt9WdsE0_uypvMhx7LVmQPrr5DK5K--LlwM3RhQ/pok_tv_s1047_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2J/hpnyFhDKIyX-wrj7Nmyc4hjrGKTiOZZpER3guxMWQ/pok_tv_s1047_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2646526897
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2J/hpnyFhDKIyX-wrj7Nmyc4hjrGKTiOZZpER3guxMWQ/pok_tv_s1047_2398-master-bpo.mp4"
         },
         {
             "id": "b6753ed8159b4abb8948e059b10ed185",
@@ -867,16 +723,13 @@
             "title": "Um Dia Ruim Para Dawn!",
             "description": "Chegou a hora do Torneio de Hearthome! Dawn enfrenta uma dura competição: Sua rival Zoey, o Bardo Pokémon Nando e a Jessie da Equipe Rocket são todos adversários determinados!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tnU-2BWbSrsiUjgWbEO0YU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3z/ZDEERKYrW8rZ1z8t3L10fCCYjyiYt4UttyRPnsaeE/pok_tv_s1048_2398-master-bpo-27ede84fd145a8adfc49582baedccff52c0d6a5b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3z/ZDEERKYrW8rZ1z8t3L10fCCYjyiYt4UttyRPnsaeE/pok_tv_s1048_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kl/vWIDRvG7nebI2gzLxvTJqspoqs62kTlP4iEBD1hOo/pok_tv_s1048_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2641851902
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kl/vWIDRvG7nebI2gzLxvTJqspoqs62kTlP4iEBD1hOo/pok_tv_s1048_2398-master-bpo.mp4"
         },
         {
             "id": "73ae5fcd64964d739c3dee8bd677e2e6",
@@ -885,16 +738,13 @@
             "title": "Batalha em Dupla, Aqui Vamos Nós!",
             "description": "Logo às portas do Torneio Pokémon, Ash, Dawn e Brock decidem entrar na Competição de Batalhas em Dupla da Cidade de Hearthome, onde duplas de Treinadores se enfrentam!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/c65fzWSWTXMnD3ui9Z34uY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ea/soALVPOIc8EaaVaUSY9XjjoTvM8z-U0MCMGNgI8js/pok_tv_s1049_2398-master-bpo-800ebe6e60f96559df9ac3a1bc0c050faf0772bb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ea/soALVPOIc8EaaVaUSY9XjjoTvM8z-U0MCMGNgI8js/pok_tv_s1049_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BC/SJ4NtUDD3JrpjjIjU7i3vKuGwIoo6i1HJ3tTsNowY/pok_tv_s1049_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2615781489
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BC/SJ4NtUDD3JrpjjIjU7i3vKuGwIoo6i1HJ3tTsNowY/pok_tv_s1049_2398-master-bpo.mp4"
         },
         {
             "id": "7aa22d4f4f854a96889043f1c2e68bc1",
@@ -903,16 +753,13 @@
             "title": "A Chama da Glória!",
             "description": "Ash faz dupla com seu rival Paul para a Competição de Batalhas em Dupla – mas Paul está exigindo demais de seu Chimchar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eqItT0-FSpYiJBD8cLmi8E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/1FPUMHQpE4lLz7TYh1zamrStgg212EnYsVF8eqeS8/pok_tv_s1050_2398-master-bpo-c7208a3cb817769cc9e96f07b565dc7111f77328.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9-/1FPUMHQpE4lLz7TYh1zamrStgg212EnYsVF8eqeS8/pok_tv_s1050_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uQ/eFfAf9k-6RbQ4JQir3FBwH9pRDVomBz-cS6ohGuR8/pok_tv_s1050_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2639823467
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uQ/eFfAf9k-6RbQ4JQir3FBwH9pRDVomBz-cS6ohGuR8/pok_tv_s1050_2398-master-bpo.mp4"
         },
         {
             "id": "17b477c9efbb4355ae68784be5a17f5e",
@@ -921,16 +768,13 @@
             "title": "Tem Jeito de Espírito de Equipe!",
             "description": "A Competição de Batalhas em Dupla da Cidade de Hearthome está chegando a uma empolgante conclusão, pois todos os nossos heróis são colocados uns contra os outros nas últimas rodadas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/F7R3ye-7Q1Urmh4S-Whf14/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ib/nkzwkrtbO2afRJm55uOSQncWTz8pp8os-CWufGK2k/pok_tv_s1051_2398-master-bpo-4a638bc8cb41fc53571c69c2fc7f6ca293e65d6a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ib/nkzwkrtbO2afRJm55uOSQncWTz8pp8os-CWufGK2k/pok_tv_s1051_2398-master-bpo.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HG/be_yfF90Toy7YB4oNOd2l9oFslmccv6xrjEvn6l6k/pok_tv_s1051_2398-master-bpo.mp4",
             "captions": "",
-            "size": 2650139023
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HG/be_yfF90Toy7YB4oNOd2l9oFslmccv6xrjEvn6l6k/pok_tv_s1051_2398-master-bpo.mp4"
         }
     ]
 }

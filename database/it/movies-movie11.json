@@ -1,18 +1,15 @@
 {
-    "channel_id": "giratina-e-il-guerriero-dei-cieli",
+    "channel_id": "movie11",
     "channel_name": "Giratina e il guerriero dei cieli",
     "channel_description": "Ash si unisce al Pokémon misterioso Shaymin per contrastare la potenza di Giratina in Giratina e il guerriero dei cieli.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1125x1500-it.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-it.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-it.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-it.jpg"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 4,
-    "channel_creation_date": 1467394513,
-    "channel_update_date": 1653668516,
+    "order": -11000,
     "media": [
         {
             "id": "ee97eb80a09745cc8c7c091459f372d6",
@@ -21,16 +18,13 @@
             "title": "Giratina e il guerriero dei cieli",
             "description": "Nel Mondo Inverso scoppia un'epica lotta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7pfrgKCXRcwjHwJFFnzctY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dj/dGiWDjF91B_UcAcOQb8ODLYGZOTbj8aRLbuj1yb7I/pokemon_movie11_ita-b92270634fff7cbf99c91bf997c5e19bdd438ff0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dj/dGiWDjF91B_UcAcOQb8ODLYGZOTbj8aRLbuj1yb7I/pokemon_movie11_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R2/t88SFKYVdTq8Wg7_CGbRevZ_H-f-9QpSJkVo7QbnI/pokemon_movie11_ita.mp4",
             "captions": "",
-            "size": 12033309039
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R2/t88SFKYVdTq8Wg7_CGbRevZ_H-f-9QpSJkVo7QbnI/pokemon_movie11_ita.mp4"
         }
     ]
 }

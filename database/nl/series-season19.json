@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-de-serie-xyz",
+    "channel_id": "season19",
     "channel_name": "Pokémon de Serie: XYZ",
     "channel_description": "Het avontuur van Ash in de regio Kalos bereikt z'n spannende einde in Pokémon de Serie: XYZ. Nu op Pokémon TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1125x1500-nl.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 121,
-    "channel_creation_date": 1599231965,
-    "channel_update_date": 1688744193,
+    "order": -19000,
     "media": [
         {
             "id": "9df6b391246b4c578abee438b058a5ff",
@@ -21,16 +18,13 @@
             "title": "Van A tot Z!",
             "description": "Bonnie vindt een nieuwe vriend, Ash komt een oude vriend tegen en een afschuwelijke voorspelling begint uit te komen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nfazkSRrTFcir7kOLBYpf8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tv/ePFK9x2QCeAamzQPV7l1_iCWsMftrB1cgMR9BkC1I/pok_tv_s1901_2997-master-nl-sdt_1080p-cf0853e9b1ff268d5c6fa0a7455a05763594be32.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0K/e6ujsRrThipWIMWW5CTQARlGppxSTHUr5HONKrSE8/pok_tv_s1901_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8f/lbjzAup6gxaX4RqPhOz3i05fWMG7MzaWIsg_-UX0Q/pok_tv_s1901_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2675935382
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8f/lbjzAup6gxaX4RqPhOz3i05fWMG7MzaWIsg_-UX0Q/pok_tv_s1901_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "c96cda0c07e343a086ca6ab766f9524a",
@@ -39,16 +33,13 @@
             "title": "Liefde slaat toe! Eevee schrikt, en hoe!",
             "description": "Terwijl Eevee te maken krijgt met ongewilde aandacht, richt Team Rocket zijn aandacht op Gompie!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/yWzaDAfjQ6Ahspqt2b5Uko/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R5/ielHMApuyqB5bFUy88huF_UhcZclC5ngVCUncu_vc/pok_tv_s1902_2997-master-nl-sdt_1080p-3bfe289ef6afa81633842ae5aa60f35c48c51fb5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-n/KXAwjZETjzTdUr_DHZ9p-oCAoqGqgX1HK61lO7eTw/pok_tv_s1902_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vx/BQZv6e_DPYeFQ_YfZEe9Fb6_PSdn1CkMGvGq_NT2E/pok_tv_s1902_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2680973810
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vx/BQZv6e_DPYeFQ_YfZEe9Fb6_PSdn1CkMGvGq_NT2E/pok_tv_s1902_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "e01dbbdb34b245969d84e34bcf0295fa",
@@ -57,16 +48,13 @@
             "title": "Een giga-gevecht met mega-resultaten!",
             "description": "Er zijn moeilijkheden in het lokale Pokémon Center, maar onze helden en Professor Sycamore staan klaar om te helpen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep03_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep03_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4B272zSyRZYnYTjS88Clfo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sM/0tJwbS0AXO7OE92gNymYPjA41fCcM5z7Z99EdHBGk/pok_tv_s1903_2997-master-nl-sdt_1080p-97db32bb10177d40364c231a5ce0591eae1a8338.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tK/K-ehIjucuVXr02B4F21ZPzQUjLHYJ2gqMczx7fKrM/pok_tv_s1903_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hB/FFx9osug8_oWbfZLzbH3TrCSTvXxafqpaTa4-UnHo/pok_tv_s1903_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2537827605
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hB/FFx9osug8_oWbfZLzbH3TrCSTvXxafqpaTa4-UnHo/pok_tv_s1903_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "ef6dba1572504b0d91dbdb565766009c",
@@ -75,16 +63,13 @@
             "title": "Een vurig overgangsritueel!",
             "description": "Terwijl onze helden hun reis vervolgen naar Snowbelle City, komen ze een jonge Pokémon tegen die geconfronteerd wordt met de problemen van het opgroeien!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep04_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep04_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7226FXJQSw0kdvbVldmAJw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fA/49RF22DLcPgJpKGdBkt6JKkT2q8uJ9kXTZD4SnBOU/pok_tv_s1904_2997-master-nl-sdt_1080p-d40365bac6d6b9204d4dc4362d60e6c66cfceb03.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OI/8bveryU72JrlmLzO9XSBEdCFhbyytTbj4ldKu5wrg/pok_tv_s1904_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u6/4SKDG2DSR9qsrxQWPzNzM3R7RglBs3bsITZPMrbBg/pok_tv_s1904_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2666390341
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u6/4SKDG2DSR9qsrxQWPzNzM3R7RglBs3bsITZPMrbBg/pok_tv_s1904_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "830ebec2ab09458ebe2c9f3e06a29320",
@@ -93,16 +78,13 @@
             "title": "In je dromen!",
             "description": "Een nachtje kamperen bezorgt de Pokémon van onze helden interessante avonturen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gw6-wqsJRY4viyfPgaikyA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1b/o6cipkghZ7s9T-PaEQG1BFNOzANtCxYIUG6oE7FGE/pok_tv_s1905_2997-master-nl-sdt_1080p-9c2265ba8c06d69dbb5810e93e61798e1be324e0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/36/sOIFKsi4SpfFIZUNdQspYFSk-9Uy_64nRvkAoZM8E/pok_tv_s1905_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hT/N94014X9nppBWDW6d5btkH7mpX_VZO-EC915Rxjqc/pok_tv_s1905_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2617015743
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hT/N94014X9nppBWDW6d5btkH7mpX_VZO-EC915Rxjqc/pok_tv_s1905_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "6cc2bfd44da74c27831f6e1ce81abe24",
@@ -111,16 +93,13 @@
             "title": "De legende van de ninja held!",
             "description": "De vriend van onze helden, Sanpei, brengt hen naar Ninja Village, waar hij vandaan komt. Maar al snel wordt de rust en vrede daar wreed verstoord!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bMK_1E2nTCcgx9uHOgaviQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z1/OIBbowAW40rLLcISe0L_8D2nsspQjnm80lsbDa4sE/pok_tv_s1906_2997-master-nl-sdt_1080p-2d9e756862401bcabb14e5dc61b542e04b80aca3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-9/T6Kc2v8oQWUhgpoJXB-azrIMDN8JMYW9Bgmg_FrAw/pok_tv_s1906_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/ECVEPpXY1TOfsylG3xgwtSFWsJATDVfCSSGABw2b4/pok_tv_s1906_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2609903212
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/ECVEPpXY1TOfsylG3xgwtSFWsJATDVfCSSGABw2b4/pok_tv_s1906_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "03675c5e310d41e1ac26ef8e77ad04c3",
@@ -129,16 +108,13 @@
             "title": "Het feest der beslissingen!",
             "description": "Aan de vooravond van het dorpsfeest, staat de toekomst van Ninja Village op het spel!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/A2dcXjENQeErCbvjnetBMM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ci/x7LPw_14TeOJlZwR65iuvmFAeJfdrfQiAvpG744m4/pok_tv_s1907_2997-master-nl-sdt_1080p-91dd8663703f1e77bb38a4f83a101e493e780d6c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hr/Rv1FpMqW3VQlFm9uv2pB4usI8pB_N9QGfQek8ovU8/pok_tv_s1907_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lu/bMyH-g_fq1aqB566qaDRdyoRLZwGFn-k_7wyhTmHY/pok_tv_s1907_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2605294279
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lu/bMyH-g_fq1aqB566qaDRdyoRLZwGFn-k_7wyhTmHY/pok_tv_s1907_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "1f439731e736496eb149514cb3a4e02f",
@@ -147,16 +123,13 @@
             "title": "Een dansdebuut!",
             "description": "Onze helden zijn in Couriway Town voor Serena’s aankomende Pokémon-show, waar ze haar derde Prinsessen-Sleutel kan winnen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/H0OXMec2SW4sUlRTLOk4C8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fm/VkLZRZfl6bcdF5RMkRJVOv3_PE0K8ZX-NaZ2OFp3Y/pok_tv_s1908_2997-master-nl-sdt_1080p-4d9f60be65032d347f086a7dba017d5922816693.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/v_aYZksFOC4M2UHZPW4WWmVupZOo4knokUj4FDmP0/pok_tv_s1908_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yX/Z7MJxbpfkS1XLCLf2wc0CXrAsIESp07-3ta5Tk9hs/pok_tv_s1908_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2691222403
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yX/Z7MJxbpfkS1XLCLf2wc0CXrAsIESp07-3ta5Tk9hs/pok_tv_s1908_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "af2737517d0646d49343d24239d521d0",
@@ -165,16 +138,13 @@
             "title": "Ontmoeting bij de Terminus-grot!",
             "description": "Onze helden bezoeken de Terminus-grot, waar zijn nieuwe Pokémon hopen te zien, maar zij zijn niet de enigen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ryc3UX0GRtQk0PSQjnVIdA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YN/atr7LIAI4LFe0OeW5e3Ytcu42xbUq3XK5hc_zQQwY/pok_tv_s1909_2997-master-nl-sdt_1080p-32a606d8658a494a95a334bbcaffc9ff65e12927.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/gOM2oDQ9ylM_tbj4tJomr95poYcuRR03PH8D3-H44/pok_tv_s1909_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yM/u3FROr68jgg2-tH_g6sDNqJoFClufNDbNZ3MURF30/pok_tv_s1909_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2665568924
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yM/u3FROr68jgg2-tH_g6sDNqJoFClufNDbNZ3MURF30/pok_tv_s1909_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "48f9f8e99acd4d60b2e3160306d803e7",
@@ -183,16 +153,13 @@
             "title": "Een cellulaire connectie!",
             "description": "Een dappere redding tijdens de zoektocht van onze helden naar Gompie, brengt een van hun vrienden in gevaar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SPn46ZrNTWAsuMWAwbYA-c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gR/d0cp628kEZR555969wmGLwCx03cJCDk1XZup5U14Q/pok_tv_s1910_2997-master-nl-sdt_1080p-30039bbbd470fb6bf13043b2867b3de9ff7b7061.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uF/XBxDphH3EwzOdudln1D-6bJ0y5twYoplfI1T6Geac/pok_tv_s1910_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ou/Ket6Nbo7I_0vlmjH2n95LQ1pNlEsMvlA4iNQQ1P9c/pok_tv_s1910_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2614308535
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ou/Ket6Nbo7I_0vlmjH2n95LQ1pNlEsMvlA4iNQQ1P9c/pok_tv_s1910_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "c4b788cf1cf445d4ae8e679311e3e924",
@@ -201,16 +168,13 @@
             "title": "Een ontmoeting in de wind!",
             "description": "In een uitgestrekt, prachtig bloemenveld zijn onze helden getuige van een opbloeiende vriendschap.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xLeIzxz0RdQro5nkxHj6SQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/t-8QUB9uY4GCKu8tQcCgo6s3BacOFbiQQOSI7yKFM/pok_tv_s1911_2997-master-nl-sdt_1080p-e9c69203e4f0caa51ebbea6af9565820688bb1d5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jz/-YnxR5XHnPafGGgyqffC_1ayvFZtM5s3l47Gck24s/pok_tv_s1911_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lE/3WutsSZvSuLBUzvyo_kV1VCu2somJ1JTUBMh9xVZg/pok_tv_s1911_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2801447230
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lE/3WutsSZvSuLBUzvyo_kV1VCu2somJ1JTUBMh9xVZg/pok_tv_s1911_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "fd8eba5e84ed4da6a65ea2eba8b863f1",
@@ -219,16 +183,13 @@
             "title": "Dansfeestplezier!",
             "description": "Serena is uitgenodigd voor een dansfeest voor Pokémon Artiesten en er staan haar veel verrassingen te wachten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_Y66XoTtTaYpl6i66i4Y_E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9v/HgH73WPrTqnNOtkX1GUXn1E3BrnzzuYrMMMeUgaUk/pok_tv_s1912_2997-master-nl-sdt_1080p-5998cec68c4b28ddc816ec80956eb38261104f8e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-T/-Adf02NMcCx-Lh5Iwc9gnP3NdqG89yU9g5P-HjIOY/pok_tv_s1912_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6I/C9PfHglSRM6o8j1_hbvuJjf2YvvuN_LGO72tIrJjI/pok_tv_s1912_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2566748342
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6I/C9PfHglSRM6o8j1_hbvuJjf2YvvuN_LGO72tIrJjI/pok_tv_s1912_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "2ad94a370c5d4e20ae2d2ced9ae0022a",
@@ -237,16 +198,13 @@
             "title": "Een samenkomst van twee reizen!",
             "description": "Tijdens een heftig gevecht tussen twee sterke Pokémon zijn andere kwesties belangrijker dan wie er wint!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KtlKNwxdTiAri0s7ZrgAio/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V2/T3GHtJe4-JXoHhQBNEdWtEzfjtul6B8V5d8f6Ps9I/pok_tv_s1913_2997-master-nl-sdt_1080p-98317cfc39fb1bb3f15fda87eb4e142e009ef2f8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/u45A0RmC5wBPXClfUDRUTMQqek0uPMln2njui7brc/pok_tv_s1913_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/QbFCt-utfh28Q-GlU5DUxbGnQ0mfHzLoVIsfSTBqc/pok_tv_s1913_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2628435753
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/QbFCt-utfh28Q-GlU5DUxbGnQ0mfHzLoVIsfSTBqc/pok_tv_s1913_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "b4984553c5e24ac89e9dd40333748d98",
@@ -255,16 +213,13 @@
             "title": "Een explosieve operatie!",
             "description": "Terwijl Team Flare verder gaat met Operatie Z, krijgen zij hulp van een onverwachte kant!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tJhFU8XiSsgnp3UAzN0jZg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x7/1MaFUNNjSTGqui-_HgYSoc9ObBzkTc3txgSAAEjQU/pok_tv_s1914_2997-master-nl-sdt_1080p-62eb2c7e0d43c980ce4ae499e77ae1dcd302ed6f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/to/p1d8-SRp0-uNoud0xzGEhULrdXg3cEgWe4QxAWqv8/pok_tv_s1914_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nG/-YIHby58al5MZymZNrYjQoXtyUDLAQTjXjlFHv5gg/pok_tv_s1914_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2724591764
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nG/-YIHby58al5MZymZNrYjQoXtyUDLAQTjXjlFHv5gg/pok_tv_s1914_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "e76170cb846b437292e72aa588a6d22c",
@@ -273,16 +228,13 @@
             "title": "EN TOEN WAS ER WATER!",
             "description": "Als ze door een uitgesterkt verdort gebied trekken, ontdekken onze helden een kleine groep harde werkers die hulp nodig hebben.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/52Fwy4RrQ3IkucqpYim0iw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sX/auZM__Qk6ets0zqNtECdA9WwqwHNOd2OEO9ke1C_k/pok_tv_s1915_2997-master-nl-sdt_1080p-e45052c8c4aac214a4ea916b756b79455de3add0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pk/ClG7JeySM4X15JeGzU7PUpfo7-quoVVJaH5l198Ag/pok_tv_s1915_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sf/M6SWaax8qM4j9JvlBp948mJ0eDAQpFMlBTs0101kU/pok_tv_s1915_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2631805061
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sf/M6SWaax8qM4j9JvlBp948mJ0eDAQpFMlBTs0101kU/pok_tv_s1915_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "9b9e2e1bae394f0fbf4f8960d3566ba1",
@@ -291,16 +243,13 @@
             "title": "Hoofdklasse keuzes!",
             "description": "Serena doet mee aan de Pokémon-show en kan haar derde Prinsessen-sleutel winnen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/m54uG645Tw8v0-JYNNWa6E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IU/xD5FTdVHnP3wUsbsoDR6IKN_QlADXGGbFHmfdvSkE/pok_tv_s1916_2997-master-nl-sdt_1080p-5ec39ee8ed39fcac3ad67578afcb4db8bdd55f0c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hW/UpjujctuHeQmR84o8-Mcz24Dx8Jd9-0m8ZX7_kK2M/pok_tv_s1916_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fw/hOSAdY7x5tAoDnMqn-CnzdpGbKGi5L8GEuyMKQXWE/pok_tv_s1916_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2632293230
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fw/hOSAdY7x5tAoDnMqn-CnzdpGbKGi5L8GEuyMKQXWE/pok_tv_s1916_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "9eef0b33fa434c07b850b25e2ccd8bf3",
@@ -309,16 +258,13 @@
             "title": "Een elektriserende woede!",
             "description": "Onze helden zullen een opwindend festival bijwonen, maar de eregast is niet bepaald blij!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nu8LM_pDTAcuFCyXizNi_M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-8/s42dqVWCsbhOCown1V5tsnIfIsAQ4gHquTw0BVKHI/pok_tv_s1917_2997-master-nl-sdt_1080p-afd7f110c12e729396245b7b3ad314a855c93cd9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WH/tFz2X4MF41kh_yeKs3yJDXK6r9zXlpIPy8Q9d2pBc/pok_tv_s1917_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R-/dAnNXiVpQ6QNH-BZvQjskKQiX1B6uxi1e9MRDiqYA/pok_tv_s1917_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2614584031
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R-/dAnNXiVpQ6QNH-BZvQjskKQiX1B6uxi1e9MRDiqYA/pok_tv_s1917_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "d3b7002756ea402c87a123ef6bf12f2a",
@@ -327,16 +273,13 @@
             "title": "Wat respect openen!",
             "description": "Onze helden willen naar een juwelententoonstelling, maar stuiten in plaats daarvan op een mysterie!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/07cAJ1bqQCwh6Ej72vxLyo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vu/wwvuYjKwjK7Ah8DLi4ph7lfxQ5SXERSHfIaYI9chU/pok_tv_s1918_2997-master-nl-sdt_1080p-767db4ff550908b230e269cb5e2316408a4e62af.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6-/oBqwOQYVm74j0wK9RfIMUV5tY0xjf_3F9lTf96nOc/pok_tv_s1918_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7s/vaft6Nwiyo_CJqc-y0aV8J3yrWfo_tvSnttFFNHrE/pok_tv_s1918_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2591654512
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7s/vaft6Nwiyo_CJqc-y0aV8J3yrWfo_tvSnttFFNHrE/pok_tv_s1918_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "2aa8f065276e44fda8b996ebf18aced6",
@@ -345,16 +288,13 @@
             "title": "De hoofdklasse is een feit!",
             "description": "De Pokémon-show van de Hoofdklasse is begonnen en Serena moet het opnemen tegen vrienden en vijanden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KqjwZSduRP0qLmW6_GKztY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P6/Dfd_5ZwjyEqa_imR0SXyfX3GYZrTY3uSdOX4eFk7Y/pok_tv_s1919_2997-master-nl-sdt_1080p-86809f5e9aeb585ed74cc440f4466d114cacb5ed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uX/s7CRuqoTCNsWy9PvBELa1-GQfuon7n88eA7esNIyI/pok_tv_s1919_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/xUPlaoB9oJaAddZOwleV8haoMOQo37iSB1mQR534c/pok_tv_s1919_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2632311976
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/xUPlaoB9oJaAddZOwleV8haoMOQo37iSB1mQR534c/pok_tv_s1919_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "9a29aa41949041ffb88b1900d51a5025",
@@ -363,16 +303,13 @@
             "title": "De weg naar de toekomst ligt open!",
             "description": "De Pokémon show van de Hoofdklasse is in volle gang en Serena’s doel om Koningin van Kalos te worden komt steeds dichterbij!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mimqQZSQQf8uIsZANUaUCU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AH/y0zAd1aZxEP04ULhpiknuz9HNW3c5QGMpsoPQxI2I/pok_tv_s1920_2997-master-nl-sdt_1080p-4db29d880cd4643e89686fccff08a42dd47063e2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sO/c1YqQ9cW84JKrKSkSBCwjoTMRlNAASU1I4jOmsGSQ/pok_tv_s1920_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nF/KYHmMxYkSJv0bagtQgTPDhrV4VB9KOKqPDtbT4wqo/pok_tv_s1920_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2632602769
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nF/KYHmMxYkSJv0bagtQgTPDhrV4VB9KOKqPDtbT4wqo/pok_tv_s1920_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "efa174504819489fb6cf9c92e0efc830",
@@ -381,16 +318,13 @@
             "title": "Een blijvertje dat mag blijven?",
             "description": "Bonnie is op zoek naar iemand die voor haar broer kan zorgen, maar wat zal er gebeuren als ze die vindt?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/76F0UEgZSJ8ts-ckuDvyDA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qX/ElJNtMhLOg42kBxJcVaNj6Q_DJ-4Xjws3SbiR2FUY/pok_tv_s1921_2997-master-nl-sdt_1080p-593aa9510185af32d0361280b19dd46e1bd32cd7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Di/pSNvr2cHv8P4nGlSlcal-CN6iqE8UEIEHNlwuNrnk/pok_tv_s1921_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eq/r1HFAoeMTD1L4BtPPJe9yyHS_9_o2BQAXWau4uQC4/pok_tv_s1921_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2663000821
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eq/r1HFAoeMTD1L4BtPPJe9yyHS_9_o2BQAXWau4uQC4/pok_tv_s1921_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "fc431a61407e4e54a434c1d216bf733e",
@@ -399,16 +333,13 @@
             "title": "Een gevecht op volle sterkte!",
             "description": "Terwijl Ash vecht tegen de koorts, komt er een andere trainer langs die hem uitdaagt tot een Pokémon gevecht.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_EMaYUB-TlQpDTB0ha_cz4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-e/m0nAcn_t-PDeeONiYVGqd-4ztuc61M2gpqLh9upag/pok_tv_s1922_2997-master-nl-sdt_1080p-bbc8c34bc4ef4bd05e857b2fde6c8f566799dff2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mm/m97eezWju4sVgATuSXS-5cbw4Is6n1LU-LHMVmpZE/pok_tv_s1922_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QU/CV8vIdR5Q5opazyC70bwzuBTX25rYS0bZ3iEcv9dk/pok_tv_s1922_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2643629257
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QU/CV8vIdR5Q5opazyC70bwzuBTX25rYS0bZ3iEcv9dk/pok_tv_s1922_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "7e3541d78ae34562be9242c764ced176",
@@ -417,16 +348,13 @@
             "title": "De synchroniciteitstest!",
             "description": "Ash en Greninja hebben een aantal fantastische en mysterieuze prestaties tijdens gevechten vertoond en Clemont wil erachter komen hoe dat kan!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fjVB14rjRWIvpJCx2TO0XY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CC/jLm7Z2LFZjp4XNCHvn678GHd6_i_cguoUSYbkx37c/pok_tv_s1923_2997-master-nl-sdt_1080p-3a32d040ec5a69c0a909c20a6417f118acfbc209.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hm/irXPEhn-CZkipojfwncdPST8sf_orUmwtHhUPVxO0/pok_tv_s1923_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qn/_rqNo-SmeEdwixafSCeWns0EtkBtjZw7dvmxUU_SA/pok_tv_s1923_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2681427829
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qn/_rqNo-SmeEdwixafSCeWns0EtkBtjZw7dvmxUU_SA/pok_tv_s1923_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "bafe67cfac3f45c5ab05f4b16a31fae8",
@@ -435,16 +363,13 @@
             "title": "Vrienden maken en invloed uitoefenen op schurken!",
             "description": "Team Rocket zit nog steeds achter Pikachu aan, maar een verlegen, zeldzame Pokémon gooit roet in het eten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uv5nz6w_RcUqwX0sWox-ug/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/64/jChcrubyG7DcTKQGBh2RrL6k0x5ZesU9Aon-aUx-4/pok_tv_s1924_2997-master-nl-sdt_1080p-de786e07656a63c91bf75c6a9a3056811650eac7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uz/ty3Jh8qSHFjR7kyHJFltMS1YTyajogNhTowPKrW3c/pok_tv_s1924_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BX/JaUH91PvKKgRZVS1snGd2-sEeblRlZkQncfGTEue4/pok_tv_s1924_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2728898257
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BX/JaUH91PvKKgRZVS1snGd2-sEeblRlZkQncfGTEue4/pok_tv_s1924_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "eab8d26246f04b1e9690937bc41e7e8b",
@@ -453,16 +378,13 @@
             "title": "Een onderzoekend gevecht met een Kampioen!",
             "description": "Ash wil meer leren over wat er gebeurt wanneer hij en Greninja samensmelten tijdens een gevecht en de Kampioen Diantha is de juiste persoon om te helpen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6rjSYkbwSx4lpCTe8Qefos/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zb/zS4l0mZnRckye8XWGaSYKC5xH29uz0S8bo_TBK504/pok_tv_s1925_2997-master-nl-sdt_1080p-ce3c0f149bb9e38001c8aa8c74264d463bbeaf04.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TL/laWuZuv5hwC-dKo-2014TY_qQUePsYFYQ8cTsO_bI/pok_tv_s1925_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/qGkN0AoBRg_Bq-T_Ux-_5J_-PJIbns_QX7a6Y8Wo0/pok_tv_s1925_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2753223724
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z4/qGkN0AoBRg_Bq-T_Ux-_5J_-PJIbns_QX7a6Y8Wo0/pok_tv_s1925_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "7cc1bade78874a6e9e9f85455f616929",
@@ -471,16 +393,13 @@
             "title": "Een verrassend gevecht op volle sterkte!",
             "description": "Tijdens de laatste etappe van de reis van onze helden naar Snowbelle City, biedt een toevallige ontmoeting met een oude vriend en rivaal Ash de kans op een verrassend gevecht!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fMG63niHSm4np-FRV9haSk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p7/cNt5qaLckgzfAQG4946I86_OxpKW0LcxW2ZI6xNOQ/pok_tv_s1926_2997-master-nl-sdt_1080p-d0f36441c08ece648bf61d1ecee9463337d92c46.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cM/LeBHFnsBSKNQY3OvdK2U66uDfieZ7JIhvHrRTCyj0/pok_tv_s1926_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fb/vkeXA3bKzhWfug14UCkWSTk8e32M7ozyqCDGphdJY/pok_tv_s1926_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2641741781
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fb/vkeXA3bKzhWfug14UCkWSTk8e32M7ozyqCDGphdJY/pok_tv_s1926_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "911bfc6823e3449a9d66e9e7a6ad9466",
@@ -489,16 +408,13 @@
             "title": "Het hagelt op het IJs-strijdveld!",
             "description": "Het is tijd voor Ash’s Snowbelle City Gym Gevecht en hij moet zijn achtste Gym Badge winnen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kRv8aCPjRJonWbp56atlGY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kq/yf_55QBEV0kv9kItCcwO_YQ-rTo8pUMw7xZu-_I_U/pok_tv_s1927_2997-master-nl-sdt_1080p-c87fc585d5b98606dfb96cf65d78e82a54f6f314.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KJ/agyn5sgDAfqKyV9w5lmIjNzRlK6Fgs7NBcmc1swGc/pok_tv_s1927_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/kGW9i849xl8c_9Yp9JgO_X6Kx4TCfgcD2G3hm9yg8/pok_tv_s1927_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2773396417
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M2/kGW9i849xl8c_9Yp9JgO_X6Kx4TCfgcD2G3hm9yg8/pok_tv_s1927_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "251402411e384bd8a24190502532bfa3",
@@ -507,16 +423,13 @@
             "title": "Door de bomen het bos niet meer zien!",
             "description": "Na Ash’s nederlaag in de Snowbelle Gym verandert een niet-zo-stille introspectie in een ware inspiratie!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JRQCQR44S9gokGQUCUyv6M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lv/kWyYdnGYiKgcm3ReQiSJK4HW4w17qp9AO_jVwApZU/pok_tv_s1928_2997-master-nl-sdt_1080p-08a593c7685ba6ab7829a8b85269c60ce01ae5c9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tt/L2RkM0jlQsyaGKaKuKjoHM-ShDNymSKJJWyUFmky0/pok_tv_s1928_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eB/wpzTIayBZdT3vrmnhYJTwKd2q8R8fOLRAN5cZ3EU4/pok_tv_s1928_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2734369618
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eB/wpzTIayBZdT3vrmnhYJTwKd2q8R8fOLRAN5cZ3EU4/pok_tv_s1928_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "1f9ab0889e2042dba7163c77c1347728",
@@ -525,16 +438,13 @@
             "title": "Een echte ijsbreker!",
             "description": "Ash is terug in de Snowbelle City Gym voor een herkansing, maar zal Gym Leader Wulfric de hitte voelen?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/H5qwiJ4gQtspxY8d8E0dyg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lq/d8KILpcd_bjRbzI8bDVxywBjxO7Ozc8r0X9CsD4jw/pok_tv_s1929_2997-master-nl-sdt_1080p-9f0d582e4977a7c93f70de347d0e5d6d92611df6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KY/y7m-2KLSNlgspWhUzYfOCQWwd6yasVARkqBa13w98/pok_tv_s1929_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1X/ptIQ0fsQ1ZCpoUB9UO9f6-9enJvXUodsceNEjiSzA/pok_tv_s1929_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2801325470
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1X/ptIQ0fsQ1ZCpoUB9UO9f6-9enJvXUodsceNEjiSzA/pok_tv_s1929_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "1e3b90681b7d4f31b786a063b056a206",
@@ -543,16 +453,13 @@
             "title": "Een ruwe diamant!",
             "description": "Een bezoek aan het huis van vrienden stelt onze helden voor een zeer ongewone groep uitdagingen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HjuQaBt9TzEt4agY7BWogY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WB/30hXc_ctTnH2GYPruGa38n0zZvWNv1HcyfSgASd_8/pok_tv_s1930_2997-master-nl-sdt_1080p-b4ebdf5488a18e693ce0296919c3ea83894e3fba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fQ/eESeX0_KwVDDngpaGD1M7bR9vYOmPyRhHqimhp71o/pok_tv_s1930_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MU/qNpVbxxDVhALUUjqTvXJuG2RIxmxFqUJvOd6FsKss/pok_tv_s1930_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2709981120
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MU/qNpVbxxDVhALUUjqTvXJuG2RIxmxFqUJvOd6FsKss/pok_tv_s1930_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "9d3ef7bc54da43aca967a67512935d26",
@@ -561,16 +468,13 @@
             "title": "Een scala aan schitterende snufjes!",
             "description": "Clemont heeft de anderen uitgenodigd om een van zijn ware passies te beleven, terwijl een zekere groep ongenode gasten ook een ritje meepikt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nT73vFTaQ6wqWemdRKTXSY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IO/h8TtcGJ3IEPv-mKj-t9P_-cbcckXa2nZYtKEsC8-s/pok_tv_s1931_2997-master-nl-sdt_1080p-0d61eb7cb153524baa97a1a003986db40029f25c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-s/CkIfsVCaHTl6n3fw2ENxO-jZgb0I341nn3hxDRypc/pok_tv_s1931_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/70/0WlKfLWvmrlkSPvduRLrT35mU-hUUjK0yBHQe8Ao4/pok_tv_s1931_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2555834793
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/70/0WlKfLWvmrlkSPvduRLrT35mU-hUUjK0yBHQe8Ao4/pok_tv_s1931_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "ad79423700554672813aef4431cda566",
@@ -579,16 +483,13 @@
             "title": "Zijn eigen League!",
             "description": "De Kalos League is begonnen en de spannende sfeer zit er al flink in.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rXlCNwBVRnIgTrvRDHNpWY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZW/w1WVtCPig9ig8ytMkjP88lDTWvjyXW2jWnkUEti54/pok_tv_s1932_2997-master-nl-sdt_1080p-527a79ec1bea39e13022907c17a62473a067a45b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/62/pd9RE1BTKAJFRkFZq7mXUuU6O4Y9lIDnKb9RFh_B8/pok_tv_s1932_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BL/Ggn6UtFShNnyRqrBP8sQxEoGUEuGxLrx75JYhBowo/pok_tv_s1932_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2648618570
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BL/Ggn6UtFShNnyRqrBP8sQxEoGUEuGxLrx75JYhBowo/pok_tv_s1932_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "8081d1220c2149cb8bd2badbce9fc679",
@@ -597,16 +498,13 @@
             "title": "Een waardevolle ervaring voor iedereen!",
             "description": "De Kalos League is hard op weg richting de halve finale en de spannende gevechten blijven prikkelen en verbazen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gIHRIgwhScsi9K6286fxnk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xq/c4ETXhp7v4CFacp425lRKzkXHSlGZ55PF3po_8lmE/pok_tv_s1933_2997-master-nl-sdt_1080p-691074159d005ae686d751fc0cd0ea9f438b11fa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/LQ6v-SuYvpn6AR2jep-gRon2BDtPxzlvFguc263RA/pok_tv_s1933_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xm/xVcYddABc6Xp_wFY7ZE4pOs7ZDimRakoqkiVDf6vw/pok_tv_s1933_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2720698767
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xm/xVcYddABc6Xp_wFY7ZE4pOs7ZDimRakoqkiVDf6vw/pok_tv_s1933_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "db827ec563bb46c8a2dbdfc68d319378",
@@ -615,16 +513,13 @@
             "title": "Analyse versus passie!",
             "description": "De halve finale van de Kalos League is aangebroken en biedt twee intense gevechten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/24J-xWO7Rsgotvfxo0xk3g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vl/f2fa0QswkeC7w8V4USxtQbiuXRYqI38x_9STnNEv4/pok_tv_s1934_2997-master-nl-sdt_1080p-d215e5d1e8c12446a22edb76cfba921d05eb8e2c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9A/Y1bUTbEwUIBISsbtHr8fFT-QdT4qgLQpHDdWWNa2g/pok_tv_s1934_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XB/ck4Kb99Wp-PIzzGDfPOuSC2sWBIhBPsYBN18zrVoE/pok_tv_s1934_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2692466670
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XB/ck4Kb99Wp-PIzzGDfPOuSC2sWBIhBPsYBN18zrVoE/pok_tv_s1934_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "d8e095db7aa948f0a2a001e18a315e53",
@@ -633,16 +528,13 @@
             "title": "Een epische strijd!",
             "description": "De halve finale van de Kalos League tussen Ash en Sawyer is in volle gang en het publiek is getuige van een uniek en ongelofelijk gevecht!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2OCV23qpSPAoqAB4YoxXlM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l6/Bl_st9f6R6veMjEaNNIIT09MnFWcfuj8GzxRJX5Dc/pok_tv_s1935_2997-master-nl-sdt_1080p-a8bea150066315e0f9d70dd6b980d1d49305f45e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FM/qL4Dh1tM_-_nXdu6SpRFPOL1gYKyzRTpkBc3Sbvb0/pok_tv_s1935_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iu/asX9_Ujoi9GF-YG5ernqidyMMqc9Uc-v9v3CF1GQU/pok_tv_s1935_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2771717196
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iu/asX9_Ujoi9GF-YG5ernqidyMMqc9Uc-v9v3CF1GQU/pok_tv_s1935_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "d571153d34c74cf7b70195566f64d786",
@@ -651,16 +543,13 @@
             "title": "Kalos League passie met een zekere Flare!",
             "description": "De laatste ronde van de Kalos League is aangebroken en achter de schermen is er veel aan de hand!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1XEVPTTHTPctwGVVm9k14Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a6/OUz4ad1TZQDpLipIKWYCx3TQEe69BdT-7Qq7q6eZw/pok_tv_s1936_2997-master-nl-sdt_1080p-2b12bc8c7ba45fd49c63ccce608fb677f2839c6f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vr/bjYY5S7Guvgf4bhArGpQW5P5bsi3e6zIw3-Ss3iQY/pok_tv_s1936_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t5/_Jkn5xNJFytPQ3EqylOx7JrjJGI_xi-IMJ1ZLT534/pok_tv_s1936_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2510296394
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t5/_Jkn5xNJFytPQ3EqylOx7JrjJGI_xi-IMJ1ZLT534/pok_tv_s1936_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "4b91a714a7bc40f19f6632251d517a1c",
@@ -669,16 +558,13 @@
             "title": "Finale voor wie niet huiverig is!",
             "description": "Het is tijd voor de Kalos League finale en Ash strijdt tegen Alain in hun langverwachte gevecht!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S5GnFKe8QPEn2YyJR1Rehw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/np/WffxAiXWh8dk9BBHagdj5qFe-lssQqPDOgBtWoi3o/pok_tv_s1937_2997-master-nl-sdt_1080p-3ec16af5b37e50a4bc37e535db8ecccb7eb8ad1a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g1/7DA76aHk7ItEdpaRlbb7bkhIxM-Cw6nn8sbw8okAw/pok_tv_s1937_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qK/_FxSaBwU8NqZG_BjERLieFJV0HdtVEnXWApvY4pPE/pok_tv_s1937_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2752075248
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qK/_FxSaBwU8NqZG_BjERLieFJV0HdtVEnXWApvY4pPE/pok_tv_s1937_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "78acc9c2eab64aa19b7dd612eedb5004",
@@ -687,16 +573,13 @@
             "title": "Door tot aan de vurige finish!",
             "description": "De laatste ronde van de Kalos League is in volle gang en staat bol van verrassingen: van de eerste seconde tot de laatste!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/eKzJwuq2SqEm33WEu7bUAQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tz/Ly0w6x1hl6_1wkHZPefK27JaIpeM2ooiOsdx6sWQE/pok_tv_s1938_2997-master-nl-sdt_1080p-3a96b24c1475ec7394a4794234b9e8ec6e4d0d9a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zo/PytUdfpkKJ7H6HQBwfC9ZPtxxvB2FSJQ58_KhuvV0/pok_tv_s1938_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dW/gkMEJUvN2J-NUWYU18stTfWtGzDq_TplyVgKDmkH8/pok_tv_s1938_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2745686641
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dW/gkMEJUvN2J-NUWYU18stTfWtGzDq_TplyVgKDmkH8/pok_tv_s1938_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "e32d01d5868a4b55a371d76c5915817c",
@@ -705,16 +588,13 @@
             "title": "Een gigantische overname!",
             "description": "Lysandre en Team Flare proberen Lumiose City en de wereld over te nemen en onze helden bevinden zich midden in de chaos!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4y0B1YaKS1Uo3HXbFkVgXw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OA/XTiVf8Pvd4YhS197i8O8K6c8UBuCe7H1TGCaC_evk/pok_tv_s1939_2997-master-nl-sdt_1080p-36ad5d160202d72381aa2c6495d3e4c9ea539167.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nv/ZAp_iqkT9KC_qYOfYulbILYottPc7umetFlE4kPjs/pok_tv_s1939_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/md/rOVNn7HBZK0b_pRCHIV-pLkEkmxzS-ImiRY8shpBI/pok_tv_s1939_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2656055847
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/md/rOVNn7HBZK0b_pRCHIV-pLkEkmxzS-ImiRY8shpBI/pok_tv_s1939_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "ece93ad5040c4ea28565004de8dbc73c",
@@ -723,16 +603,13 @@
             "title": "Uiteenlopende dromen!",
             "description": "Lumiose City ligt in puin, maar onze helden en hun vrienden zijn niet van plan om toe te kijken en niets te doen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/7Ok61QQMTqIhWUATejbxzw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aJ/DV1NqIpHDvqvrC2N5oCJ90SBKlZBZlUWFx2y-RZxU/pok_tv_s1940_2997-master-nl-sdt_1080p-65adbd71167c56372ba4408ea5f2476f9f31a3ce.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1Q/4ylhNuqiVGhlWEGjyRfPHfQmQ1XWeOHA6RD7wg2MU/pok_tv_s1940_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xz/Z5dllZo1DlmuIyIypHYN1RZNld4AXvz2o0Uysr2sI/pok_tv_s1940_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2631560788
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xz/Z5dllZo1DlmuIyIypHYN1RZNld4AXvz2o0Uysr2sI/pok_tv_s1940_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "494c9552cbd1458b809fb8600d5be7fd",
@@ -741,16 +618,13 @@
             "title": "De juiste held voor de juiste taak!",
             "description": "Het lot van Kalos en de wereld wordt bepaald door wat de plannen van Team Flare teweegbrengen. Onze helden doen hun best om hen tegen te houden.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/SUyVUsvRRYsgJ-4YA1b5_0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yy/95KlzORjLFIhdxv-VIBCByneaiMYu4fZXKf2zfWAg/pok_tv_s1941_2997-master-nl-sdt_1080p-c550fc8588d753d3c0d6b2737d70265b6f9e4e21.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Af/ej22QNd67L1xvPAFJpB1J5e9VOhyWBuFARXj5QG1Y/pok_tv_s1941_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cb/bMOxatkgbkKXTKEj0kDdk9cJdXSn7LIB-zOPniypw/pok_tv_s1941_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2510954672
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cb/bMOxatkgbkKXTKEj0kDdk9cJdXSn7LIB-zOPniypw/pok_tv_s1941_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "2b7c56d454514992967965ecdcdc27de",
@@ -759,16 +633,13 @@
             "title": "Steengoede verdediging van Kalos!",
             "description": "Het lot van Chespie en de wereld is in handen van een buitengewoon sterke groep vrienden en bondgenoten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/K3xW1FRRSZIlnll7NzcJ94/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pB/9RGdbKmDST-uj8Y8OjbsBJ1qSH1cnStk9DybJVtTE/pok_tv_s1942_2997-master-nl-sdt_1080p-16d28c32ecbb09924f8ef8c77ce15d36176f3314.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ng/u0-xIlqp6j8e8nGxPXrPw78NnZg4cc2bssXk_woso/pok_tv_s1942_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ei/__8wbOlOoAjtf2DtLs5w9HhXZPep4NpMf1Z0cV3LM/pok_tv_s1942_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2550123627
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ei/__8wbOlOoAjtf2DtLs5w9HhXZPep4NpMf1Z0cV3LM/pok_tv_s1942_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "c153eb7ff3c24977aa2f9450e44a80bd",
@@ -777,16 +648,13 @@
             "title": "Het vormen van een meer dan perfecte bondgenootschap!",
             "description": "Het moment van de waarheid is aangebroken wanneer onze helden en hun vrienden worden geconfronteerd met de laatste uitdaging die het lot van de wereld zal bepalen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wVPrf_PCSXcqi-UUORKgL0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yz/cKYGjxXbcK-Sg-FZ8piTu8GizuW1pXmrmbHgRBJ1Y/pok_tv_s1943_2997-master-nl-sdt_1080p-a3a819f84c25249b877206568780925558180772.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qr/TK6ZZ5dtvZGGu5l3qBjTbJFaRG7GUS6TX8hZl3fZc/pok_tv_s1943_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HK/T4uKj1vFGGYCIgsXPvmA2M-o4Fb1a6aBE9F-zYyNw/pok_tv_s1943_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2695531373
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HK/T4uKj1vFGGYCIgsXPvmA2M-o4Fb1a6aBE9F-zYyNw/pok_tv_s1943_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "297cff5b5ba8431c9ea8906702fca0a9",
@@ -795,16 +663,13 @@
             "title": "Vechten met een schone lei!",
             "description": "De Lumiose City Gym wordt nog steeds gerepareerd, maar een jonge Trainer die de gym komt uitdagen zet alles op z’n kop.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KXz_W1uoQxwnqiQZwL8oKk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mL/qzMb00ISd2vlK6FI1nkxi-YFTu6-4_M1ngmmL4VOk/pok_tv_s1944_2997-master-nl-sdt_1080p-5ed13ed515c49a3723852b13f656cb9dc6e4aa2f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aV/Imj1Cd4ohNZsgJAZwRFswviQkSQLzHI-XuLvOG_us/pok_tv_s1944_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fC/RKOGXM8Cg6XtdECcZJKtAL1Wg8USlReWuLPzRUDgU/pok_tv_s1944_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2547753933
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fC/RKOGXM8Cg6XtdECcZJKtAL1Wg8USlReWuLPzRUDgU/pok_tv_s1944_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "475d11760ef94feda637f6da29e046ca",
@@ -813,16 +678,13 @@
             "title": "Den første dagen i resten av ditt liv!",
             "description": "Heltene våre er opptatt med å planlegge fremtiden, men det er en som har større vansker med å planlegge enn de andre!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/R10Rdg75T-0pjf22ingRso/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/JSlKnS491haJbRUISms5WKe-MrYnekk_lqrgiqS6A/pok_tv_s1945_2997-master-nl-sdt_1080p-40bae798ddf152745a227b3c325d7102f841dd02.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_6/dvh6MWr7SoMkQDqrGzlPpkWv8lKWR2SLbHZ8nMJZg/pok_tv_s1945_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xm/gDZyzDv6LPN-Pmy-079JBuNdciUYOjrNCEHrHSVhY/pok_tv_s1945_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2580984092
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xm/gDZyzDv6LPN-Pmy-079JBuNdciUYOjrNCEHrHSVhY/pok_tv_s1945_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "79dbcca381434627a86d2bcdae7c1b89",
@@ -831,16 +693,13 @@
             "title": "In het belang van velen!",
             "description": "Terwijl onze helden spoedig ieder een kant op zullen gaan, krijgen ze te maken met de terugkeer van een gevaar dat nog niet helemaal geweken is!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/edvMo4FDRicqG0rza58G4k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/mVBUEj-AtsOR_c07phfGGvKFZCQw74dC537XCCQX4/pok_tv_s1946_2997-master-nl-sdt_1080p-c5f39663d5f345aea4fc62cbfbc045e57f4c6f06.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AU/UnV8Fvm7by8PYTM5ZYe0U3VkW1AfzepduDqLEbf6E/pok_tv_s1946_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2h/WIiUSF_AaGK6TDA9jUUMoHH9KhMZa_RLodflE34Rw/pok_tv_s1946_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2682459223
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2h/WIiUSF_AaGK6TDA9jUUMoHH9KhMZa_RLodflE34Rw/pok_tv_s1946_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "3c751b4416c24ee388ade333fc2d21bf",
@@ -849,16 +708,13 @@
             "title": "Totdat we het weer tegen elkaar opnemen!",
             "description": "Onze helden gaan ieder hun eigen weg en dus is het tijd om afscheid te nemen, herinneringen op te halen en zich op de toekomst te richten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/PHUbRBbCTuMiK3jM_wtIb8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lh/hvFQtHum-2agldN1MY3hSW5CwRWESbdvHYK8z40To/pok_tv_s1947_2997-master-nl-sdt_1080p-bf01cd15e5cede429e15737e6a19e3fa68ff0ed1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nA/ruRi5LENT2X2td7Y6MFg8KPf73viIB45FMg8Bs3zg/pok_tv_s1947_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YL/CpS-xU1kGq6PKEQW5jBxq83DyPVmph7JD197YTKN0/pok_tv_s1947_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2726501810
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YL/CpS-xU1kGq6PKEQW5jBxq83DyPVmph7JD197YTKN0/pok_tv_s1947_2997-master-nl-sdt_1080p.mp4"
         },
         {
             "id": "c017500cabd14137b8bc149dabc94157",
@@ -867,16 +723,13 @@
             "title": "De legende van X, Y en Z!",
             "description": "De onlangs ontdekte ruïnes van Kalos, onthullen een rijke geschiedenis over de compassie en zorg van drie Legendarische Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/wBdQDKvRQTcuLwUnavJQVc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/c8TCn7E_R8yJwvYCX9TZtg9boRRluXgo5rwLGf3B0/pok_tv_s1948_2997-master-nl-sdt_1080p-7015b8f2f3500be0afa8cb144767454328b4222d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JO/W_sJcBmTTLWDw64ZrwlDtOZUtsE7jIr6MbM_hmRk0/pok_tv_s1948_2997-master-nl-sdt_1080p.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xb/4NUzLPJOxoIH6mEwXFF6ajIwbnJAzmuVb1r4J-xtU/pok_tv_s1948_2997-master-nl-sdt_1080p.mp4",
             "captions": "",
-            "size": 2701947540
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xb/4NUzLPJOxoIH6mEwXFF6ajIwbnJAzmuVb1r4J-xtU/pok_tv_s1948_2997-master-nl-sdt_1080p.mp4"
         }
     ]
 }

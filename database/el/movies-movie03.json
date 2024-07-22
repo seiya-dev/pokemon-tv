@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-3-el-hechizo-de-los-unown",
+    "channel_id": "movie03",
     "channel_name": "Pokémon 3: El Hechizo de los Unown",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-es.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 3,
-    "channel_creation_date": 1560369948,
-    "channel_update_date": 1692978625,
+    "order": -3000,
     "media": [
         {
             "id": "be6032ea239142adb348f22ab7a4bd7e",
@@ -21,16 +18,13 @@
             "title": "Pokémon 3: El Hechizo de los Unown",
             "description": "¡Lo desconocido trae aventura!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vmAy6iORQq0s0jyKrekvX4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ev/ArrCtbTbAXlipK2N4A3lHKnq_J9NEEgC_OcgIJgH4/m3_las_esp-3bece2cd29f038c8c936b0c589298b20e5f5377f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ev/ArrCtbTbAXlipK2N4A3lHKnq_J9NEEgC_OcgIJgH4/m3_las_esp.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/E3iwPLixkUuGix005_x65Nbi-PCySS98coTtTMaOs/m3_las_esp.mp4",
             "captions": "",
-            "size": 10209206062
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/E3iwPLixkUuGix005_x65Nbi-PCySS98coTtTMaOs/m3_las_esp.mp4"
         }
     ]
 }

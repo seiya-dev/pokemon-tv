@@ -1,18 +1,15 @@
 {
-    "channel_id": "insectomania",
+    "channel_id": "bug-out",
     "channel_name": "Insectomania",
     "channel_description": "À fond le buzz avec des Pokémon de type Insecte sur TV Pokémon",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/bug-out/bug-out-1125x1500-fr.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/bug-out/bug-out-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/bug-out/bug-out-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/bug-out/bug-out-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1653668390,
-    "channel_update_date": 1653668381,
+    "order": -1653668390,
     "media": [
         {
             "id": "c48e6cc5d5fc469b95db03ad0f0920e2",
@@ -21,16 +18,13 @@
             "title": "Un Pokémon amoureux",
             "description": "Lorsque nos amis aperçoivent une nuée de Papilusion planer au-dessus de l'océan, Pierre, en tant qu'éleveur de Pokémon, explique qu'il s'agit de la période de ponte des Papilusion.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/xI5sxdX8RpsldsDrQ8JIOI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kL/RM1KT7yfkJyHyNGFX4vx0zn9O7HkalOPQ6mlunP8k/pok_tv_s0120_2398-master-fr-a835fd4edc1c1e2ddab1d1a54d2b73d71c28fb3f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kL/RM1KT7yfkJyHyNGFX4vx0zn9O7HkalOPQ6mlunP8k/pok_tv_s0120_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zW/L1-TdPMP_Hc8VByqg4zwmXMT9v1peNX2oKSnnz0mI/pok_tv_s0120_2398-master-fr.mp4",
             "captions": "",
-            "size": 2809391093
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zW/L1-TdPMP_Hc8VByqg4zwmXMT9v1peNX2oKSnnz0mI/pok_tv_s0120_2398-master-fr.mp4"
         },
         {
             "id": "900d683f2c174b36884fbf27397021f2",
@@ -39,16 +33,13 @@
             "title": "Une fin juteuse",
             "description": "Sacha et ses amis découvrent une forêt où des envahisseurs Scarabrute provoquent une déforestation massive.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/kA1oPywXSzYiE-_JzlwIfI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/EJb7MdYF3PqQYbukgwZUOO7D7c-6r6beBfAwDgwIg/pokemon_season03_ep14_fre-60a2bce345ae2401ce929e3f019d8b80cdeb5f94.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V-/EJb7MdYF3PqQYbukgwZUOO7D7c-6r6beBfAwDgwIg/pokemon_season03_ep14_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LM/suBqbnP6SnAWyuqWhYGxFOJDbMSVftvZeTBXLB1QA/pokemon_season03_ep14_fre.mp4",
             "captions": "",
-            "size": 2801075511
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LM/suBqbnP6SnAWyuqWhYGxFOJDbMSVftvZeTBXLB1QA/pokemon_season03_ep14_fre.mp4"
         },
         {
             "id": "02a76bf551f64068b3c30ee3842098a2",
@@ -57,16 +48,13 @@
             "title": "Dans le feu de l'action",
             "description": "Lorsque Sacha arrive à l'Arène d'Écorcia, il a juste le Pokémon qu'il faut pour défier les Pokémon Insecte du Champion.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Aqdr9VH2QGgs8MO44QgmKI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gI/kDEf5nYiq97uehjt30PiRRonzd3uZdlAJDVFr0RTQ/pokemon_season03_ep39_fre-e96bf6647d7222dd65de9969b44833cf19d9555b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gI/kDEf5nYiq97uehjt30PiRRonzd3uZdlAJDVFr0RTQ/pokemon_season03_ep39_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/xWPYgw6DK3h7YQD5rFLuGHDrrPhWTMTOF48uem0h4/pokemon_season03_ep39_fre.mp4",
             "captions": "",
-            "size": 2779900101
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/xWPYgw6DK3h7YQD5rFLuGHDrrPhWTMTOF48uem0h4/pokemon_season03_ep39_fre.mp4"
         },
         {
             "id": "d7ff103e7212464594275722fe992d80",
@@ -75,16 +63,13 @@
             "title": "Armulys ou Blindalys ?",
             "description": "La Team Rocket mijote un plan pour capturer un Grainipiot. Jessie s'impatiente de voir son Armulys (qui est en réalité un Blindalys) évoluer en un merveilleux Charmillon. James et Miaouss tremblent devant l'inévitable désillusion qui s'annonce.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/1_8QPnISRkUlCdXIv6ZLYA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gj/SP84iiuFx92am3TuD5nXt29XYspnH4CMJcnm9zAt4/pokemon_season06_ep40_fre-7892f054f86212ea2920b821df49cc56ab2b6d9f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gj/SP84iiuFx92am3TuD5nXt29XYspnH4CMJcnm9zAt4/pokemon_season06_ep40_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bx/8ObdO1QUz5S8otuhpfGqdZ6i7cmUjfWxhTG7evqDU/pokemon_season06_ep40_fre.mp4",
             "captions": "",
-            "size": 2624000640
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bx/8ObdO1QUz5S8otuhpfGqdZ6i7cmUjfWxhTG7evqDU/pokemon_season06_ep40_fre.mp4"
         },
         {
             "id": "71e6c156698444eeb04796a26fe7d803",
@@ -93,16 +78,13 @@
             "title": "Un air de déjà vu",
             "description": "En chemin vers Verchamps, nos héros rencontrent un Dresseur débutant nommée Tyler, qui tente d'attraper son premier Pokémon sauvage.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cebBVmmERO4sEeWom_n2AM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0V/e_GNEctFq61HWSOJdkR33XpLC59RrtPK7FXEl2mYY/pok_tv_s1126_2398-master-fr-1774da00c9700962cd596365f47d0e8a69cb921c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0V/e_GNEctFq61HWSOJdkR33XpLC59RrtPK7FXEl2mYY/pok_tv_s1126_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bd/BnV-wtduNDOXGLoxwpk-9jtuMj3lykkr4_FUM-7Qc/pok_tv_s1126_2398-master-fr.mp4",
             "captions": "",
-            "size": 2653083728
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bd/BnV-wtduNDOXGLoxwpk-9jtuMj3lykkr4_FUM-7Qc/pok_tv_s1126_2398-master-fr.mp4"
         },
         {
             "id": "9e90e5dd20a34249b1dbe168e553ab77",
@@ -111,16 +93,13 @@
             "title": "Un Combat pour l'amour des Types Insecte !",
             "description": "Le moment tant attendu du Combat d'Arène opposant Sacha et Artie, le Champion de Volucité, est enfin arrivé !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season14/season14_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/npDl3SCjQkksdvhaOVTq3c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/db/tmqlqyGMpsK6aBR7aex3_i0iplveESqhBt0zhmgGE/pok_tv_s1425_2997-master-fr-un--combat-pour-l-amour-des-types-insecte---9fc8295020c5a607077c22a5597fb2c94d92e3f8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0L/duz3Qo05ndGdc2hJRoyp4jfWNb6eIj3JAPqy3qy2Y/pok_tv_s1425_2997-master-fr-un--combat-pour-l-amour-des-types-insecte--.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/di/xET_hNKi-KQX46VYR9z6fnsZ1ZiCUTIf3uq9_1uaQ/pok_tv_s1425_2997-master-fr-un--combat-pour-l-amour-des-types-insecte--.mp4",
             "captions": "",
-            "size": 3280442101
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/di/xET_hNKi-KQX46VYR9z6fnsZ1ZiCUTIf3uq9_1uaQ/pok_tv_s1425_2997-master-fr-un--combat-pour-l-amour-des-types-insecte--.mp4"
         },
         {
             "id": "e7f1ae8d9cd04ee881aa2acb058a1aba",
@@ -129,16 +108,13 @@
             "title": "Les intrus de la Grotte Électrolithe !",
             "description": "En chemin vers Parsemille, nos héros devinent que les habitants de la Grotte Électrolithe font face à un grave problème!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5_GujZzQTuggaoqywWKGro/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zt/2K155cWCTcxC8ryxpBzBwnHK_WIN9BBvNXN54Jo_Q/pok_tv_s1514_2997-master-fr-2f14c831ed01eb29596dcf57b472a7fae18d9902.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wk/xySH86HI9dTX0ittmqcOEFlBDbAvV1rei7I1WKj8o/pok_tv_s1514_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tp/zHAXCs0kGvVRttGvo7VgjtEFZH7tzOCQktgI4Vx3g/pok_tv_s1514_2997-master-fr.mp4",
             "captions": "",
-            "size": 3310051112
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tp/zHAXCs0kGvVRttGvo7VgjtEFZH7tzOCQktgI4Vx3g/pok_tv_s1514_2997-master-fr.mp4"
         },
         {
             "id": "8a6bbc955837429b88cdfbc9e84566f4",
@@ -147,16 +123,13 @@
             "title": "Un combat glissant !",
             "description": "Toujours aussi persévérant, Sacha compte bien prendre sa revanche sur la Championne d’Arène Violette pour remporter son premier Badge d'Arène de la région de Kalos !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/imu8lVg3QpsiM37yehFZvQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gf/_9WAIrOti-dQtTc5RCWTW61zy5C4K7C_UUtiUN3eM/pok_tv_s1706_2997-master-fr-sdt-h264-2a4cccb33a569b8877814bc7a980a813f5160bfd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X3/uvAFCAkYT6jYbHSX7fj75i-8B1GTwy03eM9uVCXDw/pok_tv_s1706_2997-master-fr-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8Q/4QiOkvMD8SQa8ITjGZJp7kImwa6fACh6n_diU56Ao/pok_tv_s1706_2997-master-fr-sdt-h264.mp4",
             "captions": "",
-            "size": 3300979356
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8Q/4QiOkvMD8SQa8ITjGZJp7kImwa6fACh6n_diU56Ao/pok_tv_s1706_2997-master-fr-sdt-h264.mp4"
         },
         {
             "id": "4554b223139b489785074a6c4e5a5065",
@@ -165,16 +138,13 @@
             "title": "Une mission ultra-urgente !",
             "description": "L'arrivée d'une nouvelle Ultra-Chimère donne l'occasion à nos héros d'endosser leurs nouveaux rôles !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RVSyIxObSJchQdKbE5aUGU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D1/KGfbBEsdoTHg5CMs80RZMxDwP5HdfR8Iz2bncMJdE/pokemon_season21_ep18_fre-a68989b1a10dc52798744d67a12043fc042394c9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D1/KGfbBEsdoTHg5CMs80RZMxDwP5HdfR8Iz2bncMJdE/pokemon_season21_ep18_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IJ/qw8pTNSz_L3ukA-4nrGKAyFTrx1r1nCsaJiDL-p-0/pokemon_season21_ep18_fre.mp4",
             "captions": "",
-            "size": 2885648646
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IJ/qw8pTNSz_L3ukA-4nrGKAyFTrx1r1nCsaJiDL-p-0/pokemon_season21_ep18_fre.mp4"
         },
         {
             "id": "b944be6b10f34f51bc5f2ecef4071c5c",
@@ -183,16 +153,13 @@
             "title": "La sagesse d'éviter la fuite…",
             "description": "Les demi-finales de la Ligue Pokémon d'Alola continuent et nous promettent leur lot de surprises…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep45_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season22/season22_ep45_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/uUS-axDzT1EvF8uzvQHHFw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rz/9aOMAzkiKP0_-fJz8iQO-mASctnvJDjdG7Dc4wc0s/pokemon_season22_ep45_fre-bb94290127b87bc6cd91fa1181ec099592c9a48c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pA/b4vKj44r75c3rIGxY4h5nyRwhBarzh_pbAXYu2yTE/pokemon_season22_ep45_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/6Aq2_hYuZjVROaxb09xkceUlNV44jY8aqOlALwrSA/pokemon_season22_ep45_fre.mp4",
             "captions": "",
-            "size": 2910761030
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/6Aq2_hYuZjVROaxb09xkceUlNV44jY8aqOlALwrSA/pokemon_season22_ep45_fre.mp4"
         }
     ]
 }

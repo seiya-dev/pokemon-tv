@@ -1,18 +1,15 @@
 {
-    "channel_id": "el-poeta-pokemon",
+    "channel_id": "professor-oak",
     "channel_name": "El poeta Pokémon",
     "channel_description": "El Profesor Oak se complace en presentar su divertida poesía Pokémon en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1627662033,
-    "channel_update_date": 1627662028,
+    "order": -1627662033,
     "media": [
         {
             "id": "f52a163e54254a57b914bca02450031f",
@@ -21,16 +18,13 @@
             "title": "¡Primeape se vuelve loco!",
             "description": "Cuando Ash intenta atrapar a un Mankey salvaje, este pierde el control y usa Golpe contra todo el grupo, ¡incluso roba la gorra de Ash! ¿Encontrará Ash la forma de apaciguar a este belicoso Pokémon?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9SoWPlQlSlcuRS8oCRQAx8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ee/HbcyTTJsSOFsH09i2_HE09heDDGRkoeq6OQWVTIZA/pok_tv_s0124_2398-master-las-a6d8360a55fe8229aba22d2fe6a578d3942eb1c8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ee/HbcyTTJsSOFsH09i2_HE09heDDGRkoeq6OQWVTIZA/pok_tv_s0124_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/eb_lknY4Co_TY5CEVnNeDTZnKR5BpZ97UYf_pl5Qs/pok_tv_s0124_2398-master-las.mp4",
             "captions": "",
-            "size": 2804117239
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/eb_lknY4Co_TY5CEVnNeDTZnKR5BpZ97UYf_pl5Qs/pok_tv_s0124_2398-master-las.mp4"
         },
         {
             "id": "11568b35772346b583e048b0fad0a36c",
@@ -39,16 +33,13 @@
             "title": "Que el verdadero profesor Oak se ponga de pie",
             "description": "Un evento de celebridades inspira a Jessie y a James a fingir ser importantes y así llenar sus hambrientos estómagos. Al poco tiempo, sus disfraces son puestos a prueba por el verdadero invitado de honor: ¡el Profesor Oak!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EVaLNXcjRrUg-BIsPrQo2w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_p/Xj2WewF9uZldigoAHNWfEKJtEzI895tox9Gzh_evo/pok_tv_s0536_2997-master-las-6bf023f0252f0ac963790937a9a9a55d34874161.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_p/Xj2WewF9uZldigoAHNWfEKJtEzI895tox9Gzh_evo/pok_tv_s0536_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aW/-DtCilkbSJnvyEeqfYumbI_dL1SHWQVHNZqaYyl64/pok_tv_s0536_2997-master-las.mp4",
             "captions": "",
-            "size": 2666276864
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aW/-DtCilkbSJnvyEeqfYumbI_dL1SHWQVHNZqaYyl64/pok_tv_s0536_2997-master-las.mp4"
         },
         {
             "id": "d7cacf9a304c43b2943469238fb41608",
@@ -57,16 +48,13 @@
             "title": "Capturando a Corphish",
             "description": "¡Un misterioso Pokémon no deja de cavar en la playa cercana al campamento de nuestros héroes y tira todo a su paso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/18rPmjBMQ7IlDRpI4-0Fgg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Av/McOabVNK1oIlrBQjSiJuRvikiQ6_27Vba-Xavl35c/pok_tv_s0635_2997-master-las-ae1c62f52ea00b0c09216c9c214dcfe41b048936.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Av/McOabVNK1oIlrBQjSiJuRvikiQ6_27Vba-Xavl35c/pok_tv_s0635_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/EjpmzWevAvWBX8HuvfsGcRzAqQiDEpi3Dvu0jVa5g/pok_tv_s0635_2997-master-las.mp4",
             "captions": "",
-            "size": 2670502195
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/EjpmzWevAvWBX8HuvfsGcRzAqQiDEpi3Dvu0jVa5g/pok_tv_s0635_2997-master-las.mp4"
         },
         {
             "id": "f72b984ee5984613aed599944b2000fc",
@@ -75,16 +63,13 @@
             "title": "¡Problemas poéticos!",
             "description": "Tan pronto Ash inicia una batalla oficial con un Líder de Gimnasio novato, Flannery, el Equipo Rocket interrumpe, posponiendo la batalla un día más.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9yuYTuWYRhMrtWZlEsgAPw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E4/XEs2QYdJUcgO3pZvGc4QR4TgRz3yDzkP0msGWvNT8/pok_tv_s0715_2997-master-las-cf847c7ad806b3cc3729cdc19d30db1edaa6e6b1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E4/XEs2QYdJUcgO3pZvGc4QR4TgRz3yDzkP0msGWvNT8/pok_tv_s0715_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m5/CGerpKGc4Wx6AgaUmGzBVkG2RYDOKPyqp00sM2UyU/pok_tv_s0715_2997-master-las.mp4",
             "captions": "",
-            "size": 2670169502
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m5/CGerpKGc4Wx6AgaUmGzBVkG2RYDOKPyqp00sM2UyU/pok_tv_s0715_2997-master-las.mp4"
         },
         {
             "id": "e17349655afc40cf8220bc7c28eb2155",
@@ -93,16 +78,13 @@
             "title": "El lugar correcto y la rima correcta",
             "description": "Max y May van a visitar a Ash a Pueblo Paleta, junto con Misty y Brock, y todos hacen planes para otro viaje juntos, ¡esta vez, para la Batalla de la Frontera!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4XNJZVr8QM8giC8fCjrIVU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gB/057z0OBVTvhk1d_J6AIjtUDGB9k4TMiEM6PjAAO_w/pok_tv_s0840_2398-master-las-1a28d3e4b1a383b76fceb5ed4f39d256df3a1fbb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gB/057z0OBVTvhk1d_J6AIjtUDGB9k4TMiEM6PjAAO_w/pok_tv_s0840_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B1/jqhgtXl_5lrvnrIoe1IU_43sYVdtxlm_iOSirbXnE/pok_tv_s0840_2398-master-las.mp4",
             "captions": "",
-            "size": 2685208286
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B1/jqhgtXl_5lrvnrIoe1IU_43sYVdtxlm_iOSirbXnE/pok_tv_s0840_2398-master-las.mp4"
         },
         {
             "id": "27e5096340b9480590911134a3418aa0",
@@ -111,16 +93,13 @@
             "title": "¡La inderrotable levedad del ver!",
             "description": "Luego de sus recientes derrotas en encuentros importantes en la Pirámide de Batalla y el Gran Festival, Ash y May se sienten un poco deprimidos, hasta que varios viejos amigos se unen para apoyarlos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J-UJY0C5SAUkJERNKNBiqA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tt/pYT7vVKBm0Bi7aSyLMb4XifnOTN2_nQVdEXwL8MxM/pok_tv_s0942_2997-master-las-84366b2517feae4416f28bbe2ed07974f7623368.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tt/pYT7vVKBm0Bi7aSyLMb4XifnOTN2_nQVdEXwL8MxM/pok_tv_s0942_2997-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_2/lkhaYZvBCB4Xb_BVG-JbrAvAACqF2qOz5Zn4mBsi8/pok_tv_s0942_2997-master-las.mp4",
             "captions": "",
-            "size": 2575283055
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_2/lkhaYZvBCB4Xb_BVG-JbrAvAACqF2qOz5Zn4mBsi8/pok_tv_s0942_2997-master-las.mp4"
         },
         {
             "id": "8f3b74d292ee4998867a157a3544e42b",
@@ -129,16 +108,13 @@
             "title": "¡Cuando Los Mundos Pokémon Chocan!",
             "description": "Cuando Ash y Brock finalmente se encuentran con Dawn y se reúnen con Pikachu, un Entrenador llamado Paul reta a Ash a una batalla.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jzt00pLuSZghnoVejVE5Cs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5u/6lIls66LGNecDfTkP5mQux98KB5HVf5Hktd_jlkx8/pok_tv_s1003_2398-master-las-a49036ceebc79b0b2e3d5d16d5f7b8f531dbd9ee.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5u/6lIls66LGNecDfTkP5mQux98KB5HVf5Hktd_jlkx8/pok_tv_s1003_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qB/8JP1PQ3G25tHz5ydfBMONVR9VZLTXlM_CFkN2rgiQ/pok_tv_s1003_2398-master-las.mp4",
             "captions": "",
-            "size": 2639649239
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qB/8JP1PQ3G25tHz5ydfBMONVR9VZLTXlM_CFkN2rgiQ/pok_tv_s1003_2398-master-las.mp4"
         },
         {
             "id": "1b8a71be6f794e44ad727321a7fce872",
@@ -147,16 +123,13 @@
             "title": "¡A La Caza De Los Shieldon!",
             "description": "Ash inesperadamente se encuentra a Gary Oak, su viejo rival de Kanto, y los dos Entrenadores se unen para proteger a un raro Shieldon del Cazador Pokémon J.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/G4pxvm95TkQrXJzIaf86HI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gf/CL-FkCoVbJ1GY-RKJXO1-EttWAFbIROfZnlkVS3Gs/pok_tv_s1045_2398-master-las-a83f6568c95c500b214c1a25433f9a33267af4dd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gf/CL-FkCoVbJ1GY-RKJXO1-EttWAFbIROfZnlkVS3Gs/pok_tv_s1045_2398-master-las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/mBsTdwICszSaCe_6XOlJiBVGgBHJolMOUAwBo0-eQ/pok_tv_s1045_2398-master-las.mp4",
             "captions": "",
-            "size": 2650972429
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/mBsTdwICszSaCe_6XOlJiBVGgBHJolMOUAwBo0-eQ/pok_tv_s1045_2398-master-las.mp4"
         },
         {
             "id": "e71d94e670dd4960af2a4281b6bc3b4f",
@@ -165,16 +138,13 @@
             "title": "¡La estrategia comienza en casa!",
             "description": "Nuestros héroes han llegado al hogar de Dawn en Pueblo Hojas Gemelas, donde la planeación del festival está en su apogeo, y Dawn reta a su mamá a una Batalla de Concurso Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5x2U5nDdSWArypCgba8O08/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9g/IZuewtXKAGCYNMSUPPaGy4c-lpRZcOzU_vknBZx3Q/pok_tv_s1233_2997-master-las-hd-16x9-oz-2d6e359101de4cd26a079d9aecb98cd7d03e8761.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9g/IZuewtXKAGCYNMSUPPaGy4c-lpRZcOzU_vknBZx3Q/pok_tv_s1233_2997-master-las-hd-16x9-oz.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4O/YuXxcq3BzK-zvK7WuwFWLHPh57vRcegLhhc7GFu9I/pok_tv_s1233_2997-master-las-hd-16x9-oz.mp4",
             "captions": "",
-            "size": 3586423756
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4O/YuXxcq3BzK-zvK7WuwFWLHPh57vRcegLhhc7GFu9I/pok_tv_s1233_2997-master-las-hd-16x9-oz.mp4"
         },
         {
             "id": "2b1a8698e6d346e8b65d104bc1d608cd",
@@ -183,16 +153,13 @@
             "title": "¡Un final en falso de Oak!",
             "description": "El primer día del Festival Hojas Gemelas, el primer orador, el Profesor Oak, se encuentra en problemas cuando alguien más trata de tomar su lugar.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KxqGmObTRugtl0QS8HWCM0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rS/V7Cl3z2HS5Nm3jey7PFjzvl7dwJwz1msCudRcEyJM/pok_tv_s1234_2997-master-las-hd-16x9-oz-177794de30a01fbabc7e58c0c28da2ddf9087e69.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rS/V7Cl3z2HS5Nm3jey7PFjzvl7dwJwz1msCudRcEyJM/pok_tv_s1234_2997-master-las-hd-16x9-oz.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Au/5bBb0YG0f4JKXlPsQ0sdLi7jHDfxaKMw0W04rxlio/pok_tv_s1234_2997-master-las-hd-16x9-oz.mp4",
             "captions": "",
-            "size": 3598675448
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Au/5bBb0YG0f4JKXlPsQ0sdLi7jHDfxaKMw0W04rxlio/pok_tv_s1234_2997-master-las-hd-16x9-oz.mp4"
         },
         {
             "id": "4f45497edd524e0ebc88927ba7cad6aa",
@@ -201,16 +168,13 @@
             "title": "¡Alola, Kanto!",
             "description": "¡Una excursión de celebración de la Escuela Pokémon resulta ser una reunión que nadie olvidará!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/T0VJft1STg4vIiSe6fK1qo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1J/_VMqcoPu5S9rtvDaFfGz0B8GseSIHp1T9puqftBjs/s20_e42_las-7e474854ccd787d32aded0ea373114bcbec6ac5c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1J/_VMqcoPu5S9rtvDaFfGz0B8GseSIHp1T9puqftBjs/s20_e42_las.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pd/FezCKvK6K_HdaE8hdy5NckFLM-URL35SNvDwfBRA4/s20_e42_las.mp4",
             "captions": "",
-            "size": 2634368103
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pd/FezCKvK6K_HdaE8hdy5NckFLM-URL35SNvDwfBRA4/s20_e42_las.mp4"
         }
     ]
 }

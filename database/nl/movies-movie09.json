@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-ranger-en-de-tempel-van-de-zee",
+    "channel_id": "movie09",
     "channel_name": "Pokémon Ranger en de Tempel van de Zee",
     "channel_description": "Ash probeert samen met een Pokémon Ranger en Manaphy de zeekroon uit handen van een rovende piraat te redden in Pokémon Ranger en de Tempel van de Zee",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie09/movie09-1125x1500-en.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie09/movie09-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie09/movie09-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie09/movie09-1660x940-en.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 2,
-    "channel_creation_date": 1464667340,
-    "channel_update_date": 1647619404,
+    "order": -9000,
     "media": [
         {
             "id": "f8c20e3763e54afc8ee882d34235e763",
@@ -21,16 +18,13 @@
             "title": "Pokémon Ranger en de Tempel van de Zee",
             "description": "Ash en zijn vrienden bundelen hun krachten met een Pokémon Ranger en Manaphy om te voorkomen dat een hebzuchtige piraat de kostbare zeekroon rooft.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie09/movie09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie09/movie09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie09/movie09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-MION2PlSvwjuiC00I152M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nz/MJBfvxxKewUaXj1UE080TawA2EevCX-7VQ1L8sIjw/pokemon_movie09_dut-47b19e00d1b2d240f1bfb87b6c38f0a9395b1f23.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nz/MJBfvxxKewUaXj1UE080TawA2EevCX-7VQ1L8sIjw/pokemon_movie09_dut.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zZ/89QBhKXVEWG0ea6TjyVqdexHgLclfoyYnz4BUfR2A/pokemon_movie09_dut.mp4",
             "captions": "",
-            "size": 13360675703
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zZ/89QBhKXVEWG0ea6TjyVqdexHgLclfoyYnz4BUfR2A/pokemon_movie09_dut.mp4"
         }
     ]
 }

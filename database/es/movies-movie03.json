@@ -1,18 +1,15 @@
 {
-    "channel_id": "el-hechizo-de-los-unown",
+    "channel_id": "movie03",
     "channel_name": "El hechizo de los Unown",
     "channel_description": "Entei y los misteriosos Unown quieren ayudar a una niña solitaria, ¡pero el mundo de fantasía que crean para ella podría desmoronar la realidad!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie03/movie03-1660x940-es.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 3,
-    "channel_creation_date": 1441405137,
-    "channel_update_date": 1692978161,
+    "order": -3000,
     "media": [
         {
             "id": "99756ad263d04dab8760c8ce7fca8e9d",
@@ -21,16 +18,13 @@
             "title": "El hechizo de los Unown",
             "description": "Entei y los misteriosos Unown quieren ayudar a una niña solitaria, ¡pero el mundo de fantasía que crean para ella podría desmoronar la realidad!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie03/movie03_ss02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/mXVq0mPQTash2DIzn_Kjp0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sw/LBPyhkxSaTw6D4uOd8HKO2s-JHYomD8XW2mF2oHbA/m3_cas_esp-4f505be577cab51a4398c45a1ce253901f410b16.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sw/LBPyhkxSaTw6D4uOd8HKO2s-JHYomD8XW2mF2oHbA/m3_cas_esp.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fg/FwJ8ykuwUK_eEeVZdUQvZkj0JSTpGD8M2160ScaYM/m3_cas_esp.mp4",
             "captions": "",
-            "size": 10294106013
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fg/FwJ8ykuwUK_eEeVZdUQvZkj0JSTpGD8M2160ScaYM/m3_cas_esp.mp4"
         }
     ]
 }

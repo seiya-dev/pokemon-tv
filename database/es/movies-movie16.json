@@ -1,18 +1,15 @@
 {
-    "channel_id": "genesect-y-el-despertar-de-una-leyenda",
+    "channel_id": "movie16",
     "channel_name": "Genesect y el despertar de una leyenda",
     "channel_description": "¡Que no se te pase la película Pokémon Genesect y el despertar de una leyenda en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie16/movie16-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie16/movie16-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie16/movie16-2732x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/movie16/movie16-1660x940-es.png"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 4,
-    "channel_creation_date": 1439396996,
-    "channel_update_date": 1666973231,
+    "order": -16000,
     "media": [
         {
             "id": "351b4cb5422448a587b09cb2d42a0c70",
@@ -21,16 +18,13 @@
             "title": "Genesect y el despertar de una leyenda",
             "description": "La llegada de cinco Genesect a un hábitat Pokémon en Cumbres Pokémon amenaza el suministro de electricidad de la ciudad. Con la ayuda del Pokémon legendario Mewtwo, Ash y sus amigos deben trabajar juntos para encontrar una solución que proteja la ciudad y a los Pokémon que viven en ella.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie16/movie16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie16/movie16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie16/movie16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/NRtMtUIkSKUh7CcstQqDHA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/2sAH4gW0REl8T8kDFOt9Ceu7VSsvFAPeaIZRwpZ5w/pokemon_movie16_spa-e8443926c83bb7e231438bf5e4aa46a89244aa10.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DL/2sAH4gW0REl8T8kDFOt9Ceu7VSsvFAPeaIZRwpZ5w/pokemon_movie16_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Er/nZXj2KnacOtJRazW17WFwb4Ts95gCScCmtOhLGQoA/pokemon_movie16_spa.mp4",
             "captions": "",
-            "size": 9062157847
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Er/nZXj2KnacOtJRazW17WFwb4Ts95gCScCmtOhLGQoA/pokemon_movie16_spa.mp4"
         }
     ]
 }

@@ -1,18 +1,15 @@
 {
-    "channel_id": "reisen-durch-johto",
+    "channel_id": "25th-johto",
     "channel_name": "Reisen durch Johto",
     "channel_description": "Feiere 25 Jahre Pokémon, während Ash in diesen klassischen Folgen von Pokémon – Die TV-Serie durch die Johto-Region reist.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/johto/johto-1125x1500-de.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/johto/johto-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/johto/johto-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/johto/johto-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 6,
-    "channel_creation_date": 1631290627,
-    "channel_update_date": 1632500331,
+    "order": -1631290627,
     "media": [
         {
             "id": "396c0c81e99547acad69aa1d1e25e779",
@@ -21,16 +18,13 @@
             "title": "Finger weg von Karnimani!",
             "description": "Ash beginnt seine Reise durch Johto, eine noch unerkundete Region, in der es viele neue Pokémon geben soll.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/OWwMgemVR6wrWmqHR4l53k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Z/pcAACDg_4o_W0p2XqYrYj1kSe6iDdFh1No3DcqYLM/pokemon_season03_ep12_ger-1a60ae298e3ee178c04cabff636e41ec20328611.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Z/pcAACDg_4o_W0p2XqYrYj1kSe6iDdFh1No3DcqYLM/pokemon_season03_ep12_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/49/zmxgthnfA6czBvCVHZSnDyxsGZexKTHXk2mdB-Hlk/pokemon_season03_ep12_ger.mp4",
             "captions": "",
-            "size": 2802484970
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/49/zmxgthnfA6czBvCVHZSnDyxsGZexKTHXk2mdB-Hlk/pokemon_season03_ep12_ger.mp4"
         },
         {
             "id": "79c26472ce70439ab06883b349c73135",
@@ -39,16 +33,13 @@
             "title": "Herausforderung für Glurak",
             "description": "Als Ash vom nahegelegenen Nationalpark hört, denkt er, dass er dort sein Glurak wieder munter machen kann.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ecJkcs5wQ5osGiDs0nHMTU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ks/cGJPYhvHdCdYTb6ePI9ZGUxH8rkNJ3SsPDY1cCNnE/pokemon_season03_ep29_ger-912f95bad340b178c4bea70c4f41479912ea01cb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ks/cGJPYhvHdCdYTb6ePI9ZGUxH8rkNJ3SsPDY1cCNnE/pokemon_season03_ep29_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/1NxdRLfL2Xj3iXQjcZSqvEioVzvRKOhwx9Rtcl9aM/pokemon_season03_ep29_ger.mp4",
             "captions": "",
-            "size": 2750845072
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/1NxdRLfL2Xj3iXQjcZSqvEioVzvRKOhwx9Rtcl9aM/pokemon_season03_ep29_ger.mp4"
         },
         {
             "id": "24d6285bdda94cc48ed0837d3f37040a",
@@ -57,16 +48,13 @@
             "title": "Feurige Jagd",
             "description": "Nachdem Glurak weg ist, besitzt Ash kein eigenes Feuer-Pokémon mehr. Daher freut er sich sehr, als er in der Wildnis auf ein Feurigel trifft.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/JNYoW92pTMQjtCDfT83BAo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o4/BU_hVTvculGRAeC_JurCB2PFHs7Y9S_Ly0UrH8Y5E/pokemon_season03_ep36_ger-276b405028d453c4777de9aa3d2c677d4f3086ce.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/o4/BU_hVTvculGRAeC_JurCB2PFHs7Y9S_Ly0UrH8Y5E/pokemon_season03_ep36_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dy/rvwdeXd_ptL_ojJwPguiBM0HSPAqvLXyeKDh4vAME/pokemon_season03_ep36_ger.mp4",
             "captions": "",
-            "size": 2810184682
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dy/rvwdeXd_ptL_ojJwPguiBM0HSPAqvLXyeKDh4vAME/pokemon_season03_ep36_ger.mp4"
         },
         {
             "id": "e565a6480c8c4660ab1544a2aad503cf",
@@ -75,16 +63,13 @@
             "title": "Die Pokémon-Tauschbörse",
             "description": "Auf der Pokémon-Tauschbörse freunden unsere Helden sich mit einem jungen Pokémon-Trainer an, der niemanden findet, der gegen sein Woingenau tauschen möchte.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/5WWmSAyMRmAqxVEoqrVA88/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qH/G2pvJxGyIcZ8Up0Jtne8A1vBa_HCihxIy66rISreA/pokemon_season03_ep41_ger-444368c62bccf8fab3318cebb1ce09f334ab0c8d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qH/G2pvJxGyIcZ8Up0Jtne8A1vBa_HCihxIy66rISreA/pokemon_season03_ep41_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DQ/EsWuYH3V0CnnOLav98e5ZEfVD3EM0ygNNwg9ZpzHg/pokemon_season03_ep41_ger.mp4",
             "captions": "",
-            "size": 2713450374
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DQ/EsWuYH3V0CnnOLav98e5ZEfVD3EM0ygNNwg9ZpzHg/pokemon_season03_ep41_ger.mp4"
         },
         {
             "id": "d4f004cc05a14471b15c517e6e6b8f61",
@@ -93,16 +78,13 @@
             "title": "Streit um Karnimani",
             "description": "Ash und Mistys freundschaftliche Konkurrenz wird auf die Probe gestellt, als beide gleichzeitig versuchen, ein Karnimani zu fangen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/1PAEzAWhRHEsVxRfm5rj2E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/19/BlYC0mZrhViLpqK6AewAD-IH_Y0LxQmSsv2HeKzgk/pokemon_season03_ep46_ger-a2a82ffc0f388e4d0e29d7804ec0c4f0bd2fc0b6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/19/BlYC0mZrhViLpqK6AewAD-IH_Y0LxQmSsv2HeKzgk/pokemon_season03_ep46_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YK/VkeWA_KWD-gi-_XZwGNYWZtbKmSe8appCWkXKwA7Y/pokemon_season03_ep46_ger.mp4",
             "captions": "",
-            "size": 2809130343
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YK/VkeWA_KWD-gi-_XZwGNYWZtbKmSe8appCWkXKwA7Y/pokemon_season03_ep46_ger.mp4"
         },
         {
             "id": "626e7a7c53924269b937e89e86355922",
@@ -111,16 +93,13 @@
             "title": "Geister in Teak City",
             "description": "Direkt nach der Ankunft in Teak City begibt Ash sich zur Arena, um den nächsten Orden der Johto-Liga zu ergattern.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ym56fFOSQmkuTfonoY1WSI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mu/g3HMb1swWZhxZS-yg9UuspF1VDO1rf6N37fvKq73s/pokemon_season04_ep24_ger-9c5c37dcc25784b29a4207dbecb250da7a556915.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mu/g3HMb1swWZhxZS-yg9UuspF1VDO1rf6N37fvKq73s/pokemon_season04_ep24_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/RBB9DUeKSvrMJ6epb8r2fSaqZYaU7eG9jWVczh_eg/pokemon_season04_ep24_ger.mp4",
             "captions": "",
-            "size": 2639597132
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/RBB9DUeKSvrMJ6epb8r2fSaqZYaU7eG9jWVczh_eg/pokemon_season04_ep24_ger.mp4"
         },
         {
             "id": "37871b0c892f4f4084c5b6c4305b5e21",
@@ -129,16 +108,13 @@
             "title": "Mitten im Strudel!",
             "description": "Während einer Rangelei mit Team Rocket stürzen Ash und seine Freunde von dem Schiff, auf dem sie zu den Strudelinseln unterwegs waren.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/N4cbDIkvT0AhMW2xDBbXiE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ru/kFpeLUMnYNCDZHa5lS5lwaXts9Uknl5UiTy1b9M2I/pokemon_season05_ep01_ger-bb8dd037088e5f739f7d961cfffc0ebf0228cf69.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ru/kFpeLUMnYNCDZHa5lS5lwaXts9Uknl5UiTy1b9M2I/pokemon_season05_ep01_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MM/0BucobgJoJ1E127v23wyiFkW5Qk1iiUd5NjnpxThM/pokemon_season05_ep01_ger.mp4",
             "captions": "",
-            "size": 2632923751
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MM/0BucobgJoJ1E127v23wyiFkW5Qk1iiUd5NjnpxThM/pokemon_season05_ep01_ger.mp4"
         },
         {
             "id": "51b858f586344a0193287f1a87fd0a4b",
@@ -147,16 +123,13 @@
             "title": "Gefährliche Radiowellen",
             "description": "Ash und seine Freunde entdecken ein rotes Garados. Durch Zufall decken sie einen Plan von Team Rocket auf, die mit üblen Mitteln in die Geheimnisse der Pokémon-Entwicklung eingreifen wollen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UbhY9YY0SgEkyh_Gof9Cks/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/YoGBHs3T9x1EXiFA4CGRL1xlrkHHgxAzgWWiX42Hg/pokemon_season05_ep26_ger-b51b77e4cf0f867f06a2d8e83ccf9712677fdfde.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/YoGBHs3T9x1EXiFA4CGRL1xlrkHHgxAzgWWiX42Hg/pokemon_season05_ep26_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JB/14LR5g2EnP_GfXQLPcC5BQmDLEPSTAG7NH7IYFKbU/pokemon_season05_ep26_ger.mp4",
             "captions": "",
-            "size": 2645879086
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JB/14LR5g2EnP_GfXQLPcC5BQmDLEPSTAG7NH7IYFKbU/pokemon_season05_ep26_ger.mp4"
         },
         {
             "id": "ba6c7871ea7345d787fb9a075996500c",
@@ -165,16 +138,13 @@
             "title": "Alte Rivalen",
             "description": "Ash steht im Rahmen der Johto-Liga-Silberkonferenz kurz vor dem Kampf gegen seinen alten Rivalen Gary. Er ist entschlossen, sich den Sieg zu holen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/umx4cepzRdch_uaB1mWUAw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HU/FUsU1RGNIBqwH7vvIjDoDvzHwboY50RufD5zyWC78/pokemon_season06_ep07_ger-1c14d812fe5b754487026782ee893b5005418439.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kz/HYWBSo4UL1ffluRwL4Bs7AyEmOT4L4eXtoo8Wg2Z8/pokemon_season06_ep07_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sn/C0Xeq3ELFF6dhIbDPL2_peiPSn6xxghKuMcZn_KpU/pokemon_season06_ep07_ger.mp4",
             "captions": "",
-            "size": 2632666328
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sn/C0Xeq3ELFF6dhIbDPL2_peiPSn6xxghKuMcZn_KpU/pokemon_season06_ep07_ger.mp4"
         },
         {
             "id": "4b9aedbe2bb046e7bb59519425fc9824",
@@ -183,16 +153,13 @@
             "title": "Zeit des Abschieds",
             "description": "Unser Held nähert sich dem Ende eines schweren Kampfes gegen Harrison während der Johto-Liga-Silberkonferenz. Der Sieger dieser Auseinandersetzung kommt ins Halbfinale.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S5rtviuwRucu1lRlCX8mCQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vw/iYiVMy1FWaPlFqV1NGkyQeE2czJqHcNpJt_ZNN9fQ/pokemon_season06_ep10_ger-bfaf8385a09fb5b918c78de59997268bd0bbe486.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K1/3i0LC0RqTTwIyE-yR_Rs-0rMt5F9EXrg6H3U3GRe0/pokemon_season06_ep10_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/BYTJXQferLPiL6aABK2dxRwnbYXwPB7ISQ4Z0071I/pokemon_season06_ep10_ger.mp4",
             "captions": "",
-            "size": 2604784314
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/BYTJXQferLPiL6aABK2dxRwnbYXwPB7ISQ4Z0071I/pokemon_season06_ep10_ger.mp4"
         },
         {
             "id": "f9920cbbbe1847a2a3f9abfa509b9d45",
@@ -201,16 +168,13 @@
             "title": "Auf Wiedersehen, Freunde!",
             "description": "Nach Abschluss der Johto-Liga-Silberkonferenz reisen Ash, Rocko und Misty zurück nach Vertania City, wo sie sich ausruhen wollen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-ZIMu74YR6Io_mr-lCbnUU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Be/j1bxCEp4tmuBwo3vh76lIrYdZAFzcDeOyzeRBTF0U/pokemon_season06_ep11_ger-4792846b9f3aa5fb5201a8f6d22566f439eafe9f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VR/qI2YBUYc9hph_XJGmVNXWD8yo4cTQFJU9A7RyB62s/pokemon_season06_ep11_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/dAUVoodjcEKyy0Z1CYqNwAut8Drp0F0tc1l6z3vME/pokemon_season06_ep11_ger.mp4",
             "captions": "",
-            "size": 2596106059
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/dAUVoodjcEKyy0Z1CYqNwAut8Drp0F0tc1l6z3vME/pokemon_season06_ep11_ger.mp4"
         }
     ]
 }

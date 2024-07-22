@@ -1,18 +1,15 @@
 {
-    "channel_id": "futter-nein-freund",
+    "channel_id": "food-friend",
     "channel_name": "Futter? Nein, Freund!",
     "channel_description": "Schnapp dir einen Snack und schau dir köstliche Pokémon auf Pokémon-TV an!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1125x1500-de.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1660x940-de.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1660x940-de.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/stunts/food-friend/food-friend-1660x940-de.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 4,
-    "channel_creation_date": 1657293446,
-    "channel_update_date": 1657891673,
+    "order": -1657293446,
     "media": [
         {
             "id": "dc72af0b150d47e9b293905701190dc2",
@@ -21,16 +18,13 @@
             "title": "Angriff der Kokoweis",
             "description": "Unsere Helden trainieren weiterhin unermüdlich ihre Pokémon – selbst in den Frühjahrsferien. Dabei stoßen sie auf einen Jahrmarkt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3HKvCxUNR-kspOQVwEZDcI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L0/CMdR8G-gCfMrfO5Yy1ENBNJdRt0_bsC1oNUqUorYU/pok_tv_s0140_2398-master-de-7396d2d1afa6ce1b7349a559b457e7085553a52e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L0/CMdR8G-gCfMrfO5Yy1ENBNJdRt0_bsC1oNUqUorYU/pok_tv_s0140_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZI/Q9i1LwbaSg_Y70H-pfY4B7IdQGMpQlIlbGH3e3ths/pok_tv_s0140_2398-master-de.mp4",
             "captions": "",
-            "size": 2806085247
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZI/Q9i1LwbaSg_Y70H-pfY4B7IdQGMpQlIlbGH3e3ths/pok_tv_s0140_2398-master-de.mp4"
         },
         {
             "id": "70a6d0e421f840db856ffd2a7738e29e",
@@ -39,16 +33,13 @@
             "title": "Die Paras Problematik",
             "description": "Team Rocket mischt sich immer wieder ein, aber heute geschieht etwas Seltsames: Die Münze auf Mauzis Stirn blinkt rot, was eine Überhitzung anzeigt.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cKbQ5CH4QNshW_9Knc44p4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E3/L39wwdeORPaLgPxp6C-jSCuxHpBE9HemD0kEpAcF4/pok_tv_s0141_2398-master-de-d84d55b9beadfbfa6ba11cf76a0d0812c045dd2e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E3/L39wwdeORPaLgPxp6C-jSCuxHpBE9HemD0kEpAcF4/pok_tv_s0141_2398-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cB/3A_v0cBbS4ICfcfIkiwBYFFY-yEIR9EZrA-qiFUV8/pok_tv_s0141_2398-master-de.mp4",
             "captions": "",
-            "size": 2803365275
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cB/3A_v0cBbS4ICfcfIkiwBYFFY-yEIR9EZrA-qiFUV8/pok_tv_s0141_2398-master-de.mp4"
         },
         {
             "id": "0b569505fbbf45a1b2b74164fe0c7166",
@@ -57,16 +48,13 @@
             "title": "Schmerz –  lass nach!",
             "description": "Unsere Helden sind auf der Kamilleninsel auf dem Weg zu Maikes nächstem Pokémon-Wettbewerb, der auf der Chrysanthemen-Insel stattfinden wird. Alle Pokémon dürfen unterwegs herumtollen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/C1aVBfu_RaEsrdBZP4McWY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K4/zQ4HZcVQZ-9Swj5hqexc7BTl3c4OvEZaN1efRRAnw/pokemon_season09_ep16_ger-ddefc434281deeae75a03ace9dbaf8914115a0f8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/K4/zQ4HZcVQZ-9Swj5hqexc7BTl3c4OvEZaN1efRRAnw/pokemon_season09_ep16_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S8/7W8WladC9AVMMC3md9TFqvoEnsFaGX-xtGbmXu2pc/pokemon_season09_ep16_ger.mp4",
             "captions": "",
-            "size": 2519731802
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S8/7W8WladC9AVMMC3md9TFqvoEnsFaGX-xtGbmXu2pc/pokemon_season09_ep16_ger.mp4"
         },
         {
             "id": "902283a95ac2489ea0689c07eee810cf",
@@ -75,16 +63,13 @@
             "title": "Ein süßes Drama!",
             "description": "Ash und die Freunde sind in Schutzstadt angekommen, einem schneebedeckten Ort in der Nähe von Blizzach. Sie machen Rast im örtlichen Pokémon-Center.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kCKDqVrCSJ4oGicB-7oEM8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WU/ZfpBiaDJfEuissWr9josoRAqvnhHBJT_RIGHSHIY8/pok_tv_s1220_2997-master-de-278e4cf9de8d69a52438a4be39b5febaa9cc7c1c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WU/ZfpBiaDJfEuissWr9josoRAqvnhHBJT_RIGHSHIY8/pok_tv_s1220_2997-master-de.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MC/5Kr97WCmNU6q6KxTUZ3gB5Bfhi-y-t-s49w1e3Ucs/pok_tv_s1220_2997-master-de.mp4",
             "captions": "",
-            "size": 2698496941
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MC/5Kr97WCmNU6q6KxTUZ3gB5Bfhi-y-t-s49w1e3Ucs/pok_tv_s1220_2997-master-de.mp4"
         },
         {
             "id": "b9afaba7d8f84b669f0b06be0fa2ee8b",
@@ -93,16 +78,13 @@
             "title": "Wettstreit unter Kennern!",
             "description": "Auf dem Weg zu Ashs achtem Arena-Orden, der ihm ermöglichen soll, an der Einall-Liga teilzunehmen, werden unsere Helden zu einem Anwesen bestellt, wo Bennys Kennerfähigkeiten stark gefragt sind!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ua-rp9j4S2YnwsGvg-i7os/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3p/abLNXg_oC6efTwCG455HZgjxBcZC1KC9YRwXMUE_8/pok_tv_s1532_2997-master-de-sdt-h264-9bfea97cd3a69f06a8c7c40c347ee3beb96b5da5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T5/dN_2bU4KgTCCxMGHremCm8VPXKCyqqHvpWIQ4qGpI/pok_tv_s1532_2997-master-de-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zV/SvHBiNehwAEsd0kfhbMZFJ9M-n8y4S5IqWXw4xGws/pok_tv_s1532_2997-master-de-sdt-h264.mp4",
             "captions": "",
-            "size": 3267957967
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zV/SvHBiNehwAEsd0kfhbMZFJ9M-n8y4S5IqWXw4xGws/pok_tv_s1532_2997-master-de-sdt-h264.mp4"
         },
         {
             "id": "4f2d4877a67f4d658765535308f7bc83",
@@ -111,16 +93,13 @@
             "title": "Kampf auf süßer Ebene!",
             "description": "Eine süße Leckerei veranlasst Serena, sich in einen Kampf anderer Art zu stürzen, bei dem es auf Können, Verstand und Herz ankommt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ty1Id6Z_TWUh2VTUwj3vIM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZH/6gpDA7vMNJS9ikw0gsCa76gP0sWTUxI7N-ERYmuao/pok_tv_s1725_2997-master-de-sdt-h264-f52bc2b13e4304e1a49e579816a3d4b56fd89a81.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uK/eZ7AfV2xZ5d-YLHj8dt914lf6hq5fJc1LkvUH68lw/pok_tv_s1725_2997-master-de-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jp/4ohzGmLB94ruKWyL5VLtlRKjfeAiihih4kRYIE740/pok_tv_s1725_2997-master-de-sdt-h264.mp4",
             "captions": "",
-            "size": 3280041590
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jp/4ohzGmLB94ruKWyL5VLtlRKjfeAiihih4kRYIE740/pok_tv_s1725_2997-master-de-sdt-h264.mp4"
         },
         {
             "id": "2e134daeb2d44a4089aaae5b244fc83c",
@@ -129,16 +108,13 @@
             "title": "Eiskalte Panik in Tempera City!",
             "description": "Unsere Helden sind in Tempera City angekommen und werden sofort mit einer Krise konfrontiert, die eiskalte Konsequenzen hat.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/LhNNrrLUSkAiaquWyRPyDw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9U/SGQrC2si1w84Bdx2TeGBvVlbIPfyzHBlZTdllZIf4/pok_tv_s1809_2997-master-de-sdt-v2-h264-e69ae06969773a8121d0ccd1db8618c83279a75e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9U/SGQrC2si1w84Bdx2TeGBvVlbIPfyzHBlZTdllZIf4/pok_tv_s1809_2997-master-de-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/Lkt-HW15i1sbpZoSOoDA71lJ-JOM1huUBp4au7CO4/pok_tv_s1809_2997-master-de-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3293356675
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/Lkt-HW15i1sbpZoSOoDA71lJ-JOM1huUBp4au7CO4/pok_tv_s1809_2997-master-de-sdt-v2-h264.mp4"
         },
         {
             "id": "c75f2264a4bf498c87cc34bbd60f14fd",
@@ -147,16 +123,13 @@
             "title": "Ein Festival-Tausch! Ein Festival-Abschied?",
             "description": "Auf einem beliebten Festival werden unsere Helden Opfer einiger Verwechselungen.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep33_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/x18iZKS_SYwh8w0u9YPFP0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RS/hxnNmkahky2izSC05I99aq73x4GD7KgNpOoBQZG5c/pok_tv_s1833_2997-master-de-sdt-v2-h264-8f90c36ff256c0c2a4de02e3d9128f6b2c329959.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RS/hxnNmkahky2izSC05I99aq73x4GD7KgNpOoBQZG5c/pok_tv_s1833_2997-master-de-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cM/GAFpw1AqmJ8YgKDQ02huJ7AmqzG97Dtc_SHOmJOxU/pok_tv_s1833_2997-master-de-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3297456971
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cM/GAFpw1AqmJ8YgKDQ02huJ7AmqzG97Dtc_SHOmJOxU/pok_tv_s1833_2997-master-de-sdt-v2-h264.mp4"
         },
         {
             "id": "311f6dbdce664b85b7d6e707e3315da7",
@@ -165,16 +138,13 @@
             "title": "Eine köstliche Suche!",
             "description": "Unsere Helden sind zwar hungrig, aber die Suche nach einer fehlenden Zutat hält sie auf Trab!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/MR9tvc5mS4Ut9bnB-MxXac/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R1/ARS0VFLCYd_aIA7avZE6bq_nnOaUMNNOtDzT_oVWI/pokemon_season20_ep18_ger-bff915d8eb9a1747173f09bfda54b8cc78efb270.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R1/ARS0VFLCYd_aIA7avZE6bq_nnOaUMNNOtDzT_oVWI/pokemon_season20_ep18_ger.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kK/iiI5Em4487vCz8eYE2w1eTuClIT-797hRRXyaGfIo/pokemon_season20_ep18_ger.mp4",
             "captions": "",
-            "size": 2596720824
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kK/iiI5Em4487vCz8eYE2w1eTuClIT-797hRRXyaGfIo/pokemon_season20_ep18_ger.mp4"
         },
         {
             "id": "87a57c0aef4748d28b863ac0d989312c",
@@ -183,16 +153,13 @@
             "title": "Hart im Nehmen!",
             "description": "Der Besuch eines außergewöhnlichen Arena-Kampfes führt unsere Helden nicht nur zu neuen Abenteuern, sondern auch zu neuen Freunden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h6V8Cu9HSNIi4Y6wNmJMSw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JW/v2tnBzK_y3fXl2rXYIhGnJ7nYmUJECaIuXilPnY8k/de-de-23-27-2818b6f327a573e340f8f702b81b8017e60a1470.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JW/v2tnBzK_y3fXl2rXYIhGnJ7nYmUJECaIuXilPnY8k/de-de-23-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Y/yFNMe3gcAqzExJ9b4Fv27ay1lsrCy56X7F9HGu5xk/de-de-23-27.mp4",
             "captions": "",
-            "size": 2647047670
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Y/yFNMe3gcAqzExJ9b4Fv27ay1lsrCy56X7F9HGu5xk/de-de-23-27.mp4"
         }
     ]
 }

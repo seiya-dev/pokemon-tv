@@ -1,18 +1,15 @@
 {
-    "channel_id": "episodios-mas-memorables",
+    "channel_id": "memorable-episodes",
     "channel_name": "Episodios más memorables",
     "channel_description": "¡No te pierdas algunas de las aventuras Pokémon más memorables en TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/memorable-episodes/memorable-episodes-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/memorable-episodes/memorable-episodes-2732x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/memorable-episodes/memorable-episodes-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/memorable-episodes/memorable-episodes-2732x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 4,
-    "channel_creation_date": 1590124632,
-    "channel_update_date": 1669228065,
+    "order": -1590124632,
     "media": [
         {
             "id": "f0221d4060844122908712b38e941515",
@@ -21,16 +18,13 @@
             "title": "Competición de descarga eléctrica",
             "description": "Nuestros héroes finalmente llegan a Ciudad Carmín, y descubren que el Centro Pokémon está lleno de Pokémon heridos durante las batallas con el Teniente Surge, Líder del Gimnasio de Ciudad Carmín.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8CIdQGCEQSIkIcSs46UFRU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ul/JcqqCOtUJjzq63cVD6GwoX57KfDOYxcKdDSAQ-80c/pok_tv_s0114_2398-master-cas-87b5bbdc650c2f0172dc85aa8d435640be2afaef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ul/JcqqCOtUJjzq63cVD6GwoX57KfDOYxcKdDSAQ-80c/pok_tv_s0114_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/Q6vgOQCQktIQCHGqdCI8XxOK0j4iNGnZZKU7vHwIo/pok_tv_s0114_2398-master-cas.mp4",
             "captions": "",
-            "size": 2803795156
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/Q6vgOQCQktIQCHGqdCI8XxOK0j4iNGnZZKU7vHwIo/pok_tv_s0114_2398-master-cas.mp4"
         },
         {
             "id": "e62d56880aff48f0b46a0fed90f83bee",
@@ -39,16 +33,13 @@
             "title": "Adiós Pikachu",
             "description": "Misty y Brock continúan el viaje con Ash, quien pretende convertirse en un Maestro Pokémon. Al atravesar un bonito bosque, los tres se toman un descanso.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5i1WiAr_SPAtGoP7ZD4O-4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ne/fsNGVP2qjfmLoMYvq6fTeb4w2NRFbqIxRxLndjKPc/pok_tv_s0136_2398-master-cas-857681314612fa903913b84c20697f14ee2e416b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ne/fsNGVP2qjfmLoMYvq6fTeb4w2NRFbqIxRxLndjKPc/pok_tv_s0136_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sh/scu-gRd8bIWWuHyYLet2kTFnT0tYgDsj2rej_8Vvs/pok_tv_s0136_2398-master-cas.mp4",
             "captions": "",
-            "size": 2799641117
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sh/scu-gRd8bIWWuHyYLet2kTFnT0tYgDsj2rej_8Vvs/pok_tv_s0136_2398-master-cas.mp4"
         },
         {
             "id": "159a59f531124a26830f6c2d9779a76c",
@@ -57,16 +48,13 @@
             "title": "El rescate de Chikorita",
             "description": "Ash se encuentra con un Chikorita salvaje y se ve envuelto en un combate con el propósito de añadirlo a su equipo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/FZpZ9TESSiYgw9sLZd5p2w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-i/j6kruuxvVU_rSpWEGrA2sxM4_5rSCTDZNca-NXCFI/pokemon_season03_ep21_spa-d9a8d1ada50526d6b28458d967479d931719a45f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-i/j6kruuxvVU_rSpWEGrA2sxM4_5rSCTDZNca-NXCFI/pokemon_season03_ep21_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/BgIkB9R9PHspSOmzn1sGZFwQsD8H-tRwxP7eHrJl4/pokemon_season03_ep21_spa.mp4",
             "captions": "",
-            "size": 2766347813
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/BgIkB9R9PHspSOmzn1sGZFwQsD8H-tRwxP7eHrJl4/pokemon_season03_ep21_spa.mp4"
         },
         {
             "id": "7a69b2aef79a49ebae03b8d71a327a03",
@@ -75,16 +63,13 @@
             "title": "La ambición ardiente de Charizard",
             "description": "Cuando Ash oye hablar del cercano Valle Charicífico, está seguro de que un viaje rápido es lo que necesita para volver a alzar los ánimos de Charizard.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/emmyrveaSesrgO41xoyegM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fN/lZeAcIUZWoYDlaP49NR8HBWvGIv13DIeW11gcDP_M/pokemon_season03_ep29_spa-0e0bb9bbeba078f41d591f811199de151154d2b3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fN/lZeAcIUZWoYDlaP49NR8HBWvGIv13DIeW11gcDP_M/pokemon_season03_ep29_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1g/pZv1BkMZBoKvgpNgjXDJPe64zt7HmZVxvVPau81NA/pokemon_season03_ep29_spa.mp4",
             "captions": "",
-            "size": 2754521613
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1g/pZv1BkMZBoKvgpNgjXDJPe64zt7HmZVxvVPau81NA/pokemon_season03_ep29_spa.mp4"
         },
         {
             "id": "0c72d7028b76455f8b53fe75848348b0",
@@ -93,16 +78,13 @@
             "title": "¡El final del Frente!",
             "description": "Con Charizard fuera de combate en su revancha contra el Rey Pirámide ,Orestes, Ash llama a su Bulbasaur. Dusclops ejecuta de nuevo un Mal de Ojo, mientras que Bulbasaur envuelve al Pokémon de tipo Fantasma con Drenadora.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DHLXAot2RV8i1P-dYSDSLA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ml/W7APlWR-RsO2dcEL99WBuqEr-_qYYVauB10hq11rY/pokemon_season09_ep45_spa-6131d8761b073d151907f349bb9b81cc9a519e76.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ml/W7APlWR-RsO2dcEL99WBuqEr-_qYYVauB10hq11rY/pokemon_season09_ep45_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WP/JVLUuvw4r9uQnbueWxuz6mUFRfWgF3V3YprjYlqVY/pokemon_season09_ep45_spa.mp4",
             "captions": "",
-            "size": 2530175584
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WP/JVLUuvw4r9uQnbueWxuz6mUFRfWgF3V3YprjYlqVY/pokemon_season09_ep45_spa.mp4"
         },
         {
             "id": "a524704d18f54aa0895bfb76b7d46217",
@@ -111,16 +93,13 @@
             "title": "¡Resplandor de gloria!",
             "description": "Las buenas noticias para Ash y sus amigos son que han entrado en el torneo de combate de Ciudad Corazón y todo el mundo consigue pasar la primera ronda. ¿Las malas noticias? Polo es el compañero de Ash, y ellos no se soportan.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pSRwTRj1SqAiVv7drfUYhc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ge/jqjC4FeplCFY6liyPvPgdmUU858vAaTnklx_r_wzI/pok_tv_s1050_2398-master-cas-16cb025e7cc1beb8e3b47d7272e11c6949856b59.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ge/jqjC4FeplCFY6liyPvPgdmUU858vAaTnklx_r_wzI/pok_tv_s1050_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hw/KZwj_l9bJbRubhPfedpS5alHoz2MD-2HEUWqkre6s/pok_tv_s1050_2398-master-cas.mp4",
             "captions": "",
-            "size": 2643169735
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hw/KZwj_l9bJbRubhPfedpS5alHoz2MD-2HEUWqkre6s/pok_tv_s1050_2398-master-cas.mp4"
         },
         {
             "id": "1cea6ad478fa4c8bb0db2c5fb561818b",
@@ -129,16 +108,13 @@
             "title": "¡El combate que romperá el hielo!",
             "description": "El combate de cuartos de final entre Ash y Polo está al rojo vivo y con ello hay algunas revelaciones sorprendentes.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HOpq1Hj6TIssNssX7VhgYs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X3/_erV_mm7_MgURdWW7rbzryeNV4hjYYnL86kjx9RQA/pok_tv_s1331_2997-master-cas-707ed536a5aee436c7ba2d97956405fac313f712.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X3/_erV_mm7_MgURdWW7rbzryeNV4hjYYnL86kjx9RQA/pok_tv_s1331_2997-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fM/ruKn90BymfqR5IAU0e2vxDZFC4H5ouEC9H-r-AFnQ/pok_tv_s1331_2997-master-cas.mp4",
             "captions": "",
-            "size": 2680434211
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fM/ruKn90BymfqR5IAU0e2vxDZFC4H5ouEC9H-r-AFnQ/pok_tv_s1331_2997-master-cas.mp4"
         },
         {
             "id": "0ab7ddd8c3c64e57815e4911e337198a",
@@ -147,16 +123,13 @@
             "title": "¡Entra Camila, la electrificante Líder de Gimnasio!",
             "description": "Tras conocer a la Líder del Gimnasio Mayólica, nuestros héroes se encuentran con una vieja amiga y con un invitado sorpresa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Crfd2MPGTlcgV5JEeM3GYo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zv/KpyEmikXYXpZU_FMHAIbvddbQ88Ap7VWlFU5L3ZIY/pok_tv_s1501_2997-master-cas-sdt-h264-67658b40ca6e52e57ced5dbee1c5a64d6e36388a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zv/KpyEmikXYXpZU_FMHAIbvddbQ88Ap7VWlFU5L3ZIY/pok_tv_s1501_2997-master-cas-sdt-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fh/lkBvy7hNLRLxfS-SO6MZqPY3ZkCqdnG2g53jyD8JA/pok_tv_s1501_2997-master-cas-sdt-h264.mp4",
             "captions": "",
-            "size": 3254787908
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fh/lkBvy7hNLRLxfS-SO6MZqPY3ZkCqdnG2g53jyD8JA/pok_tv_s1501_2997-master-cas-sdt-h264.mp4"
         },
         {
             "id": "1e14a1fec413481c9ce04cd0570b9e6a",
@@ -165,16 +138,13 @@
             "title": "¡Debut en el Gran Espectáculo!",
             "description": "Es el debut de Serena en el Gran Espectáculo Pokémon, rodeada de amigos y rivales, antiguos y nuevos.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HhSh_sQTSBwnOBM0FcLnmo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wg/2AA4GYAATgYCKgW9QyDamg7dfPyqrFPRTRy34U19I/pok_tv_s1812_2997-master-cas-sdt-v2-h264-cf7c17e1a61cab3ee0808650ab2b79c0fd906e8b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wg/2AA4GYAATgYCKgW9QyDamg7dfPyqrFPRTRy34U19I/pok_tv_s1812_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/aEE6KNDZX2S_xaeTlrCLF_8POPBkkBkqjamj2OvDo/pok_tv_s1812_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3319907280
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L7/aEE6KNDZX2S_xaeTlrCLF_8POPBkkBkqjamj2OvDo/pok_tv_s1812_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "2bbc9d1549da46578841ce6f5c186f0d",
@@ -183,16 +153,13 @@
             "title": "¡Una actuación con ardiente encanto!",
             "description": "La siguiente aparición de Serena en un Gran Espectáculo Pokémon va a tener lugar en Pueblo Fresco, doónde se enfrentará a una dura competencia.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep31_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep31_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/K7ydFUnaRlciEHOb1wYbw0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IX/NRZ0N3ThJGw0VmgUC1vad6tGV3kDXpPtxmfOFS7U4/pok_tv_s1831_2997-master-cas-sdt-v2-h264-510f3e71ddeac389f87281229134a0b70b4d0714.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IX/NRZ0N3ThJGw0VmgUC1vad6tGV3kDXpPtxmfOFS7U4/pok_tv_s1831_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3b/s9sbzo2UdGc-UXQ-5B5cA6ZY0dFT-1fBO7tbhQOAM/pok_tv_s1831_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3301932993
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3b/s9sbzo2UdGc-UXQ-5B5cA6ZY0dFT-1fBO7tbhQOAM/pok_tv_s1831_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "0285a1af658d4c93abcf67ababc962cb",
@@ -201,16 +168,13 @@
             "title": "¡Resurgiendo de las ruinas!",
             "description": "Por si no había sido lo bastante impresionante la victoria de Ash en la Gran Prueba, una inesperada transformación hace que la excursión sea aún más memorable.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/AoWhr2WNTJMq89nq6vJYss/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3s/_CwOeBxr43sO-ygwo8xUnJn6dkibfxzO36IuzVN8Y/pokemon_season20_ep37_spa-39ba870674ed634ab11407e2ccf931edfbf46369.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3s/_CwOeBxr43sO-ygwo8xUnJn6dkibfxzO36IuzVN8Y/pokemon_season20_ep37_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/-O2FXNcRZXVVtP1hUw7D_GEnY7kN7T1WCmeDQuZwQ/pokemon_season20_ep37_spa.mp4",
             "captions": "",
-            "size": 2647938614
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/-O2FXNcRZXVVtP1hUw7D_GEnY7kN7T1WCmeDQuZwQ/pokemon_season20_ep37_spa.mp4"
         },
         {
             "id": "be030416bc65480fbca26b474548f7e9",
@@ -219,16 +183,13 @@
             "title": "¡Un combate de armas tomar!",
             "description": "Ash y Pikachu están listos para la revancha de la preprueba contra el Kahuna de la isla, pero Denio tiene otra idea.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep32_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep32_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vgMEFrxlSA8vKJrR0VI9-k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rR/tF3h9yMslP_GzU-YTXLDf3OmshRs7p4i4AY8Yn84M/pokemon_season21_ep32_spa-2d86b43eeac3744e951f5a527bc88c9cd0cb99f1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/gOEvo980N5BS7aeydkPNB0jHcJYbbZVvBABzrvT00/pokemon_season21_ep32_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ju/7wRAdh4RyU4HtdIoSB5YgGNdlcy2s0GwzUeJ4BdsA/pokemon_season21_ep32_spa.mp4",
             "captions": "",
-            "size": 2850999091
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ju/7wRAdh4RyU4HtdIoSB5YgGNdlcy2s0GwzUeJ4BdsA/pokemon_season21_ep32_spa.mp4"
         }
     ]
 }

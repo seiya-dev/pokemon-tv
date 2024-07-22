@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-johto-league-champions",
+    "channel_id": "season04",
     "channel_name": "Pokémon: Johto League Champions",
     "channel_description": "Ash and Pikachu explore the Johto region in the fourth season of Pokémon the Series. Watch it now on Pokémon TV!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1125x1500-en.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1660x940-en.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1660x940-en.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1660x940-en.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 271,
-    "channel_creation_date": 1604678673,
-    "channel_update_date": 1693578078,
+    "order": -4000,
     "media": [
         {
             "id": "0cd9975e6e264ddebd919a3386b63f8a",
@@ -21,16 +18,13 @@
             "title": "A Goldenrod Opportunity",
             "description": "Our heroes have finally reached the next stop on the road to Johto: Goldenrod City!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DNmXXm4mTd4vZGaM4a2P4o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zg/xbxGFGjPDHOHXYDfWWc543zHMkubIIKwzBOobheZk/en-us-04-01-099b734976b1a9f3f4e3d3b71694556786213fcf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cS/8HyIDc5ewLuvJD9666Wt2lRHRDhnnbIiAyRbbiltQ/en-us-04-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/d1zMqZYfmuDw9Kub_had_O7imjl5q8cLkH81kyDUY/en-us-04-01.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zg/xbxGFGjPDHOHXYDfWWc543zHMkubIIKwzBOobheZk/vtt/1/en.vtt",
-            "size": 2645889338
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/d1zMqZYfmuDw9Kub_had_O7imjl5q8cLkH81kyDUY/en-us-04-01.mp4"
         },
         {
             "id": "cd14ba82b7bc4ceeb19bc37403b349b4",
@@ -39,16 +33,13 @@
             "title": "A Dairy Tale Ending",
             "description": "Whitney takes our heroes to her uncle's Miltank farm in the outskirts of Goldenrod City.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/zRS6gre8TO4sZvDdAOzSbQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mf/zKnG6speoMyzO08u2DsHYMuLiKk4hC05gjYb1W6s8/en-us-04-02-bfa436bb7030c418037aef3f369e564bea427e8f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y-/mxc3F5nu5xUwJqoRchEBxrCXEMqlz0S6_kIR8cRBc/en-us-04-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PI/NWLyKNqi4rNjBW0-3tvqdRCi5mkS4ZREdeZtNqOSo/en-us-04-02.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mf/zKnG6speoMyzO08u2DsHYMuLiKk4hC05gjYb1W6s8/vtt/1/en.vtt",
-            "size": 2646765292
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PI/NWLyKNqi4rNjBW0-3tvqdRCi5mkS4ZREdeZtNqOSo/en-us-04-02.mp4"
         },
         {
             "id": "bf4b51cff9814d6eb20985ac15ffd0f8",
@@ -57,16 +48,13 @@
             "title": "Air Time",
             "description": "Before leaving Goldenrod City, the flamboyant producer of Poké Talk Radio insists Ash appear on Sunny Morningstar's show to talk about winning the Plane badge.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/v0tRz_mBTW4sgmFrBX_0Pg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xY/COxK21-OssZIlHu27CfvcQY_l2ql-zYyxQ4PJTkHA/en-us-04-03-631c639d10ba0e911a2631f3e3a9a5f9b8c1dfe4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ao/eWLW81OJGk13sQR1yTtE_TUcaJ1RykcJ_OdtFo5W0/en-us-04-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e-/ru_cdUnJNjsXmNuMCrtFx0BLBoW8gCQk9-KDUD1zs/en-us-04-03.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xY/COxK21-OssZIlHu27CfvcQY_l2ql-zYyxQ4PJTkHA/vtt/1/en.vtt",
-            "size": 2709283623
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e-/ru_cdUnJNjsXmNuMCrtFx0BLBoW8gCQk9-KDUD1zs/en-us-04-03.mp4"
         },
         {
             "id": "7ac728c431e1450b9861c5e3ed9be1ed",
@@ -75,16 +63,13 @@
             "title": "The Bug Stops Here",
             "description": "En route to Ecruteak City, our heroes make their way through a beautiful national park.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/escoxDHhRQsmGHF4-2b4e0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/V9rxHfkoAqquqvfZcFksEPgqXQY3e9vrfln8tDL1Q/en-us-04-04-2653cbe56d93153bfaeb7806baaa0a4cd4dfbb65.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dY/oPEG5SyXEruHGe3Y02M2_xnsC84iqf8BO-f8kLv2A/en-us-04-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2E/1-VD4eLxEzMpv88Tu6urOi2hq-qp5kqAYkzFnYavw/en-us-04-04.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/V9rxHfkoAqquqvfZcFksEPgqXQY3e9vrfln8tDL1Q/vtt/1/en.vtt",
-            "size": 2662065883
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2E/1-VD4eLxEzMpv88Tu6urOi2hq-qp5kqAYkzFnYavw/en-us-04-04.mp4"
         },
         {
             "id": "4ffe3845f08b4f13aa72164a94b111ce",
@@ -93,16 +78,13 @@
             "title": "Type Casting!",
             "description": "Trying to reach Ecruteak City our heroes are stopped in their tracks, unable to cross a bridge-less river.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/T_44RfCLTxMqnIWSpSxEc4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bm/x2cC1Geb8ggvY9YskSJHluY5OQsKcjFqb5Ib2vXCM/en-us-04-05-145b76e69481dd51e6f118eba2939292a628aaf5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A9/QzDtWI6mxHiwga6HGm7lTuiJpViBwhxqRPQPqX9R4/en-us-04-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pt/_4c0zDjl56o_UQoCzzo9iLhN1LWt9OGYcz9jS1CQM/en-us-04-05.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bm/x2cC1Geb8ggvY9YskSJHluY5OQsKcjFqb5Ib2vXCM/vtt/1/en.vtt",
-            "size": 2650895638
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pt/_4c0zDjl56o_UQoCzzo9iLhN1LWt9OGYcz9jS1CQM/en-us-04-05.mp4"
         },
         {
             "id": "a4bc399802974d3381eba6d72d13aa75",
@@ -111,16 +93,13 @@
             "title": "Fossil Fools",
             "description": "Ash, Misty and Brock have reached the famous Ruins of Alph.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pLw5mAKXTTMgeum1y0TqnU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yG/fSO8yhip5L0J-vPyD7iNtJf6_y7HMScvX6CpZq1qg/en-us-04-06-18933256fffe0cee73eb05a121758a64ce9071cc.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tq/SO6vH_acWEHzpW-_AReVL7CF_re9jVK8bG_5gVRQw/en-us-04-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/_4oPxNnBzQE6sWizD1bUVPxHkoneDz8lJfUqCeOrE/en-us-04-06.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yG/fSO8yhip5L0J-vPyD7iNtJf6_y7HMScvX6CpZq1qg/vtt/1/en.vtt",
-            "size": 2686123433
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/de/_4oPxNnBzQE6sWizD1bUVPxHkoneDz8lJfUqCeOrE/en-us-04-06.mp4"
         },
         {
             "id": "9d1d2f06244e40a7b9a91331beea18c4",
@@ -129,16 +108,13 @@
             "title": "Carrying On",
             "description": "Just outside of Ecruteak City, our heroes see a flying Pidgey being attacked by a huge Fearow and decide to intervene.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nR0vBiROQKcuakTMb7qGMQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1x/KCgqdf9Eka-CYjIR5tVp8vqGJ5rqz1Z7gMjcVojzQ/en-us-04-07-8ccdae520fa23e4a205a065666ec2ec34d3d72e2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E8/zurg8o9xATsJX8sFg9OBnO0xmEpQXOxvUZdt8IDgs/en-us-04-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n2/YO92Kkx5YxODvqgedoTmBtvRROROyGIntJi1yQrsM/en-us-04-07.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1x/KCgqdf9Eka-CYjIR5tVp8vqGJ5rqz1Z7gMjcVojzQ/vtt/1/en.vtt",
-            "size": 2690555345
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/n2/YO92Kkx5YxODvqgedoTmBtvRROROyGIntJi1yQrsM/en-us-04-07.mp4"
         },
         {
             "id": "b0ea529fb0f946bd9e79452e78ebb3da",
@@ -147,16 +123,13 @@
             "title": "Hassle in the Castle",
             "description": "Caught in a sudden thunderstorm, our heroes quickly seek shelter from the elements at an ominous looking castle on a nearby cliff.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/sOpSn7D5Rr0nnlFLnjrs9o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fb/aFknrCMKsblBfEuuMLgMVh23x63iGBpzyK2IdJyTo/en-us-04-08-db2a20e3ffcd743cbb8a6377bc77a8d77ef04ff0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rI/TBhMMadcCAFvtH2sMct5Gw2Mx3WBesc2-_9PmthTg/en-us-04-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wR/QMhUFJRylu5k9hXuqaIzIS7XUsFN80u4N-vQ1T_y8/en-us-04-08.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fb/aFknrCMKsblBfEuuMLgMVh23x63iGBpzyK2IdJyTo/vtt/1/en.vtt",
-            "size": 2681782260
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wR/QMhUFJRylu5k9hXuqaIzIS7XUsFN80u4N-vQ1T_y8/en-us-04-08.mp4"
         },
         {
             "id": "51f1b74c32f24194838f4071b201ce3f",
@@ -165,16 +138,13 @@
             "title": "Two Hits and a Miss",
             "description": "On the way to Ecruteak, a renegade Tauros dashes past our heroes. Seeing an old man in Tauros's path, Ash and Bulbasaur battle the break-away beast.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UfG3TDLyQZQg49AcbIBzj8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l9/ZBfc6b9Z9Qv56Cudow_6SbHP0ZQ39tdIzTgKulHfI/en-us-04-09-f9acf8d7fedc8e5852db66be83419b0a168888f8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QO/UDyNAMbpC6I69YT39xkPLcH8R3JMv6-jN_WfT-PXo/en-us-04-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wC/Cv3qPzwCwnuQg0fkfT9V6m1p6GeoxNCQkMBkHk8dg/en-us-04-09.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l9/ZBfc6b9Z9Qv56Cudow_6SbHP0ZQ39tdIzTgKulHfI/vtt/1/en.vtt",
-            "size": 2692490203
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wC/Cv3qPzwCwnuQg0fkfT9V6m1p6GeoxNCQkMBkHk8dg/en-us-04-09.mp4"
         },
         {
             "id": "b7c51ced1e1d4bd4af962501d9c66e25",
@@ -183,16 +153,13 @@
             "title": "A Hot Water Battle",
             "description": "Arriving at a beautiful hot springs, Ash, Misty and Brock decide they and their Pokémon need to take a much needed break from their journey.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/t8Uc7R4dS9Qr5YlAdnGbiU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5i/RmejQP-twAJJ2f4KYLSrxmqrHJreaPo2mm69Js9-A/en-us-04-10-df5583fa7a6ac283d222e4f4f6ba9cf68e0b9efa.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d2/lhsQ0wZ2j_C5eVJlENW9RdtDfXvu6tmaeMquPUGXc/en-us-04-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8N/0-xyGBdjqzQf56p8ghlBhJ_6-P9-QFCDzso-5wPQM/en-us-04-10.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5i/RmejQP-twAJJ2f4KYLSrxmqrHJreaPo2mm69Js9-A/vtt/1/en.vtt",
-            "size": 2692240707
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8N/0-xyGBdjqzQf56p8ghlBhJ_6-P9-QFCDzso-5wPQM/en-us-04-10.mp4"
         },
         {
             "id": "e7acb407383b40c89ddcb22480effabd",
@@ -201,16 +168,13 @@
             "title": "Hook, Line and Stinker",
             "description": "As our heroes take a break at a shady stream, Misty's Poliwhirl is attacked by a Poliwrath!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/56y0Bzg7QMgndyyJIDv-r0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/nI2Dv4_ocF3FCHL0Gl4SgVl7El7chyBnwce0Udwq0/en-us-04-11-d021f782ca078c62d7bca6eae9a5203d8e93e187.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t_/O5btOoiqIr1S2RREE5Uy8eWjDbdiLG2owq6ufHrCU/en-us-04-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XX/_NcgK6l1LxMukM2GO7Zqp8zMsEN7Cu6nW7Ak2FoAs/en-us-04-11.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/nI2Dv4_ocF3FCHL0Gl4SgVl7El7chyBnwce0Udwq0/vtt/1/en.vtt",
-            "size": 2674464817
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XX/_NcgK6l1LxMukM2GO7Zqp8zMsEN7Cu6nW7Ak2FoAs/en-us-04-11.mp4"
         },
         {
             "id": "8fef06aa3f9441db838e12d186ee4f02",
@@ -219,16 +183,13 @@
             "title": "Beauty and the Breeder",
             "description": "Brock checks his e-mail at a local Pokémon Center and finds Suzy, the Pokémon breeder who gave Brock Vulpix, has contacted him regarding a Pokémon beauty contest.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/j-8Gqj-UQdsg44S0YbuTwI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3r/m3Ny0pGh04yzSk9UmNzJeIwGUIbfBH2Z91d0m5HUU/en-us-04-12-eeb332f2413d06d8d2f620e4f183d99dd8c24e4f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BZ/UTu1JmdE1_foyy3uUUqZBOJuQ64R_m7S3n7BSi8TI/en-us-04-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OJ/IUXAPKwYnZvALT_P6IF73K1ybldQ6wH7dFDWzzha4/en-us-04-12.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3r/m3Ny0pGh04yzSk9UmNzJeIwGUIbfBH2Z91d0m5HUU/vtt/1/en.vtt",
-            "size": 2688536812
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OJ/IUXAPKwYnZvALT_P6IF73K1ybldQ6wH7dFDWzzha4/en-us-04-12.mp4"
         },
         {
             "id": "e4f8ba3c17f14bb8a0ad4a6cc5090413",
@@ -237,16 +198,13 @@
             "title": "A Better Pill to Swallow",
             "description": "Bingeing on too many burgers during lunch has given Ash a case of indigestion that stops him in his tracks. Unable to help their friend, Misty and Brock contemplate what to do.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/5Pi6PBfxS7goK1KbMUJBBM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YA/DvhnNS9HcRSiNNMw9DhKaYBwAF7JuLysSl4JPQ9_M/en-us-04-13-0cb6dc18dd88cae26a06c70bffcc83445dfd15c2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HI/u4MLdc4WYOXzDV_aheqeifWwIacNJxr4JDnKf-P8w/en-us-04-13.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dH/Y5JnKMeHRxDDkf4on68cc58EczC5Wa3NxD3QX64AU/en-us-04-13.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YA/DvhnNS9HcRSiNNMw9DhKaYBwAF7JuLysSl4JPQ9_M/vtt/1/en.vtt",
-            "size": 2689163649
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dH/Y5JnKMeHRxDDkf4on68cc58EczC5Wa3NxD3QX64AU/en-us-04-13.mp4"
         },
         {
             "id": "738f46c005cb4f78bb2096f484f08112",
@@ -255,16 +213,13 @@
             "title": "Power Play",
             "description": "When a blackout hits a town on the road to Ekruteak City, our heroes realize it puts the Pokémon in the local Pokécenter in jeopardy.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/c49GwAXLT3guyCW9ITwgRI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qk/dXjc5di2909prWGSv2-cEV0mf1JgUy_AwXSLjCEeY/en-us-04-14-d5db411c8ab74d9a2c90165fa022ae221d930843.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8i/eDXV5fO95mmKYxXhPNWWynGwOKVoi0DzC5zcbpvJQ/en-us-04-14.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EO/4wV9WqL257SD3tqD3yff2hERD9kpRWmRs-pe1XWvQ/en-us-04-14.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qk/dXjc5di2909prWGSv2-cEV0mf1JgUy_AwXSLjCEeY/vtt/1/en.vtt",
-            "size": 2695954845
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EO/4wV9WqL257SD3tqD3yff2hERD9kpRWmRs-pe1XWvQ/en-us-04-14.mp4"
         },
         {
             "id": "133f8818a2594333901195c1b4fb2ae1",
@@ -273,16 +228,13 @@
             "title": "Mountain Time",
             "description": "Enjoying a beautiful day hiking through the mountains on the road to Ekruteak City, Ash and Pikachu chase after a Ledian that speeds by them.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Ez-IGKJZQzMkBGVwbT7KuE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/ZwRajyfYY5zUouD83meh_f0Nyid-Yb-9nR7q4yHEw/en-us-04-15-d41c5df60c7c96e4cb69c1553270b94cbfae07d0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3_/Ws5RgoJm9LbiBVwzB10ZyVLTQhefp5A08ncry6Jnc/en-us-04-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hc/Qu6Zvuh2xym_p-C6fYFA_kI4lpaGXVmZfWbhsVUQ8/en-us-04-15.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/ZwRajyfYY5zUouD83meh_f0Nyid-Yb-9nR7q4yHEw/vtt/1/en.vtt",
-            "size": 2693352295
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hc/Qu6Zvuh2xym_p-C6fYFA_kI4lpaGXVmZfWbhsVUQ8/en-us-04-15.mp4"
         },
         {
             "id": "3b05f609a969421eb62f3daca0e5ca4c",
@@ -291,16 +243,13 @@
             "title": "Wobbu-Palooza",
             "description": "Breaking for lunch at a spot in the forest, our heroes notice a nearby Wobbuffet and begin to look around for it's co-horts, Team Rocket!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OwX2CalpQh4ti89rKDlykw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M3/pd4R7NSc28KPlL5IpeimhSSp4bO1-_FMGvMZ4mMNc/en-us-04-16-3546b769d39355f71ce57d46e54454f918282377.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KR/dgtACapqQc7BtNtwv0FJ9OytXUpQmMZ-w8LCSQqmQ/en-us-04-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kM/yWziQ0pltnwynYsbUDtLcqmKIDvRxeBfQ_d-e0KM4/en-us-04-16.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M3/pd4R7NSc28KPlL5IpeimhSSp4bO1-_FMGvMZ4mMNc/vtt/1/en.vtt",
-            "size": 2648303456
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kM/yWziQ0pltnwynYsbUDtLcqmKIDvRxeBfQ_d-e0KM4/en-us-04-16.mp4"
         },
         {
             "id": "0a4002ca815744db9da0a6700329ea53",
@@ -309,16 +258,13 @@
             "title": "Imitation Confrontation",
             "description": "Stopping off at a Pokécenter, the gang looks around for nurse Joy. Suddenly she appears with Chansey, but makes the confusing statement Nurse Joy is seeing a patient.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CkACyoFXRNsnaCmcAMp6lM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cs/6XuUiLSxEcIjRE6dY7DFqVD1OUt19yJOwwF-ZMKEg/en-us-04-17-c736f232d778106af4848aa201c2026f6b7d783a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R0/Zuz_Mg3T-urx2FzpfHY-SLjXJznHBZ_PUU4_WAg3w/en-us-04-17.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jY/c4EgwgOoNHzHRRch7vW3V_a0jApoWQOzrQmcBshR8/en-us-04-17.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cs/6XuUiLSxEcIjRE6dY7DFqVD1OUt19yJOwwF-ZMKEg/vtt/1/en.vtt",
-            "size": 2690676384
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jY/c4EgwgOoNHzHRRch7vW3V_a0jApoWQOzrQmcBshR8/en-us-04-17.mp4"
         },
         {
             "id": "75c68d5c793b493b88fc0a2be9b3fa20",
@@ -327,16 +273,13 @@
             "title": "The Trouble With Snubbull",
             "description": "As our heroes take a brief rest near a river, Ash sees a Snubbull rush by on the opposite bank.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dcaNXHk7STsiPwKK-mz-iA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ux/ntTUqI3jktWWMYQ-WcovWgm5ishex0LaVgZ2ez2N8/en-us-04-18-e257c89398f24272029dbb6f76b69d637eb4158f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AR/jln200Gjgo9mIevhTutQTcMJTdUqSg66aSF5WhClg/en-us-04-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w3/e3cG4Tl2VvsiGKiz_ZcaJ1_KUrI6VksGP4FASPs_U/en-us-04-18.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ux/ntTUqI3jktWWMYQ-WcovWgm5ishex0LaVgZ2ez2N8/vtt/1/en.vtt",
-            "size": 2687539461
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w3/e3cG4Tl2VvsiGKiz_ZcaJ1_KUrI6VksGP4FASPs_U/en-us-04-18.mp4"
         },
         {
             "id": "e8533803197d4446be90c3a1c7be3bc2",
@@ -345,16 +288,13 @@
             "title": "Ariados, Amigos",
             "description": "As Misty picks the local flora, Togepi wanders over to a very strange looking bush, it appears to have legs...spider legs!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6FM4Axl9REYvpDDoce-O8I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Do/e-vdAxiVK5DCSamxJ4IrLbb0OckjdVEEspx8zbJ5A/en-us-04-19-5eef350da2bc4353fc2545e7a191b2e7914bde34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i6/2ncmTqMknxANmjWeJrWxKPBRUkt5XDqi-xajJ8iBo/en-us-04-19.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J0/DE0ZR7nmGTOL73jP9CtCAYmkQvQTLM-vETfVDmVQA/en-us-04-19.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Do/e-vdAxiVK5DCSamxJ4IrLbb0OckjdVEEspx8zbJ5A/vtt/1/en.vtt",
-            "size": 2694011068
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J0/DE0ZR7nmGTOL73jP9CtCAYmkQvQTLM-vETfVDmVQA/en-us-04-19.mp4"
         },
         {
             "id": "19da90730e004cc9921e8180d52a3a2d",
@@ -363,16 +303,13 @@
             "title": "Wings 'n' Things",
             "description": "It's a sunny day on the road to Johto when our heroes encounter a Yanma... a troublemaker of a Yanma!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GdqQcw4ATMkkh6BgNUqOi0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mi/RpxthxxQsXTHDax97lWvXOJWKP619aOIH4KuQLmn0/en-us-04-20-7d4811a39c2dff37a3eaba1260882580abf523c2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p6/IIErqwwau-i8Z1VImQZPoocnDWBD13KJt7LbI3gBM/en-us-04-20.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ry/hHsI5xVnN_ZPD3Bdrp6U_Qr1Dlfik5wHbpOYKY8Rk/en-us-04-20.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mi/RpxthxxQsXTHDax97lWvXOJWKP619aOIH4KuQLmn0/vtt/1/en.vtt",
-            "size": 2664703220
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ry/hHsI5xVnN_ZPD3Bdrp6U_Qr1Dlfik5wHbpOYKY8Rk/en-us-04-20.mp4"
         },
         {
             "id": "52bb88b549684932bd3cfb7bc5d43c86",
@@ -381,16 +318,13 @@
             "title": "The Grass Route",
             "description": "En route to Ekruteak, Ash and company are caught by the sight of a Skiploom racing by. Following after it, they encounter its trainer, Ephram.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UruItUloSTIvTz7e8XUPIY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ea/urs7MJtixuCsSyMWtxMFU83p3qxD-2pQm-fjAHGDs/en-us-04-21-d04dccad4af5b1c40b1486539a32829f3990405a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/It/Av3GhX0G2tISPxQluW3tf_6dgJEW56yLrQ-GzmOrk/en-us-04-21.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1K/dXXRsY2Mkh67zZ1q4lLgoqo4WJ9Cufxx2ggxZgxv8/en-us-04-21.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ea/urs7MJtixuCsSyMWtxMFU83p3qxD-2pQm-fjAHGDs/vtt/3/en.vtt",
-            "size": 2685623926
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1K/dXXRsY2Mkh67zZ1q4lLgoqo4WJ9Cufxx2ggxZgxv8/en-us-04-21.mp4"
         },
         {
             "id": "1079ae3207b140b781e0cda46a522a5c",
@@ -399,16 +333,13 @@
             "title": "The Apple Corp!",
             "description": "Catching a sweet scent on the breeze, Ash and Pikachu follow their noses to a nearby apple orchard.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/EHmuMgexQLcgeDNpGpSKlw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rh/GoF1eFFJJDUqMvIRYNCv8TV2AlUNp65AqvVB_VyxY/en-us-04-22-68d47e4836f28713832e416fa25fe7ff2e834010.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ji/M-3ru3L5DW4TG4nQ0wYrvLcgvoU2nltNde-VTk49I/en-us-04-22.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RH/cMNWAj1NvMHShq4mR6Fc1Kye2VgtlVfUtz1PwGeoc/en-us-04-22.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rh/GoF1eFFJJDUqMvIRYNCv8TV2AlUNp65AqvVB_VyxY/vtt/2/en.vtt",
-            "size": 2693001616
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RH/cMNWAj1NvMHShq4mR6Fc1Kye2VgtlVfUtz1PwGeoc/en-us-04-22.mp4"
         },
         {
             "id": "ab25cf7de3304ef09361b36e8ab058ac",
@@ -417,16 +348,13 @@
             "title": "Houndoom's Special Delivery",
             "description": "When Team Rocket attacks our heroes as they travel through a mountain pass, Weezing's Smoke Screen attack separates Togepi and Misty.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/qyXPfeMwTvAk2GzboqwWKw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0R/4WlBed5K9QacHr2nt2aBksLtUov0KuldyRS56Cdbk/en-us-04-23-bb92cd53436b97986063ee8b1fc61f31ad640a9b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wK/Zdg_3iuGJozFsPJq6CkvcUhLKgzbNlOCjLCVuGGQw/en-us-04-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ha/bRthewA387L7BM0pn9cnEdMFaUNic2-yE52Le7me8/en-us-04-23.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0R/4WlBed5K9QacHr2nt2aBksLtUov0KuldyRS56Cdbk/vtt/1/en.vtt",
-            "size": 2689923599
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ha/bRthewA387L7BM0pn9cnEdMFaUNic2-yE52Le7me8/en-us-04-23.mp4"
         },
         {
             "id": "efa6d46165254df09e2a97f2d21b704c",
@@ -435,16 +363,13 @@
             "title": "A Ghost of a Chance",
             "description": "Arriving in Ecruteak, Ash immediately heads to the Gym to challenge it's leader for his next Johto League badge.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/76bUYWUlTfAniqX8tIbcEw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EW/vwYCA1vO7ESt-vyVxuuZrt4uWz_12rNXda9xw1wYU/en-us-04-24-c60211c20a6f01228c38099c1c43bf159f85c47d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4X/HHnVtzOUuwAhUlUx-YTgrbR_jMIFmtJCNZoCxZGAQ/en-us-04-24.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WN/EnChUuz3FJNxospUtQ4q1Dz2z91wbRclU1YEDybC0/en-us-04-24.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EW/vwYCA1vO7ESt-vyVxuuZrt4uWz_12rNXda9xw1wYU/vtt/1/en.vtt",
-            "size": 2690408800
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WN/EnChUuz3FJNxospUtQ4q1Dz2z91wbRclU1YEDybC0/en-us-04-24.mp4"
         },
         {
             "id": "8cd5db1735894deb8664d42b89ce07b0",
@@ -453,16 +378,13 @@
             "title": "From Ghost to Ghost",
             "description": "Anxious to acquire the next Johto League badge, Ash challenges Ecruteak City's Gym Leader, Morty.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/jNXbFzWJTeshmTUK4nOB7A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iB/Wfko3aAIku6DTG0_-_Q9vPqvyG7T7b9HYKFYS0Eh8/en-us-04-25-fd17d2ace5cb0d9d2ddbc9a46806309a6c743d17.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FR/in2m3SIRDLScH_cpUN6ML6vlcGHlP_lzo12i7WKPs/en-us-04-25.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8A/oxSIHKQJ8NQrbjqpU2Nv7GbZdztGBQqEwKdEztYOA/en-us-04-25.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iB/Wfko3aAIku6DTG0_-_Q9vPqvyG7T7b9HYKFYS0Eh8/vtt/1/en.vtt",
-            "size": 2690066831
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8A/oxSIHKQJ8NQrbjqpU2Nv7GbZdztGBQqEwKdEztYOA/en-us-04-25.mp4"
         },
         {
             "id": "7737c528e9a54c46b9c2b577bc4f407f",
@@ -471,16 +393,13 @@
             "title": "Trouble's Brewing",
             "description": "Enjoying a quick snack at a local cafe, Misty notices a poster featuring a traditional Japanese tea ceremony.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dzfFKOmlTEYucK1d7xPQH8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1a/Pv6ZoXzMXaAGvmNEOuLE8NYFXzahKFad_qGk9kBEs/en-us-04-26-63cfcfe16e7da66486e8008d35cb804c1c70354e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FH/Y0stAZ7QplSGd8K33RzlA75WsW8BXjLE0ZjLmUdXY/en-us-04-26.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/yf4tbmyM_-KlnY_dU7Up_XGT7BJekYfqsKRdFygUE/en-us-04-26.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1a/Pv6ZoXzMXaAGvmNEOuLE8NYFXzahKFad_qGk9kBEs/vtt/1/en.vtt",
-            "size": 2686134764
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/yf4tbmyM_-KlnY_dU7Up_XGT7BJekYfqsKRdFygUE/en-us-04-26.mp4"
         },
         {
             "id": "82d6dee50ce943e09ed41cf0017ab533",
@@ -489,16 +408,13 @@
             "title": "All That Glitters!",
             "description": "On their way to Olivine City, Brock and Misty break for lunch while Ash polishes his Johto League badges.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gtbe5QzpQ-AntQc8AF6tTM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MT/pMY2PL7A4MMs5vqgi7LYIcOiCTRxDqcurGe4njeV8/en-us-04-27-56e881b4bd840685308eb510b701cf4732fc22bd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KV/O5XtNcDreZB-OOM7e9xXgAtO52EpQPU0N3fdRyQqw/en-us-04-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1f/gA-G9CHsyGVFBnAJmPra-fhbwtnqmtMf5W7odQrJ0/en-us-04-27.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MT/pMY2PL7A4MMs5vqgi7LYIcOiCTRxDqcurGe4njeV8/vtt/1/en.vtt",
-            "size": 2693482880
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1f/gA-G9CHsyGVFBnAJmPra-fhbwtnqmtMf5W7odQrJ0/en-us-04-27.mp4"
         },
         {
             "id": "f626685bc8f24e69ac85a3f3ec54838d",
@@ -507,16 +423,13 @@
             "title": "The Light Fantastic",
             "description": "On the dry and dusty road to Olivine City, our heroes notice beautiful lights shining in the sky ahead of them.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/9iZoW8jyTmkrIWj8-xUg40/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a6/EnE7NsSMdiI4GKmL2_qa4RX5sPM6vimoIB1zg2898/en-us-04-28-e5166fdde544496c411cbda4cb1931a94cebfc10.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wQ/6-dqf04ePNQjHEVwWYjJgLORR6wUgIzFKHYaE19kg/en-us-04-28.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_j/vA45seCVdEkcD_efWh0vLCYWPfjutsKsstOJ447wE/en-us-04-28.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a6/EnE7NsSMdiI4GKmL2_qa4RX5sPM6vimoIB1zg2898/vtt/1/en.vtt",
-            "size": 2689982744
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_j/vA45seCVdEkcD_efWh0vLCYWPfjutsKsstOJ447wE/en-us-04-28.mp4"
         },
         {
             "id": "e8d1bbb9597e4b89a1a72a7bc770065f",
@@ -525,16 +438,13 @@
             "title": "UnBEARable",
             "description": "As our heroes pass through a dense forest, Brock explains that there are some pretty scary Pokémon hang out in this neck of the woods.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6NG7uVl-S4koacqe8dwBl8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QA/ey-eaEcg_8YzVqbuKaa1RDvxQ5OQHjFWTw0tK4m9c/en-us-04-29-532883e6d96a5a50a53ccc141399a8826ee7edd4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gI/OaHSGGC0p2L7kMfwVXZwzYhNYYmDb3O3KiT2djoJw/en-us-04-29.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/5lhQcvUPBnFp9xYGkRu6ALNIWIIFx_cpacxrs8ZzM/en-us-04-29.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QA/ey-eaEcg_8YzVqbuKaa1RDvxQ5OQHjFWTw0tK4m9c/vtt/1/en.vtt",
-            "size": 2688846302
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6a/5lhQcvUPBnFp9xYGkRu6ALNIWIIFx_cpacxrs8ZzM/en-us-04-29.mp4"
         },
         {
             "id": "4bc926c38369450eb0a854933a9d646e",
@@ -543,16 +453,13 @@
             "title": "Moving Pictures",
             "description": "On their way to Olivine City, our heroes run into their old friend and shutterbug, Todd! As Todd and our friends catch up, a frozen Sunkern falls from the sky.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/S8kmw4NpRQ4sKhUkzqdZG4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u4/V8Tv3NgW5fdjAC9lvTjSlRAwhO7G7qLbk3fK8nejs/en-us-04-30-42e154427074c623012612f7ec164ef84a42b161.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HK/cFTJTn5rtpR-pGfbVWIiCseE206ajtOEM0yDjRDX8/en-us-04-30.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1u/KoiaNwV568cw28d5hwicEc01iDS0z5CLxCmaiBCXI/en-us-04-30.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/u4/V8Tv3NgW5fdjAC9lvTjSlRAwhO7G7qLbk3fK8nejs/vtt/1/en.vtt",
-            "size": 2692198777
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1u/KoiaNwV568cw28d5hwicEc01iDS0z5CLxCmaiBCXI/en-us-04-30.mp4"
         },
         {
             "id": "ea4d2174176a44f2b8265a0bfbe540b7",
@@ -561,16 +468,13 @@
             "title": "Spring Fever",
             "description": "As Todd and our heroes take a lunch break on a rocky mountain top, a Swinub rushes at them from a nearby crevasse.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6k0hdBdqRPIuCZaC_vlQLc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_r/mxNNi-o9T1-DlfbU325-HOybqnatytHwm2Ws9uAeU/en-us-04-31-5e58a16516efade57e3477046f2e9026dd4453f9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/El/_WXYoEzGfh3dmpKDtg2YJSi8aXwMY-2bQWkZ9PfhE/en-us-04-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ko/fkdU__gBHpFm6i0lv7jFpyWSsp1diksoO1WwrEf8U/en-us-04-31.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_r/mxNNi-o9T1-DlfbU325-HOybqnatytHwm2Ws9uAeU/vtt/1/en.vtt",
-            "size": 2694066078
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ko/fkdU__gBHpFm6i0lv7jFpyWSsp1diksoO1WwrEf8U/en-us-04-31.mp4"
         },
         {
             "id": "6880c27fe4ca4ed89a654cdc1419499c",
@@ -579,16 +483,13 @@
             "title": "Freeze Frame",
             "description": "On their quest to capture Articuno on film, Todd and our heroes run into a frozen Jigglypuff!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/aIDCf-TKTtgmmVM3BQZSZw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GI/qe164thxwK9bBtokvu_hrqogcVh1YKhfxreThIWXA/en-us-04-32-b30f7c75830e72e4cb7aabaf6a0720bdd91c6d6b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/70/s1nWpEXhasjF8ErqJ65UPsc7igxe-QJKA2dwJE2XI/en-us-04-32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bt/dJg88qVscVEppK0qhr5GMH1NCBtWKHWgwpOinORik/en-us-04-32.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GI/qe164thxwK9bBtokvu_hrqogcVh1YKhfxreThIWXA/vtt/1/en.vtt",
-            "size": 2692155590
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bt/dJg88qVscVEppK0qhr5GMH1NCBtWKHWgwpOinORik/en-us-04-32.mp4"
         },
         {
             "id": "d62bdb6831aa4d5089ce8845e1430474",
@@ -597,16 +498,13 @@
             "title": "The Stolen Stones",
             "description": "On their way to Olivine City, our heroes pass through a dangerous looking canyon full of unstable boulders. When the rocks begin to give-way in an avalanche-like fury, a few fiery Pokémon rush to the rescue.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1ivbaDGqTVAic6IReFDBHQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kh/OfN1dwX-8faxU_IsKPj99GqmxglJXEKFgwAsXfmnk/en-us-04-33-72c58b64e56a04c8305f41cba2276e98538dd04b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fW/mYcAaNRXcgw6Aqo4mG5h17Aa-v6LwPXI7ynaXGphY/en-us-04-33.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zv/Gayk-kDDzFXHJLCYX_fPol0uhKQHA_gZI-b7oQZco/en-us-04-33.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kh/OfN1dwX-8faxU_IsKPj99GqmxglJXEKFgwAsXfmnk/vtt/1/en.vtt",
-            "size": 2695992432
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zv/Gayk-kDDzFXHJLCYX_fPol0uhKQHA_gZI-b7oQZco/en-us-04-33.mp4"
         },
         {
             "id": "387e254bf07148439e652a0af0005fd9",
@@ -615,16 +513,13 @@
             "title": "The Dunsparce Deception",
             "description": "On the outskirts of a small town, our heroes run into a young boy named Bucky. He tells our friends of his woes in trying to capture a Dunsparce.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OH4lS_BxSEMnmUqCvAAX9k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jP/XQnf9fTtOr6f907pMtvJ5HyIo4DSm33EUBWFlCaEg/en-us-04-34-2916cda6cefe4890abc318ca101964ff8718ae32.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lS/tzZrtBX5zB7New6enpyjSbO0zOqqIQt6Qy161yIB0/en-us-04-34.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kf/rSBPt7biFZNwBqhO_wlIAILLW5vJxNn9dRmy_FkXc/en-us-04-34.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jP/XQnf9fTtOr6f907pMtvJ5HyIo4DSm33EUBWFlCaEg/vtt/1/en.vtt",
-            "size": 2690727315
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kf/rSBPt7biFZNwBqhO_wlIAILLW5vJxNn9dRmy_FkXc/en-us-04-34.mp4"
         },
         {
             "id": "7d5732ccf2ab4adbabd73d4e91776677",
@@ -633,16 +528,13 @@
             "title": "The Wayward Wobbuffet",
             "description": "Knowing our heroes are still en-route to Olivine, Team Rocket lies in wait. Dressed as scientists, they explain they've just repaired the amazing Poké Pod.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fVcyzPKrStsq9c9TpF3Znc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iJ/PkwQSHg8YsNa9VreX7qN0nnuB3oFxnLi1JzWdtTOU/en-us-04-35-c2e41cf16cc0600ba7bb3977b1c3989e78ef8f6f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jE/kBmMfgn8sL762pbWnNlNAeBVEbA7H9pjCh2SMOWuk/en-us-04-35.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sa/xSh6irf3f0Jod_d0DQMVuqLfbINWEtR8cYO-DE7K8/en-us-04-35.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iJ/PkwQSHg8YsNa9VreX7qN0nnuB3oFxnLi1JzWdtTOU/vtt/1/en.vtt",
-            "size": 2678484451
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sa/xSh6irf3f0Jod_d0DQMVuqLfbINWEtR8cYO-DE7K8/en-us-04-35.mp4"
         },
         {
             "id": "448a010e525e4a2997f5c880be04ba58",
@@ -651,16 +543,13 @@
             "title": "Sick Daze",
             "description": "The morning sun shines brightly upon our heroes and their Pokémon after spending the night next to a sparkling stream.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/RIoBDlJeSikl_XIgL4Eulg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vv/bC4Oc1LD3hWOAK_K88VmXiuXyy_W_oMZhOQV7G0A4/en-us-04-36-b71fc7c8b181b8e27c22d5b662d1c711f00b84f7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ad/lkApiyNmWuxGqX91-4UvsW9hMA-c45-E8WVXVo6N0/en-us-04-36.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tR/qtNn6VPOrZsnOJR1lsvZGu21OwRtkS-208d2OduHk/en-us-04-36.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vv/bC4Oc1LD3hWOAK_K88VmXiuXyy_W_oMZhOQV7G0A4/vtt/1/en.vtt",
-            "size": 2692776652
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tR/qtNn6VPOrZsnOJR1lsvZGu21OwRtkS-208d2OduHk/en-us-04-36.mp4"
         },
         {
             "id": "82f647ff7cee41ca921010202cd6d258",
@@ -669,16 +558,13 @@
             "title": "Ring Masters",
             "description": "As Ash and company pass through an intriguing little village, they notice a Feraligatr in the midst of a battle.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gvZH_3zuQcokhAQICzW0lg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SS/NHaQj2pQIJb9-HcQ4P_eHHzCSzvN49WrutDD8cNqM/en-us-04-37-e1b2616b8e4e81aaacd91396c371d60930189233.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-R/cXDnlHvGRhrXK32eTdPfjcpFpXqQHLUhlnq9XabYs/en-us-04-37.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nV/YLsA0WDtRUivuZKhpVY9vZ9GJ4pFG2eUxpJuCKp_0/en-us-04-37.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SS/NHaQj2pQIJb9-HcQ4P_eHHzCSzvN49WrutDD8cNqM/vtt/1/en.vtt",
-            "size": 2691960267
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nV/YLsA0WDtRUivuZKhpVY9vZ9GJ4pFG2eUxpJuCKp_0/en-us-04-37.mp4"
         },
         {
             "id": "b5a7f887696e4b72a33037140fcaa8ec",
@@ -687,16 +573,13 @@
             "title": "The Poké Spokesman",
             "description": "On the long trek to Olivine City, our heroes notice Pikachu looks a bit worn out. Just then, an old man appears from beside the path and explains the soil in this region contains minerals that absorb electricity.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/taf4h2luS3IozA3FA_KqOw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3k/vXorId1dsXuPfwEdY-3xyQuBvNxxVAQ5o2QWi_tQ8/en-us-04-38-9c192589343f67c7390e68f3a302cbf81f57f8ee.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SO/jNqH_jK-6hPYAw7_I6RSyKGdrxzwN_TlQf2CZZz8U/en-us-04-38.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i7/TrNodPyuKiM-Xc07KwZCqH6P9KePGcaRrH-xzGyD0/en-us-04-38.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3k/vXorId1dsXuPfwEdY-3xyQuBvNxxVAQ5o2QWi_tQ8/vtt/1/en.vtt",
-            "size": 2644327099
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i7/TrNodPyuKiM-Xc07KwZCqH6P9KePGcaRrH-xzGyD0/en-us-04-38.mp4"
         },
         {
             "id": "9c37adbe333b4e558bf7d4700c83f612",
@@ -705,16 +588,13 @@
             "title": "Control Freak!",
             "description": "As our heroes and their Pokémon enjoy another fine meal prepared by Brock, Golbat begins to act strangely and flies away. Brock, Ash and Misty chase after the Flying-type and end up at an archaeological dig.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/nDetvjM7TlUi_fUcAyD9hI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zs/8tl9_cNVFIj6rpGoXFWqVXJz5M5vFF1B8Cy5s0CsM/en-us-04-39-5b972b936d41af38380e91e77d009dec57cc6fb1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sz/YxGAbPv7SXRurXIpiYC3nwZeZW3zolWluBjriH1MQ/en-us-04-39.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xq/iwsF0GLHwZt8uAI9ZIWcfk_qBGAU31yzMcJUQ94mI/en-us-04-39.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zs/8tl9_cNVFIj6rpGoXFWqVXJz5M5vFF1B8Cy5s0CsM/vtt/1/en.vtt",
-            "size": 2690062678
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xq/iwsF0GLHwZt8uAI9ZIWcfk_qBGAU31yzMcJUQ94mI/en-us-04-39.mp4"
         },
         {
             "id": "d5415533b17a4323ab39b0e67b38c0c9",
@@ -723,16 +603,13 @@
             "title": "The Art of Pokémon",
             "description": "An aging artist and his Smeargle assistants get in some hot water when they attempt to turn a town into their next great masterpiece!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1UFVM7F6QyMqzmw5ns4wMk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bw/bmaTwgg6dB04Ed0hnLXomzIObNzcqXsqCUBsJBsu4/en-us-04-40-1c5053b62e15c908c3804ca292f3600165eb5d09.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lg/Ein80-AaazUMTd5hWlwVRZAy3VdWpOYgFigCgcGBI/en-us-04-40.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wn/_GG2rVpqxk1uRQuix102NTM5_4CeL1f6Bx3_JAmpw/en-us-04-40.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bw/bmaTwgg6dB04Ed0hnLXomzIObNzcqXsqCUBsJBsu4/vtt/1/en.vtt",
-            "size": 2689514625
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wn/_GG2rVpqxk1uRQuix102NTM5_4CeL1f6Bx3_JAmpw/en-us-04-40.mp4"
         },
         {
             "id": "7a3b848b8c4b44beb71ab2caa70be8f8",
@@ -741,16 +618,13 @@
             "title": "The Heartbreak of Brock",
             "description": "At the end of a long day, our heroes search for a Pokémon Center in a small town near Olivine City.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ejuEi4xLRL4txqyyqcL6Pg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9q/d2v1TLluV6mVeKiWEmSK3MxpF7gLKwarHKnFeGW_A/en-us-04-41-828fa90d1fb75d11cfc17a28f95059b9aca1728a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mn/wmjiG1lqrYsuD7rWE0pEqN09Ns83kGhzxzZAVuYSk/en-us-04-41.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XM/6P73MwqHlO30Eh5tDhMm23m1YeuureRH-WUwtBh1w/en-us-04-41.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9q/d2v1TLluV6mVeKiWEmSK3MxpF7gLKwarHKnFeGW_A/vtt/1/en.vtt",
-            "size": 2688991514
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XM/6P73MwqHlO30Eh5tDhMm23m1YeuureRH-WUwtBh1w/en-us-04-41.mp4"
         },
         {
             "id": "d771a042539e455ba7b7b30470089af5",
@@ -759,16 +633,13 @@
             "title": "Current Events",
             "description": "Nearing Olivine City, our heroes notice a field full of windmills. Deciding the breezy windmill field is a nice place to take a break and get some fresh air, our heroes release their Pokémon from their Poké Balls and begin to set up a picnic.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/13GgQlOeRVsp7ezBHAImvU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vm/mBChPNIrb-_xA0lwmaM1UXhGwouZRlHzzVBHSeMs4/en-us-04-42-2c52ea2f4f74d739655ffeee3fed0178666cbfef.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4U/Vn-iOVm6SoXydVYIT7vC883wMEsmOf3aQNZ2z50cM/en-us-04-42.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uz/u3LqjcaMKSYYuwP0e8BnGVrR0JTW5OHJmCXXlIG3Q/en-us-04-42.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vm/mBChPNIrb-_xA0lwmaM1UXhGwouZRlHzzVBHSeMs4/vtt/1/en.vtt",
-            "size": 2675805232
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uz/u3LqjcaMKSYYuwP0e8BnGVrR0JTW5OHJmCXXlIG3Q/en-us-04-42.mp4"
         },
         {
             "id": "d37bd4edd1c745f997d3beee2576fa1b",
@@ -777,16 +648,13 @@
             "title": "Turning Over A New Bayleef",
             "description": "Overly excited to see Ash, Bayleef runs towards him at full-tilt. Inadvertently, Bayleef uses Tackle Attack and knocks Ash for a loop.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/03vU7dHHRfkl9O-7iV2-hs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/J-95pPWqKXPIf2ve-OTQmdMER_4tRRzESdt10B2Io/en-us-04-43-daca3e396a9eb86956394156f95b8518a1ad2b67.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/an/FA8g4p-AKmocZz_XdJRPGmAym6HLHJ7esmt-2NH7M/en-us-04-43.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5g/w12gjr68cH0XjrCrYELk7YVy3VB5zYA1r9-s10IAo/en-us-04-43.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_z/J-95pPWqKXPIf2ve-OTQmdMER_4tRRzESdt10B2Io/vtt/1/en.vtt",
-            "size": 2688099846
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5g/w12gjr68cH0XjrCrYELk7YVy3VB5zYA1r9-s10IAo/en-us-04-43.mp4"
         },
         {
             "id": "36475857e05541a8ac2c1b093e78bf82",
@@ -795,16 +663,13 @@
             "title": "Doin' What Comes Natu-rally",
             "description": "When our heroes stumble upon a one-day street performance, they get to see all types of Pokémon with unique skills.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NkdYV-BVQagrCwbCT54v4I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ss/SbOnH9vmZuw1PEn4pNzU3d3kNww9daIp29ZMk61W0/en-us-04-44-6e6dd0b44d26c8ba9d404aaea16a3eed165b036e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kh/KI_VeMLVs5YX11MKgahcEwfHqoOUoiWla8UjB100U/en-us-04-44.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bn/swi2a6DK9MJVkT_j4UKk4XTHqkuRSOrwY93YgZIoY/en-us-04-44.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ss/SbOnH9vmZuw1PEn4pNzU3d3kNww9daIp29ZMk61W0/vtt/1/en.vtt",
-            "size": 2691597748
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bn/swi2a6DK9MJVkT_j4UKk4XTHqkuRSOrwY93YgZIoY/en-us-04-44.mp4"
         },
         {
             "id": "88b0a339796f430a99979498da5ba4b6",
@@ -813,16 +678,13 @@
             "title": "The Big Balloon Blow-Up",
             "description": "When our heroes happen upon an unusual formation in the middle of a grassy field, Brock believes it is a crop circle... placed there by aliens!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/iLCjOXlvQwomZeUmNpbpLY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sB/VH4I84lHqTO13D3-HrKK7jO3P-oWdUuEIEuKWU_lo/en-us-04-45-82b4b9bceffb57825651face69b8bdfb33af4384.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lp/sEbGV07QqLHiRzYSZL5WWbHg432it6AW9GvlLFXCM/en-us-04-45.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ex/RIjccwHqevgfWIz37y__zYg007BLLxQnaTQ8IWDZo/en-us-04-45.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sB/VH4I84lHqTO13D3-HrKK7jO3P-oWdUuEIEuKWU_lo/vtt/1/en.vtt",
-            "size": 2693503886
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ex/RIjccwHqevgfWIz37y__zYg007BLLxQnaTQ8IWDZo/en-us-04-45.mp4"
         },
         {
             "id": "e20d098bb5894bec8e0d03821d4af09b",
@@ -831,16 +693,13 @@
             "title": "The Screen Actor's Guilt",
             "description": "Strolling through downtown, our heroes notice a mob of girls chasing someone down. Suddenly, a man in a black cape and hat runs up to Ash and gives him a package to hold.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4g0Ji7WJS-wjg0Dgh1K8Js/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tM/6s64BjsGm9xFH5gTU3Sb3dkHW5xmR_1vezY0WSsrM/en-us-04-46-30e5fd78645f6fc4eee5b16cb92c69912b3d6588.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/HBuawyA_RYOTU1nI4dge5YvOQ5ARfaH79LEoxZ7XM/en-us-04-46.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k7/s2BEpf7ZH6MkOO8NdqLEqZ5fXccTuKlkpcGO_9hN8/en-us-04-46.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tM/6s64BjsGm9xFH5gTU3Sb3dkHW5xmR_1vezY0WSsrM/vtt/1/en.vtt",
-            "size": 2693530353
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/k7/s2BEpf7ZH6MkOO8NdqLEqZ5fXccTuKlkpcGO_9hN8/en-us-04-46.mp4"
         },
         {
             "id": "2775ea8426ca42b6b38630fe0ab33665",
@@ -849,16 +708,13 @@
             "title": "Right On, Rhydon",
             "description": "Our heroes are camped out by a lake where Ash wakes up one morning and sees a Rhydon emerging from the water.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/J3XqhCbKQrYs4Yw_gqzNmU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mx/dcGTQernQpLejY4a6GIJEBJSzNygOy98AniHRFiYk/en-us-04-47-d82723041434ad4e9b6100592fe54a8bbfe3d235.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/38/uTYVdfPmSE7onS_7SPMm5PSTVXdQvs2DfmLrCM0dI/en-us-04-47.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4R/2PVVoJaPAp23SmETWWqYP2Ftq7MSpK_2PEu-pDtxA/en-us-04-47.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mx/dcGTQernQpLejY4a6GIJEBJSzNygOy98AniHRFiYk/vtt/2/en.vtt",
-            "size": 2691106363
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4R/2PVVoJaPAp23SmETWWqYP2Ftq7MSpK_2PEu-pDtxA/en-us-04-47.mp4"
         },
         {
             "id": "8b6626e468ff4441a17f77114b6a02fc",
@@ -867,16 +723,13 @@
             "title": "The Kecleon Caper",
             "description": "Ash and his friends stop at an air station to get a closer look at the Leviathan 2, a luxury dirigible taking passengers on a flight around the world.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/i2Ym5Gj_REEoX93EUtqAvw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ap/samq-uvOec7b0M0OP4NYjar_9tsNYOXFAW6eD1H8I/en-us-04-48-9531308ac5624e21128f3631fd3f5ee56b3ad9eb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kw/hT3TlCUZSBvVg2OyP6NT3xfHeehOHWmvnskLp_TQg/en-us-04-48.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IM/bCtl9yUZeZcMS4142XY4ABTMFeDy-Onc_0pckIE28/en-us-04-48.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ap/samq-uvOec7b0M0OP4NYjar_9tsNYOXFAW6eD1H8I/vtt/1/en.vtt",
-            "size": 2689900044
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IM/bCtl9yUZeZcMS4142XY4ABTMFeDy-Onc_0pckIE28/en-us-04-48.mp4"
         },
         {
             "id": "5e641cc15f05463f8515dc9645483dcc",
@@ -885,16 +738,13 @@
             "title": "The Joy of Water Pokémon",
             "description": "The Nurse Joy at Lake Lucid's Pokémon Center is famous among Water-type Pokémon Trainers, so Misty is thrilled when our heroes' travels take them to the lake.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XmQcwV8FRj8hRXclkVIPcw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/_GC7Pz0PU3cujy5Hg90eFTu4FpCb_f_XrnsKItSiM/en-us-04-49-94e9bf1b30ba24143641cb9f8306670defadfe86.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8J/ce9Xi29ufWUCY8A7Au862wrAf02HVwDTXyNujR-6k/en-us-04-49.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/ju4wYOEv7xN9xQYQklzwDYRrXVkmUnocajPB2VHTk/en-us-04-49.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ms/_GC7Pz0PU3cujy5Hg90eFTu4FpCb_f_XrnsKItSiM/vtt/1/en.vtt",
-            "size": 2663921161
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/ju4wYOEv7xN9xQYQklzwDYRrXVkmUnocajPB2VHTk/en-us-04-49.mp4"
         },
         {
             "id": "301ec6e2f302474faf26294f762780df",
@@ -903,16 +753,13 @@
             "title": "Got Miltank?",
             "description": "The way to Olivine City and Ash's next Gym challenge lies across a desert of sand and rock. Just as Ash and his friends start to cross it, Team Rocket ambushes them and scoops up Pikachu.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MB7G4vMCR08ryYpT3YngN8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cy/_K9aVq1zOALbrETn5YRskIBwZRXDLQlfYexYQTaz4/en-us-04-50-6b5475daa5cdf81e59c41d270ceee5a6ca28858f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AS/HH5LRslkz-mtxEjPx3DlDTANzskVBvLYnvwgEmYVE/en-us-04-50.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jK/r6McKi-iopJn0M7OJV4uCN2R6EBgZH9zTKZSUNtyY/en-us-04-50.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cy/_K9aVq1zOALbrETn5YRskIBwZRXDLQlfYexYQTaz4/vtt/1/en.vtt",
-            "size": 2572066535
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jK/r6McKi-iopJn0M7OJV4uCN2R6EBgZH9zTKZSUNtyY/en-us-04-50.mp4"
         },
         {
             "id": "731475f57813434da4c8d8a901063ea5",
@@ -921,16 +768,13 @@
             "title": "Fight for the Light",
             "description": "Our heroes reach Olivine City and make a beeline for the Gym, where Gym Leader Jasmine accepts Ash's challenge.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cxR19XgTQ00pMjYqQEGPqU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/mSATm3cKlXzpFF9H8oOW2I3esBmGE0T95BuTnS9KE/en-us-04-51-64328c6bf40d247130ba316f62bb596eaa97d1e1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2T/2ez_t8vRfRwMlcTSqgp0cYdF0q_VAOMWFGFrGNgWI/en-us-04-51.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U0/ftr-WxkPwNYooXJUM0u3yGp9H_bOmiONJnOUoz6xE/en-us-04-51.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/mSATm3cKlXzpFF9H8oOW2I3esBmGE0T95BuTnS9KE/vtt/1/en.vtt",
-            "size": 2663058504
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U0/ftr-WxkPwNYooXJUM0u3yGp9H_bOmiONJnOUoz6xE/en-us-04-51.mp4"
         },
         {
             "id": "e9ba3f073e2f4e8380e4db084eaae7d4",
@@ -939,16 +783,13 @@
             "title": "Machoke, Machoke Man",
             "description": "Ash and his friends are in Cianwood City with Janina, an apprentice at the Olivine Gym.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/6bo_Bz4vToMgOTbCE6q59Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ub/1-4pYBcqpa1ha41_lKxHH1Jo2JhS4NoyTAhvxIDZg/en-us-04-52-1514cb2af2ce651cebaf28cd52cf022302becbb7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5d/70uyeMtkVidWDpmRHbxPUIa0TZmfCngFbvrlzHdqk/en-us-04-52.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cR/JDaRn8Zcqpa2h5pfE3nrufAOkWjTz-YtgFGGVetrk/en-us-04-52.mp4",
             "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ub/1-4pYBcqpa1ha41_lKxHH1Jo2JhS4NoyTAhvxIDZg/vtt/1/en.vtt",
-            "size": 2658895149
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cR/JDaRn8Zcqpa2h5pfE3nrufAOkWjTz-YtgFGGVetrk/en-us-04-52.mp4"
         }
     ]
 }

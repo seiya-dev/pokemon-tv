@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-la-quete-ultime",
+    "channel_id": "season05",
     "channel_name": "Pokémon : La Quête Ultime",
     "channel_description": "Le voyage de Sacha dans la région de Johto s’achève à la Conférence Argentée de la Ligue Johto dans Pokémon : La Quête Ultime, disponible sur TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1125x1500-fr.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season05/season05-1660x940.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 261,
-    "channel_creation_date": 1607098462,
-    "channel_update_date": 1696597698,
+    "order": -5000,
     "media": [
         {
             "id": "a085c12935ff4bdfa81b719fe933ca81",
@@ -21,16 +18,13 @@
             "title": "Autour du tourbillon",
             "description": "Lors d'un affrontement avec la Team Rocket, Sacha et ses amis sont projetés hors du bateau qui les transporte aux Tourb'Îles.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/oIXBKTX_S98qBtxn-kzyoE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kt/PNL7r4am_BrkpvKycYy9IyQUGYaNywxjPqmULa2rY/pokemon_season05_ep01_fre-6125f7cb33e5d8dd6ac2e08eb9f113f420c0785c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kt/PNL7r4am_BrkpvKycYy9IyQUGYaNywxjPqmULa2rY/pokemon_season05_ep01_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kr/jDizY7dCPHZAEUZ-ojBPVbyLEgOOcd0HrtAsE8CHg/pokemon_season05_ep01_fre.mp4",
             "captions": "",
-            "size": 2632419000
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kr/jDizY7dCPHZAEUZ-ojBPVbyLEgOOcd0HrtAsE8CHg/pokemon_season05_ep01_fre.mp4"
         },
         {
             "id": "0c123eb9a4d64810b5ab1d0888840e48",
@@ -39,16 +33,13 @@
             "title": "Jusqu'à la lune",
             "description": "Nos héros découvrent une île sur laquelle les Roucool (protégés depuis longtemps par la réglementation locale et libres de tout prédateur) ont atteint des tailles gigantesques et ont abandonné toute envie de voler.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DBI-uaTWSBAtasdCIiEDkg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L8/qujEB2JeLlvcaHB0l48Gokn_PofRjiZXYNxn3-FHA/pokemon_season05_ep02_fre-a9f03f2b4798fe77d8f5af0de00d30415951d947.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L8/qujEB2JeLlvcaHB0l48Gokn_PofRjiZXYNxn3-FHA/pokemon_season05_ep02_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0f/yimelc5osAT-_IAm19dAdz9U0OCtrlKVvbMNHY0r0/pokemon_season05_ep02_fre.mp4",
             "captions": "",
-            "size": 2516153872
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0f/yimelc5osAT-_IAm19dAdz9U0OCtrlKVvbMNHY0r0/pokemon_season05_ep02_fre.mp4"
         },
         {
             "id": "3c2db0fd969d407e874cb7d54dd8eed1",
@@ -57,16 +48,13 @@
             "title": "La parade",
             "description": "Sur le chemin du Tournoi Tourbillon, Sacha et ses amis ont la chance de pouvoir assister à la migration annuelle des Loupio alors qu'ils traversent un petit village de montagne.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/PC2w_ZadQH4h0y31U3Y7tE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NS/OP58IfKZbXfuJko9WPYAsA3EFUOffHBeqB1gfpWYE/pokemon_season05_ep03_fre-b32bb1425c300928f344d4fb0084afdbe341aa51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NS/OP58IfKZbXfuJko9WPYAsA3EFUOffHBeqB1gfpWYE/pokemon_season05_ep03_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/_6_Ee2EnCUec22UaJAhoTPFIrsnxA5yWJeZ0pWGzY/pokemon_season05_ep03_fre.mp4",
             "captions": "",
-            "size": 2553870034
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/_6_Ee2EnCUec22UaJAhoTPFIrsnxA5yWJeZ0pWGzY/pokemon_season05_ep03_fre.mp4"
         },
         {
             "id": "a57fd33779e4450b965c507a22b17c2a",
@@ -75,16 +63,13 @@
             "title": "La vie en rose",
             "description": "Dès que Sacha et ses amis mettent les pieds sur une nouvelle île, ils entendent des appels à l'aide.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pX_TN3nkRQsllxQeiKxfCo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/QlAdLWB2rwlgOXfRYINg1tKUVYdMY2gR6ZBqokZz4/pokemon_season05_ep04_fre-c0b62e2ae850dcd04cce05ba6fb540530fb6b914.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cZ/QlAdLWB2rwlgOXfRYINg1tKUVYdMY2gR6ZBqokZz4/pokemon_season05_ep04_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KB/p_1U8nYywmeKlEqtTTMNEZ9atqQiD_clz82SN7mVE/pokemon_season05_ep04_fre.mp4",
             "captions": "",
-            "size": 2640994964
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KB/p_1U8nYywmeKlEqtTTMNEZ9atqQiD_clz82SN7mVE/pokemon_season05_ep04_fre.mp4"
         },
         {
             "id": "a1ecec8f9f754fb68f5a7d69c616c4af",
@@ -93,16 +78,13 @@
             "title": "Le mystérieux trésor",
             "description": "Nos héros manquent de peu le ferry pour l'Île de la Pierre Rouge, mais par chance, ils tombent sur une scientifique Pokémon qui fait de la plongée en eaux profondes. Elle leur propose alors de leur faire traverser le détroit à bord de son bateau.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/oezsj591T7Yj1p9acYWxK8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Er/oaQoKR675F2eUql7i5e1faQJEEcp3VFyHx41YvawQ/pokemon_season05_ep05_fre-4eae8d35e885812f9e72e452c05c4c9589c472b5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Er/oaQoKR675F2eUql7i5e1faQJEEcp3VFyHx41YvawQ/pokemon_season05_ep05_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ON/Ee4ILDpJOpuExmvIXGSQ_kQj9WVrKhWP85NwI42xc/pokemon_season05_ep05_fre.mp4",
             "captions": "",
-            "size": 2631816065
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ON/Ee4ILDpJOpuExmvIXGSQ_kQj9WVrKhWP85NwI42xc/pokemon_season05_ep05_fre.mp4"
         },
         {
             "id": "9c9f02dadf7840a8a4fb595ed248fbaa",
@@ -111,16 +93,13 @@
             "title": "Le vilain petit canard",
             "description": "Après avoir atteint la ville où a lieu le tour préliminaire du Tournoi Tourbillon, Sacha et Ondine se lancent dans la compétition et remportent les deux victoires nécessaires pour passer aux phases finales.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nJ8C2t94QKgpPtZXtJI-6o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ft/qHxmb3FmYdpRoLtbuvstmkS87KC6rwJayfVR_Jwhc/pokemon_season05_ep06_fre-de12b4af6454e56237cd17934b6ed7a1a62bed70.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ft/qHxmb3FmYdpRoLtbuvstmkS87KC6rwJayfVR_Jwhc/pokemon_season05_ep06_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/NGWANvAiCrlfijWqtyCWPI18Cwos-zdDlvPv7LMqE/pokemon_season05_ep06_fre.mp4",
             "captions": "",
-            "size": 2606003148
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/NGWANvAiCrlfijWqtyCWPI18Cwos-zdDlvPv7LMqE/pokemon_season05_ep06_fre.mp4"
         },
         {
             "id": "8d2adff9a5e54c619646daa54b62aefc",
@@ -129,16 +108,13 @@
             "title": "Héros de duel",
             "description": "Alors que le tour final du Tournoi Tourbillon commence, Sacha et Ondine doivent chacun affronter des adversaires redoutables.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jSrf-aXlTGElkbapUtirvw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U1/FdLxR-h0C8sFR59fjt670IjfIrEx6DbA0ZlOj6d34/pokemon_season05_ep07_fre-f8a07df9f9c311cf3d3fcba429f5c9606fcdb9ff.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U1/FdLxR-h0C8sFR59fjt670IjfIrEx6DbA0ZlOj6d34/pokemon_season05_ep07_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H4/oSpH_SwfabscSmheJdvbDd2EEYi40mJs6Rpow-TP4/pokemon_season05_ep07_fre.mp4",
             "captions": "",
-            "size": 2522956998
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H4/oSpH_SwfabscSmheJdvbDd2EEYi40mJs6Rpow-TP4/pokemon_season05_ep07_fre.mp4"
         },
         {
             "id": "eaea503ab8a042e7b7736b6c0bec49a9",
@@ -147,16 +123,13 @@
             "title": "Que le meilleur gagne !",
             "description": "Sacha et Ondine sortent tous deux vainqueurs de leurs combats acharnés et doivent s'affronter au tour suivant.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep8_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep8_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6upQOrigQuct3NrbAvsSak/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/EwqPw0-DP02wT6LPNwLhd6h2J3tv5Pe1AA6Lcp7Lg/pokemon_season05_ep08_fre-bb6d25a589e27367d138d02f9fb1a808c24b40f1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Iw/EwqPw0-DP02wT6LPNwLhd6h2J3tv5Pe1AA6Lcp7Lg/pokemon_season05_ep08_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kR/d8OCOHzFWRlZTXvKQeuCbtLY3tFqY1cOkD7nFXcjY/pokemon_season05_ep08_fre.mp4",
             "captions": "",
-            "size": 2650655103
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kR/d8OCOHzFWRlZTXvKQeuCbtLY3tFqY1cOkD7nFXcjY/pokemon_season05_ep08_fre.mp4"
         },
         {
             "id": "3097bbd96d6d4c6ca235cb6a42a96321",
@@ -165,16 +138,13 @@
             "title": "Les cinq mercenaires",
             "description": "Un village peuplé d'aimables personnes âgées prépare un grand repas pour Sacha et ses amis. En retour, ils demandent à nos Dresseurs Pokémon de les aider à défendre leur village contre une bande de voleurs.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep9_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep9_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/MJe72W1tTGwojXLakKpYyE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/py/k-Wyp4W9hkmoRsGTQ80emRd_vNyiQCY8j8XeHSMhg/pokemon_season05_ep09_fre-af6859511dbdb760e2e1ca8a4407f3c583a58e51.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/py/k-Wyp4W9hkmoRsGTQ80emRd_vNyiQCY8j8XeHSMhg/pokemon_season05_ep09_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/Y14gMLGMbKCvNfqh5UuQUL4O3o7w808X6nNvmMmUw/pokemon_season05_ep09_fre.mp4",
             "captions": "",
-            "size": 2618164435
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/Y14gMLGMbKCvNfqh5UuQUL4O3o7w808X6nNvmMmUw/pokemon_season05_ep09_fre.mp4"
         },
         {
             "id": "e1d183e539b0465d9b7a1b005dfbf296",
@@ -183,16 +153,13 @@
             "title": "L'Île de la Pierre d'Argent",
             "description": "Sacha, Ondine et Pierre rencontrent une commerçante locale qui leur présente l'un de ses amis, un bijoutier qui leur raconte la légende de la quatrième îles des Tourb'Îles.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/4dGD5TmwRl0m3obAF378pY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/tbo2x0JZUy6OEY_IN3hVsaGC9ez73PD0ldRURe8wU/pokemon_season05_ep10_fre-fab405236ec303eb6c1b395d52474e0c43cf468e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/tbo2x0JZUy6OEY_IN3hVsaGC9ez73PD0ldRURe8wU/pokemon_season05_ep10_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lA/pSmgy_sUkzk-l02euJDEBPHAxz-VwDH6Wu5L-pbQ0/pokemon_season05_ep10_fre.mp4",
             "captions": "",
-            "size": 2612901170
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lA/pSmgy_sUkzk-l02euJDEBPHAxz-VwDH6Wu5L-pbQ0/pokemon_season05_ep10_fre.mp4"
         },
         {
             "id": "beb3aee19ef040ae8e753d02350e1b6a",
@@ -201,16 +168,13 @@
             "title": "Double jeu",
             "description": "Tandis qu'ils cherchent un mystérieux Pokémon, Sacha, Ondine et Pierre tombent sur leur vieil ami Richie et son Pikachu, Sparky.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vrOu4Z7wQK4jnU9AjUOG2o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/ay41DdCsNjFj_AQv-ue8h47mL4wee8EnPFBF31QTQ/pokemon_season05_ep11_fre-c6d50ec611b22efe1a3804a1d2416f2bf7b78a9b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ka/ay41DdCsNjFj_AQv-ue8h47mL4wee8EnPFBF31QTQ/pokemon_season05_ep11_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gn/WGL3o0KGTEh0YpQUWk8nKNH9fRoy2or-tQqr4meOY/pokemon_season05_ep11_fre.mp4",
             "captions": "",
-            "size": 2558708685
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gn/WGL3o0KGTEh0YpQUWk8nKNH9fRoy2or-tQqr4meOY/pokemon_season05_ep11_fre.mp4"
         },
         {
             "id": "36fd374bb4874857b5420ee4f06d2b28",
@@ -219,16 +183,13 @@
             "title": "Pris au piège",
             "description": "Le petit de Lugia s'est fait kidnapper par Butch et Cassidy. Sacha et ses amis partent à sa rescousse tout en essayant de protéger sa mère.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Nv03S7SHSFctUIO5PBtKyg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lY/Qg8QotBxpuiSg7pbd3qdD5akpGUSkbCOE-AwDVpWE/pokemon_season05_ep12_fre-8291dc7d37ef99bfdbbb4f19866910aad90acbd8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lY/Qg8QotBxpuiSg7pbd3qdD5akpGUSkbCOE-AwDVpWE/pokemon_season05_ep12_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4M/R2dSGpciITYq_WFOrKMe75ze-unHWvkO6-uWWV8cI/pokemon_season05_ep12_fre.mp4",
             "captions": "",
-            "size": 2494763490
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4M/R2dSGpciITYq_WFOrKMe75ze-unHWvkO6-uWWV8cI/pokemon_season05_ep12_fre.mp4"
         },
         {
             "id": "0d8a434d2d1d40b39d571798dce607f5",
@@ -237,16 +198,13 @@
             "title": "Chose promise, chose due",
             "description": "Sacha et ses amis font tout leur possible pour libérer le Lugia capturé par la Team Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DYpDTS0dQLMnVcXmNzmB_U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vu/CIL4yZh5y-s9myUBRqIzlRvvAOx-n1WE7sMm9ZIu0/pokemon_season05_ep13_fre-afdbdbe6d99e6984d5abef8dfa9202d7b1368a29.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vu/CIL4yZh5y-s9myUBRqIzlRvvAOx-n1WE7sMm9ZIu0/pokemon_season05_ep13_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KS/QzgAZY3NzlZJlWWMqiVTShB0LOMAxNSLIwM860Cv4/pokemon_season05_ep13_fre.mp4",
             "captions": "",
-            "size": 2532659110
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KS/QzgAZY3NzlZJlWWMqiVTShB0LOMAxNSLIwM860Cv4/pokemon_season05_ep13_fre.mp4"
         },
         {
             "id": "0a69fe1019634ea5b5611136d14da18b",
@@ -255,16 +213,13 @@
             "title": "Retour à Oliville",
             "description": "Pour se rendre à Oliville, Sacha et ses amis s'embarquent dans un vieux coucou piloté par Alexandre le voltigeur et son fidèle Noarfang. Mais dans le ciel, la tempête fait rage...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Cmn-EBljTqUtWERNtFNoYs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jm/WAf1tnLatnjsaQxDq2Sn8_dvWQZMm2GxDb7JJHU-A/pokemon_season05_ep14_fre-132ff299dc08ac3e96135edcb160f38b5c088be4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jm/WAf1tnLatnjsaQxDq2Sn8_dvWQZMm2GxDb7JJHU-A/pokemon_season05_ep14_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vd/y5rQigWnmwf0GHZAQvfsfN7j6xnETBgaMuT7rBrv8/pokemon_season05_ep14_fre.mp4",
             "captions": "",
-            "size": 2600988899
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vd/y5rQigWnmwf0GHZAQvfsfN7j6xnETBgaMuT7rBrv8/pokemon_season05_ep14_fre.mp4"
         },
         {
             "id": "1e33037c3c0c4fabae2d8d33fed888e4",
@@ -273,16 +228,13 @@
             "title": "Rencontre pour un Badge",
             "description": "À l'Arène d'Oliville, Sacha affronte Jasmine dans l'espoir d'obtenir le Badge Minéral !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HjMDfDwMT6sri2NM_7YiOQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6o/BFxEXmn4VgML8s3QBMbBtMwAWfwwicERuuuXiZH84/pokemon_season05_ep15_fre-5c04fcada570b5d0918fbb4835dda36db928d49f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6o/BFxEXmn4VgML8s3QBMbBtMwAWfwwicERuuuXiZH84/pokemon_season05_ep15_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GG/RoSS-k_NNfy4F6irAcEjFMDknCWrOjc0XqTwSMemI/pokemon_season05_ep15_fre.mp4",
             "captions": "",
-            "size": 2632617652
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GG/RoSS-k_NNfy4F6irAcEjFMDknCWrOjc0XqTwSMemI/pokemon_season05_ep15_fre.mp4"
         },
         {
             "id": "48b1f976b68a4aff9ccfad82bea5c3a4",
@@ -291,16 +243,13 @@
             "title": "Le négociateur",
             "description": "Sacha reçoit une demande surprenante du Professeur Chen : apparemment, les Pokémon n'arrêtent pas de se chamailler dans son laboratoire et il n'arrive pas à les arrêter.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/SLH5draKSv8nM-tgr6lw6Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1D/ftbM7O2VtV0s7HSz41bfbNmhDyY_oxZwIY4wwYDRU/pokemon_season05_ep16_fre-f0c20fa6df000712b8f7008391492de7c0d7f9f6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1D/ftbM7O2VtV0s7HSz41bfbNmhDyY_oxZwIY4wwYDRU/pokemon_season05_ep16_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5O/6hq72z980aXRM8E1IUMczeARNpOrMhFWjZ9g2ZgNQ/pokemon_season05_ep16_fre.mp4",
             "captions": "",
-            "size": 2534199495
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5O/6hq72z980aXRM8E1IUMczeARNpOrMhFWjZ9g2ZgNQ/pokemon_season05_ep16_fre.mp4"
         },
         {
             "id": "dc4c40abf2334885932aa1d07eae6824",
@@ -309,16 +258,13 @@
             "title": "Quatre sur cinq",
             "description": "Nos héros rencontrent une vieille amie, Sakura, et son Pokémon : un Évoli qui a évolué en Mentali.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/3ExAq_IzSIUkyqh0H6uaCQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cx/suJXbR7N04ukk_M33_zyx2Nl5YKLIjFLbK4DIfx7Y/pokemon_season05_ep17_fre-6e8a9ee4fca0fd159ebb9a3ac8eef896c57f0b96.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-p/7bDnkFfFq-bSuaeh20ygY8D53TKP-brQPd90BhMuY/pokemon_season05_ep17_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OF/BlFTIu9JMlhbQ6YSF-r4qXap_wPre0yuSYBaEcn5I/pokemon_season05_ep17_fre.mp4",
             "captions": "",
-            "size": 2470039914
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OF/BlFTIu9JMlhbQ6YSF-r4qXap_wPre0yuSYBaEcn5I/pokemon_season05_ep17_fre.mp4"
         },
         {
             "id": "46322c0537144698a66756b90f738b6e",
@@ -327,16 +273,13 @@
             "title": "Les cloches sacrées !",
             "description": "Alors que Sacha, Ondine et Pierre enquêtent sur de mystérieuses cloches qui se mettent à sonner toutes seules, ils tombent par hasard sur leur vieil ami Mortimer et sur un chercheur Pokémon qu'il connaît.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RjIsBTcURpgpmdWuQ9zi24/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OL/ci6nz70YDnP1xnFGmlRI7XzlLHej9JDSmOAlK0Kyo/pokemon_season05_ep18_fre-ab17bc779c0ac742755a9aedc923e2bec4854084.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OL/ci6nz70YDnP1xnFGmlRI7XzlLHej9JDSmOAlK0Kyo/pokemon_season05_ep18_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7p/e6bU4tu1_dhUIam5AeftE_X5qKb2IXcqFjO-vuuF8/pokemon_season05_ep18_fre.mp4",
             "captions": "",
-            "size": 2611973933
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7p/e6bU4tu1_dhUIam5AeftE_X5qKb2IXcqFjO-vuuF8/pokemon_season05_ep18_fre.mp4"
         },
         {
             "id": "6ccd82f0177744229bccad670e8e132e",
@@ -345,16 +288,13 @@
             "title": "La course de l'extrême",
             "description": "Alors qu'ils se rendent à la ville d'Acajou, Sacha, Ondine et Pierre tombent sur Régis et son Arcanin, qui s'entraînent pour une rencontre.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bM2C8Bd3RCIm8ytZw6OEy4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/30/DtrtZre2IjlQvSRmGKwQZwVuhW9TaKaOh1lOP3o-g/pokemon_season05_ep19_fre-dfda6668e1fe6b258d9c16c21b040feca07a7818.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/30/DtrtZre2IjlQvSRmGKwQZwVuhW9TaKaOh1lOP3o-g/pokemon_season05_ep19_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w7/Lt7rjrGoBtaBjDBiUSdGA4Mlfuuh1qLXqvqbUc_uE/pokemon_season05_ep19_fre.mp4",
             "captions": "",
-            "size": 1804407459
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w7/Lt7rjrGoBtaBjDBiUSdGA4Mlfuuh1qLXqvqbUc_uE/pokemon_season05_ep19_fre.mp4"
         },
         {
             "id": "b2a2a27526e542cf9a9ca215086be36e",
@@ -363,16 +303,13 @@
             "title": "L'inspecteur mène l'enquête",
             "description": "L'œuf prêt à éclore que Sacha a reçu d'un éleveur Pokémon reconnaissant a mystérieusement disparu.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/sqKidSblQs8mpyiFQhr424/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xn/7D51RxT-7wYAcwzEtBfE0ywIXkjWvzEBcqV4McCRM/pokemon_season05_ep20_fre-7caa1673cc5dccd9879ca24523b6e7434b8389fe.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xn/7D51RxT-7wYAcwzEtBfE0ywIXkjWvzEBcqV4McCRM/pokemon_season05_ep20_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/4J91kqoDB-BDjKjxTfwtOSVCI3T0cDJFdsLwEg3zI/pokemon_season05_ep20_fre.mp4",
             "captions": "",
-            "size": 2616455955
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zu/4J91kqoDB-BDjKjxTfwtOSVCI3T0cDJFdsLwEg3zI/pokemon_season05_ep20_fre.mp4"
         },
         {
             "id": "faf4f33c07e9414dbc272e09105509c5",
@@ -381,16 +318,13 @@
             "title": "Une éclosion trompeuse",
             "description": "L'œuf de Sacha a enfin éclos pour donner naissance à un Phanpy, mettant fin à un interminable suspense. L'enthousiasme de Sacha et de ses amis est partagé par Jessie et James de la Team Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-vTzPAfpQU0vCcuCRBVCcU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Am/qFi_rSgx1FRlkWLf4dV5bK4uJlriufWaBJNeEpR6k/pokemon_season05_ep21_fre-b54c03a81dd7504bac53e9f36419d1b93fba0833.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Am/qFi_rSgx1FRlkWLf4dV5bK4uJlriufWaBJNeEpR6k/pokemon_season05_ep21_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VL/lwuwzvKsYMH1hQ-Kq0FmbUEd6RJ8PiUH6Tpwql7Os/pokemon_season05_ep21_fre.mp4",
             "captions": "",
-            "size": 2543111234
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VL/lwuwzvKsYMH1hQ-Kq0FmbUEd6RJ8PiUH6Tpwql7Os/pokemon_season05_ep21_fre.mp4"
         },
         {
             "id": "d9cde4c696c64355bb28a1bf4d6a2a1f",
@@ -399,16 +333,13 @@
             "title": "Les bons comptes font les bons amis",
             "description": "Alors que Jessie, James et Miaouss prennent Sacha et ses amis en filature, ils se plaignent de leurs échecs passés et admettent qu'ils n'ont aucune chance contre ces jeunes Dresseurs et leurs nombreux Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/2c3kxpbGQ1Uuyihv01qKh8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a2/_wrRW2gdpa6Yf5CpWuibSccELHPknIA-bvsdm7NI0/pokemon_season05_ep22_fre-0b131cb2fb5ae09618ce9331d0532cfcb3e3d961.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a2/_wrRW2gdpa6Yf5CpWuibSccELHPknIA-bvsdm7NI0/pokemon_season05_ep22_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ME/vSggoRajSwZ0Dtlo-ukGfAaLCjJ72otEcLcQ0-mpQ/pokemon_season05_ep22_fre.mp4",
             "captions": "",
-            "size": 2654949388
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ME/vSggoRajSwZ0Dtlo-ukGfAaLCjJ72otEcLcQ0-mpQ/pokemon_season05_ep22_fre.mp4"
         },
         {
             "id": "79c225cfbf444710b1db110d24da7fe3",
@@ -417,16 +348,13 @@
             "title": "Un seul être vous manque...",
             "description": "Alors que nos héros franchissent un col de montagne, ils sont victimes d'un caprice de la météo qui les oblige à se réfugier dans une cabane à proximité.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ecIlz79ERxAsdsRDSTaf-M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/my/c2qk-x_hy43ERtWkcIVr79S92IHMVCRSqGSmUGaw4/pokemon_season05_ep23_fre-6f5f31668644d01d009824cba7608b0a37f9509d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/my/c2qk-x_hy43ERtWkcIVr79S92IHMVCRSqGSmUGaw4/pokemon_season05_ep23_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jI/q01XHlwttmMOxAJld5GcQJg6Gq4dkcMzOjUH_BFq4/pokemon_season05_ep23_fre.mp4",
             "captions": "",
-            "size": 2546165477
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jI/q01XHlwttmMOxAJld5GcQJg6Gq4dkcMzOjUH_BFq4/pokemon_season05_ep23_fre.mp4"
         },
         {
             "id": "f719cedbb17c45f2b4ba020bcc7bd852",
@@ -435,16 +363,13 @@
             "title": "Le trouble-fête",
             "description": "Sacha et ses amis croisent un Debugant et sont à deux doigts de tomber dans le piège qu'il leur a tendu pour leur voler toute leur nourriture Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/9xnO27F8RfItLoCC8x72FI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6C/egsBhxNLSp5xKhNV3NGRfiFA6GW3y7g6Z49cf9YPg/pokemon_season05_ep24_fre-5a35b0a348a2f6d49d06960f2f616e8663835d19.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6C/egsBhxNLSp5xKhNV3NGRfiFA6GW3y7g6Z49cf9YPg/pokemon_season05_ep24_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uc/EcKhdEprz5uwdTxZGmZXK1WYU9pUeQP-r-vfbLK8Q/pokemon_season05_ep24_fre.mp4",
             "captions": "",
-            "size": 2633476021
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uc/EcKhdEprz5uwdTxZGmZXK1WYU9pUeQP-r-vfbLK8Q/pokemon_season05_ep24_fre.mp4"
         },
         {
             "id": "4e7810aea6074268a8f26a625710e6b7",
@@ -453,16 +378,13 @@
             "title": "Une terrible prédiction",
             "description": "Sacha et ses amis rencontrent un Xatu, un Pokémon qui est censé pouvoir lire l'avenir.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/TngQrqYHQmgqPJqYlcQ5rc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_0/dJzQBtLYJDawsR96hF2ZsR6i593gG_ojqqX7ZbZ20/pokemon_season05_ep25_fre-3e07897c5d85ee42289920141d2addc9b4c5bc15.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_0/dJzQBtLYJDawsR96hF2ZsR6i593gG_ojqqX7ZbZ20/pokemon_season05_ep25_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ep/sq3FNN-_91FwtY3gfvqFnlRq8YA0lMM_pM6GBoOfc/pokemon_season05_ep25_fre.mp4",
             "captions": "",
-            "size": 2670946165
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ep/sq3FNN-_91FwtY3gfvqFnlRq8YA0lMM_pM6GBoOfc/pokemon_season05_ep25_fre.mp4"
         },
         {
             "id": "6cf02572edb34ab185ae46c0e0f2142a",
@@ -471,16 +393,13 @@
             "title": "Une question d'évolution",
             "description": "Sacha et ses amis découvrent un Léviator rouge et dévoilent sans le savoir les manigances de la Team Rocket, qui cherche à contrôler les secrets de l'évolution Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bPAlcu2zSrEha5GwODyFCo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dA/Ryp840zVgU4zjJdwJ80uUjKMgDyS3bRqxTchDIkqQ/pokemon_season05_ep26_fre-13b184751ebff1d07e670b8819dc6a5ccc6e7028.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dA/Ryp840zVgU4zjJdwJ80uUjKMgDyS3bRqxTchDIkqQ/pokemon_season05_ep26_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6h/b_csqj3IaHkPxvJmR1QLCyRqQwRN7FCFkBAsRhUPs/pokemon_season05_ep26_fre.mp4",
             "captions": "",
-            "size": 2645055640
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6h/b_csqj3IaHkPxvJmR1QLCyRqQwRN7FCFkBAsRhUPs/pokemon_season05_ep26_fre.mp4"
         },
         {
             "id": "6b6222ad53e14c409a53c10c3d857639",
@@ -489,16 +408,13 @@
             "title": "La rage au ventre",
             "description": "Avant de pouvoir déjouer les plans diaboliques de la Team Rocket, qui cherche à contrôler les Pokémon du monde entier, Sacha et ses amis doivent s'échapper de leur prison.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/a2IirVPhTEAmlPBDD2Fdjk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/td/jAKaCcU0prjMhP5nmZMqLIyrnqZ7WQeccdDvXJfms/pokemon_season05_ep27_fre-8558be4198f094a274f82255f19ebcc0a25fd867.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/td/jAKaCcU0prjMhP5nmZMqLIyrnqZ7WQeccdDvXJfms/pokemon_season05_ep27_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UK/DFnQ_4SEfGJcWr6IPisj7_cXetY8pa0md5XS176_A/pokemon_season05_ep27_fre.mp4",
             "captions": "",
-            "size": 2608508297
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UK/DFnQ_4SEfGJcWr6IPisj7_cXetY8pa0md5XS176_A/pokemon_season05_ep27_fre.mp4"
         },
         {
             "id": "13e3aaf22a494ea4a68640e07a161e51",
@@ -507,16 +423,13 @@
             "title": "Fredo cœur de glace",
             "description": "Enfin arrivé à Acajou, Sacha est impatient de remporter son prochain Badge.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/E-Oq8ipJTqQpoZA4HoWHlE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wG/nvFmogWleeFZtCwDaH9owa5kwRRWdsGLR3pIwegoc/pokemon_season05_ep28_fre-45be98daf9aa35b71e03c64f18c9b701fd5b35e8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wG/nvFmogWleeFZtCwDaH9owa5kwRRWdsGLR3pIwegoc/pokemon_season05_ep28_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-z/CgibUnTaRaHpSBMLIrdUzlg5vRcdnsSnkZJ2wKhC0/pokemon_season05_ep28_fre.mp4",
             "captions": "",
-            "size": 2536221490
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-z/CgibUnTaRaHpSBMLIrdUzlg5vRcdnsSnkZJ2wKhC0/pokemon_season05_ep28_fre.mp4"
         },
         {
             "id": "63dc7dbf76db48b69366eaf6e267c687",
@@ -525,16 +438,13 @@
             "title": "Vague de froid",
             "description": "Ayant gagné le respect de Fredo et le droit de le défier dans l'Arène, Sacha décide bizarrement d'utiliser son Héricendre (un Pokémon Feu) pour affronter son adversaire dans combat de type Glace.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Y9x9v3bbSLYk2bq9uJnxoc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wg/sgxxrf8oj8yNaznS9NTqloXvmEneuNu94xJnkM5YY/pokemon_season05_ep29_fre-9062aee674232309abfc70288390cc6457fc1261.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wg/sgxxrf8oj8yNaznS9NTqloXvmEneuNu94xJnkM5YY/pokemon_season05_ep29_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y_/L-coWcyNVa9xBbFMAMI0ogiz24zefF4T7t1fsg-g8/pokemon_season05_ep29_fre.mp4",
             "captions": "",
-            "size": 2592823466
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y_/L-coWcyNVa9xBbFMAMI0ogiz24zefF4T7t1fsg-g8/pokemon_season05_ep29_fre.mp4"
         },
         {
             "id": "04ab87ca9b5948e6bcdec71d96339c84",
@@ -543,16 +453,13 @@
             "title": "Le vent de la discorde",
             "description": "Sans même prendre le temps de savourer sa dernière victoire, Sacha se lance à l'assaut de son prochain objectif : l'Arène d'Ébenelle.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/BKuHyptZSOYvN7HHZYznIQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IT/ynCMUke9cQg4Ca-21za-SfdEzhFmMaZZF1q4AadSs/pokemon_season05_ep30_fre-c03813d029c833eeda933287d1aae270aa6ea578.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IT/ynCMUke9cQg4Ca-21za-SfdEzhFmMaZZF1q4AadSs/pokemon_season05_ep30_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NO/5I5QPeCYjjZfEj-jtrBwJ6FmBYyc4SgJjLJdlZfIM/pokemon_season05_ep30_fre.mp4",
             "captions": "",
-            "size": 2662697517
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NO/5I5QPeCYjjZfEj-jtrBwJ6FmBYyc4SgJjLJdlZfIM/pokemon_season05_ep30_fre.mp4"
         },
         {
             "id": "3bf25eae5e604294956385d8c2ef75bf",
@@ -561,16 +468,13 @@
             "title": "Certains l'aiment chaud !",
             "description": "Sacha, Ondine et Pierre doivent surmonter de nombreux obstacles sur la route du succès, certains de façon métaphorique, et d'autres, de façon concrète. Par exemple, un énorme Volcaropod refuse de laisser passer le moindre voyageur...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/O_Jerl5gQpQlWOF2MLvdb8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/As/cgRvZ8IJXFlCsVtLjjv93eNpk5nq555_Tl0Gkf19g/pokemon_season05_ep31_fre-1de5ee22a6e073d802d0c6af97844b139254906f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/As/cgRvZ8IJXFlCsVtLjjv93eNpk5nq555_Tl0Gkf19g/pokemon_season05_ep31_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ot/XCfoM2pIv8S6Tu4zjod9BiEjLz016-gybgGzNHfq8/pokemon_season05_ep31_fre.mp4",
             "captions": "",
-            "size": 2620324008
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ot/XCfoM2pIv8S6Tu4zjod9BiEjLz016-gybgGzNHfq8/pokemon_season05_ep31_fre.mp4"
         },
         {
             "id": "875f0167142e43448579c523caf8701d",
@@ -579,16 +483,13 @@
             "title": "Hocus Pokémon",
             "description": "Il est rare que Pierre rencontre une femme qu'il ne trouve pas envoûtante. Mais lorsque nos héros tombent sur une jeune femme spéciale, même Sacha et Ondine doivent reconnaître qu'elle a quelque chose de magique.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/h18BZxQuQ0QhXnFI8r4cB0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zb/4XtP1X85cjnIG0q12B5W0TWiZihx5Ql33LdXi5Uis/pokemon_season05_ep32_fre-9921509d56d6539ff338e03677b59b81e3c57579.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zb/4XtP1X85cjnIG0q12B5W0TWiZihx5Ql33LdXi5Uis/pokemon_season05_ep32_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gk/21puICR7X85qmwkgmrdZOgYmOx2oUw7EiCiTYPilw/pokemon_season05_ep32_fre.mp4",
             "captions": "",
-            "size": 2619675427
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gk/21puICR7X85qmwkgmrdZOgYmOx2oUw7EiCiTYPilw/pokemon_season05_ep32_fre.mp4"
         },
         {
             "id": "8f6dc9f68b294366bfe89c34dac7ce79",
@@ -597,16 +498,13 @@
             "title": "Le lac magique",
             "description": "Alors que Pikachu se trouve dans un état de fatigue avancée après une rencontre mouvementée avec la Team Rocket, une jeune passante propose de lui restituer toute son énergie.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/j23J9ospQ2Yv-icNNrHznk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vr/4rGWshkvDtOHwGUyZbd1wdZPa11IsZPl1ry_f_P9s/pokemon_season05_ep33_fre-b3fdaabf4e0649c72629ef41ba24a9305579531d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vr/4rGWshkvDtOHwGUyZbd1wdZPa11IsZPl1ry_f_P9s/pokemon_season05_ep33_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rq/HP7E7uBs5w43IwS3B1dUxykya8tpjapCduCych70w/pokemon_season05_ep33_fre.mp4",
             "captions": "",
-            "size": 2635349514
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rq/HP7E7uBs5w43IwS3B1dUxykya8tpjapCduCych70w/pokemon_season05_ep33_fre.mp4"
         },
         {
             "id": "6a64a3fa18b44cdd969df8dff37fbade",
@@ -615,16 +513,13 @@
             "title": "Pokémon superstar",
             "description": "Au cours de leur périple, Sacha et ses amis rencontrent une jeune star qui, accompagnée de ses deux assistants Toudoudou, anime sa propre émission de variétés musicale à la télé.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/amSj-hi0TN0lp343_N_ut4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lj/rW5lREszOnQT9zq0YqHKxSA81Lo6qJrqDj1mvKUeY/pokemon_season05_ep34_fre-a2e819f8918bf4d155487265387556245ef39f75.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lj/rW5lREszOnQT9zq0YqHKxSA81Lo6qJrqDj1mvKUeY/pokemon_season05_ep34_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/bYGaJyqsJMMP2yQlQq_r4lb6RCeRN3m2wvvT6FQ3w/pokemon_season05_ep34_fre.mp4",
             "captions": "",
-            "size": 2644373070
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/bYGaJyqsJMMP2yQlQq_r4lb6RCeRN3m2wvvT6FQ3w/pokemon_season05_ep34_fre.mp4"
         },
         {
             "id": "52490dbfcd964230b3dc5ce458ae606a",
@@ -633,16 +528,13 @@
             "title": "Éveillez-vous",
             "description": "Alors que le groupe approche du lieu où Sacha compte remporter son huitième Badge, nos amis sont victimes d'un piège inattendu de la Team Rocket.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UkkNv82WQjAs9xc5FiuYGo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s-/KNvNCWqgmOYBpOMjn2SUY_pzY8TxPQxzm81DfXrJs/pokemon_season05_ep35_fre-b54369f4ccba9221a6733b1eeb7ce62b20869e2b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s-/KNvNCWqgmOYBpOMjn2SUY_pzY8TxPQxzm81DfXrJs/pokemon_season05_ep35_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wZ/_RfBUO8fa8dfeR3_hXgb-9C0zONNpTlNhuYAWodg0/pokemon_season05_ep35_fre.mp4",
             "captions": "",
-            "size": 2571914534
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wZ/_RfBUO8fa8dfeR3_hXgb-9C0zONNpTlNhuYAWodg0/pokemon_season05_ep35_fre.mp4"
         },
         {
             "id": "a6a1ad92861f4b049fe33fafe2197aac",
@@ -651,16 +543,13 @@
             "title": "Y a-t-il un Professeur Chen dans l'assistance ?",
             "description": "Jessie et James de la Team Rocket entendent parler d'une réception huppée organisée en l'honneur des célèbres invités d'un présentateur d'une émission radio qui sera enregistrée devant le public. Ils s'empressent alors d'annoncer qu'ils sont les célébrités que tout le monde attend avec impatience.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pqGtkoYfSwQn-M_r-IZeqw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RY/v7PHtSdPbcu8BJOngpgVoPXRZNx4sbOYGvuiV5440/pokemon_season05_ep36_fre-29226ee64f0ad632e8ee4443a28c0a4f5121e448.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RY/v7PHtSdPbcu8BJOngpgVoPXRZNx4sbOYGvuiV5440/pokemon_season05_ep36_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7s/Sj2s-O0ltQbMiEWQuF1Ds63LeZWX6tsqoo2HnrlVo/pokemon_season05_ep36_fre.mp4",
             "captions": "",
-            "size": 2574216412
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7s/Sj2s-O0ltQbMiEWQuF1Ds63LeZWX6tsqoo2HnrlVo/pokemon_season05_ep36_fre.mp4"
         },
         {
             "id": "28b75737591e465bb8cc8a46b71b0816",
@@ -669,16 +558,13 @@
             "title": "Mystère autour d'une étoile filante",
             "description": "Sacha, Ondine et Pierre poursuivent leur voyage, lorsqu'ils remarquent une silhouette étrange tomber du ciel. Ils se précipitent sur les lieux pour mener leur enquête, mais comprennent vite qu'ils ne sont pas les seuls témoins de cet événement.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/KLdXN1keRlsuMyKRrcbCBY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/57/PSnZjwq91zmri5RF6fISx7H82qANPwjelnX0-RYd0/pokemon_season05_ep37_fre-ff787e86edd33435d8fc5c9d495828868d544eeb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/57/PSnZjwq91zmri5RF6fISx7H82qANPwjelnX0-RYd0/pokemon_season05_ep37_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8p/kkxawHFIwlGSyWXesV6u0CXwT81pODvSoIzll_KBg/pokemon_season05_ep37_fre.mp4",
             "captions": "",
-            "size": 2578569484
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8p/kkxawHFIwlGSyWXesV6u0CXwT81pODvSoIzll_KBg/pokemon_season05_ep37_fre.mp4"
         },
         {
             "id": "9acbd6ad75e144dcab19d68dd5c1e368",
@@ -687,16 +573,13 @@
             "title": "Prédictions",
             "description": "Lorsqu'ils rencontrent un fier Dresseur Pokémon qui défie quiconque d'affronter son Tartard, Ondine et Sacha n'hésitent pas une seconde à se jeter dans le feu de l'action.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/msvWrXXhRNwqxnWjdXB42g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BN/UdhMqnps0RkTZAy2r5gX4yXIOSMvXf2b-pPowiTKA/pokemon_season05_ep38_fre-43c87c9132a675a54abf29fb76cf8b8c6c681a7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BN/UdhMqnps0RkTZAy2r5gX4yXIOSMvXf2b-pPowiTKA/pokemon_season05_ep38_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/XbJSCj9TzOuv8jjL82RolMY1JBvKgc2_6ppnniQzM/pokemon_season05_ep38_fre.mp4",
             "captions": "",
-            "size": 2638918673
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/XbJSCj9TzOuv8jjL82RolMY1JBvKgc2_6ppnniQzM/pokemon_season05_ep38_fre.mp4"
         },
         {
             "id": "e98998f41575441394d5d278a64bb878",
@@ -705,16 +588,13 @@
             "title": "Tel est pris qui croyait prendre",
             "description": "S'apercevant que Sacha a soif de duels, une Dresseuse (que notre héros a vaincue) lui suggère en partant de tenter sa chance dans un parc de combats Pokémon local.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6YmY9BV1RBMlNXSeKZLuHg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Um/JuD38N-Wnh01ktXy1MFgta1WrOwKk1WRucAxW3Z3Q/pokemon_season05_ep39_fre-af2cae2ba8ff7196feb2b28f4e2920c3f9344702.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Um/JuD38N-Wnh01ktXy1MFgta1WrOwKk1WRucAxW3Z3Q/pokemon_season05_ep39_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hb/hnR44s24HnvzV1fPcmBOVLKRKkZpik0bBTl5myNAc/pokemon_season05_ep39_fre.mp4",
             "captions": "",
-            "size": 2620524933
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hb/hnR44s24HnvzV1fPcmBOVLKRKkZpik0bBTl5myNAc/pokemon_season05_ep39_fre.mp4"
         },
         {
             "id": "7a3b76c3946d4ab1b5daee3f0db2aa14",
@@ -723,16 +603,13 @@
             "title": "Un Tarpaud peut en cacher un autre",
             "description": "Lorsque Sacha, Ondine et Pierre s'arrêtent pour pique-niquer au bord d'un lac champêtre, Tarpaud s'éloigne. Une autre Dresseuse le confond avec son propre Tarpaud, le meneur de sa troupe de pom-pom Pokémon qui s'est échappé, et l'emmène avec elle.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ejt2w5RtSrEtdruPw2yqhQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gM/dD4MdXxtzOC8By4gOdHi-JwyOUdcscfsqM6mvZwM4/pokemon_season05_ep40_fre-c6b0df7c4f8d884f3b996e31f79e37c9f912c929.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gM/dD4MdXxtzOC8By4gOdHi-JwyOUdcscfsqM6mvZwM4/pokemon_season05_ep40_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q_/YsKGcuJueXcsHu6hq0w1dkeJ9LzHPzA323K_6ooMo/pokemon_season05_ep40_fre.mp4",
             "captions": "",
-            "size": 2611531760
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q_/YsKGcuJueXcsHu6hq0w1dkeJ9LzHPzA323K_6ooMo/pokemon_season05_ep40_fre.mp4"
         },
         {
             "id": "78789017c9324adda5f58db335e3760d",
@@ -741,16 +618,13 @@
             "title": "Un adorable petit Pokémon",
             "description": "Enfin arrivé en banlieue d'Ébenelle, Sacha se met rapidement à la recherche de l'Arène locale, où il espère décrocher son dernier Badge Johto.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/eHiQF8kySt0pfWNszXjdg0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/so/7MovRYO4lzw-K4UNBYzZ89KCzSuz5lrMwNYm0FJ4o/pokemon_season05_ep41_fre-5f5084eccf7354dc6ee79bf2b79aa29b723cbb4f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/so/7MovRYO4lzw-K4UNBYzZ89KCzSuz5lrMwNYm0FJ4o/pokemon_season05_ep41_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dp/hkXod06oCWqMcMJAoZqFu9It3MlvL7ok7wsjsxyaY/pokemon_season05_ep41_fre.mp4",
             "captions": "",
-            "size": 2628417596
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dp/hkXod06oCWqMcMJAoZqFu9It3MlvL7ok7wsjsxyaY/pokemon_season05_ep41_fre.mp4"
         },
         {
             "id": "fe908b6744d84ab6922f9261e700f55a",
@@ -759,16 +633,13 @@
             "title": "La Dent du Dragon",
             "description": "Sacha se lance dans ce qu'il espère être son dernier combat d'Arène à la Ligue Johto, mais la Team Rocket vient lui mettre des bâtons dans les roues en volant la Dent du Dragon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/_pCLZ0TYSrYki-SYecA9Vo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d9/0v0zSkpdDhds2vHogNEOZ5dM3i93HgMLXbkNqnsNE/pokemon_season05_ep42_fre-8ee187da3eacaa11a721dd57c30af8da4e7358d0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d9/0v0zSkpdDhds2vHogNEOZ5dM3i93HgMLXbkNqnsNE/pokemon_season05_ep42_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AI/vd4Iw_MaIML9OzLSQtUbaa6M4jFty1E2Z51709Ojc/pokemon_season05_ep42_fre.mp4",
             "captions": "",
-            "size": 2621432516
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AI/vd4Iw_MaIML9OzLSQtUbaa6M4jFty1E2Z51709Ojc/pokemon_season05_ep42_fre.mp4"
         },
         {
             "id": "745f6acc26ba4456a695cdb4b11ebd47",
@@ -777,16 +648,13 @@
             "title": "Tout feu tout flamme",
             "description": "Immédiatement après avoir pénétré dans le sanctuaire sacré des Pokémon Dragon, la Team Rocket provoque une série de catastrophes qui rendent furieux le gardien Dracolosse protégeant l'endroit.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/dF9qzCa6RFYppXNtLEevUc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/pAYnJVGY8Dr9QN54cwaz3fg21UisIkiPlgWJmWH6Q/pokemon_season05_ep43_fre-555c106a28c3fe3118f9599a803f3f81d6b08009.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/pAYnJVGY8Dr9QN54cwaz3fg21UisIkiPlgWJmWH6Q/pokemon_season05_ep43_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Q/9iCHTyEm6tywDdG7dLMl24o2ScTSWpYHho9CzE5p0/pokemon_season05_ep43_fre.mp4",
             "captions": "",
-            "size": 2642074217
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4Q/9iCHTyEm6tywDdG7dLMl24o2ScTSWpYHho9CzE5p0/pokemon_season05_ep43_fre.mp4"
         },
         {
             "id": "3d7495fd8a5e452c9ff1404c302b7e19",
@@ -795,16 +663,13 @@
             "title": "Le Badge décisif",
             "description": "Maintenant que le calme est revenu à l'Arène d'Ébenelle, Sacha et Claire peuvent reprendre leur combat.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/PXSV_YpeRSwn_FATDArfhk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B1/lMrHDurOpAIwOmpLzZsUJOoKSMcpohYVQ9D4s5T8Q/pokemon_season05_ep44_fre-0a5a57d97cd5250eb623cf9f6b5cce99cd426051.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B1/lMrHDurOpAIwOmpLzZsUJOoKSMcpohYVQ9D4s5T8Q/pokemon_season05_ep44_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pq/xEs4CM46-b8qE_L5maWHRyXPWR4U720kVkJMFXU48/pokemon_season05_ep44_fre.mp4",
             "captions": "",
-            "size": 2563131966
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pq/xEs4CM46-b8qE_L5maWHRyXPWR4U720kVkJMFXU48/pokemon_season05_ep44_fre.mp4"
         },
         {
             "id": "e3d50037a4e24b07b1a1b0d05716d4f6",
@@ -813,16 +678,13 @@
             "title": "Le vol des Badges",
             "description": "Maintenant qu'il a battu Claire et décroché son huitième Badge, Sacha doit se rendre au Tournoi de la Ligue Johto, qui aura lieu au pied du Mont Argenté dans trois mois.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/49UAN6TiSwcsaGw0FcW1PY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/il/ZH6tO5zjzAld95xhGlToqOR8Z8dKzMu9ooigPStwE/pokemon_season05_ep45_fre-e99c7ebacc03cc7eb02a9f72fde2723777069daf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/il/ZH6tO5zjzAld95xhGlToqOR8Z8dKzMu9ooigPStwE/pokemon_season05_ep45_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mQ/X6s0iYKcB_JN27X6EWWaEnnErbXR9oNIwMMKsnikw/pokemon_season05_ep45_fre.mp4",
             "captions": "",
-            "size": 2628557375
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mQ/X6s0iYKcB_JN27X6EWWaEnnErbXR9oNIwMMKsnikw/pokemon_season05_ep45_fre.mp4"
         },
         {
             "id": "708c745c00fc4566b86dbede0aa3cf28",
@@ -831,16 +693,13 @@
             "title": "Combat aquatique",
             "description": "Alors qu'ils reviennent à Bourg Geon, Sacha et ses amis s'arrêtent pour se reposer au bord de l'océan. Ils remarquent alors un panneau annonçant qu'une épreuve de danse synchronisée Pokémon va être organisée.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/cIx0XAD8RWYuG2-3gqjzyg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_8/ejUxrcYpGIFMHx2c8HlPeYoSKF5r-r_nUK3IV3TQY/pokemon_season05_ep46_fre-062281b059c2f3fd5d1c5aa5d0ede2ae45c20a00.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_8/ejUxrcYpGIFMHx2c8HlPeYoSKF5r-r_nUK3IV3TQY/pokemon_season05_ep46_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/scPYScCFzOQBlN8CG26tJKa0Etw1GjpvyKuNNh48I/pokemon_season05_ep46_fre.mp4",
             "captions": "",
-            "size": 2550619458
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JM/scPYScCFzOQBlN8CG26tJKa0Etw1GjpvyKuNNh48I/pokemon_season05_ep46_fre.mp4"
         },
         {
             "id": "9cb2593d590349e6be70da25bcdf30e4",
@@ -849,16 +708,13 @@
             "title": "Retrouvailles",
             "description": "Sacha et ses amis reviennent à Bourg Geon et le Professeur Orme l'envoie chercher un œuf Pokémon dans un laboratoire de Pokémon marins des environs.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nLJZPVkDSeYvnDaJbzfMOQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j3/rSSgCpyneg4puor_raMiD3sdSiOuV8asyrqnJfv0M/pokemon_season05_ep47_fre-76a74f8898b1176eda86f83c62436c5579d7597c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j3/rSSgCpyneg4puor_raMiD3sdSiOuV8asyrqnJfv0M/pokemon_season05_ep47_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ud/1pBV25u12k04vkQuZtaT8tWcRk_BOWcNHZGt5106s/pokemon_season05_ep47_fre.mp4",
             "captions": "",
-            "size": 2592234893
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ud/1pBV25u12k04vkQuZtaT8tWcRk_BOWcNHZGt5106s/pokemon_season05_ep47_fre.mp4"
         },
         {
             "id": "0b9afd064ecb4de986e9c74bfe06b499",
@@ -867,16 +723,13 @@
             "title": "L'éclosion",
             "description": "Sacha et ses amis découvrent enfin la nature de l'œuf Pokémon qu'ils sont allés chercher pour le Professeur Orme : un Embrylex vient d'éclore.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/C5r9Bk7LTekhunHS_4GtJk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CR/QMfyLeQGWU6ohZvccmvAcMw8nfuDqd1N6TVkygU-M/pokemon_season05_ep48_fre-04d8e946d75951cd872a875f3864b182a30f0c34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CR/QMfyLeQGWU6ohZvccmvAcMw8nfuDqd1N6TVkygU-M/pokemon_season05_ep48_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9R/0H9YZbuunEmgHKGeFflWKfh16pgLrbEyxqA-ab144/pokemon_season05_ep48_fre.mp4",
             "captions": "",
-            "size": 2632193843
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9R/0H9YZbuunEmgHKGeFflWKfh16pgLrbEyxqA-ab144/pokemon_season05_ep48_fre.mp4"
         },
         {
             "id": "eb1f809b2c6248d185e190e9db72d27b",
@@ -885,16 +738,13 @@
             "title": "Les sources chaudes",
             "description": "Sacha et ses amis poursuivent leur voyage avec Embrylex, mais il reste méfiant vis-à-vis des autres Pokémon et des humains (et plus particulièrement d'Ondine).",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6x-AmyxiSNEheGQ6dty0ns/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7G/HT2w5rw6gkyErfeDf5ja4gGNc-EjxKlbWFj2R8beU/pokemon_season05_ep49_fre-1bbd422ac15938673469b1efa4500de3be2b3819.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7G/HT2w5rw6gkyErfeDf5ja4gGNc-EjxKlbWFj2R8beU/pokemon_season05_ep49_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kt/dweIPEo1EGDzk9aQMNKeAHfh__b0SO3XImFXIxXws/pokemon_season05_ep49_fre.mp4",
             "captions": "",
-            "size": 2638648583
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kt/dweIPEo1EGDzk9aQMNKeAHfh__b0SO3XImFXIxXws/pokemon_season05_ep49_fre.mp4"
         },
         {
             "id": "ed344a9f359b48b980e7fccf2f4a76de",
@@ -903,16 +753,13 @@
             "title": "Le couronnement d'un roi",
             "description": "Pierre conduit Sacha et Ondine vers un magnifique lac mentionné dans son guide touristique, mais lorsqu'ils arrivent à l'endroit en question, ils ne trouvent qu'un ruisseau asséché autour duquel se trouvent plusieurs Ramoloss assoiffés.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7TRKnzWbSLkgOf8zy9Kdt4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/_mGGBO_zUkx8rmU0ShDGLgVRCqsUbsRgwG0Nge_IQ/pokemon_season05_ep50_fre-b7c1be4b1f4bd2df48002f67cb40d36805459677.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/_mGGBO_zUkx8rmU0ShDGLgVRCqsUbsRgwG0Nge_IQ/pokemon_season05_ep50_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jo/oM5hyk3xY1FAxHh_2FEmUdW5YTLf3ePTqj6Q1m0bY/pokemon_season05_ep50_fre.mp4",
             "captions": "",
-            "size": 2636455104
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jo/oM5hyk3xY1FAxHh_2FEmUdW5YTLf3ePTqj6Q1m0bY/pokemon_season05_ep50_fre.mp4"
         },
         {
             "id": "811575f5bc4a4cd49a45777f4eb9ea20",
@@ -921,16 +768,13 @@
             "title": "Le doux parfum de l'amitié",
             "description": "Un turbulent Élekid se met à harceler Embrylex peu de temps avant que la Team Rocket n'apparaisse et ne capture les deux Pokémon rares dans un filet d'acier extensible.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/gRV19bxKTNQmkV3f0656iA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/22Yndfm6idPwERWDGF05jtBM75ZpU6PijHg7xdpwo/pokemon_season05_ep51_fre-aaaec06e1ba72c486ab41644914e504b725a93fd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W_/22Yndfm6idPwERWDGF05jtBM75ZpU6PijHg7xdpwo/pokemon_season05_ep51_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RR/QtBf3qc_pryQCvyezzGcCirvyYeuh-aOs4lZFDNDU/pokemon_season05_ep51_fre.mp4",
             "captions": "",
-            "size": 2565015360
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RR/QtBf3qc_pryQCvyezzGcCirvyYeuh-aOs4lZFDNDU/pokemon_season05_ep51_fre.mp4"
         },
         {
             "id": "9762b8c7b730475ea45711976228a12c",
@@ -939,16 +783,13 @@
             "title": "Un Embrylex qui a de bons réflexes",
             "description": "Sacha et ses amis font leur rapport au Professeur Orme lorsqu'ils arrivent au pied du Mont Argenté, où ils espèrent ramener leur Embrylex sur son lieu de naissance.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/l2K4x7cwR14pFcRl2IooSw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cQ/zPhfvA59LAF1ivo6FCZc9BOCM54tp6SRjPuN6ug_k/pokemon_season05_ep52_fre-66938bdaead1c2b33eaa9579ba000b68aa96065d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cQ/zPhfvA59LAF1ivo6FCZc9BOCM54tp6SRjPuN6ug_k/pokemon_season05_ep52_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W4/6E7KRYilkOwOSBpKxbnWbJi4loFC5mSzZv7uAnWMA/pokemon_season05_ep52_fre.mp4",
             "captions": "",
-            "size": 2631174514
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W4/6E7KRYilkOwOSBpKxbnWbJi4loFC5mSzZv7uAnWMA/pokemon_season05_ep52_fre.mp4"
         },
         {
             "id": "845998a17bef4db38421fbee07ab413c",
@@ -957,16 +798,13 @@
             "title": "Souvenirs, souvenirs",
             "description": "Une rencontre avec un Zarbi venu d'une autre dimension permet à Sacha et à ses amis d'explorer l'esprit de leur ami Embrylex, et de comprendre pourquoi ce dernier se méfie des humains...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/hFmYoXvvTbMhCH77gerQTw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/dDAQ3AJWNBddcpjhSY421c_H8vMdtNj-yLi3gFBAM/pokemon_season06_ep01_fre-dc11b858cea8d7cfaa1dad0344b7e2174249e479.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/dDAQ3AJWNBddcpjhSY421c_H8vMdtNj-yLi3gFBAM/pokemon_season06_ep01_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZH/6hhbKd7EZv2WOlLqh6SCWx10L7_wmo975GrlS6Tw4/pokemon_season06_ep01_fre.mp4",
             "captions": "",
-            "size": 2536959713
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZH/6hhbKd7EZv2WOlLqh6SCWx10L7_wmo975GrlS6Tw4/pokemon_season06_ep01_fre.mp4"
         },
         {
             "id": "b12f5764d2ca4ff7be03e4109c6a46b5",
@@ -975,16 +813,13 @@
             "title": "Qui vole un oeuf...",
             "description": "Sacha et ses compagnons de route tombent sur des braconniers et un Tyraconif qui pourraient bien être liés au passé de leur ami Embrylex...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/sS9XZNLKT_cvgPkEJxqRrU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q3/_YiiFcbpq89RiHB35flKTclm4qA3xfemZIjKJn2TU/pokemon_season06_ep02_fre-4a00b2522784f5382d8266015e263d5d79aae5db.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q3/_YiiFcbpq89RiHB35flKTclm4qA3xfemZIjKJn2TU/pokemon_season06_ep02_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-_/S1Dg7yUHBgI2vnfa3BnJDFcVeWGtslSfZqu3xMLF0/pokemon_season06_ep02_fre.mp4",
             "captions": "",
-            "size": 2585703256
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-_/S1Dg7yUHBgI2vnfa3BnJDFcVeWGtslSfZqu3xMLF0/pokemon_season06_ep02_fre.mp4"
         },
         {
             "id": "4c845c2916ee4ed989fd428d2007ba9f",
@@ -993,16 +828,13 @@
             "title": "Le gardien de la flamme sacrée",
             "description": "Dans le Temple Ho-Oh brûle la Flamme Sacrée qui doit allumer la flamme de la conférence Argentée, mais un Farfuret sauvage en défend l'accès. Sacha et ses amis pourront-ils le vaincre ?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/TIRcKRbuTtkif1CjSAHup8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9f/Du9Vebi3enGn2t8R_rlxQuLPPVQ8yh_H2dTNvkma0/pokemon_season06_ep03_fre-3cd11ee6b839a516c68f16702492c10b1093dec2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9f/Du9Vebi3enGn2t8R_rlxQuLPPVQ8yh_H2dTNvkma0/pokemon_season06_ep03_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vq/YbL1TfYCrtHfFEhtheUDWcshyNg23ZyuDINj0CaZU/pokemon_season06_ep03_fre.mp4",
             "captions": "",
-            "size": 2597131406
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vq/YbL1TfYCrtHfFEhtheUDWcshyNg23ZyuDINj0CaZU/pokemon_season06_ep03_fre.mp4"
         },
         {
             "id": "9e62dc2ca8a44bfcb50e562e8792bd52",
@@ -1011,16 +843,13 @@
             "title": "La cérémonie d'ouverture",
             "description": "À la conférence Argentée, Sacha et son rival Régis tentent tous deux de se qualifier pour les demi-finales.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nmLcLKikS_wtQ5WLoeSvVI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fF/P8dLMjlvJKpHTLtI5eooUMD7nuo4vEAwmrmUskV48/pokemon_season06_ep04_fre-5b414e314397539f4ef551947906a2029521f417.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fF/P8dLMjlvJKpHTLtI5eooUMD7nuo4vEAwmrmUskV48/pokemon_season06_ep04_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UV/n5kwX8e905JytjRnwdaZ5iptgLWWZNIowoLYSXJoo/pokemon_season06_ep04_fre.mp4",
             "captions": "",
-            "size": 2584641323
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UV/n5kwX8e905JytjRnwdaZ5iptgLWWZNIowoLYSXJoo/pokemon_season06_ep04_fre.mp4"
         },
         {
             "id": "548d12040a6e4439ad8a6f7fb1cac3da",
@@ -1029,16 +858,13 @@
             "title": "Une nouvelle prétendante",
             "description": "Lors des demi-finales de la conférence Argentée, Sacha doif affronter Macy, une pro des Pokémon de type Feu dont le cœur bat pour Sacha...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/VI0SBApuRDkrYpvf7HKw9o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Km/UlmzqaoGtOndOFns6sRjmJEwlHPx9aPjdXOxNG0KM/pokemon_season06_ep05_fre-af25a3f3c219a07f2faea70cb98249bbe656a455.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Km/UlmzqaoGtOndOFns6sRjmJEwlHPx9aPjdXOxNG0KM/pokemon_season06_ep05_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O2/bgtPXc37CQ-xXZqsTZxEn2WuTr3MHvIdfGmILf3r4/pokemon_season06_ep05_fre.mp4",
             "captions": "",
-            "size": 2609118873
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O2/bgtPXc37CQ-xXZqsTZxEn2WuTr3MHvIdfGmILf3r4/pokemon_season06_ep05_fre.mp4"
         },
         {
             "id": "9ebbe3a5b47247f580ba46719c787aa0",
@@ -1047,16 +873,13 @@
             "title": "La lutte des plantes",
             "description": "Alors que débute la Conférence Argentée de la Ligue Johto, Sacha affronte Jackson de Bourg Geon. Sacha a hâte de commencer le match, mais peut-être pas autant que son Bulbizarre.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nrvjpbRyR_UgLpGcZx4eqA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wY/kJlRy7-pX9-KvN41y5dpU75RPs8gOmEBQQJh94A_g/pokemon_season06_ep06_fre-44773da0eba659ce2732d0e410ca057aa37d2719.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wY/kJlRy7-pX9-KvN41y5dpU75RPs8gOmEBQQJh94A_g/pokemon_season06_ep06_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mr/Im1vLKbXpplOCVLcHFpCWlKHoonhMWqWbOqcTrf60/pokemon_season06_ep06_fre.mp4",
             "captions": "",
-            "size": 2639913902
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mr/Im1vLKbXpplOCVLcHFpCWlKHoonhMWqWbOqcTrf60/pokemon_season06_ep06_fre.mp4"
         },
         {
             "id": "5f895f61284b417cba9c93587b37b09a",
@@ -1065,16 +888,13 @@
             "title": "Mon meilleur ennemi",
             "description": "Sacha s'apprête à affronter son éternel rival, Régis, dans le prochain combat de la Conférence Argentée de la Ligue Johto. Et il est prêt à tout pour gagner.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/X4lfYShLQXwupyTWHs3sJo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8a/_LwxG0UP7TDm5nHT0VjZLhxWN5a7GicHK8CGvKkBo/pokemon_season06_ep07_fre-ff162f85abeca43fec3892333538bec12309a79c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8a/_LwxG0UP7TDm5nHT0VjZLhxWN5a7GicHK8CGvKkBo/pokemon_season06_ep07_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oi/vPOmEm4ur4QQCieSOGjtQkauwC0sEjKkR-47CjpTE/pokemon_season06_ep07_fre.mp4",
             "captions": "",
-            "size": 2511913763
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oi/vPOmEm4ur4QQCieSOGjtQkauwC0sEjKkR-47CjpTE/pokemon_season06_ep07_fre.mp4"
         },
         {
             "id": "de124e3fc584467cb2a8b1f59d7f62b1",
@@ -1083,16 +903,13 @@
             "title": "Le match tant attendu",
             "description": "Notre héros participe au premier match de la Conférence Argentée de la Ligue Johto. Son adversaire n'est autre que son éternel rival, Régis.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/3hJOP8WERnwsqix9Z1_YrE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/I83R1nJWcStrlBCO__X2-hzZRihfI_JOfZLBikbX0/pokemon_season06_ep08_fre-a1a419954255c71da578d8e8b4a0a9e6e46448ab.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/I83R1nJWcStrlBCO__X2-hzZRihfI_JOfZLBikbX0/pokemon_season06_ep08_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/he/uT-WOaP1zIwR0A5yTPpg-p3n5vxYcnHGnSdyzElKc/pokemon_season06_ep08_fre.mp4",
             "captions": "",
-            "size": 2630545603
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/he/uT-WOaP1zIwR0A5yTPpg-p3n5vxYcnHGnSdyzElKc/pokemon_season06_ep08_fre.mp4"
         },
         {
             "id": "d08b3bd2c1754ccc9fd043a18e6acf20",
@@ -1101,16 +918,13 @@
             "title": "Un match brûlant",
             "description": "Sacha affronte Harrison de Hoenn lors de la Conférence Argentée de la Ligue Johto. Le combat est très serré, mais Harrison élimine Kaiminus, Ronflex et Noarfang un par un.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0Is70sF1TMwn9BDoY5qzyA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t1/E33If2pfxnj_nOjYoW6lSts26wjgNXEn8nz6Pe87U/pokemon_season06_ep09_fre-3f9598a80bcb8fb57191010a5bb11e51e521e91d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t1/E33If2pfxnj_nOjYoW6lSts26wjgNXEn8nz6Pe87U/pokemon_season06_ep09_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6P/JgvQDfK9oQO-ZZ-KhrFzY7bof6uXRpZepFEtES3d4/pokemon_season06_ep09_fre.mp4",
             "captions": "",
-            "size": 2589665435
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6P/JgvQDfK9oQO-ZZ-KhrFzY7bof6uXRpZepFEtES3d4/pokemon_season06_ep09_fre.mp4"
         },
         {
             "id": "5bb1dc19a5954f06bc9feb27aa5fa941",
@@ -1119,16 +933,13 @@
             "title": "La fin de la Conférence Argentée",
             "description": "Notre héros s'apprête à terminer son dur combat contre Harrison lors de la Conférence Argentée de la Ligue Johto. Le vainqueur de ce duel sera qualifié pour les demi-finales.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/W7HcGaWVTwYvJ_rJ6pfqUE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ow/6Y6KJBvzyiRO0i6NmysFEEQFIdBy08z1iNZPBOjRM/pokemon_season06_ep10_fre-316da5f2504be443de60744c790488fb712c1b06.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ow/6Y6KJBvzyiRO0i6NmysFEEQFIdBy08z1iNZPBOjRM/pokemon_season06_ep10_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2c/FuJEgEIxLd2TfKInU0R7rWnQEOYVa9IEbouignI2w/pokemon_season06_ep10_fre.mp4",
             "captions": "",
-            "size": 2587033279
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2c/FuJEgEIxLd2TfKInU0R7rWnQEOYVa9IEbouignI2w/pokemon_season06_ep10_fre.mp4"
         },
         {
             "id": "0e8be36ed25b400292436fd061d3d4fa",
@@ -1137,16 +948,13 @@
             "title": "Les adieux",
             "description": "Maintenant que la Conférence Argentée de la Ligue Johto est terminée, Sacha, Pierre et Ondine retournent à Jadielle pour se reposer.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/DovjbtJbQAIkkNv0GHT1Po/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QI/ipUAWnfHMhl1bgryINNFayRcFNxQVggl6SUzDbCKE/pokemon_season06_ep11_fre-67af9b8559f490d514010987dd2dcbe07a235447.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QI/ipUAWnfHMhl1bgryINNFayRcFNxQVggl6SUzDbCKE/pokemon_season06_ep11_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v5/_MirI53teEQtWIrJMidPS_vmVbv7oHAZDffn8-5u8/pokemon_season06_ep11_fre.mp4",
             "captions": "",
-            "size": 2590375103
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v5/_MirI53teEQtWIrJMidPS_vmVbv7oHAZDffn8-5u8/pokemon_season06_ep11_fre.mp4"
         },
         {
             "id": "96ac52e0cc4049a88f584d9fedcb4b19",
@@ -1155,16 +963,13 @@
             "title": "En route vers Hoenn !",
             "description": "Sacha a laissé tous ses Pokémon chez lui à Bourg Palette (sauf Pikachu) et a pris le bateau pour se rendre à Bourg-en-Vol dans la région de Hoenn. Malheureusement, la Team Rocket se trouve également à bord.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/lqxS4MxASagj1hNn-3LSxk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3j/UNOeK_jWUl3-LSq7xpsQhcUf0-gTE6bbdZdjEKpdo/pokemon_season06_ep12_fre-40a652702acf1d4cf56d57f25c81bdf191316432.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3j/UNOeK_jWUl3-LSq7xpsQhcUf0-gTE6bbdZdjEKpdo/pokemon_season06_ep12_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BR/YROuvdKEJq0txmxbj1rdr-pXNrf8TdTupZipEwOks/pokemon_season06_ep12_fre.mp4",
             "captions": "",
-            "size": 2552923341
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BR/YROuvdKEJq0txmxbj1rdr-pXNrf8TdTupZipEwOks/pokemon_season06_ep12_fre.mp4"
         }
     ]
 }

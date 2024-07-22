@@ -1,18 +1,15 @@
 {
-    "channel_id": "film-pokemon-khuppa-i-vekovoe-protivostoyanie",
+    "channel_id": "movie18",
     "channel_name": "Фильм Покемон – Хуппа и Вековое Противостояние",
     "channel_description": "",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1125x1500-en.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-en.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-2732x940-en.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/movie18/movie18-1660x940-en.jpg"
     },
+    "category_id": 3,
+    "category": "Movies",
     "media_type": "movie",
-    "order": 3,
-    "channel_creation_date": 1484943941,
-    "channel_update_date": 1631894338,
+    "order": -18000,
     "media": [
         {
             "id": "422b43b1456a4aa790a6aad2c17cbfd1",
@@ -21,16 +18,13 @@
             "title": "Фильм Покемон – Хуппа и Вековое Противостояние",
             "description": "Покемон: Пикачу и Музыкальная Группа Покемонов",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie18/movie18_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie18/movie18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie18/movie18_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/QitDsUVqSqckKaq0sF8v9E/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7R/ceorjtkDABYVFBBQj8IeKb2wb4D_3VBq8RVGCARXU/pokemon_movie18_rus-46c090e4c2c55523b03fe985c9b63ccd380e442f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7R/ceorjtkDABYVFBBQj8IeKb2wb4D_3VBq8RVGCARXU/pokemon_movie18_rus.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VO/MX5tOrK-VogPc4YQrpDCvL20CzNK_RgFw4P8I4EyE/pokemon_movie18_rus.mp4",
             "captions": "",
-            "size": 9876999572
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VO/MX5tOrK-VogPc4YQrpDCvL20CzNK_RgFw4P8I4EyE/pokemon_movie18_rus.mp4"
         }
     ]
 }

@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-reisen-die-serie",
+    "channel_id": "season23",
     "channel_name": "Pokémon Reisen: Die Serie",
     "channel_description": "Die aufregenden Abenteuer von Ash und Pikachu gehen mit neuen Freunden und Pokémon weiter! Schau dir Pokémon Reisen: Die Serie auf Pokémon-TV an!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1125x1500-de.jpg",
-        "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-960x1277.jpg",
-        "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-2048x1152.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1660x940.jpg",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1660x940.jpg"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 70,
-    "channel_creation_date": 1596816037,
-    "channel_update_date": 1642783492,
+    "order": -23000,
     "media": [
         {
             "id": "614adf087df34f32819bc2a630c7d2c4",
@@ -21,16 +18,13 @@
             "title": "Hallo, Pikachu!",
             "description": "Eine Reihe von Ereignissen in der Vergangenheit bereitet den Weg für die Freundschaften und Abenteuer der Gegenwart!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YUrfCH3zTzIgZvCpjDH0sQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oq/g3cjtrNC1v8jhgPIi2fEUkAu1LxJew32YRZPYeGTI/de-de-23-01-3a48760fc98656dc551d4326be6721b932c5ed81.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oq/g3cjtrNC1v8jhgPIi2fEUkAu1LxJew32YRZPYeGTI/de-de-23-01.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bt/3GBwEx_YOPhPXKcs4KJ64J5WU4XA2D-Q8vutRHDCQ/de-de-23-01.mp4",
             "captions": "",
-            "size": 3018807916
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bt/3GBwEx_YOPhPXKcs4KJ64J5WU4XA2D-Q8vutRHDCQ/de-de-23-01.mp4"
         },
         {
             "id": "a671339bebaf41f8bae698c2bfdef0a8",
@@ -39,16 +33,13 @@
             "title": "Legende? Los! Freunde? Los!",
             "description": "Ein Besuch in einem nagelneuen Forschungslabor führt Ash zu einem Gleichgesinnten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/pnEzm-uvQfguuaYwr_e8Kg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i8/4qihveEir_bQLs5Zn4f9WCo0wi92mAV9QrldhaQXo/de-de-23-02-6636cc09a5dbf9b5476419f455a317d1d0479781.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i8/4qihveEir_bQLs5Zn4f9WCo0wi92mAV9QrldhaQXo/de-de-23-02.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wv/d_VY-fFlRDgm867Hg-0bSqXV83_NHtaYMR3Zxj8Lw/de-de-23-02.mp4",
             "captions": "",
-            "size": 2711629280
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wv/d_VY-fFlRDgm867Hg-0bSqXV83_NHtaYMR3Zxj8Lw/de-de-23-02.mp4"
         },
         {
             "id": "674d940a39bc40869951cbfbfd61433f",
@@ -57,16 +48,13 @@
             "title": "Der geheimnisvolle Turm der Bisaknosp!",
             "description": "Ash und Goh gewöhnen sich gerade erst an ihre neuen Rollen als wissenschaftliche Mitarbeiter von Professor Kirsch und sind bereits von Pokémon-Geheimnissen und -Wundern umgeben!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Z02UCjm8QIYmVHL-_1hQz8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ci/19CHk-AVHOKcxtFIdA-WXenOGgMhEF3OIAj0T4VFI/de-de-23-03-11af5d7c6cf0896746e57ec9b40ab01e8dcb4469.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ci/19CHk-AVHOKcxtFIdA-WXenOGgMhEF3OIAj0T4VFI/de-de-23-03.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ay/hpHSd8IUD-kb1YX3SnYG3ADy_o-IrRJDa04BHdXMY/de-de-23-03.mp4",
             "captions": "",
-            "size": 2512023899
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ay/hpHSd8IUD-kb1YX3SnYG3ADy_o-IrRJDa04BHdXMY/de-de-23-03.mp4"
         },
         {
             "id": "24acf35f63404432acd77739c4e5afec",
@@ -75,16 +63,13 @@
             "title": "Hoppla, Hopplo!",
             "description": "Ash und Goh besuchen die Galar-Region und lernen ein kleines Pokémon mit einem großen Herzen kennen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JKzzX2NARDIrNd3OcTlr-w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eN/SF3XqatM0IHlPKwL7wLlxcExCzqSMsrGs2IDsVS-4/de-de-23-04-b30784dbda3dcc5fa40094c29ce7057420652758.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eN/SF3XqatM0IHlPKwL7wLlxcExCzqSMsrGs2IDsVS-4/de-de-23-04.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ql/X-XD7hwNDEy71nuMB1RlKP3WcxIRi-EEWKTTVFsWI/de-de-23-04.mp4",
             "captions": "",
-            "size": 2446898630
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ql/X-XD7hwNDEy71nuMB1RlKP3WcxIRi-EEWKTTVFsWI/de-de-23-04.mp4"
         },
         {
             "id": "74bdc988bd68451783feedd740d353c8",
@@ -93,16 +78,13 @@
             "title": "Unfassbares Dynamax!",
             "description": "Ash und Goh suchen in der Naturzone nach gigantischen Pokémon, und ein kleiner Freund würde sie gern begleiten!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dL3JiL1oRRcg_7t10DTU8g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4s/yt1TUqPgFof4UOuWv1SeCNGPR9MDgcacXI5jjbCPE/de-de-23-05-2153194b6986b58cf4f74129dea71513c71a258a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4s/yt1TUqPgFof4UOuWv1SeCNGPR9MDgcacXI5jjbCPE/de-de-23-05.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZO/oput9F5w7LB8OapD-jOjb6zT7pmmqOmwuy3y_uQ6c/de-de-23-05.mp4",
             "captions": "",
-            "size": 2604463792
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZO/oput9F5w7LB8OapD-jOjb6zT7pmmqOmwuy3y_uQ6c/de-de-23-05.mp4"
         },
         {
             "id": "2aa1c7bd0a0b4d8e82d391de4d087384",
@@ -111,16 +93,13 @@
             "title": "Auf dem Weg zurück zu Mew!",
             "description": "Mit Hopplo an seiner Seite setzt sich Goh ein neues Ziel – eins von jedem Pokémon zu fangen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/KqHHvQoLTY4gtOR3k0Ic4Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zw/ftx16S9SPBUN7jPWbEnFXX0UJ-sKn43Jgwnbwisr0/de-de-23-06-d65c8f32d28b6a4cc4465d3c499626a6bbf5a6ba.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zw/ftx16S9SPBUN7jPWbEnFXX0UJ-sKn43Jgwnbwisr0/de-de-23-06.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sa/5mVw0K4G9rhUfSAJrl3ye-6lwTS0i4SJQ0SBJRGuI/de-de-23-06.mp4",
             "captions": "",
-            "size": 2686445606
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sa/5mVw0K4G9rhUfSAJrl3ye-6lwTS0i4SJQ0SBJRGuI/de-de-23-06.mp4"
         },
         {
             "id": "2520a3d9b5e9460ab02f8632bb63924e",
@@ -129,16 +108,13 @@
             "title": "Abserviert im Flöten-Cup!",
             "description": "Gohs Ziel mag es sein, so viele Pokémon wie möglich zu fangen, aber Ash möchte mal wieder richtig kämpfen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/JSCj2bXpRgosC-GMrtjkk4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/14/M0hpgDcQvkQ22ybFyRgRiWgxsUa4nxZ6JsVZ6BafY/de-de-23-07-ae0961698693481fd25eedacfbec26439a599803.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/14/M0hpgDcQvkQ22ybFyRgRiWgxsUa4nxZ6JsVZ6BafY/de-de-23-07.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H2/uZMQg2TjuAbTQK_2hTI_QYr3TiJTCdIm7rhzM6MhY/de-de-23-07.mp4",
             "captions": "",
-            "size": 2625070600
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H2/uZMQg2TjuAbTQK_2hTI_QYr3TiJTCdIm7rhzM6MhY/de-de-23-07.mp4"
         },
         {
             "id": "732a7ea5994a4739a1d8f3850e04e78e",
@@ -147,16 +123,13 @@
             "title": "Das Sinnoh Eisberg-Rennen!",
             "description": "Ash und Goh verfolgen weiter ihre Ziele und treffen dabei ein außergewöhnlich ehrgeiziges Pokémon mit einem eigenen Ziel!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/cyp-pZlKRzkodjzhQ4E544/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Te/0fGttJh90-Z5WXcBP_R3lbSm9ie9ZWuimqO1NgS8c/de-de-23-08-c8984f4cf0d87402858b530f1ff641a94ebd4d14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Te/0fGttJh90-Z5WXcBP_R3lbSm9ie9ZWuimqO1NgS8c/de-de-23-08.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zA/Wb7bYOi6hFDod_bEWHvp4ttNVCsZ_77FdyjTK6eT4/de-de-23-08.mp4",
             "captions": "",
-            "size": 2593975652
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zA/Wb7bYOi6hFDod_bEWHvp4ttNVCsZ_77FdyjTK6eT4/de-de-23-08.mp4"
         },
         {
             "id": "4d3fba9147bb40e7ade1fd119129e908",
@@ -165,16 +138,13 @@
             "title": "Die Suche nach einer Legende!",
             "description": "Als unsere Helden einem Gerücht nachgehen, wird die Suche nach einem Legendären Pokémon zur obersten Priorität!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TT-6kUe7QOcreH9EZEp6Qg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TC/li3c9p9wygcnxSXgbVpftANhO1EE0FUSagH3VrIFw/de-de-23-09-d1b32ae63156e3489122522c654334eb30444a5b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TC/li3c9p9wygcnxSXgbVpftANhO1EE0FUSagH3VrIFw/de-de-23-09.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NF/LaoG9smlQvFI3fcF4ONHUVuwFN8-xMEUElsIQGSNM/de-de-23-09.mp4",
             "captions": "",
-            "size": 2482905426
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NF/LaoG9smlQvFI3fcF4ONHUVuwFN8-xMEUElsIQGSNM/de-de-23-09.mp4"
         },
         {
             "id": "7f0033e5253d4288bf997008398639ab",
@@ -183,16 +153,13 @@
             "title": "Dragonirs Test im Paradies!",
             "description": "Ash und Goh brechen auf, um eine besondere Insel zu finden, von der in Gerüchten erzählt wird. Was werden sie entdecken?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fwAz5SU9Qogv5lwCDmGOas/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B_/1hs6AsjVAVvPei-3nZxHBGhV8qqw7Cr6H6LZ9adsI/de-de-23-10-6ec1f14620e005d437b7291e7d6fda8b52dbad96.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B_/1hs6AsjVAVvPei-3nZxHBGhV8qqw7Cr6H6LZ9adsI/de-de-23-10.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TS/r_tJ8GCHQLhREf70Ev_anWhcjb79-pZG1vF50MXzk/de-de-23-10.mp4",
             "captions": "",
-            "size": 2595143547
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TS/r_tJ8GCHQLhREf70Ev_anWhcjb79-pZG1vF50MXzk/de-de-23-10.mp4"
         },
         {
             "id": "6d5a5284c1ea484682f743b5b45bdbf5",
@@ -201,16 +168,13 @@
             "title": "Bester Freund, schlimmster Albtraum!",
             "description": "Eine Begegnung mit einem furchterregenden Gegner wird von einem Pokémon gerettet, das selbst alles andere als furchterregend ist!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bVpShMHqSEYgvdDtbRb2_U/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/bWaEcJaDsmaFpKbKVqZ5WWbieWnyFohl4fElxRrY8/de-de-23-11-877256a6a749eb93d0ec8ceea4fa1ee3ea6792a8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D-/bWaEcJaDsmaFpKbKVqZ5WWbieWnyFohl4fElxRrY8/de-de-23-11.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fn/C_fxlq4TRieS5ZljXwHIBT-EsdkfxlUyiNJzPrUMg/de-de-23-11.mp4",
             "captions": "",
-            "size": 2513175810
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fn/C_fxlq4TRieS5ZljXwHIBT-EsdkfxlUyiNJzPrUMg/de-de-23-11.mp4"
         },
         {
             "id": "0ec56ceda9824f5b96bf62fa4b86d055",
@@ -219,16 +183,13 @@
             "title": "Auftritt der Titanen!",
             "description": "Dank Professor Kirsch werden unsere Helden Zeugen des Kampfs ihres Lebens!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/DsVs7amCT1slr9i-kuG0FU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L6/D8XP-zcbqNMnEQ7dxtyniHqXPnM14VSHIZThLynP0/de-de-23-12-949a60769db1faadb859c7a353ecd309a057bb41.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L6/D8XP-zcbqNMnEQ7dxtyniHqXPnM14VSHIZThLynP0/de-de-23-12.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-j/d-sVVT6glZ-HtCPXbIKk-NBUKi8uKifd4T6AQ4vtg/de-de-23-12.mp4",
             "captions": "",
-            "size": 2610753342
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-j/d-sVVT6glZ-HtCPXbIKk-NBUKi8uKifd4T6AQ4vtg/de-de-23-12.mp4"
         },
         {
             "id": "aed8e983ab36497283a92b144ceb024f",
@@ -237,16 +198,13 @@
             "title": "Der Aufstieg zum Allerbesten!",
             "description": "Nachdem Ash Delion in den Krönungs-Weltmeisterschaften kämpfen gesehen hat, weiß er genau, was er zu tun hat!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rtjpg6s2SXIg6krFEzrAk8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aW/IeitxiSvvQBkpx24bpHVg-LfK0NxzN88xGbY1uPNs/de-de-23-13-82e244424c4ae7ac12dbbaf9108dec1e15858cf9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aW/IeitxiSvvQBkpx24bpHVg-LfK0NxzN88xGbY1uPNs/de-de-23-13.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ak/hD3Egl7s8xt_2FN6R6Bks8LDikSB7e5HuuXikGOYA/de-de-23-13.mp4",
             "captions": "",
-            "size": 2587355250
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ak/hD3Egl7s8xt_2FN6R6Bks8LDikSB7e5HuuXikGOYA/de-de-23-13.mp4"
         },
         {
             "id": "6f47e36542f84558b075afa4867b85bc",
@@ -255,16 +213,13 @@
             "title": "Raid-Kampf in den Ruinen!",
             "description": "Die Reise unserer Helden in die Einall-Region nimmt immer neue Wendungen und eine unerwartete Überraschung krönt das Ganze!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/b0fjZUL4RVgsHWvpIZ7hbw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xa/3eIUCv6vMseD7OTXHAOyVIS_6dlLSZftABeXZfawQ/de-de-23-14-608d3f918149e11ef8aff65e6a29b79a5b3be396.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xa/3eIUCv6vMseD7OTXHAOyVIS_6dlLSZftABeXZfawQ/de-de-23-14.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C8/1QXntJQ9tEYgZgtR2TL5QFYNpE5XXOC7K-eAT2iUM/de-de-23-14.mp4",
             "captions": "",
-            "size": 2687371530
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C8/1QXntJQ9tEYgZgtR2TL5QFYNpE5XXOC7K-eAT2iUM/de-de-23-14.mp4"
         },
         {
             "id": "513d130f7d374d21ba798c5026400403",
@@ -273,16 +228,13 @@
             "title": "Die Suche im Schnee!",
             "description": "Schneewetter gibt Goh die Gelegenheit, seine Familie zu besuchen und einen neuen Freund kennenzulernen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UT0TD303TSEunmMUCZABAM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2R/3QOwiMQuTMtvHPBxKz2dMH2RD_UpqKrRiszPUTqYY/de-de-23-15-e524974b1027334a55c23c1e48d9265c17a72e56.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2R/3QOwiMQuTMtvHPBxKz2dMH2RD_UpqKrRiszPUTqYY/de-de-23-15.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vr/wLmhSMlspmcl-osc1_omULLg776Kwkth8TBSqujQg/de-de-23-15.mp4",
             "captions": "",
-            "size": 2646773836
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vr/wLmhSMlspmcl-osc1_omULLg776Kwkth8TBSqujQg/de-de-23-15.mp4"
         },
         {
             "id": "51457d56543143eba40c9b5a7eb283df",
@@ -291,16 +243,13 @@
             "title": "Ein schrecklicher-Fluch!",
             "description": "Was als Fluch für unseren Helden beginnt, wird am Ende zu einer wundervollen Überraschung für alle!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/UUV9VlQxQ-spAybWn6yg98/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vj/b7vsMQzH5bcW1vIA33mFs5brBSx5MFnMa_fxz2Ttg/de-de-23-16-5a29219db118ae884e91db1d5755446a1b460875.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vj/b7vsMQzH5bcW1vIA33mFs5brBSx5MFnMa_fxz2Ttg/de-de-23-16.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rx/atlV1ZBU3QoeWi8ZIkvaYYVHhBNIV7QcI6ki27sfM/de-de-23-16.mp4",
             "captions": "",
-            "size": 2504657924
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rx/atlV1ZBU3QoeWi8ZIkvaYYVHhBNIV7QcI6ki27sfM/de-de-23-16.mp4"
         },
         {
             "id": "3221940183684f8391df1b254d2df8d7",
@@ -309,16 +258,13 @@
             "title": "Der entscheidende Kick!",
             "description": "Goh und Hopplo haben unterschiedliche Vorstellungen über ihr Training – mit unerwarteten Folgen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/MiGUAYNoT4Mkd8bJU0t-Nc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MU/InFly0JQjwowI_YN6PK50nyWFjTa8d6ZpiF2NYnA0/de-de-23-17-ac3a2b3536e13bca0e37e0e890cae11c85f6243d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MU/InFly0JQjwowI_YN6PK50nyWFjTa8d6ZpiF2NYnA0/de-de-23-17.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/GGf_uTYIZ1eDDb59XhhncPNUzn_sIdvkrBAWhE-vk/de-de-23-17.mp4",
             "captions": "",
-            "size": 2583769720
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xQ/GGf_uTYIZ1eDDb59XhhncPNUzn_sIdvkrBAWhE-vk/de-de-23-17.mp4"
         },
         {
             "id": "0eafef7090194baba4d65f46fac3762c",
@@ -327,16 +273,13 @@
             "title": "Endstation Krönung!",
             "description": "Ash macht gerade mal den ersten Schritt auf seinem Weg zu einem Rückkampf gegen Delion, aber schon gleich wird es äußerst spannend!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Dq_vcJAZS6spNZfRvrDdiw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/8uD6ctDrB6JlAUHpWf2mxs4hIl0QeKxoTBV3BnuOo/de-de-23-18-f8a05d7ef86f2ea2afc28edc6607806d31d767d2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8m/8uD6ctDrB6JlAUHpWf2mxs4hIl0QeKxoTBV3BnuOo/de-de-23-18.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UA/-HfCqq3rkA_O5yfwJaLvb_IWPH15WCUR2F0xa1a9I/de-de-23-18.mp4",
             "captions": "",
-            "size": 2585068001
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UA/-HfCqq3rkA_O5yfwJaLvb_IWPH15WCUR2F0xa1a9I/de-de-23-18.mp4"
         },
         {
             "id": "82c1ebd647a04e27a6a8d159e78d7da7",
@@ -345,16 +288,13 @@
             "title": "Imitieren will gelernt sein!",
             "description": "Ein Ditto mit schrecklichem Lampenfieber bekommt Hilfe von unerwarteter Seite!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gsHr1kegTicpqjRWeeNfac/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vc/YLmYkRbupz6ShxJkgSHhAOuPl3smrfCgalDFwlKJM/de-de-23-19-3a27d94825d416e24923ecc8c3bc3628518310ec.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vc/YLmYkRbupz6ShxJkgSHhAOuPl3smrfCgalDFwlKJM/de-de-23-19.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C3/_j1w8YN4wvh-x50bFsWvDJdo2yhWQtqZ3tuPOcVj0/de-de-23-19.mp4",
             "captions": "",
-            "size": 2549471556
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/C3/_j1w8YN4wvh-x50bFsWvDJdo2yhWQtqZ3tuPOcVj0/de-de-23-19.mp4"
         },
         {
             "id": "6d5354418d104580ae00cd8a6df05ef7",
@@ -363,16 +303,13 @@
             "title": "Träume, was du träumen willst!",
             "description": "Professor Kirsch plant ein großes Event und unsere Helden sind der Schlüssel zu seinem Erfolg!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bVNUQY0QRYArgDNim3wXvc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eH/sMg9lvdydSkFDqVUwHAGFRH7yyqXfju288vFbXPcY/de-de-23-20-5262946afbcd53221d69169fe36792aaf0f4886d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eH/sMg9lvdydSkFDqVUwHAGFRH7yyqXfju288vFbXPcY/de-de-23-20.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/he/GOgv03ZhZlzWH5T4UaLELsyMRK_P8OqRu9tocwVwI/de-de-23-20.mp4",
             "captions": "",
-            "size": 2573965493
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/he/GOgv03ZhZlzWH5T4UaLELsyMRK_P8OqRu9tocwVwI/de-de-23-20.mp4"
         },
         {
             "id": "b6bea94a14d04aaca7cdc576e141628f",
@@ -381,16 +318,13 @@
             "title": "Das rätselhafte Ei!",
             "description": "Fasziniert von einem ungewöhnlichen Pokémon-Ei, willigt Ash ein, sich um dieses zu kümmern, was zu noch mehr Aufregung führt!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/tr6pShTQSqwp83FduFBYo8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H-/uSx_o1tQi9XOAClOjC3PG6fucOKdD__l1ZncVSinw/de-de-23-21-00ee310255926fd31590064063e730ccfbd4cf7d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H-/uSx_o1tQi9XOAClOjC3PG6fucOKdD__l1ZncVSinw/de-de-23-21.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dn/dUiLW6-tPWXkhbEU-7xtGMMEMBD92zXGybBuPg2js/de-de-23-21.mp4",
             "captions": "",
-            "size": 2562011024
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dn/dUiLW6-tPWXkhbEU-7xtGMMEMBD92zXGybBuPg2js/de-de-23-21.mp4"
         },
         {
             "id": "fba66f725c124bcbb7f782d211f5ad5f",
@@ -399,16 +333,13 @@
             "title": "Auf Wiedersehen, mein Freund!",
             "description": "Unsere Helden stellen in Wurzelheim Nachforschungen an, und wie gewöhnlich sind die Ergebnisse alles andere als gewöhnlich!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/-6ZvclwSS8st_eC0hH1rV8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vw/w6kGmLUm5P0ekw0zjhVyIFQzLZSu59Q_4icwyXVVo/de-de-23-22-01c6298c212572a6d11be9b0965ae906108d317b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vw/w6kGmLUm5P0ekw0zjhVyIFQzLZSu59Q_4icwyXVVo/de-de-23-22.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Q/OXPMDw7RMKoiszFHk7tdLeBJPsGFqFyVh3Rz4y5RM/de-de-23-22.mp4",
             "captions": "",
-            "size": 2544433860
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Q/OXPMDw7RMKoiszFHk7tdLeBJPsGFqFyVh3Rz4y5RM/de-de-23-22.mp4"
         },
         {
             "id": "e0e87fe01ad24faf985bb4264e0738a9",
@@ -417,16 +348,13 @@
             "title": "Panik im Park!",
             "description": "Obwohl der Kirsch-Park so wunderschön ist, gibt es manchmal auch Ärger im Paradies!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4Oh_4BrST68mFu0Jk4HOKk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ms/Dhimuwc5XththNXZLltXG7LcNG7ES97mHeUmUaQ04/de-de-23-23-15d2793474691cf413c6af645810baff7681d077.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ms/Dhimuwc5XththNXZLltXG7LcNG7ES97mHeUmUaQ04/de-de-23-23.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CF/wkOTFOcYphcyvHjkT7kN-qooosUxYI5EXGtixhbN8/de-de-23-23.mp4",
             "captions": "",
-            "size": 2727566866
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CF/wkOTFOcYphcyvHjkT7kN-qooosUxYI5EXGtixhbN8/de-de-23-23.mp4"
         },
         {
             "id": "8292f827c13144e19e13e7e20fc2d93b",
@@ -435,16 +363,13 @@
             "title": "Zwangsurlaub für Team Rocket!",
             "description": "Ein Tag voller Ruhe und Erholung ist für Team Rocket alles andere als erholsam!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/gpL4J8ExROEnhPn4g_C2Ts/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iv/soYbZEoI1MPxHuo9BzItcazSjsEfX1UkSZJLPWoWA/de-de-23-24-b55dde23a1a9606931fe952301f6f8545b677d31.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iv/soYbZEoI1MPxHuo9BzItcazSjsEfX1UkSZJLPWoWA/de-de-23-24.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uq/Mka04Txn8X__dD3SyzwgFQ5Ls0MlC535delg2lj3M/de-de-23-24.mp4",
             "captions": "",
-            "size": 2605619510
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uq/Mka04Txn8X__dD3SyzwgFQ5Ls0MlC535delg2lj3M/de-de-23-24.mp4"
         },
         {
             "id": "08afee8499c64aaa9b37a121b122ea33",
@@ -453,16 +378,13 @@
             "title": "Ein Wiedersehen beim Festival!",
             "description": "Ash steigt in der Rangliste der Krönungs-Weltmeisterschaften höher und höher und tritt unerwartet gegen eine alte Freundin und beindruckende Gegnerin an!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CK_uhJnGSqomzehIbEi6jM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5B/pDAIzIQjDkVQmkEVzTi_I-HEK5fKdrrTbT-KQHYRc/de-de-23-25-86c3a58320b75197444c2844572a7954e2d0099e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5B/pDAIzIQjDkVQmkEVzTi_I-HEK5fKdrrTbT-KQHYRc/de-de-23-25.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ul/-nb87u6NuniY1T1uiq5cDatCwPxmMZgXSBb9ONh54/de-de-23-25.mp4",
             "captions": "",
-            "size": 2614213327
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ul/-nb87u6NuniY1T1uiq5cDatCwPxmMZgXSBb9ONh54/de-de-23-25.mp4"
         },
         {
             "id": "9939724553214ef39b1f9052c037e7eb",
@@ -471,16 +393,13 @@
             "title": "Spitzenplatscher für die Krone!/Laschokings Krönung!",
             "description": "Einige ungewöhnliche Ereignisse bringen unsere Helden in die Gesellschaft der wildesten Auswahl von Trainern und Pokémon, die man sich vorstellen kann!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/mTlyRVMhTvMmx-QUsA35-s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fn/N15Iq2ADcPvMh7aqYJnKurZVl4QlMlZJkJsxX2ZH8/de-de-23-26-efe9ebd74c8e5fffe2dfe2dcf4c49f50837862f6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fn/N15Iq2ADcPvMh7aqYJnKurZVl4QlMlZJkJsxX2ZH8/de-de-23-26.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fV/cithBawHZz6Md6ExppupYKOBlD7reeDAVD9Wbi57I/de-de-23-26.mp4",
             "captions": "",
-            "size": 2615793018
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fV/cithBawHZz6Md6ExppupYKOBlD7reeDAVD9Wbi57I/de-de-23-26.mp4"
         },
         {
             "id": "87a57c0aef4748d28b863ac0d989312c",
@@ -489,16 +408,13 @@
             "title": "Hart im Nehmen!",
             "description": "Der Besuch eines außergewöhnlichen Arena-Kampfes führt unsere Helden nicht nur zu neuen Abenteuern, sondern auch zu neuen Freunden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h6V8Cu9HSNIi4Y6wNmJMSw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JW/v2tnBzK_y3fXl2rXYIhGnJ7nYmUJECaIuXilPnY8k/de-de-23-27-2818b6f327a573e340f8f702b81b8017e60a1470.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JW/v2tnBzK_y3fXl2rXYIhGnJ7nYmUJECaIuXilPnY8k/de-de-23-27.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Y/yFNMe3gcAqzExJ9b4Fv27ay1lsrCy56X7F9HGu5xk/de-de-23-27.mp4",
             "captions": "",
-            "size": 2647047670
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Y/yFNMe3gcAqzExJ9b4Fv27ay1lsrCy56X7F9HGu5xk/de-de-23-27.mp4"
         },
         {
             "id": "f19a2715ddd14cc085e7afc62eae53df",
@@ -507,16 +423,13 @@
             "title": "Nicht weinen, Memmeon!",
             "description": "Eine zufällige Begegnung mit einem ängstlichen Pokémon weckt Emotionen in jedem!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/8ZonFd3RTMAheevxi6uU98/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EU/X1Mf-HRyGRifMAKdBhVHLIS1tWl0STm_SBfC3pymU/de-de-23-28-e9822032f43a7de2cc1576ac70cdf6bd97079172.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EU/X1Mf-HRyGRifMAKdBhVHLIS1tWl0STm_SBfC3pymU/de-de-23-28.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1v/t7H0hpfnj1lK6-p2FSjvo-haOopwyLAWm_IWJjbLg/de-de-23-28.mp4",
             "captions": "",
-            "size": 2682026794
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1v/t7H0hpfnj1lK6-p2FSjvo-haOopwyLAWm_IWJjbLg/de-de-23-28.mp4"
         },
         {
             "id": "1bcef1ba9fa747bf8cc77afdcd12a29f",
@@ -525,16 +438,13 @@
             "title": "Familienzuwachs!",
             "description": "Chloe und ihre Familie helfen einem verletzten Pokémon, aber seine Genesung hat unerwartete Nebenwirkungen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/G87xup-nR78jMd6_c0Sop8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Q/LXNQDAq9stuOHS231MH53eImyzyi2NI3ln9ij2Fnw/de-de-23-29-09397310efa594a7027cb5390369a417a392217e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-Q/LXNQDAq9stuOHS231MH53eImyzyi2NI3ln9ij2Fnw/de-de-23-29.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mY/Jm38z5n05MTrKWOLpHZ4Glqji-iNsjX96OYjXAHIg/de-de-23-29.mp4",
             "captions": "",
-            "size": 2485650196
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mY/Jm38z5n05MTrKWOLpHZ4Glqji-iNsjX96OYjXAHIg/de-de-23-29.mp4"
         },
         {
             "id": "1c9e263f761248fa987668d352b4cc40",
@@ -543,16 +453,13 @@
             "title": "Betrogen, genervt und beleidigt!",
             "description": "Ash kann an nichts anderes mehr als sein Spezial-Training denken, aber nicht jeder ist glücklich darüber!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/HJ4mP3YSSPomHZo01K0zEA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/En/JYLUEWgjKdvSMt5OY0erE7CUNmBRLnxwntp7oVQsE/de-de-23-30-584f6f3f73db2bd7aafe12349249869817500f73.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/En/JYLUEWgjKdvSMt5OY0erE7CUNmBRLnxwntp7oVQsE/de-de-23-30.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/mxMenRpu8fDOemmmnaOH9RwB7eAVD_xtPfu5UKCfg/de-de-23-30.mp4",
             "captions": "",
-            "size": 2568403282
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i3/mxMenRpu8fDOemmmnaOH9RwB7eAVD_xtPfu5UKCfg/de-de-23-30.mp4"
         },
         {
             "id": "7fa144f6b16a44d9bc6bcde773bbe0ed",
@@ -561,16 +468,13 @@
             "title": "Eine Frage der Niedlichkeit!",
             "description": "Die Freundschaft zwischen Menschen und Pokémon kann wahre Magie erzeugen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/f6FE9rFqRNkvGvN53O74O0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QX/DZL6VUg27lD58pYj9YaWL3n7m17g29vzztl1qRZH0/de-de-23-31-79561acdcf35952255ec777e342f44f597015a34.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_b/LPRSIQVMSBYCF4gT3_9G-YBKHR7_iu6UXmrG44JYQ/de-de-23-31.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hp/vllBpE4khLyJIS_AHYuGRklwdHjaIodP7LV5z-VWM/de-de-23-31.mp4",
             "captions": "",
-            "size": 2602576080
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hp/vllBpE4khLyJIS_AHYuGRklwdHjaIodP7LV5z-VWM/de-de-23-31.mp4"
         },
         {
             "id": "155b47a4fcf64a97ad4643909d8c2829",
@@ -579,16 +483,13 @@
             "title": "Ein ums andere Mal!",
             "description": "Ein Familienurlaub wird für Goh zu einer Reise in die Vergangenheit!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/FVtHpPz2SpcrUZDkJ2MKCk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UY/5DHN9ErqyuRqXY3jLIgBWOXq-txO8MpbMFumSmkLY/de-de-23-32-6d7936a895c0792610684f003a3ed594d395dab8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/1yMJY1ML0bcnjj6xj75o6jRD_VEpwHDY7BR-fMX4M/de-de-23-32.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t-/CmB1p4n8eL4SlRlrDxca_P9JlhjaAy2h8eLnRm5OA/de-de-23-32.mp4",
             "captions": "",
-            "size": 2624449572
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t-/CmB1p4n8eL4SlRlrDxca_P9JlhjaAy2h8eLnRm5OA/de-de-23-32.mp4"
         },
         {
             "id": "6497a1e1e6c1402f84a9851c2c4d0327",
@@ -597,16 +498,13 @@
             "title": "Tauschen kann glücklich machen!",
             "description": "Die Begegnung mit einer leidenschaftlichen Käfer-Pokémon-Trainerin stürzt unsere Helden in ihr ganz persönliches Käfer-Pokémon-Abenteuer!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ZJeh4ebBQC8hKmFHCxNAyc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bM/SU3l-wIUa7L-ENT3MfL8nX64jc_I9V1xibupWTISY/de-de-23-33-19e9e993a0fb88755e3f963402224b58e3b480d6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a3/yQd3zri4VKq0m0unHteqjV66bFuwT133wgzrjYP_Q/de-de-23-33.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/VAsYhthqDqwEjcXSMt5RZv2D1hHOPFNB42PuIcxNI/de-de-23-33.mp4",
             "captions": "",
-            "size": 2669460205
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iI/VAsYhthqDqwEjcXSMt5RZv2D1hHOPFNB42PuIcxNI/de-de-23-33.mp4"
         },
         {
             "id": "6b57f4cd5dcd4027b5bddd8c1427d648",
@@ -615,16 +513,13 @@
             "title": "Stoisch und bedrohlich!",
             "description": "Ein Kampf bei den Krönungs-Weltmeisterschaften gegen die Arenaleiterin Saida stellt Ash vor eine riesige Herausforderung!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/a1f0zV3NQCctb3djBQn1kg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kL/Lfvy4lqSUgHiIpi6QLQJ86uOM-sywQchSMMOrvEQA/de-de-23-34-d65282fbe9993dd56f3d0e2fca0653c72cc40cb2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ya/4-YNRebHVZTrNYCWha3cO0B7nqBW3Ki-BEaJcTvfE/de-de-23-34.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yu/TNSiDzGXOS7OjaS4mvNYRmfqcxGbziqZ2-kUCJuEA/de-de-23-34.mp4",
             "captions": "",
-            "size": 2580571042
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yu/TNSiDzGXOS7OjaS4mvNYRmfqcxGbziqZ2-kUCJuEA/de-de-23-34.mp4"
         },
         {
             "id": "23d0abbeb4414c39ab7f62f35fcc87bd",
@@ -633,16 +528,13 @@
             "title": "Schnapp dir ein… was?!",
             "description": "Gohs Ziel, ein Pokémon von jeder Art zu fangen, führt unsere Helden zu einer elektrisierenden Begegnung!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/I9CrvrRBTDkq39i81_Mh70/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6q/PM2AIfE8PpddURmLqW6_lgrgD_UnUyYcm0CZGT9Ug/de-de-23-35-dcd6e38c854355e8b38922a3926858e2ad0b4d5b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hn/UYgUJ4xryShX-FmXzvRABYp028JlU_IWvsxCbGs7w/de-de-23-35.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SJ/aSi46YjccR5u04LADlwYNtMMIjXpBtdxlLFBBqHCg/de-de-23-35.mp4",
             "captions": "",
-            "size": 2707475940
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SJ/aSi46YjccR5u04LADlwYNtMMIjXpBtdxlLFBBqHCg/de-de-23-35.mp4"
         },
         {
             "id": "7de4399f99784f438c4461ba6348aa9f",
@@ -651,16 +543,13 @@
             "title": "Kämpfe im Sand!",
             "description": "Unsere Helden wollen herausfinden, was sich im Inneren eines tobenden Sandsturms befindet. Dabei kommt es zu vielen Drehungen und Wendungen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/feQ5n5l4T0MjERhumNIqp8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-u/SQwGuGxUzENxEbugCyOjkyTyCV-KDmR-ZlGPEsOmQ/de-de-23-36-62eb7e75d5f9128bd8335b78fb859972e6f55a46.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/4yh1IEnmBjktcTS4APspvyiFSXr80YMaMrw7bIHVM/de-de-23-36.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8M/hos4ksWtXCIZ1bR9RlWjnudvo4RhBmdOg0fhWwKTo/de-de-23-36.mp4",
             "captions": "",
-            "size": 2685824015
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8M/hos4ksWtXCIZ1bR9RlWjnudvo4RhBmdOg0fhWwKTo/de-de-23-36.mp4"
         },
         {
             "id": "86bbfd61d2cc47d384a7f1a10145cd42",
@@ -669,16 +558,13 @@
             "title": "Neue, alte Freunde!",
             "description": "Unsere Helden sind auf dem Weg nach Alola, und die Freunde aus der Pokémon-Schule halten einige Überraschungen für sie bereit!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/hrv9YdLMR9MhKfxoQFFzUI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qK/2Hr5v7JcgUWxnEsK1YLZHkv8t9mNoGiAIYaK5TCDk/de-de-23-37-d5b734ee868b2f47acab548640005f17537e3aac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qK/2Hr5v7JcgUWxnEsK1YLZHkv8t9mNoGiAIYaK5TCDk/de-de-23-37.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GF/o9wijzuiW8ROwAR71bNeq6Ezadr8JyRKX-PassUTA/de-de-23-37.mp4",
             "captions": "",
-            "size": 2576840917
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GF/o9wijzuiW8ROwAR71bNeq6Ezadr8JyRKX-PassUTA/de-de-23-37.mp4"
         },
         {
             "id": "4c1535d6c8124102b7f53488a6db5b88",
@@ -687,16 +573,13 @@
             "title": "Neu belebt ist halb gewonnen!",
             "description": "Ein Besuch im Wissenschaftsmuseum von Marmoria City versetzt unsere Helden in ein uraltes, spannendes Abenteuer!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TBU11sgSQQIt_U0iKbbW4g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sR/XZmR3dZWHqVMCiL_Ssbme_6gkaUS8-I8hYJZ4YW_w/de-de-23-38-cd18234d4a9ebc8affeeb4d2e071dda546e4b54c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sR/XZmR3dZWHqVMCiL_Ssbme_6gkaUS8-I8hYJZ4YW_w/de-de-23-38.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gs/WR7G53IkP_OSdgjvYSSwb6Q9MzdXw508766JNElrM/de-de-23-38.mp4",
             "captions": "",
-            "size": 2689003353
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gs/WR7G53IkP_OSdgjvYSSwb6Q9MzdXw508766JNElrM/de-de-23-38.mp4"
         },
         {
             "id": "3608c1754d44466d9d8e84e35521cd72",
@@ -705,16 +588,13 @@
             "title": "Gesprengte Octoklammer!",
             "description": "Unsere Helden begeben sich in die Johto-Region, damit Ash einen Rückkampf mit Saida bestreiten kann!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/NgjBdU1ERm0nY6E41UhzXI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2W/EMfA4BBYwz9QvGO0MPLhrLqMsgItfwpmR1oQVAYSs/de-de-23-39-8269fbc65ea27e6d47ead4239040dff39572a37e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2W/EMfA4BBYwz9QvGO0MPLhrLqMsgItfwpmR1oQVAYSs/de-de-23-39.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MN/9J62TdBt61yco2JpYBshsze9Ki10k_H2idX2UwS90/de-de-23-39.mp4",
             "captions": "",
-            "size": 2578605728
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MN/9J62TdBt61yco2JpYBshsze9Ki10k_H2idX2UwS90/de-de-23-39.mp4"
         },
         {
             "id": "5bdaa3648e6e4071b23a5ab1123ee705",
@@ -723,16 +603,13 @@
             "title": "Ein knisternder Raid-Kampf!",
             "description": "Unsere Helden sind einem Legendären Pokémon und der Antwort auf ein Rätsel auf der Spur!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/W9qjZI5uQHEsjpasRI-5wU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/84/juUfgMohB3G4BZHgbDeYhZlwC_2r39jOoHBVYV4jI/de-de-23-40-4e1c9c71eee19380af34cac8b292931e9131dce4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/84/juUfgMohB3G4BZHgbDeYhZlwC_2r39jOoHBVYV4jI/de-de-23-40.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t9/RQOixuVJCWnsha2-7F3oh6dRPiFaE0Nf16ZGAcQQU/de-de-23-40.mp4",
             "captions": "",
-            "size": 2639682335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t9/RQOixuVJCWnsha2-7F3oh6dRPiFaE0Nf16ZGAcQQU/de-de-23-40.mp4"
         },
         {
             "id": "09a0038d4ac94b5aac06fcdd7712d802",
@@ -741,16 +618,13 @@
             "title": "Pikachu ergibt Sinn … Bis zum Kinn!",
             "description": "Es ist ein ungewöhnlicher Tag für alle, Helden und Widersacher gleichermaßen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/CaADjUrJS1orAb83XcS2AI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/no/NPGXMIVqmodqmHjPL_uLrGU_nw6HE-Gs3fLM3yvXA/de-de-23-41-18b1ccf813394fdce2fb17b254e49d38223b536a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/no/NPGXMIVqmodqmHjPL_uLrGU_nw6HE-Gs3fLM3yvXA/de-de-23-41.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CL/vJH298nI4s8JNz-sAxJjnxzBVzcEHQ5DUiZK7i0-I/de-de-23-41.mp4",
             "captions": "",
-            "size": 2585542892
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CL/vJH298nI4s8JNz-sAxJjnxzBVzcEHQ5DUiZK7i0-I/de-de-23-41.mp4"
         },
         {
             "id": "9247efff64c04b819f444f7855a721ef",
@@ -759,16 +633,13 @@
             "title": "Schwert und Schild: Schlummerwald!",
             "description": "Dynamax-Pokémon treiben in Galar ihr Unwesen, und unsere Helden sind einer Entdeckung auf der Spur!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kkfv_2TAS4En0RPeFWnIe8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pe/lmhiBzNtn1phBmH9QfFIBlZT1lEqpI7XY0VUCiU2I/de-de-23-42-60a2b933b5e60b13a8e02b1096d9d7f38d322eeb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pe/lmhiBzNtn1phBmH9QfFIBlZT1lEqpI7XY0VUCiU2I/de-de-23-42.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b0/rr9auyqzfM6AZthPQXoOWGTXBtop-7mpiMzOho-lI/de-de-23-42.mp4",
             "captions": "",
-            "size": 2610112637
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b0/rr9auyqzfM6AZthPQXoOWGTXBtop-7mpiMzOho-lI/de-de-23-42.mp4"
         },
         {
             "id": "0331174bbfd147cebcfcd21074167606",
@@ -777,16 +648,13 @@
             "title": "Schwert und Schild: Die Finstre Nacht!",
             "description": "Unsere Helden nähern sich der Krise in Galar aus verschiedenen Blickwinkeln, und sie sind fest dazu entschlossen, Antworten zu finden!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/AzEXS7_RR84vPzSEHQWdgY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/VagyMJGijU8LSZv6J72bc01j03YZftuKXd1u-BtyQ/de-de-23-43-df670bf1ec9f6a77c7aadf5c46513aae37810b43.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dC/VagyMJGijU8LSZv6J72bc01j03YZftuKXd1u-BtyQ/de-de-23-43.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Co/8ivUfHXHJNT9cxsuxqhsbufl-JbdfR13MjlMCNUC0/de-de-23-43.mp4",
             "captions": "",
-            "size": 2524773647
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Co/8ivUfHXHJNT9cxsuxqhsbufl-JbdfR13MjlMCNUC0/de-de-23-43.mp4"
         },
         {
             "id": "1fc99993e7304314b8cf7a6ae22e81e5",
@@ -795,16 +663,13 @@
             "title": "Schwert und Schild: Bringt Endynalos das Ende?!",
             "description": "Die Galar-Region steht vor der möglichen Zerstörung, aber unsere Helden sind entschlossen, dies zu verhindern!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/H8mZk-cwQxQuM96auIugeU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3X/QtW_a-g_qCwOleYRgGLUC3-PBNbIgUUIRJvQPJfmc/de-de-23-44-d0649438b4d471d5836a1ab4c8a6040f40607089.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3X/QtW_a-g_qCwOleYRgGLUC3-PBNbIgUUIRJvQPJfmc/de-de-23-44.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IL/u2cY8p3EeR7NDglzVNI0qfqyN30TfcJQE5U-GBgDk/de-de-23-44.mp4",
             "captions": "",
-            "size": 2596416933
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IL/u2cY8p3EeR7NDglzVNI0qfqyN30TfcJQE5U-GBgDk/de-de-23-44.mp4"
         },
         {
             "id": "db5704b8f27545c29605e9f7b71a0a97",
@@ -813,16 +678,13 @@
             "title": "Schwert und Schild: Die Legenden erwachen!",
             "description": "Unsere Helden stehen vor einer Herausforderung von unvorstellbarem Ausmaß, und das Schicksal von Galar steht auf dem Spiel!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/21cEuPJ1RcIlgXp97caCpc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8-/EFL-LHZ9W-iYisFzIbNi7r_ZRg2wdUGps0Rc8N3vU/de-de-23-45-0486e892f75abbfb4920992e5769393c73b21535.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8-/EFL-LHZ9W-iYisFzIbNi7r_ZRg2wdUGps0Rc8N3vU/de-de-23-45.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yo/9JNbSA2sHGLaMq2fVJbQ3EijAlZRd42WNZjgw5vEI/de-de-23-45.mp4",
             "captions": "",
-            "size": 2715563383
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yo/9JNbSA2sHGLaMq2fVJbQ3EijAlZRd42WNZjgw5vEI/de-de-23-45.mp4"
         },
         {
             "id": "ae3d9f62c8c34149978835b3fab71ac0",
@@ -831,16 +693,13 @@
             "title": "Anders als erwartet!",
             "description": "Als Ash und Goh eine ferne Insel auf der Suche nach Mew erkunden, nehmen ihre Nachforschungen eine unerwartete, beeindruckende Wendung!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/rj2fYsjDQUkl4g1s_q3GsA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TJ/Vkz5JfK6MfR_UMv6oAtZjDDpgCHkWB4-4wl-Owt7Y/de-de-23-46-3e405bb1c2b48c1e5c32652f3bd9272327d71658.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O6/065PyI23QCrZpaXTz7dpQZasFx8E4eW_Cfo5ENlR4/de-de-23-46.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ae/Op8Qft4JWPBJICOPI-d9Ns2Wxvw0OE1ZC3TvuJURo/de-de-23-46.mp4",
             "captions": "",
-            "size": 2712209977
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ae/Op8Qft4JWPBJICOPI-d9Ns2Wxvw0OE1ZC3TvuJURo/de-de-23-46.mp4"
         },
         {
             "id": "7a4effe2a1934772ba1e3212adfdff3a",
@@ -849,16 +708,13 @@
             "title": "Viel Spaß mit dem Vielfraß!",
             "description": "In Orania City findet ein großer Wettbewerb statt, bei dem sowohl Helden als auch Schurken zuschlagen, um ihn zu gewinnen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ek7_4qGTR3Iuh4yEq39_zo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uU/9dxkwfpG_RwXfgGEmpYqCpSlD9UAeIvJh9iVBoqnk/de-de-23-47-2ac61fd6705e9c597486474900fd322901c9b293.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uU/9dxkwfpG_RwXfgGEmpYqCpSlD9UAeIvJh9iVBoqnk/de-de-23-47.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/un/50GHApPiTCG9ZIAPjq4MD4S9nGv9N6KmQgCErwZmI/de-de-23-47.mp4",
             "captions": "",
-            "size": 2608277158
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/un/50GHApPiTCG9ZIAPjq4MD4S9nGv9N6KmQgCErwZmI/de-de-23-47.mp4"
         },
         {
             "id": "db144a9e24de47faafa4d69330e77425",
@@ -867,16 +723,13 @@
             "title": "Eine knappe Sache … quasi!",
             "description": "Während Ash und Goh ihre Futtertour in Einall genießen, verbinden sich zwei ihrer Pokémon auf eine Weise, die sie sich nie hätten träumen lassen!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/2xRKniTeR_or6TWkzDndCU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oX/5Mskc44P4hPzAaBPaDMNbvxcNBJsoz5u_l5XGOiyw/de-de-23-48-4190cf81cbf3432665c63368517742a3f17891a2.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oX/5Mskc44P4hPzAaBPaDMNbvxcNBJsoz5u_l5XGOiyw/de-de-23-48.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/pv6vZ-gV3I6XMbYeCJyk8ipO9UlPSFCCMjMN1APiY/de-de-23-48.mp4",
             "captions": "",
-            "size": 2626241990
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/pv6vZ-gV3I6XMbYeCJyk8ipO9UlPSFCCMjMN1APiY/de-de-23-48.mp4"
         }
     ]
 }

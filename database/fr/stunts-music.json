@@ -1,17 +1,15 @@
 {
-    "channel_id": "pokemon-en-musique",
+    "channel_id": "music",
     "channel_name": "Pokémon en musique",
     "channel_description": "Préparez-vous à danser avec des épisodes musicaux classiques de Pokémon, la série sur TV Pokémon !",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-1125x1500-fr.png",
-        "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-960x1277.png",
-        "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-2048x1152.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-2732x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-2048x1152.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1614354194,
-    "channel_update_date": 1614354180,
+    "order": -1614354194,
     "media": [
         {
             "id": "37d042c9c40b4e8aa9c7ebf3a8b0816a",
@@ -20,16 +18,13 @@
             "title": "Une jolie berceuse",
             "description": "Nos héros avancent péniblement dans le désert et doivent se résigner à camper alors que le soleil se couche lentement à l'horizon. Soudain, ils aperçoivent des lumières brillantes devant eux : une ville étincelante de néons est apparue sous leurs yeux ébahis.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/N9BCycQLTooqcfr86iwgWo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xk/Ol3Z5xtNSUEjn0YsCAUvTlhonnex3RlGtRYyxOQZM/pok_tv_s0142_2398-master-fr-0b6fced8d8202f1345d5b3cc41e679a29f4bd17f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xk/Ol3Z5xtNSUEjn0YsCAUvTlhonnex3RlGtRYyxOQZM/pok_tv_s0142_2398-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Og/zjVEhMxSOlfZ7Rfnt0qXGc7lYFxwZ6FvF5Y7MtdKo/pok_tv_s0142_2398-master-fr.mp4",
             "captions": "",
-            "size": 2800111460
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Og/zjVEhMxSOlfZ7Rfnt0qXGc7lYFxwZ6FvF5Y7MtdKo/pok_tv_s0142_2398-master-fr.mp4"
         },
         {
             "id": "6a64a3fa18b44cdd969df8dff37fbade",
@@ -38,16 +33,13 @@
             "title": "Pokémon superstar",
             "description": "Au cours de leur périple, Sacha et ses amis rencontrent une jeune star qui, accompagnée de ses deux assistants Toudoudou, anime sa propre émission de variétés musicale à la télé.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/amSj-hi0TN0lp343_N_ut4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lj/rW5lREszOnQT9zq0YqHKxSA81Lo6qJrqDj1mvKUeY/pokemon_season05_ep34_fre-a2e819f8918bf4d155487265387556245ef39f75.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lj/rW5lREszOnQT9zq0YqHKxSA81Lo6qJrqDj1mvKUeY/pokemon_season05_ep34_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/bYGaJyqsJMMP2yQlQq_r4lb6RCeRN3m2wvvT6FQ3w/pokemon_season05_ep34_fre.mp4",
             "captions": "",
-            "size": 2644373070
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/bYGaJyqsJMMP2yQlQq_r4lb6RCeRN3m2wvvT6FQ3w/pokemon_season05_ep34_fre.mp4"
         },
         {
             "id": "09ef54977e6b4b0e9ef413fc55e1248d",
@@ -56,16 +48,13 @@
             "title": "La Maison des pièges",
             "description": "Après avoir atteint Lavandia, Sacha et ses compagnons aperçoivent un panneau annonçant que quiconque réussira à traverser la Maison des pièges gagnera un approvisionnement de Pokéblocs pour un an. Sacha et ses amis décident alors de tenter leur chance.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ce9Ul35rSw4nvQT_FXhJI0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SN/3c64yVq4etzdG-h52hqK-p_AeB27hx7-6ID6879K8/pokemon_season06_ep51_fre-256e514d27036c8a2d6145f0f7ac79b5bd9ae840.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SN/3c64yVq4etzdG-h52hqK-p_AeB27hx7-6ID6879K8/pokemon_season06_ep51_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ej/z0JETM1DQJu0AJuZ-5Qtk7IHzd50WTpkeOAjwakog/pokemon_season06_ep51_fre.mp4",
             "captions": "",
-            "size": 2588808343
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ej/z0JETM1DQJu0AJuZ-5Qtk7IHzd50WTpkeOAjwakog/pokemon_season06_ep51_fre.mp4"
         },
         {
             "id": "91a670f6223448aab912f150a6d84150",
@@ -74,16 +63,13 @@
             "title": "Le spectacle des Maracachi !",
             "description": "En chemin vers Port Yoneuve, nos héros rencontrent un entreprenant jeune homme qui a un grand rêve et trois amis dévoués !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kaZw9iI0SKouRLxUKbYQVA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JQ/1ZDUNvzLRWLNRYwi-G7uyUXC8HGpHm2QPJYM_YXPk/pok_tv_s1505_2997-master-fr-1799f99fe5b67a442e33604e28e094146d49b894.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gr/eoyaz_q3EGeEgJ3vPqlFOVdHWEybQPCs5ncDQxHjE/pok_tv_s1505_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/zOYWoO_NalPlWiTEweBC1UbJkBqTwKPCA2GiNFeKQ/pok_tv_s1505_2997-master-fr.mp4",
             "captions": "",
-            "size": 3275685368
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/it/zOYWoO_NalPlWiTEweBC1UbJkBqTwKPCA2GiNFeKQ/pok_tv_s1505_2997-master-fr.mp4"
         },
         {
             "id": "3ac0508b001948d2a4de93d279acd068",
@@ -92,16 +78,13 @@
             "title": "Un combat d’Arène rock and roll ! (1ère partie)",
             "description": "Sacha va tenter de remporter son huitième Badge d’Arène, mais le combat s'avère être une véritable épreuve musicale empoisonnée !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/OsBQiwAZSNIpN6T0nms0Gg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EN/plkcebMi8bJBmP_eOA2cF4o4Yqref2LMV7X72LjXQ/pok_tv_s1535_2997-master-fr-8dfe40bce10e69bc42821557dd7aa4b8e05d0f1e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bz/Z3EwKXe6dcODI85y9jGD5KahNVSbBCDovpEoLuvDg/pok_tv_s1535_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cr/ZIKF4xU1BU3oycEWpdSB3_bQIW1WGDMdzjQPf4Fds/pok_tv_s1535_2997-master-fr.mp4",
             "captions": "",
-            "size": 3303784059
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cr/ZIKF4xU1BU3oycEWpdSB3_bQIW1WGDMdzjQPf4Fds/pok_tv_s1535_2997-master-fr.mp4"
         },
         {
             "id": "2332579f545447cab6dbdf188e32dbed",
@@ -110,16 +93,13 @@
             "title": "Un combat d’Arène rock and roll ! (2e partie)",
             "description": "Dans l'atmosphère explosive de l'Arène, sous les acclamations des spectateurs, Sacha va tenter de remporter son huitième Badge d'Arène de la région d'Unys !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/IzJXn1RUR8ottvfGI4y2-0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cg/YOcTwpbog0PIWyNWqxyVYk-u004SkSGhxD2MG7f4k/pok_tv_s1536_2997-master-fr-5a20a0885cb6b4f0b260c252d58e95b803b16f21.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iT/bL22EEnf4N5MBCF_bEGdABm2E8JELfPu4LP33zotQ/pok_tv_s1536_2997-master-fr.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ce/DUZ2uL5gXaW-i3IBVrsCWCPq63PJU6NS09YJ0k3tg/pok_tv_s1536_2997-master-fr.mp4",
             "captions": "",
-            "size": 3302550203
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ce/DUZ2uL5gXaW-i3IBVrsCWCPq63PJU6NS09YJ0k3tg/pok_tv_s1536_2997-master-fr.mp4"
         },
         {
             "id": "740dc3c8cba04325a1bb79cb3e0e3b60",
@@ -128,16 +108,13 @@
             "title": "En route pour l'épreuve des élues !",
             "description": "Serena va participer à son prochain Salon Pokémon, et c'est sa troisième Clé de la Princesse qui est en jeu !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/dA3DyMugQyUobt5yz4OO2A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ru/q0Ek-hyVRo7gOIAUc9Yc5M0jEgx-HQS0DAs0AaLzc/pok_tv_s1916_2997-master-fr-sdt-v2-h264-7eee335bc28dd092fcf93b76e6791d35ccdfc7d3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0J/EJdKCz_rctQOkyzetv6VZk6p5mOXEvZfS6Y-2ie7M/pok_tv_s1916_2997-master-fr-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fi/VLW0YGv70LJU_QlBsIK0JOUaLbcAZ18_nTE8iVHWw/pok_tv_s1916_2997-master-fr-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3301075011
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fi/VLW0YGv70LJU_QlBsIK0JOUaLbcAZ18_nTE8iVHWw/pok_tv_s1916_2997-master-fr-sdt-v2-h264.mp4"
         },
         {
             "id": "50a0bbbe19bf4868a4a1f5ded86fc811",
@@ -146,16 +123,13 @@
             "title": "Le groupe se reforme !",
             "description": "Un groupe musical majeur de la région d'Alola est sur le point de se séparer…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep23_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep23_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UKC7vhm_SGgpKH13thvyBE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_W/owGUgfWzTwvo0zQjZYqbTKSMDAmcEOhiC_gacjauw/pokemon_season20_ep23_fre-cfaca9570ab80a46cb308d5050be442c33d51c7c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_W/owGUgfWzTwvo0zQjZYqbTKSMDAmcEOhiC_gacjauw/pokemon_season20_ep23_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dV/A0sofh74GRFsl-EdcbDtWKrrxPmFkSn4sOhs5z3cA/pokemon_season20_ep23_fre.mp4",
             "captions": "",
-            "size": 2631608100
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dV/A0sofh74GRFsl-EdcbDtWKrrxPmFkSn4sOhs5z3cA/pokemon_season20_ep23_fre.mp4"
         },
         {
             "id": "5d6ad8694e3541f7bc93343302d44eeb",
@@ -164,16 +138,13 @@
             "title": "Une évolution dansante !",
             "description": "Un projet étonnant du Professeur Euphorbe va faire danser de joie ses élèves !",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep38_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep38_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/XWrYaU41QfcvJM0MwLUTus/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cF/4DsYjaXkmWqETkl8CNZ2yXQSD-0AmFFEvrCaVsSrg/pokemon_season21_ep38_fre-f580dcc124bc5dd2577f7476bd8dd2272c81c468.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cF/4DsYjaXkmWqETkl8CNZ2yXQSD-0AmFFEvrCaVsSrg/pokemon_season21_ep38_fre.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_8/FhIJB4C3Cz2P3YapAhZz6eY_WaONT4dHIDIavzqmQ/pokemon_season21_ep38_fre.mp4",
             "captions": "",
-            "size": 2804271520
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_8/FhIJB4C3Cz2P3YapAhZz6eY_WaONT4dHIDIavzqmQ/pokemon_season21_ep38_fre.mp4"
         }
     ]
 }

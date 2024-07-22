@@ -1,18 +1,15 @@
 {
-    "channel_id": "serie-viajes-definitivos-pokemon",
+    "channel_id": "season25",
     "channel_name": "Serie Viajes Definitivos Pokémon",
     "channel_description": "Ash, Goh y Chloe persiguen sus sueños y continúan con sus aventuras Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-es.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-es.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season25/season25-1660x940-es.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 1,
-    "channel_creation_date": 1691153957,
-    "channel_update_date": 1691153954,
+    "order": -25000,
     "media": [
         {
             "id": "87c604bebd58430cbd0723518e184fea",
@@ -21,16 +18,13 @@
             "title": "¡El expreso espectral!",
             "description": "¡En su viaje a Stow-on-Side, nuestros héroes abordan un misterioso tren lleno de aterradoras sorpresas!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/h8YEvr1YQwwvQcjUY4YT-o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yh/3kH4yYdlgJ-yzL7aQCr4V-G9OpV_csfjopVlSTtlk/es-xl-25-01-41eb4d65f794d613aa67ea9be04e923168638a4c.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D7/_v9xsG_4Gi3znfocnl5TZW4sFn8RrthP0ZuE9vs9E/es-xl-25-01.mp4",
             "captions": "",
-            "size": 2716127049
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D7/_v9xsG_4Gi3znfocnl5TZW4sFn8RrthP0ZuE9vs9E/es-xl-25-01.mp4"
         },
         {
             "id": "5ff28c4e28764c90bcfb90a05c3d9b69",
@@ -39,16 +33,13 @@
             "title": "¡El turbulento camino a la grandeza!",
             "description": "¡Gengar quiere gigamaxizarse y nuestros héroes están determinados a ayudarlo a lograrlo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep02_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/X_KMTih2TJAvPuQoFw9m2k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WT/AfPelqM-HN0SBuTEL_qutMXe4rKSp_P9k7UAUfMaY/es-xl-25-02-fb8369d0642d8f2c5bcedd9153512dff5bf82fe2.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XF/_l82sh8jc0mWQIN7CeUT7CzloN6CwoOTxN91Dz6jc/es-xl-25-02.mp4",
             "captions": "",
-            "size": 2711864418
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XF/_l82sh8jc0mWQIN7CeUT7CzloN6CwoOTxN91Dz6jc/es-xl-25-02.mp4"
         },
         {
             "id": "de5df00edcc64b56a47a248205923851",
@@ -57,16 +48,13 @@
             "title": "¡Todo está en el nombre!",
             "description": "¿Puede el vínculo entre un Entrenador y un Pokémon detener un inminente desastre?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep03_ss03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3l3wDtzGS1YpHokggWSOFE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kp/MJAwEIGeE6YbRqBGYbVlSnlYc8lJKcQCYBROvnR0c/es-xl-25-03-72f7c2a428c1986bff6b60ab324f8b54c141cc27.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tm/nd8R4bzRNXMMqErnJ2eDfjj5EX5_eNWTgTABkew4o/es-xl-25-03.mp4",
             "captions": "",
-            "size": 2710434562
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tm/nd8R4bzRNXMMqErnJ2eDfjj5EX5_eNWTgTABkew4o/es-xl-25-03.mp4"
         },
         {
             "id": "69df4b3aef3b49f1af9846e23302018c",
@@ -75,16 +63,13 @@
             "title": "¡Amor a primer flechazo!",
             "description": "Un pasatiempo creativo y artístico detona numerosas batallas... ¡incluyendo una del corazón!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep04_ss03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/ad9LOu87SfEr5hG4jMCAYw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PJ/0M7FRCaYFQPXdPBiVlTJi4EBzZXjOxOYURgoMXXqw/es-xl-25-04-388e96ba078d5ed986e862f6060a4153e9e69269.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/k8uTColSHPSgl7-ucrdG-KpA2Suj7pohF9EGw5ZUM/es-xl-25-04.mp4",
             "captions": "",
-            "size": 2694834940
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jw/k8uTColSHPSgl7-ucrdG-KpA2Suj7pohF9EGw5ZUM/es-xl-25-04.mp4"
         },
         {
             "id": "9321a685c6204f0199f1324b2fff9565",
@@ -93,16 +78,13 @@
             "title": "¡El bueno, el malo y el afortunado!",
             "description": "¡Un momento de aparente mala suerte pone al Equipo Rocket en un viaje para reunirse con viejos rivales!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep05_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/kyGmhcYgTwEmfEySy__lWU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YH/oAj-ir9AoVhdHF7DGQyiXVUUj0Km8LaU6vYTbIet8/es-xl-25-05-1e53d1d423451c844ec04361aa0ecf5b2ef2c41a.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BC/AOec8SYoDr50ecovQBeodYF7Am0LrSUUFvXxq9hnM/es-xl-25-05.mp4",
             "captions": "",
-            "size": 2720492732
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BC/AOec8SYoDr50ecovQBeodYF7Am0LrSUUFvXxq9hnM/es-xl-25-05.mp4"
         },
         {
             "id": "1979cbc4b06745a786c7cde626f08608",
@@ -111,16 +93,13 @@
             "title": "¡Luz en el camino a casa!",
             "description": "Nuestros héroes miran al cielo en busca de aventuras junto con un viejo amigo: ¡Sophocles!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep06_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/GXnLxLBnRachsfN5ibwhgg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EA/i7x-XjCVSMHkhkxJB4xSBUHx9tu6y7pGR8pT2YCoc/es-xl-25-06-27a94c69af319277a4596289c5975f2deff90a9f.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RT/GJc5tKEIMeqns12yMvAaLjNeBP2el6oYOapOL0fF8/es-xl-25-06.mp4",
             "captions": "",
-            "size": 2707753190
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RT/GJc5tKEIMeqns12yMvAaLjNeBP2el6oYOapOL0fF8/es-xl-25-06.mp4"
         },
         {
             "id": "e2c5e730fa68452ba2d43e8f00442569",
@@ -129,16 +108,13 @@
             "title": "¡La evolución del sabor!",
             "description": "¡Nuestros héroes han vuelto a la Isla Slowpoke y una sorprendente aventura los está haciendo tener hambre!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep07_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/4sXnMPpoRSsotQ-jwBEJWk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8_/axV8AcS4pxCa1w9q_rfpGEbubTvGhaCtHDcP4IMU4/es-xl-25-07-3bd875ba4597690fa71329bad395041e1a973b3c.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_V/LU6nu_DlVd4qOPHXg5-K6EndqhtRaehfYQjD482WQ/es-xl-25-07.mp4",
             "captions": "",
-            "size": 2718118034
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_V/LU6nu_DlVd4qOPHXg5-K6EndqhtRaehfYQjD482WQ/es-xl-25-07.mp4"
         },
         {
             "id": "06e837b702c748ebbb94cf5674b0461e",
@@ -147,16 +123,13 @@
             "title": "¡Fuera de sus elementos!",
             "description": "¡Una visita al Circo Pokémon enfrenta a nuestros héroes a una aventura que nunca imaginaron!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep08_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/Bug3twLHSOsu5TPVnSwRh4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fT/tu_l19GlZH9vxH7wId4n-A5h_-O_ktLAYezDuqJ84/es-xl-25-08-e031aeaa3926daad4cc3c0d552caf54781778010.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zp/8GtLhE9SQuvCtoFAGdgj_mfezk7QOaNHzsaFmQK-8/es-xl-25-08.mp4",
             "captions": "",
-            "size": 2710025157
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zp/8GtLhE9SQuvCtoFAGdgj_mfezk7QOaNHzsaFmQK-8/es-xl-25-08.mp4"
         },
         {
             "id": "6d468c3424e549b984b2a1d47e865754",
@@ -165,16 +138,13 @@
             "title": "¡Batalla a la onceava potencia!",
             "description": "¡En la continuación de la Serie Mundial de Coronación Pokémon, Ash enfrenta a una estrella en ascenso de la región Galar!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep09_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/bUaMNCTlSbkhLKh1H6GV1Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xq/IINgDZZ-a8drGqk7gjSOdAgpyEuNvDJvzH7g0D3co/es-xl-25-09-def05272a8705b621aa97f232bb5a934226bc803.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ww/Gy3cLBY62iKF2O2Emqy7CeVOxTFi_9Co5Moxiu7cc/es-xl-25-09.mp4",
             "captions": "",
-            "size": 2685316346
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ww/Gy3cLBY62iKF2O2Emqy7CeVOxTFi_9Co5Moxiu7cc/es-xl-25-09.mp4"
         },
         {
             "id": "dc26b2a278044989a8a3c08a23c9320a",
@@ -183,16 +153,13 @@
             "title": "¡Reunión con el Monarca!",
             "description": "¡Hay un inesperado cambio de planes cuando Ash se va a observar un entrenamiento que es como nada que haya visto!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep10_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/3CayongESYkqKPAiiPJMgo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/53/zwk1l-6f7pYw58yVeCtsZzuj-jM2MdYB4-oj1m2S4/es-xl-25-10-ba2f03b37cf1dfc3fa305fe2b3e4868850e36cf5.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RE/-azxu9H6LfN2QX-nH4OVz3jHYhejfq2y61rZ72Amw/es-xl-25-10.mp4",
             "captions": "",
-            "size": 2719705909
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RE/-azxu9H6LfN2QX-nH4OVz3jHYhejfq2y61rZ72Amw/es-xl-25-10.mp4"
         },
         {
             "id": "bf26f34195094f8888cbd3cf57cee911",
@@ -201,16 +168,13 @@
             "title": "¡La maravilla de una sola baqueta!",
             "description": "¡Nuestros héroes ayudan a un Thwackey con una sola baqueta y Goh aprende más sobre Grookey en el proceso!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep11_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vybzQZUJT4giMvTz1fO6RE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zU/mXH1zZOHeGD8oGeQ2Pids1u0rE-f7nZTbyblq_G1Q/es-xl-25-11-dd4d29ec7ee43e8f4294f5e13c0f20fc33fd285d.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U6/bVOWXEai1fkLomLEu8c7UOjdd4Vt-1f_BtWdMsEBk/es-xl-25-11.mp4",
             "captions": "",
-            "size": 2703509863
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U6/bVOWXEai1fkLomLEu8c7UOjdd4Vt-1f_BtWdMsEBk/es-xl-25-11.mp4"
         },
         {
             "id": "fd1d739ac4b04df183a1788f34b14844",
@@ -219,16 +183,13 @@
             "title": "¡Una batalla de incursión congelada!",
             "description": "Cuando Goh toma su más reciente misión del Proyecto Mew, ¡sus retadores le ayudan a encontrar una nueva perspectiva!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep12_ss02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/_R1zmsSwTfEg6F4jzSxSEQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ua/9k9zbR8rRJdU4uIi28o6fSC01Z95Pk-UFGLMa9zbM/es-xl-25-12-a7d64fb4b0e241a9cc7dfa9f21010b759c23cbe7.m3u8",
             "poketv_url": "",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xD/q6x6GThwSN_bASwqOOFtQoy56h3WbKMniPrtebpTU/es-xl-25-12.mp4",
             "captions": "",
-            "size": 2687001553
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xD/q6x6GThwSN_bASwqOOFtQoy56h3WbKMniPrtebpTU/es-xl-25-12.mp4"
         }
     ]
 }

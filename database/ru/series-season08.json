@@ -1,18 +1,15 @@
 {
-    "channel_id": "pokemon-advanced-battle",
+    "channel_id": "season08",
     "channel_name": "Pokémon: Advanced Battle",
     "channel_description": "Эш готовится к сражениям в регионе Хоэнн, но сначала ему предстоит преодолеть некоторые трудности. Не пропусти восьмой сезон сериала Покемон сейчас на Покемон ТВ!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1125x1500-ru.jpg",
-        "spotlight_image_960_1277": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-960x1277.jpg",
-        "spotlight_image_2048_1152": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-2048x1152.jpg",
-        "spotlight_image_1660_940": "",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-2732x940.jpg"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-ru-ru/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-2048x1152.jpg"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 231,
-    "channel_creation_date": 1614961430,
-    "channel_update_date": 1614961417,
+    "order": -8000,
     "media": [
         {
             "id": "76e16078292d43d1b7f2515b322bfb83",
@@ -21,16 +18,13 @@
             "title": "Мудрость Кламперл",
             "description": "наши герои встречают незадачливого Споинка, который постоянно теряет свою жемчужину.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/duFgeCktQ9Et_JRWzIr-4M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wc/r01XSiEsQdNoORzPZMRcjr81Kdl6mc8RKQy8cZo8I/pokemon_801_rus_pal_h264-d02c3bd245c3a98fb758a1fd7ce83cda517a7aed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wc/r01XSiEsQdNoORzPZMRcjr81Kdl6mc8RKQy8cZo8I/pokemon_801_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WG/YMJLjaMPaQYTxQWgiVa4vmQkhoU40rJuS65eWUzx8/pokemon_801_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2673081360
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WG/YMJLjaMPaQYTxQWgiVa4vmQkhoU40rJuS65eWUzx8/pokemon_801_rus_pal_h264.mp4"
         },
         {
             "id": "1e5a7d3562cf4e76b3f77d113cd4ae9a",
@@ -39,16 +33,13 @@
             "title": "Реликант, доисторический покемон",
             "description": "Эш и его друзья принимают участие в поиске сокровищ на дне океана, но Команда Р не отстаёт от них!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Hlp9NWLPTnYs_d9ETzUrpo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l0/cbH64m8jOzECuUeqLNGoIkrgLleDIZh_hU6PogMOg/pokemon_802_rus_pal_h264-6b012990cecf40469d5db539206ab7b88432aa79.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l0/cbH64m8jOzECuUeqLNGoIkrgLleDIZh_hU6PogMOg/pokemon_802_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NW/7qSLgr66m4xmPEJy08Tefxnkzo96sMZGOBoCZFlaM/pokemon_802_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2677744323
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NW/7qSLgr66m4xmPEJy08Tefxnkzo96sMZGOBoCZFlaM/pokemon_802_rus_pal_h264.mp4"
         },
         {
             "id": "a789ce0d79ad4e11a8b9db080fb04844",
@@ -57,16 +48,13 @@
             "title": "Война эволюций",
             "description": "Два острова враждуют в споре, кто лучше: Горбис или Хантейл. Наши герои оказываются в самом центре событий.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/p4nODXmtThEqLnbCA-wSEQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3w/SegLI22-XdOoGackpBlJXtCKm-X5ucgaW-qkmBavM/pokemon_803_rus_pal_h264-54c78bd6e0d0a696ca00d444fb15d89398aeb61f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3w/SegLI22-XdOoGackpBlJXtCKm-X5ucgaW-qkmBavM/pokemon_803_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BD/HmfboqtiDaFcqZ32vQUgabHx_PgsDvllhuHcnLmyg/pokemon_803_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2676025245
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BD/HmfboqtiDaFcqZ32vQUgabHx_PgsDvllhuHcnLmyg/pokemon_803_rus_pal_h264.mp4"
         },
         {
             "id": "9d8310545a8844b4a84bcc9c8ddc97bf",
@@ -75,16 +63,13 @@
             "title": "Тяжелые тренировки",
             "description": "Жители острова Масл помешаны на здоровом образе жизни. Но могут ли они одолеть Эша в битве покемонов?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nYMQVFqIRLQqEvMnI3cl78/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hp/2Jx0D-0Lxfr19iPpcG4NCXx8Y63-Q5UpuR0Zq1L-I/pokemon_804_rus_pal_h264-25b445687d40c71e198cd749b408e62066be6e46.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hp/2Jx0D-0Lxfr19iPpcG4NCXx8Y63-Q5UpuR0Zq1L-I/pokemon_804_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5B/stkWcKNOsgMS_EMk1uTAjhy_r9YC5nkji2qkQywdw/pokemon_804_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2670309845
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5B/stkWcKNOsgMS_EMk1uTAjhy_r9YC5nkji2qkQywdw/pokemon_804_rus_pal_h264.mp4"
         },
         {
             "id": "289e50a249ca49b4a9d63d83932e9ebb",
@@ -93,16 +78,13 @@
             "title": "Гонка за древними Покемонами",
             "description": "После кораблекрушения, наши герои оказываются на подводной лодке Команды Магма и узнают о планах группы завоевать весь мир.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/KJ5QoknKSbQqdY9g5Munrs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/Iuc-U0voGhwcQqNokhXzjeyLB7GEOtoM9OQLCveSk/pokemon_805_rus_pal_h264-99403c2f9ce10f7c1dbb9c55cf5d5ed0e8a2ecb3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QY/Iuc-U0voGhwcQqNokhXzjeyLB7GEOtoM9OQLCveSk/pokemon_805_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X0/Vf8jIKXOmTnVCjPzUl69xqcowjEqyG4LJvhVVzgaw/pokemon_805_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2673842397
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X0/Vf8jIKXOmTnVCjPzUl69xqcowjEqyG4LJvhVVzgaw/pokemon_805_rus_pal_h264.mp4"
         },
         {
             "id": "454f97bd8a3d44cfb8487f9df42aedca",
@@ -111,16 +93,13 @@
             "title": "Сражение легенд",
             "description": "Команда Аква и Команда Магма разбудили легендарных покемонов Гродона и Киогра. Смогут ли Эш и его друзья уцелеть?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RU-XvYo9RM8uEh_nfQq7co/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T6/byWPNxarfrGKsXjHul2oO9X7fr0h3_mkcy0LtxKTc/pokemon_806_rus_pal_h264-a4657659f0a847a582dc70e1ded4e2f8fa6eecb9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T6/byWPNxarfrGKsXjHul2oO9X7fr0h3_mkcy0LtxKTc/pokemon_806_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uu/xvMKX4itJpJaOCwF86YqaHZplxHtW0_LILFIiMk-M/pokemon_806_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2663783595
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uu/xvMKX4itJpJaOCwF86YqaHZplxHtW0_LILFIiMk-M/pokemon_806_rus_pal_h264.mp4"
         },
         {
             "id": "befdffa83a364d0c83bb90af83f00d38",
@@ -129,16 +108,13 @@
             "title": "Тяжело быть космонавтом",
             "description": "Схватка с Командой Р в Моссдип Сити приводит к тому, что наши герои и близнецы гим-лидеры оказываются на космическом корабле.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vv3_qDo2TQwg7uQr4PwDTg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vK/O6kUNxgWnSsg8A0wR_thgTqDO_Qru0EWEfdD1KKq8/pokemon_807_rus_pal_h264-f8a1bafd7d79fb1e7e023ba69ae17576df5f037a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vK/O6kUNxgWnSsg8A0wR_thgTqDO_Qru0EWEfdD1KKq8/pokemon_807_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XO/sHb7UhQhI1CuO4gXzny9lUIhdz7J-wXlSM7HDoRB8/pokemon_807_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2677273673
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XO/sHb7UhQhI1CuO4gXzny9lUIhdz7J-wXlSM7HDoRB8/pokemon_807_rus_pal_h264.mp4"
         },
         {
             "id": "7f4e889e94ab45f5a62be28634f8b353",
@@ -147,16 +123,13 @@
             "title": "Сражаться, как один",
             "description": "Эш приходит в гим Моссдим Сити, где собирается сразится сразу с двумя гим-лидерами.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/f06InpSrRfUpivihjT4s1M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j0/MeXXD3G5ocTeL8pGfPLqmXLq7cgAhMZgtEm5yMLvU/pokemon_808_rus_pal_h264-9af616e382020123fb5873f4846f1b121741e494.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j0/MeXXD3G5ocTeL8pGfPLqmXLq7cgAhMZgtEm5yMLvU/pokemon_808_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-k/TYZsBr4NnhmW9tQGD_Q5HexEaRhLN6LOwlEm37l8E/pokemon_808_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2679979493
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-k/TYZsBr4NnhmW9tQGD_Q5HexEaRhLN6LOwlEm37l8E/pokemon_808_rus_pal_h264.mp4"
         },
         {
             "id": "6897e1cbf9e2437f87927e432c207bba",
@@ -165,16 +138,13 @@
             "title": "Урок против тщеславия",
             "description": "Выиграв седьмой значок, Эш продолжает совершенствовать свои боевые навыки… пока не встречает члена Элитной Четвёрки.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep9_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep9_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/aJfhy_niQ38h5J-Qywge7o/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/xS8yLyyisV6SHt7U_XrjKEN4fqd82MjjprHQB1J7U/pokemon_809_rus_pal_h264-274c274b81c38588d634432f9c18216b6cac3e4e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-A/xS8yLyyisV6SHt7U_XrjKEN4fqd82MjjprHQB1J7U/pokemon_809_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UN/nGwKbVRpfcbGazeASU_1hV3rd2QSR7MVBKbIQ7QTM/pokemon_809_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2679963546
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UN/nGwKbVRpfcbGazeASU_1hV3rd2QSR7MVBKbIQ7QTM/pokemon_809_rus_pal_h264.mp4"
         },
         {
             "id": "d8d35554fa984cbe8d4e94fc9b712d78",
@@ -183,16 +153,13 @@
             "title": "Где же Армальдо?",
             "description": "В заповедники одного из островов Эш и его друзья замечают покемонов, которые считаются вымершими.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/2NNVVPqYTL4jU6U_JtxLXg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/TE-v8FO2Ifb-zpXu1q1h0S2HFsBIMAYgIYic6N4tE/pokemon_810_rus_pal_h264-836d0646b0bfb8e9057992a9e821fa2b1990154f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p3/TE-v8FO2Ifb-zpXu1q1h0S2HFsBIMAYgIYic6N4tE/pokemon_810_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2R/Ni4iUlhvUCjYkOFbh3rTXU1jqNGYEKVzAByTYIXAU/pokemon_810_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2676738402
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2R/Ni4iUlhvUCjYkOFbh3rTXU1jqNGYEKVzAByTYIXAU/pokemon_810_rus_pal_h264.mp4"
         },
         {
             "id": "981ef8a1cfa34bd08b61e4085f41ee69",
@@ -201,16 +168,13 @@
             "title": "Подлый Кактурн",
             "description": "Мэй участвует в состязании покемонов, а один из координаторов пытается испортить ее выступление.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/mB74oc-jS9Ai2HkCF9B7mk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xn/wFkufrUPTZVt2QpdghlASo7XP98UjMdtWYkwinPNA/pokemon_811_rus_pal_h264-f2e2c4b2e09e1d0d0d72b940b09796eea07ff383.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xn/wFkufrUPTZVt2QpdghlASo7XP98UjMdtWYkwinPNA/pokemon_811_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vx/N307jnfasvHaX_dtfPJbuY68VI5C7BISOzhsuzHvA/pokemon_811_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2677090360
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vx/N307jnfasvHaX_dtfPJbuY68VI5C7BISOzhsuzHvA/pokemon_811_rus_pal_h264.mp4"
         },
         {
             "id": "9f95bd2c2d544ed3a9e2afd32b6f45b1",
@@ -219,16 +183,13 @@
             "title": "Катастрофа и Клэйдол",
             "description": "Когда наши герои находят гигантский Поке-Болл, злобные планы Команды Р выпускают на волю древние разрушительные силы.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/n5W9LC1UTtMqeKv0ytvRbE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2K/bVQxCdteQojyKx-U63fuMzGXDi-2MMA7oSOUCyGm4/pokemon_812_rus_pal_h264-de6de09b17232e730a824e5da0bd9a2ac55495c4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2K/bVQxCdteQojyKx-U63fuMzGXDi-2MMA7oSOUCyGm4/pokemon_812_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sj/Ip1o7QF6MmEMuFCeZ8YWLIFj2XyrHljniPC1r9TqQ/pokemon_812_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2677866782
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sj/Ip1o7QF6MmEMuFCeZ8YWLIFj2XyrHljniPC1r9TqQ/pokemon_812_rus_pal_h264.mp4"
         },
         {
             "id": "5024a7c8428548a891d36d7abbd21ec5",
@@ -237,16 +198,13 @@
             "title": "Жила-была Мавайл",
             "description": "Эш и его друзья знакомятся с талантливым тренером, которая демонстрирует удивительный танец с лентами со своим покемоном Мовайлом. Но все портит Команда Р.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UCSnyEKFSKgkdNtervSHsU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c_/O1u_WzW6dkNRHnI6fWLtf9n6d6JIzltuxsM5lCC3c/pokemon_813_rus_pal_h264-2c81f805063543dfac51ecaff1310c007c28ffed.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c_/O1u_WzW6dkNRHnI6fWLtf9n6d6JIzltuxsM5lCC3c/pokemon_813_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S-/h3JOkPdnZbY-68OGYCqnvkKjrB-u7Cky8tMQoJpTE/pokemon_813_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2667496040
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S-/h3JOkPdnZbY-68OGYCqnvkKjrB-u7Cky8tMQoJpTE/pokemon_813_rus_pal_h264.mp4"
         },
         {
             "id": "5b33b2ccbca54e67a2192e6582e22f0f",
@@ -255,16 +213,13 @@
             "title": "Трапинч в подземном лабиринте",
             "description": "Чтобы помочь местному учёному, наши герои осматривают гигантский подземный лабиринт, созданный группой Трапинчей. И снова попадают в переделку.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/WzOyzLylTmcohkuZYLiLw8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NT/M8AzhljVEsb1TQUr-clOnCCHLJSJnqKAjvo9wvhPg/pokemon_814_rus_pal_h264-0f7fc2ce81c94620169c4ff08d325f0ad24dfd10.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NT/M8AzhljVEsb1TQUr-clOnCCHLJSJnqKAjvo9wvhPg/pokemon_814_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JL/0-4-yKVL1vKDm48bzM7goRRfoiQkdQ-Y7z0YzQ0IA/pokemon_814_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2662222430
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JL/0-4-yKVL1vKDm48bzM7goRRfoiQkdQ-Y7z0YzQ0IA/pokemon_814_rus_pal_h264.mp4"
         },
         {
             "id": "abf6ed94c3b3487385a033cdda03e88a",
@@ -273,16 +228,13 @@
             "title": "Абсолютное бедствие",
             "description": "Абсол предупреждает жителей деревни о грозящей опасности, но они считают именного его виновником своих бед. Могут ли наши герои развеять все сомнения?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/q_btlMOzSHMhaAzzdoD6Io/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qt/R37BVfi0wwkS5qZet16UyEqZLsf78x5zeB2GsR_OU/pokemon_815_rus_pal_h264-89f6281e8957d6f694e40a450c43f05a9b53d821.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qt/R37BVfi0wwkS5qZet16UyEqZLsf78x5zeB2GsR_OU/pokemon_815_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ps/uy_iCjL6ZNlgDVn0pJX6226ceniCDVYnlQCj8wQeQ/pokemon_815_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2672885031
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ps/uy_iCjL6ZNlgDVn0pJX6226ceniCDVYnlQCj8wQeQ/pokemon_815_rus_pal_h264.mp4"
         },
         {
             "id": "4bdfd2e469c64f808e2369403c5be220",
@@ -291,16 +243,13 @@
             "title": "Проказник Снорант",
             "description": "Незадачливый Снорант крадёт у Эша его значки. Эш преследует его и попадает в снежную бурю.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/S9_S5GnGT4AjiNpQDxb4iA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sH/94XOMVQ6DaefHheCdlR86ov2pJDNDcCi8R3Yd5Ppg/pokemon_816_rus_pal_h264-cddd617b3605b7696d9cc437324c8ffc8cf9517e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sH/94XOMVQ6DaefHheCdlR86ov2pJDNDcCi8R3Yd5Ppg/pokemon_816_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/Iy2Qvg1RhnCgjmUYEfi5V7SBl05A74EpfvW1QLcl4/pokemon_816_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2650971955
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qf/Iy2Qvg1RhnCgjmUYEfi5V7SBl05A74EpfvW1QLcl4/pokemon_816_rus_pal_h264.mp4"
         },
         {
             "id": "ece21828e1254d3cb1f2a29b91cf75c3",
@@ -309,16 +258,13 @@
             "title": "Ролтс зовет на помощь",
             "description": "Пока наши герои осматриваются на территории огромной корпорации Девон, незнакомец пытается выкрасть ценное оборудование.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7OIYKOElTTwsfKim5HPdcM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v6/3NdWA_iMS8QHV3LLxXOjeTTM7DE_NRpOYBzWwfD08/pokemon_817_rus_pal_h264-df1f398e5c994fdcf85a90ad8caaaf0a2557da93.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v6/3NdWA_iMS8QHV3LLxXOjeTTM7DE_NRpOYBzWwfD08/pokemon_817_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wb/hygEbtihN5XirwEuH9A9iEzxbQdygqkxzGsSZ092w/pokemon_817_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2669855978
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wb/hygEbtihN5XirwEuH9A9iEzxbQdygqkxzGsSZ092w/pokemon_817_rus_pal_h264.mp4"
         },
         {
             "id": "2de6f20eb5834bf5bf5adc39bf3ae676",
@@ -327,16 +273,13 @@
             "title": "Всё - за восьмой",
             "description": "Мистер Брайни, моряк, предлагает отвезти наших героев на остров Дбфорд, где должна состояться следующая гим-битва Эша, но неожиданно меняет планы. Что происходит?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/LebyDrWDS_Uv1rcOb865nY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/Sa-sKLjg828NOMlWz5bJwWJRHtmxAMM-iuSAH4D_4/pokemon_818_rus_pal_h264-87279464fe575a127ce0cf33b06c870ef82919fb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/Sa-sKLjg828NOMlWz5bJwWJRHtmxAMM-iuSAH4D_4/pokemon_818_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pf/ZInJmaFb8f60uoy8YzjdjrLAc0Ax6ok45VJFAwTww/pokemon_818_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2671173335
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pf/ZInJmaFb8f60uoy8YzjdjrLAc0Ax6ok45VJFAwTww/pokemon_818_rus_pal_h264.mp4"
         },
         {
             "id": "62c080a7478a40c1982555d1b09ebbf3",
@@ -345,16 +288,13 @@
             "title": "И восьми мало",
             "description": "В гиме Сутополис Сити проходит битва между Эшем и Хуаном. Сможет ли Эш завоевать восьмой значок, необходимый для вступления в Лигу Хоенн?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/YsCAp0eKQMEmCVV0bCeu_M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mg/mMeCEQTAYkwSBwF_tpqMFcAcjyse0We9dYL6oTfVQ/pokemon_819_rus_pal_h264-4eae8858d22d42d1c29ae8c9abc3809689d64aac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mg/mMeCEQTAYkwSBwF_tpqMFcAcjyse0We9dYL6oTfVQ/pokemon_819_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xi/tWd0pQxmXoaLtwfkZJ9P44o9PSxDQItbFZy43tjNk/pokemon_819_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2668340265
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xi/tWd0pQxmXoaLtwfkZJ9P44o9PSxDQItbFZy43tjNk/pokemon_819_rus_pal_h264.mp4"
         },
         {
             "id": "93a77ad54bee48bfb87cee167080fce7",
@@ -363,16 +303,13 @@
             "title": "Лайнун в битве",
             "description": "Когда Мэй обнаруживает, что у неё пропали два Поке-Болла, она сразу подозревает Команду Р. Но вполне возможно, это сделал кто-о другой…",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/k6d61UvuSL8uHzuFnCA_Oc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AP/L9NiKkFSUdgQZW5aRE8qasRcUZFh8k4ROACevTNpY/pokemon_820_rus_pal_h264-668946d360d5da14e67d2fa153044c76beee61a9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AP/L9NiKkFSUdgQZW5aRE8qasRcUZFh8k4ROACevTNpY/pokemon_820_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T5/hMacII9emhWY3zJwzFVDVsgRYA6LTXGAZ9D7a3pwg/pokemon_820_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2645172390
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T5/hMacII9emhWY3zJwzFVDVsgRYA6LTXGAZ9D7a3pwg/pokemon_820_rus_pal_h264.mp4"
         },
         {
             "id": "8ebddb3201224deeb03bb5581c0c1499",
@@ -381,16 +318,13 @@
             "title": "Вайнот и мираж",
             "description": "Когда Команда Р прерывает  тренировочную битву между Мэй и ее оппонентом Дрю, нашим героям и их покемонам предстоит разобраться в путанице.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/jr3bMgEiTe4sDu1WBwMFJk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bz/06MIRlrLxEb0elWg6iCZpjFVFwL7SVCWJ98m-_bqQ/pokemon_821_rus_pal_h264-99335c2b2d99c79b05aab1fc9afedb023b744b68.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bz/06MIRlrLxEb0elWg6iCZpjFVFwL7SVCWJ98m-_bqQ/pokemon_821_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0R/_nTX1aVK4KRr5wILRq5X6pP5_2SI0yhs77g9nx5Q0/pokemon_821_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2674272495
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0R/_nTX1aVK4KRr5wILRq5X6pP5_2SI0yhs77g9nx5Q0/pokemon_821_rus_pal_h264.mp4"
         },
         {
             "id": "6ffca24c379541b581f4f60b16d86611",
@@ -399,16 +333,13 @@
             "title": "Свидания с приключениями",
             "description": "По дороге в Пасифидлог Таун наши герои встречают стадо Донфэнов. Успеет ли Мэй на паром, который должен доставить ее к месту финального состязания покемонов?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/b_yiTDeVQbUgfT2CxbYZhE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hr/yrrUhY0mS9legsxlsRdjVItwJ_bd3dgd7ElIPgmPw/pokemon_822_rus_pal_h264-1bc19aa6f17eba3d65b7ef00f868a0cd3b621b15.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hr/yrrUhY0mS9legsxlsRdjVItwJ_bd3dgd7ElIPgmPw/pokemon_822_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vv/lvtfjFGDpEN7EWIOkL8IUn_FYiU1lb4oI3b9uK35g/pokemon_822_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2667965412
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vv/lvtfjFGDpEN7EWIOkL8IUn_FYiU1lb4oI3b9uK35g/pokemon_822_rus_pal_h264.mp4"
         },
         {
             "id": "c166e4805aba4b50a3be0dccea43d814",
@@ -417,16 +348,13 @@
             "title": "Зависть и злость",
             "description": "Мэй записывается на состязания покемонов Пасифидлог Тауна, где ее противниками станут Джошуа и Эрика, а также загадочный участник по имени Джестер.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/wWbkgFq6S1Ao74NzOpD2BQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vZ/lls7_IddhIqN5PsaUwr2JeuF5XAhVN5x5nceC4HBY/pokemon_823_rus_pal_h264-bb1f8da1f16f7ffe8e3dcad652d69e8cf3214cc5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vZ/lls7_IddhIqN5PsaUwr2JeuF5XAhVN5x5nceC4HBY/pokemon_823_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yF/yYlAQPof0TnW_6Bou-W6mXFTwgape0tDWgZ9DnSc0/pokemon_823_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2654814848
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yF/yYlAQPof0TnW_6Bou-W6mXFTwgape0tDWgZ9DnSc0/pokemon_823_rus_pal_h264.mp4"
         },
         {
             "id": "f80a9120e8e34578be909cbb9b208b66",
@@ -435,16 +363,13 @@
             "title": "Победы и поражения",
             "description": "Во втором раунде Мэй предстоит сразится с необычным Мяутом. Сможет ли она выиграть последнюю ленточку, необходимую ей для участия в Большом Фестивале?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/-AqRIOjjRXgvpCcu5sgi2Y/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qx/OS4R4lC5Qjo5es9EJrm-WHLFu2ZGPrs8LW1pZw1_A/pokemon_824_rus_pal_h264-37036aa78d196f37a2582b575a1095a7b3b7f6bb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qx/OS4R4lC5Qjo5es9EJrm-WHLFu2ZGPrs8LW1pZw1_A/pokemon_824_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Je/bVznRrvatsnAsh1Zut-0Ise8yA0cqcFH5DlKtVUy8/pokemon_824_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2675490944
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Je/bVznRrvatsnAsh1Zut-0Ise8yA0cqcFH5DlKtVUy8/pokemon_824_rus_pal_h264.mp4"
         },
         {
             "id": "655a877bef284ae58fd9d7d7328298b8",
@@ -453,16 +378,13 @@
             "title": "Бягодные дела",
             "description": "Когда наши герои видя невиданный урожай ягод, Мэй решает воспользоваться возможностью и приготовить несколько Поке-Блоков для Большого фестиваля. Она привлекает внимание голодного Манчлакса.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ZVqHe-8oSuUj9nX1zKCmLg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S0/NkGJpDe08QVHk26dlQZdIaDwSlocbtl3HqmFz_yzA/pokemon_825_rus_pal_h264-7242f522d142c637210a68392cbb698d9cf65338.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S0/NkGJpDe08QVHk26dlQZdIaDwSlocbtl3HqmFz_yzA/pokemon_825_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1U/KUL-GCQzLqgNidG7GykoLABTWPeBFn1ID0OOxbdBk/pokemon_825_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2648565740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1U/KUL-GCQzLqgNidG7GykoLABTWPeBFn1ID0OOxbdBk/pokemon_825_rus_pal_h264.mp4"
         },
         {
             "id": "bd5677414eda47b0a2ba6e0b96586da7",
@@ -471,16 +393,13 @@
             "title": "Споры, споры",
             "description": "Эш знакомится с Моррисонов, другим тренером, направляющимся на битву в Лигу Хоенн. Они сразу начинают соперничать во всем.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vVZ3QU7aR7AorpuC5ZYbac/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2D/WWF4kFZB0-1quGSEW9yQKRR86lqpJSQWZCgtQmATQ/pokemon_826_rus_pal_h264-c2e52ab47bd71decbcb46e3139da96cec7a1c06d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2D/WWF4kFZB0-1quGSEW9yQKRR86lqpJSQWZCgtQmATQ/pokemon_826_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8u/0qcobc9PYKjffq28hmYdlNIoarfoXn_SLg0V0K6pc/pokemon_826_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2660653753
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8u/0qcobc9PYKjffq28hmYdlNIoarfoXn_SLg0V0K6pc/pokemon_826_rus_pal_h264.mp4"
         },
         {
             "id": "6e30717d2aa7445da585b0c8538264bd",
@@ -489,16 +408,13 @@
             "title": "Кубок Лент украден",
             "description": "На борту шикарного лайнера, идущего до Слейтпорт Сити и Большого фестиваля нашим героям предстоит помочь Полицейской Дженни поймать искусного вора.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bjBxfSqnRF0pYWwyFOCZL0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/za/y8J2CG1WesSQ9scnxYHrIZr70dm-cJiFpXF6oBc9Y/pokemon_827_rus_pal_h264-c779e66561b48fc754dd551aae1606e7cd525263.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/za/y8J2CG1WesSQ9scnxYHrIZr70dm-cJiFpXF6oBc9Y/pokemon_827_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tv/zodDLqlc4DaBwYtQYlIyW8H8uX_uumd8eVWhTuSbg/pokemon_827_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2655963982
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tv/zodDLqlc4DaBwYtQYlIyW8H8uX_uumd8eVWhTuSbg/pokemon_827_rus_pal_h264.mp4"
         },
         {
             "id": "7587a7162ca24eaaaf0782b4326a0bc8",
@@ -507,16 +423,13 @@
             "title": "\"Серебрянный\" совет",
             "description": "В первый день большого фестиваля Мэй снова сталкивается со своим заклятым врагом, Харли.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/dYenFiyiTqorweCtDJqC8g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pj/gvc1V0B0GoV0QwAhB0nlPrWf94eM7RzHrjfjW0Ydw/pokemon_828_rus_pal_h264-af39a1f0328bad3efcd42d845830075abe10cba1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pj/gvc1V0B0GoV0QwAhB0nlPrWf94eM7RzHrjfjW0Ydw/pokemon_828_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DA/OBfbNKoITRrt_22cQqrTR8hncdMlSZNlv4VximO7U/pokemon_828_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2659723070
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DA/OBfbNKoITRrt_22cQqrTR8hncdMlSZNlv4VximO7U/pokemon_828_rus_pal_h264.mp4"
         },
         {
             "id": "b5abf8cfee3442ffa5204a72eb373102",
@@ -525,16 +438,13 @@
             "title": "Уловка и Помощь",
             "description": "Эш знакомится с координатором, чьи ленточки были украдены, а Мэй прислушивается к плохим советам перед своим первым выступлением на Большом фестивале.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/tav4z-40Qv8pSBKcus3MQI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KD/lgV8tbvZB8Nb3PDTpOA8NdnUs8cjsFf3IwaKenUJ4/pokemon_829_rus_pal_h264-11322c31d42e694a5cad4b931c3c3941bd42d7a6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KD/lgV8tbvZB8Nb3PDTpOA8NdnUs8cjsFf3IwaKenUJ4/pokemon_829_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sC/klM9r3LJsv3wLAQWNsRykhCtzMe7vZzMJJsw6Vj2A/pokemon_829_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2667051843
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sC/klM9r3LJsv3wLAQWNsRykhCtzMe7vZzMJJsw6Vj2A/pokemon_829_rus_pal_h264.mp4"
         },
         {
             "id": "02f002ecd46849eda91d78289565a9be",
@@ -543,16 +453,13 @@
             "title": "Рапсодия Дрю",
             "description": "Мэй встречается с Харли во втором раунде Большого фестиваля. Сможет ли она одержать вверх над его удивительной тактикой?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/AvAC7NRoSe0qR14KJVlqb4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vT/gVF0RqR6zIg1Ilo6nlwyF6Z1tm7TR1NQmKlpj68dE/pokemon_830_rus_pal_h264-25648f644b291e32562f22b806a8a2f257962a3f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vT/gVF0RqR6zIg1Ilo6nlwyF6Z1tm7TR1NQmKlpj68dE/pokemon_830_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_n/CsvmmCqAWgZqT8CKm2n37UkBb-tnF0djBCnmpkuG0/pokemon_830_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2673848563
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_n/CsvmmCqAWgZqT8CKm2n37UkBb-tnF0djBCnmpkuG0/pokemon_830_rus_pal_h264.mp4"
         },
         {
             "id": "704d5b4020ec453aa10797cbef92e691",
@@ -561,16 +468,13 @@
             "title": "Команда острова",
             "description": "Когда наши герои выигрывают бесплатные билеты в Эвер Гранд Сити на чемпиона Лиги Хоенн6 они очень счастливы, пока не понимают, что это очередной план Команды Р.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/cE1bQCDsRTooQeXy--S5pE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ox/9uZTWNCnKToWKzG_N2jdRO3z4AUBa_Fw6rCOLajfY/pokemon_831_rus_pal_h264-9e63a5c3fd9b34f571f21cf6b68a5a1b39d9a65e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ox/9uZTWNCnKToWKzG_N2jdRO3z4AUBa_Fw6rCOLajfY/pokemon_831_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pf/WpAqWiyi8ZqCZ4noyH0KTEMbute18Z3NG5bD4LEVE/pokemon_831_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2675357707
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pf/WpAqWiyi8ZqCZ4noyH0KTEMbute18Z3NG5bD4LEVE/pokemon_831_rus_pal_h264.mp4"
         },
         {
             "id": "39ddc5140ba4436590ed0f8098d6b9a3",
@@ -579,16 +483,13 @@
             "title": "Как Мяут на пламя",
             "description": "Тренируясь перед чемпионатом, Эш встречает тренера Тайсона и его Мяута в сапогах.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Od3FFAukQ2UkO0PgJjWuaM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kp/zuw5uXSco3R7P9T2JNaEmbpQs9obqmm7HcL7Vdex0/pokemon_832_rus_pal_h264-28f0499735fa8affa85cce0c22b15505e03fbef8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kp/zuw5uXSco3R7P9T2JNaEmbpQs9obqmm7HcL7Vdex0/pokemon_832_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qg/W2TvvbbNRAWMXp1VWDDsWkCwOWTC19icO08QggNHU/pokemon_832_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2665051428
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qg/W2TvvbbNRAWMXp1VWDDsWkCwOWTC19icO08QggNHU/pokemon_832_rus_pal_h264.mp4"
         },
         {
             "id": "c2f2f86492c64b26ba698e0003946fa3",
@@ -597,16 +498,13 @@
             "title": "Спаситель Белдам",
             "description": "Эш, Моррисон и Тайсон регистрируются в Лигу Хоенн. Выясняется, что у Мяута Таусона непростое прошлое.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/wvL4ZJLGSyYummOAAOUb6M/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dt/cYeH8vEVLoQpmChWDjgLeDDYfBztrGCMmDiDf51bw/pokemon_833_rus_pal_h264-3f3fde52c377daa698d043cb66f356cd51d780d1.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dt/cYeH8vEVLoQpmChWDjgLeDDYfBztrGCMmDiDf51bw/pokemon_833_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xW/_0VtJOlo67D60894CKycMvA_MP1nPSEa50Lgcl7jo/pokemon_833_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2661638378
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xW/_0VtJOlo67D60894CKycMvA_MP1nPSEa50Lgcl7jo/pokemon_833_rus_pal_h264.mp4"
         },
         {
             "id": "fceab0cee43743bf9383a866a184f17b",
@@ -615,16 +513,13 @@
             "title": "Из грязи в князи",
             "description": "В отборочном туре Эш встречается с серьёзной проблемой: ему необходимо выиграть три матча подряд, каждый из которых - битва двумя покемонами.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/_OqwzuQ3Q78k4OoZqGE8Xs/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LV/ekVuiVJ2QFjAeEokG9HeAe6-VVHxv7ZUSK_4tVM50/pokemon_834_rus_pal_h264-d53521a2b7cccbdf43a9ce55345a5daa108ef540.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LV/ekVuiVJ2QFjAeEokG9HeAe6-VVHxv7ZUSK_4tVM50/pokemon_834_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5q/rJ_4F40hGjPEhqGH8mSa5bVvbFWxn246c9cu18_qM/pokemon_834_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2677473984
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5q/rJ_4F40hGjPEhqGH8mSa5bVvbFWxn246c9cu18_qM/pokemon_834_rus_pal_h264.mp4"
         },
         {
             "id": "b17b1fd6ef1d418caec4d7f362319b19",
@@ -633,16 +528,13 @@
             "title": "Борьба и обязательства",
             "description": "Эш смог пройти отборочный тур, но теперь его ждёт сражение с сильным тренером Катей, и им обоим придётся использовать все шесть своих покемонов.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/sXsf1u8dQYwrsTX82Ixmxk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0I/q_gUYspM0ZyTMspLb4WZ_ibTl2gz1noLlvFVCx13o/pokemon_835_rus_pal_h264-1586ce20c664015df2b0a81ae9bda2eebd8214d5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0I/q_gUYspM0ZyTMspLb4WZ_ibTl2gz1noLlvFVCx13o/pokemon_835_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yg/WFfDIrOCbV_bp8rxOnOWDALc1sVr5SePtZuY-z-18/pokemon_835_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2672785596
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yg/WFfDIrOCbV_bp8rxOnOWDALc1sVr5SePtZuY-z-18/pokemon_835_rus_pal_h264.mp4"
         },
         {
             "id": "bea03a9a5caa451aab8b5793ffea1778",
@@ -651,16 +543,13 @@
             "title": "Тяжелые времена на Чемпионате",
             "description": "Эш проигрывает битву Кате, сможет ли он пройти в финал?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vqA6mlyqRRoq4tXk__qF3g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XU/43ZPn94DQ4CzihCodM5YFM5uV0W3DoHb4l0H7F3Mc/pokemon_836_rus_pal_h264-2b0f76e3431f4fdd88d3713c5c6fcb065db59662.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XU/43ZPn94DQ4CzihCodM5YFM5uV0W3DoHb4l0H7F3Mc/pokemon_836_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pO/h3oc21ePWZuS8st2RaiR2NhM3s6xvkPRAY9bYjXLk/pokemon_836_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2674605935
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pO/h3oc21ePWZuS8st2RaiR2NhM3s6xvkPRAY9bYjXLk/pokemon_836_rus_pal_h264.mp4"
         },
         {
             "id": "c0fd703e397a4420a46ceebb4b6d5246",
@@ -669,16 +558,13 @@
             "title": "Пан или пропал",
             "description": "Эш встречается со своим другом и соперником Моррисонов во втором раунде чемпионата Лиги Хоенн.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/wP1wPjl6RCApGzuu0ttUkY/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kk/KG4bycL6BzqTT37239_ItWpHUp6yrTQfAm48oTtV4/pokemon_837_rus_pal_h264-3048b297cdaf97b551db5246591489f6b2b2f67b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kk/KG4bycL6BzqTT37239_ItWpHUp6yrTQfAm48oTtV4/pokemon_837_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nv/AniArC4tPhsL63w0m-j2i_y-aTKxhL3sznMiR72Ec/pokemon_837_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2675440740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nv/AniArC4tPhsL63w0m-j2i_y-aTKxhL3sznMiR72Ec/pokemon_837_rus_pal_h264.mp4"
         },
         {
             "id": "a71f5dd62fc9448e871a7d1be927eac3",
@@ -687,16 +573,13 @@
             "title": "Конец битвы",
             "description": "Эш встречается со своим соперником Тайсоном в четвертьфинале Лиги Хоенн",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/px9d1i_JRI4hxp9G-kn6sM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ET/7asF6X03_99sp41ymXMaOnt9hoq5g5Kr6niYr-7DI/pokemon_838_rus_pal_h264-aeeb4d5c0b681503eb626e4c5f34ac80c9e13bf4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ET/7asF6X03_99sp41ymXMaOnt9hoq5g5Kr6niYr-7DI/pokemon_838_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x8/ir0giDrZvmsD0SPdnkEXlPIB0i8fFeuM2jJI5ozPE/pokemon_838_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2678548462
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x8/ir0giDrZvmsD0SPdnkEXlPIB0i8fFeuM2jJI5ozPE/pokemon_838_rus_pal_h264.mp4"
         },
         {
             "id": "e031b686de444ee29a972d0b93c39457",
@@ -705,16 +588,13 @@
             "title": "Команда со стратегией",
             "description": "Чемпионат Лиги Хоенн завершён. Пришло время Эшу и его друзьям прощаться и отправляться домой. Но разве сможет он отказаться от участия в новом сражении с гим-лидером?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/4DG2ht5ETuImpctC5PDlFc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rA/Rmbl9RBq0tfvFpVm_Bu9Gup-0vPBJ1BpzO0d7TVdU/pokemon_839_rus_pal_h264-44069c2cb6ddd88def155d0ae6a9200972ebf352.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rA/Rmbl9RBq0tfvFpVm_Bu9Gup-0vPBJ1BpzO0d7TVdU/pokemon_839_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oi/NiF3IEJlXcN0KpzsaeT8JsRfyoE-FWADg9rY7MiaA/pokemon_839_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2665671190
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oi/NiF3IEJlXcN0KpzsaeT8JsRfyoE-FWADg9rY7MiaA/pokemon_839_rus_pal_h264.mp4"
         },
         {
             "id": "4231d0f8033e4d8babebdda08ba08bd4",
@@ -723,16 +603,13 @@
             "title": "В нужное время в нужном месте",
             "description": "Макс и Мэй навещают Эша в Паллет-Тауне, вместе с Мисти и Броком. Они строят планы нового совместного путешествия по Боевом рубежу.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/QjHQ-AM-TYsq-vdoIugi9Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sL/uB8z-Yra8AJNTdr-nCQRM0oFGvagAl-Ybx30aMHAI/pokemon_840_rus_pal_h264-a836edded0af48c028b23710ce8ad15548475389.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sL/uB8z-Yra8AJNTdr-nCQRM0oFGvagAl-Ybx30aMHAI/pokemon_840_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zd/GEOOCbzDhEu7uRdd18VsfYARomZdTGANng4yNYsCI/pokemon_840_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2664448900
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zd/GEOOCbzDhEu7uRdd18VsfYARomZdTGANng4yNYsCI/pokemon_840_rus_pal_h264.mp4"
         },
         {
             "id": "c8a8c99ac8c942028be34adef82c364c",
@@ -741,16 +618,13 @@
             "title": "Танец Клеффа",
             "description": "Наши герои устраивают пикник у Лунной Горы, где замечают редких покемонов Клеффа, Клефэри и Клефэйбл.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/yKjJmsjJQgIi-NK3vgsNkw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kq/vN9W-z8oAr46sNuW3Zepr9lBm-ZoN8Jl4FIE0muz8/pokemon_841_rus_pal_h264-1fa050b2787bae167609fe61784cd8b1b9a4414a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kq/vN9W-z8oAr46sNuW3Zepr9lBm-ZoN8Jl4FIE0muz8/pokemon_841_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5o/llD0PqYavZ9SgUu4xxIpJ3mgIZVfMhGhwRaTv_m4w/pokemon_841_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2668869352
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5o/llD0PqYavZ9SgUu4xxIpJ3mgIZVfMhGhwRaTv_m4w/pokemon_841_rus_pal_h264.mp4"
         },
         {
             "id": "2100cc111a3a41cf90eea390e2ca900a",
@@ -759,16 +633,13 @@
             "title": "Артикуно номер один",
             "description": "По пути к первой битве Эша на фронте сражений, наши герои видят легендарного покемона Артикуно, попавшего в снежную бурю.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/IQDMERo6Qc8kO6jkOLKkAo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bN/tqCAwDywVbMs9J8Xu5ZNpk24Fnx5ZuQpKSCKIKGy4/pokemon_842_rus_pal_h264-97c65b7da9ab9cba4d2fe8e749d6fea61facff02.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bN/tqCAwDywVbMs9J8Xu5ZNpk24Fnx5ZuQpKSCKIKGy4/pokemon_842_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/85/je0FfJINAeILAJHYiJ9cB-oKASW1dqNb1-WMyHHG8/pokemon_842_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2667787554
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/85/je0FfJINAeILAJHYiJ9cB-oKASW1dqNb1-WMyHHG8/pokemon_842_rus_pal_h264.mp4"
         },
         {
             "id": "534031d1315c4890836fe130ee9d6919",
@@ -777,16 +648,13 @@
             "title": "Символ жизни",
             "description": "Эш вызывает своего старого друга Чаризарда, чтобы вместе одолеть главу фронта Ноланда и его Артикуна.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/U0Ax0TFcSJAg2_hMO6daRk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KM/ia-9fGX1BroYVbjHfmF00AmvRFd5igfMD1-lOwGQI/pokemon_843_rus_pal_h264-35d464758bd8f32712d404c67bab46ff3eb31158.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KM/ia-9fGX1BroYVbjHfmF00AmvRFd5igfMD1-lOwGQI/pokemon_843_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vA/3gJXjx_j5lpkDPdc-GD3UjbeYwJKvhG_Y8acJR3Ic/pokemon_843_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2655622722
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vA/3gJXjx_j5lpkDPdc-GD3UjbeYwJKvhG_Y8acJR3Ic/pokemon_843_rus_pal_h264.mp4"
         },
         {
             "id": "d2de4d3ee923449f9928dc44bd1a150f",
@@ -795,16 +663,13 @@
             "title": "Король Оникс",
             "description": "Команда Р натравливает на наших героев стаю каменных покемонов.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0t5NPukjRJ8mSjcRL0aFQ8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c1/s88vCWRAo3Npkfct1Ct1KrQb026tjn9l0ulnzDVyQ/pokemon_844_rus_pal_h264-770401bc1bc2b1589358b6d50500a54ed2bddcb8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c1/s88vCWRAo3Npkfct1Ct1KrQb026tjn9l0ulnzDVyQ/pokemon_844_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/_9-r4witi6pNsOHH5IArCfaF9mPCdiQ-nhzExPQgo/pokemon_844_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2655388526
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/_9-r4witi6pNsOHH5IArCfaF9mPCdiQ-nhzExPQgo/pokemon_844_rus_pal_h264.mp4"
         },
         {
             "id": "62788dfbb52e4a8da771b63be624277e",
@@ -813,16 +678,13 @@
             "title": "Грубый и жестокий Джигглипафф",
             "description": "Эш и его друзья попадают в ловушку человека, который старается поймать Джигглипаффа для своей дочки.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/YniN-7UuSo0p3G2O-YkJ34/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8U/dMUWTdiOfQnj4U3uWpZC5xOxCQ2klT13l5e4A9G-8/pokemon_845_rus_pal_h264-36d0ead315515ddf645047a6d0e1fd39e4d62534.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8U/dMUWTdiOfQnj4U3uWpZC5xOxCQ2klT13l5e4A9G-8/pokemon_845_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6w/NFrsZo6Q6A0vIHKCP9keVlbXS09NSXg1i0zFurA7I/pokemon_845_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2674980495
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6w/NFrsZo6Q6A0vIHKCP9keVlbXS09NSXg1i0zFurA7I/pokemon_845_rus_pal_h264.mp4"
         },
         {
             "id": "5aa9a0516b744cb09edaaf3325ff41c3",
@@ -831,16 +693,13 @@
             "title": "Битва за Арканайа",
             "description": "Мэй и ее соперник Дрю гоняются за одним и тем же Арканайном, каждый из них надеется поймать его для следующего состязания.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/WqmgUWt0TLAntqvMyX_QcM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9d/FRl9amu0_eV_YokK3GEWoLxfb5UMC-ils_1RY0aRw/pokemon_846_rus_pal_h264-30878a117bc8a87bf1e478b2da4ca7a04d0ee49f.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9d/FRl9amu0_eV_YokK3GEWoLxfb5UMC-ils_1RY0aRw/pokemon_846_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yu/bXdkhPscQtbfBhhPFs_QCCfJvo_e6TOPpHNtUhKhc/pokemon_846_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2672093519
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yu/bXdkhPscQtbfBhhPFs_QCCfJvo_e6TOPpHNtUhKhc/pokemon_846_rus_pal_h264.mp4"
         },
         {
             "id": "9a18156f771945ad9762287c4dbea823",
@@ -849,16 +708,13 @@
             "title": "Подсадной Псайдак",
             "description": "Эш и его друзья спасают печального Псайдака от группы боевых покемонов, но не могут понять, как развеселить его.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/mhgVb3cZRa0l2IofE2-qCM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/46/_M9kbywYfh59K21paCLLo4kFQ1EnEO1kxeQ_3StzI/pokemon_847_rus_pal_h264-a3f36403801f305a090de4d6a1868673ce131365.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/46/_M9kbywYfh59K21paCLLo4kFQ1EnEO1kxeQ_3StzI/pokemon_847_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QB/PKMzHrin7aQmM9yQ7awvyxC4feXWC5QccMTEGXUys/pokemon_847_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2675117171
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QB/PKMzHrin7aQmM9yQ7awvyxC4feXWC5QccMTEGXUys/pokemon_847_rus_pal_h264.mp4"
         },
         {
             "id": "4e58a8873c634f219a438584db0d87f7",
@@ -867,16 +723,13 @@
             "title": "Слава шеф-повару",
             "description": "Наши герои и Команда Р находят новый ресторан, которым владеют постоянно ссорящиеся сестры близнецы",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/TliohzxjTyEmkOFhNsNh_c/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DZ/x2YiPYbCatt9COe9jdrqHRyD0WIP1rUKiOFYw2l_c/pokemon_848_rus_pal_h264-0e74213ff122ace3f736bdcf52ac93d4fb543ee3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DZ/x2YiPYbCatt9COe9jdrqHRyD0WIP1rUKiOFYw2l_c/pokemon_848_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/iEdF1pE-Emg0XtwAchzzdMTUGblDkGgbdrkwsWzx4/pokemon_848_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2664768845
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/iEdF1pE-Emg0XtwAchzzdMTUGblDkGgbdrkwsWzx4/pokemon_848_rus_pal_h264.mp4"
         },
         {
             "id": "1a8e1518199b411e8b23dc4827295cd7",
@@ -885,16 +738,13 @@
             "title": "Катерпи растет большой",
             "description": "После неудачного научного эксперимента, Эшу и егоу друзьям приходится гнаться за Катерпи, выросшим до гигантских размеров.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep49_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep49_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep49_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Go4VGBmbQR4iyPcSCcpXNc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_P/_ODARKSCInDzvPfevFZy7G5j8r-dk5gum3sq3xrsM/pokemon_849_rus_pal_h264-ae919cfdf8a651cc666978251fcf610bab2a65f4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_P/_ODARKSCInDzvPfevFZy7G5j8r-dk5gum3sq3xrsM/pokemon_849_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/y9ZplJDQ_bSIjP7LUmIlB5Rd5IMp823ihdIKPXCtg/pokemon_849_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2661701160
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/An/y9ZplJDQ_bSIjP7LUmIlB5Rd5IMp823ihdIKPXCtg/pokemon_849_rus_pal_h264.mp4"
         },
         {
             "id": "75205015220648cbac884f3006d99280",
@@ -903,16 +753,13 @@
             "title": "Обман в Саффроне",
             "description": "Наши герои прибывают в Шаффрон Сити на первое состязание Мэй в Канто - её давнишний противник Харли то же среди участников!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep50_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/dSBQFSIGSMsrIhPMAbZkoA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_q/ECm2G5rhzVj2pZeNaLxL7-X456Cww-hEgvd9L9QSw/pokemon_850_rus_pal_h264-2786883bdb3754053f288bcf5f554ca0dc78838d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_q/ECm2G5rhzVj2pZeNaLxL7-X456Cww-hEgvd9L9QSw/pokemon_850_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-o/6LxcnFNVVcEEATaqJXLrkRFuHk_niqQc1qMqff_kc/pokemon_850_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2669988740
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-o/6LxcnFNVVcEEATaqJXLrkRFuHk_niqQc1qMqff_kc/pokemon_850_rus_pal_h264.mp4"
         },
         {
             "id": "9bdb91b4064c4054ad1f71d5b220581c",
@@ -921,16 +768,13 @@
             "title": "Сквиртл на испытании",
             "description": "Состязание покемонов в Шаффрон Сити уже скоро! Сможет ли Мэй выиграть своё первое состязание в регионе Канто?",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep51_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep51_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep51_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/m9uRtAZMQFQrR9x1bIgWBw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FB/pf_Fd5xVNkzqgM27k5pbQgA4h6FCIl0u3MK_yGbkA/pokemon_851_rus_pal_h264-103313d5f06990d4b8a0914f5c9424a503af481b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FB/pf_Fd5xVNkzqgM27k5pbQgA4h6FCIl0u3MK_yGbkA/pokemon_851_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ad/E3Kv3dahLd6Cmoo5yDZLda7eI4HTL_WHwU1JWsAb4/pokemon_851_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2669358511
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ad/E3Kv3dahLd6Cmoo5yDZLda7eI4HTL_WHwU1JWsAb4/pokemon_851_rus_pal_h264.mp4"
         },
         {
             "id": "c8f32253f1f94754a13ce1a6078b32ee",
@@ -939,16 +783,13 @@
             "title": "Паста ли виста",
             "description": "Эш посещает боевое Додзё в Шаффрон Сити и оказывается в числе студентов.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep52_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep52_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep52_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/yPMiU_H5R1QoTzhpgeLMu4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CN/P7PHGmd6uEgJlH7_Jj-q1fD-m_t1lMBy2FrB1CVZA/pokemon_852_rus_pal_h264-fa2b6f9662777560d321fa8e347e248c80d2b71e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CN/P7PHGmd6uEgJlH7_Jj-q1fD-m_t1lMBy2FrB1CVZA/pokemon_852_rus_pal_h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xp/yx1PLPPjuwoiOG3-ret2gVSPPPywjj27xm0LiQx8c/pokemon_852_rus_pal_h264.mp4",
             "captions": "",
-            "size": 2671057035
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xp/yx1PLPPjuwoiOG3-ret2gVSPPPywjj27xm0LiQx8c/pokemon_852_rus_pal_h264.mp4"
         }
     ]
 }

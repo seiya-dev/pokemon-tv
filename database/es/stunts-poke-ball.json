@@ -1,18 +1,15 @@
 {
-    "channel_id": "poke-balls-a-diestro-y-siniestro",
+    "channel_id": "poke-ball",
     "channel_name": "Poké Balls a diestro y siniestro",
     "channel_description": "Los Entrenadores se lo pasan en grande aprendiendo sobre las Poké Balls en TV Pokémon.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1125x1500-es.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 2,
-    "channel_creation_date": 1685060138,
-    "channel_update_date": 1685060930,
+    "order": -1685060138,
     "media": [
         {
             "id": "afd0719234184439940d550b2621dabd",
@@ -21,16 +18,13 @@
             "title": "Una vez en luna llena",
             "description": "El recado del Profesor Oak de entregar la misteriosa GS Ball a un experto en Poké Balls, se ve interrumpido cuando un Quagsire con una inclinación por los objetos esféricos roba la GS Ball para usarla en un ritual nocturno.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/r9BxkjQYRDklA1VCyYh2r0/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z5/a3-4gD-S4MWU2Ef-pVmrjtTZo75Rhmht5q3wGJluQ/pokemon_season03_ep22_spa-b076c2f598aa0e5853fe48586741f8a6043dce30.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z5/a3-4gD-S4MWU2Ef-pVmrjtTZo75Rhmht5q3wGJluQ/pokemon_season03_ep22_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8S/-AhDwD_1B1pIq7TFjgB6fk9a6YnI8-Q8ttcFvHsTo/pokemon_season03_ep22_spa.mp4",
             "captions": "",
-            "size": 2812198278
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8S/-AhDwD_1B1pIq7TFjgB6fk9a6YnI8-Q8ttcFvHsTo/pokemon_season03_ep22_spa.mp4"
         },
         {
             "id": "d1941b0b726e494d92faae14f75bc4e1",
@@ -39,16 +33,13 @@
             "title": "Cultivando Bonguri",
             "description": "Ash entrega la misteriosa GS Ball a un famoso experto Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/0ZQbC3JuSU0kvquFPdbxOE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ak/gitLvCvsQGEA7h_6GflH1xINnwyqAi5N_1xs04fMk/pokemon_season03_ep38_spa-9232f35034a697d0dfba38148fdea398209e832b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ak/gitLvCvsQGEA7h_6GflH1xINnwyqAi5N_1xs04fMk/pokemon_season03_ep38_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/07/c6uWSQ0wBKP6yEZkttiXN4GjOL-2ajDfn_UhNHYK8/pokemon_season03_ep38_spa.mp4",
             "captions": "",
-            "size": 2770256022
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/07/c6uWSQ0wBKP6yEZkttiXN4GjOL-2ajDfn_UhNHYK8/pokemon_season03_ep38_spa.mp4"
         },
         {
             "id": "5763387cae1f4fc1b5ba025b73d4a6ee",
@@ -57,16 +48,13 @@
             "title": "Totodile, el bailón",
             "description": "La rivalidad amistosa entre Ash y Misty se pone a prueba cuando ambos intentan capturar a la vez un Totodile.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/V2M4fK4fT8EtboCW3PUpu4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ns/pDDQRqyfmV4QjgQn_mmKRMiRV6yYdNV0NnQ43vnFQ/pokemon_season03_ep46_spa-31d60816a6e1109314bb78077fc5e0b1642bf554.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ns/pDDQRqyfmV4QjgQn_mmKRMiRV6yYdNV0NnQ43vnFQ/pokemon_season03_ep46_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qs/_yy7iX67kGlWP1r4d9rp5O9ArRzpUvm6AmnwKv53I/pokemon_season03_ep46_spa.mp4",
             "captions": "",
-            "size": 2600430566
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qs/_yy7iX67kGlWP1r4d9rp5O9ArRzpUvm6AmnwKv53I/pokemon_season03_ep46_spa.mp4"
         },
         {
             "id": "18641e1f9120498e8ac4fed45555a388",
@@ -75,16 +63,13 @@
             "title": "Concurso de Pokémon bichos",
             "description": "De camino a Ciudad Iris, nuestros héroes pasan por un hermoso parque nacional.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GGQeH5EgSY4isT-1FVVo4g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RF/VxUsQ560YI3NiVxxoR-PLo7e1r86bc-jPsrvoo-i4/pokemon_season04_ep04_spa-7ffb1259332fcd09eb2fc1bfb0c82db0387bbaa5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RF/VxUsQ560YI3NiVxxoR-PLo7e1r86bc-jPsrvoo-i4/pokemon_season04_ep04_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7M/v5hdhf4Q3vD8V_1-MRvSqlWuO1gch6dw2Ur206xhU/pokemon_season04_ep04_spa.mp4",
             "captions": "",
-            "size": 2603983151
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7M/v5hdhf4Q3vD8V_1-MRvSqlWuO1gch6dw2Ur206xhU/pokemon_season04_ep04_spa.mp4"
         },
         {
             "id": "ac8cfdae9b654e529b1107139b8d32c2",
@@ -93,16 +78,13 @@
             "title": "Anzuelo, sedal y chilito",
             "description": "Mientras nuestros héroes se toman un descanso en un arroyo donde hay sombra, ¡el Poliwhirl de Misty es atacado por un Poliwrath!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rIz9rptlTlImxEHE5uNMsI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/gQq9WXiysA0F2v-in4fp6ZFQ7WRTagucEGqf8BDjU/pokemon_season04_ep11_spa-1fae7ee71b82d44e78d7f7950b4b967a9978569a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lN/gQq9WXiysA0F2v-in4fp6ZFQ7WRTagucEGqf8BDjU/pokemon_season04_ep11_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c2/iXSZsxFt87VlkKJnY-9l6RnpGRFmc_cTxTgRO5ikA/pokemon_season04_ep11_spa.mp4",
             "captions": "",
-            "size": 2459229464
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/c2/iXSZsxFt87VlkKJnY-9l6RnpGRFmc_cTxTgRO5ikA/pokemon_season04_ep11_spa.mp4"
         },
         {
             "id": "573565263aa645828eb2aa38b942c194",
@@ -111,16 +93,13 @@
             "title": "¡Gulpin el tragón!",
             "description": "Ash y sus amigos están ahora en una ciudad cercana a Ciudad Petalia, cuando su picnic es engullido por un Gulpin que pasa por ahí. Luego oyen un anuncio pidiendo a todo el mundo que evacúen la ciudad.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/VzVlJjqmRYIjrKqOLlCwZQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fI/ST_oa8hsqNNjrP_RY7agQClQsRlx8Myzr5V5rH1qo/pok_tv_s0725_2398-master-cas-d160359106445cdbb1f31cd86223dad115f2bf82.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fI/ST_oa8hsqNNjrP_RY7agQClQsRlx8Myzr5V5rH1qo/pok_tv_s0725_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lF/AxmGcajOU3htB3DCD348-7lpQv8bN-y52zOD60_HM/pok_tv_s0725_2398-master-cas.mp4",
             "captions": "",
-            "size": 2696641846
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lF/AxmGcajOU3htB3DCD348-7lpQv8bN-y52zOD60_HM/pok_tv_s0725_2398-master-cas.mp4"
         },
         {
             "id": "49393c98561f414a9c7525f7f00c4688",
@@ -129,16 +108,13 @@
             "title": "Whiscash y Ash",
             "description": "Los chicos han parado en un camping a la orilla de un lago de camino a Ciudad Arborada. Ash tropieza y tira su cofre de Medallas al lago, donde se lo come un Whiscash gigante.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/STk8mFYfQUonHUl9_AMRog/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NE/Q4Oqq9Oda4-VMXbNf4PbAitZYOPimAjljQn1p5i3w/pok_tv_s0735_2398-master-cas-fe72b075f810fdb99eb7c3988d7550a658d5d567.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NE/Q4Oqq9Oda4-VMXbNf4PbAitZYOPimAjljQn1p5i3w/pok_tv_s0735_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ap/uXpIavnS46n6E84tOPeNnkWiPlaAmDQCcFE471PqY/pok_tv_s0735_2398-master-cas.mp4",
             "captions": "",
-            "size": 2693249136
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ap/uXpIavnS46n6E84tOPeNnkWiPlaAmDQCcFE471PqY/pok_tv_s0735_2398-master-cas.mp4"
         },
         {
             "id": "7cbaa17e201f49308cf92db951ae34ff",
@@ -147,16 +123,13 @@
             "title": "El Claydol gigante",
             "description": "Ash y sus amigos continúan su viaje a través de Isla Izabe, donde ven una Poké Ball de piedra gigante en un acantilado. Conocen a un sabio llamado Sigourney, que les cuenta la historia de la bola gigante.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/fLqhfiAfSTAjPktuVGuNP8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-u/A0G52Dkd4ZbE61z5lTf5Df0gKIOaTMPpMOVmWWRVc/pok_tv_s0812_2398-master-cas-1f72d1b2f42065431699db5c6dea1ac268549970.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-u/A0G52Dkd4ZbE61z5lTf5Df0gKIOaTMPpMOVmWWRVc/pok_tv_s0812_2398-master-cas.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/MGPjDqaBAVHQT9sSCfDtTA9gHMvZgn2oSTPGATnjI/pok_tv_s0812_2398-master-cas.mp4",
             "captions": "",
-            "size": 2731516866
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zm/MGPjDqaBAVHQT9sSCfDtTA9gHMvZgn2oSTPGATnjI/pok_tv_s0812_2398-master-cas.mp4"
         },
         {
             "id": "4dd82f227a994afab6ad9192fde0e2f8",
@@ -165,16 +138,13 @@
             "title": "¡Un Fiasco frenético en la fábrica!",
             "description": "Una visita a la Fábrica de Poké Balls les proporciona a nuestros héroes muchas más cosas que una simple Poké Ball.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/TdgvInqZSvotq2Rkv3g4vg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/vAftnFmdS2obusQI8gLvE2OMwfVY8KUcOOUYsWIp8/pok_tv_s1830_2997-master-cas-sdt-v2-h264-be95f2eae4ee49ea6cff3ef30b9b9af661c7099b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tC/vAftnFmdS2obusQI8gLvE2OMwfVY8KUcOOUYsWIp8/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/t6pqck2U5G5NCd7g8wX74PWTT0LDbmp9w380oEm18/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3307913287
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qx/t6pqck2U5G5NCd7g8wX74PWTT0LDbmp9w380oEm18/pok_tv_s1830_2997-master-cas-sdt-v2-h264.mp4"
         },
         {
             "id": "f144291511364b6baf446c4d3c067814",
@@ -183,16 +153,13 @@
             "title": "¡Una misión ultraurgente!",
             "description": "La aparición de otro Ultraente obliga a nuestros héroes a asumir nuevas funciones... y a llevar a cabo una misión.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/8UQpFRE2S2sr0RsTTwGeBQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m2/He_693i6F0rvC2_fljb-RaobTpmGf6bqsNNRIS8dE/pokemon_season21_ep18_spa-b37304436b95fa1fcf9242d8093919bcce91aa84.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tM/fWez34X8AGW5sO3s527eX0ZkbHjEQvKLedOqO-ANY/pokemon_season21_ep18_spa.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/qfHxn6fx4PNvexnSoc5f2I209ua8Mf3pHxEQsXmoY/pokemon_season21_ep18_spa.mp4",
             "captions": "",
-            "size": 2882867724
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/qfHxn6fx4PNvexnSoc5f2I209ua8Mf3pHxEQsXmoY/pokemon_season21_ep18_spa.mp4"
         }
     ]
 }

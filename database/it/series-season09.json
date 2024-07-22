@@ -1,18 +1,15 @@
 {
-    "channel_id": "battle-frontier",
+    "channel_id": "season09",
     "channel_name": "Battle Frontier",
     "channel_description": "Nella nona stagione della serie animata, Ash e Pikachu ritornano nella regione di Kanto per affrontare le sfide del Parco Lotta. Ti aspettiamo questo venerdì su TV Pokémon!",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season09/season09-1125x1500-it.jpg",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season09/seasons09-1660x940-it.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season09/seasons09-1660x940-it.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/season09/seasons09-1660x940-it.png"
     },
+    "category_id": 1,
+    "category": "Series",
     "media_type": "episode",
-    "order": 221,
-    "channel_creation_date": 1617379109,
-    "channel_update_date": 1662136195,
+    "order": -9000,
     "media": [
         {
             "id": "a2eaea36a488444b80d796c8a8a5f942",
@@ -21,16 +18,13 @@
             "title": "La città fantasma",
             "description": "In una notte buia e tempestosa, Ash e i suoi amici arrivano in una città deserta vicino a una vecchia miniera. Al suo interno, si cela un Haunter, che li fa scappare via dalla paura!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ourqNqSIREsgNeWyKil-UI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UG/XyNCEhbOMFGatnmx9GX86U8CKMbuhU1OFJ_rts-8Q/pokemon_season09_ep01_ita-7b441cf1315e97bf70d90de4278debb9bd57a6e6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UG/XyNCEhbOMFGatnmx9GX86U8CKMbuhU1OFJ_rts-8Q/pokemon_season09_ep01_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6d/xiWvQa62prfqCprwDUN-LiWr_H3fQHJEdDDA6o4TE/pokemon_season09_ep01_ita.mp4",
             "captions": "",
-            "size": 2554106865
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6d/xiWvQa62prfqCprwDUN-LiWr_H3fQHJEdDDA6o4TE/pokemon_season09_ep01_ita.mp4"
         },
         {
             "id": "363a7900188745d690f56595c358e7a2",
@@ -39,16 +33,13 @@
             "title": "Il piccolo James",
             "description": "Quando il Munchlax di Vera si ammala, non essendoci alcun Centro Pokémon vicino, è una cortese coppia di anziani (il loro Mime Jr.) che li aiuta.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep02_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep02_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep02_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Njp5ABiHRdYkPVllcNY56I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CZ/0XfGq_8uZn4tKAs3L0dMBz1dWPSHBFO_AI7osOedo/pokemon_season09_ep02_ita-96d5b66afe223c3544c8d90a736fe601a6f944a6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CZ/0XfGq_8uZn4tKAs3L0dMBz1dWPSHBFO_AI7osOedo/pokemon_season09_ep02_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ei/1fInHXCZcVTYBSa78d4g30BbZW-rfPVws5VA3G_m0/pokemon_season09_ep02_ita.mp4",
             "captions": "",
-            "size": 2464556267
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ei/1fInHXCZcVTYBSa78d4g30BbZW-rfPVws5VA3G_m0/pokemon_season09_ep02_ita.mp4"
         },
         {
             "id": "92125d30bbdd4c5ebd32a474e5e866c3",
@@ -57,16 +48,13 @@
             "title": "La farmacia",
             "description": "Il Team Rocket sotto mentite spoglie cerca di svaligiare una farmacia usando Meowth mascherato da Snorlax, ma McCauley e Brock lo scacciano via.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep03_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep03_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep03_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/khJdMLvdTF4vTKkdOXoZsM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Va/sh7wU17V-mdpL3IzClN-V77pEDutX3yjrwZNm5Jbw/pokemon_season09_ep03_ita-850f9e516083dd29d363b40e8ccad204e2af10c9.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Va/sh7wU17V-mdpL3IzClN-V77pEDutX3yjrwZNm5Jbw/pokemon_season09_ep03_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mN/Q1bpjUMZUY8lLAkoak8ALeKprBNkyEs4jr1l1aiFY/pokemon_season09_ep03_ita.mp4",
             "captions": "",
-            "size": 2506348850
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mN/Q1bpjUMZUY8lLAkoak8ALeKprBNkyEs4jr1l1aiFY/pokemon_season09_ep03_ita.mp4"
         },
         {
             "id": "d487373e2e174948a5df92fe6d9d93fb",
@@ -75,16 +63,13 @@
             "title": "La ruota del parco",
             "description": "Ash sta per raggiungere il Dojo Lotta ma il Team Rocket vi è giunto prima di lui! Si travestono così da allievi di Greta, l'Asso del Parco e Capitano del Dojo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep04_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep04_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep04_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/1Ic3Pi4XSUgpd-S_m2dk_s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nz/T3hc-3Yi8uQVyFCz0X5fDpG3a6Ncuu43amgI_SNgo/pokemon_season09_ep04_ita-4632f85cac76eea313c6cd0b23d1ab0b4ebb746a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nz/T3hc-3Yi8uQVyFCz0X5fDpG3a6Ncuu43amgI_SNgo/pokemon_season09_ep04_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dr/8WgNSi_gU3WMjYcsDe157I5h4IZ0UZ32kTW53c8rA/pokemon_season09_ep04_ita.mp4",
             "captions": "",
-            "size": 2553905764
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dr/8WgNSi_gU3WMjYcsDe157I5h4IZ0UZ32kTW53c8rA/pokemon_season09_ep04_ita.mp4"
         },
         {
             "id": "bcb7432586b541c3a6ddde32de618394",
@@ -93,16 +78,13 @@
             "title": "Gli Allevatori di Uova di Pokémon",
             "description": "Mentre Ash e i suoi amici si dirigono verso il prossimo Parco Lotta, Vera nota una stupenda fattoria. Tuttavia, quando si avvicina per osservarla meglio, è fulminata da un Voltorb!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep05_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep05_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep05_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vLdDJYa1QcMpt3eMt5hg5Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qs/7XJZAzhqPJ24Tk0U-T_ds4Fcz3neVCdYK-0y-2PCE/pokemon_season09_ep05_ita-867d1e9d8cdc5be8869dc9c1bb012111fa9ebfac.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qs/7XJZAzhqPJ24Tk0U-T_ds4Fcz3neVCdYK-0y-2PCE/pokemon_season09_ep05_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lq/a6NtHbjoDRHoC3WRW9c2Amsq4N9RLLZFrAfDAWRBs/pokemon_season09_ep05_ita.mp4",
             "captions": "",
-            "size": 2486025057
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lq/a6NtHbjoDRHoC3WRW9c2Amsq4N9RLLZFrAfDAWRBs/pokemon_season09_ep05_ita.mp4"
         },
         {
             "id": "edd47e0186c74eb0a8f0d67a9843e207",
@@ -111,16 +93,13 @@
             "title": "La gara della Città d'Argento",
             "description": "È il momento della Gara di Pokémon della Città d'Argento, e Vera è pronta a trionfare! Quando la competizione ha inizio, giunge in ritardo un ultimo concorrente: si tratta di un uomo d'affari di nome Emilio.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep06_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep06_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep06_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/7dR-AYbHTrAqPDWephD4gc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8f/s6W6-8OtRYyvW_EgqLmum2TXeTka3ok5etoOgKP9c/pokemon_season09_ep06_ita-58090c5b9c6a6cc630379cd42f4fddb9031c8ff4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8f/s6W6-8OtRYyvW_EgqLmum2TXeTka3ok5etoOgKP9c/pokemon_season09_ep06_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/74/ojAUMbIVXmJGvw4zJgBuWf40WksonB3xrKovVFAUg/pokemon_season09_ep06_ita.mp4",
             "captions": "",
-            "size": 2436584782
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/74/ojAUMbIVXmJGvw4zJgBuWf40WksonB3xrKovVFAUg/pokemon_season09_ep06_ita.mp4"
         },
         {
             "id": "be359b3e42c342789ee0c67da8bacbf0",
@@ -129,16 +108,13 @@
             "title": "La leggenda del lago",
             "description": "Ash e i suoi amici visitano un famoso luogo di pesca che sembra stranamente abbandonato. Ash riesce comunque a prendere un Crawdaunt, che affronta con Corphish.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vjWbPkLDQngnuDGfai6y_A/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0k/2-3RTXWEjKOpf1IS6MuI15wkR4vUWBNM56gqptA6s/pokemon_season09_ep07_ita-3b9284ef47015fa1fa319ae698139efaebf34b7c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0k/2-3RTXWEjKOpf1IS6MuI15wkR4vUWBNM56gqptA6s/pokemon_season09_ep07_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pR/a-6LLPFFHmWfzwxGRdQPw5fl2yZNDGifAjylQFcZo/pokemon_season09_ep07_ita.mp4",
             "captions": "",
-            "size": 2515784210
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pR/a-6LLPFFHmWfzwxGRdQPw5fl2yZNDGifAjylQFcZo/pokemon_season09_ep07_ita.mp4"
         },
         {
             "id": "2fb2141c2746429386ba66f6851ba484",
@@ -147,16 +123,13 @@
             "title": "Ash a lezione di strategia",
             "description": "Ash ha finalmente raggiunto la Cupola Lotta, dove lo attende un'accoglienza da re! Una folla impaziente di giornalisti desidera incontrare il nuovo sfidante che affronterà Tolomeo, il famoso Astro Cupola.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep08_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep08_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep08_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/L7IUHCdGQpMhrpm9oUbpIQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-a/3hieVRqJFlrE6A9D8jxMi--k4U0Ue-t4y8b162SRo/pokemon_season09_ep08_ita-78be70b5f13b14f4a8f3a943f12f6663825cd804.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-a/3hieVRqJFlrE6A9D8jxMi--k4U0Ue-t4y8b162SRo/pokemon_season09_ep08_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/h85Xb1kNe16obVr5UyL47gE_fkjsDhLLzMUbTxAUk/pokemon_season09_ep08_ita.mp4",
             "captions": "",
-            "size": 2507650552
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R6/h85Xb1kNe16obVr5UyL47gE_fkjsDhLLzMUbTxAUk/pokemon_season09_ep08_ita.mp4"
         },
         {
             "id": "0771ff985b954b35a0b80d1bb0796831",
@@ -165,16 +138,13 @@
             "title": "Pericolo, alta tensione!",
             "description": "Sulla strada per la Serpe Lotta, Ash e i suoi amici s'imbattono in un clima particolarmente strano e tempestoso. Inoltre, un irritabile Elekid è impegnato a fulminare tutti i Pokémon locali!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep09_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep09_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep09_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/B3H_mFuVSzUoLgNG7B5aDE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pP/MEtjHnNQdgcvmYNaAhl-5vWX5HK83SvK1v-xsVuCc/pokemon_season09_ep09_ita-d1332f7fd6dee2381869e44173c4d876a153cab8.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pP/MEtjHnNQdgcvmYNaAhl-5vWX5HK83SvK1v-xsVuCc/pokemon_season09_ep09_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dx/gN2OILofmktMjZOSUo-eBsfXOdN8vW2MKZqVMiUs0/pokemon_season09_ep09_ita.mp4",
             "captions": "",
-            "size": 2529260754
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dx/gN2OILofmktMjZOSUo-eBsfXOdN8vW2MKZqVMiUs0/pokemon_season09_ep09_ita.mp4"
         },
         {
             "id": "bc2c90528bc04731bdc255c7e0ba19c1",
@@ -183,16 +153,13 @@
             "title": "Il guardiano verde",
             "description": "Celebi giunge in soccorso dei Pokémon minacciati da un incendio nella foresta. Tuttavia i suoi sforzi lo lasciano esausto e per questo crea una rete gigante di rampicanti a sua difesa.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep10_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep10_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep10_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/vCyQUovARzEvcJVx-C6GcE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yj/pZnUVEAJ41rw50MQqCliDAfIbXsK-5giYh5ihZYTU/pokemon_season09_ep10_ita-02d6b3756bcea39a446f5a08c971ab1e9b5faf3b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yj/pZnUVEAJ41rw50MQqCliDAfIbXsK-5giYh5ihZYTU/pokemon_season09_ep10_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qc/x6JwVLuBZ6f8vVBt6-_-KzPhQm_wU9yt3dx6dmuF0/pokemon_season09_ep10_ita.mp4",
             "captions": "",
-            "size": 2525384304
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qc/x6JwVLuBZ6f8vVBt6-_-KzPhQm_wU9yt3dx6dmuF0/pokemon_season09_ep10_ita.mp4"
         },
         {
             "id": "a56c9a4aea7940baa1d9f62d36c5e0ea",
@@ -201,16 +168,13 @@
             "title": "La scuola per ninja",
             "description": "Ash si concede una pausa per allenarsi con Pikachu e Donphan, che scopre un giovane studente, di nome Evian, della scuola per ninja e Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep11_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep11_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep11_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pWyaSup5QLoodn2LTbF4Oo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/d2N81lyRTF2tgt7NMsjAo7AFZcTVlZERxp1ikox_I/pokemon_season09_ep11_ita-2e7667a477d29594e22aff4994e624251dd79afd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/d2N81lyRTF2tgt7NMsjAo7AFZcTVlZERxp1ikox_I/pokemon_season09_ep11_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6i/WzngkXkR5o-QeqRT7d0mg5ywxe8GE7kA0eyFuOHPo/pokemon_season09_ep11_ita.mp4",
             "captions": "",
-            "size": 2507414079
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6i/WzngkXkR5o-QeqRT7d0mg5ywxe8GE7kA0eyFuOHPo/pokemon_season09_ep11_ita.mp4"
         },
         {
             "id": "598bd5640c384b1c82101d9bd5075094",
@@ -219,16 +183,13 @@
             "title": "Il ciondolo magico",
             "description": "Mentre i nostri eroi fanno pausa presso un Centro Pokémon, Squirtle scappa via: una pessima idea quando c'è in agguato il Team Rocket!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep12_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep12_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep12_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/WYvVZAw4SxwghAdm9UHUJQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/X2pSFLPL38X5WqgYXS8BeKIJQLSf8YxKwJWwiusm8/pokemon_season09_ep12_ita-a347a45a4d8d79f000c2e5057096384ab7f4a22c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hi/X2pSFLPL38X5WqgYXS8BeKIJQLSf8YxKwJWwiusm8/pokemon_season09_ep12_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XS/yvCKsUltwJG4r0optnMz9GYVfz4YZnEviif7_45w4/pokemon_season09_ep12_ita.mp4",
             "captions": "",
-            "size": 2484534715
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XS/yvCKsUltwJG4r0optnMz9GYVfz4YZnEviif7_45w4/pokemon_season09_ep12_ita.mp4"
         },
         {
             "id": "6e6297a841724182ae1a122ece91e0ea",
@@ -237,16 +198,13 @@
             "title": "Ash contro la regina fortunata",
             "description": "Ash si dirige verso la Serpe Lotta, anticipando i suoi amici, e si ritrova in una struttura gestita da tre tipi sospettosamente familiari e dal loro Wobbuffet.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep13_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep13_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep13_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/bmKXqEFyQYIrhoSLs6R4Oo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DP/7zqlTP8oqg0AzkvLpXgoZrXAchpGuBdtC4kYT0Ars/pokemon_season09_ep13_ita-4fdc8378fa66e1d0a1505483f606c1aeec68939d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DP/7zqlTP8oqg0AzkvLpXgoZrXAchpGuBdtC4kYT0Ars/pokemon_season09_ep13_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OK/ZZcFvz2OR8SLKKiTnnj8E1Wi-Rfy3Ucqr3xXYaijA/pokemon_season09_ep13_ita.mp4",
             "captions": "",
-            "size": 2450639286
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OK/ZZcFvz2OR8SLKKiTnnj8E1Wi-Rfy3Ucqr3xXYaijA/pokemon_season09_ep13_ita.mp4"
         },
         {
             "id": "32cb48a0b88c45a0a95d38ec58bb4a59",
@@ -255,16 +213,13 @@
             "title": "La gara di orientamento",
             "description": "Ash e i suoi amici partecipano a una gara di orientamento sull'Isola di Potpourri.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep14_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep14_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep14_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/MstIoLiMRaAqV047Fi7Slk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wk/5fZZ_4Un8Qn06adfnGeNQ7FUrlI70zJnDnwN4Ex2c/pokemon_season09_ep14_ita-e4ccabe4d7e20b17dc94fa747f70935f83fb44e7.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wk/5fZZ_4Un8Qn06adfnGeNQ7FUrlI70zJnDnwN4Ex2c/pokemon_season09_ep14_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yz/_tvHhDXh2FNeu5ok-4W9zaDjW6TzBu2lTO3MU2XUg/pokemon_season09_ep14_ita.mp4",
             "captions": "",
-            "size": 2496477162
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yz/_tvHhDXh2FNeu5ok-4W9zaDjW6TzBu2lTO3MU2XUg/pokemon_season09_ep14_ita.mp4"
         },
         {
             "id": "1429a8e9401945f8869924ede2f17fd8",
@@ -273,16 +228,13 @@
             "title": "Harley colpisce ancora",
             "description": "Vera si sta preparando per la Gara di Pokémon di Città del Glicine, quando il suo vecchio rivale Harley spunta all'improvviso e giura di sconfiggerla. Ha già ottenuto un Fiocco in più della sua avversaria!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep15_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep15_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep15_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/FCmo6UAZRfghpkk7eLxf9g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Aw/6D8UdVBhh98Q-JFVId9cI8qR65pX2X80qQNOahsrM/pokemon_season09_ep15_ita-80dc1b50c82b02cbf2fb38ffb844883ea0a714b6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Aw/6D8UdVBhh98Q-JFVId9cI8qR65pX2X80qQNOahsrM/pokemon_season09_ep15_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sC/DvcExNoNpWbvwo6DBP2Y7vxpKg7Bebx3dY8QpRYBY/pokemon_season09_ep15_ita.mp4",
             "captions": "",
-            "size": 2493129064
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sC/DvcExNoNpWbvwo6DBP2Y7vxpKg7Bebx3dY8QpRYBY/pokemon_season09_ep15_ita.mp4"
         },
         {
             "id": "42dc1d9213ce4a96ace2efa3050f14d8",
@@ -291,16 +243,13 @@
             "title": "Rivali in amore",
             "description": "I nostri eroi giungono sull'Isola di Camomilla, mentre sono diretti alla prossima Gara di Pokémon di Vera sull'Isola del Crisantemo. Tutti fanno uscire i loro Pokémon per divertirsi un po'.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep16_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep16_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/QtwdkhPOSpYrOLvowUPFNg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jH/Yy8kSW4O3RDiJEj1X7vL5DkalaqWz3SPtP12Q7neA/pokemon_season09_ep16_ita-8180246c8b28c29531b4473562b69564129f22d4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jH/Yy8kSW4O3RDiJEj1X7vL5DkalaqWz3SPtP12Q7neA/pokemon_season09_ep16_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A_/Sszf05MpoVj6R6Uj_TDNIvGy-MJr6PBCMe7BnO5Xs/pokemon_season09_ep16_ita.mp4",
             "captions": "",
-            "size": 2516465198
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A_/Sszf05MpoVj6R6Uj_TDNIvGy-MJr6PBCMe7BnO5Xs/pokemon_season09_ep16_ita.mp4"
         },
         {
             "id": "1e263a8bb97f4dc48b40fb3940934989",
@@ -309,16 +258,13 @@
             "title": "Una rivale anche in amore",
             "description": "Vera sta per partecipare alla sua prossima Gara di Pokémon sull'Isola del Crisantemo. Durante un allenamento tra Munchlax e Combusken, Vera incontra Brianna.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep17_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep17_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep17_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HiY6i7l_TcQi0D7OUCTSYk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/my/6l6QsWNE0hkNrLl7dSOsnJUVhEidIKT-OIIEWVIsU/pokemon_season09_ep17_ita-16feaa8c8cd978f6bd98c6e39a7882e1ea5af224.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/my/6l6QsWNE0hkNrLl7dSOsnJUVhEidIKT-OIIEWVIsU/pokemon_season09_ep17_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0u/cJPEydjAGAaBPd1F6tDe4lxfWHx2OpxY9nMZOxQQY/pokemon_season09_ep17_ita.mp4",
             "captions": "",
-            "size": 2455375301
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0u/cJPEydjAGAaBPd1F6tDe4lxfWHx2OpxY9nMZOxQQY/pokemon_season09_ep17_ita.mp4"
         },
         {
             "id": "0feaf3380aca4774af79946be35a0c98",
@@ -327,16 +273,13 @@
             "title": "La crisi di Sceptile",
             "description": "Ash è giunto sull'Isola Metallica, che ospita il Palazzo Lotta. Lui è pronto a lottare ma il suo Sceptile non lo è, in quanto le sue mosse di attacco non funzionano ancora e pertanto, fugge via per la frustrazione.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep18_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep18_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep18_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/D-rzOArKR3Qr3mUa-NaDJg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/09/JL40jCveQhmFDpG1Hy3xM7pmzkxXubSePvoptO52A/pokemon_season09_ep18_ita-2fd6e5b47a43265497dfbee8b7cdb03f3cd1ae9b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/09/JL40jCveQhmFDpG1Hy3xM7pmzkxXubSePvoptO52A/pokemon_season09_ep18_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fW/UvXrukcokKKU7IZOklCrEBoVfz-eXwn5jsTohY_10/pokemon_season09_ep18_ita.mp4",
             "captions": "",
-            "size": 2527407610
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fW/UvXrukcokKKU7IZOklCrEBoVfz-eXwn5jsTohY_10/pokemon_season09_ep18_ita.mp4"
         },
         {
             "id": "18092fffc5b44c3ca3135be995d16ec1",
@@ -345,16 +288,13 @@
             "title": "Incontro nella giungla",
             "description": "La sfida al Palazzo Lotta in cui Ash sfiderà Spartaco sta per iniziare. E sarà un grandissimo incontro, dato che l'isola stessa è il campo di lotta!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep19_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep19_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep19_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GAkv_8W0TDwoxNb6ZXRbsE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/TgHePCyATp8pf5dNVg2q2hZfDR_Jg7amhWrPrA-U0/pokemon_season09_ep19_ita-c5edafbf6283f3a2afb33079e4e727ef86cbec67.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/TgHePCyATp8pf5dNVg2q2hZfDR_Jg7amhWrPrA-U0/pokemon_season09_ep19_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W5/0Xfgh6zwKmTWuTJHk_y8CY13UKtntiCSdFCNqGg3w/pokemon_season09_ep19_ita.mp4",
             "captions": "",
-            "size": 2555359834
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W5/0Xfgh6zwKmTWuTJHk_y8CY13UKtntiCSdFCNqGg3w/pokemon_season09_ep19_ita.mp4"
         },
         {
             "id": "f56c8b74c56844e4a1f289a15b8546b2",
@@ -363,16 +303,13 @@
             "title": "Re per un giorno",
             "description": "Sulla strada per la Torre Lotta, i nostri eroi vincono un massaggio offerto da un Team Rocket camuffato. Il trattamento si rivela una trappola quando il Team Rocket tenta di rapire i loro Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep20_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep20_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep20_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/9WyLdMVoROQofKJoVuFRrI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/iFN2cM8iFWrzLXne4bhlIm64LUol3Z-0HbfETvQrQ/pokemon_season09_ep20_ita-d30a67345f6cdfe5ae29e49481c387d4b9551927.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/iFN2cM8iFWrzLXne4bhlIm64LUol3Z-0HbfETvQrQ/pokemon_season09_ep20_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/41/OF1qDzMAJCalGVCOpzcftqfy7MMKQVlZhL4iPX6lY/pokemon_season09_ep20_ita.mp4",
             "captions": "",
-            "size": 2514293547
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/41/OF1qDzMAJCalGVCOpzcftqfy7MMKQVlZhL4iPX6lY/pokemon_season09_ep20_ita.mp4"
         },
         {
             "id": "94d17d3f7ffb4ff693cb156a1a6fc265",
@@ -381,16 +318,13 @@
             "title": "Il Pokémon mascherato",
             "description": "Ci sono problemi in città all'arrivo di Ash e dei suoi amici: un misterioso Pokémon parlante, conosciuto come Red Lighting, sta affrontando tutti gli Allenatori della città.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep21_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep21_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/lNF9P3_7T_Yk8sVahpvwmU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vt/10r8lgGBp2niRDs18lVeXt6qGfDZzghfBQiqMG23M/pokemon_season09_ep21_ita-a129fe9ef3fc3ae2e7f2517e740a65793af8e159.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vt/10r8lgGBp2niRDs18lVeXt6qGfDZzghfBQiqMG23M/pokemon_season09_ep21_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pU/NuQzRffqT3U9YB-4fbvdX0t8DkHrAOIEBDZYh34qk/pokemon_season09_ep21_ita.mp4",
             "captions": "",
-            "size": 2473531671
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pU/NuQzRffqT3U9YB-4fbvdX0t8DkHrAOIEBDZYh34qk/pokemon_season09_ep21_ita.mp4"
         },
         {
             "id": "75f5e148cad44de893c2a8648439be2c",
@@ -399,16 +333,13 @@
             "title": "Cosa non si fa per amore",
             "description": "I nostri eroi si trovano a Gardenia Town per la prossima Gara di Pokémon di Vera e ci sono alcune nuove facce nuove da incontrare. Salutate Mollie e Yuma: la prima è un Coordinatore di Pokémon alle prime armi, l'altra una professionista esperta, presente qui come spettatrice!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep22_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep22_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep22_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/dfXhSMrUTegk8KoZIQ5viw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rw/Iq_Upx4A9377-I5Qb865mjAG2aHmHRLZ67VmVaC8Y/pokemon_season09_ep22_ita-010e7de556810f2069620be24b88d45aa137b1d5.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kh/pPYjqnmpil9EpQk2uHxwJNGPJlHAewa8tvxd_9_QY/pokemon_season09_ep22_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-r/_T36LLoDkynauSD2Rq4RG7qf3NedNPyhYSfyFZ6dc/pokemon_season09_ep22_ita.mp4",
             "captions": "",
-            "size": 2499472169
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-r/_T36LLoDkynauSD2Rq4RG7qf3NedNPyhYSfyFZ6dc/pokemon_season09_ep22_ita.mp4"
         },
         {
             "id": "9622fd642fcf4c42bdfde37ae51bdc3e",
@@ -417,16 +348,13 @@
             "title": "Il rapimento di Smoochum",
             "description": "Sulla strada per la Torre Lotta, Ash e i suoi amici s'imbattono in uno Smoochum vagante. Prima di potersi avvicinare, ricevono un'accoglienza molto fredda da parte di tre Jynx, molto protettivi nei confronti dello Smoochum.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/liL9ZC_PTEIvf3jeuUb3D4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p5/jUR_5-Bq1Q7R5UluA7q11LakWBmHPVZy-YVAgABOU/pokemon_season09_ep23_ita-8986bf22f2866311b9ec788cfac53402023c1405.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p5/jUR_5-Bq1Q7R5UluA7q11LakWBmHPVZy-YVAgABOU/pokemon_season09_ep23_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Se/WO9quXjfc81DluE4Belo9v8osE-fZTIh0VdRlD5nU/pokemon_season09_ep23_ita.mp4",
             "captions": "",
-            "size": 2533156458
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Se/WO9quXjfc81DluE4Belo9v8osE-fZTIh0VdRlD5nU/pokemon_season09_ep23_ita.mp4"
         },
         {
             "id": "e4e05875e7da447d8321122979b6d1d5",
@@ -435,16 +363,13 @@
             "title": "Un'amica o una rivale?",
             "description": "Mentre Ash si dirige spedito verso la Torre Lotta per la sua sesta sfida, s'imbatte per caso in un gruppo di Beedrill che inizia a inseguirlo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep24_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep24_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep24_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/5OBYdefaRH0gyESKXm20dU/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lg/gsSrbly5PBu5Ss7C665pEhYR2Vqb8AdL29efRdQkE/pokemon_season09_ep24_ita-d75b4a030ccfbd26b74dac6f340f9a06aaeea005.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lg/gsSrbly5PBu5Ss7C665pEhYR2Vqb8AdL29efRdQkE/pokemon_season09_ep24_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_g/2O3SrF3bLIgfxnEEgbUBZ8S7IxPvVYYca-_1-SuRM/pokemon_season09_ep24_ita.mp4",
             "captions": "",
-            "size": 2496472020
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_g/2O3SrF3bLIgfxnEEgbUBZ8S7IxPvVYYca-_1-SuRM/pokemon_season09_ep24_ita.mp4"
         },
         {
             "id": "468387987996400392620c42b24bb61e",
@@ -453,16 +378,13 @@
             "title": "Ritenta, sarai più fortunato!",
             "description": "Ash perde la sua prima sfida nella Torre Lotta, ma non si arrende. Il giorno seguente, mentre è fuori ad allenarsi con la sua squadra, Tauros abbatte un nido di Beedrill che nemmeno Alberta riesce a calmare.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep25_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep25_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep25_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/RoOHmHmWQAMkmIMQrJLth4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jg/B9otyiYkC-s7NUpQnCGLOdrkkm73xoLJjwmIKp2tY/pokemon_season09_ep25_ita-27f34986d13a2cf6eaa906f0d3d1d17b4b94d381.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jg/B9otyiYkC-s7NUpQnCGLOdrkkm73xoLJjwmIKp2tY/pokemon_season09_ep25_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z3/0FYUxDP_hRfIdwTm9SAH2KPyQMn2CcFY-38DQbMk4/pokemon_season09_ep25_ita.mp4",
             "captions": "",
-            "size": 2524972147
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/z3/0FYUxDP_hRfIdwTm9SAH2KPyQMn2CcFY-38DQbMk4/pokemon_season09_ep25_ita.mp4"
         },
         {
             "id": "d45df294d9074d3f9a7c82795053be24",
@@ -471,16 +393,13 @@
             "title": "Un Deoxys in crisi",
             "description": "I nostri eroi individuano un gruppo di Pokémon confusi e capiscono che qualcosa non quadra, specialmente quando in cielo appare un'insolita aurora e le loro Poké Ball e i PokéNav smettono di funzionare!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/1F3ylNkHTT8mnyCeVBTviQ/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d1/2Nyevr7r5AYsMWqByj5ehMLLe9rxH1PFNMYi2JtyE/pokemon_season09_ep26_ita-a18c602689dcfca3d5efc71add36656463f6d565.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d1/2Nyevr7r5AYsMWqByj5ehMLLe9rxH1PFNMYi2JtyE/pokemon_season09_ep26_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uw/ca0WU48OYH1tvSjlkaBx23VTj4Ie14R1JsflYonYQ/pokemon_season09_ep26_ita.mp4",
             "captions": "",
-            "size": 2502078473
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uw/ca0WU48OYH1tvSjlkaBx23VTj4Ie14R1JsflYonYQ/pokemon_season09_ep26_ita.mp4"
         },
         {
             "id": "c8858f26bc5f4b61a310bf4389d1b0be",
@@ -489,16 +408,13 @@
             "title": "La solitudine del Deoxys",
             "description": "Con Meowth e Max entrambi scomparsi dopo una sfida contro Deoxys, il Team Rocket sancisce una tregua con gli avversari per salvare il proprio Pokémon parlante preferito.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep27_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep27_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep27_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/yIWPJrxfS2EoxC_Q4nRsL4/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m2/pkt34B_zGU9wm_TiS7WuLfb7QB_KvlM9HC9t29Hu8/pokemon_season09_ep27_ita-1712fa7ea3f0e851e592b00d2d23dcf012b35176.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/m2/pkt34B_zGU9wm_TiS7WuLfb7QB_KvlM9HC9t29Hu8/pokemon_season09_ep27_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mx/m_owIOCzEmkaqvg2YOkAGMG4xmInuFc7ekcfo7VWE/pokemon_season09_ep27_ita.mp4",
             "captions": "",
-            "size": 2514764436
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mx/m_owIOCzEmkaqvg2YOkAGMG4xmInuFc7ekcfo7VWE/pokemon_season09_ep27_ita.mp4"
         },
         {
             "id": "ad7953b37cc547b58d28fd588617c469",
@@ -507,16 +423,13 @@
             "title": "Non è tutto oro quel che luccica!",
             "description": "Ash e Vera vedono un incredibile Sudowoodo dorato sulla sponda di un lago. Ma il Pokémon scaglia via la Poké Ball di Ash quando il ragazzo cerca di catturarlo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep28_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep28_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep28_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rXlTs3zFR7UjSj9WIYXxGk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kA/U1nxaiJc4WuD10hgEjuf2m7MJ7aGFM_HP-uIiip-M/pokemon_season09_ep28_ita-267ba66c2f9bd30ab61d8ecbcb4f8919aeaf643b.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kA/U1nxaiJc4WuD10hgEjuf2m7MJ7aGFM_HP-uIiip-M/pokemon_season09_ep28_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J0/X2pZeY1AYk977YC4F9Fkft_Bt0UWJIhBgTt-mIo4k/pokemon_season09_ep28_ita.mp4",
             "captions": "",
-            "size": 2508392511
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J0/X2pZeY1AYk977YC4F9Fkft_Bt0UWJIhBgTt-mIo4k/pokemon_season09_ep28_ita.mp4"
         },
         {
             "id": "a759efbfa5d3453f9f35c0ea37206fd9",
@@ -525,16 +438,13 @@
             "title": "Una gara decisiva",
             "description": "Vera avverte la pressione della Gara di Pokémon che si tiene nella Città delle More, la sua ultima occasione di ottenere un quinto Fiocco prima del Gran Festival. A peggiorare le cose, ecco arrivare Harley!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep29_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep29_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep29_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/p1nvv6XTRT8nzXA6jcgb9k/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nn/l5nMONc0wXPUz5ggBDETQaEYs5zip6l0n3nk9Wrjw/pokemon_season09_ep29_ita-ee795dba1d77a8025059b7e252c1f239357fa683.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nn/l5nMONc0wXPUz5ggBDETQaEYs5zip6l0n3nk9Wrjw/pokemon_season09_ep29_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NF/wnFknb8x-CajNkp4GzC6_F_wDT8F2dkFNpgyP9qxw/pokemon_season09_ep29_ita.mp4",
             "captions": "",
-            "size": 2467784685
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NF/wnFknb8x-CajNkp4GzC6_F_wDT8F2dkFNpgyP9qxw/pokemon_season09_ep29_ita.mp4"
         },
         {
             "id": "16c8c4cebb724ccead75257d525bedfa",
@@ -543,16 +453,13 @@
             "title": "Una nuova trappola",
             "description": "È in corso la Gara di Pokémon della Città delle More, nella quale Harley si è alleato con il Team Rocket per sconfiggere Vera.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep30_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep30_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep30_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/FsjEzrtyTM4rXUlfVJb7fo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L2/XBIJb_JiKygyLVxfRkIhm-AvXc54mECRDZNjKv298/pokemon_season09_ep30_ita-97d8de8e05b8c776a487272c185cd5b5335cd219.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L2/XBIJb_JiKygyLVxfRkIhm-AvXc54mECRDZNjKv298/pokemon_season09_ep30_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h8/qbDOb1dnL-7SItU3iLQjCupQ521Ykv1Up2z2hjEEg/pokemon_season09_ep30_ita.mp4",
             "captions": "",
-            "size": 2498803077
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/h8/qbDOb1dnL-7SItU3iLQjCupQ521Ykv1Up2z2hjEEg/pokemon_season09_ep30_ita.mp4"
         },
         {
             "id": "358d06025531410686bbaf4cdf998762",
@@ -561,16 +468,13 @@
             "title": "Cambio di alleanze",
             "description": "I nostri eroi s'imbattono in un torneo di lotte di Pokémon, della durata di un giorno, segretamente organizzato da Butch e Cassidy, che avendo delle difficoltà ad andare d'accordo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep31_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep31_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep31_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/NY0GAlUxQQYhruvTN-Zh2I/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/mARnFf2PTb6buSIkyu5lplzA863uQhjYF6K_EeOxU/pokemon_season09_ep31_ita-47edce75876215b0d95762f5aa0f854a0941ae21.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/mARnFf2PTb6buSIkyu5lplzA863uQhjYF6K_EeOxU/pokemon_season09_ep31_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fq/Abm057mgJLv6rbYIDieNpl0J9gTdYhfedvA7_YJp8/pokemon_season09_ep31_ita.mp4",
             "captions": "",
-            "size": 2474897020
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fq/Abm057mgJLv6rbYIDieNpl0J9gTdYhfedvA7_YJp8/pokemon_season09_ep31_ita.mp4"
         },
         {
             "id": "525812fda0ad4893bac822b3a3f9a40a",
@@ -579,16 +483,13 @@
             "title": "Brock e i suoi fratelli",
             "description": "I nostri eroi sono finalmente giunti a Plumbeopoli, dove Brock torna finalmente a casa e trova la Palestra locale ancora più strana del solito.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep32_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep32_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep32_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/UlgS_aCtSJMusgis6P5pAo/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gW/PbzHOQJGMIv-9YEPLQQEKaYWe4au6yZcSwfLIrWK4/pokemon_season09_ep32_ita-4441214cd21dd5b263de60ad436590cf9d9a9901.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gW/PbzHOQJGMIv-9YEPLQQEKaYWe4au6yZcSwfLIrWK4/pokemon_season09_ep32_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bq/62-1IWYNpp67yRdJVCHTtoN1b8CkWMvGKiYApQs5E/pokemon_season09_ep32_ita.mp4",
             "captions": "",
-            "size": 2504146046
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bq/62-1IWYNpp67yRdJVCHTtoN1b8CkWMvGKiYApQs5E/pokemon_season09_ep32_ita.mp4"
         },
         {
             "id": "6846937e88ae447790cc4f329e197dcc",
@@ -597,16 +498,13 @@
             "title": "Il Leggendario Ho-Oh",
             "description": "Ash è felicissimo di poter visitare la Piramide Lotta, ma cadendo in un buco finisce in delle strane rovine. Quando il Team Rocket va a dare un'occhiata, finisce anch'esso nel buco.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep33_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep33_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep33_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/aEaTfoiuRHckMxPMp4Zfcw/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dt/D7-23FfZkYJdT5HMAx2nXuL6Xdhv5N7VTZUTkVMRM/pokemon_season09_ep33_ita-8c0935f4ddce628c1c10e7148e52678df87a6dc0.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dt/D7-23FfZkYJdT5HMAx2nXuL6Xdhv5N7VTZUTkVMRM/pokemon_season09_ep33_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3N/PmIii3PxmIihzMGbzJ9W_HWdB6_546ibImdiHWdcI/pokemon_season09_ep33_ita.mp4",
             "captions": "",
-            "size": 2419400239
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3N/PmIii3PxmIihzMGbzJ9W_HWdB6_546ibImdiHWdcI/pokemon_season09_ep33_ita.mp4"
         },
         {
             "id": "888d6f5e3afd466f831259156eb88908",
@@ -615,16 +513,13 @@
             "title": "Il furto delle Bacche",
             "description": "Sulla strada per il Gran Festival, i nostri eroi sono attaccati da un gruppo di Aipom che si impossessa del cappello di Ash e della custodia di Fiocchi di Vera!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep34_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep34_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep34_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/iI1vXjr9Rm8gxJZFW64iQg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I-/0ixazvdrrdNb_18Q6t5uZB6xWSaUzXQe62b-ot1HM/pokemon_season09_ep34_ita-78d6affc0902f561cea2e7d6cee9f8205c19971e.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/I-/0ixazvdrrdNb_18Q6t5uZB6xWSaUzXQe62b-ot1HM/pokemon_season09_ep34_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F4/bMhLyw9ofH9zLSYtnbjjZ-89ZsRxY1S3juMdfWS3M/pokemon_season09_ep34_ita.mp4",
             "captions": "",
-            "size": 2518935034
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F4/bMhLyw9ofH9zLSYtnbjjZ-89ZsRxY1S3juMdfWS3M/pokemon_season09_ep34_ita.mp4"
         },
         {
             "id": "7dfcd350801e4e2b9333b2a65ba75291",
@@ -633,16 +528,13 @@
             "title": "Vera, facciamo il tifo per te",
             "description": "Vera è giunta al Gran Festival dell'Altopiano Blu, dove sono presenti molte facce familiari. Il Team Rocket ha deciso di provare un'esperienza nuova presentandosi come commentatori della gara.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep35_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep35_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep35_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ffzTUIAeTiskzOyplunUpE/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X8/3iOAWSdeuv6HnYQNXEXvFKoNjlPShCrzMCge0-5vI/pokemon_season09_ep35_ita-81157c9a2a62fc5065d1bbd757d7829582d8c9e3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/X8/3iOAWSdeuv6HnYQNXEXvFKoNjlPShCrzMCge0-5vI/pokemon_season09_ep35_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/g-3G-FDlVX-oemznILqxDwpFDROtTCtLYPGRXa1Y4/pokemon_season09_ep35_ita.mp4",
             "captions": "",
-            "size": 2501944493
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/g-3G-FDlVX-oemznILqxDwpFDROtTCtLYPGRXa1Y4/pokemon_season09_ep35_ita.mp4"
         },
         {
             "id": "f6b10cecaf3c4ee88c4812c4532a8b88",
@@ -651,16 +543,13 @@
             "title": "Le fila si assottigliano!",
             "description": "Vera, Drew, Harley e Solidad competono tutti nel Gran Festival delle Gare Pokémon dell'Altopiano Blu; pertanto è il momento che i loro Pokémon mettano in mostra le loro mosse migliori.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep36_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep36_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep36_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/9rEM7K88TugjEgSxFMqi4g/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oq/iLQWcy4zVffm24Osn6Jub9DGQX8aMt0a3JM3_71aE/pokemon_season09_ep36_ita-6219845905ca9de8ed9f8cdd8e65388f6880819c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oq/iLQWcy4zVffm24Osn6Jub9DGQX8aMt0a3JM3_71aE/pokemon_season09_ep36_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/4z3mxDwrmkjZ-14sESLWHW0IztFdm6VPGmhYc9W_o/pokemon_season09_ep36_ita.mp4",
             "captions": "",
-            "size": 2527820910
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/4z3mxDwrmkjZ-14sESLWHW0IztFdm6VPGmhYc9W_o/pokemon_season09_ep36_ita.mp4"
         },
         {
             "id": "5d84328fd5614d8fb7c5cb27dfd9e9ff",
@@ -669,16 +558,13 @@
             "title": "Lo scontro con Drew",
             "description": "Vera e Drew si scontrano per arrivare alle semifinali del Gran Festival ed entrambi i Coordinatori possono vantare dei potenti assi nella manica.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/XYQyj9VhTY8t8XLJ9_Z6f8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tb/R3jc3CpT_V71bhbusM0mAwvrf515UEPi6-I0a7Qj0/pokemon_season09_ep37_ita-da15c2a6f41bbcf5eae30f0f43744fc21134d875.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tb/R3jc3CpT_V71bhbusM0mAwvrf515UEPi6-I0a7Qj0/pokemon_season09_ep37_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a4/tOFQwHlYpdZZg2bx7TE-Sxa7u--BrRAD23e5iqGbo/pokemon_season09_ep37_ita.mp4",
             "captions": "",
-            "size": 2554356343
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a4/tOFQwHlYpdZZg2bx7TE-Sxa7u--BrRAD23e5iqGbo/pokemon_season09_ep37_ita.mp4"
         },
         {
             "id": "d6bb582132fe473291da583ad2cad2f8",
@@ -687,16 +573,13 @@
             "title": "I dispetti di Aipom",
             "description": "A causa dell'ennesimo scherzo giocato da Aipom nei confronti di Ash, entrambi finiscono in un villaggio che si sta preparando a scegliere il re dell'anno.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep38_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep38_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep38_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/1rtYITL-RzIkdpYOtLK0vg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/av/LMmPLIgDreZvBH6HH4CYlrY5S920OPQRExehycQBk/pok_tv_s0938_2398-master-it-6ef9ba8bb92cf62aadb2917b06073714805d9c13.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ft/150RemSEfGGinVs7rL4xZt5zSR38yETJqcYJt9SQs/pok_tv_s0938_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eH/TGWlOLJ69yjjwRwHTlHs9zTJg90kwAv7ZEeqwcxzA/pok_tv_s0938_2398-master-it.mp4",
             "captions": "",
-            "size": 2685837187
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eH/TGWlOLJ69yjjwRwHTlHs9zTJg90kwAv7ZEeqwcxzA/pok_tv_s0938_2398-master-it.mp4"
         },
         {
             "id": "60bb706d5af142c68f2a7366eead9867",
@@ -705,16 +588,13 @@
             "title": "Comici per un giorno",
             "description": "Sulla strada per la Valle Fennel, in cui Ash avrà la sua rivincita su Baldo, i nostri eroi incontrano Chatot, un Pokémon in grado di imitare tutto ciò che sente. Tuttavia, il Chatot fugge ben presto dal suo Allenatore, Adri!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep39_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep39_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep39_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/YLtwbVrxQsYjypzZu6tmGc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/20/G0uLOO0mkFN2cnyw7REasY1K6r_n2PL62sZuZzdjA/pok_tv_s0939_2398-master-it-83de30af8cb2d23f6e8fb4f8e9894dd67030a476.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/r_/xP9DE3PaVb1XO1gNycuxvrXOf_DBoMNJZUUscpgEE/pok_tv_s0939_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1a/8_yTnHJKxRZyzPyzOJyJAGZ7xupNDVpd1cCsUlgHc/pok_tv_s0939_2398-master-it.mp4",
             "captions": "",
-            "size": 2681308732
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1a/8_yTnHJKxRZyzPyzOJyJAGZ7xupNDVpd1cCsUlgHc/pok_tv_s0939_2398-master-it.mp4"
         },
         {
             "id": "e9f00f6aec2a485f93c71aa5c6496feb",
@@ -723,16 +603,13 @@
             "title": "In lotta per il territorio",
             "description": "Sulla strada per Valle Fennel, l'Aipom di Ash scorrazza via e s'imbatte in un Weavile piuttosto scontroso. Aipom è pronto a battersi, ma il Weavile gli impartisce una sonora lezione!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep40_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep40_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep40_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/6fAPauwqSF8k8capcZJb-s/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uu/rCr_n9Gw_zLZhbB4cBNRFPsA_LLYBUYICRPs_Qnsw/pokemon_season09_ep40_ita-f513f6c0d38148f9b92b9a6f0a0cd74ec6432aaf.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uu/rCr_n9Gw_zLZhbB4cBNRFPsA_LLYBUYICRPs_Qnsw/pokemon_season09_ep40_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/tRMSy3fxhgLJV7bVEjwkdYOmHQek2eMWSBOHvbDbk/pokemon_season09_ep40_ita.mp4",
             "captions": "",
-            "size": 2535201246
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/tRMSy3fxhgLJV7bVEjwkdYOmHQek2eMWSBOHvbDbk/pokemon_season09_ep40_ita.mp4"
         },
         {
             "id": "b7743e40daf74f0f8506d73f6daad263",
@@ -741,16 +618,13 @@
             "title": "Un'infermiera sorprendente",
             "description": "Ash è finalmente giunto a Valle Fennel, dove spera di poter ottenere una rivincita su Baldo, ma scopre che quest'ultimo non sarà di ritorno fino al giorno seguente. Il nostro eroe viene, invece, accolto da un'entusiasta infermiera Joy.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep41_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep41_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep41_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/t3Q-QNr3Tw8hQbXP22q0mM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2C/n34HdRFSM30SJc_jSdueh4FvpZMlmNK_csQn4z_h4/pokemon_season09_ep41_ita-3088394a984f345b131cf32d56f0cf912ee8141a.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2C/n34HdRFSM30SJc_jSdueh4FvpZMlmNK_csQn4z_h4/pokemon_season09_ep41_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xS/_sM_wXmoTXH0ZqJmBw6HUoGW1RicgLOdCL2fiG7Fo/pokemon_season09_ep41_ita.mp4",
             "captions": "",
-            "size": 2478080706
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xS/_sM_wXmoTXH0ZqJmBw6HUoGW1RicgLOdCL2fiG7Fo/pokemon_season09_ep41_ita.mp4"
         },
         {
             "id": "ae04dfd60cb849ba98683ccc847529ff",
@@ -759,16 +633,13 @@
             "title": "Addio amarezza",
             "description": "Ash si sta ancora riprendendo dalla sconfitta subita nella Piramide Lotta, mentre Vera ripensa alla sua disfatta al Gran Festival.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/rgTf1gy4SbomGg8zIR1Kf8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9w/38R_pJhxBc8Manq4woLC1RJ6F4uSMTpPW4t3Vf0fQ/pokemon_season09_ep42_ita-fcfaeaf35db6ddc73895cc2990b1c693ae60c045.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9w/38R_pJhxBc8Manq4woLC1RJ6F4uSMTpPW4t3Vf0fQ/pokemon_season09_ep42_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1s/xIvL0rhicIfXdG6SscHREge3NwI66sDDP_y18t5K8/pokemon_season09_ep42_ita.mp4",
             "captions": "",
-            "size": 2474097750
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1s/xIvL0rhicIfXdG6SscHREge3NwI66sDDP_y18t5K8/pokemon_season09_ep42_ita.mp4"
         },
         {
             "id": "6696aa78afa742d595aff02e270cc030",
@@ -777,16 +648,13 @@
             "title": "Al posto giusto, nel momento giusto!",
             "description": "Al Centro Pokémon di Valle Fennel, Ash si sta allenando negli attacchi con i suoi Pokémon, mentre Brock è contentissimo di poter cucinare con l'infermiera Joy.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/ZpaqeK-nQtUla_wLicMwDA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5L/aAG1nzQ_RTCrM6D9tf_C3elnbOVN119RSaI3YBCQs/pokemon_season09_ep43_ita-4eae2051538ec662da1e2b3c69f85516b79a8615.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5L/aAG1nzQ_RTCrM6D9tf_C3elnbOVN119RSaI3YBCQs/pokemon_season09_ep43_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3n/HhEly-pMoyWN31on5xAJdjV2ZQUGSvD0HVGL3d8yM/pokemon_season09_ep43_ita.mp4",
             "captions": "",
-            "size": 2516098321
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3n/HhEly-pMoyWN31on5xAJdjV2ZQUGSvD0HVGL3d8yM/pokemon_season09_ep43_ita.mp4"
         },
         {
             "id": "56442a9c86434699848daa076469097f",
@@ -795,16 +663,13 @@
             "title": "La banda al completo",
             "description": "Presso il Centro Pokémon della Valle Fennel, Ash riceve una consegna speciale dal laboratorio del Prof. Oak: il suo Bulbasaur. Presto giunge anche l'agente Jenny con il suo Squirtle e il suo Charizard in volo.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep44_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep44_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep44_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/VkQqnIZDRpkhI2qB2RpCX8/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bu/9SMGvUVG591oWuGoilWAuMFLqq1XGGBWXYW6jYXgw/pokemon_season09_ep44_ita-e709f96aeedbc4bbcdb732b66a3f772ce733836c.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bu/9SMGvUVG591oWuGoilWAuMFLqq1XGGBWXYW6jYXgw/pokemon_season09_ep44_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A8/sE4tqC0dvTMWpT2LiSkA-6ZNGXxqvkmNmibCJXX-8/pokemon_season09_ep44_ita.mp4",
             "captions": "",
-            "size": 2509358564
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A8/sE4tqC0dvTMWpT2LiSkA-6ZNGXxqvkmNmibCJXX-8/pokemon_season09_ep44_ita.mp4"
         },
         {
             "id": "3e7d01d2a315403cbc94da62ae860ff4",
@@ -813,16 +678,13 @@
             "title": "Un incontro decisivo",
             "description": "Con Charizard impossibilitato a lottare nella rivincita contro Baldo, il re della Piramide, Ash chiama in causa Bulbasaur. Dusclops esegue il suo attacco Malosguardo, mentre Bulbasaur avvolge il Pokémon di tipo Spettro con il suo Parassiseme.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep45_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep45_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep45_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Pn0B0qMVQDwvJTaYq6GD_Q/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mU/xMZla4OrSrAkmqCpDkucUI_Cvo73_SKBxdZ7RJqog/pokemon_season09_ep45_ita-426d915321fdd567790679752383a87e528f0acb.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mU/xMZla4OrSrAkmqCpDkucUI_Cvo73_SKBxdZ7RJqog/pokemon_season09_ep45_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/El/Inorr_oEejZEUmu6khYkB_jbC5031bfVQHlanC0dM/pokemon_season09_ep45_ita.mp4",
             "captions": "",
-            "size": 2539087938
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/El/Inorr_oEejZEUmu6khYkB_jbC5031bfVQHlanC0dM/pokemon_season09_ep45_ita.mp4"
         },
         {
             "id": "68b9bcd3cbe843a395a6c5a5acb79b4e",
@@ -831,16 +693,13 @@
             "title": "Una partenza da rimandare",
             "description": "I ragazzi si trovano a Città di Terracotta, dove Vera e Max prenderanno la nave che li riporterà nella regione di Hoenn. La città sta ospitando un festival, in cui si tiene anche una Gara di Pokémon.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep46_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep46_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep46_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/aLm808voQ6MlabFpay3m04/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iv/0V5_rckWxCfXippmpxp4XgYieXQut7bdCBDH25Xmo/pokemon_season09_ep46_ita-e6b982a6911319a8ddcde2ed3d3a33fc187a62b4.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iv/0V5_rckWxCfXippmpxp4XgYieXQut7bdCBDH25Xmo/pokemon_season09_ep46_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AF/GfyqaOtqjhGSL7VtoVHoLu_ZlX-VpEgh1mwu5zTTM/pokemon_season09_ep46_ita.mp4",
             "captions": "",
-            "size": 2540343261
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AF/GfyqaOtqjhGSL7VtoVHoLu_ZlX-VpEgh1mwu5zTTM/pokemon_season09_ep46_ita.mp4"
         },
         {
             "id": "21cf1687ac01419e835e1a0fe1854709",
@@ -849,16 +708,13 @@
             "title": "La decisione di Vera",
             "description": "La nebbia si dirada durante la Gara di Pokémon di Città di Terracotta. Il risultato finale è un pareggio tra Vera e Ash!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep47_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep47_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep47_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/Ic8Wh6wBQZ4g14aD-GFRwk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xM/eur6bo9dCLd9kJiFMrghENIu4Mcm0qQl9hSnUyWuc/pokemon_season09_ep47_ita-193aabe357238a35605678a1c0ea1aa2a168f75d.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xM/eur6bo9dCLd9kJiFMrghENIu4Mcm0qQl9hSnUyWuc/pokemon_season09_ep47_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Si/wjHVdsu1cDlpPMJ338qZKHpcRvI3f8RFj2ZrytOx8/pokemon_season09_ep47_ita.mp4",
             "captions": "",
-            "size": 2466066169
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Si/wjHVdsu1cDlpPMJ338qZKHpcRvI3f8RFj2ZrytOx8/pokemon_season09_ep47_ita.mp4"
         }
     ]
 }

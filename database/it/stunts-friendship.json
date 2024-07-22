@@ -1,18 +1,15 @@
 {
-    "channel_id": "amici-pokemon",
+    "channel_id": "friendship",
     "channel_name": "Amici Pokémon",
     "channel_description": "Unisciti al divertimento e scopri il vero legame d’amicizia tra Pokémon in questa collezione di memorabili episodi.",
     "channel_images": {
         "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/friendship/friendship-1125x1500-it.png",
-        "spotlight_image_960_1277": "",
-        "spotlight_image_2048_1152": "",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/friendship/friendship-1660x940.png",
-        "spotlight_image_2732_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/friendship/friendship-1660x940.png"
+        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/stunts/friendship/friendship-1660x940.png"
     },
+    "category_id": 2,
+    "category": "Stuns",
     "media_type": "episode",
-    "order": 3,
-    "channel_creation_date": 1659109000,
-    "channel_update_date": 1659108995,
+    "order": -1659109000,
     "media": [
         {
             "id": "49f589b1441140fd8819485339a228a8",
@@ -21,16 +18,13 @@
             "title": "Una giornata di riposo",
             "description": "Quando Ash e amici trovano una fantastica isola dove crescono alberi da frutta di ogni tipo, decidono di prendersi una vacanza per assaporare il bottino! Ma naturalmente il Team Rocket non è della stessa idea...",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep43_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep43_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep43_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/SfWJsUQRQP0iBlIUzmiKKg/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zB/MDEHagFYyDseqHku_rsJoGKaqBpzXgZZd0RKcGJCs/pokemon_season02_ep45_ita-c95cdbb96dc8ba0f931446934125d0874c6ff070.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zB/MDEHagFYyDseqHku_rsJoGKaqBpzXgZZd0RKcGJCs/pokemon_season02_ep45_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jl/r5EXh2aECi_sG6jjbx4ZZBjidEMD_85Eiqx7whswg/pokemon_season02_ep45_ita.mp4",
             "captions": "",
-            "size": 2790954148
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jl/r5EXh2aECi_sG6jjbx4ZZBjidEMD_85Eiqx7whswg/pokemon_season02_ep45_ita.mp4"
         },
         {
             "id": "7c1a14ac821d48858673b6201a1e8083",
@@ -39,16 +33,13 @@
             "title": "Una consegna speciale",
             "description": "Quando il Team Rocket attacca i nostri eroi mentre attraversano un passo di montagna, l'attacco Muro di Fumo di Weezing separa Togepi da Misty.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep23_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/fBoUrIIdSIUhnO2IBoegIM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/9yFDK4_jAt3nOMpkG8vFcCMp4LO64zBizi-5-yDCM/pokemon_season04_ep23_ita-3ee522f9305ed1cfd4d15e78d02250c855ba8b14.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/9yFDK4_jAt3nOMpkG8vFcCMp4LO64zBizi-5-yDCM/pokemon_season04_ep23_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/c0MXowMK6u-1dneb7t5rlEVnPolabGd96MXpWr7pY/pokemon_season04_ep23_ita.mp4",
             "captions": "",
-            "size": 2599070892
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/c0MXowMK6u-1dneb7t5rlEVnPolabGd96MXpWr7pY/pokemon_season04_ep23_ita.mp4"
         },
         {
             "id": "594027fc531f48869990b559ff0dd513",
@@ -57,16 +48,13 @@
             "title": "Le mele della discordia",
             "description": "Il Team Rocket è affamato e finisce per rubare le mele di un gruppo di Shroomish. Alcuni di questi Pokémon si arrabbiano a tal punto da evolversi in Breloom e contrattaccare!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep42_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep42_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep42_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/WUAn_FMfSIYmZC1Wf8N1RM/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-w/mrvznCm5zb1Ct2yZCxpL-keoFACs_zYVl4F1MkOyY/pok_tv_s0742_2398-master-it-c531579d145797b4cf0fe957061853d1a0cef7c3.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zo/zI924w000811I_JJIUwdKWxFxSL-6fL-1rzb0NYTI/pok_tv_s0742_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5r/_WG142jdmkgr3YKzozqRhBpIaCe3ifxeFg3GdQu2k/pok_tv_s0742_2398-master-it.mp4",
             "captions": "",
-            "size": 2659875536
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5r/_WG142jdmkgr3YKzozqRhBpIaCe3ifxeFg3GdQu2k/pok_tv_s0742_2398-master-it.mp4"
         },
         {
             "id": "94a2e748ef12409babd926422fd83f4c",
@@ -75,16 +63,13 @@
             "title": "Dare una mano al nemico",
             "description": "Ash e i suoi amici vanno alla ricerca di un Centro Pokémon per poter assistere a un importante incontro trasmesso in TV: il Campione Camilla sconfigge Aaron dei Superquattro!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep48_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/lKLnSO8SQJsq9kmQi_YP0w/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L-/OgSEVbEQZHSHtiGZk0YWw771l2VUsu2eloMTLqcjc/pok_tv_s1148_2398-master-it-dc64ee3c248101c4a753a433eeb98767b76a7bdd.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L-/OgSEVbEQZHSHtiGZk0YWw771l2VUsu2eloMTLqcjc/pok_tv_s1148_2398-master-it.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/V_P3cAUevLUu1QK45_XiXDYbwTCM2Y4cwEGYDfDzg/pok_tv_s1148_2398-master-it.mp4",
             "captions": "",
-            "size": 2641975382
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xw/V_P3cAUevLUu1QK45_XiXDYbwTCM2Y4cwEGYDfDzg/pok_tv_s1148_2398-master-it.mp4"
         },
         {
             "id": "1d4b6f86becc42f99ca0fd82f977fa79",
@@ -93,16 +78,13 @@
             "title": "Scraggy e un’ostinata Gothita!",
             "description": "Sulla strada per Libecciopoli e la prossima Lotta in Palestra di Ash, i nostri eroi incontrano una Gothita particolarmente ostinata con una cotta per Scraggy!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep07_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep07_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season15/season15_ep07_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/HUtvhr7MQvknKD9gvl3-nk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W8/IySBYGHESlJIrxkg_HAi68rM18VHEIh1EdnvmwNzY/pok_ita_online_pokemon_1507-5c113c380940311084481f06408d493926c80a5d.m3u8",
             "poketv_url": "*",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/aamti2ufz43BTwewWyj_hNnl31Y-_MPOGz_O-zxmg/pok_ita_online_pokemon_1507.mp4",
             "captions": "",
-            "size": 1116513633
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SX/aamti2ufz43BTwewWyj_hNnl31Y-_MPOGz_O-zxmg/pok_ita_online_pokemon_1507.mp4"
         },
         {
             "id": "19408db3389049e4a9489a273e3ce4d9",
@@ -111,16 +93,13 @@
             "title": "Nuovi amici della foresta!",
             "description": "Alcuni dissapori in famiglia danno origine a un favoloso lavoro di squadra!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep37_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep37_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season17/season17_ep37_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/GUCNsziQSeQqUiaJz485Nk/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3w/NHZ25zp0JOj491mP4_IxlQ3j7HzbtprIdmv3S_v4A/pokemon_season17_ep37_ita-cd5c6f0f15da97fdcdbdc6269cd01cea242e9bb6.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3w/NHZ25zp0JOj491mP4_IxlQ3j7HzbtprIdmv3S_v4A/pokemon_season17_ep37_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/IfS67Vf1v7sTx0VoQ4RC-rPsgmEY2_NPinL9-nICI/pokemon_season17_ep37_ita.mp4",
             "captions": "",
-            "size": 2695468217
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mc/IfS67Vf1v7sTx0VoQ4RC-rPsgmEY2_NPinL9-nICI/pokemon_season17_ep37_ita.mp4"
         },
         {
             "id": "bcbfd3663f924128a335a2ced77bedf2",
@@ -129,16 +108,13 @@
             "title": "Alla ricerca del partner perfetto!",
             "description": "Dopo un litigio tra amici, un incontro fortuito dà ai nostri eroi l’opportunità di assistere a un inaspettato lavoro di squadra.",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep01_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep01_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep01_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/vL_TZj-SQSgozWiztd77fI/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nq/09xRPBu8ajcfl-BtpFXM6zsGZoCbKreGceoSDVsRs/pok_tv_s1801_2997-master-it-sdt-v2-h264-e96425af9902f588c6848bdfe31b0914d5376b24.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nq/09xRPBu8ajcfl-BtpFXM6zsGZoCbKreGceoSDVsRs/pok_tv_s1801_2997-master-it-sdt-v2-h264.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/03/e6ENFRpREC56pevscbj4LcjuQiiMcWohvClfh8yoo/pok_tv_s1801_2997-master-it-sdt-v2-h264.mp4",
             "captions": "",
-            "size": 3286990214
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/03/e6ENFRpREC56pevscbj4LcjuQiiMcWohvClfh8yoo/pok_tv_s1801_2997-master-it-sdt-v2-h264.mp4"
         },
         {
             "id": "a41e847c15c04fe8af7ce0bf4f11e4f7",
@@ -147,16 +123,13 @@
             "title": "Chiuso un capitolo, se ne apre un altro…",
             "description": "Uno dei capitoli della vita di un Pokémon finisce ma ne inizia uno del tutto nuovo!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep21_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep21_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep21_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/pB6EfBXAT-gr3zgv08R5Pc/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U-/uxm5ZtD9eGIN0ddLqCEBb7mN1V1vkFZ7oN4edKXVk/pokemon_season20_ep21_ita-778c7efe4be2cb0c0ce26cd216198bee9f453918.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/U-/uxm5ZtD9eGIN0ddLqCEBb7mN1V1vkFZ7oN4edKXVk/pokemon_season20_ep21_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eM/ZX5rC5nqiM5GKxj82TeSn4Jm4rsJ1mL9YaSIe0uA8/pokemon_season20_ep21_ita.mp4",
             "captions": "",
-            "size": 2638074523
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/eM/ZX5rC5nqiM5GKxj82TeSn4Jm4rsJ1mL9YaSIe0uA8/pokemon_season20_ep21_ita.mp4"
         },
         {
             "id": "9f08f3773f5b482e90e264178e17bac0",
@@ -165,16 +138,13 @@
             "title": "Notti di piogge d’amore!",
             "description": "I nostri eroi osservano le stelle, ma non immaginano neppure lo spettacolo che li attende nel cielo notturno!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep35_ss01_180_103.png",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep35_ss01.png",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep35_ss01_360_206.png"
             },
-            "skimming_thumbnail_url_base": "https://img.delvenetworks.com/SVMzbX9UT2cihInCxduo4Y/nwjzdz9bSC4kOJkF44XusA/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/28/3vnuQUVnubzCzqWN0Y61sl2iI0RR3D8elHdImvSAA/pokemon_season21_ep35_ita-c0be0133ab47ac0aa4691c47f756ebea56a61c49.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/14DYSXvklyh9qCzgtJm_okbZIT0LfXIbT9tu6zT9s/pokemon_season21_ep35_ita.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b5/kC7MgPgkKZ5HSstZkt0QB_loFbhQRX6J37ph8Ye0o/pokemon_season21_ep35_ita.mp4",
             "captions": "",
-            "size": 2905969092
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b5/kC7MgPgkKZ5HSstZkt0QB_loFbhQRX6J37ph8Ye0o/pokemon_season21_ep35_ita.mp4"
         },
         {
             "id": "a25a52daad484f128c794ad510e3f67b",
@@ -183,16 +153,13 @@
             "title": "Ci siete andati vicino o quasi!",
             "description": "Mentre Ash e Goh si godono il tour gastronomico a Unima, due dei loro Pokémon restano attaccati tra loro in maniera impensabile!",
             "images": {
-                "small": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_180_103.jpg",
                 "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01.jpg",
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_360_206.jpg"
             },
-            "skimming_thumbnail_url_base": "https://s2.content.video.llnw.net/images-prod/SVMzbX9UT2cihInCxduo4Y/olpS2q1ITxIjHlK1RDj9ns/skim/",
             "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CE/GQfw12NeSIs5DpcCynjf0qIv8cWIYvGWu0qxDg_NA/it-it-23-48-39361943ea8c279e19507a5d18460c5fcdb07f79.m3u8",
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CE/GQfw12NeSIs5DpcCynjf0qIv8cWIYvGWu0qxDg_NA/it-it-23-48.mp4",
-            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qD/Y4Nd58mDeUHp_GdjzxYSsO97NMmttlsqfUPR_8nN0/it-it-23-48.mp4",
             "captions": "",
-            "size": 2696449461
+            "offline_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qD/Y4Nd58mDeUHp_GdjzxYSsO97NMmttlsqfUPR_8nN0/it-it-23-48.mp4"
         }
     ]
 }
