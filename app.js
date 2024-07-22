@@ -63,7 +63,6 @@ async function cleanupDb(){
             cdata.channel_id = channelId;
             cdata.channel_name = vdata.channel_name;
             cdata.channel_description = vdata.channel_description;
-            
             cdata.channel_images = vdata.channel_images;
             
             if(!cdata.channel_images.spotlight_image_1660_940){
@@ -92,7 +91,6 @@ async function cleanupDb(){
             
             cdata.media = [];
             for(const m of vdata.media){
-                delete m.images.small;
                 const mediaData = {
                     id: m.id,
                     season: m.season,
