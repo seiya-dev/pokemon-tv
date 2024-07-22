@@ -360,7 +360,7 @@ function showChannel(){
                     child: [
                         epNumEl,
                         createEl('h4', {
-                            text: v.title,
+                            text: v.title + (v.id.match(/-deleted$/i)?'[DELETED]':''),
                         }),
                         createEl('p', {
                             class: ['episode-description-p'],
@@ -478,11 +478,17 @@ async function showPlayerBox(){
         isLQStream = true;
     }
     
+    window.location.hash = `#/${tvRegion}/video?id=` + video_id;
+    uriLoader();
+    
     if(videoUrl == ''){
         const errVideo = [];
         if(checkVideoId){
             errVideo.push('Failed to Get Video');
             errVideo.push('please report to github project page');
+        }
+        else if(typeof video_id == 'string' && video_id.match(/-deleted$/i)){
+            errVideo.push('DELETED', 'Media was deleted.');
         }
         else{
             errVideo.push('Bad Video ID');
@@ -490,9 +496,6 @@ async function showPlayerBox(){
         showErrorPlayerBox(errVideo);
         return;
     }
-    
-    window.location.hash = `#/${tvRegion}/video?id=` + video_id;
-    uriLoader();
     
     let videoTitle = '';
     if(v.season && v.episode && v.season != '' && v.episode != ''){
