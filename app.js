@@ -67,7 +67,7 @@ async function cleanupDb(){
             cdata.channel_images = vdata.channel_images;
             
             if(!cdata.channel_images.spotlight_image_1660_940){
-                console.warn('-> WARN: Missing spotlight image 1660x940:', cdata.channel_id);
+                console.warn('-> WARN: Missing spotlight image 1660x940:', mTypeCat, channelId);
             }
             
             Object.assign(cdata, findCat(mTypeCat));
@@ -106,7 +106,7 @@ async function cleanupDb(){
                     offline_url: m.offline_url,
                 };
                 if(m.id.match(/^[-0-9a-f]{32}$/) && m.poketv_url == ''){
-                    console.warn('-> WARN: Missing poketv_url:', m.id, cdata.channel_id, m.season, m.episode);
+                    console.warn('-> WARN: Missing poketv_url:', m.id, mTypeCat, channelId, m.season, m.episode);
                 }
                 cdata.media.push(mediaData);
             }
