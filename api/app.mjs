@@ -27,7 +27,9 @@ app.get('/h/', async (req, res) => {
     res.setHeader('Content-Type', 'application/json');
     if(req.query.url && req.query.url.match(domainRegex)){
         try{
-            const vHead = await got.head(req.query.url);
+            const vHead = await got.head(req.query.url, {
+                throwHttpErrors: false,
+            });
             if(vHead.statusCode == 200){
                 res.end(JSON.stringify({ ok: true, }));
             }
