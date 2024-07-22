@@ -105,7 +105,7 @@ async function cleanupDb(){
                     captions: m.captions,
                     offline_url: m.offline_url,
                 };
-                if(m.id.match(/^[-0-9a-f]{32}$/) && m.poketv_url == ''){
+                if(cdata.category_id != 2 && m.id.match(/^[-0-9a-f]{32}$/) && m.poketv_url == ''){
                     console.warn('-> WARN: Missing poketv_url:', m.id, mTypeCat, channelId, m.season, m.episode);
                 }
                 cdata.media.push(mediaData);
@@ -124,6 +124,9 @@ async function indexDb(){
         const dbData = [];
         for(let f of ccfolder){
             const chData = jsonLoad(dirPath(cc) + f);
+            if(chData.category_id == 2){
+                continue;
+            }
             dbData.push(chData);
         }
         dbData.sort(sortItems);
