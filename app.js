@@ -77,15 +77,19 @@ async function cleanupDb(){
             }
             if(cdata.category_id == 1){
                 const seriesNum = cdata.channel_id.match(/^season(?<num>\d+)$/);
-                const seriesNumInt = parseInt(seriesNum.groups.num);
-                cdata.order = seriesNumInt * -1000;
+                if(seriesNum && seriesNum.groups.num){
+                    const seriesNumInt = parseInt(seriesNum.groups.num);
+                    cdata.order = seriesNumInt * -1000;
+                }
             }
             if(cdata.category_id == 3){
                 const movieNum = cdata.channel_id.match(/^movie(?<num>\d+)(?<sub>\w)?$/);
-                const movieNumInt = parseInt(movieNum.groups.num);
-                cdata.order = movieNumInt * -1000;
-                if(movieNumInt == 14 && movieNum.groups.sub == 'w'){
-                    cdata.order -= 1;
+                if(movieNum && movieNum.groups.num){
+                    const movieNumInt = parseInt(movieNum.groups.num);
+                    cdata.order = movieNumInt * -1000;
+                    if(movieNumInt == 14 && movieNum.groups.sub == 'w'){
+                        cdata.order -= 1;
+                    }
                 }
             }
             
