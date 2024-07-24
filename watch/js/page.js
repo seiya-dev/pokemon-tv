@@ -595,24 +595,19 @@ function generatePlayerHeader(videoTitle, isIFramePlayer){
     const videoTitleEl = createEl('div', {
         class: headerClass,
         child: [
-            // createEl('div', {
-            //     class: ['header-bar-small'],
-            //     child: [
-                    createEl('span', {
-                        class: ['header-back-button'],
-                        event: {
-                            type: 'click',
-                            func: () => {
-                                closePlayerBox(false);
-                            },
-                        },
-                    }),
-                    createEl('span', {
-                        class: ['header-description'],
-                        innerText: videoTitle
-                    }),
-            //   ],
-            //),
+            createEl('span', {
+                class: ['header-back-button'],
+                event: {
+                    type: 'click',
+                    func: () => {
+                        closePlayerBox(false);
+                    },
+                },
+            }),
+            createEl('span', {
+                class: ['header-description'],
+                innerText: videoTitle
+            }),
         ],
     });
     
