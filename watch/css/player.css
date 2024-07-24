@@ -105,10 +105,12 @@
     align-items: center;
 }
 #player-box .vjs-header-bar .header-description {
-    font-size: 1.5rem;
-    overflow-x: hidden;
     height: 50px;
     line-height: 50px;
+    font-size: 1.5rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .vjs-has-started.vjs-user-inactive.vjs-playing .vjs-header-bar {
     visibility: visible;
