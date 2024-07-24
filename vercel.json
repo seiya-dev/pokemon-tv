@@ -1,11 +1,11 @@
 {
     "installCommand": "pnpm install",
-    "buildCommand": "node ./app.js",
+    "buildCommand": "node ./api/build.mjs",
     "outputDirectory": "watch",
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/api/app.mjs"
+            "destination": "/api/host.mjs"
         }
     ]
 }

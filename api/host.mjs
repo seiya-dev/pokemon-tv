@@ -16,8 +16,8 @@ const app = express();
 const PORT = 11025;
 
 // set static
-const masterDir = path.join(__dirname, '..', 'watch');
-app.use(express.static(masterDir));
+const watchDir = path.join(__dirname, '..', 'watch');
+app.use(express.static(watchDir));
 
 // set domain
 const domainRegex = /^https:\/\/(s2\.content\.video\.llnw\.net|s2\.cpl\.delvenetworks\.com)\//;
@@ -60,7 +60,9 @@ app.get('/h/', async (req, res) => {
 app.get('/vtt/', async (req, res) => {
    if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.vtt$/)){
         try{
-            const vHead = await got(req.query.url);
+            const vHead = await got(req.query.url, {
+                throwHttpErrors: false,
+            });
             if(vHead.statusCode == 200){
                 res.setHeader('Content-Type', 'text/vtt');
                 res.end(vHead.body);
@@ -82,7 +84,9 @@ app.get('/vtt/', async (req, res) => {
 app.get('/m3u8/', async (req, res) => {
    if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.m3u8$/)){
         try{
-            const vHead = await got(req.query.url);
+            const vHead = await got(req.query.url, {
+                throwHttpErrors: false,
+            });
             if(vHead.statusCode == 200){
                 const rhost = new URL(req.query.url).origin
                 const vPath = new URL(req.query.url).pathname.split('/').slice(0, -1).join('/');
@@ -128,7 +132,7 @@ app.get('/v/', async (req, res) => {
                         clienttype: 0,
                         uk: vBody.uk,
                         shareid: vBody.shareid,
-                        type: 'M3U8_AUTO_720',
+                        type: 'M3U8_AUTO_1080',
                         fid: vBody.list[0].fs_id,
                         sign: vBody.sign,
                         timestamp: vBody.timestamp,

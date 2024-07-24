@@ -13,4 +13,4 @@
 - [PTV RU - S17E01](https://poke-tv.vercel.app/#/ru/video?id=526ce5a953ab49688deeaa7bebcc2f1d)
 
 # Warning about scammers 
-Official domain for this project is poke-tv.vercel.app, all others can be or maybe created by scammers 
+Official domain for this project is [poke-tv.vercel.app](https://poke-tv.vercel.app/), all others can be or maybe created by scammers 
