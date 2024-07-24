@@ -595,9 +595,9 @@ function generatePlayerHeader(videoTitle, isIFramePlayer){
     const videoTitleEl = createEl('div', {
         class: headerClass,
         child: [
-            createEl('div', {
-                class: ['header-bar-small'],
-                child: [
+            // createEl('div', {
+            //     class: ['header-bar-small'],
+            //     child: [
                     createEl('span', {
                         class: ['header-back-button'],
                         event: {
@@ -611,8 +611,8 @@ function generatePlayerHeader(videoTitle, isIFramePlayer){
                         class: ['header-description'],
                         innerText: videoTitle
                     }),
-                ],
-            }),
+            //   ],
+            //),
         ],
     });
     
