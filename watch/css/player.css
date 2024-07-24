@@ -105,6 +105,7 @@
     align-items: center;
 }
 #player-box .vjs-header-bar .header-description {
+    width: calc(100% - 120px);
     height: 50px;
     line-height: 50px;
     font-size: 1.5rem;
