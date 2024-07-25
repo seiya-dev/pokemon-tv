@@ -105,9 +105,8 @@ async function cleanupDb(){
                     stream_url: m.stream_url,
                     poketv_url: m.poketv_url,
                     captions: m.captions,
-                    offline_url: m.offline_url,
                 };
-                if(cdata.category_id != 2 && m.id.match(/^[-0-9a-f]{32}$/) && m.poketv_url == ''){
+                if(cdata.category_id != 2 && m.id.match(/^[0-9a-f]{32}$/) && m.poketv_url == ''){
                     console.warn('-> WARN: Missing poketv_url:', m.id, mTypeCat, channelId, m.season, m.episode);
                 }
                 cdata.media.push(mediaData);
