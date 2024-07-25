@@ -398,31 +398,21 @@ async function showPlayerBox(){
     const v = curVideo;
     const channelVideoCount = curChannel.media.length;
     const videoIndex = curChannel.media.indexOf(v);
-    const m3u8data = { use: false };
     
-    v.stream_url_root = '';
-    if(typeof v.stream_url != 'string'){
-        v.stream_url = '';
-    }
+    let videoUrl = '';
+    let videoTitle = '';
+    let captionsUrl = '';
+    let posterUrl = '';
     
-    if(!v.images || Object.prototype.toString.call(v.images) != '[object Object]'){
-        v.images = {};
-    }
-    
+    let isEmbed = false;
+    let isDLAvailable = false;
     showLoadingPlayerBox();
     
-    let checkVideoId = false;
-    let videoData = {}, isLQStream = false;
-    let vData = {}, checkMaster = {}, videoUrl = '', vBitrate = 0;
-    
-    if(typeof video_id == 'string' && video_id.match(/^[-0-9a-f]{32}$/)){
-        checkVideoId = true;
-    }
-    
     if(typeof v.stream_url == 'string' && v.stream_url.match(/^EMBED:/i)){
-        videoUrl = v.stream_url;
-        v.embed_url = v.stream_url.replace(/^EMBED:/i,'');
-        checkVideoId = true;
+        videoUrl = v.stream_url.replace(/^EMBED:/i, '');
+        console.log('embed url:', v.stream_url);
+        isDLAvailable = false;
+        isEmbed = true;
     }
     
     if(videoUrl == '' && typeof v.poketv_url == 'string' && v.poketv_url != ''){
@@ -430,168 +420,76 @@ async function showPlayerBox(){
         console.log('poketv url:', v.poketv_url);
     }
     
-    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != '' && v.stream_url.match(/^fm:/)){
-        const reqFmUrl = await doReq('/v/?id=' + v.stream_url.replace(/^fm:/, ''));
-        if(reqFmUrl.ok){
-            videoUrl = reqFmUrl.json.url;
-            console.log('master url:', (new URL(videoUrl, 'https://example.com')).searchParams);
-            m3u8data.use = true;
-        }
-    }
-    
-    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != '' && v.stream_url.match(/-[-0-9a-f]{40}.m3u8$/)){
-        const masterUrl = v.stream_url.replace(/-[-0-9a-f]{40}.m3u8$/, '.mp4');
-        checkMaster = await doReq('/h/?url=' + encodeURIComponent(masterUrl));
-        if(checkMaster.ok){
-            videoUrl = masterUrl;
-            console.log('master url:', masterUrl);
-        }
-        else{
-            /*
-            videoData = await doReq('/m3u8/?url=' + encodeURIComponent(v.stream_url));
-            if(videoData.ok){
-                videoUrl = '/m3u8/?url=' + encodeURIComponent(v.stream_url);
-                m3u8data.use = true;
-            }
-            */
-        }
-    }
-    
     if(videoUrl == '' && typeof v.offline_url == 'string' && v.offline_url != ''){
         videoUrl = v.offline_url;
         console.log('offline url:', v.offline_url);
-        m3u8data.use = true;
-        isLQStream = true;
+        isDLAvailable = false;
     }
     
+    // set url
     window.location.hash = `#/${tvRegion}/video?id=` + video_id;
     uriLoader();
     
+    // set error
     if(videoUrl == ''){
         const errVideo = [];
-        if(checkVideoId){
-            errVideo.push('Failed to Get Video');
-            errVideo.push('please report to github project page');
-        }
-        else if(typeof video_id == 'string' && video_id.match(/-deleted$/i)){
+        if(typeof video_id == 'string' && video_id.match(/-deleted$/i)){
             errVideo.push('DELETED', 'Media was deleted.');
         }
         else{
-            errVideo.push('Bad Video ID');
+            errVideo.push('NOT FOUND', 'Media not found.');
         }
         showErrorPlayerBox(errVideo);
         return;
     }
     
-    let videoTitle = '';
+    // set title
     if(v.season && v.episode && v.season != '' && v.episode != ''){
         videoTitle += `S${v.season.padStart(2, '0')}E${v.episode.padStart(2, '0')} - `;
     }
     if(v.title){
         videoTitle += v.title;
     }
-    if(videoTitle == '' && vData.title){
-        videoTitle = vData.title;
-    }
     if(videoTitle == ''){
         videoTitle = 'PLAYING...';
     }
-    if(isLQStream){
-        videoTitle += ' (LQ)';
-    }
     
-    removeChildEls('player-box');
-    if(typeof v.embed_url == 'string' && v.embed_url != ''){
-        genVideoEmbed(v.embed_url);
-        generatePlayerHeader(videoTitle, true);
-        return;
-    }
-    
-    let posterUrl = '';
-    if(typeof vData.imageUrl == 'string' && vData.imageUrl != ''){
-        posterUrl = u2s(vData.imageUrl);
-    }
+    // set poster
     if(typeof v.images.large == 'string' && v.images.large != ''){
         posterUrl = v.images.large;
     }
     
-    let captionsUrl;
+    // set caption url
     if(typeof v.captions == 'string' && v.captions != ''){
         captionsUrl = '/vtt/?url=' + encodeURIComponent(v.captions);
     }
     
-    videojs.Vhs.xhr.beforeRequest = (options) => {
-        if(m3u8data.use && v.stream_url != ''){
-            options.mode = "cors";
-            console.log('befReq:', options);
-            if(options.uri.match(/^https:\/\/v4\.freeterabox.com\//)){
-                // options.uri = 'https://corsproxy.io/?' + encodeURIComponent(options.uri);
-            }
-            if(!options.uri.match(/\/m3u8\//) && options.uri.match(/\.m3u8$/)){
-                options.uri = '/m3u8/?url=' + encodeURIComponent(options.uri);
-            }
-        }
-        return options;
-    };
+    removeChildEls('player-box');
+    genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed);
+    genPlayerHeader(videoTitle, isEmbed);
     
-    genVideoEl(videoUrl, posterUrl, captionsUrl);
+    if(!isEmbed){
+        addDownloadButton(videoUrl);
+    }
     
-    player = videojs('#' + pl_id, {
-        preload: 'auto',
-        html5: {
-            vhs: {
-                overrideNative: true,
-            },
-            nativeAudioTracks: false,
-            nativeVideoTracks: false,
-        },
-        controlBar: {
-            controls: true,
-            volumePanel: {
-                inline: false,
-            },
-            children: [
-                'playToggle',
-                'volumeMenuButton',
-                'progressControl',
-                'volumePanel',
-                'subsCapsButton',
-                'qualitySelector',
-                'fullscreenToggle',
-            ],
-        },
-    });
-    
-    generatePlayerHeader(videoTitle);
+    if(isEmbed){
+        createControlBar();
+    }
     
     let new_video_id;
     if(videoIndex > 0){
         new_video_id = curChannel.media[videoIndex - 1].id;
-        makeControlButton('previous', new_video_id);
+        makeControlButton('previous', new_video_id, isEmbed);
     }
     if(videoIndex < channelVideoCount - 1){
         new_video_id = curChannel.media[videoIndex + 1].id;
-        makeControlButton('next', new_video_id);
+        makeControlButton('next', new_video_id, isEmbed);
     }
-    
-    if(!m3u8data.use){
-        addDownloadButton(videoUrl);
-    }
-    
-    player.mobileUi();
-    player.hotkeys({
-        volumeStep: 0.1,
-        seekStep: 5,
-        enableModifiersForNumbers: false,
-        alwaysCaptureHotkeys: true,
-    });
 }
 
-function generatePlayerHeader(videoTitle, isIFramePlayer){
+function genPlayerHeader(videoTitle, isEmbed){
     const headerClass = ['vjs-header-bar'];
-    if(isIFramePlayer){
-        headerClass.push('iframe-player');
-    }
+    
     const videoTitleEl = createEl('div', {
         class: headerClass,
         child: [
@@ -611,12 +509,12 @@ function generatePlayerHeader(videoTitle, isIFramePlayer){
         ],
     });
     
-    if(qSel(`#${pl_id}`)){
-        qSel(`#${pl_id}`).appendChild(videoTitleEl);
+    if(!isEmbed && player.player_){
+        qSel('#'+pl_id).appendChild(videoTitleEl);
+        return;
     }
-    else{
-        qSel('#player-box').appendChild(videoTitleEl);
-    }
+    
+    qSel('#player-box').appendChild(videoTitleEl);
 }
 
 function makeControlButton(type = '', new_video_id = ''){
@@ -639,7 +537,7 @@ function makeControlButton(type = '', new_video_id = ''){
         buttonCfg.text = 'Next';
     }
     else{
-        console.warn('[Warn] Wrong button type!');
+        console.warn(':: Warn: Wrong button type!');
         return;
     }
     
@@ -667,7 +565,12 @@ function makeControlButton(type = '', new_video_id = ''){
         ],
     });
     
-    qSel(`#${pl_id} .vjs-control-bar`).prepend(controlButton);
+    if(!isEmbed && player.player_){
+        qSel('#'+pl_id+' .vjs-control-bar').prepend(controlButton);
+        return;
+    }
+    
+    // qSel('#player-box').prepend();
 }
 
 function addDownloadButton(url){
@@ -697,9 +600,14 @@ function addDownloadButton(url){
             }),
         ],
     });
-    const beforeSelEl = qSel(`#${pl_id} .vjs-control-bar .vjs-fullscreen-control`);
-    const parentEl = beforeSelEl.parentNode;
-    parentEl.insertBefore(downloadButton, beforeSelEl);
+    try{
+        const beforeSelEl = qSel('#'+pl_id+' .vjs-control-bar .vjs-fullscreen-control');
+        const parentEl = beforeSelEl.parentNode;
+        parentEl.insertBefore(downloadButton, beforeSelEl);
+    }
+    catch(error){
+        console.error(':: Failed to create download button:', error);
+    }
 }
 
 function showLoadingPlayerBox(){
@@ -756,14 +664,19 @@ function closePlayerBox(byCloseButton){
     uriLoader();
 }
 
-function genVideoEmbed(videoUrl){
-    appendHTML('#player-box', [
-        '<iframe id="embed" src="'+videoUrl+'"',
-        'scrolling="no" allowfullscreen></iframe>',
-    ].join(' '));
-}
-
-function genVideoEl(videoUrl, posterUrl, captionsUrl){
+function genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed){
+    if(isEmbed){
+        const embedOpts = {
+            id: 'embed',
+            src: videoUrl,
+            scrolling: 'no',
+            allowfullscreen: '',
+        };
+        const iframeEl = createEl('iframe', embedOpts);
+        qSel('#player-box').appendChild(iframeEl);
+        return;
+    }
+    
     const videoElOpts = {
         id: pl_id,
         class: ['video-js'],
@@ -805,4 +718,41 @@ function genVideoEl(videoUrl, posterUrl, captionsUrl){
     }
     
     qSel('#player-box').appendChild(videoEl);
+    initVideoJSPlayer();
+}
+
+function initVideoJSPlayer(){
+    player = videojs('#' + pl_id, {
+        preload: 'auto',
+        html5: {
+            vhs: {
+                overrideNative: true,
+            },
+            nativeAudioTracks: false,
+            nativeVideoTracks: false,
+        },
+        controlBar: {
+            controls: true,
+            volumePanel: {
+                inline: false,
+            },
+            children: [
+                'playToggle',
+                'volumeMenuButton',
+                'progressControl',
+                'volumePanel',
+                'subsCapsButton',
+                'qualitySelector',
+                'fullscreenToggle',
+            ],
+        },
+    });
+    
+    player.mobileUi();
+    player.hotkeys({
+        volumeStep: 0.1,
+        seekStep: 5,
+        enableModifiersForNumbers: false,
+        alwaysCaptureHotkeys: true,
+    });
 }
