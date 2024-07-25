@@ -473,7 +473,7 @@ async function showPlayerBox(){
     }
     
     if(isEmbed){
-        createControlBar();
+        createEmbedControlBar();
     }
     
     let new_video_id;
@@ -515,6 +515,10 @@ function genPlayerHeader(videoTitle = '', isEmbed = false){
     }
     
     qSel('#player-box').appendChild(videoTitleEl);
+}
+
+function createEmbedControlBar(){
+    
 }
 
 function makeControlButton(type = '', new_video_id = '', isEmbed = false){
