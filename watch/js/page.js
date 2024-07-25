@@ -509,6 +509,8 @@ function genPlayerHeader(videoTitle = '', isEmbed = false){
         ],
     });
     
+    document.title += ' - ' + videoTitle;
+    
     if(!isEmbed && player.player_){
         qSel('#'+pl_id).appendChild(videoTitleEl);
         return;
@@ -663,6 +665,7 @@ function closePlayerBox(byCloseButton){
     qSel('#player-box').style.display = 'none';
     qSel('#player-close-button').style.display = 'none';
     qSel('body').style.overflow = 'auto';
+    document.title = document.title.split(' - ')[0];
     
     window.location.hash = `#/${tvRegion}/` + (channel != '' ? 'channel?id=' + channel : '');
     uriLoader();
