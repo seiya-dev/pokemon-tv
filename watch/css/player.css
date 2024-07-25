@@ -123,10 +123,35 @@
 }
 
 /* control bar */
-#playerContainer .vjs-control-bar {
+#player-box .vjs-control-bar {
     display: flex;
     height: 100px;
     padding: 10px 40px;
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    background-color: rgba(43, 51, 63, 0.7);
+}
+
+#player-box .vjs-control-bar.vjs-embed {
+    height: 60px;
+}
+
+#player-box .vjs-control-bar.vjs-embed .vjs-button {
+    background: none;
+    border: none;
+    color: rgb(255, 255, 255);
+}
+
+#player-box .vjs-control-bar.vjs-embed .vjs-button:focus {
+    text-shadow: 0em 0em 1em white;
+}
+
+#player-box .vjs-control-bar.vjs-embed .vjs-control-text {
+    display: none;
 }
 
 /* buttons order */

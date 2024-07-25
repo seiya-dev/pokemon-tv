@@ -518,7 +518,12 @@ function genPlayerHeader(videoTitle = '', isEmbed = false){
 }
 
 function createEmbedControlBar(){
+    const embedContolBar = createEl('div', {
+        class: ['vjs-control-bar','vjs-embed'],
+        dir: 'ltr',
+    });
     
+    qSel('#player-box').appendChild(embedContolBar);
 }
 
 function makeControlButton(type = '', new_video_id = '', isEmbed = false){
@@ -569,12 +574,7 @@ function makeControlButton(type = '', new_video_id = '', isEmbed = false){
         ],
     });
     
-    if(!isEmbed && player.player_){
-        qSel('#'+pl_id+' .vjs-control-bar').prepend(controlButton);
-        return;
-    }
-    
-    // qSel('#player-box').prepend();
+    qSel('#player-box .vjs-control-bar').prepend(controlButton);
 }
 
 function addDownloadButton(url){
@@ -605,7 +605,7 @@ function addDownloadButton(url){
         ],
     });
     try{
-        const beforeSelEl = qSel('#'+pl_id+' .vjs-control-bar .vjs-fullscreen-control');
+        const beforeSelEl = qSel('#player-box .vjs-control-bar .vjs-fullscreen-control');
         const parentEl = beforeSelEl.parentNode;
         parentEl.insertBefore(downloadButton, beforeSelEl);
     }
