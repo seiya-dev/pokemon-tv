@@ -487,7 +487,7 @@ async function showPlayerBox(){
     }
 }
 
-function genPlayerHeader(videoTitle, isEmbed){
+function genPlayerHeader(videoTitle = '', isEmbed = false){
     const headerClass = ['vjs-header-bar'];
     
     const videoTitleEl = createEl('div', {
@@ -517,7 +517,7 @@ function genPlayerHeader(videoTitle, isEmbed){
     qSel('#player-box').appendChild(videoTitleEl);
 }
 
-function makeControlButton(type = '', new_video_id = ''){
+function makeControlButton(type = '', new_video_id = '', isEmbed = false){
     const curChannel = tvData.channels.filter(s => s.channel_id == channel);
     if(curChannel.length < 1){
         return;
@@ -664,7 +664,7 @@ function closePlayerBox(byCloseButton){
     uriLoader();
 }
 
-function genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed){
+function genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed = false){
     if(isEmbed){
         const embedOpts = {
             id: 'embed',
