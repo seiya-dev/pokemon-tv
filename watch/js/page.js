@@ -95,8 +95,6 @@ async function loadMain(){
         }
     }
     
-    console.log(uriData, channel, video_id);
-    
     if(regionLoaded){
         loadData();
         if(channel != ''){
