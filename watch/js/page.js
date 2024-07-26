@@ -525,6 +525,7 @@ function genPlayerHeader(videoTitle = '', isEmbed = false){
         ],
     });
     
+    document.title = document.title.split(' - ')[0];
     document.title += ' - ' + videoTitle;
     
     if(!isEmbed && player.player_){
