@@ -19,8 +19,8 @@ function uriLoader(){
     uri = uri.hash.replace(/^#/, '');
     uri = new URL(uri, 'https://watch.pokemon.com');
     
-    const regDefType = '(channel|video|)?$';
-    const regUri = new RegExp(`^/(${Object.keys(tvRegions).join('|')})/${regDefType}`);
+    const regDefType = '(?<page_type>channel|video|)?$';
+    const regUri = new RegExp(`^/(?<region>${Object.keys(tvRegions).join('|')})/${regDefType}`);
     const uriData = uri.pathname.match(regUri);
     
     if(!uriData){
@@ -28,7 +28,11 @@ function uriLoader(){
         return uriLoader();
     }
     
-    return { uri, regUri, uriData };
+    const pageParam = uriData.groups;
+    pageParam.page_type = pageParam.page_type || '';
+    pageParam.query = uri.searchParams;
+    
+    return pageParam;
 }
 
 async function loadMain(){
@@ -43,44 +47,55 @@ async function loadMain(){
     qSel('#region').addEventListener('change', async () => {
         tvRegion = qSel('#region').value;
         channel = '';
+        
         window.location.hash = `#/${tvRegion}/`;
         uriLoader();
+
         removeChildEls('body-content');
         const regionLoaded = await loadRegion();
+        
         if(regionLoaded){
             await loadData();
         }
     }, false);
     
-    const uriData = uriLoader()['uriData'];
-    qSel('#region').value = uriData[1];
-    tvRegion = uriData[1];
+    const uriData = uriLoader();
+    qSel('#region').value = uriData.region;
+    tvRegion = uriData.region;
     
     const regionLoaded = await loadRegion();
     
-    if(uriData[2] == 'video' && uriLoader()['uri'].searchParams.get('id')){
-        for(let c of tvData.channels){
-            let selVideo1 = c.media.filter(v => v.id == uriLoader()['uri'].searchParams.get('id') && c.category_id != 2);
-            let selVideo2 = c.media.filter(v => v.id == uriLoader()['uri'].searchParams.get('id') && c.category_id == 2);
-            if(selVideo1.length > 0){
-                channel  = c.channel_id;
-                video_id = uriLoader()['uri'].searchParams.get('id');
-            }
-            else if(selVideo2.length > 0 && channel == ''){
-                channel  = c.channel_id;
-                video_id = uriLoader()['uri'].searchParams.get('id');
+    if(uriData.page_type == 'channel' && uriData.query.get('id')){
+        const selChannel = tvData.channels.filter(c => c.channel_id == uriData.query.get('id'));
+        if(selChannel.length > 0){
+            channel = selChannel[0].channel_id;
+            if(selChannel.length > 1){
+                console.warn(':: WARN: Exists two channels with same id!');
             }
         }
-        if(video_id == '' && uriLoader()['uri'].searchParams.get('id').match(/^[-0-9a-f]{32}$/)){
-            video_id = uriLoader()['uri'].searchParams.get('id');
+    }
+    
+    if(uriData.page_type == 'video' && uriData.query.get('id')){
+        if(uriData.query.get('c')){
+            const selChannel = tvData.channels.filter(c => c.channel_id == uriData.query.get('c'));
+            if(selChannel.length > 0){
+                channel = selChannel[0].channel_id;
+            }
+        }
+        
+        for(const c of tvData.channels){
+            if(channel == '' || channel == c.channel_id){
+                const selVideo = c.media.filter(v => v.id == uriData.query.get('id'));
+                if(selVideo.length > 0){
+                    channel  = c.channel_id;
+                    video_id = selVideo[0].id;
+                    break;
+                }
+            }
         }
     }
-    else if(uriData[2] == 'channel' && uriLoader()['uri'].searchParams.get('id')){
-        let selChan = tvData.channels.filter(c => c.channel_id == uriLoader()['uri'].searchParams.get('id'));
-        if(selChan.length > 0){
-            channel = uriLoader()['uri'].searchParams.get('id');
-        }
-    }
+    
+    console.log(uriData, channel, video_id);
     
     if(regionLoaded){
         loadData();
@@ -427,8 +442,11 @@ async function showPlayerBox(){
     }
     
     // set url
-    window.location.hash = `#/${tvRegion}/video?id=` + video_id;
-    uriLoader();
+    if(videoIndex > -1){
+        const curChannelId = channel != '' ? `c=${channel}&` : '';
+        window.location.hash = `#/${tvRegion}/video?${curChannelId}id=${video_id}`;
+        uriLoader();
+    }
     
     // set error
     if(videoUrl == ''){
