@@ -1,6 +1,6 @@
 {
     "installCommand": "pnpm install",
-    "buildCommand": "node ./api/build.mjs",
+    "buildCommand": "node ./app/build.mjs",
     "outputDirectory": "watch",
     "rewrites": [
         {
