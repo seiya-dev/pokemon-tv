@@ -421,22 +421,16 @@ async function showPlayerBox(){
     let isDLAvailable = false;
     showLoadingPlayerBox();
     
-    if(typeof v.stream_url == 'string' && v.stream_url.match(/^EMBED:/i)){
-        videoUrl = v.stream_url.replace(/^EMBED:/i, '');
-        console.log('embed url:', v.stream_url);
-        isDLAvailable = false;
-        isEmbed = true;
-    }
-    
-    if(videoUrl == '' && typeof v.poketv_url == 'string' && v.poketv_url != ''){
+    if(typeof v.poketv_url == 'string' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
         console.log('poketv url:', v.poketv_url);
     }
     
-    if(videoUrl == '' && typeof v.offline_url == 'string' && v.offline_url != ''){
-        videoUrl = v.offline_url;
-        console.log('offline url:', v.offline_url);
+    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url.match(/^EMBED:/i)){
+        videoUrl = v.stream_url.replace(/^EMBED:/i, '');
+        console.log('embed url:', v.stream_url);
         isDLAvailable = false;
+        isEmbed = true;
     }
     
     // set url
