@@ -426,11 +426,20 @@ async function showPlayerBox(){
         console.log('poketv url:', v.poketv_url);
     }
     
-    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url.match(/^EMBED:/i)){
-        videoUrl = v.stream_url.replace(/^EMBED:/i, '');
-        console.log('embed url:', v.stream_url);
+    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url.match(/#EMBED$/i)){
+        videoUrl = v.stream_url.replace(/#EMBED$/i, '');
+        if(v.stream_url.match(/^https:\/\/www\.terabox\.com\//)){
+            videoUrl += '&resolution=1080&autoplay=false';
+        }
+        console.log('embed url:', videoUrl);
         isDLAvailable = false;
         isEmbed = true;
+    }
+    
+    if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url.match(/#.m3u8$/i)){
+        videoUrl = v.stream_url;
+        console.log('stream url:', videoUrl);
+        isDLAvailable = false;
     }
     
     // set url
@@ -478,7 +487,7 @@ async function showPlayerBox(){
     genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed);
     genPlayerHeader(videoTitle, isEmbed);
     
-    if(!isEmbed){
+    if(isDLAvailable){
         addDownloadButton(videoUrl);
     }
     
@@ -709,19 +718,17 @@ function genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed = false){
     
     const sourceEl = createEl('source');
     sourceEl.src = videoUrl;
-    if(sourceEl.src.match(/\.mp4$/i)){
+    if(sourceEl.src.match(/\.mp4(\?.*)?$/i)){
         sourceEl.type = 'video/mp4';
     }
-    if(sourceEl.src.match(/\.m3u8$/i)){
-        sourceEl.type = 'application/x-mpegURL';
-    }
-    if(sourceEl.src.match(/\.m3u8%3F/i)){
+    if(sourceEl.src.match(/\.m3u8(\?.*)?$/i)){
         sourceEl.type = 'application/x-mpegURL';
     }
     if(sourceEl.src.match(/^data:application\/vnd.videojs.vhs\+json/)){
         sourceEl.type = 'application/vnd.videojs.vhs+json';
     }
     
+    console.log(sourceEl);
     const videoEl = createEl('video', videoElOpts);
     videoEl.appendChild(sourceEl);
     
