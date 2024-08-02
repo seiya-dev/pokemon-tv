@@ -116,6 +116,7 @@ app.get('/m3u8/', async (req, res) => {
 });
 
 app.get('/v/', async (req, res) => {
+    /*
     res.setHeader('Content-Type', 'application/json');
     if(
         req.query.uid && req.query.uid.match(/^[1-9][0-9]{1,30}?$/i) &&
@@ -169,31 +170,65 @@ app.get('/v/', async (req, res) => {
         }
         return;
     }
+    */
     if(
         req.query.surl && req.query.surl.match(/^[0-9a-z-_]{10,30}$/i)
     ){
         try{
-            const reqfm = 'https://www.terabox.com/api/shorturlinfo?app_id=250528&channel=dubox&clienttype=0&root=1&shorturl=1'+req.query.surl;
+            const proxyUrl = 'https://wholly-api.skinnyrunner.com/get/website-data.php?get_html=';
+            const shortUrlApi = new URL('https://www.terabox.com/api/shorturlinfo');
+            shortUrlApi.search = new URLSearchParams({
+                app_id: 250528,
+                channel: 'dubox',
+                clienttype: 0,
+                root: 1,
+                shorturl: 1 + req.query.surl,
+            });
+            const reqfm = proxyUrl + encodeURIComponent(shortUrlApi.href);
             const vData = await got(reqfm, {
-                headers: {
-                    'User-Agent': 'Mozilla /5.0',
-                    Accept: '*/*',
-                    Host: new URL(reqfm).host,
-                },
                 throwHttpErrors: false,
             });
             if(vData.statusCode == 200){
                 const vBody = JSON.parse(vData.body);
                 if(vBody.errno == 0){
                     let file_id = 0;
-                    console.log(vBody);
                     if(vBody.list.length > 0){
                         file_id = vBody.list[0].fs_id;
+                    }                    
+                    const reqpl = new URL('https://www.terabox.com/share/extstreaming.m3u8');
+                    reqpl.search = new URLSearchParams({
+                        app_id: 250528,
+                        channel: 'dubox',
+                        clienttype: 0,
+                        uk: vBody.uk,
+                        shareid: vBody.shareid,
+                        type: 'M3U8_AUTO_720',
+                        fid: file_id,
+                        sign: crypto.randomBytes(20).toString('hex'),
+                        timestamp: +new Date(),
+                    });
+                    
+                    const plData = await got(reqpl, {
+                        throwHttpErrors: false,
+                    });
+                    
+                    if(plData.statusCode == 200){
+                        const pl = plData.body.split('\n').map(v => {
+                            if(v.match(/^http/)){
+                                return 'https://apis.forn.fun/tera/proxy.php?url=' + encodeURIComponent(v);
+                            }
+                            return v;
+                        });
+                        res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
+                        res.end(pl.join('\n').replace(/#EXT-X-DISCONTINUITY\n/g,''));
                     }
-                    res.end(JSON.stringify({
-                        ok: true,
-                        url: `/v/?uid=${vBody.uk}&sid=${vBody.shareid}&fid=${file_id}`
-                    }));
+                    else{
+                        res.status(plData.statusCode);
+                        res.end(JSON.stringify({
+                            ok: false,
+                            error: 'status code: ' + plData.statusCode,
+                        }));
+                    }
                 }
                 else{
                     // console.log(vData);
