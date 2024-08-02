@@ -1,6 +1,7 @@
 // modules
 import os from 'os';
 import path from 'path';
+import crypto from 'crypto';
 import express from 'express';
 import got from 'got';
 
@@ -116,39 +117,91 @@ app.get('/m3u8/', async (req, res) => {
 
 app.get('/v/', async (req, res) => {
     res.setHeader('Content-Type', 'application/json');
-    if(req.query.id && req.query.id.match(/^[0-9a-z-]{10,30}$/i)){
+    if(
+        req.query.uid && req.query.uid.match(/^[1-9][0-9]{1,30}?$/i) &&
+        req.query.sid && req.query.sid.match(/^[1-9][0-9]{1,30}?$/i) &&
+        req.query.fid && req.query.fid.match(/^[1-9][0-9]{1,30}?$/i)
+    ){
         try{
-            const reqfm = 'https://www.terabox.com/api/shorturlinfo?app_id=250528&channel=dubox&clienttype=0&root=1&shorturl='+req.query.id;
+            const reqfm = new URL('https://www.terabox.com/share/extstreaming.m3u8');
+            reqfm.search = new URLSearchParams({
+                app_id: 250528,
+                channel: 'dubox',
+                clienttype: 0,
+                uk: req.query.uid,
+                shareid: req.query.sid,
+                type: 'M3U8_AUTO_720',
+                fid: req.query.fid,
+                sign: crypto.randomBytes(20).toString('hex'),
+                timestamp: +new Date(),
+            });
+            
             const vData = await got(reqfm, {
+                throwHttpErrors: false,
+            });
+            
+            if(vData.statusCode == 200){
+                const pl = vData.body.split('\n').map(v => {
+                    if(v.match(/^http/)){
+                        return 'https://apis.forn.fun/tera/proxy.php?url=' + encodeURIComponent(v);
+                    }
+                    return v;
+                });
+                res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
+                res.end(pl.join('\n'));
+            }
+            else{
+                res.status(vData.statusCode);
+                res.end(JSON.stringify({
+                    ok: false,
+                    error: 'status code: ' + vData.statusCode,
+                }));
+            }
+        }
+        catch(error){
+            // console.log(error);
+            res.status(404);
+            res.end(JSON.stringify({
+                ok: false,
+                error: 'failed to fetch url',
+                error_data: error,
+            }));
+        }
+        return;
+    }
+    if(
+        req.query.surl && req.query.surl.match(/^[0-9a-z-_]{10,30}$/i)
+    ){
+        try{
+            const reqfm = 'https://www.terabox.com/api/shorturlinfo?app_id=250528&channel=dubox&clienttype=0&root=1&shorturl=1'+req.query.surl;
+            const vData = await got(reqfm, {
+                headers: {
+                    'User-Agent': 'Mozilla /5.0',
+                    Accept: '*/*',
+                    Host: new URL(reqfm).host,
+                },
                 throwHttpErrors: false,
             });
             if(vData.statusCode == 200){
                 const vBody = JSON.parse(vData.body);
                 if(vBody.errno == 0){
-                    const rUrl = new URL('https://www.terabox.com/share/extstreaming.m3u8');
-                    rUrl.search = new URLSearchParams({
-                        app_id: 250528,
-                        channel: 'dubox',
-                        clienttype: 0,
-                        uk: vBody.uk,
-                        shareid: vBody.shareid,
-                        type: 'M3U8_AUTO_1080',
-                        fid: vBody.list[0].fs_id,
-                        sign: vBody.sign,
-                        timestamp: vBody.timestamp,
-                    });
+                    let file_id = 0;
+                    console.log(vBody);
+                    if(vBody.list.length > 0){
+                        file_id = vBody.list[0].fs_id;
+                    }
                     res.end(JSON.stringify({
                         ok: true,
-                        url: rUrl,
+                        url: `/v/?uid=${vBody.uk}&sid=${vBody.shareid}&fid=${file_id}`
                     }));
                 }
                 else{
-                    res.status(404);
+                    // console.log(vData);
+                    res.status(403);
                     res.end(JSON.stringify({
                         ok: false,
-                        error: 'error code: ' + vBody.errno,
-                        req_url: reqfm,
-                    }))
+                        error: vBody,
+                    }));
                 }
             }
             else{
@@ -160,6 +213,7 @@ app.get('/v/', async (req, res) => {
             }
         }
         catch(error){
+            // console.log(error);
             res.status(404);
             res.end(JSON.stringify({
                 ok: false,
@@ -169,6 +223,7 @@ app.get('/v/', async (req, res) => {
         }
         return;
     }
+    console.log(req.query.surl.match(/^[0-9a-z-_]{10,30}$/i));
     res.end(JSON.stringify({
         ok: false,
         error: 'bad request',
