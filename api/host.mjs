@@ -116,61 +116,6 @@ app.get('/m3u8/', async (req, res) => {
 });
 
 app.get('/v/', async (req, res) => {
-    /*
-    res.setHeader('Content-Type', 'application/json');
-    if(
-        req.query.uid && req.query.uid.match(/^[1-9][0-9]{1,30}?$/i) &&
-        req.query.sid && req.query.sid.match(/^[1-9][0-9]{1,30}?$/i) &&
-        req.query.fid && req.query.fid.match(/^[1-9][0-9]{1,30}?$/i)
-    ){
-        try{
-            const reqfm = new URL('https://www.terabox.com/share/extstreaming.m3u8');
-            reqfm.search = new URLSearchParams({
-                app_id: 250528,
-                channel: 'dubox',
-                clienttype: 0,
-                uk: req.query.uid,
-                shareid: req.query.sid,
-                type: 'M3U8_AUTO_720',
-                fid: req.query.fid,
-                sign: crypto.randomBytes(20).toString('hex'),
-                timestamp: +new Date(),
-            });
-            
-            const vData = await got(reqfm, {
-                throwHttpErrors: false,
-            });
-            
-            if(vData.statusCode == 200){
-                const pl = vData.body.split('\n').map(v => {
-                    if(v.match(/^http/)){
-                        return 'https://apis.forn.fun/tera/proxy.php?url=' + encodeURIComponent(v);
-                    }
-                    return v;
-                });
-                res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
-                res.end(pl.join('\n'));
-            }
-            else{
-                res.status(vData.statusCode);
-                res.end(JSON.stringify({
-                    ok: false,
-                    error: 'status code: ' + vData.statusCode,
-                }));
-            }
-        }
-        catch(error){
-            // console.log(error);
-            res.status(404);
-            res.end(JSON.stringify({
-                ok: false,
-                error: 'failed to fetch url',
-                error_data: error,
-            }));
-        }
-        return;
-    }
-    */
     if(
         req.query.surl && req.query.surl.match(/^[0-9a-z-_]{10,30}$/i)
     ){
@@ -258,7 +203,6 @@ app.get('/v/', async (req, res) => {
         }
         return;
     }
-    console.log(req.query.surl.match(/^[0-9a-z-_]{10,30}$/i));
     res.end(JSON.stringify({
         ok: false,
         error: 'bad request',
