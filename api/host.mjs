@@ -91,7 +91,7 @@ app.get('/m3u8/', async (req, res) => {
             if(vHead.statusCode == 200){
                 const rhost = new URL(req.query.url).origin
                 const vPath = new URL(req.query.url).pathname.split('/').slice(0, -1).join('/');
-                res.setHeader('Content-Type', 'audio/x-mpegurl');
+                res.setHeader('Content-Type', 'application/x-mpegURL');
                 vHead.body = vHead.body.replace(/^\//gm, rhost + '/');
                 if(vHead.body.match(/URI="vtt/)){
                     vHead.body = vHead.body.replace(/URI="vtt/gm, 'URI="' + rhost + vPath + '/vtt');
@@ -167,7 +167,7 @@ app.get('/v/', async (req, res) => {
                             }
                             return v;
                         });
-                        res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
+                        res.setHeader('Content-Type', 'application/x-mpegURL');
                         res.end(pl.join('\n').replace(/#EXT-X-DISCONTINUITY\n/g,''));
                     }
                     else{
