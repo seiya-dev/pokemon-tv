@@ -250,14 +250,21 @@ function showChannel(){
     let chanImg = curChannel.channel_images.spotlight_image_1660_940;
     chanImg = chanImg != '' ? chanImg : '../img/channel.png';
     
+    const chMedia = curChannel.media.filter(v => {
+        return v.id != '' && !v.id.match(/-deleted$/i) && ( v.stream_url != '' || v.poketv_url != '' );
+    });
+    
     let channelInfo = [];
     if(curChannel.category_id == 1){
+        const seasonInfo = [];
+        const seriesNum = curChannel.channel_id.match(/^season(?<num>\d+)$/);
+        if(seriesNum && seriesNum.groups.num){
+            seasonInfo.push(createEl('h3', { class: ['d-inline', 'pr-2'], text: `${tlText('Season')} ${parseInt(seriesNum.groups.num)}` }));
+        }
+        seasonInfo.push(createEl('h6', { class: ['d-inline'], text: `${tlText('Episodes')} ${chMedia.length}` }));
         channelInfo.push(createEl('div', {
             class: ['row', 'align-items-end'],
-            child: [
-                createEl('h3', { class: ['d-inline', 'pr-2'], text: `${tlText('Season')} ${curChannel.order / -1000}` }),
-                createEl('h6', { class: ['d-inline'],         text: `${tlText('Episodes')} ${curChannel.media.length}` }),
-            ],
+            child: seasonInfo,
         }));
     }
     
@@ -314,10 +321,6 @@ function showChannel(){
                 class: ['row', 'episode-card'],
             }),
         ],
-    });
-    
-    const chMedia = curChannel.media.filter(v => {
-        return v.id != '' && !v.id.match(/-deleted$/i) && ( v.stream_url != '' || v.poketv_url != '' );
     });
     
     for(let vi in chMedia){
@@ -733,7 +736,6 @@ function genPlayer(videoUrl, posterUrl, captionsUrl, isEmbed = false){
         sourceEl.type = 'application/vnd.videojs.vhs+json';
     }
     
-    console.log(sourceEl);
     const videoEl = createEl('video', videoElOpts);
     videoEl.appendChild(sourceEl);
     
