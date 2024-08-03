@@ -316,8 +316,12 @@ function showChannel(){
         ],
     });
     
-    for(let vi in curChannel.media){
-        const v = curChannel.media[vi];
+    const chMedia = curChannel.media.filter(v => {
+        return v.id != '' && !v.id.match(/-deleted$/i) && ( v.stream_url != '' || v.poketv_url != '' );
+    });
+    
+    for(let vi in chMedia){
+        const v = chMedia[vi];
         
         if(vi < 1){
             vSection.children[0].append(createEl('hr', {
@@ -424,6 +428,7 @@ async function showPlayerBox(){
     if(typeof v.poketv_url == 'string' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
         console.log('poketv url:', v.poketv_url);
+        isDLAvailable = true;
     }
     
     if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url.match(/#EMBED$/i)){

@@ -116,6 +116,9 @@ app.get('/m3u8/', async (req, res) => {
 });
 
 app.get('/v/', async (req, res) => {
+    res.setHeader('access-control-allow-origin', '*');
+    res.setHeader('access-control-allow-methods', 'GET, OPTIONS');
+    res.setHeader('access-control-allow-headers', 'Content-Type, Authorization');
     if(
         req.query.surl && req.query.surl.match(/^[0-9a-z-_]{10,30}$/i)
     ){
