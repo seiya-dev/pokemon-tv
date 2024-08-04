@@ -1,5 +1,6 @@
 // modules
 import os from 'os';
+import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
 import express from 'express';
@@ -17,49 +18,62 @@ const app = express();
 const PORT = 11025;
 
 // set static
-const watchDir = path.join(__dirname, '..', 'watch');
+const watchDir = path.join(__dirname, '..', 'web');
 app.use(express.static(watchDir));
 
-// set domain
-const domainRegex = /^https:\/\/(s2\.content\.video\.llnw\.net|s2\.cpl\.delvenetworks\.com)\//;
-
-// api
-app.get('/h/', async (req, res) => {
-    res.setHeader('Content-Type', 'application/json');
-    if(req.query.url && req.query.url.match(domainRegex)){
-        try{
-            const vHead = await got.head(req.query.url, {
-                throwHttpErrors: false,
-            });
-            if(vHead.statusCode == 200){
-                res.end(JSON.stringify({ ok: true, }));
-            }
-            else{
-                res.status(vHead.statusCode);
-                res.end(JSON.stringify({ 
-                    ok: false,
-                    error: 'status code: ' + vHead.statusCode,
-                }));
-            }
-        }
-        catch(error){
-            res.status(404);
-            res.end(JSON.stringify({
-                ok: false,
-                error: 'failed to get headers',
-                // error_data: error,
-            }));
-        }
-        return;
-    }
-    res.end(JSON.stringify({
-        ok: false,
-        error: 'bad request',
-    }));
+app.get('/', (req, res) => {
+    res.redirect('/us/');
 });
 
+const tv_regions = {
+    'us': { name: 'United States',  ip: '3.3.3.3',      },
+    'uk': { name: 'UK',             ip: '86.5.53.25',   },
+    'fr': { name: 'France',         ip: '2.2.2.2',      },
+    'it': { name: 'Italia',         ip: '2.32.0.1',     },
+    'de': { name: 'Deutschland',    ip: '2.160.0.1',    },
+    'es': { name: 'España',         ip: '2.152.0.1',    },
+    'el': { name: 'América Latina', ip: '8.14.224.1',   },
+    'br': { name: 'Brasil',         ip: '179.93.224.1', },
+    'ru': { name: 'Россия',         ip: '5.104.32.1',   },
+    'dk': { name: 'Danmark',        ip: '2.128.0.1',    },
+    'nl': { name: 'Nederland',      ip: '24.132.0.1',   },
+    'fi': { name: 'Suomi',          ip: '37.130.160.1', },
+    'no': { name: 'Norge',          ip: '92.221.54.1',  },
+    'se': { name: 'Sverige',        ip: '46.195.212.1', },
+};
+
+const regionList = Object.keys(tv_regions);
+app.get('/:region(' + regionList.join('|') + ')/:type(channel|video)?', (req, res) => {
+    // 
+    // set template
+    let templatePage = fs.readFileSync(path.join(watchDir, 'template.html'), 'utf8');
+    templatePage = templatePage.replace('<!-- put_tv_region -->', `<script>const tvRegion = '${req.params.region}';</script>`);
+    templatePage = templatePage.replace('<!-- put_tv_data -->', `<script src="/data/${req.params.region}.js"></script>`);
+    // set regions selector
+    const region_otions = [];
+    for(const r_cc of regionList){
+        const r_selected = r_cc == req.params.region ? ' selected' : '';
+        region_otions.push(`<option value="${r_cc}"${r_selected}>${tv_regions[r_cc].name}</option>`);
+    }
+    templatePage = templatePage.replace('<!-- put_regions -->', region_otions.join('\n' + ' '.repeat(20)));
+    // send page
+    res.setHeader('Content-Type', 'text/html; charset=utf-8');
+    res.end(templatePage);
+});
+
+// get tvdata js
+app.get('/data/:region(' + regionList.join('|') + ').js', (req, res) => {
+    const tvChannelData = fs.readFileSync(path.join(watchDir, 'data', req.params.region + '.json'), 'utf8');
+    res.setHeader('Content-Type', 'text/javascript; charset=utf-8');
+    res.end('const tvData = ' + tvChannelData + ';');
+});
+
+// set llnwD domain
+const llnwDomainRegex = /^https:\/\/(s2\.content\.video\.llnw\.net|s2\.cpl\.delvenetworks\.com)\//;
+
+// set proxy for vtt from llnw
 app.get('/vtt/', async (req, res) => {
-   if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.vtt$/)){
+   if(req.query.url && req.query.url.match(llnwDomainRegex) && req.query.url.match(/\.vtt$/)){
         try{
             const vHead = await got(req.query.url, {
                 throwHttpErrors: false,
@@ -78,175 +92,9 @@ app.get('/vtt/', async (req, res) => {
             res.end('');
         }
         return;
-   }
-   res.end('');
+    }
+    res.end('');
 });
-
-app.get('/m3u8/', async (req, res) => {
-   if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.m3u8$/)){
-        try{
-            const vHead = await got(req.query.url, {
-                throwHttpErrors: false,
-            });
-            if(vHead.statusCode == 200){
-                const rhost = new URL(req.query.url).origin
-                const vPath = new URL(req.query.url).pathname.split('/').slice(0, -1).join('/');
-                res.setHeader('Content-Type', 'application/x-mpegURL');
-                vHead.body = vHead.body.replace(/^\//gm, rhost + '/');
-                if(vHead.body.match(/URI="vtt/)){
-                    vHead.body = vHead.body.replace(/URI="vtt/gm, 'URI="' + rhost + vPath + '/vtt');
-                }
-                if(vHead.body.match(/\.ts$/m)){
-                    vHead.body = vHead.body.replace(/^playlist/gm, rhost + vPath + '/playlist');
-                }
-                res.end(vHead.body);
-            }
-            else{
-                res.status(vHead.statusCode);
-                res.end('');
-            }
-        }
-        catch(error){
-            res.status(404);
-            res.end('');
-        }
-        return;
-   }
-   res.end('');
-});
-
-app.get('/v/', async (req, res) => {
-    res.setHeader('access-control-allow-origin', '*');
-    res.setHeader('access-control-allow-methods', 'GET, OPTIONS');
-    res.setHeader('access-control-allow-headers', 'Content-Type, Authorization');
-    if(
-        req.query.surl && req.query.surl.match(/^[0-9a-z-_]{10,30}$/i)
-    ){
-        try{
-            const proxyUrl = 'https://wholly-api.skinnyrunner.com/get/website-data.php?get_html=';
-            const shortUrlApi = new URL('https://www.terabox.com/api/shorturlinfo');
-            shortUrlApi.search = new URLSearchParams({
-                app_id: 250528,
-                channel: 'dubox',
-                clienttype: 0,
-                root: 1,
-                shorturl: 1 + req.query.surl,
-            });
-            const reqfm = proxyUrl + encodeURIComponent(shortUrlApi.href);
-            const vData = await got(reqfm, {
-                throwHttpErrors: false,
-            });
-            if(vData.statusCode == 200){
-                const vBody = JSON.parse(vData.body);
-                if(vBody.errno == 0){
-                    let file_id = 0;
-                    if(vBody.list.length > 0){
-                        file_id = vBody.list[0].fs_id;
-                    }                    
-                    const reqpl = new URL('https://www.terabox.com/share/extstreaming.m3u8');
-                    reqpl.search = new URLSearchParams({
-                        app_id: 250528,
-                        channel: 'dubox',
-                        clienttype: 0,
-                        uk: vBody.uk,
-                        shareid: vBody.shareid,
-                        type: 'M3U8_AUTO_720',
-                        fid: file_id,
-                        sign: crypto.randomBytes(20).toString('hex'),
-                        timestamp: +new Date(),
-                    });
-                    
-                    const plData = await got(reqpl, {
-                        throwHttpErrors: false,
-                    });
-                    
-                    if(plData.statusCode == 200){
-                        const pl = plData.body.split('\n').map(v => {
-                            if(v.match(/^http/)){
-                                return 'https://apis.forn.fun/tera/proxy.php?url=' + encodeURIComponent(v);
-                            }
-                            return v;
-                        });
-                        res.setHeader('Content-Type', 'application/x-mpegURL');
-                        res.end(pl.join('\n').replace(/#EXT-X-DISCONTINUITY\n/g,''));
-                    }
-                    else{
-                        res.status(plData.statusCode);
-                        res.end(JSON.stringify({
-                            ok: false,
-                            error: 'status code: ' + plData.statusCode,
-                        }));
-                    }
-                }
-                else{
-                    // console.log(vData);
-                    res.status(403);
-                    res.end(JSON.stringify({
-                        ok: false,
-                        error: vBody,
-                    }));
-                }
-            }
-            else{
-                res.status(vData.statusCode);
-                res.end(JSON.stringify({
-                    ok: false,
-                    error: 'status code: ' + vData.statusCode,
-                }));
-            }
-        }
-        catch(error){
-            // console.log(error);
-            res.status(404);
-            res.end(JSON.stringify({
-                ok: false,
-                error: 'failed to fetch url',
-                error_data: error,
-            }));
-        }
-        return;
-    }
-    res.end(JSON.stringify({
-        ok: false,
-        error: 'bad request',
-    }));
-});
-
-function decodePackedCodes(code) {
-    const mobj = code.match(/}\('(.+)',(\d+),(\d+),'([^']+)'\.split\('\|'\)/);
-    let [obfuscatedCode, base, count, symbols] = mobj.slice(1);
-    base = parseInt(base);
-    count = parseInt(count);
-    symbols = symbols.split('|');
-    const symbolTable = {};
-    while (count) {
-        count -= 1;
-        const baseNCount = encodeBaseN(count, base);
-        symbolTable[baseNCount] = symbols[count] || baseNCount;
-    }
-    const dec = obfuscatedCode.replace(/\b(\w+)\b/g, (match) => symbolTable[match]);
-    const rUrl = (/sources:\s*\[{\s*file:\s*"([^"]+)/s).exec(dec)[1];
-    return rUrl;
-}
-
-function encodeBaseN(num, n, table = null) {
-    const FULL_TABLE = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-    if (!table) {
-        table = FULL_TABLE.slice(0, n);
-    }
-    if (n > table.length) {
-        throw new Error(`base ${n} exceeds table length ${table.length}`);
-    }
-    if (num === 0) {
-        return table[0];
-    }
-    let ret = '';
-    while (num) {
-        ret = table[num % n] + ret;
-        num = Math.floor(num / n);
-    }
-    return ret;
-}
 
 // app start
 app.listen(PORT, () => {

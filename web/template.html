@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link rel="icon" href="./favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
     <title>Watch Pokémon TV</title>
     <meta name="description" content="Watch Pokémon TV @ poke-tv.vercel.app"/>
     <!-- libs -->
@@ -22,7 +22,7 @@
     <script src="https://unpkg.com/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
     <script src="https://unpkg.com/@transmitlive/m3u8-parser/dist/m3u8-parser.min.js"></script>
     <!-- analytics -->
-    <script defer src="/_vercel/insights/script.js"></script>
+    <!-- script defer src="/_vercel/insights/script.js"></script -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9FQSWXQPF"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -31,14 +31,16 @@
         gtag('config', 'G-G9FQSWXQPF');
     </script>
     <!-- main -->
-    <link rel="stylesheet" type="text/css" href="./css/main.css"/>
-    <link rel="stylesheet" type="text/css" href="./css/header.css"/>
-    <link rel="stylesheet" type="text/css" href="./css/page.css"/>
-    <link rel="stylesheet" type="text/css" href="./css/footer.css"/>
-    <link rel="stylesheet" type="text/css" href="./css/player.css"/>
-    <script src="./js/helpers.js"></script>
-    <script src="./js/const.js"></script>
-    <script src="./js/page.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/header.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/page.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/footer.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/player.css"/>
+    <!-- put_tv_region -->
+    <!-- put_tv_data -->
+    <script src="../js/helpers.js"></script>
+    <script src="../js/const.js"></script>
+    <script src="../js/page.js"></script>
 </head>
 <body id="body">
 
@@ -69,7 +71,7 @@
             <h3 class="p-3">Pokémon TV</h3>
             <div id="select-region">
                 <select id="region">
-                    <option value="us">United States</option>
+                    <!-- put_regions -->
                 </select>
             </div>
             <div class="legal-links p-3">

@@ -16,7 +16,7 @@ function saveJson(path, data, min){
 const packageJson = jsonLoad(path.join(__dirname, 'package.json'));
 console.log(`\n=== ${packageJson.programName} ${packageJson.version} ===\n`);
 const dbfolder = path.join(__dirname, '/database/');
-const wdbfolder = path.join(__dirname, '/watch/data/');
+const webfolder = path.join(__dirname, '/web/data/');
 
 // regions
 const tvRegion = {
@@ -102,13 +102,12 @@ async function cleanupDb(){
                     title: m.title,
                     description: m.description,
                     images: m.images,
-                    stream_url: m.stream_url,
-                    poketv_url: m.poketv_url,
-                    captions: m.captions,
+                    poketv_url: m.poketv_url || '',
+                    stream_url: m.stream_url || '',
+                    embed_url: m.embed_url || '',
+                    terabox_surl: m.terabox_surl || '',
+                    captions: m.captions || '',
                 };
-                if(cdata.category_id != 2 && m.id.match(/^[0-9a-f]{32}$/) && m.poketv_url == ''){
-                    console.warn('-> WARN: Missing poketv_url:', m.id, mTypeCat, channelId, m.season, m.episode);
-                }
                 cdata.media.push(mediaData);
             }
             
@@ -131,7 +130,7 @@ async function indexDb(){
             dbData.push(chData);
         }
         dbData.sort(sortItems);
-        saveJson(wdbfolder + '/' + cc + '.json', dbData, true);
+        saveJson(webfolder + '/' + cc + '.json', dbData, true);
     }
 }
 
@@ -139,8 +138,13 @@ function findCat(mTypeCat){
     const cat = {};
     switch(mTypeCat){
         case 'series':
-            cat.category_id = 1;
+            cat.category_id = 1.1;
             cat.category = 'Series';
+            cat.media_type = 'episode';
+            break;
+        case 'horizons':
+            cat.category_id = 1.2;
+            cat.category = 'Horizons';
             cat.media_type = 'episode';
             break;
         case 'stunts':

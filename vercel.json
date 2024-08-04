@@ -1,7 +1,7 @@
 {
     "installCommand": "pnpm install",
     "buildCommand": "node ./app/build.mjs",
-    "outputDirectory": "watch",
+    "outputDirectory": "web",
     "rewrites": [
         {
             "source": "/(.*)",
