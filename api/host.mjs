@@ -65,7 +65,7 @@ app.get('/:region(' + regionList.join('|') + ')/:type(channel|video)?', (req, re
 app.get('/data/:region(' + regionList.join('|') + ').js', (req, res) => {
     const tvChannelData = fs.readFileSync(path.join(watchDir, 'data', req.params.region + '.json'), 'utf8');
     res.setHeader('Content-Type', 'text/javascript; charset=utf-8');
-    res.end('const tvData = ' + tvChannelData + ';');
+    res.end('const tvData = ' + tvChannelData.trim() + ';');
 });
 
 // set llnwD domain
