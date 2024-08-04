@@ -444,8 +444,12 @@ async function getTBPl(uk, fid, shareid){
     if(reqPlaylistData.json?.errno == 31341){
         return await getTBPl(uk, fid, shareid);
     }
-    if(!reqPlaylistData.text.match(/\n#EXT-X-ENDLIST\n/g)){
-        console.log(reqPlaylistData.text);
+    if(!reqPlaylistData.extm3u){
+        console.log(':: not tb playlist:', reqPlaylistData.text);
+        throw new Error('not tb playlist!..');
+    }
+    if(reqPlaylistData.extm3u && !reqPlaylistData.text.match(/\n#EXT-X-ENDLIST\n/g)){
+        console.log(':: tb playlist:', reqPlaylistData.extm3u);
         throw new Error('file still encoding!..');
     }
     console.log(':: tb playlist:', reqPlaylistData.extm3u);
