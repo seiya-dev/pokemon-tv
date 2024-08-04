@@ -41,6 +41,7 @@ const doReq = async (url, headers={}) => {
         }
         catch(e){}
         if(res.text.match(/^#EXTM3U/)){
+            res.text = res.text.replace(/\s/g, '\n') + '\n';
             res.text = res.text.replace(/#EXT-X-DISCONTINUITY\n/g, '');
             const parser = new m3u8Parser.Parser();
             parser.push(res.text);

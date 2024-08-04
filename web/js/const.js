@@ -1,4 +1,5 @@
-const req_proxy = 'https://api.allorigins.win/raw?url=';
+// const req_proxy = 'https://api.allorigins.win/raw?url=';
+const req_proxy = 'https://wholly-api.skinnyrunner.com/get/website-data.php?get_html=';
 const tb_ts_proxy = 'https://apis.forn.fun/tera/proxy.php?url=';
 
 const translate_data = {
