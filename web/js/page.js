@@ -1,3 +1,5 @@
+const hstate = {state:'nav'};
+const htitle = document.title;
 let channel_id  = '';
 let video_id = '';
 let player;
@@ -20,6 +22,7 @@ async function loadMain(){
         return;
     }
     
+    history.pushState(hstate, htitle)
     const uriData = uriLoader();
     
     if(uriData.page_type == 'channel' && uriData.query.get('id')){
@@ -105,11 +108,11 @@ function loadCategory(tvCategory){
     removeChildEls('#body-content');
     
     if(channel_id == '' && video_id == ''){
-        history.replaceState({state:'nav'}, '', `/${tvRegion}/`);
+        history.replaceState(hstate, htitle, `/${tvRegion}/`);
     }
     
     if(channel_id != '' && video_id == ''){
-        history.replaceState({state:'nav'}, '', `/${tvRegion}/channel?id=${channel_id}`);
+        history.replaceState(hstate, htitle, `/${tvRegion}/channel?id=${channel_id}`);
     }
     
     const catScreen = createHtmlEl(`
@@ -154,7 +157,7 @@ function showChannel(){
     
     curChannel = curChannel[0];
     removeChildEls('#body-content');
-    history.replaceState({state:'nav'}, '', `/${tvRegion}/channel?id=${channel_id}`);
+    history.replaceState(hstate, htitle, `/${tvRegion}/channel?id=${channel_id}`);
     
     let chanImg = curChannel.channel_images.spotlight_image_1660_940;
     chanImg = chanImg != '' ? chanImg : '../img/channel.png';
@@ -325,7 +328,7 @@ async function showPlayerBox(){
     
     if(videoIndex > -1){
         const curChannelId = channel_id != '' ? `c=${channel_id}&` : '';
-        history.replaceState({state:'nav'}, '', `/${tvRegion}/video?${curChannelId}id=${video_id}`);
+        history.replaceState(hstate, htitle, `/${tvRegion}/video?${curChannelId}id=${video_id}`);
     }
     
     if(videoUrl == ''){
@@ -538,7 +541,7 @@ function closePlayerBox(byCloseButton){
     qSel('body').style.overflow = 'auto';
     document.title = document.title.split(' - ')[0];
     
-    history.replaceState({state:'nav'}, '', `/${tvRegion}/` + (channel_id != '' ? 'channel?id=' + channel_id : ''));
+    history.replaceState(hstate, htitle, `/${tvRegion}/` + (channel_id != '' ? 'channel?id=' + channel_id : ''));
 }
 
 function genPlayer(videoUrl, videoType, posterUrl, captionsUrl){
