@@ -71,6 +71,49 @@ app.get('/data/:region(' + regionList.join('|') + ').js', (req, res) => {
 // set llnwD domain
 const llnwDomainRegex = /^https:\/\/(s2\.content\.video\.llnw\.net|s2\.cpl\.delvenetworks\.com)\//;
 
+/*
+app.get('/m3u8/', async (req, res) => {
+   if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.m3u8$/)){
+        try{
+            const vHead = await got(req.query.url);
+            if(vHead.statusCode == 200){
+                const rhost = new URL(req.query.url).origin
+                const vPath = new URL(req.query.url).pathname.split('/').slice(0, -1).join('/');
+                res.setHeader('Content-Type', 'audio/x-mpegurl');
+                vHead.body = vHead.body.replace(/^\//gm, `${req.headers.referer}m3u8/?url=${rhost}/`);
+                if(vHead.body.match(/URI="vtt/)){
+                    vHead.body = vHead.body.replace(/URI="vtt/gm, `URI="${req.headers.referer}vtt${rhost}${vPath}/vtt`);
+                }
+                if(vHead.body.match(/\.ts$/m)){
+                    vHead.body = vHead.body.replace(/^playlist/gm, `${req.headers.referer}ts/?url=${rhost}${vPath}/playlist`);
+                }
+                res.end(vHead.body);
+            }
+            else{
+                res.status(vHead.statusCode);
+                res.end('');
+            }
+        }
+        catch(error){
+            res.status(404);
+            res.end('');
+        }
+        return;
+   }
+   res.end('');
+});
+app.get('/ts/', async (req, res) => {
+    if(req.query.url && req.query.url.match(llnwDomainRegex)){
+        const stream = got.stream(req.query.url)
+        stream.on('error', error => {
+            res.status(404);
+            res.end('');
+        })
+        stream.pipe(res);
+    }
+});
+*/
+
 // set proxy for vtt from llnw
 app.get('/vtt/', async (req, res) => {
    if(req.query.url && req.query.url.match(llnwDomainRegex) && req.query.url.match(/\.vtt$/)){
