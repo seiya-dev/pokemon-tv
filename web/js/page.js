@@ -319,11 +319,25 @@ async function showPlayerBox(){
     }
     
     if(videoUrl == '' && typeof v.terabox_surl == 'string' && v.terabox_surl != ''){
-        videoUrl = 'https://www.terabox.com/sharing/embed?surl=';
-        videoUrl += v.terabox_surl;
-        videoUrl += '&resolution=1080&autoplay=false';
-        videoType = 'embed';
-        console.log('embed url:', videoUrl);
+        try{
+            const tb = await getTBInfo(v.terabox_surl);
+            tb.segments.map(v => {
+                v.uri = tb_ts_proxy + encodeURIComponent(v.uri);
+                return v;
+            });
+            videoType = 'application/vnd.videojs.vhs+json';
+            videoUrl = `data:${videoType},${JSON.stringify(tb)}`;
+        }
+        catch(error){
+            console.log(':: error loading terabox api:', error);
+        }
+        if(videoUrl == ''){
+            videoUrl = 'https://www.terabox.com/sharing/embed?surl=';
+            videoUrl += v.terabox_surl;
+            videoUrl += '&resolution=1080&autoplay=false';
+            videoType = 'embed';
+            console.log('embed url:', videoUrl);
+        }
     }
     
     if(videoIndex > -1){
@@ -385,6 +399,49 @@ async function showPlayerBox(){
         new_video_id = curChannel.media[videoIndex + 1].id;
         makeControlButton('next', new_video_id);
     }
+}
+
+async function getTBInfo(surl){
+    const reqDataUri = new URL('https://www.terabox.com/api/shorturlinfo');
+    reqDataUri.search = new URLSearchParams({
+        shorturl: '1' + surl,
+        root: 1,
+    });
+    
+    const reqShareData = await doReq(req_proxy + encodeURIComponent(reqDataUri));
+    const shareData = reqShareData.json;
+    
+    let file_id = 0;
+    if(shareData.list.length > 0){
+        file_id = shareData.list[0].fs_id;
+    }
+    else{
+        throw new Error('no file in share url!');
+    }
+    
+    return await getTBPl(shareData.uk, file_id, shareData.shareid);
+}
+
+async function getTBPl(uk, file_id, shareid){
+    const reqPlaylistUri = new URL('https://www.terabox.com/share/extstreaming.m3u8');
+    const sign = Array(...crypto.getRandomValues(new Uint32Array(5))).map(v => v.toString(16).padStart(8, '0')).join('');
+    reqPlaylistUri.search = new URLSearchParams({
+        app_id: 250528,
+        channel: 'dubox',
+        clienttype: 0,
+        uk: uk,
+        shareid: shareid,
+        type: 'M3U8_AUTO_720',
+        fid: file_id,
+        sign: sign,
+        timestamp: +new Date(),
+    });
+    
+    const reqPlaylistData = await doReq(req_proxy + encodeURIComponent(reqPlaylistUri));
+    if(!reqPlaylistData.text.match(/\n#EXT-X-ENDLIST\n/g)){
+        throw new Error('file still encoding!..');
+    }
+    return reqPlaylistData.extm3u;
 }
 
 function genPlayerHeader(videoTitle = ''){

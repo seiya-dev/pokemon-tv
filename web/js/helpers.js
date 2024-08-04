@@ -33,6 +33,7 @@ function uriLoader(){
 
 const doReq = async (url, headers={}) => {
     try {
+        // console.log(url);
         const res = await fetch(url, {mode: 'cors', headers: headers});
         res.text = await res.text();
         try{
@@ -40,6 +41,7 @@ const doReq = async (url, headers={}) => {
         }
         catch(e){}
         if(res.text.match(/^#EXTM3U/)){
+            res.text = res.text.replace(/#EXT-X-DISCONTINUITY\n/g, '');
             const parser = new m3u8Parser.Parser();
             parser.push(res.text);
             parser.end();
