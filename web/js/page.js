@@ -223,7 +223,7 @@ function showChannel(){
         if(v.episode != ''){
             let vSeasonNum = '';
             let vEpisodeNum = '';
-            if(v.season != '' && curChannel.category_id == 2){
+            if(v.season != '' && curChannel.category == 'Stuns'){
                 vSeasonNum = `${getTlText('Season')} ${v.season} • `;
             }
             if(v.episode != ''){
