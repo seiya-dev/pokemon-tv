@@ -411,18 +411,21 @@ async function getTBInfo(surl){
     const reqShareData = await doReq(req_proxy + encodeURIComponent(reqDataUri));
     const shareData = reqShareData.json;
     
-    let file_id = 0;
+    let fid = 0;
     if(shareData.list.length > 0){
-        file_id = shareData.list[0].fs_id;
+        fid = shareData.list[0].fs_id;
     }
     else{
         throw new Error('no file in share url!');
     }
     
-    return await getTBPl(shareData.uk, file_id, shareData.shareid);
+    const shareLong = new URLSearchParams(shareData.longurl);
+    shareLong.append('fid', fid)
+    console.log(':: tbinfo:', surl, '=>', shareLong);
+    return await getTBPl(shareData.uk, fid, shareData.shareid);
 }
 
-async function getTBPl(uk, file_id, shareid){
+async function getTBPl(uk, fid, shareid){
     const reqPlaylistUri = new URL('https://www.terabox.com/share/extstreaming.m3u8');
     const sign = Array(...crypto.getRandomValues(new Uint32Array(5))).map(v => v.toString(16).padStart(8, '0')).join('');
     reqPlaylistUri.search = new URLSearchParams({
@@ -432,15 +435,17 @@ async function getTBPl(uk, file_id, shareid){
         uk: uk,
         shareid: shareid,
         type: 'M3U8_AUTO_720',
-        fid: file_id,
+        fid: fid,
         sign: sign,
         timestamp: +new Date(),
     });
     
     const reqPlaylistData = await doReq(req_proxy + encodeURIComponent(reqPlaylistUri));
     if(!reqPlaylistData.text.match(/\n#EXT-X-ENDLIST\n/g)){
+        console.log(reqPlaylistData.text);
         throw new Error('file still encoding!..');
     }
+    console.log(':: tb playlist:', reqPlaylistData.extm3u);
     return reqPlaylistData.extm3u;
 }
 
