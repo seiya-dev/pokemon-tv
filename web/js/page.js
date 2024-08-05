@@ -296,14 +296,14 @@ async function showPlayerBox(){
     let videoTitle = '';
     let posterUrl = '';
     
-    let isDLAvailable = false;
+    let dlLink = '';
     showLoadingPlayerBox();
     
     if(typeof v.poketv_url == 'string' && v.poketv_url != ''){
         videoUrl = v.poketv_url;
         videoType = 'video/mp4';
         console.log('poketv url:', v.poketv_url);
-        isDLAvailable = true;
+        dlLink = v.poketv_url;
     }
     
     if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != ''){
@@ -382,8 +382,8 @@ async function showPlayerBox(){
     genPlayer(videoUrl, videoType, posterUrl, captionsUrl);
     genPlayerHeader(videoTitle);
     
-    if(isDLAvailable){
-        addDownloadButton(videoUrl);
+    if(dlLink != ''){
+        addDownloadButton(dlLink);
     }
     
     if(videoType == 'embed'){
@@ -411,14 +411,11 @@ async function getTBInfo(surl){
     const reqShareData = await doReq(req_proxy + encodeURIComponent(reqDataUri));
     const shareData = reqShareData.json;
     
-    let fid = 0;
-    if(shareData.list.length > 0){
-        fid = shareData.list[0].fs_id;
-    }
-    else{
+    if(!shareData.list || shareData.list.length < 1){
         throw new Error('no file in share url!');
     }
     
+    let fid = shareData.list[0].fs_id;
     const shareLong = new URLSearchParams(shareData.longurl);
     shareLong.append('fid', fid)
     console.log(':: tbinfo:', surl, '=>', shareLong);
