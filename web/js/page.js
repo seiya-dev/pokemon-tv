@@ -131,16 +131,18 @@ function loadCategory(tvCategory){
             const poster = s.channel_images.dashboard_image_1125_1500;
             const contCell = createHtmlEl(`
                 <span class="channel-tile col-6 col-md-4 col-xl-3">
-                    <span>
+                    <a>
                         <img class="lazy"/>
-                    </span>
+                    </a>
                 </span>
             `);
-            contCell.qSel('img').title = s.channel_name;
             contCell.qSel('img').alt = s.channel_id;
             contCell.qSel('img').src = img_base64.poster;
             contCell.qSel('img').setAttribute('data-src', poster);
-            contCell.qSel('span').addEventListener('click', () => {
+            contCell.qSel('a').title = s.channel_name;
+            contCell.qSel('a').href = `/${tvRegion}/channel?id=${s.channel_id}`;
+            contCell.qSel('a').addEventListener('click', (event) => {
+                event.preventDefault();
                 channel_id = s.channel_id;
                 showChannel();
             }, false);
@@ -240,7 +242,9 @@ function showChannel(){
             <div class="episode-thumbnail col-12">
                 <div class="episode-img-cover col-12 col-md-4 col-lg-3">
                     <div class="episode-tile">
-                        <img class="lazy"/>
+                        <a>
+                            <img class="lazy"/>
+                        </a>
                     </div>
                 </div>
                 <div class="tile-episode-info col-12 col-md-8 col-lg-9">
@@ -253,8 +257,10 @@ function showChannel(){
         
         episodeEl.qSel('img').src = img_base64.episode;
         episodeEl.qSel('img').setAttribute('data-src', v.images.medium);
-        
-        episodeEl.qSel('.episode-tile').addEventListener('click', async () => {
+        episodeEl.qSel('a').href = `/${tvRegion}/video?c=${channel_id}&id=${v.id}`;
+
+        episodeEl.qSel('a').addEventListener('click', async (event) => {
+            event.preventDefault();
             video_id = v.id;
             await showPlayerBox();
         }, false);
