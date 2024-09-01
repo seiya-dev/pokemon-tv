@@ -11,22 +11,25 @@
 
 .s-header .container nav {
     display: flex;
-    margin: auto;
+    justify-content: initial;
 }
 
 @media only screen and (max-width: 767px) {
-    .nav-home-logo {
+    #navbar {
         text-align: center;
-        width: 100%;
+        gap: 1rem;
     }
-    .nav-home-logo img {
+    .nav-home-logo {
+        width: 100%;
         margin-left: 0 !important;
-        margin-bottom: 1rem;
     }
     #nav-buttons {
         width: 100%;
-        justify-content: center;
     }
+}
+
+.s-header .container nav .nav-home-logo {
+    margin-left: 35px;
 }
 
 .s-header .container nav .nav-home-logo img {
@@ -35,11 +38,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    margin-left: 35px;
-}
-
-#nav-buttons {
-    flex-wrap: wrap;
 }
 
 #nav-buttons button {
@@ -49,7 +47,7 @@
     min-width: 100px;
     height: 50px;
     border-radius: .25rem;
-    margin-left: 5px;
+    margin: 0 3px 0 3px;
     font-weight: bold;
 }
 
