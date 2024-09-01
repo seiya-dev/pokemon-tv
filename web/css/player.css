@@ -77,28 +77,20 @@
 
 /* header */
 #player-box .vjs-header-bar {
-    display: table;
-    table-layout: fixed;
+    display: flex;
+    align-items: center;
+    gap: 20px;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 60px;
-    line-height: 1;
-    
+    line-height: normal;
     background: rgba(43, 51, 63, .7);
     color: white;
-    
     padding-left: 40px;
     padding-right: 40px;
-    
     z-index: 2;
-}
-#player-box .vjs-header-bar .header-back-button {
-    display: table-cell;
-    padding-right: 40px;
-    vertical-align: middle;
-    width: 0px;
 }
 #player-box .vjs-header-bar .header-back-button:before {
     color: #ffcb00;
@@ -106,11 +98,11 @@
     font-size: 1.875rem;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    cursor: pointer;
+}
+#player-box .vjs-header-bar .header-back-button:is(:hover, :focus):before {
+    filter: drop-shadow(0 0 3px currentcolor);
 }
 #player-box .vjs-header-bar .header-description {
-    display: table-cell;
-    vertical-align: middle;
     font-size: 1.5rem;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -161,7 +153,7 @@
 .vjs-control-bar .vjs-subs-caps-button {
     order: 2
 }
-.vjs-control-bar .vjs-current-time. {
+.vjs-control-bar .vjs-current-time {
     order: 3
 }
 .vjs-control-bar .vjs-progress-control {
@@ -253,6 +245,11 @@
     right: calc(50% + 50px);
     bottom: 10px;
     margin-right: 0;
+}
+
+.vjs-error-display .vjs-modal-dialog-content {
+    top: 50%;
+    height: auto;
 }
 
 .vjs-button.vjs-download-button > .vjs-icon-placeholder::before {
