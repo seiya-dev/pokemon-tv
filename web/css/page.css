@@ -38,7 +38,7 @@
     filter: contrast(100%) brightness(1);
 }
 
-.channel-tile:hover img {
+.channel-tile:is(:hover, :focus-within) img {
     filter: contrast(110%) brightness(1.1);
 }
 
@@ -147,8 +147,12 @@
     cursor: pointer;
 }
 
-.c-season-episodes .episode-img-cover .episode-tile:hover {
+.c-season-episodes .episode-img-cover .episode-tile:is(:hover, :focus-within) {
     box-shadow: 0 0 0 4pt #fff;
+}
+
+.c-season-episodes .episode-img-cover a:focus-visible {
+    outline: none;
 }
 
 .c-season-episodes .episode-img-cover img {

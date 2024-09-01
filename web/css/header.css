@@ -51,7 +51,7 @@
     font-weight: bold;
 }
 
-#nav-buttons button:hover {
+#nav-buttons button:is(:hover, :focus-within) {
     background-color: rgba(255, 255, 255, .25);
     cursor: pointer;
 }

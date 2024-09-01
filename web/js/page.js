@@ -136,7 +136,7 @@ function loadCategory(tvCategory){
                     </a>
                 </span>
             `);
-            contCell.qSel('img').alt = s.channel_id;
+            contCell.qSel('img').alt = s.channel_name;
             contCell.qSel('img').src = img_base64.poster;
             contCell.qSel('img').setAttribute('data-src', poster);
             contCell.qSel('a').title = s.channel_name;
@@ -207,7 +207,8 @@ function showChannel(){
             </div>
         </section>
     `);
-    
+
+    chanHSection.qSel('img').alt = '';
     chanHSection.qSel('img').src = img_base64.channel;
     chanHSection.qSel('img').setAttribute('data-src', chanImg);
     chanHSection.qSel('.bottom-season-info').append(channelInfo);
@@ -254,7 +255,8 @@ function showChannel(){
                 <hr class="tile-episode-divider"/>
             </div>
         `);
-        
+
+        episodeEl.qSel('img').alt = '';
         episodeEl.qSel('img').src = img_base64.episode;
         episodeEl.qSel('img').setAttribute('data-src', v.images.medium);
         episodeEl.qSel('a').href = `/${tvRegion}/video?c=${channel_id}&id=${v.id}`;
@@ -478,7 +480,7 @@ function genPlayerHeader(videoTitle = ''){
     
     const videoTitleEl = createHtmlEl(`
         <div id="video-title" class="vjs-header-bar">
-            <span class="header-back-button"></span>
+            <button class="header-back-button" title="Back"></button>
             <span class="header-description"></span>
         </div>
     `);
@@ -492,20 +494,20 @@ function genPlayerHeader(videoTitle = ''){
     document.title += ' - ' + videoTitle;
     
     if(player?.player_){
-        qSel('.video-js').append(videoTitleEl);
+        qSel('.video-js').prepend(videoTitleEl);
         return;
     }
     if(!qSel('#video-title')){
-        qSel('#player-box').append(videoTitleEl);
+        qSel('#player-box').prepend(videoTitleEl);
     }
 }
 
 function createEmbedControlBar(){
-    const embedContolBar = createHtmlEl(`
+    const embedControlBar = createHtmlEl(`
         <div class="vjs-control-bar vjs-embed" dir="ltr"/>
     `);
-    
-    qSel('#player-box').append(embedContolBar);
+
+    qSel('#player-box').append(embedControlBar);
 }
 
 function makeControlButton(type = '', new_video_id = ''){
