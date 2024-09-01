@@ -405,6 +405,21 @@ async function showPlayerBox(){
         new_video_id = curChannel.media[videoIndex + 1].id;
         makeControlButton('next', new_video_id);
     }
+
+    // inert the page for better video player isolation
+    const playerElem = qSel('#player-box');
+    const siblings = playerElem.parentElement.children;
+
+    for (const sib of siblings) {
+        sib.inert = true;
+    };
+    playerElem.inert = false;
+
+    player.on('dispose', () => {
+        for (const sib of siblings) {
+            sib.inert = false;
+        }
+    });
 }
 
 async function getTBInfo(surl){
