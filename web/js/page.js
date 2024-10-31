@@ -327,6 +327,7 @@ async function showPlayerBox(){
     }
     
     if(videoUrl == '' && typeof v.terabox_surl == 'string' && v.terabox_surl != ''){
+        /*
         try{
             const tb = await getTBInfo(v.terabox_surl);
             tb.segments.map(v => {
@@ -339,6 +340,7 @@ async function showPlayerBox(){
         catch(error){
             console.log(':: error loading terabox api:', error);
         }
+        */
         if(videoUrl == ''){
             videoUrl = 'https://www.terabox.com/sharing/embed?surl=';
             videoUrl += v.terabox_surl;
