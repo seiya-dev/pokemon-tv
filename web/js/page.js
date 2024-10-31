@@ -418,12 +418,17 @@ async function showPlayerBox(){
         sib.inert = true;
     };
     playerElem.inert = false;
-
-    player.on('dispose', () => {
-        for (const sib of siblings) {
-            sib.inert = false;
-        }
-    });
+    
+    try{
+        player.on('dispose', () => {
+            for (const sib of siblings) {
+                sib.inert = false;
+            }
+        });
+    }
+    catch(error){
+        //
+    }
 }
 
 async function getTBInfo(surl){
