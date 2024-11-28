@@ -113,6 +113,10 @@
     opacity: 0;
     transition: visibility 1s, opacity 1s;
 }
+.header-back-button {
+    background: none;
+    border: none;
+}
 
 /* control bar */
 #player-box .vjs-control-bar {
