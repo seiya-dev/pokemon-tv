@@ -22,7 +22,7 @@ const watchDir = path.join(__dirname, '..', 'web');
 app.use(express.static(watchDir));
 
 app.get('/', (req, res) => {
-    res.redirect('/us/');
+    res.redirect('/yt/');
 });
 
 const tv_regions = {
@@ -40,6 +40,7 @@ const tv_regions = {
     'fi': { name: 'Suomi',          ip: '37.130.160.1', },
     'no': { name: 'Norge',          ip: '92.221.54.1',  },
     'se': { name: 'Sverige',        ip: '46.195.212.1', },
+    'yt': { name: 'YouTube',        ip: '1.1.1.1',      },
 };
 
 const regionList = Object.keys(tv_regions);

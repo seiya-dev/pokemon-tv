@@ -400,14 +400,18 @@ async function showPlayerBox(){
         createEmbedControlBar();
     }
     
-    let new_video_id;
+    let new_video;
     if(videoIndex > 0){
-        new_video_id = curChannel.media[videoIndex - 1].id;
-        makeControlButton('previous', new_video_id);
+        new_video = curChannel.media[videoIndex - 1];
+        if(new_video.id != '' && !new_video.id.match(/-deleted$/i)){
+            makeControlButton('previous', new_video.id);
+        }
     }
     if(videoIndex < channelVideoCount - 1){
-        new_video_id = curChannel.media[videoIndex + 1].id;
-        makeControlButton('next', new_video_id);
+        new_video = curChannel.media[videoIndex + 1];
+        if(new_video.id != '' && !new_video.id.match(/-deleted$/i)){
+            makeControlButton('next', new_video.id);
+        }
     }
     
     // inert the page for better video player isolation

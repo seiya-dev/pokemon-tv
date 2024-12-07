@@ -34,6 +34,7 @@ const tvRegion = {
     'fi': 'Suomi',
     'no': 'Norge',
     'se': 'Sverige',
+    'yt': 'YouTube',
 };
 
 // run app
