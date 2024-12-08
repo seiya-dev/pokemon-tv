@@ -25,6 +25,10 @@ async function loadMain(){
     history.pushState(hstate, htitle)
     const uriData = uriLoader();
     
+    if(tvRegion == 'yt'){
+        qSel('#select-region').style.display = 'none';
+    }
+    
     if(uriData.page_type == 'channel' && uriData.query.get('id')){
         const selChannel = tvData.filter(c => c.channel_id == uriData.query.get('id'));
         if(selChannel.length > 0){
