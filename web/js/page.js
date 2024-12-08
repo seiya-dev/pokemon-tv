@@ -143,6 +143,11 @@ function loadCategory(tvCategory){
                     </a>
                 </span>
             `);
+            
+            contCell.qSel('img').onerror = function(){
+                this.src = img_base64.poster;
+            };
+            
             contCell.qSel('img').alt = s.channel_name;
             contCell.qSel('img').src = img_base64.poster;
             contCell.qSel('img').setAttribute('data-src', poster);
@@ -216,7 +221,11 @@ function showChannel(){
             </div>
         </section>
     `);
-
+    
+    chanHSection.qSel('img').onerror = function(){
+        this.src = img_base64.channel;
+    };
+    
     chanHSection.qSel('img').alt = '';
     chanHSection.qSel('img').src = img_base64.channel;
     chanHSection.qSel('img').setAttribute('data-src', chanImg);
@@ -264,7 +273,11 @@ function showChannel(){
                 <hr class="tile-episode-divider"/>
             </div>
         `);
-
+        
+        episodeEl.qSel('img').onerror = function(){
+            this.src = img_base64.episode;
+        };
+        
         episodeEl.qSel('img').alt = '';
         episodeEl.qSel('img').src = img_base64.episode;
         episodeEl.qSel('img').setAttribute('data-src', v.images.medium);
