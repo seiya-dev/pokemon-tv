@@ -21,9 +21,11 @@ const PORT = 11025;
 const watchDir = path.join(__dirname, '..', 'web');
 app.use(express.static(watchDir));
 
+/*
 app.get('/', (req, res) => {
     res.redirect('/yt/');
 });
+*/
 
 const tv_regions = {
     'us': { name: 'United States',  ip: '3.3.3.3',      },
@@ -44,8 +46,11 @@ const tv_regions = {
 };
 
 const regionList = Object.keys(tv_regions);
-app.get('/:region(' + regionList.join('|') + ')/:type(channel|video)?', (req, res) => {
-    // 
+app.get('/:region(' + regionList.join('|') + ')?/:type(channel|video)?', (req, res) => {
+    // check if region yt
+    if(!req.params.region){
+        req.params.region = 'yt';
+    }
     // set template
     let templatePage = fs.readFileSync(path.join(watchDir, 'template.html'), 'utf8');
     templatePage = templatePage.replace('<!-- put_tv_region -->', `<script>const tvRegion = '${req.params.region}';</script>`);

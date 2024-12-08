@@ -107,12 +107,15 @@ function getTlText(type){
 function loadCategory(tvCategory){
     removeChildEls('#body-content');
     
+    let tvRegionUrl;
     if(channel_id == '' && video_id == ''){
-        history.replaceState(hstate, htitle, `/${tvRegion}/`);
+        tvRegionUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+        history.replaceState(hstate, htitle, `${tvRegionUrl}/`);
     }
     
     if(channel_id != '' && video_id == ''){
-        history.replaceState(hstate, htitle, `/${tvRegion}/channel?id=${channel_id}`);
+        tvRegionUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+        history.replaceState(hstate, htitle, `${tvRegionUrl}/channel?id=${channel_id}`);
     }
     
     const catScreen = createHtmlEl(`
@@ -140,7 +143,8 @@ function loadCategory(tvCategory){
             contCell.qSel('img').src = img_base64.poster;
             contCell.qSel('img').setAttribute('data-src', poster);
             contCell.qSel('a').title = s.channel_name;
-            contCell.qSel('a').href = `/${tvRegion}/channel?id=${s.channel_id}`;
+            const tvRegionChannelUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+            contCell.qSel('a').href = `${tvRegionChannelUrl}/channel?id=${s.channel_id}`;
             contCell.qSel('a').addEventListener('click', (event) => {
                 event.preventDefault();
                 channel_id = s.channel_id;
@@ -159,7 +163,8 @@ function showChannel(){
     
     curChannel = curChannel[0];
     removeChildEls('#body-content');
-    history.replaceState(hstate, htitle, `/${tvRegion}/channel?id=${channel_id}`);
+    const tvRegionUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+    history.replaceState(hstate, htitle, `${tvRegionUrl}/channel?id=${channel_id}`);
     
     let chanImg = curChannel.channel_images.spotlight_image_1660_940;
     chanImg = chanImg != '' ? chanImg : '../img/channel.png';
@@ -259,7 +264,8 @@ function showChannel(){
         episodeEl.qSel('img').alt = '';
         episodeEl.qSel('img').src = img_base64.episode;
         episodeEl.qSel('img').setAttribute('data-src', v.images.medium);
-        episodeEl.qSel('a').href = `/${tvRegion}/video?c=${channel_id}&id=${v.id}`;
+        const tvRegionVideoUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+        episodeEl.qSel('a').href = `${tvRegionVideoUrl}/video?c=${channel_id}&id=${v.id}`;
 
         episodeEl.qSel('a').addEventListener('click', async (event) => {
             event.preventDefault();
@@ -352,7 +358,8 @@ async function showPlayerBox(){
     
     if(videoIndex > -1){
         const curChannelId = channel_id != '' ? `c=${channel_id}&` : '';
-        history.replaceState(hstate, htitle, `/${tvRegion}/video?${curChannelId}id=${video_id}`);
+        const tvRegionChannelUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+        history.replaceState(hstate, htitle, `${tvRegionChannelUrl}/video?${curChannelId}id=${video_id}`);
     }
     
     if(videoUrl == ''){
@@ -396,9 +403,7 @@ async function showPlayerBox(){
         addDownloadButton(dlLink);
     }
     
-    if(videoType == 'embed'){
-        createEmbedControlBar();
-    }
+    createEmbedControlBar(videoType == 'embed' ? false : true);
     
     let new_video;
     if(videoIndex > 0){
@@ -417,8 +422,6 @@ async function showPlayerBox(){
     // inert the page for better video player isolation
     const playerElem = qSel('#player-box');
     const siblings = playerElem.parentElement.children;
-    
-    
     
     for (const sib of siblings) {
         sib.inert = true;
@@ -517,10 +520,14 @@ function genPlayerHeader(videoTitle = ''){
     }
 }
 
-function createEmbedControlBar(){
+function createEmbedControlBar(isHidden){
     const embedControlBar = createHtmlEl(`
         <div class="vjs-control-bar vjs-embed" dir="ltr"/>
     `);
+    
+    if(isHidden){
+        embedControlBar.style.display = 'none';
+    }
 
     qSel('#player-box').append(embedControlBar);
 }
@@ -561,12 +568,23 @@ function makeControlButton(type = '', new_video_id = ''){
     controlButton.title = buttonCfg.text;
     controlButton.qSel('.vjs-control-text').innerText = buttonCfg.text;
     
-    controlButton.addEventListener('click', async () => {
+    const controlButtonEmbed = controlButton.cloneNode(true);
+    
+    if(qSel('#player-box .video-js')) {
+        controlButton.addEventListener('click', async () => {
+            video_id = new_video_id;
+            await showPlayerBox();
+        }, false);
+        
+        qSel('#player-box .video-js .vjs-control-bar').prepend(controlButton);
+    }
+    
+    controlButtonEmbed.addEventListener('click', async () => {
         video_id = new_video_id;
         await showPlayerBox();
     }, false);
     
-    qSel('#player-box .vjs-control-bar').prepend(controlButton);
+    qSel('#player-box .vjs-control-bar.vjs-embed').prepend(controlButtonEmbed);
 }
 
 function addDownloadButton(url){
@@ -645,7 +663,8 @@ function closePlayerBox(byCloseButton){
     qSel('body').style.overflow = 'auto';
     document.title = document.title.split(' - ')[0];
     
-    history.replaceState(hstate, htitle, `/${tvRegion}/` + (channel_id != '' ? 'channel?id=' + channel_id : ''));
+    const tvRegionChannelUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
+    history.replaceState(hstate, htitle, `${tvRegionChannelUrl}/` + (channel_id != '' ? 'channel?id=' + channel_id : ''));
 }
 
 function genPlayer(videoUrl, videoType, posterUrl, captionsUrl){
@@ -707,6 +726,17 @@ function initVideoJSPlayer(playerId){
                 'fullscreenToggle',
             ],
         },
+    });
+    
+    player.on('error', () => {
+        try{
+            if(player.error_.code == 4){
+                qSel('.vjs-control-bar.vjs-embed').style.display = 'block';
+            }
+        }
+        catch(error){
+            console.error(error);
+        }
     });
     
     player.mobileUi();

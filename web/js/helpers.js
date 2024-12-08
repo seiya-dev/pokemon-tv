@@ -21,7 +21,7 @@ function uriLoader(){
     let uri = new URL(location);
     
     const regDefType = '';
-    const regUri = new RegExp('^/(?<region>\\w+)/(?<page_type>\\w+)?$');
+    const regUri = new RegExp('^/(?<region>\\w+/)?(?<page_type>\\w+)?$');
     const uriData = uri.pathname.match(regUri);
     
     const pageParam = uriData.groups;
