@@ -337,11 +337,13 @@ async function showPlayerBox(){
         dlLink = v.poketv_url;
     }
     
+    /*
     if(videoUrl == '' && typeof v.stream_url == 'string' && v.stream_url != ''){
         videoUrl = v.stream_url;
         videoType = 'application/x-mpegURL';
         console.log('stream url:', videoUrl);
     }
+    */
     
     if(videoUrl == '' && typeof v.embed_url == 'string' && v.embed_url != ''){
         videoUrl = v.embed_url;
@@ -392,9 +394,11 @@ async function showPlayerBox(){
     }
     
     // set caption url
+    /*
     if(typeof v.captions == 'string' && v.captions != ''){
         captionsUrl = '/vtt/?url=' + encodeURIComponent(v.captions);
     }
+    */
     
     // set title
     if(v.season && v.episode && v.season != '' && v.episode != ''){
