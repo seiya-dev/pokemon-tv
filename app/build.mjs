@@ -28,7 +28,7 @@ const tvRegion = {
     'es': 'España',
     'el': 'América Latina',
     'br': 'Brasil',
-    'ru': 'Россия',
+    // 'ru': 'Россия',
     'dk': 'Danmark',
     'nl': 'Nederland',
     'fi': 'Suomi',
@@ -99,7 +99,7 @@ async function cleanupDb(){
                     poketv_url: m.poketv_url || '',
                     // stream_url: m.stream_url || '',
                     embed_url: m.embed_url || '',
-                    terabox_surl: m.terabox_surl || '',
+                    // terabox_surl: m.terabox_surl || '',
                     // captions: m.captions || '',
                 };
                 cdata.media.push(mediaData);

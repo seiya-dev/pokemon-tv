@@ -3,28 +3,17 @@ const req_proxy = 'https://wholly-api.skinnyrunner.com/get/website-data.php?get_
 const tb_ts_proxy = 'https://apis.forn.fun/tera/proxy.php?url=';
 
 const translate_data = {
-    us: {
-        Series: 'Series',
-        Stuns: 'Stuns',
-        Movies: 'Movies',
-        Specials: 'Specials',
-        Junior: 'Junior',
-        Season: 'Season',
-        Episodes: 'Episodes',
-        Episode: 'Episode',
-        Loading: 'Loading',
-    },
-    ru: {
-        Series: 'Сериалы',
-        Stuns: 'Коллекции',
-        Movies: 'Фильмы',
-        Specials: 'Спец. выпуски',
-        Junior: 'Для детей',
-        Season: 'Сезон',
-        Episodes: 'Серий',
-        Episode: 'Серия',
-        Loading: 'Загрузка',
-    },
+    yt: {
+        series: 'Series',
+        stuns: 'Stuns',
+        movies: 'Movies',
+        specials: 'Specials',
+        junior: 'Junior',
+        season: 'Season',
+        episodes: 'Episodes',
+        episode: 'Episode',
+        loading: 'Loading',
+    }
 };
 
 const img_base64 = {

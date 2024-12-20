@@ -21,12 +21,6 @@ const PORT = 11025;
 const watchDir = path.join(__dirname, '..', 'web');
 app.use(express.static(watchDir));
 
-/*
-app.get('/', (req, res) => {
-    res.redirect('/yt/');
-});
-*/
-
 const tv_regions = {
     'us': { name: 'United States',  ip: '3.3.3.3',      },
     'uk': { name: 'UK',             ip: '86.5.53.25',   },
@@ -36,7 +30,7 @@ const tv_regions = {
     'es': { name: 'España',         ip: '2.152.0.1',    },
     'el': { name: 'América Latina', ip: '8.14.224.1',   },
     'br': { name: 'Brasil',         ip: '179.93.224.1', },
-    'ru': { name: 'Россия',         ip: '5.104.32.1',   },
+    // 'ru': { name: 'Россия',         ip: '5.104.32.1',   },
     'dk': { name: 'Danmark',        ip: '2.128.0.1',    },
     'nl': { name: 'Nederland',      ip: '24.132.0.1',   },
     'fi': { name: 'Suomi',          ip: '37.130.160.1', },
@@ -72,77 +66,6 @@ app.get('/data/:region(' + regionList.join('|') + ').js', (req, res) => {
     const tvChannelData = fs.readFileSync(path.join(watchDir, 'data', req.params.region + '.json'), 'utf8');
     res.setHeader('Content-Type', 'text/javascript; charset=utf-8');
     res.end('const tvData = ' + tvChannelData.trim() + ';');
-});
-
-// set llnwD domain
-const llnwDomainRegex = /^https:\/\/(s2\.content\.video\.llnw\.net|s2\.cpl\.delvenetworks\.com)\//;
-
-/*
-app.get('/m3u8/', async (req, res) => {
-   if(req.query.url && req.query.url.match(domainRegex) && req.query.url.match(/\.m3u8$/)){
-        try{
-            const vHead = await got(req.query.url);
-            if(vHead.statusCode == 200){
-                const rhost = new URL(req.query.url).origin
-                const vPath = new URL(req.query.url).pathname.split('/').slice(0, -1).join('/');
-                res.setHeader('Content-Type', 'audio/x-mpegurl');
-                vHead.body = vHead.body.replace(/^\//gm, `${req.headers.referer}m3u8/?url=${rhost}/`);
-                if(vHead.body.match(/URI="vtt/)){
-                    vHead.body = vHead.body.replace(/URI="vtt/gm, `URI="${req.headers.referer}vtt${rhost}${vPath}/vtt`);
-                }
-                if(vHead.body.match(/\.ts$/m)){
-                    vHead.body = vHead.body.replace(/^playlist/gm, `${req.headers.referer}ts/?url=${rhost}${vPath}/playlist`);
-                }
-                res.end(vHead.body);
-            }
-            else{
-                res.status(vHead.statusCode);
-                res.end('');
-            }
-        }
-        catch(error){
-            res.status(404);
-            res.end('');
-        }
-        return;
-   }
-   res.end('');
-});
-app.get('/ts/', async (req, res) => {
-    if(req.query.url && req.query.url.match(llnwDomainRegex)){
-        const stream = got.stream(req.query.url)
-        stream.on('error', error => {
-            res.status(404);
-            res.end('');
-        })
-        stream.pipe(res);
-    }
-});
-*/
-
-// set proxy for vtt from llnw
-app.get('/vtt/', async (req, res) => {
-   if(req.query.url && req.query.url.match(llnwDomainRegex) && req.query.url.match(/\.vtt$/)){
-        try{
-            const vHead = await got(req.query.url, {
-                throwHttpErrors: false,
-            });
-            if(vHead.statusCode == 200){
-                res.setHeader('Content-Type', 'text/vtt');
-                res.end(vHead.body);
-            }
-            else{
-                res.status(vHead.statusCode);
-                res.end('');
-            }
-        }
-        catch(error){
-            res.status(404);
-            res.end('');
-        }
-        return;
-    }
-    res.end('');
 });
 
 // app start

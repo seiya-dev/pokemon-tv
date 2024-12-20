@@ -98,7 +98,7 @@ function loadCategories(){
 function getTlText(type){
     try{
         const tlData = translate_data;
-        const targetTl = tlData[tvRegion] || tlData['us'];
+        const targetTl = tlData[tvRegion] || tlData['yt'];
         const tlText = typeof targetTl[type] == 'string' && targetTl[type] != '' ? targetTl[type] : type;
         return tlText;
     }
@@ -192,9 +192,9 @@ function showChannel(){
     if(curChannel.id.match(seasonRegex)){
         const seasonNum = parseInt(curChannel.id.match(seasonRegex).groups.num);
         const seasonInf = createHtmlEl('<h3 class="d-inline pr-2"></h3>');
-        seasonInf.innerText = `${getTlText('Season')} ${seasonNum}`;
+        seasonInf.innerText = `${getTlText('season')} ${seasonNum}`;
         const epsInf = createHtmlEl('<h6 class="d-inline"></h6>');
-        epsInf.innerText = `${getTlText('Episodes')} ${chMedia.length}`;
+        epsInf.innerText = `${getTlText('episodes')} ${chMedia.length}`;
         const seasonEl = createHtmlEl('<div class="row align-items-end"></div>');
         seasonEl.append(seasonInf, epsInf);
         channelInfo.append(seasonEl);
@@ -248,10 +248,10 @@ function showChannel(){
             let vSeasonNum = '';
             let vEpisodeNum = '';
             if(v.season != '' && curChannel.category_id == 2){
-                vSeasonNum = `${getTlText('Season')} ${v.season} • `;
+                vSeasonNum = `${getTlText('season')} ${v.season} • `;
             }
             if(v.episode != ''){
-                vEpisodeNum = `${getTlText('Episode')} ${v.episode}`;
+                vEpisodeNum = `${getTlText('episode')} ${v.episode}`;
             }
             epNumEl = createHtmlEl(`<p class="tile-episode-number"></p>`);
             epNumEl.innerText = (`${vSeasonNum}${vEpisodeNum}`).trim();
@@ -642,7 +642,7 @@ function addDownloadButton(url){
 
 function showLoadingPlayerBox(){
     const loadingHtml = createHtmlEl('<div id="video-loading"><div><span></span></div></div>');
-    loadingHtml.qSel('span').innerText = `${getTlText('Loading')}...`;
+    loadingHtml.qSel('span').innerText = `${getTlText('loading')}...`;
     qSel('#player-box').append(loadingHtml);
 }
 
