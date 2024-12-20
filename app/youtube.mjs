@@ -6,7 +6,7 @@ const series = {
     s02: 'https://www.youtube.com/playlist?list=PLRcHmntfmJ8AtnKq7EHNIQBUNTs85bqwS',
 };
 
-const pl = await ytpl(series.s01);
+const pl = await ytpl(series.s02);
 
 for(const v of pl.items){
     const vj = {};
