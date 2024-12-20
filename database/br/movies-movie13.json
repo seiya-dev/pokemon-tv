@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie13",
-    "channel_name": "Pokémon - Zoroark: Mestre das Ilusões",
-    "channel_description": "",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1125x1500-br.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-br.png"
+    "id": "movie13",
+    "title": "Pokémon - Zoroark: Mestre das Ilusões",
+    "description": "",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1125x1500-br.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-br.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -13000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JN/999iqt7nnO0JI1QtLplVETGbMpL4jaS0P3XgUoFLg/pokemon_movie13_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JN/999iqt7nnO0JI1QtLplVETGbMpL4jaS0P3XgUoFLg/pokemon_movie13_bpo-d5b582460058b0c52e93424e8a87a366f453ceff.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

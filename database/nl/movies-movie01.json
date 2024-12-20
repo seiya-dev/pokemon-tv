@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie01",
-    "channel_name": "Pokémon de Film: Mewtwo tegen Mew",
-    "channel_description": "Kijk hoe Ash en zijn vrienden tegenover de indrukwekkende Legendarische Pokémon Mewtwo komen te staan in Pokémon de Film: Mewtwo tegen Mew. Nu op Pokémon TV!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-en.png"
+    "id": "movie01",
+    "title": "Pokémon de Film: Mewtwo tegen Mew",
+    "description": "Kijk hoe Ash en zijn vrienden tegenover de indrukwekkende Legendarische Pokémon Mewtwo komen te staan in Pokémon de Film: Mewtwo tegen Mew. Nu op Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/movie01/movie01-1660x940-en.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -1000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie01/movie1_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L6/oPY8Ea26JgbWF2jSlpLAQ6yfyiMulh5T1EKIv2m7E/m1_dutch.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L6/oPY8Ea26JgbWF2jSlpLAQ6yfyiMulh5T1EKIv2m7E/m1_dutch-69d49ba9b85383c6ccc9f9b5c136e3916dc6b80a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

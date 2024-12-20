@@ -1,14 +1,13 @@
 {
-    "channel_id": "season06",
-    "channel_name": "Pokémon Advanced",
-    "channel_description": "Ash and Pikachu’s journey reaches the Hoenn region in the sixth season of Pokémon the Series. Now on Pokémon TV!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1125x1500-en.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-en.png"
+    "id": "season06",
+    "title": "Pokémon Advanced",
+    "description": "Ash and Pikachu’s journey reaches the Hoenn region in the sixth season of Pokémon the Series. Now on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season06/season06-1660x940-en.png"
     },
     "category_id": 1.1,
-    "category": "Series",
-    "media_type": "episode",
+    "category": "series",
     "order": -6000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ap/YSlWJKdVH7s1U-QDCfuynhxm6JvjD0-srs4jcNqOs/0613---get-the-show-on-the-road.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b-/_o49yfXkCpKoKFY4ELp7QQWgqCrqARbI2IODoWctk/0613---get-the-show-on-the-road-c74acc79def0a1a5d629444f8aa34bbb3455d3ea.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/b-/_o49yfXkCpKoKFY4ELp7QQWgqCrqARbI2IODoWctk/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "fa6e802934fa47a1beda778daef8d823",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep14_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/th/Nd-7B8MXOyk740wTF3KSTFyySeAE5LCzbU9aJ7m9c/0614---a-ruin-with-a-view.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IM/Xolm1e5H3W9n86xWXNWESCTGCFOy8AjPWw_Cq9rp8/0614---a-ruin-with-a-view-e0d67dc4786b2199178ee1068ea21a4ae1fd7f66.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IM/Xolm1e5H3W9n86xWXNWESCTGCFOy8AjPWw_Cq9rp8/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "d45c1b4c10774f2797de84b54ccd8930",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep15_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/T1VAi_Dipq13CN1AN3OzZghPowmOPB2pplzE0lZM4/0615---theres-no-place-like-hoenn.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yo/R-TjbmukXbPsG-RbgSzOWrJE-4CeTD_DduQPi3BF8/0615---theres-no-place-like-hoenn-903b59e953759adca0b59f2865ab0ae0a03c07d9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yo/R-TjbmukXbPsG-RbgSzOWrJE-4CeTD_DduQPi3BF8/vtt/4/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "d31b1d86bf3744e9bf1c91b9c97f0638",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep16_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OX/00Q_bacrakMQWvpSXfCnnq6gq3KM_Tmd2WrK0rwUQ/0616---you-can-never-taillow.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/HZb6QLC9WyzPd0Q6GU2RiM98OacOO4ocp1z-HpqZ8/0616---you-can-never-taillow-f98d44f6ccfb90fb86e937a627940523e4b036f0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CW/HZb6QLC9WyzPd0Q6GU2RiM98OacOO4ocp1z-HpqZ8/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "07b88decfa414e4dab42a0bad217beab",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep17_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/st/AqCZ2a_5RwvmitQH1WykdvJbyvsWFu9jBMTgoFFkM/0617---in-the-knicker-of-time.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hs/kU-3eFQXGOO8ZkfGmvDUCtPubk2K4S8iBhLo37xDU/0617---in-the-knicker-of-time-96f1f2d0d758cb51b64297ec3e146d2fd9943055.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hs/kU-3eFQXGOO8ZkfGmvDUCtPubk2K4S8iBhLo37xDU/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "a5c250d17c46455ea8c86b0199ebba67",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep18_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6k/qJrwwfPb9QwigRX_zZ1yZ7K_fiaurfIVFPUYW8-QA/0618---a-poached-ego.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hK/35TQSXOXjS2Qo1b3UYJuR_um3Ev3SmgEDx-NVrldQ/0618---a-poached-ego-d32bb388c65ccd31d92c30024573977cf3f00eed.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hK/35TQSXOXjS2Qo1b3UYJuR_um3Ev3SmgEDx-NVrldQ/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "675b24d28c89486cae846474c734809a",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/pulO9vx2CJyWYIM4Ve-i-mqkXgi89lPtYKDqeXx-4/0619---trees-a-crowd.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_I/KmpfT-xQQjNjjjA6-lCi1h0nYLFRsGR6euHpG5GB0/0619---trees-a-crowd-dba509c01f3bd79758109171b2ad2306f24910bd.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_I/KmpfT-xQQjNjjjA6-lCi1h0nYLFRsGR6euHpG5GB0/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "950c0896fbd74cc2b697feafbe9390ab",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep20_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HF/9Mrhb0Y5mjV6pemC3ekx8aFtkjZBrEwzeQF7w8KIE/0620---a-tail-with-a-twist.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rm/JU-WR-zSS5LLGV_0DpcHM3tAPkQslYDYDdUkkGtU8/0620---a-tail-with-a-twist-4069c8e5d54f4ee11b29e3412e8b7f8848e37a8b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rm/JU-WR-zSS5LLGV_0DpcHM3tAPkQslYDYDdUkkGtU8/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "9b15911ca54d4e83bdd7709dc95be335",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep21_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uv/4EGqsnKBUwI3s-F-PDL9oel3j0_lEO4vPhCyIa3j4/0621---taming-of-the-shroomish.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qp/wPO5-D72kIL36LLZ2IwxCOX3ldyEyPV9U0yswmM7M/0621---taming-of-the-shroomish-31fcd1f28afbca5ea7f7599a836c73dfce94dbe3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qp/wPO5-D72kIL36LLZ2IwxCOX3ldyEyPV9U0yswmM7M/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "6459ea9b42e5488ea8cdc2806c9c7f0e",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep22_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zP/6KlvtXeYS0m0DE-AYDP6ReTXcdVzYZ5xw6C4z2S1Q/0622---you-said-a-mouthful.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mo/EZT87E-XrqgrOxH_E3v24eba8Q2ivz7hOfVE33ggE/0622---you-said-a-mouthful-8f0e6a5e3ed9db1b06fc1d05fc4db2d9bd02375a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mo/EZT87E-XrqgrOxH_E3v24eba8Q2ivz7hOfVE33ggE/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "771c0d54be284f1a83fe1d15e5e493d1",
@@ -182,10 +161,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep23_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w0/6EQA4aOLyzieTN0erApWERj6f4kEmEWG5_Ske3vsE/0623---a-bite-to-remember.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/jmwy8z58LVEqLJI9-xiLUG8PejOfKVS4dCAWIUtjE/0623---a-bite-to-remember-4be1e1b180e9d6f9c918b36585e30e6ab88b5d0d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/jmwy8z58LVEqLJI9-xiLUG8PejOfKVS4dCAWIUtjE/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "481530fdd2d44fa78e978d9761e96092",
@@ -198,10 +175,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep24_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sG/t0feYGOcxT9c7EAtsLK0WU88CZ3J7EU9KiwsZHHeA/0624---the-lotad-lowdown.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wM/CZJGadCxhSjTopj1a6BjS2nqwwJ3rpSgwWtwjgGgY/0624---the-lotad-lowdown-2053a5a8c5641f4a22665c7a8a1d86422d0faff4.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wM/CZJGadCxhSjTopj1a6BjS2nqwwJ3rpSgwWtwjgGgY/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "c14a034a44004b99aa6400bb1f07af13",
@@ -214,10 +189,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep25_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sd/tMQ_2J-z2DP8imYWVtziCLWH0ZdRH9c8bS5rxYNrk/0625---all-things-bright-and-beautifly.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/av/IPXQTQ9oF3pgnWA2hU2X_d-pj2Zh1QH-r0z-2f9AE/0625---all-things-bright-and-beautifly-57cda889e4e952548e6093e7c445064c7032a306.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/av/IPXQTQ9oF3pgnWA2hU2X_d-pj2Zh1QH-r0z-2f9AE/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "a986e0fae9674aa3860e9704eb1dde64",
@@ -230,10 +203,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep26_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mZ/jhR_YC2SK0zDKfDpDRdlZdg6R0clCQlKVqTEooL1M/0626---all-in-a-days-wurmple.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7P/mrWHEb-2pWsziNR5nC8Z30QPnzuTzQJ5fg6oNKKlE/0626---all-in-a-days-wurmple-61dbe80b938e95ebd63d4462b0ed669baa32ebc3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7P/mrWHEb-2pWsziNR5nC8Z30QPnzuTzQJ5fg6oNKKlE/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "4b7f1567970d442abb58d6ffa3ad940d",
@@ -246,10 +217,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep27_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cj/DM0npNtVZ53ppbogj_w-DKCzX2WafT6yU-_EtSqPo/0627---gonna-rule-the-school.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wH/FWfQDsjdEvNlrEifuvLQoSnxlTkwu3ue1WZ8x1dBc/0627---gonna-rule-the-school-027f61fb38a80991c5dad441bcf9d80ae694ba67.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wH/FWfQDsjdEvNlrEifuvLQoSnxlTkwu3ue1WZ8x1dBc/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "273bcb9dd5864436886068d22f5497c6",
@@ -262,10 +231,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep28_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-4/wGjpgjFTtiJLDVPsZZ2ucmUHOgKPcyEzIdGwAQ34c/0628---the-winner-by-a-nosepass.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WN/Ypiz7fGQ-Z-lspmpt1ISKk4urp2bVKnSlKmIrOjIs/0628---the-winner-by-a-nosepass-04d1b937815536e24b4949fa39463c5ebed26e19.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WN/Ypiz7fGQ-Z-lspmpt1ISKk4urp2bVKnSlKmIrOjIs/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "08b50019c6c74d4c896c6cb3b86eeff6",
@@ -278,10 +245,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep29_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fR/7Nl9YD_fCHxpV6tn13xAGEt7R-ySZX_BBCpB2EGnE/0629---stairway-to-devon.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T3/ix4Faac7OfDhH3m7k9GRxtS-zyiXW10rGrOOBTL3Y/0629---stairway-to-devon-4709c3a35e3e9040c82fbdd05e6be77ccb610c8e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T3/ix4Faac7OfDhH3m7k9GRxtS-zyiXW10rGrOOBTL3Y/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "94e053eab7714cb6853fe05ae1d91175",
@@ -294,10 +259,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep30_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/te/FUJlVFWo8Pl1tKLNl8zG2PMQgpywIHTFoc7JLvwZw/0630---on-a-wingull-and-a-prayer.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uS/aJR3JoT3EX0YkpbM6bZWhZr7kEA8E3xAPheYC3MFY/0630---on-a-wingull-and-a-prayer-e82aff3693df6aa6fb71f1a3b73d2fd290c85e1a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uS/aJR3JoT3EX0YkpbM6bZWhZr7kEA8E3xAPheYC3MFY/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "898e0dcf03034852a6d09386c6518d4c",
@@ -310,10 +273,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CE/fpx5vpxIACMA_SP42jYUkC0kVv2Jgk6dzu_x_0E84/0631---sharpedo-attack.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0x/G3WAz3Bzsh-ALTAfCKSWrxO9720gVohl6vJCvvpeE/0631---sharpedo-attack-32be7c5d7fb04cbe9ec295311fc9ea30b7728398.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0x/G3WAz3Bzsh-ALTAfCKSWrxO9720gVohl6vJCvvpeE/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "7c25d6ecceff4db085eb22146315a168",
@@ -326,10 +287,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep32_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iT/SaKLCAMHtnQstAwS1zrr7gCSI1-Ya7gf9AYYgDThA/0632---brave-the-wave.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uz/bpTU7yQ8sFB4Lj5EPQ9CO7J_Kbf36XDrStFIZXriI/0632---brave-the-wave-85a33f4f18c32f085daf256fc8561991437049e6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uz/bpTU7yQ8sFB4Lj5EPQ9CO7J_Kbf36XDrStFIZXriI/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "e9305edb4d854691a64176ed11f2b663",
@@ -342,10 +301,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep33_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wk/0WguyJA8ovTfD8Is6wWfkBYYuobkq2rSEmbng4-Ck/0633---which-wurmples-which.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bz/aO98yEiUUSReIZ6E4j7KU0BUXABUg1HX6lgWrutss/0633---which-wurmples-which-f495431e370ce9d283e9e275efba58ae2afb8641.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bz/aO98yEiUUSReIZ6E4j7KU0BUXABUg1HX6lgWrutss/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "74a22b5a2143480e8e667ef3f39b010c",
@@ -358,10 +315,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JT/v7V0t_N-1FQYkDSHeEIsni2806N_YtuSi5YoNr_OE/0634---a-hole-lotta-trouble.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s_/hfAVeu0BMMor2f_emwG2x9Si2SHHr88ykFQeXhEzM/0634---a-hole-lotta-trouble-1eac606c9f50b0aedb91a66061f6d1feb47b68ff.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s_/hfAVeu0BMMor2f_emwG2x9Si2SHHr88ykFQeXhEzM/vtt/6/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "87360efa7f8e4d819cecc910cbff25e6",
@@ -374,10 +329,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rD/2ms0LtFO0z75JJTI7Tndx-FI8MSSL8iCALtwEnrYw/0635---gone-corphishin.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tK/Cia9GgH4mekQ-G2aQHKOUjh_UT5geuThccojO65SI/0635---gone-corphishin-e58cca4905463d72b04968722d3423422cdef94f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tK/Cia9GgH4mekQ-G2aQHKOUjh_UT5geuThccojO65SI/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "93ed8b30a4814a8faf1fcf9a1cdd2b58",
@@ -390,10 +343,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep36_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/41/f_FFNRam2J6pfDKR-ASMjozA0qq3NSVSp46qzvTa4/0636---a-corphish-out-of-water.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9V/RVLKxbUudhcVdfegjK4ig1n7TCfpBTChrqd_v7-SY/0636---a-corphish-out-of-water-791bc762142b7289e2b022dbe771c891811d1d4c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9V/RVLKxbUudhcVdfegjK4ig1n7TCfpBTChrqd_v7-SY/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "bc3b58c426d441858278eb36f9357861",
@@ -406,10 +357,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep37_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xz/CzKLjD9Hh5BnUzndnkSMEq4t3W--vTbiom_CtGSXU/0637---a-mudkip-mission.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kW/FpZ2NSqpNJRbc6JR6qlIm2jSHd5qs5eXsB9DZFAfc/0637---a-mudkip-mission-17ba1636ec8f809b10a89eb99b474e650764baa9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kW/FpZ2NSqpNJRbc6JR6qlIm2jSHd5qs5eXsB9DZFAfc/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "560bee2d003344538942ab1e493291f2",
@@ -422,10 +371,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/B0/bImB0YWqaBUZ1pouhngivudUitR82dOkseXL3ks50/0638---turning-over-a-new-nuzleaf.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kP/uSfCs06fyq4cUU-zdwldCTKzaP4fpSi9muEsCzBL4/0638---turning-over-a-new-nuzleaf-367938650368ce871a58d872da9cc71cfa3764ff.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kP/uSfCs06fyq4cUU-zdwldCTKzaP4fpSi9muEsCzBL4/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "53324ccf91c3453fa58381c27d01cbf0",
@@ -438,10 +385,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep39_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nK/FYKSU73GExRjG80M444mPUn6PlcoLxNmp2yhgra_I/0639---a-three-team-scheme.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7r/Cf4JTbvfPSF2ZO5-WjcGBqZtdMxJMmlHn-PaG8HKc/0639---a-three-team-scheme-f273995665e76d10be4493136b73c986bc0e7a26.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7r/Cf4JTbvfPSF2ZO5-WjcGBqZtdMxJMmlHn-PaG8HKc/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "6d8712aaea124ca88a920d0dfce66c07",
@@ -454,10 +399,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ot/W1gm0VS5XW0ECh8vxEpBz4jm9fkDCuWGPdRJdLqJM/0640---seeing-is-believing.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f7/ld5kDkzURPjUJTLBoHpaQhYU9JDaxVFm8h9hp4ENg/0640---seeing-is-believing-d5622840b75046bbf35f676e28fef8d958d2223b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f7/ld5kDkzURPjUJTLBoHpaQhYU9JDaxVFm8h9hp4ENg/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "a8a6bbcc0df3436ab93d7678ce73a0ab",
@@ -470,10 +413,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep41_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6f/2rMDsFpAKHg7OaI2p9cqSD_8q_OEHEemD6-6FubBI/0641---ready-willing-and-sableye.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Js/yypATMCeBS4eXrIKLbzg2xQoSzpRI-yV63fBGUsJc/0641---ready-willing-and-sableye-ae9a98d28f1a7dd988106840432b429b7b443f13.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Js/yypATMCeBS4eXrIKLbzg2xQoSzpRI-yV63fBGUsJc/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "26ef28a3e72d49348c1d47db1638b1f8",
@@ -486,10 +427,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep42_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/E_/jGQUiQ9LW7sMt5QwX4wI8sxyH8e56jHBdADv-rpII/0642---a-meditite-fight.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qg/joAjyaSp7BruwhE1woTSPMLsLtSadqc_QMePcXZzk/0642---a-meditite-fight-bb84151b1d838b6ff727603171ba8fb15bbeed0d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qg/joAjyaSp7BruwhE1woTSPMLsLtSadqc_QMePcXZzk/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "b57cd64a6e254f00b5f2ba84f3727a77",
@@ -502,10 +441,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep43_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YL/OaE_aJ4sSqK8pWUfX0fVkIm525Q02-BmlHgLXie9k/0643---just-one-of-the-geysers.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KQ/emDifjeX8CUjV03Bq1X4DUUWsflkW974on7vXRbcU/0643---just-one-of-the-geysers-c7d4f479e9bab9c049f65f08fec6beb53ccb0475.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KQ/emDifjeX8CUjV03Bq1X4DUUWsflkW974on7vXRbcU/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "6c875fb90fcf4658b348b2bdfe4c94bc",
@@ -518,10 +455,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep44_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/S4/9EskScgc6n8JEiqdvr2UFWZYjx1Fg3XOOXQZjNzng/0644---abandon-ship.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ov/wSveU69ModUQxiCkf7UkQif9WKjR7kJVGgvi3qQjo/0644---abandon-ship-16c93e9fb72dfc6882ef88be07053dd9ef6e6fb1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ov/wSveU69ModUQxiCkf7UkQif9WKjR7kJVGgvi3qQjo/vtt/4/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "caf37458e4be48a3b86ee774b2f9cf13",
@@ -534,10 +469,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep45_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JB/0xONuOGK90XXsV3v8TYm9HvD2xydL54ZsXQKpmuvQ/0645---now-thats-flower-power.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2s/Lsfsml4ZccLR2dAuKKC97Oi2UXC3imBniCnd8rH9A/0645---now-thats-flower-power-065614d9165fe5c2167f3c760b683a4759d3f1cb.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2s/Lsfsml4ZccLR2dAuKKC97Oi2UXC3imBniCnd8rH9A/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "6f78119a22b84b6cb4702c8c41225fd5",
@@ -550,10 +483,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep46_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gi/l2bR0XSfk8fakXGD9dkFZ65QIoJxn_8teRaZ2JUCc/0646---having-a-wailord-of-a-time.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/br/VaF2X3xs6ZsIFMJNCWrWXG01s5ulmVIFuAxuuqbI8/0646---having-a-wailord-of-a-time-f2fefdbf39434329b543dd7769fd1b6cb8f96d67.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/br/VaF2X3xs6ZsIFMJNCWrWXG01s5ulmVIFuAxuuqbI8/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "24bb55cf6b694f9f9c1f2d2569c55d21",
@@ -566,10 +497,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5C/gY2gwnUlyuGO4JVTpXmDu9XNaxaQOGaWoQ_bnO6Jo/0647---win-lose-or-drew.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nB/pue9x1dxzR7xboQOFWUmESv7ugGQk76VyBXGYQUUs/0647---win-lose-or-drew-5839ab0353f32afbbd38a8fec13b2cc391dee510.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nB/pue9x1dxzR7xboQOFWUmESv7ugGQk76VyBXGYQUUs/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "68d47e9daa4d4efb89c819e0aaac6134",
@@ -582,10 +511,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep48_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wm/iEEr4EMLx0NSmx_C35eAN6rH7g8dLj59IW8DlfU3E/0648---the-spheal-of-approval.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5q/JYPBK_LELUJZLyEFTt4CefbTXSFcJIJCBrI9fkwxo/0648---the-spheal-of-approval-633bf37bdf3b7225f20a78e37962afc11e159ff1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5q/JYPBK_LELUJZLyEFTt4CefbTXSFcJIJCBrI9fkwxo/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "d95931e6494043afaeddae6207cbb4a9",
@@ -598,10 +525,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep49_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Nc/usqAu7Ma2rlj8w9SoAYnUxcZmRVd1-BBOgMjFRHKc/0649---jump-for-joy.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sw/QG4XlhMQPaafzyYVT0m_QCNdp2_XIPnYKq1U7uRpE/0649---jump-for-joy-cfb96c9fee1c6dd85db1ee035f3b76d3aeac7123.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sw/QG4XlhMQPaafzyYVT0m_QCNdp2_XIPnYKq1U7uRpE/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "ea70c0528ea24c7aa9a91b47e64776c6",
@@ -614,10 +539,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep50_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cL/EVqJXtJ3qMK2GyJ5MjmdyE86DjLtphxaUiVuDMDYs/0650---a-different-kind-of-joy.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3-/5Hx-IwnTEf13KbtoXMQUVoF1ibQZN46a73Z-vbzqg/0650---a-different-kind-of-joy-0c6aad8b634bc758c4ea4be65cdc084effa1a2c0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3-/5Hx-IwnTEf13KbtoXMQUVoF1ibQZN46a73Z-vbzqg/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "5ff34b3d0e8d4929bafba22cd39a32f7",
@@ -630,10 +553,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9h/M83OXNnVN3cv7xHTpzYyJJ_KY2ME_75ZgUQv_cRtA/0651---a-poke-block-party.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SU/34Hm6k-zjiopUAARgxHeZU5PkiSCir6No2sX1VD9s/0651---a-poke-block-party-922e0fbbfde4a8bb62813da2feec0e0c70493845.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SU/34Hm6k-zjiopUAARgxHeZU5PkiSCir6No2sX1VD9s/vtt/3/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "53e7e2063d8943f38a3e559cc18683d7",
@@ -646,10 +567,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep52_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SQ/2qFX61QzSkiBKtyy20hZS3wacnOzy4d5q73rlC8Uo/0652---watts-with-wattson.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SV/D_1qhvVDd5eKyzjPAVinSJcsqnkKZQACwogUxF9gY/0652---watts-with-wattson-ee55d1ab7ebba9d4e972b831f0bf31a885309801.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SV/D_1qhvVDd5eKyzjPAVinSJcsqnkKZQACwogUxF9gY/vtt/3/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

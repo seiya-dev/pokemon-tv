@@ -1,14 +1,13 @@
 {
-    "channel_id": "path-to-the-peak",
-    "channel_name": "Pokémon: Senda a la cima",
-    "channel_description": "Ava siente que no encaja en su nueva escuela hasta que descubre el Juego de Cartas Coleccionables Pokémon en esta serie de dibujos animados de cuatro episodios.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/path-to-the-peak/path-to-the-peak-1125x1500-es.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/path-to-the-peak/path-to-the-peak-1660x940-es.png"
+    "id": "path-to-the-peak",
+    "title": "Pokémon: Senda a la cima",
+    "description": "Ava siente que no encaja en su nueva escuela hasta que descubre el Juego de Cartas Coleccionables Pokémon en esta serie de dibujos animados de cuatro episodios.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/path-to-the-peak/path-to-the-peak-1125x1500-es.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/path-to-the-peak/path-to-the-peak-1660x940-es.png"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1691759698,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/path-to-the-peak/path-to-the-peak-01-360x206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cR/mOmJcmbmcoK0dyAn_GmLcA63gDB8p4UWJ4ubc6avw/pokemoncapitan_season01_ep01_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xL/y-JUK1OJX17JIGcOmXM09xypGS8xNebgv8WUnfpP0/pokemoncapitan_season01_ep01_las-4dce079014702b5748d3ba59cc882c40b89d034f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a1b4692652f5445fb87c789f7fa09c3a",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/path-to-the-peak/path-to-the-peak-02-360x206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t8/y1c1vWEdc014KhsPs1-EAXUdOp2QFgp5gDtcYUna0/pokemoncapitan_season01_ep02_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wb/ZXyem9h8nE4I02ibAb0UTltoCQ_1W57vp2eQl_VJQ/pokemoncapitan_season01_ep02_las-e2c8f210e8a3c4324de206b32537ce3ae4b403f0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "69f9b78d41004b15b5d605f5e92d7a7b",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/path-to-the-peak/path-to-the-peak-03-360x206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YG/7l1hKWSJIJFlSaZ5SucsO8u1To6U21x6SHBzkt6Y4/pokemoncapitan_season01_ep03_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4M/Jz8uikSyhAmKnWE3LkrkvN2DoQmoA2uuRSLVgUCZg/pokemoncapitan_season01_ep03_las-ea4e35389e8b512c77191c31131ead5d878ee103.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "64e96c467d6947e08763a76e00f545c1",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/path-to-the-peak/path-to-the-peak-04-360x206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hw/s8HHk3H6UvT2zAdg-ojz4_Ln1P5eZMqvIhynCZmdQ/pokemoncapitan_season01_ep04_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QE/B_9e85LVDTUuw9b_VaCzZNaAKodCz4N7K9VFDjaK4/pokemoncapitan_season01_ep04_las-844a7693267c43fed9167640647dfe677b6a168e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

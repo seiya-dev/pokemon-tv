@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie13",
-    "channel_name": "Pokémon – Zoroark: Illuusioiden Mestari",
-    "channel_description": "",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-en.png"
+    "id": "movie13",
+    "title": "Pokémon – Zoroark: Illuusioiden Mestari",
+    "description": "",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie13/movie13-1660x940-en.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -13000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie13/movie13_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DB/B9ui3DbSue0Ly-dZjvPCfI_eT5f4vnMRVbvG3yO2I/pokemon_movie13_fin.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DB/B9ui3DbSue0Ly-dZjvPCfI_eT5f4vnMRVbvG3yO2I/pokemon_movie13_fin-6c7c36bd559b191923cb3e7788a0c600b4a957d3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

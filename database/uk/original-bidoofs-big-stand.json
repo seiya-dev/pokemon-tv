@@ -1,14 +1,13 @@
 {
-    "channel_id": "bidoofs-big-stand",
-    "channel_name": "Bidoof’s Big Stand",
-    "channel_description": "Look out! Bidoof bumbles into trouble in the new animated short Bidoof’s Big Stand. Catch the adventure now!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png"
+    "id": "bidoofs-big-stand",
+    "title": "Bidoof’s Big Stand",
+    "description": "Look out! Bidoof bumbles into trouble in the new animated short Bidoof’s Big Stand. Catch the adventure now!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1641917599,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/bidoofs-big-stand/bidoofs_big_stand_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0S/v-OpRr6NBv9xogU4pr_f9k3lfqU8gFdIJDrN-Mzv0/bidoofsbigstand_v1_eng.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YV/kEG46bRGlSqHtlkPPMKww-ljtuROEl6QgXYQK8woM/bidoofsbigstand_v1_eng-8fa1bde5e0e4d1f99632766d6a8319eaddccde9e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YV/kEG46bRGlSqHtlkPPMKww-ljtuROEl6QgXYQK8woM/vtt/1/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

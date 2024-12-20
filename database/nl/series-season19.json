@@ -1,14 +1,13 @@
 {
-    "channel_id": "season19",
-    "channel_name": "Pokémon de Serie: XYZ",
-    "channel_description": "Het avontuur van Ash in de regio Kalos bereikt z'n spannende einde in Pokémon de Serie: XYZ. Nu op Pokémon TV!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1125x1500-nl.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1660x940-en.png"
+    "id": "season19",
+    "title": "Pokémon de Serie: XYZ",
+    "description": "Het avontuur van Ash in de regio Kalos bereikt z'n spannende einde in Pokémon de Serie: XYZ. Nu op Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1125x1500-nl.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-nl-nl/img/watch-pokemon-tv/pokemon-tv-app/season19/season19-1660x940-en.png"
     },
     "category_id": 1.1,
-    "category": "Series",
-    "media_type": "episode",
+    "category": "series",
     "order": -19000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0K/e6ujsRrThipWIMWW5CTQARlGppxSTHUr5HONKrSE8/pok_tv_s1901_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tv/ePFK9x2QCeAamzQPV7l1_iCWsMftrB1cgMR9BkC1I/pok_tv_s1901_2997-master-nl-sdt_1080p-cf0853e9b1ff268d5c6fa0a7455a05763594be32.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c96cda0c07e343a086ca6ab766f9524a",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-n/KXAwjZETjzTdUr_DHZ9p-oCAoqGqgX1HK61lO7eTw/pok_tv_s1902_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/R5/ielHMApuyqB5bFUy88huF_UhcZclC5ngVCUncu_vc/pok_tv_s1902_2997-master-nl-sdt_1080p-3bfe289ef6afa81633842ae5aa60f35c48c51fb5.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e01dbbdb34b245969d84e34bcf0295fa",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tK/K-ehIjucuVXr02B4F21ZPzQUjLHYJ2gqMczx7fKrM/pok_tv_s1903_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sM/0tJwbS0AXO7OE92gNymYPjA41fCcM5z7Z99EdHBGk/pok_tv_s1903_2997-master-nl-sdt_1080p-97db32bb10177d40364c231a5ce0591eae1a8338.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ef6dba1572504b0d91dbdb565766009c",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OI/8bveryU72JrlmLzO9XSBEdCFhbyytTbj4ldKu5wrg/pok_tv_s1904_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fA/49RF22DLcPgJpKGdBkt6JKkT2q8uJ9kXTZD4SnBOU/pok_tv_s1904_2997-master-nl-sdt_1080p-d40365bac6d6b9204d4dc4362d60e6c66cfceb03.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "830ebec2ab09458ebe2c9f3e06a29320",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/36/sOIFKsi4SpfFIZUNdQspYFSk-9Uy_64nRvkAoZM8E/pok_tv_s1905_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1b/o6cipkghZ7s9T-PaEQG1BFNOzANtCxYIUG6oE7FGE/pok_tv_s1905_2997-master-nl-sdt_1080p-9c2265ba8c06d69dbb5810e93e61798e1be324e0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6cc2bfd44da74c27831f6e1ce81abe24",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep06_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-9/T6Kc2v8oQWUhgpoJXB-azrIMDN8JMYW9Bgmg_FrAw/pok_tv_s1906_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z1/OIBbowAW40rLLcISe0L_8D2nsspQjnm80lsbDa4sE/pok_tv_s1906_2997-master-nl-sdt_1080p-2d9e756862401bcabb14e5dc61b542e04b80aca3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "03675c5e310d41e1ac26ef8e77ad04c3",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep07_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hr/Rv1FpMqW3VQlFm9uv2pB4usI8pB_N9QGfQek8ovU8/pok_tv_s1907_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ci/x7LPw_14TeOJlZwR65iuvmFAeJfdrfQiAvpG744m4/pok_tv_s1907_2997-master-nl-sdt_1080p-91dd8663703f1e77bb38a4f83a101e493e780d6c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1f439731e736496eb149514cb3a4e02f",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep08_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Q/v_aYZksFOC4M2UHZPW4WWmVupZOo4knokUj4FDmP0/pok_tv_s1908_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fm/VkLZRZfl6bcdF5RMkRJVOv3_PE0K8ZX-NaZ2OFp3Y/pok_tv_s1908_2997-master-nl-sdt_1080p-4d9f60be65032d347f086a7dba017d5922816693.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "af2737517d0646d49343d24239d521d0",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep09_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sx/gOM2oDQ9ylM_tbj4tJomr95poYcuRR03PH8D3-H44/pok_tv_s1909_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YN/atr7LIAI4LFe0OeW5e3Ytcu42xbUq3XK5hc_zQQwY/pok_tv_s1909_2997-master-nl-sdt_1080p-32a606d8658a494a95a334bbcaffc9ff65e12927.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "48f9f8e99acd4d60b2e3160306d803e7",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep10_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uF/XBxDphH3EwzOdudln1D-6bJ0y5twYoplfI1T6Geac/pok_tv_s1910_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gR/d0cp628kEZR555969wmGLwCx03cJCDk1XZup5U14Q/pok_tv_s1910_2997-master-nl-sdt_1080p-30039bbbd470fb6bf13043b2867b3de9ff7b7061.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c4b788cf1cf445d4ae8e679311e3e924",
@@ -182,10 +161,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep11_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jz/-YnxR5XHnPafGGgyqffC_1ayvFZtM5s3l47Gck24s/pok_tv_s1911_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/le/t-8QUB9uY4GCKu8tQcCgo6s3BacOFbiQQOSI7yKFM/pok_tv_s1911_2997-master-nl-sdt_1080p-e9c69203e4f0caa51ebbea6af9565820688bb1d5.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "fd8eba5e84ed4da6a65ea2eba8b863f1",
@@ -198,10 +175,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep12_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-T/-Adf02NMcCx-Lh5Iwc9gnP3NdqG89yU9g5P-HjIOY/pok_tv_s1912_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9v/HgH73WPrTqnNOtkX1GUXn1E3BrnzzuYrMMMeUgaUk/pok_tv_s1912_2997-master-nl-sdt_1080p-5998cec68c4b28ddc816ec80956eb38261104f8e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2ad94a370c5d4e20ae2d2ced9ae0022a",
@@ -214,10 +189,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep13_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nf/u45A0RmC5wBPXClfUDRUTMQqek0uPMln2njui7brc/pok_tv_s1913_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V2/T3GHtJe4-JXoHhQBNEdWtEzfjtul6B8V5d8f6Ps9I/pok_tv_s1913_2997-master-nl-sdt_1080p-98317cfc39fb1bb3f15fda87eb4e142e009ef2f8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "b4984553c5e24ac89e9dd40333748d98",
@@ -230,10 +203,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep14_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/to/p1d8-SRp0-uNoud0xzGEhULrdXg3cEgWe4QxAWqv8/pok_tv_s1914_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x7/1MaFUNNjSTGqui-_HgYSoc9ObBzkTc3txgSAAEjQU/pok_tv_s1914_2997-master-nl-sdt_1080p-62eb2c7e0d43c980ce4ae499e77ae1dcd302ed6f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e76170cb846b437292e72aa588a6d22c",
@@ -246,10 +217,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep15_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pk/ClG7JeySM4X15JeGzU7PUpfo7-quoVVJaH5l198Ag/pok_tv_s1915_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sX/auZM__Qk6ets0zqNtECdA9WwqwHNOd2OEO9ke1C_k/pok_tv_s1915_2997-master-nl-sdt_1080p-e45052c8c4aac214a4ea916b756b79455de3add0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "9b9e2e1bae394f0fbf4f8960d3566ba1",
@@ -262,10 +231,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep16_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hW/UpjujctuHeQmR84o8-Mcz24Dx8Jd9-0m8ZX7_kK2M/pok_tv_s1916_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IU/xD5FTdVHnP3wUsbsoDR6IKN_QlADXGGbFHmfdvSkE/pok_tv_s1916_2997-master-nl-sdt_1080p-5ec39ee8ed39fcac3ad67578afcb4db8bdd55f0c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "9eef0b33fa434c07b850b25e2ccd8bf3",
@@ -278,10 +245,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep17_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WH/tFz2X4MF41kh_yeKs3yJDXK6r9zXlpIPy8Q9d2pBc/pok_tv_s1917_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-8/s42dqVWCsbhOCown1V5tsnIfIsAQ4gHquTw0BVKHI/pok_tv_s1917_2997-master-nl-sdt_1080p-afd7f110c12e729396245b7b3ad314a855c93cd9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d3b7002756ea402c87a123ef6bf12f2a",
@@ -294,10 +259,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep18_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6-/oBqwOQYVm74j0wK9RfIMUV5tY0xjf_3F9lTf96nOc/pok_tv_s1918_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vu/wwvuYjKwjK7Ah8DLi4ph7lfxQ5SXERSHfIaYI9chU/pok_tv_s1918_2997-master-nl-sdt_1080p-767db4ff550908b230e269cb5e2316408a4e62af.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2aa8f065276e44fda8b996ebf18aced6",
@@ -310,10 +273,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep19_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uX/s7CRuqoTCNsWy9PvBELa1-GQfuon7n88eA7esNIyI/pok_tv_s1919_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P6/Dfd_5ZwjyEqa_imR0SXyfX3GYZrTY3uSdOX4eFk7Y/pok_tv_s1919_2997-master-nl-sdt_1080p-86809f5e9aeb585ed74cc440f4466d114cacb5ed.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "9a29aa41949041ffb88b1900d51a5025",
@@ -326,10 +287,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep20_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sO/c1YqQ9cW84JKrKSkSBCwjoTMRlNAASU1I4jOmsGSQ/pok_tv_s1920_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AH/y0zAd1aZxEP04ULhpiknuz9HNW3c5QGMpsoPQxI2I/pok_tv_s1920_2997-master-nl-sdt_1080p-4db29d880cd4643e89686fccff08a42dd47063e2.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "efa174504819489fb6cf9c92e0efc830",
@@ -342,10 +301,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep21_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Di/pSNvr2cHv8P4nGlSlcal-CN6iqE8UEIEHNlwuNrnk/pok_tv_s1921_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qX/ElJNtMhLOg42kBxJcVaNj6Q_DJ-4Xjws3SbiR2FUY/pok_tv_s1921_2997-master-nl-sdt_1080p-593aa9510185af32d0361280b19dd46e1bd32cd7.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "fc431a61407e4e54a434c1d216bf733e",
@@ -358,10 +315,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep22_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mm/m97eezWju4sVgATuSXS-5cbw4Is6n1LU-LHMVmpZE/pok_tv_s1922_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-e/m0nAcn_t-PDeeONiYVGqd-4ztuc61M2gpqLh9upag/pok_tv_s1922_2997-master-nl-sdt_1080p-bbc8c34bc4ef4bd05e857b2fde6c8f566799dff2.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7e3541d78ae34562be9242c764ced176",
@@ -374,10 +329,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep23_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hm/irXPEhn-CZkipojfwncdPST8sf_orUmwtHhUPVxO0/pok_tv_s1923_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CC/jLm7Z2LFZjp4XNCHvn678GHd6_i_cguoUSYbkx37c/pok_tv_s1923_2997-master-nl-sdt_1080p-3a32d040ec5a69c0a909c20a6417f118acfbc209.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "bafe67cfac3f45c5ab05f4b16a31fae8",
@@ -390,10 +343,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep24_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Uz/ty3Jh8qSHFjR7kyHJFltMS1YTyajogNhTowPKrW3c/pok_tv_s1924_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/64/jChcrubyG7DcTKQGBh2RrL6k0x5ZesU9Aon-aUx-4/pok_tv_s1924_2997-master-nl-sdt_1080p-de786e07656a63c91bf75c6a9a3056811650eac7.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "eab8d26246f04b1e9690937bc41e7e8b",
@@ -406,10 +357,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep25_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TL/laWuZuv5hwC-dKo-2014TY_qQUePsYFYQ8cTsO_bI/pok_tv_s1925_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zb/zS4l0mZnRckye8XWGaSYKC5xH29uz0S8bo_TBK504/pok_tv_s1925_2997-master-nl-sdt_1080p-ce3c0f149bb9e38001c8aa8c74264d463bbeaf04.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7cc1bade78874a6e9e9f85455f616929",
@@ -422,10 +371,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep26_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cM/LeBHFnsBSKNQY3OvdK2U66uDfieZ7JIhvHrRTCyj0/pok_tv_s1926_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p7/cNt5qaLckgzfAQG4946I86_OxpKW0LcxW2ZI6xNOQ/pok_tv_s1926_2997-master-nl-sdt_1080p-d0f36441c08ece648bf61d1ecee9463337d92c46.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "911bfc6823e3449a9d66e9e7a6ad9466",
@@ -438,10 +385,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep27_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KJ/agyn5sgDAfqKyV9w5lmIjNzRlK6Fgs7NBcmc1swGc/pok_tv_s1927_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kq/yf_55QBEV0kv9kItCcwO_YQ-rTo8pUMw7xZu-_I_U/pok_tv_s1927_2997-master-nl-sdt_1080p-c87fc585d5b98606dfb96cf65d78e82a54f6f314.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "251402411e384bd8a24190502532bfa3",
@@ -454,10 +399,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep28_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tt/L2RkM0jlQsyaGKaKuKjoHM-ShDNymSKJJWyUFmky0/pok_tv_s1928_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lv/kWyYdnGYiKgcm3ReQiSJK4HW4w17qp9AO_jVwApZU/pok_tv_s1928_2997-master-nl-sdt_1080p-08a593c7685ba6ab7829a8b85269c60ce01ae5c9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1f9ab0889e2042dba7163c77c1347728",
@@ -470,10 +413,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep29_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KY/y7m-2KLSNlgspWhUzYfOCQWwd6yasVARkqBa13w98/pok_tv_s1929_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lq/d8KILpcd_bjRbzI8bDVxywBjxO7Ozc8r0X9CsD4jw/pok_tv_s1929_2997-master-nl-sdt_1080p-9f0d582e4977a7c93f70de347d0e5d6d92611df6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1e3b90681b7d4f31b786a063b056a206",
@@ -486,10 +427,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep30_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fQ/eESeX0_KwVDDngpaGD1M7bR9vYOmPyRhHqimhp71o/pok_tv_s1930_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WB/30hXc_ctTnH2GYPruGa38n0zZvWNv1HcyfSgASd_8/pok_tv_s1930_2997-master-nl-sdt_1080p-b4ebdf5488a18e693ce0296919c3ea83894e3fba.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "9d3ef7bc54da43aca967a67512935d26",
@@ -502,10 +441,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep31_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-s/CkIfsVCaHTl6n3fw2ENxO-jZgb0I341nn3hxDRypc/pok_tv_s1931_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IO/h8TtcGJ3IEPv-mKj-t9P_-cbcckXa2nZYtKEsC8-s/pok_tv_s1931_2997-master-nl-sdt_1080p-0d61eb7cb153524baa97a1a003986db40029f25c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ad79423700554672813aef4431cda566",
@@ -518,10 +455,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep32_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/62/pd9RE1BTKAJFRkFZq7mXUuU6O4Y9lIDnKb9RFh_B8/pok_tv_s1932_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZW/w1WVtCPig9ig8ytMkjP88lDTWvjyXW2jWnkUEti54/pok_tv_s1932_2997-master-nl-sdt_1080p-527a79ec1bea39e13022907c17a62473a067a45b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8081d1220c2149cb8bd2badbce9fc679",
@@ -534,10 +469,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep33_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zj/LQ6v-SuYvpn6AR2jep-gRon2BDtPxzlvFguc263RA/pok_tv_s1933_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xq/c4ETXhp7v4CFacp425lRKzkXHSlGZ55PF3po_8lmE/pok_tv_s1933_2997-master-nl-sdt_1080p-691074159d005ae686d751fc0cd0ea9f438b11fa.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "db827ec563bb46c8a2dbdfc68d319378",
@@ -550,10 +483,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep34_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9A/Y1bUTbEwUIBISsbtHr8fFT-QdT4qgLQpHDdWWNa2g/pok_tv_s1934_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vl/f2fa0QswkeC7w8V4USxtQbiuXRYqI38x_9STnNEv4/pok_tv_s1934_2997-master-nl-sdt_1080p-d215e5d1e8c12446a22edb76cfba921d05eb8e2c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d8e095db7aa948f0a2a001e18a315e53",
@@ -566,10 +497,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep35_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FM/qL4Dh1tM_-_nXdu6SpRFPOL1gYKyzRTpkBc3Sbvb0/pok_tv_s1935_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l6/Bl_st9f6R6veMjEaNNIIT09MnFWcfuj8GzxRJX5Dc/pok_tv_s1935_2997-master-nl-sdt_1080p-a8bea150066315e0f9d70dd6b980d1d49305f45e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d571153d34c74cf7b70195566f64d786",
@@ -582,10 +511,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep36_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vr/bjYY5S7Guvgf4bhArGpQW5P5bsi3e6zIw3-Ss3iQY/pok_tv_s1936_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/a6/OUz4ad1TZQDpLipIKWYCx3TQEe69BdT-7Qq7q6eZw/pok_tv_s1936_2997-master-nl-sdt_1080p-2b12bc8c7ba45fd49c63ccce608fb677f2839c6f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4b91a714a7bc40f19f6632251d517a1c",
@@ -598,10 +525,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep37_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/g1/7DA76aHk7ItEdpaRlbb7bkhIxM-Cw6nn8sbw8okAw/pok_tv_s1937_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/np/WffxAiXWh8dk9BBHagdj5qFe-lssQqPDOgBtWoi3o/pok_tv_s1937_2997-master-nl-sdt_1080p-3ec16af5b37e50a4bc37e535db8ecccb7eb8ad1a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "78acc9c2eab64aa19b7dd612eedb5004",
@@ -614,10 +539,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zo/PytUdfpkKJ7H6HQBwfC9ZPtxxvB2FSJQ58_KhuvV0/pok_tv_s1938_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tz/Ly0w6x1hl6_1wkHZPefK27JaIpeM2ooiOsdx6sWQE/pok_tv_s1938_2997-master-nl-sdt_1080p-3a96b24c1475ec7394a4794234b9e8ec6e4d0d9a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e32d01d5868a4b55a371d76c5915817c",
@@ -630,10 +553,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep39_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nv/ZAp_iqkT9KC_qYOfYulbILYottPc7umetFlE4kPjs/pok_tv_s1939_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OA/XTiVf8Pvd4YhS197i8O8K6c8UBuCe7H1TGCaC_evk/pok_tv_s1939_2997-master-nl-sdt_1080p-36ad5d160202d72381aa2c6495d3e4c9ea539167.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ece93ad5040c4ea28565004de8dbc73c",
@@ -646,10 +567,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep40_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1Q/4ylhNuqiVGhlWEGjyRfPHfQmQ1XWeOHA6RD7wg2MU/pok_tv_s1940_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aJ/DV1NqIpHDvqvrC2N5oCJ90SBKlZBZlUWFx2y-RZxU/pok_tv_s1940_2997-master-nl-sdt_1080p-65adbd71167c56372ba4408ea5f2476f9f31a3ce.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "494c9552cbd1458b809fb8600d5be7fd",
@@ -662,10 +581,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep41_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Af/ej22QNd67L1xvPAFJpB1J5e9VOhyWBuFARXj5QG1Y/pok_tv_s1941_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yy/95KlzORjLFIhdxv-VIBCByneaiMYu4fZXKf2zfWAg/pok_tv_s1941_2997-master-nl-sdt_1080p-c550fc8588d753d3c0d6b2737d70265b6f9e4e21.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2b7c56d454514992967965ecdcdc27de",
@@ -678,10 +595,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep42_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ng/u0-xIlqp6j8e8nGxPXrPw78NnZg4cc2bssXk_woso/pok_tv_s1942_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pB/9RGdbKmDST-uj8Y8OjbsBJ1qSH1cnStk9DybJVtTE/pok_tv_s1942_2997-master-nl-sdt_1080p-16d28c32ecbb09924f8ef8c77ce15d36176f3314.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c153eb7ff3c24977aa2f9450e44a80bd",
@@ -694,10 +609,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep43_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qr/TK6ZZ5dtvZGGu5l3qBjTbJFaRG7GUS6TX8hZl3fZc/pok_tv_s1943_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yz/cKYGjxXbcK-Sg-FZ8piTu8GizuW1pXmrmbHgRBJ1Y/pok_tv_s1943_2997-master-nl-sdt_1080p-a3a819f84c25249b877206568780925558180772.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "297cff5b5ba8431c9ea8906702fca0a9",
@@ -710,10 +623,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep44_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aV/Imj1Cd4ohNZsgJAZwRFswviQkSQLzHI-XuLvOG_us/pok_tv_s1944_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mL/qzMb00ISd2vlK6FI1nkxi-YFTu6-4_M1ngmmL4VOk/pok_tv_s1944_2997-master-nl-sdt_1080p-5ed13ed515c49a3723852b13f656cb9dc6e4aa2f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "475d11760ef94feda637f6da29e046ca",
@@ -726,10 +637,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep45_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_6/dvh6MWr7SoMkQDqrGzlPpkWv8lKWR2SLbHZ8nMJZg/pok_tv_s1945_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ce/JSlKnS491haJbRUISms5WKe-MrYnekk_lqrgiqS6A/pok_tv_s1945_2997-master-nl-sdt_1080p-40bae798ddf152745a227b3c325d7102f841dd02.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "79dbcca381434627a86d2bcdae7c1b89",
@@ -742,10 +651,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep46_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AU/UnV8Fvm7by8PYTM5ZYe0U3VkW1AfzepduDqLEbf6E/pok_tv_s1946_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/LE/mVBUEj-AtsOR_c07phfGGvKFZCQw74dC537XCCQX4/pok_tv_s1946_2997-master-nl-sdt_1080p-c5f39663d5f345aea4fc62cbfbc045e57f4c6f06.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3c751b4416c24ee388ade333fc2d21bf",
@@ -758,10 +665,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep47_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nA/ruRi5LENT2X2td7Y6MFg8KPf73viIB45FMg8Bs3zg/pok_tv_s1947_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lh/hvFQtHum-2agldN1MY3hSW5CwRWESbdvHYK8z40To/pok_tv_s1947_2997-master-nl-sdt_1080p-bf01cd15e5cede429e15737e6a19e3fa68ff0ed1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c017500cabd14137b8bc149dabc94157",
@@ -774,10 +679,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep48_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JO/W_sJcBmTTLWDw64ZrwlDtOZUtsE7jIr6MbM_hmRk0/pok_tv_s1948_2997-master-nl-sdt_1080p.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/c8TCn7E_R8yJwvYCX9TZtg9boRRluXgo5rwLGf3B0/pok_tv_s1948_2997-master-nl-sdt_1080p-7015b8f2f3500be0afa8cb144767454328b4222d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

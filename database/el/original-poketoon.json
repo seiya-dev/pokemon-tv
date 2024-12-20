@@ -1,14 +1,13 @@
 {
-    "channel_id": "poketoon",
-    "channel_name": "POKÉTOON",
-    "channel_description": "En los cortos animados de POKÉTOON, podrás encontrar aventuras Pokémon de lo más divertidas, conmovedoras y mucho más.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1125x1500-es.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1660x940-es.png"
+    "id": "poketoon",
+    "title": "POKÉTOON",
+    "description": "En los cortos animados de POKÉTOON, podrás encontrar aventuras Pokémon de lo más divertidas, conmovedoras y mucho más.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1125x1500-es.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/poketoon/poketoon-1660x940-es.png"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1655479532,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/W4/3x5m47QGhPf-5oG4pG7ZWdiyYwzs92TWHqiVk0K_c/00_scraggy_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hs/Sne_A9xN8dgk6F2yBY4r87zVgcClg2wRVzAYMSUTQ/00_scraggy_las-df324187ce5811532758481d9ddc173ec5668593.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1a8c06456257456c97a65be31634159a",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cJ/k3uiY3t5Q1tpFlNw48XUm7ZxWH22prfjP9bnSrnQI/01_pancham_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p4/BGZg2xc0GltGLbE-qAamIw1FdeYVib_SNDn_MWjOQ/01_pancham_las-a2d7f0af108cb38039e4783482922740a6c299e1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p4/BGZg2xc0GltGLbE-qAamIw1FdeYVib_SNDn_MWjOQ/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "9e0b6ebd6642454fbf437edd896c1212",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6W/z3vulhNaW3t6x3W0nQXjp8hJWOzH37F9_BrvQ84YI/02_tsubomi_nidoran_las_v2.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tF/nqrhbzRbxhPz9FWZsQDT6QNOGNPEKejpH_e0tjOqg/02_tsubomi_nidoran_las_v2-f414beed2f5ce26ceb371ad9aae6079f1941082b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tF/nqrhbzRbxhPz9FWZsQDT6QNOGNPEKejpH_e0tjOqg/vtt/2/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "96716d9128cd44e9ac7a8ae4519761a9",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bj/3_qZjFMgH1-yzatCiOlRFSamRAEmM9xBK5lph4dXk/04_magikarp_alllangs.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tG/Y2evjzDZPU4uu7hHanzorIseK96tfG-rMTmeNuu3E/04_magikarp_alllangs-e29bc33404fbb59306e08477caff0adda0faaf4d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "fcf90ed9128146b987c966034b0b9742",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qJ/GPrC7UWqhl6slwW3-uf7dDsW8H1DdYrkBGLijVMWo/04_slugma_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/Ve8V480kLce8AMvvNOCLIPHDK8iY1ZWvzwVheUMak/04_slugma_las-aac4a48b8ae48435145999125ba59a731c31fd6d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZZ/Ve8V480kLce8AMvvNOCLIPHDK8iY1ZWvzwVheUMak/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "66e7cc6d1afa4a11b41663dc645b1d62",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T0/p5LO7gQWBVaYuRP5KBKGMQR-xfKTKigrfOtoDH8Wg/poketoon-ep06---help--i---ve-turned-into-a-gengar-latam.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fk/Lcd_ZggBZ1X8VQRl0Q3Pt5MCzAiBn0QBE_--PVPsY/poketoon-ep06---help--i---ve-turned-into-a-gengar-latam-3463c99c7055bb2314a3f37f0d66ccc7458663a9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fk/Lcd_ZggBZ1X8VQRl0Q3Pt5MCzAiBn0QBE_--PVPsY/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "7806aac45702484abe6cc2830e97bf6d",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FO/wUAlV-EGoFPzBpsMhebFCyqTOOg-RXZQkHSfIL_n8/poketoon-ep07---snorunt---s-summer-vacation-latam.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bY/OnOgPnktqWnX6NPm9fkeFhH9sET40toT_Wamg1ec0/poketoon-ep07---snorunt---s-summer-vacation-latam-7b46d446df1e3bd5720325ba21be5e0a9e4bb4b3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bY/OnOgPnktqWnX6NPm9fkeFhH9sET40toT_Wamg1ec0/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "429b5aa8ea874d979c07a738a63f2cb1",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep08_ss04_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2k/F0y1BrVlqmv33WmoxRvZxyjP5nyjPxoZS0m9P9gzY/08_jigglypuff_las_v2.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/CFSWQPr_h-Qv6pA_hc04IWOhT2zotTJHFrmtbr4Vs/08_jigglypuff_las_v2-47d4cd996446466a6e34146e96b18e741d17a38e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vE/CFSWQPr_h-Qv6pA_hc04IWOhT2zotTJHFrmtbr4Vs/vtt/1/es.vtt"
+            "terabox_surl": ""
         }
     ]
 }

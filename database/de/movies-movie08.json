@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie08",
-    "channel_name": "Pokémon – Lucario und das Geheimnis von Mew",
-    "channel_description": "In Pokémon – Lucario und das Geheimnis von Mew auf Pokémon-TV muss Ash ein wieder erwecktes Lucario überzeugen, ihm zu helfen, das von einem mutwilligen Mew entführte Pikachu zu befreien.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie08/movie08-1125x1500-de.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie08/movie08-1660x940-de.png"
+    "id": "movie08",
+    "title": "Pokémon – Lucario und das Geheimnis von Mew",
+    "description": "In Pokémon – Lucario und das Geheimnis von Mew auf Pokémon-TV muss Ash ein wieder erwecktes Lucario überzeugen, ihm zu helfen, das von einem mutwilligen Mew entführte Pikachu zu befreien.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie08/movie08-1125x1500-de.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie08/movie08-1660x940-de.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -8000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie08/movie08_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JP/8qPlru-XtCilg9p6fIarngCe4yYLoQPqvyDnmGTw0/pokemon_movie08_ger.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JP/8qPlru-XtCilg9p6fIarngCe4yYLoQPqvyDnmGTw0/pokemon_movie08_ger-8f97899d6a7a71b085b420714bb8ab82e4508887.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

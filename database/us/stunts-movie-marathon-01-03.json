@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie-marathon-01-03",
-    "channel_name": "Pokémon Movie Marathon",
-    "channel_description": "Classic Pokémon movies are coming to Pokémon TV!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/movie-marathon/01-03/movie-marathon-1125x1500-en.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/movie-marathon/01-03/movie-marathon-2048x1152.jpg"
+    "id": "movie-marathon-01-03",
+    "title": "Pokémon Movie Marathon",
+    "description": "Classic Pokémon movies are coming to Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/movie-marathon/01-03/movie-marathon-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/movie-marathon/01-03/movie-marathon-2048x1152.jpg"
     },
     "category_id": 2,
-    "category": "Stuns",
-    "media_type": "episode",
+    "category": "stuns",
     "order": -1585329975,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/5yv-JTftL-IFjgbkvIhWOtvzHBBc2TPA4zeibxtbk/pk_m20_i-choose-you_hd1080_2398_2ch_en.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/5yv-JTftL-IFjgbkvIhWOtvzHBBc2TPA4zeibxtbk/pk_m20_i-choose-you_hd1080_2398_2ch_en-9058bf92cf813b8d84e7fb16bfbae9130fc1872d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/5yv-JTftL-IFjgbkvIhWOtvzHBBc2TPA4zeibxtbk/vtt/1/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "585a6ba9d73146a8b6b691c5d80ddbe3",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie21/movie_21_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NT/58N9HSWLTFmhjYwpnZISxGluDnJHYrilqQlqtwlKk/pokemon_movie21_eng.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lG/dtl5mMyYLIzTGkxHUvStbsZ8wqEPMdu9wL7E3zfQo/pokemon_movie21_eng-7942f5590e0764b3c7726211f47f259f0689265d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lG/dtl5mMyYLIzTGkxHUvStbsZ8wqEPMdu9wL7E3zfQo/vtt/2/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

@@ -1,14 +1,13 @@
 {
-    "channel_id": "season01",
-    "channel_name": "Pokémon, a série: O início",
-    "channel_description": "",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season01/season01-1125x1500-br.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season01/season01-1660x940.png"
+    "id": "season01",
+    "title": "Pokémon, a série: O início",
+    "description": "",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season01/season01-1125x1500-br.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season01/season01-1660x940.png"
     },
     "category_id": 1.1,
-    "category": "Series",
-    "media_type": "episode",
+    "category": "series",
     "order": -1000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sB/VwzM2--E8fFQHuw-gt0YM-rDHymDiDZ-3NqDud2Zg/pok_tv_s0101_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5V/vUJIEJpSyD4be03BLdP6rDo7mEKoaORm2JWjMbsF8/pok_tv_s0101_2398-master-bpo-afe67bc075f924977b58b14e0dd36a0b3dbab19f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a29a7c8667964092b75fa5fa9ba96add",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep02_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/i9/qfzW2FHDX_t7qaigRLJOXbKCTIVySLx-RVlNExSIU/pok_tv_s0102_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/Chm0lTmEeCaWLRSfOtQLNRGym6o_WyAFFFvlxJWu4/pok_tv_s0102_2398-master-bpo-b420ac57f7245e37ee47934d6e3bbf60b5262579.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8fcbbc86c8f247acaf7ac4d86ccf0295",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep03_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bd/J5KzLqAxZuXp7FtQXh_ZkguHqeweKNpn_yxKLiggw/pok_tv_s0103_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/G7/FXaZB1GaEyppFQAZqeNbA8Y-i_kzUjcae44Yw6nR0/pok_tv_s0103_2398-master-bpo-a07a38ce9be33c496bfda074980a5147e58f1686.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "26ecb23bdf114f1ea9920530e0c315a6",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep04_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IN/6C8D4_e1g2rTieqd-u-hNkgxxreUlupQf8HlZpLYM/pok_tv_s0104_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1s/2ld4bLpGLw_g5QMGo3Ri2OGc0sXKAP-3XHh086FBE/pok_tv_s0104_2398-master-bpo-db26e715d6f83ef8c2be63ba429a1dca04a587ac.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "36cd9d34242e46b58aaa38cceffbc26c",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep05_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/33/R1U3Y4cvYYm7JD_Elbj4iFIyE7i0coNgx-Utuq8s0/pok_tv_s0105_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4m/YYhuHHZ7QmPKnNL2S2iCWkHENwpRdmzVKilvsg7WA/pok_tv_s0105_2398-master-bpo-5ab070c33b833b321effec419f73f67a31e1591b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "86731430c7ab40b99686c472b6fff940",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep06_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ew/L2OyIiZHldNxI3bGyvXpgZqN9CDhMTHPEO--3_tag/pok_tv_s0106_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OQ/hk1PmLjtq3J1dTb17QPBspfXO9vxSGqiSHSW5WbLw/pok_tv_s0106_2398-master-bpo-b5d0f0209d5b765c78dc824420537d609c479b6f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "322c1db2f2fa4aab9f359735391808a8",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep07_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ak/BGWTFstfHjDQVg8KKiFc4Q7u6Gtt54PNoR89YlOhk/pok_tv_s0107_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_W/qIUuGfqYLFbOwKhkTLiKZQ-TQ5t5EryVZmETGW-zc/pok_tv_s0107_2398-master-bpo-28d8d467324d1cba9a8631c91624a46a33be96ce.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "83d7a735c9ed46358da4782643d55dee",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep08_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sI/wig9z76V64RW8WtyALLh_D-tGVeA2F6j4jJTfvrBo/pok_tv_s0108_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rq/XJntDgOwu55Yvl_n6wSY1Y9E8PGZOfZeEPvR_i9kA/pok_tv_s0108_2398-master-bpo-1a4c432c65917d49298c2f94bb996a8738c96c16.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "868984790b3b4a8b93587b4c070c228e",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep09_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HE/84YTxVvmBuZO12omII8APpD5_bV4yRmCQutLyW3ls/pok_tv_s0109_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lz/_Mewpjkg-upbSZEbkEhCmrSW8SatphOagf5gasm2g/pok_tv_s0109_2398-master-bpo-127993dd330ae5ef4a0821f9e7934c31044fc546.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3dd608e1ee004252a073f2ea2a565917",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep10_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/x-/N42oIfZ1nrngwnKoz_EvR-bd2YTnx7SOZxu6LwD3Y/pok_tv_s0110_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ss/PYlRz9nYSTLFzxXG13aLwi_A-tHWrRdSGXyZpgd94/pok_tv_s0110_2398-master-bpo-7040f70279bb28985e584f1372a583dc727935e6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a2349b4b03344bd8bf318b3254d06e43",
@@ -182,10 +161,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep11_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YP/9iqRQI3LyglWE-h-YiTNJaHh_GluNdOyoh7NExOf8/pok_tv_s0111_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fO/rWssdp2Q7M25eeHgtGZwXFxaeKDH8caL1U6ztkoCk/pok_tv_s0111_2398-master-bpo-5c0e7be6e02e7555e225acb2b0f6d959f6626df9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0c670811473142108069dbc105e0d933",
@@ -198,10 +175,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep12_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1k/d_SxS6oi-PdD0Tvc-xkWMC-wZaaXZ6Rerx2Z1NTWA/pok_tv_s0112_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9Z/fXwpIydVmIk5fKjjGHBDgt9BnEOEN7H4x_b0VNvWk/pok_tv_s0112_2398-master-bpo-c7295dd77c2e32cc7c3e84857c14e602f32f8aea.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "382b5cf7cd6943b9b99d4cead740b349",
@@ -214,10 +189,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep13_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tn/7XaBkf8sGQbwJ5Z2MJB3R0RIToerBGAbbMl9FQC6k/pok_tv_s0113_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kB/FRQ8cXznl5Ttl-MswuZzYpCkWw9Up2HwlfMa9vhPg/pok_tv_s0113_2398-master-bpo-fc074e3b590cb27f053ff6feeb73a76756e81e15.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "cd4d1453b80846afbde1d955318408d9",
@@ -230,10 +203,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep14_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tF/j5bBpQpBHzfZwK9h5oUilNd0A4BwRGPz8nFNG479Q/pok_tv_s0114_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q6/HqTWNN2evWGn0A-8LcN4qRASIQtk8O2rdgPll7-qM/pok_tv_s0114_2398-master-bpo-d3064298e88db5ed0c22903ce1bd0753d422c457.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7016859b78624e5da2b55c375a8aa2e3",
@@ -246,10 +217,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep15_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lu/0WruIVsK95mPvZZwQ5wZU_3Xn7DgUKNJXLaLAFFfo/pok_tv_s0115_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/rL/03uMvMsYdlz1mSfZ4W7r3gW_dTB1AiOlqDbu_bMaY/pok_tv_s0115_2398-master-bpo-b147cdef1f6d58340422473d03a85487bf12a76b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ed129ca22abc48e8863a20c82ecfe43b",
@@ -262,10 +231,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep16_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aS/d5cl1kjwxhQJr_l8Gw3HKQFZKqT5Zsh2Eg0MPJ_5Q/pok_tv_s0116_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kU/ffyk8bBSUojdSkezPfRpjsH2IQvGT67ioeMLyGhwE/pok_tv_s0116_2398-master-bpo-6d0c68f577404c6ef99c133196e33dc267f65760.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "cebc93a7e7074406ae9a7ff3d9ad416e",
@@ -278,10 +245,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep17_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y6/4kvXTlKeImvkDPUy4XSkwsX6GSIP2kja1dziHFXMo/pok_tv_s0117_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xS/F5j8pP4jXXcU74qUcPTEidgbPLa4aS2OQvwh4gz-c/pok_tv_s0117_2398-master-bpo-aebbfc56639b33b0d27e9bfd0cd101a030c05332.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f3c376d7c4914dfcb24a7d35270f4a65",
@@ -294,10 +259,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep18_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j5/3bh2cmp_bmmjteajI78-4KsMYdvG2f0pQNA3dA7ps/pok_tv_s0118_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/H5/fajcQK3G0ctPnYiWtNqFRTndEg4jZKY5RLFF4YZpk/pok_tv_s0118_2398-master-bpo-c24876c2eebf1c1e69e350074cb271aab219d19c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "62937d5211dd47418db2e57f5ac543cc",
@@ -310,10 +273,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep19_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kZ/UXVvPB32vXXzQhnldsNHF22cGMlMUuH7ueAcLUbOI/pok_tv_s0119_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YW/7TdOnCPK-92SQ0kan6hkcPt1Qlb7kjDStz0sUj13c/pok_tv_s0119_2398-master-bpo-ae98bfce830796dc23650e85b5573b5322d3e66f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6b0abfcebc124b6b88dc1669453a09a0",
@@ -326,10 +287,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jB/igpiQQHzfD7rPWSxLwC_KB0TW5KZY-LtxuUpKuBEE/pok_tv_s0120_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5Z/pSoE-hIYCvxZxQeJngCjibq1kICkwgVINmU8kcQNA/pok_tv_s0120_2398-master-bpo-2300b46ad8808c796b6aaa1f2ef80f7d2a60fe6b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7f73139fafc4406aaaf223e62fc39068",
@@ -342,10 +301,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep21_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5k/1riLP75k9qOR_pJd_EtEk0x2sZnHxdWQx_ZhX_Tek/pok_tv_s0121_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xz/GioyoXM642SpRuNTpqSTc0x2fda_BSKQAUhMnJaV8/pok_tv_s0121_2398-master-bpo-0bceb662108adc2114c412a371d5953e6158a190.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "67bbcfce5fd74998b2de3ff877618a9a",
@@ -358,10 +315,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep22_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ag/yH8DDIS4YmcGvlJJ_XuusFwHhx5QX4Q-lFG0xriAs/pok_tv_s0122_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nY/nfhS5zU1NAL4aeI3HcgPVPY-_DwAzcjyIiWS6SAB8/pok_tv_s0122_2398-master-bpo-6f750290333e75bf68d5da8b5aac11d21067aaca.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ff66673262cf44ada9fa0047748e3242",
@@ -374,10 +329,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep23_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3I/uXmA0_dqSoHPFZETR3thiU6SyiwOhNAR6PC2Mp8cg/pok_tv_s0123_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ez/e74WsOhWWUMOQHXdNRTT_eyr365SHDbvexQU2T1kc/pok_tv_s0123_2398-master-bpo-172657268e95cf15af2f4cb1992088c84bdfafc7.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0a0e0f67407a43cdafc9ecbb27f85a74",
@@ -390,10 +343,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uT/nMhOx-mknqsOnFtkgPKsUxngo81iaEESMXVt1eb6M/pok_tv_s0124_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/1Z/yq-_b8oS8Z64FGcEeHbjHz8W4QdQQXMh0tXKCnlDs/pok_tv_s0124_2398-master-bpo-9a3633ee23702188dcbb779e007e0f309150ddd7.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2e1ca51effb74bd885bce730d5c727e5",
@@ -406,10 +357,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep25_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xc/LeSzVE2JGb7NLWu1SbwHU8nP7IQyWgdO0jJMjwlV0/pok_tv_s0125_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ss/wjuxe1Vke6hBZ466m_-cJHLIwIuACSaicNiQJ9kdY/pok_tv_s0125_2398-master-bpo-14f5cf169c1683dfcfb8c00c8ddc90364c73395a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "58935f70a789424c8b2af2eec633aeaa",
@@ -422,10 +371,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep26_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xb/_4NI6CqbARKJmMgidaass44i9neEqN9E0SyO718zw/pok_tv_s0126_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/KF/23PwzwjhlUn6NaP2670ssmqSX2zJAfnN47-4wPvqw/pok_tv_s0126_2398-master-bpo-09eddd7a126ad8dbb2475b101daf58d3bea7452c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7b1f318f09664f1aaa6c48afe895782e",
@@ -438,10 +385,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep27_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TL/eflMmUFSNMbQX3jqx6xG4V5aQGRIFev1eAgbM8Apo/pok_tv_s0127_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TV/RolkGWKUfUbRrCuD3brYEw1w787CcFTvqUCvhk3CE/pok_tv_s0127_2398-master-bpo-cd0c42cdd48002266dc3b3d171a6c008bf876427.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a96d545db2c44a0faabd15d7a58cad27",
@@ -454,10 +399,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep28_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8x/Ke8Gn4EicQ-0mOqFUNydotDq_nUucY4GEUr_rHj-Q/pok_tv_s0128_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/T-/Ck7D_h1qqhOSEA37RqjeV70ixTfTt_dyEc2lPzIj8/pok_tv_s0128_2398-master-bpo-085781b2181754308529c304b85d80626dc22fe8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "dac7e2376c6249aa8bf96071d1ef13e1",
@@ -470,10 +413,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep29_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/He/B-24Q8CC7TMNhC5xyKOYgzoFRK0B1DbPqluvs5eOI/pok_tv_s0129_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qu/dmhPetN3o5tvUBr2VqwB6VgL0_Gm_i7P01tqyCELM/pok_tv_s0129_2398-master-bpo-872c1a5ebfdef339433d52116903a8ea82697e35.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3d5ca1128d584e049a7f25527bb00e30",
@@ -486,10 +427,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep30_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/O6/6uPOAApWM-dJdzOPlj1xxklEZYhDQPfFTr9ZBGkIw/pok_tv_s0130_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jf/JpINWc1AnTauFuPB2Zl0T4lHnvcIlgmGfn9jDOw2w/pok_tv_s0130_2398-master-bpo-50e8fce5e6848d9dd0b635db4b5c0fd668865e7c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a0ee07252b9540e8b3f6443457b7ced1",
@@ -502,10 +441,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep31_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QA/oxR9sNw-Mh61A57_enDN1ZJg4aC-vlZ-1MfUCNFBk/pok_tv_s0131_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rr/LjezAw1_xcOijOXdCx92iSLWaq6OKbxMDdTUWe8eg/pok_tv_s0131_2398-master-bpo-ac7f0413b6c4f77e1a47fef8ebd38698f38e6a88.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8bd79c2ac68748ab9654e6578d31e905",
@@ -518,10 +455,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep32_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-8/DcGhEnt7hrgpxqbe6f8pGNB4P7TYBBXOFtOuzD1tk/pok_tv_s0132_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ri/fzXbsfUhy2jE4hylWPNOdKFaKHoQ9OTNSJ08X2XLw/pok_tv_s0132_2398-master-bpo-a31aa3977c1b9da35b922868228fd6a4dd0e6c82.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6a93314818154c14b4863ec8258f5f5a",
@@ -534,10 +469,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep33_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aC/rUUGARY6pGhUkpv_sYapC0YW18OtcJcThm7i8xo3k/pok_tv_s0133_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wE/xvg-oBYiUu4-FKjK1dQqUfYFArMK-Rc0TlVjoN_lQ/pok_tv_s0133_2398-master-bpo-98719235ec99fb0c0d3c61184a2acd070941d370.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "9952c1dbb922483ca22115be26a61313",
@@ -550,10 +483,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep34_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9W/dkm_NpPA2pCw5jvxplMQHRb-xjf3pQg0twVbNYF2s/pok_tv_s0134_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3P/_QU--a31B48a_00bLAdVdobPKA5hIxdcAed_rLLEU/pok_tv_s0134_2398-master-bpo-c6d97cc038389d1da52f97c7674c4b945882a4bb.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1bc2562b482d48fd965962955cc93705",
@@ -566,10 +497,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep35_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tr/g8hAZtoOdu9j39y-lBOk0nQpg0qNhPYvxZsMAut74/pok_tv_s0135_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/N7/RqU6RHMMJDNDB0gZagJT_9yCpWT1ElP_sak9w76FU/pok_tv_s0135_2398-master-bpo-93739c8479beee66febac8a8a7ee0cddd97bfd8a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "460514706905491883eda7ec33b2fc9c",
@@ -582,10 +511,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep36_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gb/AS90yT2GK-sPeNFfdDamyCVDSctGHC4PeHTA9rkh4/pok_tv_s0136_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wm/z2dvlOgPDGe2ot8SzudChEUu7--DLvVdLDmwW_aro/pok_tv_s0136_2398-master-bpo-f904e526385112edff25f08547fc7907679ca3c7.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4ca3c80eff224a88a1ad835acc82f4ac",
@@ -598,10 +525,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep37_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rv/nP0ek5Oo9JegdM-BVHt7RSb-Yb0llZVNHM3bIYLSo/pok_tv_s0137_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ld/2G0iakFZ71vEMVEc4pMhT56pBMwlmrgSOxg4BbPmU/pok_tv_s0137_2398-master-bpo-d94cc688cddf9b4ab4eee0c472b73361940d04e9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "45a1df9e7de743a786445f61972b41af",
@@ -614,10 +539,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ce/0eJf6LoLqhhLPkNFGdPJYrgU6o1vVQEbSJuE4fzTQ/pok_tv_s0138_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VI/PPm4tOLt9FE9c3SgU8z9ezVPmI3IbQaslYIPAfEjY/pok_tv_s0138_2398-master-bpo-9618f4451a7ac2af0ccae91124ea40b3b4a1454a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6c1feba4efbe427fa03de7be8851092a",
@@ -630,10 +553,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep39_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3Y/6ogHq52IagoCHli6ZeD8SiH5GXEA0sUETRdnLGLMY/pok_tv_s0139_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fu/BYU0bHcZOrkfxe9RPvc_lJPc2z4KpJYd4HVZRFwzk/pok_tv_s0139_2398-master-bpo-3509a35742b52d5b7980e0fec820231703cace96.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "fbbc18ccd50549359acdf93788d872db",
@@ -646,10 +567,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep40_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_l/y-4sYg9796CZ1Hi2qfFpGvSj6jb72zaKXczuD9m6U/pok_tv_s0140_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gt/EQL18kSj-dXwV6mJn1jKegvH0Qf_WBuHaOnC4uEVQ/pok_tv_s0140_2398-master-bpo-81d2fe2f100d10bdfccbdc02b4d4f9246971ef5f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d65955ff44384ce8890dbf2b9853a3d7",
@@ -662,10 +581,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep41_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QS/8iyFoexmy5LyXqJS1Ql0vqNEjya55-WkWIitCtwek/pok_tv_s0141_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uF/xeenQujlaYgyJWIfEsahK_oR9s47VdhfgeRzCIQvU/pok_tv_s0141_2398-master-bpo-fe91343c8bb0d4e2b496ada29b503c5b63969715.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "688903dbf6b14380b320de98050348e2",
@@ -678,10 +595,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep42_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kx/67qixzOrYsSV3SfJBidZ9jnRj2on2kDes6E7v3rzQ/pok_tv_s0142_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jD/6h2zIe1lttqJbrRdGlQbJdQ6pDkIEm4Yqxsbk8wdc/pok_tv_s0142_2398-master-bpo-9e16e3061adb719c92b8b67c945a6a611842f9d9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "060a042fce364cf894c8689cdce7e1af",
@@ -694,10 +609,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep43_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/RJ/ZeNT_f-uRc2ocYaqujNXRoxJjhn_9RofZwmEH0y7o/pok_tv_s0143_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/mL/xQ_J0zHJ3DBaZ5XHlLZQXMxGn7VpecdH4kBH4OEuo/pok_tv_s0143_2398-master-bpo-b7d506a00085dd7d5789c7c6dbd64193bfd7590a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "5cd2bf14ab0a4f48a232d3f7f9074381",
@@ -710,10 +623,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep44_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_E/P6D9j67YN__yjGDONTLUiAGu8o7zqoRimlmAaT8iI/pok_tv_s0144_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2d/TemNzUSK5a1iSBZmW5dstB3UF_OPWY7ntnTX0Zer8/pok_tv_s0144_2398-master-bpo-3432abdcad55a7f5a6001793b46a9761c4de263a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e4cf66d7fd58411eb344f9f3118253c3",
@@ -726,10 +637,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep45_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TB/5n1UXNyVE6Ms4QWrJVLEZIEJGhTlSg4rDBkE3sVBA/pok_tv_s0145_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/45/MdDd0wS-1ZAJ_k5NE8KRsC_71xoYOZVJchuYX1cG4/pok_tv_s0145_2398-master-bpo-325d11f65056269e7a6091b3e4c031e485e047f8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8895bd9735984c1cb9e33b990107437a",
@@ -742,10 +651,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep46_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ff/BEugjS_a-voJtn1e1m0wH9O3TYeee00VRR2bnrZOo/pok_tv_s0146_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zI/dX3Db9b-md7mt8H5DkY1GKPXKjjcuikMyBLWoKTmI/pok_tv_s0146_2398-master-bpo-2aa1b3fcd064223d60904b2d3ad636b0ed1e3f92.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "dff51d5ee04f48dd9574f3f11d25b245",
@@ -758,10 +665,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep47_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oa/SdRB6xkY_VnK5x5i6KsQxMpT5-LwvveiLUjLdfMiU/pok_tv_s0147_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ww/TsDDk6gJxryvp3hvrzuoyDs8So4nSnU5ZXXBmbFJ8/pok_tv_s0147_2398-master-bpo-c79e074dbbfae989452e00521d52e0507c08ca40.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "07cb689d654043acadfbe416bbee14d8",
@@ -774,10 +679,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep48_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/p0/YSHgZ-77zEUj-MzkumMIcvO9-j5gL9UI-ANRaJtk4/pok_tv_s0148_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OH/OBgOjELv_z0-NGxtTdgmjYeZJkjYO6CTJkxnVu8Kw/pok_tv_s0148_2398-master-bpo-949dcab2a06e9226c35e399c3688fd1d46b6d3a8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c7feef80af6d42568346270513a76ec0",
@@ -790,10 +693,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep49_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pr/SJHJf3LA3Tx6-vcQBbraoOoU4-kFx2EWcPV7IR56s/pok_tv_s0149_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/8ZGdg1-mF_YyyirhRyaLFmS1T7wiH8AQstemUOW1Q/pok_tv_s0149_2398-master-bpo-3a69d08227f9eff2cf56b0499c3af1d9e3bacc72.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e33cd7e7449241edb6c6222c010f9fc9",
@@ -806,10 +707,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep50_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nQ/XUAQ0uhF5IwcZewGQTBl8yX9JBU0HR2lE3g5IdhaI/pok_tv_s0150_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kl/L74LaZ2qna0YTXlibHmnBgwzvTqLHrStHlMdgKP7M/pok_tv_s0150_2398-master-bpo-8842c7ed2a1ef6e215ec0523c9913b0b4869f973.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "32cfd7407e8548ce8e1c8a45ece17869",
@@ -822,10 +721,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep51_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pz/e5_AAZLOrR_ikCE5Vmq9CludhuDJ24mDgWXZsmSM4/pok_tv_s0151_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/q7/g7zq_2MDdNCkW5TjK6Rm8pjcGHSWOtLOQEV0wiDYE/pok_tv_s0151_2398-master-bpo-32f0e19bc1a003e26c956d670a74fba713aabbf9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "25246b6dcf3e480eb4b17aeff438f0a1",
@@ -838,10 +735,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep52_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/po/zZgYKKOcSBKm9Pj7DFaXLyleaTC_xTCUmOXNx5G9w/pok_tv_s0152_2398-master-bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yN/2szLrtonJNh7xG6SDyss6kgP9QBK2gh-D0Yx3b280/pok_tv_s0152_2398-master-bpo-ab54e7cc00d2d7d8e81b3c4b250b09d12a09f874.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

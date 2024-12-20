@@ -1,14 +1,13 @@
 {
-    "channel_id": "season03",
-    "channel_name": "Los Viajes Johto",
-    "channel_description": "Cada paso te acerca a tu objetivo al unirte a Ash en la región Johto en Los Viajes Johto, ¡ahora en TV Pokémon!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1125x1500-es.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-es.png"
+    "id": "season03",
+    "title": "Los Viajes Johto",
+    "description": "Cada paso te acerca a tu objetivo al unirte a Ash en la región Johto en Los Viajes Johto, ¡ahora en TV Pokémon!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1125x1500-es.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/season03/season03-1660x940-es.png"
     },
     "category_id": 1.1,
-    "category": "Series",
-    "media_type": "episode",
+    "category": "series",
     "order": -3000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep12_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M_/x9uJhi1lrsvXOA5Iv5xQsgXVfzGhw3p6wOYvvZG3I/pok_tv_s0312_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M_/x9uJhi1lrsvXOA5Iv5xQsgXVfzGhw3p6wOYvvZG3I/pok_tv_s0312_2997-master-las-2addb5dd3e0b91d55aabd802a73dd30e897c63a2.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "72b51a8766394a50ac70a42a8b9934d3",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep13_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gp/D3bPcT5Kb7PhiQacqg48jEVUyzc7UmIUvRWCOCw8w/pok_tv_s0313_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gp/D3bPcT5Kb7PhiQacqg48jEVUyzc7UmIUvRWCOCw8w/pok_tv_s0313_2997-master-las-3fa67c83957f2ae179c2d7a188b66394e4e906b0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "40250fb29f994af290d2dfa84e99dc64",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep14_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zs/2wEan2rXcHDE296iy1y1LWxL9MsC8AKpAn2Vy9qq0/pok_tv_s0314_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zs/2wEan2rXcHDE296iy1y1LWxL9MsC8AKpAn2Vy9qq0/pok_tv_s0314_2997-master-las-de1ac4902b1077e5a3c400f268db0f869c199e91.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1adbfd7b6b0e460c8c27e7cfbfa00bea",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep15_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oO/UhohqC4gfHe05H0T7Y0EEbfjO9HRv33rV-kQJDCjY/pok_tv_s0315_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oO/UhohqC4gfHe05H0T7Y0EEbfjO9HRv33rV-kQJDCjY/pok_tv_s0315_2997-master-las-602a9c9681c108c250b5cb91db42690d54d35583.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "30e389185de4426c92c55d3a3b9cc760",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep16_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xx/K26ZxEAnPtkO_iDELVfxVr30dzj4sj3w_j-Zk6umw/pok_tv_s0316_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xx/K26ZxEAnPtkO_iDELVfxVr30dzj4sj3w_j-Zk6umw/pok_tv_s0316_2997-master-las-c127df01d077ea9bcf596f819ea8d542d63e54b3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "13029402819f4dd2bbaee05ae16d8188",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep17_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4o/EHkEF9r6Ce1KK7VQ8aD0XiUlzFihByieMMdkLZeYo/pok_tv_s0317_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4o/EHkEF9r6Ce1KK7VQ8aD0XiUlzFihByieMMdkLZeYo/pok_tv_s0317_2997-master-las-69d1d1a356c0e167d6138b569823289dc48d8fe6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "46f2f03741a646de86b45e9c4a71dd1b",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep18_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Br/QCOqwpsWU2GXd2Tp-0qHhJl4ylfB15PIv7MI9Nbow/pok_tv_s0318_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Br/QCOqwpsWU2GXd2Tp-0qHhJl4ylfB15PIv7MI9Nbow/pok_tv_s0318_2997-master-las-a41828055fe637eb591e328b41ee625de8bd8d66.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "12a985b253554e0b91c22754a9fb68c5",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep19_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MX/wdvmund0vXUFu32IpFhExUKRtEypDPUxmrnMlSC5A/pok_tv_s0319_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MX/wdvmund0vXUFu32IpFhExUKRtEypDPUxmrnMlSC5A/pok_tv_s0319_2997-master-las-5f76e8f92309086a5d1f75648b22b341ec190c51.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0aed6c80256948d88f3f4316329837c1",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep20_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/ty5E_uniVbcyNe_MvhleYm-sOcjdjc10vEuoEteB8/pok_tv_s0320_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bg/ty5E_uniVbcyNe_MvhleYm-sOcjdjc10vEuoEteB8/pok_tv_s0320_2997-master-las-12dd78c21fe9fd57fce893e6d00babef5894f62f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ab426992fb1e4688b3607d408cb5e87f",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/jJZgro5vctueoPcHGPQ58mT84U6xjZGz2xxuldUPw/pok_tv_s0321_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/jJZgro5vctueoPcHGPQ58mT84U6xjZGz2xxuldUPw/pok_tv_s0321_2997-master-las-22cc888704bc79485ce0022ba8a7b5c3b3006841.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a34bd4ff9bde43edb2d1c0f1bc0bce08",
@@ -182,10 +161,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AN/dQKMs1FWNKXNBWv8Yin8VITCcI9S764pzxlf06dcs/pok_tv_s0322_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AN/dQKMs1FWNKXNBWv8Yin8VITCcI9S764pzxlf06dcs/pok_tv_s0322_2997-master-las-79080f3fece1d6ab723f46e456f57c3f13870139.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "198663d063cf4ae08f0d6cb322ed934e",
@@ -198,10 +175,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep23_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7-/wLqhbJTTLChQm3ildIi-BZ2wlLXuJh0XcGbjG2ii8/pok_tv_s0323_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7-/wLqhbJTTLChQm3ildIi-BZ2wlLXuJh0XcGbjG2ii8/pok_tv_s0323_2997-master-las-80981e5e774a6cd2e0f5876d62b6b6496fb65d0f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2a4a4838d70a4ad39fed00d527ce19b6",
@@ -214,10 +189,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep24_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EX/v5WwfcL0No0HvA9nbc2m7dkeZbno4ptmpyaHg08Zc/pok_tv_s0324_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/EX/v5WwfcL0No0HvA9nbc2m7dkeZbno4ptmpyaHg08Zc/pok_tv_s0324_2997-master-las-8a159ee97907de03a58de7cfca35dc5bfc7fed1b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0744cabb71f2454d82ab8400d010dbac",
@@ -230,10 +203,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep25_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jk/Km8lHOorBKg_nT0ziE8av3eUD3-2f7AcXaCMYc6Eg/pok_tv_s0325_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jk/Km8lHOorBKg_nT0ziE8av3eUD3-2f7AcXaCMYc6Eg/pok_tv_s0325_2997-master-las-dc883325d967bd7dba409a268777b101d38dab33.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6ffa27def7e84ca79176dfc6ee1bcd16",
@@ -246,10 +217,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep26_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kL/rjYt9aVRoyT61Z5fc20oaHdTBhZtHbLI8W6LtLTtQ/pok_tv_s0326_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kL/rjYt9aVRoyT61Z5fc20oaHdTBhZtHbLI8W6LtLTtQ/pok_tv_s0326_2997-master-las-1dcf81dda916635f01c49a3c6694f80fe2fe5cda.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "117284f63fe941eaa2bd9980849bbb4c",
@@ -262,10 +231,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep27_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NL/OF-ujz6NcAUv3_hjysntzHUaK5kYUVQTtobvzzv6g/pok_tv_s0327_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NL/OF-ujz6NcAUv3_hjysntzHUaK5kYUVQTtobvzzv6g/pok_tv_s0327_2997-master-las-4151a90ea8f822d48131d29e20abbc8fcca126ca.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e36746e6fb2546b6a22bf8561f919af2",
@@ -278,10 +245,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep28_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ux/hl9GO1kliIF-e5RL2tvrUFYixObmCoksHwFTgTmM8/pok_tv_s0328_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ux/hl9GO1kliIF-e5RL2tvrUFYixObmCoksHwFTgTmM8/pok_tv_s0328_2997-master-las-eb2140e0095a10e79cb2a97bfee8d6add437e68e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a5361c94ace1451ab882255e6aee04ac",
@@ -294,10 +259,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w3/gkOOORQJhY58Rt5tZVIAS50ARIxbk4cdqbQrJuNpI/pok_tv_s0329_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/w3/gkOOORQJhY58Rt5tZVIAS50ARIxbk4cdqbQrJuNpI/pok_tv_s0329_2997-master-las-7a761067eb8967374719a3b5087e949e01a221cf.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d56252e03ee742f0b576477c728b3e52",
@@ -310,10 +273,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep30_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5w/2TT-dJP0SURssinuU5XfHLaECV8VEyUaH3UHyw-yA/pok_tv_s0330_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5w/2TT-dJP0SURssinuU5XfHLaECV8VEyUaH3UHyw-yA/pok_tv_s0330_2997-master-las-46bc7bf689faf7d389aafa4a9985cdc7022124a3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "87bd2545e4874c81b9c9778afcfe6195",
@@ -326,10 +287,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep31_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mk/isXK2OHmgKtSq5dfNHiCBi_s75jbX9SXJygDvZUnI/pok_tv_s0331_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Mk/isXK2OHmgKtSq5dfNHiCBi_s75jbX9SXJygDvZUnI/pok_tv_s0331_2997-master-las-8c05defe29c2601eece70f588f059bbdea8d91af.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d54be7ec973348c487435a4e3e0f972e",
@@ -342,10 +301,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep32_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ud/7Fa8NxlQdCHXD6HOtVNvAmt_j6aaakQm4IIkyDbxc/pok_tv_s0332_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ud/7Fa8NxlQdCHXD6HOtVNvAmt_j6aaakQm4IIkyDbxc/pok_tv_s0332_2997-master-las-a36693cbd5f220d6e1668247883d7a0e18857199.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "831c5c8851fe4680ba0134637e64313a",
@@ -358,10 +315,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep33_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vs/uH05-YPr-bP7qXjztiAhvRKzE8PlBhXY5xNpGVyr0/pok_tv_s0333_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vs/uH05-YPr-bP7qXjztiAhvRKzE8PlBhXY5xNpGVyr0/pok_tv_s0333_2997-master-las-b3ebc1f1c9b26676bb078f8717bde66c425ba8ef.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4753a5734f934363b15a430699361764",
@@ -374,10 +329,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep34_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9I/-FLW8MS8j9AoJ0G7ljEfs2907J8UPX8g_HXnr5Hug/pok_tv_s0334_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/9I/-FLW8MS8j9AoJ0G7ljEfs2907J8UPX8g_HXnr5Hug/pok_tv_s0334_2997-master-las-d4975c3710707e82ef38ecf84d33d703accbcab8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7d72727a954b4a6bae474f23547e8211",
@@ -390,10 +343,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep35_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y-/yLKWpQDlv8HodEgEoKFYXbM8izGrNtsDB36hXitY0/pok_tv_s0335_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y-/yLKWpQDlv8HodEgEoKFYXbM8izGrNtsDB36hXitY0/pok_tv_s0335_2997-master-las-f93b20005d95ca0514a1a579ce1783bb8ef80126.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "209c5b3d50d44d1085f2302733096dde",
@@ -406,10 +357,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep36_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P1/zpIeg1Wb-HPvHxhY0PhIHMcdd1YLYz63DMpYxGtlM/pok_tv_s0336_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P1/zpIeg1Wb-HPvHxhY0PhIHMcdd1YLYz63DMpYxGtlM/pok_tv_s0336_2997-master-las-c80e1d57cba190232648a0fb9dd7d5c30b44133c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c7ff5707ddf74ca28152d62cbe924f5b",
@@ -422,10 +371,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep37_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oa/VD2pqgXhONmFhltZXyY9BnLYVpH0tfQZRtmfN0cSw/pok_tv_s0337_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oa/VD2pqgXhONmFhltZXyY9BnLYVpH0tfQZRtmfN0cSw/pok_tv_s0337_2997-master-las-eb103eae78c7dad80c44d5d544d1cbb918e1389c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "97bccd6a8d8d48d980765a2f4cccd90a",
@@ -438,10 +385,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wC/4QzA7yASRFqOAP04-Gae3m7AXWCR18cN1h78JA0-0/pok_tv_s0338_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wC/4QzA7yASRFqOAP04-Gae3m7AXWCR18cN1h78JA0-0/pok_tv_s0338_2997-master-las-514d6cfc29ced3c326e9a8b9512274e81247fb1d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "21601cb5910c40b388976b302dc7c1af",
@@ -454,10 +399,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep39_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/PBHoDrjdgyVgWSotrfp_4KXzZ34NoWuSi9-QjAuVI/pok_tv_s0339_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/PBHoDrjdgyVgWSotrfp_4KXzZ34NoWuSi9-QjAuVI/pok_tv_s0339_2997-master-las-8e7d6e5238d8c384539f1d34c1adc7fcf75b5460.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "46cb54bb6b8b4256bbe22449a7dc2b26",
@@ -470,10 +413,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep40_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IR/m84om2mEkstEwPMaIXukN1Srra2EcTJTBrezAgTdc/pok_tv_s0340_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IR/m84om2mEkstEwPMaIXukN1Srra2EcTJTBrezAgTdc/pok_tv_s0340_2997-master-las-18e99b3bae6f63ea6d2d6180d98883e94ec5ff3a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "b836cf04334a4bcfabdad77bb5030f52",
@@ -486,10 +427,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep41_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kd/NVHXIX-5xTAgMOtSKMbFxdTZwA9i72SpczghvaqBM/pok_tv_s0341_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kd/NVHXIX-5xTAgMOtSKMbFxdTZwA9i72SpczghvaqBM/pok_tv_s0341_2997-master-las-5776b7716e2b8046aac81efafa24319d7cf4e4dd.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1bee2591038945e399c301769d568f8a",
@@ -502,10 +441,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep42_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L4/fUry7bhDrbkmVldl_z1rYGpJ7UFAomiPMSlxWL2fg/pok_tv_s0342_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/L4/fUry7bhDrbkmVldl_z1rYGpJ7UFAomiPMSlxWL2fg/pok_tv_s0342_2997-master-las-851ae0b552d694e10d431fc9025cf2fedf1256c3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7a9dbe716e8648c783a32d897be096d4",
@@ -518,10 +455,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep43_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vj/eNCcV_DmN5g3JFueqczJSVrQhIOQ6u0JJD-imUV4Q/pok_tv_s0343_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vj/eNCcV_DmN5g3JFueqczJSVrQhIOQ6u0JJD-imUV4Q/pok_tv_s0343_2997-master-las-0b99e391d52e8269ee8385e499b640ef0980906e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "177e5f17649e4916ac3c6d710b176622",
@@ -534,10 +469,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep44_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qX/IEa0XqJ8BnQJfXR15rImX7ssg-mSXNtoOvhNUfx38/pok_tv_s0344_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qX/IEa0XqJ8BnQJfXR15rImX7ssg-mSXNtoOvhNUfx38/pok_tv_s0344_2997-master-las-a81ee2ac87c0418361ad8a5f50b351897ab5d3a8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f2deadcf3bf84574b3449d8424864013",
@@ -550,10 +483,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep45_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VW/jcPGWOPefpo4eZt7QwyMJyvbgTQ_VbdSdx3SygRzE/pok_tv_s0345_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VW/jcPGWOPefpo4eZt7QwyMJyvbgTQ_VbdSdx3SygRzE/pok_tv_s0345_2997-master-las-46ddd1e36ea7123092f55256a08535a63cebbbf2.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2237302c208149038206ab535cf80cd4",
@@ -566,10 +497,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NY/ftej0ppNQ8S1AjGowJe2IpQ6vcChsmImZyZbdT0Pc/pok_tv_s0346_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NY/ftej0ppNQ8S1AjGowJe2IpQ6vcChsmImZyZbdT0Pc/pok_tv_s0346_2997-master-las-94dad6b1c6113205aa9ea827e9b9a34faa9b3388.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d6b9fdc1360241488c4bcc1c8435def0",
@@ -582,10 +511,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep47_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5O/f4YgaHjneO7PXbS1Z71oXlFuYKp9CBwQ2tb9loDG4/pok_tv_s0347_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5O/f4YgaHjneO7PXbS1Z71oXlFuYKp9CBwQ2tb9loDG4/pok_tv_s0347_2997-master-las-937910e8e15a51e6a0cfd94201fb97cffa4870eb.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0604d256aa1c4e38b08e04f48eca951a",
@@ -598,10 +525,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep48_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/r-ES5fGip7xp2TTNgKqHg7HltoT4MGMwp24ChIma0/pok_tv_s0348_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Hc/r-ES5fGip7xp2TTNgKqHg7HltoT4MGMwp24ChIma0/pok_tv_s0348_2997-master-las-abd762665b99d73a5cbea92380eb49b7817d7a5b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3a2eb8cd548f462a89862e920d3a9bcf",
@@ -614,10 +539,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep49_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6D/7apVqjfGPqxvn5Z8keaJI2ZnFkHJsbXTX2Z0U5reQ/pokemon_season03_ep49_spa.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6D/7apVqjfGPqxvn5Z8keaJI2ZnFkHJsbXTX2Z0U5reQ/pokemon_season03_ep49_spa-c1357c5e930d16f48e3f510cfe10c9c805ba2aa0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d75aa8dc6bfd4397a3aa2c4255eb3cef",
@@ -630,10 +553,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep50_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cf/2NtfxVXUD7MakOJ5CGJwDMRBGUptrrqC0Z_NtpZ-8/pok_tv_s0350_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cf/2NtfxVXUD7MakOJ5CGJwDMRBGUptrrqC0Z_NtpZ-8/pok_tv_s0350_2997-master-las-dc3aa8788c1fc194b72df38c99c2202a53606f8c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f9ac6fb62eab4aacb811567044f9e69f",
@@ -646,10 +567,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep51_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s4/otfxA0AgXGxcaiT_d3LWoNdW3725sa5rquO5V05oU/pok_tv_s0351_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/s4/otfxA0AgXGxcaiT_d3LWoNdW3725sa5rquO5V05oU/pok_tv_s0351_2997-master-las-e8d97d9c6e09f64089293c0aecc8372fc335129a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "27935c31393349e3aceec7ff81072e0b",
@@ -662,10 +581,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep52_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/zEjQhTJ2CCO4b_wKA1Os3O1YQ0X4DKrBV-tsvIUnE/pok_tv_s0352_2997-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jg/zEjQhTJ2CCO4b_wKA1Os3O1YQ0X4DKrBV-tsvIUnE/pok_tv_s0352_2997-master-las-35a5c7798d8fbfaaffc5113e4cf596f834dc5ef5.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

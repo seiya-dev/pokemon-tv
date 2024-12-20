@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie21",
-    "channel_name": "Pokémon – Der Film: Die Macht in uns",
-    "channel_description": "Ash stellt sich Zeraora, während er eine Stadt gegen eine potenzielle Bedrohung vereint – in Pokémon – Der Film: Die Macht in uns.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1125x1500-de.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1660x940-de.png"
+    "id": "movie21",
+    "title": "Pokémon – Der Film: Die Macht in uns",
+    "description": "Ash stellt sich Zeraora, während er eine Stadt gegen eine potenzielle Bedrohung vereint – in Pokémon – Der Film: Die Macht in uns.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1125x1500-de.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1660x940-de.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -21000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie21/movie_21_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MS/G06KOrrYbh-Ly13WZ7WHv1mLCEFC6gddnuM7Mlfqs/pokemon_movie21_ger.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ru/db6mG-Kjmgf7cbl9Twid4B157SytOS01E4YfnY9Go/pokemon_movie21_ger-9bb5dfe0a4065e2a0321921211d9586b7bfedaaf.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

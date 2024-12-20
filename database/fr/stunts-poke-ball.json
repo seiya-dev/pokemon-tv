@@ -1,14 +1,13 @@
 {
-    "channel_id": "poke-ball",
-    "channel_name": "C’est de la Poké Ball !",
-    "channel_description": "Les Dresseurs et Dresseuses s’éclatent en découvrant les Poké Balls sur TV Pokémon.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1125x1500-fr.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png"
+    "id": "poke-ball",
+    "title": "C’est de la Poké Ball !",
+    "description": "Les Dresseurs et Dresseuses s’éclatent en découvrant les Poké Balls sur TV Pokémon.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1125x1500-fr.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/stunts/poke-ball/poke-ball-1660x940.png"
     },
     "category_id": 2,
-    "category": "Stuns",
-    "media_type": "episode",
+    "category": "stuns",
     "order": -1685059867,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-J/DcCpAstMmnTmEYR2PUdDqEhzjd9aeD8aFepWBB7qM/pokemon_season03_ep22_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-J/DcCpAstMmnTmEYR2PUdDqEhzjd9aeD8aFepWBB7qM/pokemon_season03_ep22_fre-c73465840421da137cc595ba21526a99776933a6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8d55a5efb7f440558a66dc72ce03ce82",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/uDNQEVHztaZcgyxIBzVgOCGp-Lw8PpXGwm1RX9az4/pokemon_season03_ep38_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/t2/uDNQEVHztaZcgyxIBzVgOCGp-Lw8PpXGwm1RX9az4/pokemon_season03_ep38_fre-6b905b140d2947920edbbcf1bb17a5e4e931ee8c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1b164072414c4ec19bf106babec714d2",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ac/mhNpT6JhXGK0RdFqFyZ9QBan4B0KBLN5WRVfZVYGc/pokemon_season03_ep46_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ac/mhNpT6JhXGK0RdFqFyZ9QBan4B0KBLN5WRVfZVYGc/pokemon_season03_ep46_fre-3cd13731ebc243d0c9f35db55bedaff09da75791.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0dbf6906b2b9479aa75d5c6a375085e4",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/4Ili780hSlANGxTzdzMFAaxCJx4RtHGDPBd8VVias/pokemon_season04_ep04_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/F8/4Ili780hSlANGxTzdzMFAaxCJx4RtHGDPBd8VVias/pokemon_season04_ep04_fre-fd150b3c8920e2c56495dc1ecce1d839cfa201d6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "b86f216985cb462284db4dc007df6ae8",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/RcYUB4PHySI_7gYiG2Ejy5V7ItKMgF7D4iebJgAQ4/pokemon_season04_ep11_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cg/RcYUB4PHySI_7gYiG2Ejy5V7ItKMgF7D4iebJgAQ4/pokemon_season04_ep11_fre-624b37a83864050bfdac48b33047652257a69d54.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "5fe4dde2f5024522a2f588f35aaa83b4",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vc/HP6b3tR_w_wzbC2kbm0E_N6vHFUdvxPEHuoHn-_Rc/pok_tv_s0725_2398-master-fr.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Fq/pfC8J3mYLzQh_seo7rLfYCaD_Cjb_bCgg7MbujsUs/pok_tv_s0725_2398-master-fr-ace874b347e7da9dbc549ced3b523ecee562d71e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4ef0df3450fb49c39d5459cf2242e667",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2F/oU2ttICNMpa-_d6jZWp44NwroUM_C6isFWK0cayMI/pok_tv_s0735_2398-master-fr.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/24/Zeqh8kNpghEKs6KMPwKvqoL4XVL2W_K_Of8bqjU40/pok_tv_s0735_2398-master-fr-81a4c700ebf0182164d2993d5dd9ba700d6aba0b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "db3a0e924ac645c285e70726ae2eea84",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lp/lPRGG08_xbel_3r-qo8Giq3unwUO3eIu6FlJqHHvA/pok_tv_s0812_2398-master-fr.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lp/lPRGG08_xbel_3r-qo8Giq3unwUO3eIu6FlJqHHvA/pok_tv_s0812_2398-master-fr-258074e640849104332b636e6d86605f67f5df06.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2064f6e64f25479580b37915ae31b85f",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season18/season18_ep30_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cr/c8KLWqQ7faJDShXpxFIG-dW7QISe13FaDEb49jVDg/pok_tv_s1830_2997-master-fr.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cr/c8KLWqQ7faJDShXpxFIG-dW7QISe13FaDEb49jVDg/pok_tv_s1830_2997-master-fr-378042789aca2d5e27b450176abd6f6502978980.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4554b223139b489785074a6c4e5a5065",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep18_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D1/KGfbBEsdoTHg5CMs80RZMxDwP5HdfR8Iz2bncMJdE/pokemon_season21_ep18_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/D1/KGfbBEsdoTHg5CMs80RZMxDwP5HdfR8Iz2bncMJdE/pokemon_season21_ep18_fre-a68989b1a10dc52798744d67a12043fc042394c9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

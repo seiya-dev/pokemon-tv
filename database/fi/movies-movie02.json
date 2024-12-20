@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie02",
-    "channel_name": "Pokémon 2: Yhden voimalla",
-    "channel_description": "Ashin ja Pikachun pitää toimia keräilijän yrittäessä herättää legendaarisen Pokémon Lugian Pokémon TV -seikkailussa Pokémon elokuva 2: Yhden voimalla.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1660x940-en.png"
+    "id": "movie02",
+    "title": "Pokémon 2: Yhden voimalla",
+    "description": "Ashin ja Pikachun pitää toimia keräilijän yrittäessä herättää legendaarisen Pokémon Lugian Pokémon TV -seikkailussa Pokémon elokuva 2: Yhden voimalla.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-fi-fi/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1660x940-en.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -2000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie02/movie02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pq/cfUHhM2E5D2y8prVmOrX0j0477Q_voSoXYV4xGX7g/m2_finnish.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Pq/cfUHhM2E5D2y8prVmOrX0j0477Q_voSoXYV4xGX7g/m2_finnish-dacb67dfa3bd36086ca53502e973051783f5574a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

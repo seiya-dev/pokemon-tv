@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie14",
-    "channel_name": "Pokémon – Der Film: Weiß – Victini und Zekrom | Pokémon – Der Film: Schwarz – Victini und Reshiram",
-    "channel_description": "Legendäre und Mysteriöse Pokémon aus Einall glänzen auf Pokémon-TV",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-1125x1500-de.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-1660x940-de.png"
+    "id": "movie14",
+    "title": "Pokémon – Der Film: Weiß – Victini und Zekrom | Pokémon – Der Film: Schwarz – Victini und Reshiram",
+    "description": "Legendäre und Mysteriöse Pokémon aus Einall glänzen auf Pokémon-TV",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-1125x1500-de.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/movie14/movie14-1660x940-de.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -14000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie14/movie14b_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Md/1dCiffDLKxCYcL6TM6TA93Fwc062JOEmWjgyQux3A/pokemon_movie14_black_ger.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Md/1dCiffDLKxCYcL6TM6TA93Fwc062JOEmWjgyQux3A/pokemon_movie14_black_ger-aa0272037d1c644bfd661749a498e1ecfc7031d7.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f0259d2005c94c5c80b95a93f072e042",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie14/movie14w_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kJ/Som3hbG1ZBFfetV-Of1jawVGFcnUiXcXPv3hovTkY/pokemon_movie14_white_ger.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kJ/Som3hbG1ZBFfetV-Of1jawVGFcnUiXcXPv3hovTkY/pokemon_movie14_white_ger-1277936ba7b7f897df7b0a712f64f9a1fb61ffec.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

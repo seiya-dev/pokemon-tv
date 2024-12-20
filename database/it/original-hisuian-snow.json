@@ -1,14 +1,13 @@
 {
-    "channel_id": "hisuian-snow",
-    "channel_name": "La neve di Hisui",
-    "channel_description": "Un bambino fa amicizia con uno Zorua di Hisui disobbedendo a suo padre in La neve di Hisui. Guarda la breve serie animata adesso!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1125x1500-it.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1660x940-it.jpg"
+    "id": "hisuian-snow",
+    "title": "La neve di Hisui",
+    "description": "Un bambino fa amicizia con uno Zorua di Hisui disobbedendo a suo padre in La neve di Hisui. Guarda la breve serie animata adesso!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1125x1500-it.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-it-it/img/watch-pokemon-tv/pokemon-tv-app/hisuian-snow/hisuian-snow-1660x940-it.jpg"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1652880214,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oZ/gHPssp_yIfijoKphVdE0hC4T3yepHw_hXQzSKdG7k/hayabusa_snow_it_20220516.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zG/q7TW7nwmpdCmAq_VaetI6JtaWPXpb7A6nRDk-EhMk/hayabusa_snow_it_20220516-e2c23b213ed4c99f11539a6c9fcd42ca530c2f9b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8bf0905ed4624c85b9dbf48cacc9cdff",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ng/ZCINisreinscrfgvCE4PLUu9ruuJbZTJeZ67SRSC8/snow_ep102_eng_it_24_1080_h264_v2.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kF/GIV4VLS2fZF7hoktlhsa7oZGCRO0zHMI-B9d7ODOg/snow_ep102_eng_it_24_1080_h264_v2-6fda4ca3ab61274fb656d132864d7304539b075a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "288ed351e5f748529fa920cd33f7143d",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Rm/Mmvtpdv7afyP4T0vngvLUsz--yF3eu8NnrgbXASZk/snow_ep103_eng_it_24_1080_h264_v2.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Q2/f1viJYIoYpwu01hxzpW8gxFqntZi2gbm5UUWlYiHY/snow_ep103_eng_it_24_1080_h264_v2-e2cc3fac9329fd6dcee6b12226f313210d128180.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

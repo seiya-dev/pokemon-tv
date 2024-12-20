@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie21",
-    "channel_name": "Pokémon the Movie: The Power of Us",
-    "channel_description": "Ash confronts Zeraora while helping to unite a city against a potential threat in Pokémon the Movie: The Power of Us.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1660x940-en.png"
+    "id": "movie21",
+    "title": "Pokémon the Movie: The Power of Us",
+    "description": "Ash confronts Zeraora while helping to unite a city against a potential threat in Pokémon the Movie: The Power of Us.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1660x940-en.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -21000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie21/movie_21_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/NT/58N9HSWLTFmhjYwpnZISxGluDnJHYrilqQlqtwlKk/pokemon_movie21_eng.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lG/dtl5mMyYLIzTGkxHUvStbsZ8wqEPMdu9wL7E3zfQo/pokemon_movie21_eng-7942f5590e0764b3c7726211f47f259f0689265d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lG/dtl5mMyYLIzTGkxHUvStbsZ8wqEPMdu9wL7E3zfQo/vtt/2/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

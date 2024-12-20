@@ -1,14 +1,13 @@
 {
-    "channel_id": "twilight-wings",
-    "channel_name": "Pokémon: Alas del crepúsculo",
-    "channel_description": "Lionel viaja a la Isla de la Armadura en Una reunión de estrellas, un nuevo episodio especial de Pokémon: Alas del Crepúsculo, ¡ya disponible en TV Pokémon!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/twilight-wings-1125x1500-es.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-1660x940-es.jpg"
+    "id": "twilight-wings",
+    "title": "Pokémon: Alas del crepúsculo",
+    "description": "Lionel viaja a la Isla de la Armadura en Una reunión de estrellas, un nuevo episodio especial de Pokémon: Alas del Crepúsculo, ¡ya disponible en TV Pokémon!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/twilight-wings-1125x1500-es.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-1660x940-es.jpg"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1579097807,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pd/RmUBc11-NGmuAxhvMXbaw2pnUVt1SkXbOIYv__Ygc/tw_ep101_eng_es-es_24_1080_h264_v1.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/76/g3MLVcaQlxw_jQAOgQ7IKauKYJzR4GN-rIAYTu8WY/tw_ep101_eng_es-es_24_1080_h264_v1-6171b3db87a51d774183448c2afc2d2c389ffbdc.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "101ec8c08a714e0aaa5c942fc833c787",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nk/2Wql5UUzRALvstE7RMZumiJfVcMk-Hadavn3keIL8/tw_ep102_eng_es-es_24_1080_h264_blankcredits.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nk/2Wql5UUzRALvstE7RMZumiJfVcMk-Hadavn3keIL8/tw_ep102_eng_es-es_24_1080_h264_blankcredits-c1c9eb330b7d2717d93da5d6ff422d250483773d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1d1a7306fde94d7d89eefbcd7579529c",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P7/xSVNTaCZLsfKs3KrYX_sdY8LLiRIETLoFnTC6T_1c/twilight_wings_ep03_spa.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DV/JBjXfWgb0IlekDo8tPWJz29b97D5Mp63O9lOXHt28/twilight_wings_ep03_spa-e5081c9722d7ef704bda2d93444dfac052a71b89.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "180f7651e4044722bd6a0a9c3df89e4d",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0X/OIEw0SR6MGXfWAnT_gp2KJfQlRYNNs8v6M_upF84Q/tw_ep104_eng_csp_24_1080_h264_v2.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5P/glDQYPfDvKeeTz4rsZvy_EOT9VHksoM85y0RDHLkg/tw_ep104_eng_csp_24_1080_h264_v2-7654d85ae9cd317d8cc8ae0fc6a233e5655a1ab3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "61a3977335a043988eb96cae3584763b",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oq/0ObcbNoPpo2jkahclBbqKPOF_x9ePCIeIkRV5YUgI/twilight_wings_ep05_spa.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oq/0ObcbNoPpo2jkahclBbqKPOF_x9ePCIeIkRV5YUgI/twilight_wings_ep05_spa-8cd6b0c0e1c41f08f06d7953b0a4323168bb796a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f504f2a11f5544a993a674f2bb64648a",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uQ/spLs_c1wxgtmCUW1JemXfJ1pSbtK5-G8rMUatkbrI/tw_ep106_eng_es-es_24_1080_h264_v1.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FU/wOkVjtMqW5WDoFETslMujWpEdGe0mUgWdWWkEv-5k/tw_ep106_eng_es-es_24_1080_h264_v1-f676148fa606f244fd3da948696d0da239a5f8c8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1b3738446ca14dd698a5dc774acb0db1",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yb/VqH7sJRxzKJUiH8jcaBNlYcnP1xuNuhY1z-pzuxg4/twilight_wings_ep07_spa.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bd/FajI4gFiTdJX2pNMnJ2VOZ5TdFXRbyoJLV2FipFZI/twilight_wings_ep07_spa-6b8c1f6b7e7d5d79edac514880148c0cb1bf1548.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1ab0ad375156469aacbbcd2432a430ec",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2-es-es/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep08_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zi/ySka62hpH1pn91RyhUDZGSBAK7EpKrA4lPC1hgmCo/tw_ep108_eng_es-es_24_1080_h264_v1.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fT/SOP2GHFvoGNrjJwWaUBE6j7PFTRmAkCyLxhny6P-I/tw_ep108_eng_es-es_24_1080_h264_v1-36ff4668fed224ff3a36a19426e7f79c9d262b58.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

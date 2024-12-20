@@ -1,14 +1,13 @@
 {
-    "channel_id": "origins",
-    "channel_name": "Pokémon Origins",
-    "channel_description": "",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/origins/origins-1125x1500-de.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/origins/origins-1660x940-de.png"
+    "id": "origins",
+    "title": "Pokémon Origins",
+    "description": "",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/origins/origins-1125x1500-de.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-de-de/img/watch-pokemon-tv/pokemon-tv-app/origins/origins-1660x940-de.png"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1474480581,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/origins/origins-ep01-ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/A9/PZxIqnJuGQRQMPZA-c6P6FRGCMNHG_Y5vRUNIL1Nc/origins_01_hd_h264_de.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pl/mb_DwXjPy8UvIUiksfs0l1l2GcIUpcwv-f-qlBXMY/origins_01_hd_h264_de-d03a9d2cb7cb13583ecd7dc54380a1a9ecd41276.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3266c506cfc44840beb92d0bfd25f40f",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/origins/origins-ep02-ss01-360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Oh/MEGPwPPtp5hRoFcQWCYWQR_m5_B5hx4Y9zZu-enLg/pokonl_pok_origins_02_hd_16x9_178_2997_h264_de_gfxde.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gY/nKTvL9J0nvB8RdcR3npTrQi67L48cHeWXH8X2KQBU/pokonl_pok_origins_02_hd_16x9_178_2997_h264_de_gfxde-d050193ec088bb1f480ffff775b6f6cad721aea0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e0eb4d10de2b41c89574413ec0ba9d14",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/origins/origins-ep03-ss01-360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ao/p5pfBKigndIEnBcjJKE5WidHPPBwyJ3ZTu9oAn_f4/origins_03_hd_h264_de.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/XE/rqZMLG33hAmOjZxPou0LmltMbCuiVlQZaLTFFWHJA/origins_03_hd_h264_de-fcd233d1de45bb9fa3cecba27d075e54f1e9919d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "68064ca0fcb7421db938f89a4725abae",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/origins/origins-ep04-ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/-1/_xiUqaoKNENPJk_hkVTx9ZBHezTwOZm5E8H6Mt4YY/origins_04_hd_h264_de.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DU/P_-KiEBiNnVBDADDgQxzE5bcxRC_i2SmahiETEelE/origins_04_hd_h264_de-538f9168652abfef6fa9dc8dc813367e25fd1cb4.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

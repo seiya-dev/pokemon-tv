@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie23",
-    "channel_name": "Pokémon, le film : Les secrets de la jungle",
-    "channel_description": "Sacha devient ami avec un garçon élevé au cœur de la jungle par Zarude, le Pokémon fabuleux, dans Pokémon, le film : Les secrets de la jungle.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1125x1500-fr.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1660x940-fr.png"
+    "id": "movie23",
+    "title": "Pokémon, le film : Les secrets de la jungle",
+    "description": "Sacha devient ami avec un garçon élevé au cœur de la jungle par Zarude, le Pokémon fabuleux, dans Pokémon, le film : Les secrets de la jungle.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1125x1500-fr.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie23/movie23-1660x940-fr.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -23000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie23/movie23_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gH/yBi5pt5QDlgx7rAYxuZRBr3K1ILm_DpNhlm-FqTtM/pok_m_m23_2398-master-fr.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Su/Mxq3Cxuwsw5_TCI02GGzxFJA2uXjTHmhlgwUKmiTU/pok_m_m23_2398-master-fr-00e86d57706520ec1538ab1993c1dbc4ebbb8ac5.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

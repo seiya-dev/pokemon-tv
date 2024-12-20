@@ -61,30 +61,23 @@ async function cleanupDb(){
             const mTypeCat = f.replace(/\.json$/,'').split('-')[0];
             const channelId = f.replace(/\.json$/,'').split('-').slice(1).join('-');
             
-            cdata.channel_id = channelId;
-            cdata.channel_name = vdata.channel_name;
-            cdata.channel_description = vdata.channel_description;
-            cdata.channel_images = vdata.channel_images;
-            
-            if(!cdata.channel_images.spotlight_image_1660_940){
-                console.warn('-> WARN: Missing spotlight image 1660x940:', mTypeCat, channelId);
-            }
+            cdata.id = channelId;
+            cdata.title = vdata.title || '';
+            cdata.description = vdata.description || '';
+            cdata.images = vdata.images || { dashboard: '', spotlight: '' };
             
             Object.assign(cdata, findCat(mTypeCat));
             cdata.order = vdata.order;
             
-            if(vdata.channel_creation_date){
-                cdata.order = vdata.channel_creation_date * -1;
-            }
-            if(cdata.category_id == 1){
-                const seriesNum = cdata.channel_id.match(/^season(?<num>\d+)$/);
+            if(cdata.category_id == 1.1){
+                const seriesNum = cdata.id.match(/^season(?<num>\d+)$/);
                 if(seriesNum && seriesNum.groups.num){
                     const seriesNumInt = parseInt(seriesNum.groups.num);
                     cdata.order = seriesNumInt * -1000;
                 }
             }
             if(cdata.category_id == 3){
-                const movieNum = cdata.channel_id.match(/^movie(?<num>\d+)(?<sub>\w)?$/);
+                const movieNum = cdata.id.match(/^movie(?<num>\d+)(?<sub>\w)?$/);
                 if(movieNum && movieNum.groups.num){
                     const movieNumInt = parseInt(movieNum.groups.num);
                     cdata.order = movieNumInt * -1000;
@@ -104,10 +97,10 @@ async function cleanupDb(){
                     description: m.description,
                     images: m.images,
                     poketv_url: m.poketv_url || '',
-                    stream_url: m.stream_url || '',
+                    // stream_url: m.stream_url || '',
                     embed_url: m.embed_url || '',
                     terabox_surl: m.terabox_surl || '',
-                    captions: m.captions || '',
+                    // captions: m.captions || '',
                 };
                 cdata.media.push(mediaData);
             }
@@ -140,38 +133,31 @@ function findCat(mTypeCat){
     switch(mTypeCat){
         case 'series':
             cat.category_id = 1.1;
-            cat.category = 'Series';
-            cat.media_type = 'episode';
+            cat.category = 'series';
             break;
         case 'horizons':
             cat.category_id = 1.2;
-            cat.category = 'Horizons';
-            cat.media_type = 'episode';
+            cat.category = 'horizons';
             break;
         case 'stunts':
             cat.category_id = 2;
-            cat.category = 'Stuns';
-            cat.media_type = 'episode';
+            cat.category = 'stuns';
             break;
         case 'movies':
             cat.category_id = 3;
-            cat.category = 'Movies';
-            cat.media_type = 'movie';
+            cat.category = 'movies';
             break;
         case 'original':
             cat.category_id = 4;
-            cat.category = 'Specials';
-            cat.media_type = 'original';
+            cat.category = 'specials';
             break;
         case 'junior':
             cat.category_id = 5;
-            cat.category = 'Junior';
-            cat.media_type = 'junior';
+            cat.category = 'junior';
             break;
         default:
             cat.category_id = 9;
-            cat.category = 'Unsorted';
-            cat.media_type = 'unsorted';
+            cat.category = 'unsorted';
     }
     return cat;
 }

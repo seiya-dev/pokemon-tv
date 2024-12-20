@@ -1,14 +1,13 @@
 {
-    "channel_id": "season23",
-    "channel_name": "La série : Pokémon, les voyages",
-    "channel_description": "Les aventures de Sacha et Pikachu continuent avec de nouveaux amis et Pokémon. Regardez la série Pokémon, les voyages sur TV Pokémon aujourd’hui.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1125x1500-fr.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1660x940.jpg"
+    "id": "season23",
+    "title": "La série : Pokémon, les voyages",
+    "description": "Les aventures de Sacha et Pikachu continuent avec de nouveaux amis et Pokémon. Regardez la série Pokémon, les voyages sur TV Pokémon aujourd’hui.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1125x1500-fr.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/season23/season23-1660x940.jpg"
     },
     "category_id": 1.1,
-    "category": "Series",
-    "media_type": "episode",
+    "category": "series",
     "order": -23000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j1/NEMbY6O8_2LV6vskQ1B2QbBoZCNyPckbK5ZZlxZrw/fr-fr-23-01.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/j1/NEMbY6O8_2LV6vskQ1B2QbBoZCNyPckbK5ZZlxZrw/fr-fr-23-01-13bad0ca8a9c5dff0d9a2c7aac8ab81b7fb5ad3f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c0d71edb6ec243ae94718327637ac46c",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PP/kGf3akemo1-yBUwa7ebl_t4f9LVJ8HT1xY8Lb8RZo/fr-fr-23-02.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PP/kGf3akemo1-yBUwa7ebl_t4f9LVJ8HT1xY8Lb8RZo/fr-fr-23-02-88f81a0588f21b37635fe8608164d6cfd052502a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "c7236ddeff3f4b0c8b53aa906540f97a",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3L/97Qfm-va9efbOFN1uCkM6DU4KC_kDjztGD5T1RU3k/fr-fr-23-03.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/3L/97Qfm-va9efbOFN1uCkM6DU4KC_kDjztGD5T1RU3k/fr-fr-23-03-8e89a162090320bb3f93224d4e90dde9d6fdd18b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8d6be2a74da64cdda85d0cfbe2553b4d",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5b/sfUZi7bOD-jVva2mNDjlpuCwW4o7R8qNiacmANdvY/fr-fr-23-04.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/5b/sfUZi7bOD-jVva2mNDjlpuCwW4o7R8qNiacmANdvY/fr-fr-23-04-0864eb6e4a9df3cdb8fb48a95e375f67f417c34a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f5a1aca2baf547d1b7d7d9cb7a4a635c",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8V/X18dv8xKvaZ83xK3dy7R0O3-Rfw-aQoPNEZt0F2-4/fr-fr-23-05.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8V/X18dv8xKvaZ83xK3dy7R0O3-Rfw-aQoPNEZt0F2-4/fr-fr-23-05-eb157ab8729e1c7bc4779befb0a2fbdff1b42670.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "be97c9714c9243e5b5eca1262f944aad",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nm/04w8Zn4ckXPscr0vUfjKMbu3X8yNevd0ryXObxZ_U/fr-fr-23-06.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nm/04w8Zn4ckXPscr0vUfjKMbu3X8yNevd0ryXObxZ_U/fr-fr-23-06-112455618b658f745b2726a496392e9688326adb.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f1b1962c829a4735be7361f692caf8f1",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zx/X5PHICTINSk-RySk1RrMuygl2vqn8MnMMPKRC6SNo/fr-fr-23-07.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zx/X5PHICTINSk-RySk1RrMuygl2vqn8MnMMPKRC6SNo/fr-fr-23-07-b5de1d9e531492be4e71384098a7b97b89a6d2fa.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "306d755f8dcc4907a632578213ff3d74",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep08_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7Y/Z5i3oHL4DI_gTEKKCfJMtyacud7eWO26dXfpvCbKI/fr-fr-23-08.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7Y/Z5i3oHL4DI_gTEKKCfJMtyacud7eWO26dXfpvCbKI/fr-fr-23-08-7c32b2c17209ce3deeb8e6cf487bd2ce677a9a99.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "070604d0984e4be4923ac7b5ea4a807b",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep09_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ef/zCuDiCHBjXGjrU0Gj97MKiBfqEhIYB0WyceRabIAE/fr-fr-23-09.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gz/QPbsBnplbPOLQqlyroAB7ZBy1nF6A0nL3zkiXIOcY/fr-fr-23-09-726cdb36b476218763a636b5c94354da79bae051.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f51e620ef3eb411fa778145dde63c3a1",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep10_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y1/Q6cegirVXu7JZtsflaANfP62nnEbis03OAzwQZUc0/fr-fr-23-10.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Y1/Q6cegirVXu7JZtsflaANfP62nnEbis03OAzwQZUc0/fr-fr-23-10-6a4e3b7e4aaf94cac452d81a44372925e026ccb3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "1010a5b76f4649a5b5463db27a3792fb",
@@ -182,10 +161,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep11_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VM/TNB48gDtBAF1zusKzNf9Mtpuk9KfnOZh-fTv6AesM/fr-fr-23-11.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/VM/TNB48gDtBAF1zusKzNf9Mtpuk9KfnOZh-fTv6AesM/fr-fr-23-11-3a2ddf5c948f672a208b3b9022b1da95d6020f6e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "64373e77d789491daf2c8fb01c96f122",
@@ -198,10 +175,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep12_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FR/tfHPEc1UOMnSHFOaKlAOk25iagjGThQn0pKyTj9ls/fr-fr-23-12.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FR/tfHPEc1UOMnSHFOaKlAOk25iagjGThQn0pKyTj9ls/fr-fr-23-12-f007c731e5f6fdae7458fdf902e851476cc0f1bb.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ce1fb5f22c07465186046bd4f1477255",
@@ -214,10 +189,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep13_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2t/Zs49LuYIvlRhEJlwTInSVDJ37iZl4NAxyHbL9RQeM/fr-fr-23-13.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2t/Zs49LuYIvlRhEJlwTInSVDJ37iZl4NAxyHbL9RQeM/fr-fr-23-13-490eb11c0bc4a950b2b005080117ed6f3a1bcf3a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "51fba44d9ad5465b90c1c55f71b3611c",
@@ -230,10 +203,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep14_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cg/v4qzuUphjB6IxhbAZK7zB7IqIUTPPsW3tS3iJ0RkM/fr-fr-23-14.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cg/v4qzuUphjB6IxhbAZK7zB7IqIUTPPsW3tS3iJ0RkM/fr-fr-23-14-ba5820eb708fb1979e6e130bda8fc43e049e7605.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e82192ed3b494dd7b8c9a7a26a9f912b",
@@ -246,10 +217,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep15_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0q/-tCHgfAvAV1B4ssZJu3RxgqiEF1-nxAajPOsed_dY/fr-fr-23-15.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0q/-tCHgfAvAV1B4ssZJu3RxgqiEF1-nxAajPOsed_dY/fr-fr-23-15-d8191bc5a5efbcc80fd0c625115fd2d397cf1f1f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "5c4c177132e84231971d4f849ca4938a",
@@ -262,10 +231,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep16_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cV/4mZzBEEX2sWhiIMcVlx9EHPG1fU5QKg-85vi_Hszc/fr-fr-23-16.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cV/4mZzBEEX2sWhiIMcVlx9EHPG1fU5QKg-85vi_Hszc/fr-fr-23-16-6fdb9ec8d1165d98fe244df478d2f76216a5711a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "98654accf64f4586adcd1553aa366a59",
@@ -278,10 +245,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep17_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bN/Co5IYem7JSzmx_Lqrp18kwIKD_3fEYSe23tm7iv4Q/fr-fr-23-17.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bN/Co5IYem7JSzmx_Lqrp18kwIKD_3fEYSe23tm7iv4Q/fr-fr-23-17-8a3de523844c072aa1a4cdef025402196910248c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "59a5dd069b3d4f3e937c352ba801ceab",
@@ -294,10 +259,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep18_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JK/axtCgX3sZcShFb7gm4P-eZVR-6SRb7kE7uP621N6E/fr-fr-23-18.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JK/axtCgX3sZcShFb7gm4P-eZVR-6SRb7kE7uP621N6E/fr-fr-23-18-779dffeecdd6a580315d9b210c16e189af2c1ec8.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "892dc49fb6934bfc93ddf3afe7599998",
@@ -310,10 +273,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep19_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SZ/pE9GKuN9HbHB7Czhln8q0oFmGbGmBwqalUuP-cHfo/fr-fr-23-19.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SZ/pE9GKuN9HbHB7Czhln8q0oFmGbGmBwqalUuP-cHfo/fr-fr-23-19-9beb82c4fc751787c44553e5727d22aa7aebdb75.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e7dddf6c1f0340408c70b8d88f13d4fb",
@@ -326,10 +287,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep20_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sV/DGjht3Ydr_0QClaGzmlubqxClEG6CkmXRp7_-oTIs/fr-fr-23-20.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sV/DGjht3Ydr_0QClaGzmlubqxClEG6CkmXRp7_-oTIs/fr-fr-23-20-2bf61097b6c161e1705850133b62dde32de9c3ba.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e88b3bd5d5024b0da091323b55ed1c63",
@@ -342,10 +301,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep21_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QN/B-M1g_ZKE0Sq6YUswJgiyl12wpKhstLt3GN-lVpKY/fr-fr-23-21.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QN/B-M1g_ZKE0Sq6YUswJgiyl12wpKhstLt3GN-lVpKY/fr-fr-23-21-cdb3abfbea972ead301d9ce447dd40adcb82bd93.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8aae8ea4ea0b45b48be4f16b943765b5",
@@ -358,10 +315,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep22_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uF/WncvnfkScF8cnBUl7mVsXpMPd-WSY3ygf0TdO9dhM/fr-fr-23-22.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uF/WncvnfkScF8cnBUl7mVsXpMPd-WSY3ygf0TdO9dhM/fr-fr-23-22-cd13701bbf052ed85f8f480a2bfe31e9ccefe0bc.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "e9a1e05b5b1642769a5f265d6ea22c80",
@@ -374,10 +329,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep23_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/iB/ZAutN3KyFHnfrNroqsFBaDXPJN8eaL1Rxzdcre0e0/fr-fr-23-23.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0B/MI6RvspqZuaMqudH2c9Go6ot4V_zBhDAcBJxi4lmg/fr-fr-23-23-c60f9b02a2690123bb3d9d6c2b036a3b9fbee034.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "22114f51be1d4ff2b4e85f7888e0bd19",
@@ -390,10 +343,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep24_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bk/Tj16l2F71gVN2njWjca8T-cNL0naybcG5H2ZSMBq8/fr-fr-23-24.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/IR/O39gRM5ChujuZ5mbAAoHr7PcLqNUi6nhHonHRWmu0/fr-fr-23-24-115df3405c254f7b79e3c8e1fc89c1bb0beafa09.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "14af07c1ac674a07b250f3f32b6d6f58",
@@ -406,10 +357,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep25_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0-/kFzlIKX0iZjDNGNfw3IPHCEr0FmtXXxlCctQBFo1A/fr-fr-23-25.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gD/-X-1C5A4sndLTF8_XWok4QSEjomUPvfKXApisxqKI/fr-fr-23-25-556638829d49bdb8b9f16f4f2a2464abea919197.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6b68837b9d6d4dccb14818c50703966a",
@@ -422,10 +371,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep26_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wu/uRDsFohtftMM1gQXK2Mn8ZQTpMn9GAZzHjyViBGeo/fr-fr-23-26.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y7/ZTPQoJ0D2jN2VEiZ6N6vHaE7itmSTysae0vk5h1Zo/fr-fr-23-26-80a2f033a6ca770ecf226bae3daba2f4e845014f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "40442e1669a74b8ba0ad772322bba359",
@@ -438,10 +385,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep27_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zC/LXbiO6bmpASMI6PNYogPwKk9508mZrDXCzotgGWQE/fr-fr-23-27.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gs/n4lLxTDGfWYz40Kdx9FRGzs2uYrtxS9DVyJU7CpTI/fr-fr-23-27-897b4f9b84f414c6c713fbe4548e6b0202ab7789.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "bf3f6c69ff5647f1b9ac3a202a922df3",
@@ -454,10 +399,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep28_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cf/Mfr8NL2MItixVmXMvZWBzl6AKtmqVR39bPGxNyeSA/fr-fr-23-28.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cF/GB6nLnc8LLFE__0kZ1H6GwEgCCchDzor_8HH__CwM/fr-fr-23-28-3e9ee27ca551439a28431a974d102dac9bdad1b0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3ef013e8a63248f1b29af90edbd8a94b",
@@ -470,10 +413,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep29_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vK/LZXl_01fXQVrEtZwHJLbniYmHk8eraoTVEioauqhk/fr-fr-23-29.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Jk/1vT2wc_i2mbFzoeSyO-WOzOoyHauKMSpXycRzEVE4/fr-fr-23-29-644f7c3640097451393fead54f44b887ab7547f9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d418d6146447410aa54bc4439266e83e",
@@ -486,10 +427,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep30_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/67/CjRuI40yA9qx14v-8jBWKD1JU3R2KXgYb0WVbWFsc/fr-fr-23-30.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6Y/MSLzHBFNkOxFz1HKhD1LMP-YHl5rQ8CwxyMVA0BdU/fr-fr-23-30-3e8642d193c65a14446ac2787c512b700d2d7b92.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f2412ec533e8434c954cf5aa36a2b351",
@@ -502,10 +441,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep31_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zi/ws27C8HobcPh0SWctawO-5ZPmxqmZNWzYPXFwL-qg/fr-fr-23-31.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/91/lCVB0HcNhES4vfHDfNDHu90uOPwxtIpA47HbtX9ps/fr-fr-23-31-a4c6575b44362705d00861ac20e57a897d2efe3d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "88a913af72fb473fa1b7039d9ede3bff",
@@ -518,10 +455,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep32_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WE/91Uz862Ircg78ObGkk4pNNUILBK31T6bCGmobENjk/fr-fr-23-32.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dk/qRfyjRuKnzf5NoHfD-1ECZ12JPUEuw_zyvpNpae-c/fr-fr-23-32-84d9c12526ac9c0d63688c17805a3262ef0b9c11.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "81335182ee7847d795d94b63812a2742",
@@ -534,10 +469,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep33_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qn/H7RxKPAJ2N6gmguQlgVDmG2nmua92j7CPHLTi3rk0/fr-fr-23-33.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kx/EY9-lkIj44ZgZ4P0_FwE3dSLjJXul7CuBALkXyCoU/fr-fr-23-33-c2a6c0534bd1b342a23698b1118d6bf9669343e3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "df6b57c0fa1c4b1fb1c565f33f236cb8",
@@ -550,10 +483,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep34_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/d0/c54HeZWOKZIPdGa6LCczk4EuPhJ69s4SqMu4YXRNc/fr-fr-23-34.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Vx/C-B7rH3R-e0A8KXJ6MKhtFblhj-3QwoB9UrdtXMd0/fr-fr-23-34-e72c099756bda828fa443e43d59adf32fa924d0b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "68a4359aaa574375988301b6be182a16",
@@ -566,10 +497,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep35_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yY/AviT2G9wkUx1Vx7l0Zo2UbqlJCLvnsTxwxuyeCx_E/fr-fr-23-35.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kj/t78hSDdVbHbQq_18STtYgAmRfutUz15NQ2pZdmskY/fr-fr-23-35-cc513ad9636d99ff6ce4e431c451ec3e01088f8f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "96b3830328ae43a29a173f5f4a8044e5",
@@ -582,10 +511,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep36_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/HK/DJ8C3G3zdUUSNlN3J5SdQbzH_Tmauz1yFzKds4REo/fr-fr-23-36.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xc/cgd7Lo4Sqje7X8crSfXGrdYOUlKjtqnluDIla-7Xc/fr-fr-23-36-cf196724ad57e582837fd24640d666340261af70.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "487139656c8d4d73afd275b210c88b29",
@@ -598,10 +525,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep37_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/dT/CcdZmKyJVNGU42MjjX8RGr4qJtX0JDzlSOE0n1OlM/fr-fr-23-37.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lZ/duH4HhWgbaJdhGdqxu_xN8M1v-fjHhGOAOh10b9LA/fr-fr-23-37-f121b16864deaa66e8e6fbc41a0ae5aca65a4d49.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ee762bcf6a664f27a85e52bb0074b4e9",
@@ -614,10 +539,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep38_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ll/NP8HF3LAJyHnARTO5RyLVMrGCJaGMtS-EwSZwefco/fr-fr-23-38.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wm/lIjHJpsBd_ay5qg-Fx2d3KdXrCnzfPF6c00vbyWTU/fr-fr-23-38-b1feb4f95bbaaa1d9b98a29f20c2f12fc87aa648.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "3c43e7a7b3644c6d883039ba0bea908a",
@@ -630,10 +553,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep39_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/wA/mvccrrGQN35CLEHjHkBjg-G0E2g6RF-erBSCauQUg/fr-fr-23-39.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/y8/11IZZPe5P4lnsYSnmabzR-74IaDgrGjkYKPXbzh1o/fr-fr-23-39-793e1288c4e1fa045710d23923a4bd5e83ba20c2.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a920ddd3a5624d419452d93605941d46",
@@ -646,10 +567,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep40_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Cu/zZDMFYEXtAM7zFRzdYdcPvXWbVSDXez4u0eR3-6MI/fr-fr-23-40.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P7/i3tlIRG5MLb24c_8TNp2duGPg5JNwZzT4LGQLTYgI/fr-fr-23-40-c4403f20e610530f5a119a4c567938157fb0c227.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4f0ce57e4fd24dc1812772c9817f8acc",
@@ -662,10 +581,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep41_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pr/1y5bK25PtzUoQygqPBAD8mOW3mSWrX0zy-McOIeHM/fr-fr-23-41.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/P-/RFfoRbFJvwrn7TzzMFgWlPCMw2txMHKBG9FHghwHo/fr-fr-23-41-8b4981592cd5633a3bb4d9f19bd69d39ce99ecab.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a0ef11c329904526a96ca8a6e98bad77",
@@ -678,10 +595,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep42_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/yC/X3KPNTJVIHjsesv0cf7S0bxAqL2M2RqyA8zUDxxXk/fr-fr-23-42.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/kw/OuFDXBX-WbxFDhLcsJMuiFHFQ4QIcmCeXr7G71X1w/fr-fr-23-42-40e16b7dc63ff98b816c0a619727728e4e89021a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "cc9eae0a2a984e6b8569a00003554e79",
@@ -694,10 +609,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep43_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/At/NbCJM9N31dnMVbD3ljYnGXSDafFDX8QKJwTIn__V0/fr-fr-23-43.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ep/_3YIQsasFivcbWzQMBq6RgxF33sYMYNt2dKik5U58/fr-fr-23-43-79f15b26030dc173d88d212bf38df8584159f135.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "7f31bf3208004074b83510ec970bf281",
@@ -710,10 +623,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep44_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oU/fTn9vHK2Z1ND2AZhLb-Q90U21Kgj2GWeWRulaYne4/fr-fr-23-44.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/xh/B5HlV8lH3A-mj6cbbYD9IqXNegPddIM6hoNsm5OQ8/fr-fr-23-44-14d045216207f5c79939587118eeb30b17c9b884.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4377a7369b80430b98682f6c680ecdb2",
@@ -726,10 +637,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep45_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CH/gRXwbWyHoACgEJaMR_iVLUREJfgC3U7iBqbm1Zj_w/fr-fr-23-45.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pI/yxBu_cGtvKZMXXGbeNC-wtD_b6bVK3w9X_whGNkSs/fr-fr-23-45-832e7bcb2c2f5e554e6ba5eed15c3fcfe5ff13ab.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ffb02f93c9e342108ebe41c5022947c4",
@@ -742,10 +651,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep46_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/tT/LznEZgUbbbZ5Q8nvV2TVN0W_7JvAA-nODt7ZHxr6E/fr-fr-23-46.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fp/BWd1914TP1KGomtkZth_CPt7p76NNB4s98tNhZw5g/fr-fr-23-46-c603b793cca5e2e678f383fa9c75c3fa61ac0e25.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "a412da4eb04643b7badb5dc4f8192852",
@@ -758,10 +665,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep47_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pC/U8dxcKoAn-JXdlWP1RjX85PD0IH1JnNeGiOzN4T78/fr-fr-23-47.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pd/KKOpiArJh0Cq2_wFlN44bdASAriy40yefwTP-oDLQ/fr-fr-23-47-2a0edcae0537f02f56c0d878d445cfae8af4dfaa.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "79230673e0944f93a1a4ed1eb78965d1",
@@ -774,10 +679,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season23/season23_ep48_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/jZ/LMtNq8HZFThG555US85RvQ9kYmAAKDJT9kSV0P798/fr-fr-23-48.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zX/OIJORlp34Jh8P_eOO5yeHNFo2A6bwE_gH_5dBZyhw/fr-fr-23-48-e6ce29a6487c71f68751420dedebcb97d32e8406.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

@@ -30,9 +30,9 @@ async function loadMain(){
     }
     
     if(uriData.page_type == 'channel' && uriData.query.get('id')){
-        const selChannel = tvData.filter(c => c.channel_id == uriData.query.get('id'));
+        const selChannel = tvData.filter(c => c.id == uriData.query.get('id'));
         if(selChannel.length > 0){
-            channel_id = selChannel[0].channel_id;
+            channel_id = selChannel[0].id;
             if(selChannel.length > 1){
                 console.warn(':: WARN: Exists two channels with same id!');
             }
@@ -41,17 +41,17 @@ async function loadMain(){
     
     if(uriData.page_type == 'video' && uriData.query.get('id')){
         if(uriData.query.get('c')){
-            const selChannel = tvData.filter(c => c.channel_id == uriData.query.get('c'));
+            const selChannel = tvData.filter(c => c.id == uriData.query.get('c'));
             if(selChannel.length > 0){
-                channel_id = selChannel[0].channel_id;
+                channel_id = selChannel[0].id;
             }
         }
         
         for(const c of tvData){
-            if(channel_id == '' || channel_id == c.channel_id){
+            if(channel_id == '' || channel_id == c.id){
                 const selVideo = c.media.filter(v => v.id == uriData.query.get('id'));
                 if(selVideo.length > 0){
-                    channel_id = c.channel_id;
+                    channel_id = c.id;
                     video_id = selVideo[0].id;
                     break;
                 }
@@ -135,7 +135,7 @@ function loadCategory(tvCategory){
     
     for(const s of tvData){
         if(s.category == tvCategory){
-            const poster = s.channel_images.dashboard_image_1125_1500;
+            const poster = s.images.dashboard;
             const contCell = createHtmlEl(`
                 <span class="channel-tile col-6 col-md-4 col-xl-3">
                     <a>
@@ -148,15 +148,15 @@ function loadCategory(tvCategory){
                 this.src = img_base64.poster;
             };
             
-            contCell.qSel('img').alt = s.channel_name;
+            contCell.qSel('img').alt = s.title;
             contCell.qSel('img').src = img_base64.poster;
             contCell.qSel('img').setAttribute('data-src', poster);
-            contCell.qSel('a').title = s.channel_name;
+            contCell.qSel('a').title = s.title;
             const tvRegionChannelUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
-            contCell.qSel('a').href = `${tvRegionChannelUrl}/channel?id=${s.channel_id}`;
+            contCell.qSel('a').href = `${tvRegionChannelUrl}/channel?id=${s.id}`;
             contCell.qSel('a').addEventListener('click', (event) => {
                 event.preventDefault();
-                channel_id = s.channel_id;
+                channel_id = s.id;
                 showChannel();
             }, false);
             qSel('#posters').append(contCell);
@@ -165,7 +165,7 @@ function loadCategory(tvCategory){
 }
 
 function showChannel(){
-    let curChannel = tvData.filter(s => s.channel_id == channel_id);
+    let curChannel = tvData.filter(s => s.id == channel_id);
     if(curChannel.length < 1){
         return;
     }
@@ -175,7 +175,7 @@ function showChannel(){
     const tvRegionUrl = tvRegion == 'yt' ? '' : `/${tvRegion}`;
     history.replaceState(hstate, htitle, `${tvRegionUrl}/channel?id=${channel_id}`);
     
-    let chanImg = curChannel.channel_images.spotlight_image_1660_940;
+    let chanImg = curChannel.images.spotlight;
     chanImg = chanImg != '' ? chanImg : '../img/channel.png';
     const chMedia = curChannel.media.filter(v => {
         return v.id != '' && !v.id.match(/-deleted$/i) && (
@@ -189,8 +189,8 @@ function showChannel(){
     const channelInfo = document.createDocumentFragment();
     
     const seasonRegex = /^season(?<num>\d+)$/;
-    if(curChannel.channel_id.match(seasonRegex)){
-        const seasonNum = parseInt(curChannel.channel_id.match(seasonRegex).groups.num);
+    if(curChannel.id.match(seasonRegex)){
+        const seasonNum = parseInt(curChannel.id.match(seasonRegex).groups.num);
         const seasonInf = createHtmlEl('<h3 class="d-inline pr-2"></h3>');
         seasonInf.innerText = `${getTlText('Season')} ${seasonNum}`;
         const epsInf = createHtmlEl('<h6 class="d-inline"></h6>');
@@ -201,12 +201,12 @@ function showChannel(){
     }
     
     const chanName = createHtmlEl('<div class="row"><h2></h2></div>');
-    chanName.qSel('h2').innerText = curChannel.channel_name;
+    chanName.qSel('h2').innerText = curChannel.title;
     channelInfo.append(chanName);
     
-    if(curChannel.channel_description != ''){
+    if(curChannel.description != ''){
         const chanDescription = createHtmlEl('<div class="row season-description"><h5 class="p-0 col-12"></h5></div>');
-        chanDescription.qSel('h5').innerText = curChannel.channel_description;
+        chanDescription.qSel('h5').innerText = curChannel.description;
         channelInfo.append(chanDescription);
     }
     
@@ -247,7 +247,7 @@ function showChannel(){
         if(v.episode != ''){
             let vSeasonNum = '';
             let vEpisodeNum = '';
-            if(v.season != '' && curChannel.category == 'Stuns'){
+            if(v.season != '' && curChannel.category_id == 2){
                 vSeasonNum = `${getTlText('Season')} ${v.season} • `;
             }
             if(v.episode != ''){
@@ -312,7 +312,7 @@ async function showPlayerBox(){
     qSel('body').style.overflow = 'hidden';
     qSel('#player-box').style.display = 'block';
     
-    let curChannel = tvData.filter(s => s.channel_id == channel_id);
+    let curChannel = tvData.filter(s => s.id == channel_id);
     curChannel = curChannel.length > 0 ? curChannel[0] : {media:[]};
     let curVideo = curChannel.media.filter(v => v.id == video_id);
     curVideo = curVideo.length > 0 ? curVideo[0] : {};
@@ -550,7 +550,7 @@ function createEmbedControlBar(isHidden){
 }
 
 function makeControlButton(type = '', new_video_id = ''){
-    const curChannel = tvData.filter(s => s.channel_id == channel_id);
+    const curChannel = tvData.filter(s => s.id == channel_id);
     if(curChannel.length < 1){
         return;
     }

@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie11",
-    "channel_name": "Pokémon: Giratina e o cavaleiro do céu",
-    "channel_description": "Ash une-se ao Pokémon Mítico Shaymin para combater o poder de Giratina em Pokémon: Giratina e o cavaleiro do céu.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-en.jpg"
+    "id": "movie11",
+    "title": "Pokémon: Giratina e o cavaleiro do céu",
+    "description": "Ash une-se ao Pokémon Mítico Shaymin para combater o poder de Giratina em Pokémon: Giratina e o cavaleiro do céu.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/movie11/movie11-1660x940-en.jpg"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -11000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie11/movie11_ss02_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/gT/WDH8I0g0GC00DX6evkde4QaKssF88kkh72ZqHBbAk/m11_movie11_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uq/ChBcxoou-ER9eUL35ynRjPUccW_Ty_jF4v_o9ULwM/m11_movie11_bpo-51edfd2842823674ca754e440ff4660ff5af51aa.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

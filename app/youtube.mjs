@@ -3,6 +3,7 @@ import ytdl from '@distube/ytdl-core';
 
 const series = {
     s01: 'https://www.youtube.com/playlist?list=PLRcHmntfmJ8CnSmj4C284-a1euH518aQa',
+    s02: 'https://www.youtube.com/playlist?list=PLRcHmntfmJ8AtnKq7EHNIQBUNTs85bqwS',
 };
 
 const pl = await ytpl(series.s01);
@@ -26,11 +27,7 @@ for(const v of pl.items){
         large: `https://i.ytimg.com/vi/${vd.videoId}/maxresdefault.jpg`,
         medium: `https://i.ytimg.com/vi/${vd.videoId}/hqdefault.jpg`
     };
-    vj.poketv_url = '';
-    vj.stream_url = '';
     vj.embed_url = `https://www.youtube.com/embed/${vd.videoId}`;
-    vj.terabox_surl = '';
-    vj.captions = '';
     
     console.log('        ' + JSON.stringify(vj, null, '    ').replace(/\n/g, '\n        ') + ',');
     

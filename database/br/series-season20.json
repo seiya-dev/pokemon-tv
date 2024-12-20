@@ -1,14 +1,13 @@
 {
-    "channel_id": "season20",
-    "channel_name": "Pokémon, a série: Sol e Lua",
-    "channel_description": "",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season20/season20-1125x1500-br.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season20/season20-1660x940-en.png"
+    "id": "season20",
+    "title": "Pokémon, a série: Sol e Lua",
+    "description": "",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season20/season20-1125x1500-br.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-pt-br/img/watch-pokemon-tv/pokemon-tv-app/season20/season20-1660x940-en.png"
     },
     "category_id": 1.1,
-    "category": "Series",
-    "media_type": "episode",
+    "category": "series",
     "order": -20000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kz/zaCIGrwhWE2Hr39M-nTSMrcnvrXQhPjYpxCox-9SI/pokemon_season20_ep01_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Kz/zaCIGrwhWE2Hr39M-nTSMrcnvrXQhPjYpxCox-9SI/pokemon_season20_ep01_bpo-b3755356317f5ac0f01bb9f52772bc6189aad05c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2b81ad76f4f74ad8a939e4fcf2d42260",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OO/rQtW3VtJIpbmynIRMzGcmmFQCQzQp3vyXDiOS0o7k/pokemon_season20_ep02_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/OO/rQtW3VtJIpbmynIRMzGcmmFQCQzQp3vyXDiOS0o7k/pokemon_season20_ep02_bpo-4481272cc7a1a278c7f4aa39ba46e260021da788.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d7de59705bff4cc28f1eea8767d6d579",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lb/bObCleFHeSqFaFROI1uPZrDQg95A5ilozjsHiKXAY/pokemon_season20_ep03_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lb/bObCleFHeSqFaFROI1uPZrDQg95A5ilozjsHiKXAY/pokemon_season20_ep03_bpo-f18a6624a0ae03afb5c91c8a9a4e793545c3698a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "484539d0ef9b4758892ecf0d5b811e8a",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lF/vz2JLJ5UUHbiprmnYyWhX8aIPiwHY0tI_KQlGOF6o/pokemon_season20_ep04_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/lF/vz2JLJ5UUHbiprmnYyWhX8aIPiwHY0tI_KQlGOF6o/pokemon_season20_ep04_bpo-3cae0082b9d2668e56df4fd33ba9f01a7d30039e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "95b86a4147ea444e8fa58c2eb7a577d5",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/bxzce6J-B0s9jcr_YbDzHgLC8GQ7OtQFsE60oSxnA/pokemon_season20_ep05_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Sy/bxzce6J-B0s9jcr_YbDzHgLC8GQ7OtQFsE60oSxnA/pokemon_season20_ep05_bpo-a9b610bc7b0c35ac711bd87a945acdb59f64cbce.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4bff90c26ef94b059fbac18635b04c8d",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qu/p5dEvUbHxDORORs2peBmN9i2Ih0ZMF8ekQAq6_Gn8/pokemon_season20_ep06_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Qu/p5dEvUbHxDORORs2peBmN9i2Ih0ZMF8ekQAq6_Gn8/pokemon_season20_ep06_bpo-47eb67fdff3ec0076065b7d1567ed554a73ae6a6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "993f4534ceba42e7bccee20dd5363c7c",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ew/UUXWAM92E3CltW052FUw7H0xmX-i1JOCzC3i1N4DY/pokemon_season20_ep07_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ew/UUXWAM92E3CltW052FUw7H0xmX-i1JOCzC3i1N4DY/pokemon_season20_ep07_bpo-e5eeadee0b683d2f63c6eefd528601ee0c52a25b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "905b79d0bdcf4f8597a6d2fde81dde42",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep08_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JI/hsytPkZZ8v8JM59SDrKBZqqt3WY2q7uB8KbbC_nXQ/pokemon_season20_ep08_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/JI/hsytPkZZ8v8JM59SDrKBZqqt3WY2q7uB8KbbC_nXQ/pokemon_season20_ep08_bpo-7b84279d88d34f36d3a1ae4a2ecea1f66757e2c9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "8b1cdbb841fe42fe927a6f318b411e6d",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep09_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sa/yRBCuMTQ5pbZOIJY7nevanuPH58W6zNsa55nBZS8U/pokemon_season20_ep09_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sa/yRBCuMTQ5pbZOIJY7nevanuPH58W6zNsa55nBZS8U/pokemon_season20_ep09_bpo-91983ff8f0849055e14a3019e8eeff407876b37e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "af300beb50ee40379ac2bbc86ace35c0",
@@ -166,10 +147,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep10_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wg/eygQHbi67gNGpG72-hmfrYprwECokKS_Ycw8CJAAU/pokemon_season20_ep10_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Wg/eygQHbi67gNGpG72-hmfrYprwECokKS_Ycw8CJAAU/pokemon_season20_ep10_bpo-ccefe4c9b36d9f477ddd08ba9cc1ef126835f3e1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "69fa5a70015a4d3dba09b294da405846",
@@ -182,10 +161,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep11_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/meWCgYpSRzhzc8RDJ0mLalZNBpb0QKyeas4F0qTsc/pokemon_season20_ep11_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4B/meWCgYpSRzhzc8RDJ0mLalZNBpb0QKyeas4F0qTsc/pokemon_season20_ep11_bpo-1a60ad2d009bdec038d81889acafc45e69c3f25a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "5d602b0524734405bb5ea6ccfe971985",
@@ -198,10 +175,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep12_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yj/4GST_bz_CkqiwfZXA3LaZga7i1Oiqa1Toz_kpJllM/pokemon_season20_ep12_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Yj/4GST_bz_CkqiwfZXA3LaZga7i1Oiqa1Toz_kpJllM/pokemon_season20_ep12_bpo-d8da44874b9420862562c2ecbe8153ddc10596a3.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "186583faacf34225aa5d2e74a443f07c",
@@ -214,10 +189,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep13_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AB/Cj4jmQEUqBaqmBcglYjgaEPLCdhQ_koFBmY4VJtX4/pokemon_season20_ep13_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AB/Cj4jmQEUqBaqmBcglYjgaEPLCdhQ_koFBmY4VJtX4/pokemon_season20_ep13_bpo-a8dfd2d9e66f67be366b63fc5cffa6997151c7e0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d1beeb5842dd4942be2d526ef2bb3f97",
@@ -230,10 +203,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep14_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v8/wx45aP_kxqIG7NPaKM-tYgCaoPREo3yKnfFtRT6Co/pokemon_season20_ep14_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/v8/wx45aP_kxqIG7NPaKM-tYgCaoPREo3yKnfFtRT6Co/pokemon_season20_ep14_bpo-5fd50da5e7a69fe006633aff6e1dd938777c8a8e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "331a8074a1dd47d0a9e72b9b5d3d0c0f",
@@ -246,10 +217,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep15_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6K/G0cBP59IjkeInMizWkDWCrLd_T3YIi7kdYRFr5hMI/pokemon_season20_ep15_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/6K/G0cBP59IjkeInMizWkDWCrLd_T3YIi7kdYRFr5hMI/pokemon_season20_ep15_bpo-146b310fbca7b8ecc5b331fe88a25fef606e753c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "cc4f0cef55814b5b94d42b71e5186d1d",
@@ -262,10 +231,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep16_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bd/RYoMzLiWljY2V_ZvTVsoFJkBvD77loOQ6OejKGIeU/pokemon_season20_ep16_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Bd/RYoMzLiWljY2V_ZvTVsoFJkBvD77loOQ6OejKGIeU/pokemon_season20_ep16_bpo-d5ec901d870c0273649eaca152eeefe899612e51.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0bc0cc8be0774a608e9a0e4d02e7649e",
@@ -278,10 +245,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep17_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2N/tUN816TjCu3kYH3TXQm1TYmSwLWvfHKLIwWTEnOrI/pokemon_season20_ep17_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/2N/tUN816TjCu3kYH3TXQm1TYmSwLWvfHKLIwWTEnOrI/pokemon_season20_ep17_bpo-fb70e9c214f680c2de94cac773215291e009e365.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "2aa99268f6f64d4996251c512985cecf",
@@ -294,10 +259,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep18_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nd/lCZ4TYsUq_JPB2js05PZ9aRSMe87sj9bM0FUE0Suw/pokemon_season20_ep18_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nd/lCZ4TYsUq_JPB2js05PZ9aRSMe87sj9bM0FUE0Suw/pokemon_season20_ep18_bpo-28c604395aa0b17d2457a8253475890671d3fd0a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "5e45c7db010c496d99649beae6f37dcb",
@@ -310,10 +273,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep19_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tb/SvYNXqkdu661yXlQTOQSMTCxHic2heJeqbDgI2F7k/pokemon_season20_ep19_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Tb/SvYNXqkdu661yXlQTOQSMTCxHic2heJeqbDgI2F7k/pokemon_season20_ep19_bpo-684c3c7ca5274c1ba8884580719a6b182b211ed4.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "09947d57f38c41dc94116aa74be71e64",
@@ -326,10 +287,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep20_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AW/WhL3QAznDezqPNsIeF_134lwnXpkUKu9NDOzcFIfQ/pokemon_season20_ep20_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/AW/WhL3QAznDezqPNsIeF_134lwnXpkUKu9NDOzcFIfQ/pokemon_season20_ep20_bpo-a4327c3858a5bf30a9a3b007bacd99a2e35d9cb0.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "6d0bd617cfeb4f4e9e566e515996fdf4",
@@ -342,10 +301,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep21_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GJ/akXNZcHvc3aUh25yAie4SN3BER6mM4GY_uiA4k9IM/pokemon_season20_ep21_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GJ/akXNZcHvc3aUh25yAie4SN3BER6mM4GY_uiA4k9IM/pokemon_season20_ep21_bpo-0ea1af73ebe43559fd0857a49d33a5ea4e5a0124.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "609f48a59e5945c5ab997a0c69bce0b8",
@@ -358,10 +315,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep22_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UI/p4fI2YWGXFqYiZ0s52ya09B87WX3MJXI9eK3ybXdM/pokemon_season20_ep22_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UI/p4fI2YWGXFqYiZ0s52ya09B87WX3MJXI9eK3ybXdM/pokemon_season20_ep22_bpo-3a986539de8b06a875642ec06ec50b40137be419.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "977f3ce441ee4f6d9a955af7e2366bc2",
@@ -374,10 +329,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep23_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zw/tztJHV4tlXahmotlKCmLvRGYn6MVlGmDE6qvJSfNI/pokemon_season20_ep23_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Zw/tztJHV4tlXahmotlKCmLvRGYn6MVlGmDE6qvJSfNI/pokemon_season20_ep23_bpo-3480e9cfd8ad1cc3f4fb6835fe9403e22405b88f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "295f889d20e54205b0affe8994b6dd3c",
@@ -390,10 +343,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep24_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uk/bZndEMWDkTpOQNkDWYmpMTYuyjhZFL_CV5ZYTY2TM/pokemon_season20_ep24_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uk/bZndEMWDkTpOQNkDWYmpMTYuyjhZFL_CV5ZYTY2TM/pokemon_season20_ep24_bpo-b5a712c2c391fe0e81229898339c2463167f43be.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ec055af8e9c443aaa6b416f20014f8f7",
@@ -406,10 +357,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep25_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z9/aySu-6pq5hQKVeCE0RwwVZv9TiXKOwD4U3S_tAQzg/pokemon_season20_ep25_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Z9/aySu-6pq5hQKVeCE0RwwVZv9TiXKOwD4U3S_tAQzg/pokemon_season20_ep25_bpo-8cbce37b8fc1eb57306ba116789ac60af107eb10.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "fb8fc4640cff4f3a8f4a096e98a54fd9",
@@ -422,10 +371,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep26_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e2/sX4ZV4vIjDFqEsSe1tLPEx5U7a0fX8_qoYa9SH-7A/pokemon_season20_ep26_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/e2/sX4ZV4vIjDFqEsSe1tLPEx5U7a0fX8_qoYa9SH-7A/pokemon_season20_ep26_bpo-2019b2ab2ec8a890ed480e98df1e76c57e5c40b5.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4d3dbc8f539c49c59541ccd0cee44008",
@@ -438,10 +385,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep27_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uC/G5Tgn4NtbwisRbUimcpONXRFn2voSjNB07bDeBJrA/pokemon_season20_ep27_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uC/G5Tgn4NtbwisRbUimcpONXRFn2voSjNB07bDeBJrA/pokemon_season20_ep27_bpo-54cb78e5153b373eed74b9051a1a6e1be2ed440f.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "bcc945ef9b114b71abc2ddf623e33d6d",
@@ -454,10 +399,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep28_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M-/5Hz5tHpKXJIPteqEIjNGQ2iy-_CWf4GilOrgKRWxk/pokemon_season20_ep28_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/M-/5Hz5tHpKXJIPteqEIjNGQ2iy-_CWf4GilOrgKRWxk/pokemon_season20_ep28_bpo-cc71b79d679f4a09301c682f0544901111379633.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4cd499af2ad242f7b8deefa815c4341c",
@@ -470,10 +413,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep29_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MT/9laqzk4IRAoFBqTAp-o-bkJm_uy42IuwRLXOP7hHM/pokemon_season20_ep29_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/MT/9laqzk4IRAoFBqTAp-o-bkJm_uy42IuwRLXOP7hHM/pokemon_season20_ep29_bpo-f9426b1c1c3f00500d2390fcc9d8c2a1b88120fc.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "d9dc0abe509f4b40b5e22dca87dc5a28",
@@ -486,10 +427,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep30_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SG/ItTFQps3xcyh0gk_mm6Vx2vbZiu2nNAjtXE1ujqAc/pokemon_season20_ep30_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/SG/ItTFQps3xcyh0gk_mm6Vx2vbZiu2nNAjtXE1ujqAc/pokemon_season20_ep30_bpo-5a859c98f80cea95bc90eb52112dfd6489269a6d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0d403eccfb524828bdb2700f9950e8fc",
@@ -502,10 +441,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep31_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f3/x5UhgWdsHTimIIqTnLvW0IRm2GJvJjpviAfqWhZDg/pokemon_season20_ep31_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/f3/x5UhgWdsHTimIIqTnLvW0IRm2GJvJjpviAfqWhZDg/pokemon_season20_ep31_bpo-017208799e393b558b2d9f62b0132399fb1f5763.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "80781e84ae4d4d49882e550efb9900d4",
@@ -518,10 +455,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep32_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DF/5-gR1Gdtt7P7l9RxOz_uMMklp_-BONVLuIdsDKFQU/pokemon_season20_ep32_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/DF/5-gR1Gdtt7P7l9RxOz_uMMklp_-BONVLuIdsDKFQU/pokemon_season20_ep32_bpo-2aa26a3dede6f69e83a7d183dcef7d12199c4c4d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "0b9dce2a17d64331a6d5db9c4842801c",
@@ -534,10 +469,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep33_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_F/moRvvgsTFO4aFyVLrXJUEDPtSaNK78WssnBzo7ZI4/pokemon_season20_ep33_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/_F/moRvvgsTFO4aFyVLrXJUEDPtSaNK78WssnBzo7ZI4/pokemon_season20_ep33_bpo-90f8613f2432351bd4e91088b6962def5fd7e77a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "b9a00011c6e943af83e1cfd3160880d5",
@@ -550,10 +483,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep34_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aj/9MUkZk7SZ5JXacl8Ry8MckIrofaL0U6gWoFbL9UwU/pokemon_season20_ep34_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/aj/9MUkZk7SZ5JXacl8Ry8MckIrofaL0U6gWoFbL9UwU/pokemon_season20_ep34_bpo-a3b11c09edab0b6f9214254605bbeb88ef94e41d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "045fbc1f25fd44a5834b5d785208bb3d",
@@ -566,10 +497,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep35_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sO/1sNmwY85V_E3WeqSsJoVjv5k7N-s6AM2lPaK2cYkM/pokemon_season20_ep35_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sO/1sNmwY85V_E3WeqSsJoVjv5k7N-s6AM2lPaK2cYkM/pokemon_season20_ep35_bpo-49051d5276a6b237c566fbdea5cf3f50bf02428d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "fc84caa42c53439fb320c23d3aab8ec0",
@@ -582,10 +511,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep36_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fg/r4kd-hktqyBSkLW9EnprGT-oTrVysCuJZ4wUw4kZw/pokemon_season20_ep36_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/fg/r4kd-hktqyBSkLW9EnprGT-oTrVysCuJZ4wUw4kZw/pokemon_season20_ep36_bpo-f4105e0e184494c214b7af8e871f69bf7ccfffb1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "620e744d9ea8456a95487d5295f8bf86",
@@ -598,10 +525,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep37_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7k/oxs485QtLygshlayrce04ldShV_VG1Bvyce_y3hAU/pokemon_season20_ep37_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7k/oxs485QtLygshlayrce04ldShV_VG1Bvyce_y3hAU/pokemon_season20_ep37_bpo-63e26d05d4cb8c9a17764d7548bf8464d8e12017.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "4542172d57524cf89972eac3b2f994e8",
@@ -614,10 +539,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep38_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UT/AXzRtt-YQHU25T8_RH8cjOz-DOVobTDMMdv9fQNpw/pokemon_season20_ep38_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/UT/AXzRtt-YQHU25T8_RH8cjOz-DOVobTDMMdv9fQNpw/pokemon_season20_ep38_bpo-23167bc685f84624271dbcaff13170d1132c01a9.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ef3689f88ae9482bb000060a4d4dd49d",
@@ -630,10 +553,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep39_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vU/dDQaOxPOyEDB3pU3WkObLcxJUPteiRSLxT1VAf3Vs/pokemon_season20_ep39_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vU/dDQaOxPOyEDB3pU3WkObLcxJUPteiRSLxT1VAf3Vs/pokemon_season20_ep39_bpo-40648840c4969f69383db4e7d21f761d5bc58334.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "ede0fa6d972b481785ebc99ad1ed03e0",
@@ -646,10 +567,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep40_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uO/ipiIsoCe2nyCYid8j7yRpHvj-0EiDFBsBgXhsa0PQ/pokemon_season20_ep40_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uO/ipiIsoCe2nyCYid8j7yRpHvj-0EiDFBsBgXhsa0PQ/pokemon_season20_ep40_bpo-232fb7c5c26c1729dde3885a4596b5ba0ee61d4e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "75c8aa42f4634f64baa4ca51f31dbaec",
@@ -662,10 +581,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep41_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J6/xUM5U6rmHUin9kj8Is3MWNkDNv-V9ZslML7s345eE/pokemon_season20_ep41_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J6/xUM5U6rmHUin9kj8Is3MWNkDNv-V9ZslML7s345eE/pokemon_season20_ep41_bpo-afbd8663e42d975de517f99c30bc3939e9d05f8a.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "174eec6a2f8a4c52918e091ba1ee48cd",
@@ -678,10 +595,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep42_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nV/Gq6WWA6s8Em7oXGN08UyQ2XybfU_YCgYcF3tqDM1g/pokemon_season20_ep42_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nV/Gq6WWA6s8Em7oXGN08UyQ2XybfU_YCgYcF3tqDM1g/pokemon_season20_ep42_bpo-4c3652afe46004abc84ae46a3f11f43b978621f1.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         },
         {
             "id": "f1ac3c32f76b454da3a008a556bf052a",
@@ -694,10 +609,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season20/season20_ep43_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xt/jjs2AGn0lq1APOymqlmnJxmSeazFrRKCtuPmDAOvE/pokemon_season20_ep43_bpo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Xt/jjs2AGn0lq1APOymqlmnJxmSeazFrRKCtuPmDAOvE/pokemon_season20_ep43_bpo-d78ebd451a1675e61da123b9e8cc8cf6674f8d88.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

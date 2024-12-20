@@ -1,14 +1,13 @@
 {
-    "channel_id": "failures-of-ash",
-    "channel_name": "The Many Failures of Ash Ketchum",
-    "channel_description": "Watch Ash attempt (and fail) to become a Champion on Pokémon TV!",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/failures-of-ash/1125x1500-en.jpg",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/failures-of-ash/2048x1152.jpg"
+    "id": "failures-of-ash",
+    "title": "The Many Failures of Ash Ketchum",
+    "description": "Watch Ash attempt (and fail) to become a Champion on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/failures-of-ash/1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/failures-of-ash/2048x1152.jpg"
     },
     "category_id": 2,
-    "category": "Stuns",
-    "media_type": "episode",
+    "category": "stuns",
     "order": -1572624229,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep25_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CX/ISENdVq9QrucWajjppP2yImfHHkIVyo-ps7ONXFT0/0226---friend-and-foe-alike.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hA/MwHi7-rC8SgO_pUIvsUEGUG3hwipO_Aj3qC88XLgc/0226---friend-and-foe-alike-194cefadc454c0b443fcee0dc22f82dfaed1fa11.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/hA/MwHi7-rC8SgO_pUIvsUEGUG3hwipO_Aj3qC88XLgc/vtt/5/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "f1af730f2e2444519fcfd3bf33404c3e",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Dq/F7cct4wcsWufWZaAvx6zXGAxischQnXbQVoz1DbHs/0609---playing-with-fire.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bP/3Owptt1riRDGlFBSC37TXVJke3G0jNXjFVjynetoM/0609---playing-with-fire-2a8296db8a3a4df763a37a7889b0620a08818b6e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/bP/3Owptt1riRDGlFBSC37TXVJke3G0jNXjFVjynetoM/vtt/2/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "34bf284b2e914cb390912083b11c3d2a",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/J3/VXQzMvhfMFCQm9UjTlKlsyKsCsG-2WwRNWeSlLf5w/0610---johto-photo-finish.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GS/gsCu2iWG5uvOZWizEk53QRssd9aFPrLFhWZiO72zI/0610---johto-photo-finish-f769ef794bcffdede2407295e6882814d993380b.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/GS/gsCu2iWG5uvOZWizEk53QRssd9aFPrLFhWZiO72zI/vtt/2/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "e8ed81b89cc54ff2a06ed407cbc07fbd",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/PZ/yz_lJ1R8wjCJo3SMubo_na2E9Ya7YC407VSNCrEZ0/0838---at-the-end-of-the-fray.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lf/jLkK-gvrDY30cb3WPssBwjgt7Kytqs3cnKdC4RCOU/0838---at-the-end-of-the-fray-ba7ec773c4e4d0ed24b66fe16519b1cbfda4ee6e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Lf/jLkK-gvrDY30cb3WPssBwjgt7Kytqs3cnKdC4RCOU/vtt/2/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "aec077c222884cc78caa1dc885b4f5ca",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep32_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/nS/RdTNA8OnLQOJEFT2KlxsrwynJr7_s83Cvozn_rK9E/1332---the-semi-final-frontier.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CY/Ycf-ma_pvmchPN8N1PHgX4H3dIsWpVOuGBAD29_EQ/1332---the-semi-final-frontier-b20f15f6c49a9b28d5bcf3eeeea49565b05b1335.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CY/Ycf-ma_pvmchPN8N1PHgX4H3dIsWpVOuGBAD29_EQ/vtt/1/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "8b0fa0dc87764112be9d8a83e4947ef0",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep10_360_206.jpg"
             },
             "poketv_url": "*",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sc/8dHv3810OjiLv2ssGbkWSWEzkntgikqGS97FxKbH4/1610---camerons-secret-weapon-ec1db4ef059a3a21baa5f94249a212f14df4a521.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sc/8dHv3810OjiLv2ssGbkWSWEzkntgikqGS97FxKbH4/vtt/2/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "feb46f5cd2ff44829d4477b885d101f1",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season16/season16_ep11_360_206.jpg"
             },
             "poketv_url": "*",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qF/cqYCkX5240JdfZtkP58q_ENLkjF6eTpNzQulHEg70/1611---a-unova-league-evolution-17fc84e8802b61b7c2b58f188f2604376768647d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/qF/cqYCkX5240JdfZtkP58q_ENLkjF6eTpNzQulHEg70/vtt/2/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "122466afcc10476498b9736dc7a88c33",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep37_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4G/Rw2o-_QWTl5UvPts5va20zzfEzPNLN5ftW7USliMs/1937_pokemon_xyz_finals-not-for-the-faint-hearted.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pS/KTg0q26-wPQkJ9gQxQm6i4VyCUFVwSIjev5h_CZrg/1937_pokemon_xyz_finals-not-for-the-faint-hearted-7526616bb9d9cedeff5957b3a8fb37d72c9354f6.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/pS/KTg0q26-wPQkJ9gQxQm6i4VyCUFVwSIjev5h_CZrg/vtt/1/en.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "477fe31b7c18438e9cea393284c4a857",
@@ -150,10 +133,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season19/season19_ep38_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7D/Xw5XrpdjyIMLGTrFf6vDBpPGDuDlNGk9wEe61my5I/1938_pokemon_xyz_down-to-the-fiery-finish.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7D/Xw5XrpdjyIMLGTrFf6vDBpPGDuDlNGk9wEe61my5I/1938_pokemon_xyz_down-to-the-fiery-finish-b08cedafe7ee5223d9ba1763a9d122d96f40c307.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/7D/Xw5XrpdjyIMLGTrFf6vDBpPGDuDlNGk9wEe61my5I/vtt/1/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

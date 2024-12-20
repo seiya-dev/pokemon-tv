@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie20",
-    "channel_name": "Pokémon the Movie: I Choose You!",
-    "channel_description": "Ash and Pikachu’s journey is just beginning as they search for the Legendary Ho-Oh.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-en.png"
+    "id": "movie20",
+    "title": "Pokémon the Movie: I Choose You!",
+    "description": "Ash and Pikachu’s journey is just beginning as they search for the Legendary Ho-Oh.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/movie20/movie20-1660x940-en.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -20000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie20/movie20_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/5yv-JTftL-IFjgbkvIhWOtvzHBBc2TPA4zeibxtbk/pk_m20_i-choose-you_hd1080_2398_2ch_en.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/5yv-JTftL-IFjgbkvIhWOtvzHBBc2TPA4zeibxtbk/pk_m20_i-choose-you_hd1080_2398_2ch_en-9058bf92cf813b8d84e7fb16bfbae9130fc1872d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/oI/5yv-JTftL-IFjgbkvIhWOtvzHBBc2TPA4zeibxtbk/vtt/1/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

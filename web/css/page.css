@@ -16,6 +16,10 @@
     padding-bottom: 30px;
 }
 
+#catTitle:first-letter {
+    text-transform: uppercase;
+}
+
 .channel-tile {
     padding-left: 7.5px;
     padding-right: 7.5px;

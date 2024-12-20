@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie02",
-    "channel_name": "El poder de uno",
-    "channel_description": "Ash y Pikachu deben restablecer el equilibrio cuando un coleccionista intenta despertar al Pokémon Legendario Lugia en la película Pokémon El poder de uno, disponible en TV Pokémon.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1125x1500-latam.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1660x940-es.png"
+    "id": "movie02",
+    "title": "El poder de uno",
+    "description": "Ash y Pikachu deben restablecer el equilibrio cuando un coleccionista intenta despertar al Pokémon Legendario Lugia en la película Pokémon El poder de uno, disponible en TV Pokémon.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1125x1500-latam.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/movie02/movie02-1660x940-es.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -2000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie02/movie02_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CT/cH97P-awh7yzG6MZTy4i1SZKzyCHL_FJzjnhc3zvc/pok_m_m02_2398-master-las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CT/cH97P-awh7yzG6MZTy4i1SZKzyCHL_FJzjnhc3zvc/pok_m_m02_2398-master-las-7834b253b6a3d192e9c00528f566d4887386304d.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }

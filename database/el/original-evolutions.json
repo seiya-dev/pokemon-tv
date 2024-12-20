@@ -1,14 +1,13 @@
 {
-    "channel_id": "evolutions",
-    "channel_name": "Evoluciones Pokémon",
-    "channel_description": "Ve esta miniserie para descubrir una nueva e interesante perspectiva de las personas y Pokémon que habitan las muchas regiones del mundo Pokémon.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1125x1500-es.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1660x940-es.png"
+    "id": "evolutions",
+    "title": "Evoluciones Pokémon",
+    "description": "Ve esta miniserie para descubrir una nueva e interesante perspectiva de las personas y Pokémon que habitan las muchas regiones del mundo Pokémon.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1125x1500-es.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-es-xl/img/watch-pokemon-tv/pokemon-tv-app/evolutions/evolutions-1660x940-es.png"
     },
     "category_id": 4,
-    "category": "Specials",
-    "media_type": "original",
+    "category": "specials",
     "order": -1631197936,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZP/fWIG1GkzRSUoVBAZENQ99qg9wyxTZFCiAWvbkXezE/pokemonevolutions_season01_ep01_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TO/C1UANrcoEeWqc_JEY_djDF9CUGjweFvL-w1Y8GNgA/pokemonevolutions_season01_ep01_las-8f4c31165845d28112c542df9a795521074404de.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/TO/C1UANrcoEeWqc_JEY_djDF9CUGjweFvL-w1Y8GNgA/vtt/2/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "1e2da713297d49609ee17b03107e2b61",
@@ -38,10 +35,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep02_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V6/hmpYphs8D8ulXzXQ-ICyp8BkKSbo0F8S86jZAhSuI/pokemonevolutions_season01_ep02_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8t/2ycl2D-UEBBZo5lNfNvLMIt14wvGEjuR95PnsLmQQ/pokemonevolutions_season01_ep02_las-075f5a4dbaf718ac048f0186140659ec03b101ce.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8t/2ycl2D-UEBBZo5lNfNvLMIt14wvGEjuR95PnsLmQQ/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "a560a7d2b20f4838a93f186bd4daf3d2",
@@ -54,10 +49,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep03_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/l-/XswPBtInzAcSEZPN0dFMZSU3VbELpYIa9TL_dGsws/pokemonevolutions_season01_ep03_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CS/WhPdtwtbcM7AcPDa2wAEeNlEio2yXcuBvrRz2T_rc/pokemonevolutions_season01_ep03_las-6991996ce3cc1e84273d839582f5558b9f18022c.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/CS/WhPdtwtbcM7AcPDa2wAEeNlEio2yXcuBvrRz2T_rc/vtt/2/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "a70b6811de5c44ff85e9ea30ee0604f2",
@@ -70,10 +63,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep04_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Gg/px4avJ0SzvBKNNwA8rR_SzxtXO38x1vv4vESfK43w/pokemonevolutions_season01_ep04_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ib/dnZ9Spd_3CrnSVYlzQg_t8fpLBuOhAgCF3f_2sD4s/pokemonevolutions_season01_ep04_las-0700b155a19a80830d52e8a39d36cd86f156cfbf.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ib/dnZ9Spd_3CrnSVYlzQg_t8fpLBuOhAgCF3f_2sD4s/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "19886ab2d9254033910c9dba5ea1ac19",
@@ -86,10 +77,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep05_ss01_360_206.png"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0E/eVK7y7ANDsb7yUZtWESoP_KSWFjVI1U3JJN0O4ycg/pokemonevolutions_season01_ep05_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zM/Xj68ACPOPZKNzTWDLAwbnph1MJ9ZmG5G7WsyytnFM/pokemonevolutions_season01_ep05_las-9558ee39cd3cab1856578d27b559c48a983ee123.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/zM/Xj68ACPOPZKNzTWDLAwbnph1MJ9ZmG5G7WsyytnFM/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "6e9dcfcacc054e619df40d72075c2e26",
@@ -102,10 +91,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/V7/CeNfTu9afVLoP70RNKCNhs3VfVhZ6tfvTbs6aGqGk/pokemonevolutions_season01_ep06_las.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QF/b7HPu-6LNMiMjKhfSQa0ebHZ6e3LtpgImMUHqzhYM/pokemonevolutions_season01_ep06_las-e50f4c9745048d3408b1d5d5c06bc0fd5416537e.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QF/b7HPu-6LNMiMjKhfSQa0ebHZ6e3LtpgImMUHqzhYM/vtt/2/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "6b0218b25465454f8bf72f1a3bc9da5b",
@@ -118,10 +105,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/vA/N4FTlWrv9OB1LHrCvd37MYC-LgKJCgtF8SgbgBFX0/pokemonevolutions_season01_ep07_las_rep.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/FU1ZCjz3ybBPISZvlZSeN_AavlviEeH_7CGKkklG8/pokemonevolutions_season01_ep07_las_rep-d6d650d80708372a98979140dc8cc6151f394796.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/WK/FU1ZCjz3ybBPISZvlZSeN_AavlviEeH_7CGKkklG8/vtt/1/es.vtt"
+            "terabox_surl": ""
         },
         {
             "id": "518982f09c284f48913e25f993fd6777",
@@ -134,10 +119,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/evolutions/evolutions_ep08_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/4o/MY2JB2ZrI40u-ABJ0l8ziznFF-CvPg6x-IsFnEehw/pokemonevolutions_season01_ep08_las_rep.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BE/AvJL_YcSpsFkWu4l24hmFmgR7cKSf303e67vtXJuk/pokemonevolutions_season01_ep08_las_rep-c0eab9e13430dbcc8bc46230f0d88ae81e1ccd84.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/BE/AvJL_YcSpsFkWu4l24hmFmgR7cKSf303e67vtXJuk/vtt/1/es.vtt"
+            "terabox_surl": ""
         }
     ]
 }

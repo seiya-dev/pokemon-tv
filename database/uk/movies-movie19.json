@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie19",
-    "channel_name": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
-    "channel_description": "Bond with Ash and Volcanion as they team up to rescue Magearna in Pokémon the Movie: Volcanion and the Mechanical Marvel.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie19/movie19-1125x1500-en.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie19/movie19-1660x940-en.png"
+    "id": "movie19",
+    "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+    "description": "Bond with Ash and Volcanion as they team up to rescue Magearna in Pokémon the Movie: Volcanion and the Mechanical Marvel.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie19/movie19-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-en-uk/img/watch-pokemon-tv/pokemon-tv-app/movie19/movie19-1660x940-en.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -19000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie19/movie19_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QB/NYtahmC9fK1OJPyjqiuCbE5hcMKBFwIl7bcPAW6Oc/pk-movie-19_volcanion-and-the-mechanical-marvel_hd1280x720_stereo.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QB/NYtahmC9fK1OJPyjqiuCbE5hcMKBFwIl7bcPAW6Oc/pk-movie-19_volcanion-and-the-mechanical-marvel_hd1280x720_stereo-5d70298a6d18e596f148ca6cf6e16c0cf9b0acbd.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/QB/NYtahmC9fK1OJPyjqiuCbE5hcMKBFwIl7bcPAW6Oc/vtt/1/en.vtt"
+            "terabox_surl": ""
         }
     ]
 }

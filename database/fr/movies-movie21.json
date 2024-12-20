@@ -1,14 +1,13 @@
 {
-    "channel_id": "movie21",
-    "channel_name": "Pokémon, le film : Le pouvoir est en nous",
-    "channel_description": "Sacha affronte Zeraora et rassemble toute une ville face au danger dans Pokémon, le film : Le pouvoir est en nous.",
-    "channel_images": {
-        "dashboard_image_1125_1500": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1125x1500-fr.png",
-        "spotlight_image_1660_940": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1660x940-fr.png"
+    "id": "movie21",
+    "title": "Pokémon, le film : Le pouvoir est en nous",
+    "description": "Sacha affronte Zeraora et rassemble toute une ville face au danger dans Pokémon, le film : Le pouvoir est en nous.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1125x1500-fr.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2-fr-fr/img/watch-pokemon-tv/pokemon-tv-app/movie21/movie21-1660x940-fr.png"
     },
     "category_id": 3,
-    "category": "Movies",
-    "media_type": "movie",
+    "category": "movies",
     "order": -21000,
     "media": [
         {
@@ -22,10 +21,8 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/movies/movie21/movie_21_ss01_360_206.jpg"
             },
             "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/cN/ILGqcIT0ajaFWSS-q9HzOAlH7fFg9iYU8Az1durzs/pokemon_movie21_fre.mp4",
-            "stream_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/re/GeaBxhvUryGTwQwhMBoAsWVywOnXYwjGX973Xv80s/pokemon_movie21_fre-788d22dc3936aa24625a79b4d0753107430fad23.m3u8",
             "embed_url": "",
-            "terabox_surl": "",
-            "captions": ""
+            "terabox_surl": ""
         }
     ]
 }
