@@ -4,6 +4,7 @@ import ytdl from '@distube/ytdl-core';
 const series = {
     s01: 'https://www.youtube.com/playlist?list=PLRcHmntfmJ8CnSmj4C284-a1euH518aQa',
     s02: 'https://www.youtube.com/playlist?list=PLRcHmntfmJ8AtnKq7EHNIQBUNTs85bqwS',
+    s03: 'https://www.youtube.com/playlist?list=PLRcHmntfmJ8DB8wgMrUZwf3JGkLM17yeL',
 };
 
 const pl = await ytpl(series.s02);
@@ -12,9 +13,12 @@ for(const v of pl.items){
     const vj = {};
     const vd = (await ytdl.getBasicInfo(v.id)).player_response.videoDetails;
     
-    // console.log(vd);
-    
     vd.title = vd.title.replace(' l ', ' | ');
+    
+    if(!vd.title.match(/FULL EPISODE/i)){
+        continue;
+    }
+    
     const snnum = vd.title.split('|')[2].match(/\d+/)[0];
     const epnum = vd.title.split('|')[1].match(/\d+/)[0];
     
