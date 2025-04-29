@@ -30,7 +30,7 @@ const tv_regions = {
     'es': { name: 'España',         ip: '2.152.0.1',    },
     'el': { name: 'América Latina', ip: '8.14.224.1',   },
     'br': { name: 'Brasil',         ip: '179.93.224.1', },
-    // 'ru': { name: 'Россия',         ip: '5.104.32.1',   },
+    'ru': { name: 'Россия',         ip: '5.104.32.1',   },
     'dk': { name: 'Danmark',        ip: '2.128.0.1',    },
     'nl': { name: 'Nederland',      ip: '24.132.0.1',   },
     'fi': { name: 'Suomi',          ip: '37.130.160.1', },
@@ -40,19 +40,23 @@ const tv_regions = {
 };
 
 const regionList = Object.keys(tv_regions);
-app.get('/:region(' + regionList.join('|') + ')?/:type(channel|video)?', (req, res) => {
-    // check if region yt
-    if(!req.params.region){
-        req.params.region = 'yt';
+const regionListStr = regionList.join('|');
+const urlMain = new RegExp(`^\\/((?<region>${regionListStr})\\/)?((?<type>|channel|video)(\\?(.*))?)?$`);
+const urlData = new RegExp(`^\\/data\\/(?<region>${regionListStr})\\.js(\\?(.*))?$`);
+
+app.get(urlMain, (req, res) => {
+    const reqParams = req.url.match(urlMain);
+    if(!reqParams.groups.region){
+        reqParams.groups.region = 'yt';
     }
     // set template
     let templatePage = fs.readFileSync(path.join(watchDir, 'template.html'), 'utf8');
-    templatePage = templatePage.replace('<!-- put_tv_region -->', `<script>const tvRegion = '${req.params.region}';</script>`);
-    templatePage = templatePage.replace('<!-- put_tv_data -->', `<script src="/data/${req.params.region}.js"></script>`);
+    templatePage = templatePage.replace('<!-- put_tv_region -->', `<script>const tvRegion = '${reqParams.groups.region}';</script>`);
+    templatePage = templatePage.replace('<!-- put_tv_data -->', `<script src="/data/${reqParams.groups.region}.js"></script>`);
     // set regions selector
     const region_otions = [];
     for(const r_cc of regionList){
-        const r_selected = r_cc == req.params.region ? ' selected' : '';
+        const r_selected = r_cc == reqParams.groups.region ? ' selected' : '';
         region_otions.push(`<option value="${r_cc}"${r_selected}>${tv_regions[r_cc].name}</option>`);
     }
     templatePage = templatePage.replace('<!-- put_regions -->', region_otions.join('\n' + ' '.repeat(20)));
@@ -60,10 +64,13 @@ app.get('/:region(' + regionList.join('|') + ')?/:type(channel|video)?', (req, r
     res.setHeader('Content-Type', 'text/html; charset=utf-8');
     res.end(templatePage);
 });
-
-// get tvdata js
-app.get('/data/:region(' + regionList.join('|') + ').js', (req, res) => {
-    const tvChannelData = fs.readFileSync(path.join(watchDir, 'data', req.params.region + '.json'), 'utf8');
+app.get(urlData, (req, res) => {
+    const reqParams = req.url.match(urlData);
+    const pathData = path.join(watchDir, 'data', reqParams.groups.region + '.json');
+    let tvChannelData = '[]';
+    if(fs.existsSync(pathData)){
+        tvChannelData = fs.readFileSync(pathData, 'utf8');
+    }
     res.setHeader('Content-Type', 'text/javascript; charset=utf-8');
     res.end('const tvData = ' + tvChannelData.trim() + ';');
 });
