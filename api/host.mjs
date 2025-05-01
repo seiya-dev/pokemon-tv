@@ -30,7 +30,7 @@ const tv_regions = {
     'es': { name: 'España',         ip: '2.152.0.1',    },
     'el': { name: 'América Latina', ip: '8.14.224.1',   },
     'br': { name: 'Brasil',         ip: '179.93.224.1', },
-    'ru': { name: 'Россия',         ip: '5.104.32.1',   },
+    //'ru': { name: 'Россия',         ip: '5.104.32.1',   },
     'dk': { name: 'Danmark',        ip: '2.128.0.1',    },
     'nl': { name: 'Nederland',      ip: '24.132.0.1',   },
     'fi': { name: 'Suomi',          ip: '37.130.160.1', },
