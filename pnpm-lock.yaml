@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@distube/ytdl-core':
-        specifier: ^4.16.9
-        version: 4.16.9
+        specifier: ^4.16.10
+        version: 4.16.10
       '@distube/ytpl':
         specifier: ^1.2.1
         version: 1.2.1
@@ -26,8 +26,8 @@ importers:
 
 packages:
 
-  '@distube/ytdl-core@4.16.9':
-    resolution: {integrity: sha512-eRYM3lDR1/1ZB+k6jzIdR+8m9VsYEqjz9+DstX1S/aW1f2rlbj22WCdrRbE+sE3DJW8DLJEp69akfjWqQ+nKIw==}
+  '@distube/ytdl-core@4.16.10':
+    resolution: {integrity: sha512-KFKZtNlynOO0PYxelUF5h2bKyAU1d8fe6aZmo+gxWt7H2MQbd0bUeyV4y9iWhI57nukjkSXXQGB625CfhrVdGQ==}
     engines: {node: '>=20.18.1'}
 
   '@distube/ytpl@1.2.1':
@@ -502,7 +502,7 @@ packages:
 
 snapshots:
 
-  '@distube/ytdl-core@4.16.9':
+  '@distube/ytdl-core@4.16.10':
     dependencies:
       http-cookie-agent: 7.0.1(tough-cookie@5.1.2)(undici@7.8.0)
       https-proxy-agent: 7.0.6
