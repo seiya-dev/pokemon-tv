@@ -12,8 +12,8 @@ importers:
         specifier: ^4.16.10
         version: 4.16.10
       '@distube/ytpl':
-        specifier: ^1.2.1
-        version: 1.2.1
+        specifier: github:seiya-git/ytpl#patch-2
+        version: https://codeload.github.com/seiya-git/ytpl/tar.gz/76071575d1b735feeaeaa11aa4d66d0086cccf47
       express:
         specifier: ^5.1.0
         version: 5.1.0
@@ -27,8 +27,9 @@ packages:
     resolution: {integrity: sha512-KFKZtNlynOO0PYxelUF5h2bKyAU1d8fe6aZmo+gxWt7H2MQbd0bUeyV4y9iWhI57nukjkSXXQGB625CfhrVdGQ==}
     engines: {node: '>=20.18.1'}
 
-  '@distube/ytpl@1.2.1':
-    resolution: {integrity: sha512-cp9nDYyGTZ2DNHURQXS76ptKWijLMspoxJEj03i++9tJf0LFGTWkskL3sLwcY4qQPLXjlH9FAXwwpjVttdXvZQ==}
+  '@distube/ytpl@https://codeload.github.com/seiya-git/ytpl/tar.gz/76071575d1b735feeaeaa11aa4d66d0086cccf47':
+    resolution: {tarball: https://codeload.github.com/seiya-git/ytpl/tar.gz/76071575d1b735feeaeaa11aa4d66d0086cccf47}
+    version: 1.2.1
     engines: {node: '>=8'}
 
   '@fastify/busboy@2.1.1':
@@ -417,7 +418,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@distube/ytpl@1.2.1':
+  '@distube/ytpl@https://codeload.github.com/seiya-git/ytpl/tar.gz/76071575d1b735feeaeaa11aa4d66d0086cccf47':
     dependencies:
       undici: 5.29.0
 

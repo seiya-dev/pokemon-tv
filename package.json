@@ -1,11 +1,12 @@
 {
     "name": "pokemon-tv",
     "programName": "pokemon-tv",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "description": "",
     "main": "./api/host.mjs",
     "type": "module",
     "scripts": {
+        "ytget": "node ./app/youtube.mjs",
         "start": "pnpm install && pnpm run build && pnpm run host",
         "build": "node ./app/build.mjs",
         "host": "node ./api/host.mjs",
@@ -19,7 +20,7 @@
     "license": "MIT",
     "dependencies": {
         "@distube/ytdl-core": "^4.16.10",
-        "@distube/ytpl": "^1.2.1",
+        "@distube/ytpl": "github:seiya-git/ytpl#patch-2",
         "express": "^5.1.0",
         "yargs": "^17.7.2"
     }

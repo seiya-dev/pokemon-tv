@@ -8,7 +8,7 @@ const jsonLoad = (file) => {
     return JSON.parse(fs.readFileSync(file));
 };
 function saveJson(path, data, min){
-    const jsonStr = JSON.stringify(data, null, (min? '' : '    ')).replace(/\r/g, '') + '\n';
+    const jsonStr = JSON.stringify(data, null, (min? '' : 4)).replace(/\r/g, '') + '\n';
     fs.writeFileSync(path, jsonStr);
 }
 
