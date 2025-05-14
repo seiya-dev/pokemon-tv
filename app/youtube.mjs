@@ -28,7 +28,7 @@ const pl = await ytpl(playLists[selected], {limit: Infinity});
 
 const tvDump = {};
 tvDump.id = selected;
-tvDump.title = pl.title;
+tvDump.title = pl.title.replace(/\(Season \d+\)$/i, '').trim();
 tvDump.description = pl.description || '';
 tvDump.images = { 
     dashboard: dashborders[selected],
@@ -47,6 +47,7 @@ for(const v of pl.items){
     vd.title = vd.title.replace(' l ', ' | ');
     
     if(!vd.title.match(/FULL EPISODE/i)){
+        console.log('Video Skipped:', vd.title);
         continue;
     }
     
