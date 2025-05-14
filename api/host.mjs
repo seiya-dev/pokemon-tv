@@ -2,9 +2,7 @@
 import os from 'os';
 import fs from 'fs';
 import path from 'path';
-import crypto from 'crypto';
 import express from 'express';
-import got from 'got';
 
 // dirname
 import { fileURLToPath } from 'url';
