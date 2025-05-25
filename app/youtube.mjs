@@ -1,5 +1,5 @@
-import ytpl from '@distube/ytpl';
 import ytdl from '@distube/ytdl-core';
+import ytpl from '@distube/ytpl';
 import fs from 'node:fs';
 import path from 'path';
 
