@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@distube/ytdl-core':
-        specifier: ^4.16.10
-        version: 4.16.10
+        specifier: ^4.16.12
+        version: 4.16.12
       '@distube/ytpl':
         specifier: ^1.2.2
         version: 1.2.2
@@ -23,8 +23,8 @@ importers:
 
 packages:
 
-  '@distube/ytdl-core@4.16.10':
-    resolution: {integrity: sha512-KFKZtNlynOO0PYxelUF5h2bKyAU1d8fe6aZmo+gxWt7H2MQbd0bUeyV4y9iWhI57nukjkSXXQGB625CfhrVdGQ==}
+  '@distube/ytdl-core@4.16.12':
+    resolution: {integrity: sha512-/NR8Jur1Q4E2oD+DJta7uwWu7SkqdEkhwERt7f4iune70zg7ZlLLTOHs1+jgg3uD2jQjpdk7RGC16FqstG4RsA==}
     engines: {node: '>=20.18.1'}
 
   '@distube/ytpl@1.2.2':
@@ -96,6 +96,15 @@ packages:
 
   debug@4.4.0:
     resolution: {integrity: sha512-6WTZ/IxCY/T6BALoZHaE4ctp9xm+Z5kY/pzYaCHRFeyVhojxlrm+46y68HA6hr0TcwEssoxNiDEUJQjfPZ/RYA==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+
+  debug@4.4.1:
+    resolution: {integrity: sha512-KcKCqiftBJcZr++7ykoDIEwSa3XWowTfNPo92BYxjXiyYEVrUQh2aLyhxBCwww+heortUFxEJYcRzosstTEBYQ==}
     engines: {node: '>=6.0'}
     peerDependencies:
       supports-color: '*'
@@ -372,8 +381,8 @@ packages:
     resolution: {integrity: sha512-raqeBD6NQK4SkWhQzeYKd1KmIG6dllBOTt55Rmkt4HtI9mwdWtJljnrXjAFUBLTSN67HWrOIZ3EPF4kjUw80Bg==}
     engines: {node: '>=14.0'}
 
-  undici@7.8.0:
-    resolution: {integrity: sha512-vFv1GA99b7eKO1HG/4RPu2Is3FBTWBrmzqzO0mz+rLxN3yXkE4mqRcb8g8fHxzX4blEysrNZLqg5RbJLqX5buA==}
+  undici@7.10.0:
+    resolution: {integrity: sha512-u5otvFBOBZvmdjWLVW+5DAc9Nkq8f24g0O9oY7qw2JVIF1VocIFoyz9JFkuVOS2j41AufeO0xnlweJ2RLT8nGw==}
     engines: {node: '>=20.18.1'}
 
   unpipe@1.0.0:
@@ -405,15 +414,15 @@ packages:
 
 snapshots:
 
-  '@distube/ytdl-core@4.16.10':
+  '@distube/ytdl-core@4.16.12':
     dependencies:
-      http-cookie-agent: 7.0.1(tough-cookie@5.1.2)(undici@7.8.0)
+      http-cookie-agent: 7.0.1(tough-cookie@5.1.2)(undici@7.10.0)
       https-proxy-agent: 7.0.6
       m3u8stream: 0.8.6
       miniget: 4.2.3
       sax: 1.4.1
       tough-cookie: 5.1.2
-      undici: 7.8.0
+      undici: 7.10.0
     transitivePeerDependencies:
       - supports-color
 
@@ -485,6 +494,10 @@ snapshots:
   cookie@0.7.2: {}
 
   debug@4.4.0:
+    dependencies:
+      ms: 2.1.3
+
+  debug@4.4.1:
     dependencies:
       ms: 2.1.3
 
@@ -593,12 +606,12 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  http-cookie-agent@7.0.1(tough-cookie@5.1.2)(undici@7.8.0):
+  http-cookie-agent@7.0.1(tough-cookie@5.1.2)(undici@7.10.0):
     dependencies:
       agent-base: 7.1.3
       tough-cookie: 5.1.2
     optionalDependencies:
-      undici: 7.8.0
+      undici: 7.10.0
 
   http-errors@2.0.0:
     dependencies:
@@ -611,7 +624,7 @@ snapshots:
   https-proxy-agent@7.0.6:
     dependencies:
       agent-base: 7.1.3
-      debug: 4.4.0
+      debug: 4.4.1
     transitivePeerDependencies:
       - supports-color
 
@@ -789,7 +802,7 @@ snapshots:
     dependencies:
       '@fastify/busboy': 2.1.1
 
-  undici@7.8.0: {}
+  undici@7.10.0: {}
 
   unpipe@1.0.0: {}
 
