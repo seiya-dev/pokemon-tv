@@ -5,10 +5,10 @@ import path from 'path';
 
 // config
 const type_str = 'series';
-const selected = 'season04';
+const selected = 'season05';
 const cat_id = 1.1;
 const cat_name = 'series';
-const sort_order = -4000;
+const sort_order = -5000;
 
 // consts
 const playLists = {
@@ -16,6 +16,7 @@ const playLists = {
     season02: 'PLRcHmntfmJ8AtnKq7EHNIQBUNTs85bqwS',
     season03: 'PLRcHmntfmJ8DB8wgMrUZwf3JGkLM17yeL',
     season04: 'PLRcHmntfmJ8A7vV0RYnAu0farLTV_T1i2',
+    season05: 'PLRcHmntfmJ8BNWmL3MICuc1Oh5Mxf2qEh',
 };
 
 const dashborders = {
@@ -23,6 +24,7 @@ const dashborders = {
     season02: 'https://qu.ax/bRQrA.jpg',
     season03: 'https://qu.ax/Zvdsq.jpg',
     season04: 'https://qu.ax/hVrUt.jpg',
+    season05: 'https://qu.ax/DhMzm.jpg',
 }
 
 // parser
