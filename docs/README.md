@@ -1,5 +1,6 @@
 I felt a lack of new episodes to the client compared to the YouTube channel, so here I go trying to get it up to date!
 
+I'll do 2 episodes a series, 2 series a day (not guaranteed everyday).
 # Checklist
 ## Series
 - - [ ] Season 5
