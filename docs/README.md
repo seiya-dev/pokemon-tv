@@ -1,5 +1,33 @@
 I felt a lack of new episodes to the client compared to the YouTube channel, so here I go trying to get it up to date!
 
+# Checklist
+## Series
+- - [ ] Season 5
+- - [ ] Season 6
+- - [ ] Season 7
+### Junior (same JSON type)
+-  -  - [ ] Nursery Rhymes
+      - - [ ] Already included
+      - - [ ] Up to December 2025
+-  -  - [ ] Pokémon Fun
+      - - [ ] Already included
+      - - [ ] Up to December 2025
+-  -  - [ ] Sing-a-long Songs
+      - - [ ] Already included
+      - - [ ] Up to December 2025
+-  -  - [ ] Sleepy Time
+      - - [ ] Already included
+      - - [ ] Up to December 2025
+## Specials
+- - [ ] Pokémon GENERATIONS
+  - [ ] Pokémon ORIGINS
+  - [ ] Pokémon Twilight Wings
+  - [ ] Pokémon Evolutions
+  - [ ] Bidoof's Big Stand
+  - [ ] Pokémon Hisuian Snow
+  - [ ] POKÉTOON
+  - [ ] Path to the Peak
+
 Original from [Seiya Dev.](https://github.com/seiya-dev/)
 
 # Original description
