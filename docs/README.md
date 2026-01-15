@@ -7,16 +7,16 @@ I'll do 2 episodes a series, 2 series a day (not guaranteed everyday).
 - - [ ] Season 6
 - - [ ] Season 7
 ### Junior (same JSON type)
--  -  - [ ] Nursery Rhymes
+-  - [ ] Nursery Rhymes
+      - - [X] Already included
+      - - [ ] Up to December 2025
+ -  - [ ] Pokémon Fun
       - - [ ] Already included
       - - [ ] Up to December 2025
--  -  - [ ] Pokémon Fun
+ -  - [ ] Sing-a-long Songs
       - - [ ] Already included
       - - [ ] Up to December 2025
--  -  - [ ] Sing-a-long Songs
-      - - [ ] Already included
-      - - [ ] Up to December 2025
--  -  - [ ] Sleepy Time
+ -  - [ ] Sleepy Time
       - - [ ] Already included
       - - [ ] Up to December 2025
 ## Specials
