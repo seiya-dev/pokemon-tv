@@ -5,10 +5,10 @@ import path from 'path';
 
 // config
 const type_str = 'series';
-const selected = 'season05';
+const selected = 'season07';
 const cat_id = 1.1;
 const cat_name = 'series';
-const sort_order = -5000;
+const sort_order = -7000;
 
 // consts
 const playLists = {
@@ -17,14 +17,18 @@ const playLists = {
     season03: 'PLRcHmntfmJ8DB8wgMrUZwf3JGkLM17yeL',
     season04: 'PLRcHmntfmJ8A7vV0RYnAu0farLTV_T1i2',
     season05: 'PLRcHmntfmJ8BNWmL3MICuc1Oh5Mxf2qEh',
+    season06: 'PLRcHmntfmJ8AYULKvzhleQPgPRinNDpc0',
+    season07: 'PLRcHmntfmJ8BWeT4kzalbhx1r43bJv7pI',
 };
 
 const dashborders = {
-    season01: 'https://qu.ax/fptgq.jpg',
-    season02: 'https://qu.ax/bRQrA.jpg',
-    season03: 'https://qu.ax/Zvdsq.jpg',
-    season04: 'https://qu.ax/hVrUt.jpg',
-    season05: 'https://qu.ax/DhMzm.jpg',
+    season01: '/img/channel/season01-1125x1500-en.jpg',
+    season02: '/img/channel/season02-1125x1500-en.jpg',
+    season03: '/img/channel/season03-1125x1500-en.jpg',
+    season04: '/img/channel/season04-1125x1500-en.jpg',
+    season05: '/img/channel/season05-1125x1500-en.jpg',
+    season06: '/img/channel/season06-1125x1500-en.jpg',
+    season07: '/img/channel/season07-1125x1500-en.jpg',
 }
 
 // parser
