@@ -1,5 +1,5 @@
 {
-    "installCommand": "pnpm install",
+    "installCommand": "pnpm install --no-frozen-lockfile",
     "buildCommand": "node ./app/build.mjs",
     "outputDirectory": "web",
     "rewrites": [
