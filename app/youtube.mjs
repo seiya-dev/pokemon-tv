@@ -4,10 +4,10 @@ import fs from 'node:fs';
 import path from 'path';
 
 // config
-const type_str = 'series';
-const selected = 'season07';
-const cat_id = 1.1;
-const cat_name = 'series';
+const type_str   = 'series';
+const selected   = 'season07';
+const cat_id     = 1.1;
+const cat_name   = 'series';
 const sort_order = -7000;
 
 // consts
