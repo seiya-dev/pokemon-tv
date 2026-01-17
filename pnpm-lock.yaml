@@ -5,6 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
+  undici@<6.23.0: '>=6.23.0'
   undici@>=7.0.0 <7.18.2: '>=7.18.2'
 
 importers:
@@ -33,10 +34,6 @@ packages:
   '@distube/ytpl@1.2.3':
     resolution: {integrity: sha512-DZn1JcOwww9FX0Hz2rJKiZvrTWw9Un4JWO8KJSvymoaNZ3YTDqV8pmSfz+t6R/xDhg4xQdH2GqltExxJW/tgHw==}
     engines: {node: '>=8'}
-
-  '@fastify/busboy@2.1.1':
-    resolution: {integrity: sha512-vBZP4NlzfOlerQTnba4aqZoMhE/a9HY7HRqoOPaETQcSQuWEIyZMHGfVu6w9wGtGK5fED5qRs2DteVCjOH60sA==}
-    engines: {node: '>=14'}
 
   accepts@2.0.0:
     resolution: {integrity: sha512-5cvg6CtKwfgdmVqY1WIiXKc3Q1bkRqGLi+2W/6ao+6Y7gu/RCwRuAhGEzh5B4KlszSuTLgZYuqFqo5bImjNKng==}
@@ -356,10 +353,6 @@ packages:
     resolution: {integrity: sha512-OZs6gsjF4vMp32qrCbiVSkrFmXtG/AZhY3t0iAMrMBiAZyV9oALtXO8hsrHbMXF9x6L3grlFuwW2oAz7cav+Gw==}
     engines: {node: '>= 0.6'}
 
-  undici@5.29.0:
-    resolution: {integrity: sha512-raqeBD6NQK4SkWhQzeYKd1KmIG6dllBOTt55Rmkt4HtI9mwdWtJljnrXjAFUBLTSN67HWrOIZ3EPF4kjUw80Bg==}
-    engines: {node: '>=14.0'}
-
   undici@7.18.2:
     resolution: {integrity: sha512-y+8YjDFzWdQlSE9N5nzKMT3g4a5UBX1HKowfdXh0uvAnTaqqwqB92Jt4UXBAeKekDs5IaDKyJFR4X1gYVCgXcw==}
     engines: {node: '>=20.18.1'}
@@ -407,9 +400,7 @@ snapshots:
 
   '@distube/ytpl@1.2.3':
     dependencies:
-      undici: 5.29.0
-
-  '@fastify/busboy@2.1.1': {}
+      undici: 7.18.2
 
   accepts@2.0.0:
     dependencies:
@@ -759,10 +750,6 @@ snapshots:
       content-type: 1.0.5
       media-typer: 1.1.0
       mime-types: 3.0.2
-
-  undici@5.29.0:
-    dependencies:
-      '@fastify/busboy': 2.1.1
 
   undici@7.18.2: {}
 
