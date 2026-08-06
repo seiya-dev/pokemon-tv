@@ -1,14 +1,14 @@
 import ytdl from '@distube/ytdl-core';
-import ytpl from '@distube/ytpl';
+import ytpl from '../../ytpl/lib/main.js';
 import fs from 'node:fs';
 import path from 'path';
 
 // config
 const type_str   = 'series';
-const selected   = 'season07';
+const selected   = 'season10';
 const cat_id     = 1.1;
 const cat_name   = 'series';
-const sort_order = -7000;
+const sort_order = -10000;
 
 // consts
 const playLists = {
@@ -19,6 +19,9 @@ const playLists = {
     season05: 'PLRcHmntfmJ8BNWmL3MICuc1Oh5Mxf2qEh',
     season06: 'PLRcHmntfmJ8AYULKvzhleQPgPRinNDpc0',
     season07: 'PLRcHmntfmJ8BWeT4kzalbhx1r43bJv7pI',
+    season08: 'PLRcHmntfmJ8BdccTC3w86qIBdUjNDfPGV',
+    season09: 'PLRcHmntfmJ8DzeYoWwk7RsAbl2w-sg0zR',
+    season10: 'PLJCkfNkMHldU',
 };
 
 const dashborders = {
@@ -29,6 +32,9 @@ const dashborders = {
     season05: '/img/channel/season05-1125x1500-en.jpg',
     season06: '/img/channel/season06-1125x1500-en.jpg',
     season07: '/img/channel/season07-1125x1500-en.jpg',
+    season08: '/img/channel/season08-1125x1500-en.jpg',
+    season09: '/img/channel/season09-1125x1500-en.jpg',
+    season10: '/img/channel/season10-1125x1500-en.jpg',
 }
 
 // parser
@@ -53,6 +59,9 @@ for(const v of pl.items){
     const vd = vdFull.player_response.videoDetails;
     
     vd.title = vd.title.replace(' l ', ' | ');
+    if(!vd.title.match(/ \| POKÉMON FULL EPISODE /)){
+        vd.title = vd.title.replace(' POKÉMON FULL EPISODE ', ' |  POKÉMON FULL EPISODE ');
+    }
     
     if(!vd.title.match(/FULL EPISODE/i)){
         console.log('Video Skipped:', vd.title);
