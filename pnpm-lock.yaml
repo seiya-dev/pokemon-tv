@@ -366,8 +366,8 @@ packages:
     resolution: {integrity: sha512-faYHw0anBbc/kWF3zFTEnxSFOAGUX9GFbOBthvDdLsIlEoWOFOtS0zgCiQYwIskL9iGXZL3kAXD8OoZ4GmMATA==}
     engines: {node: '>= 18'}
 
-  undici@8.10.0:
-    resolution: {integrity: sha512-HvltHd7avK13QIw/oLe4qoOLyoVSoafqJ2jYOrtMRBkbYT31eiBQ8O0ehRKZiEZCMEyLFQNIADpgCWC5fALvYQ==}
+  undici@8.11.2:
+    resolution: {integrity: sha512-u4UB2/IrKdU6lFxumHmmo1a3fCQO5tzQllRorfoRS63txhrB7xTpSn1PftwC4qEHkOaqP95fCWW4lJzwErwzhQ==}
     engines: {node: '>=22.19.0'}
 
   unpipe@1.0.0:
@@ -401,19 +401,19 @@ snapshots:
 
   '@distube/ytdl-core@4.16.12':
     dependencies:
-      http-cookie-agent: 7.0.4(tough-cookie@5.1.2)(undici@8.10.0)
+      http-cookie-agent: 7.0.4(tough-cookie@5.1.2)(undici@8.11.2)
       https-proxy-agent: 7.0.6
       m3u8stream: 0.8.6
       miniget: 4.2.3
       sax: 1.6.1
       tough-cookie: 5.1.2
-      undici: 8.10.0
+      undici: 8.11.2
     transitivePeerDependencies:
       - supports-color
 
   '@distube/ytpl@1.2.4':
     dependencies:
-      undici: 8.10.0
+      undici: 8.11.2
 
   accepts@2.0.0:
     dependencies:
@@ -582,12 +582,12 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  http-cookie-agent@7.0.4(tough-cookie@5.1.2)(undici@8.10.0):
+  http-cookie-agent@7.0.4(tough-cookie@5.1.2)(undici@8.11.2):
     dependencies:
       agent-base: 9.0.0
       tough-cookie: 5.1.2
     optionalDependencies:
-      undici: 8.10.0
+      undici: 8.11.2
 
   http-errors@2.0.1:
     dependencies:
@@ -774,7 +774,7 @@ snapshots:
       media-typer: 1.1.1
       mime-types: 3.0.2
 
-  undici@8.10.0: {}
+  undici@8.11.2: {}
 
   unpipe@1.0.0: {}
 
