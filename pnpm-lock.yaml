@@ -30,10 +30,12 @@ packages:
   '@distube/ytdl-core@4.16.12':
     resolution: {integrity: sha512-/NR8Jur1Q4E2oD+DJta7uwWu7SkqdEkhwERt7f4iune70zg7ZlLLTOHs1+jgg3uD2jQjpdk7RGC16FqstG4RsA==}
     engines: {node: '>=20.18.1'}
+    deprecated: Upgrade to @distube/ytdl-core@latest
 
   '@distube/ytpl@1.2.4':
     resolution: {integrity: sha512-jUHLapBX8tW+8DoUR7mFdYgeKjLFyJXzI662BfcYL4npD7tnxFLWB1w8m1R4GAhxqDufQOgP9IZgPsRwGo9Lfw==}
     engines: {node: '>=18'}
+    deprecated: 'Unmaintained. Use Ytdl#getPlaylist from @distube/ytdl-core 5: https://github.com/distubejs/ytdl-core/blob/main/docs/guides/playlists.md'
 
   accepts@2.0.0:
     resolution: {integrity: sha512-5cvg6CtKwfgdmVqY1WIiXKc3Q1bkRqGLi+2W/6ao+6Y7gu/RCwRuAhGEzh5B4KlszSuTLgZYuqFqo5bImjNKng==}
@@ -366,8 +368,8 @@ packages:
     resolution: {integrity: sha512-faYHw0anBbc/kWF3zFTEnxSFOAGUX9GFbOBthvDdLsIlEoWOFOtS0zgCiQYwIskL9iGXZL3kAXD8OoZ4GmMATA==}
     engines: {node: '>= 18'}
 
-  undici@8.11.2:
-    resolution: {integrity: sha512-u4UB2/IrKdU6lFxumHmmo1a3fCQO5tzQllRorfoRS63txhrB7xTpSn1PftwC4qEHkOaqP95fCWW4lJzwErwzhQ==}
+  undici@8.12.3:
+    resolution: {integrity: sha512-+fdndUTwBP86cVjihTp21hZHo7d6oj1c/47XPA3lL8mM0XHs+C4EkcjmgRsFnFk2f/UONGDy9ItBItmXsLOQHw==}
     engines: {node: '>=22.19.0'}
 
   unpipe@1.0.0:
@@ -401,19 +403,19 @@ snapshots:
 
   '@distube/ytdl-core@4.16.12':
     dependencies:
-      http-cookie-agent: 7.0.4(tough-cookie@5.1.2)(undici@8.11.2)
+      http-cookie-agent: 7.0.4(tough-cookie@5.1.2)(undici@8.12.3)
       https-proxy-agent: 7.0.6
       m3u8stream: 0.8.6
       miniget: 4.2.3
       sax: 1.6.1
       tough-cookie: 5.1.2
-      undici: 8.11.2
+      undici: 8.12.3
     transitivePeerDependencies:
       - supports-color
 
   '@distube/ytpl@1.2.4':
     dependencies:
-      undici: 8.11.2
+      undici: 8.12.3
 
   accepts@2.0.0:
     dependencies:
@@ -582,12 +584,12 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  http-cookie-agent@7.0.4(tough-cookie@5.1.2)(undici@8.11.2):
+  http-cookie-agent@7.0.4(tough-cookie@5.1.2)(undici@8.12.3):
     dependencies:
       agent-base: 9.0.0
       tough-cookie: 5.1.2
     optionalDependencies:
-      undici: 8.11.2
+      undici: 8.12.3
 
   http-errors@2.0.1:
     dependencies:
@@ -774,7 +776,7 @@ snapshots:
       media-typer: 1.1.1
       mime-types: 3.0.2
 
-  undici@8.11.2: {}
+  undici@8.12.3: {}
 
   unpipe@1.0.0: {}
 
