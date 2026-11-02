@@ -1,5 +1,4 @@
-import ytdl from '@distube/ytdl-core';
-import ytpl from '../../ytpl/lib/main.js';
+import { Ytdl } from '@distube/ytdl-core';
 import fs from 'node:fs';
 import path from 'path';
 
@@ -38,7 +37,9 @@ const dashborders = {
 }
 
 // parser
-const pl = await ytpl(playLists[selected], {limit: Infinity});
+const yt = new Ytdl();
+
+const pl = await yt.getPlaylist(playLists[selected], {limit: 1000});
 
 const tvDump = {};
 tvDump.id = selected;
@@ -46,17 +47,18 @@ tvDump.title = pl.title.replace(/\(Season \d+\)$/i, '').trim();
 tvDump.description = pl.description || '';
 tvDump.images = { 
     dashboard: dashborders[selected],
-    spotlight: `https://i.ytimg.com/vi/${pl.items[0].id}/maxresdefault.jpg`,
+    spotlight: `https://i.ytimg.com/vi/${pl.videos[0].id}/maxresdefault.jpg`,
 };
 tvDump.category_id = cat_id;
 tvDump.category = cat_name;
 tvDump.order = sort_order;
 tvDump.media = [];
 
-for(const v of pl.items){
+for(const v of pl.videos){
     const vj = {};
-    const vdFull = await ytdl.getBasicInfo(v.id);
-    const vd = vdFull.player_response.videoDetails;
+    
+    const vdFull = await yt.getInfo(v.id);
+    const vd = vdFull.videoDetails;
     
     vd.title = vd.title.replace(' l ', ' | ');
     if(!vd.title.match(/ \| POKÉMON FULL EPISODE /)){
@@ -75,13 +77,13 @@ for(const v of pl.items){
     vj.season = snnum;
     vj.episode = epnum;
     vj.title = vd.title.split('|')[0].trim();
-    vj.description = vd.shortDescription.split('\n\n')[0];
+    vj.description = vd.description.split('\n\n')[0];
     vj.images = {
-        large: `https://i.ytimg.com/vi/${vd.videoId}/maxresdefault.jpg`,
-        medium: `https://i.ytimg.com/vi/${vd.videoId}/hqdefault.jpg`
+        large: `https://i.ytimg.com/vi/${vd.id}/maxresdefault.jpg`,
+        medium: `https://i.ytimg.com/vi/${vd.id}/hqdefault.jpg`
     };
     vj.poketv_url = '';
-    vj.embed_url = `https://www.youtube.com/embed/${vd.videoId}`;
+    vj.embed_url = `https://www.youtube.com/embed/${vd.id}`;
     
     console.log(`GOT ${vj.id}`);
     tvDump.media.push(vj);
